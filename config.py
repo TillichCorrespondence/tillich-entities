@@ -1,7 +1,7 @@
 import os
 from acdh_baserow_pyutils import BaseRowClient
 
-
+PROJECT_TITLE = "Tillich Edition"
 BASEROW_DB_ID = 469
 BASEROW_URL = "https://baserow.acdh-dev.oeaw.ac.at/api/"
 BASEROW_USER = os.environ.get("BASEROW_USER")
