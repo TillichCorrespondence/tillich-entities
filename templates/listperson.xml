@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paul-Tillich-Korrespondenz: Personenregister</title>
+         </titleStmt>
+          <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_persons">
+            <listPerson xml:id="listperson">
+            {% for x in objects %}
+               <person xml:id="{{ x.tillich_id }}">
+                  <persName>{{ x.name }}</persName>
+                  {% if x.birth_year %}
+                  <birth><date>{{ x.birth_year }}</date></birth>
+                  {% endif %}
+                  {% if x.birth_year %}
+                  <death><date>{{ x.death_year }}</date></death>
+                  {% endif %}
+                  {% if x.occupation %}
+                  <occupation>{{ x.occupation }}</occupation>
+                  {% endif %}
+                  {% if x.gnd_url %}
+                  <idno type="gnd">{{ x.gnd_url }}</idno>
+                  {% endif %}
+                  {% if x.bio %}
+                  <note type="bio"><p>{{ x.bio }}</p></note>
+                  {% endif %}
+               </person>
+            {% endfor %}
+            </listPerson>
+         </div>
+      </body>
+   </text>
+</TEI>

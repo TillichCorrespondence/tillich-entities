@@ -11,18 +11,14 @@ doc = TeiReader(
 )
 nsmap = doc.nsmap
 
-update_objects = {
-    "items": []
-}
+update_objects = {"items": []}
 for x in tqdm(doc.any_xpath(".//tei:person")):
     xml_id = x.attrib["{http://www.w3.org/XML/1998/namespace}id"]
     baserow_id = xml_id.split("__")[-1]
-    item = {
-        "id": baserow_id
-    }
+    item = {"id": baserow_id}
     try:
         node = x.xpath("./tei:note[@type='bio']", namespaces=nsmap)[0]
-        item["bio"] = " ".join(''.join(node.itertext()).split())
+        item["bio"] = " ".join("".join(node.itertext()).split())
     except IndexError:
         item["bio"] = ""
     update_objects["items"].append(item)
