@@ -451,6 +451,27 @@
                <place xml:id="tillich_place_id__171">
                   <placeName>Leoben</placeName>
                </place>
+               <place xml:id="tillich_place_id__172">
+                  <placeName>Karlsbad</placeName>
+               </place>
+               <place xml:id="tillich_place_id__173">
+                  <placeName>Krakau</placeName>
+               </place>
+               <place xml:id="tillich_place_id__174">
+                  <placeName>Kopenhagen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__175">
+                  <placeName>Chicago, Illinois</placeName>
+               </place>
+               <place xml:id="tillich_place_id__176">
+                  <placeName>Berlin-Ost</placeName>
+               </place>
+               <place xml:id="tillich_place_id__177">
+                  <placeName>Frankfurt am Main</placeName>
+               </place>
+               <place xml:id="tillich_place_id__178">
+                  <placeName>Köln</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

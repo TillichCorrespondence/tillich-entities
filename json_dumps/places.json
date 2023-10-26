@@ -1013,5 +1013,54 @@
     "name": "Leoben",
     "wikidata_id": null,
     "tillich_id": "tillich_place_id__171"
+  },
+  "172": {
+    "id": 172,
+    "order": "149.00000000000000000000",
+    "name": "Karlsbad",
+    "wikidata_id": null,
+    "tillich_id": "tillich_place_id__172"
+  },
+  "173": {
+    "id": 173,
+    "order": "150.00000000000000000000",
+    "name": "Krakau",
+    "wikidata_id": null,
+    "tillich_id": "tillich_place_id__173"
+  },
+  "174": {
+    "id": 174,
+    "order": "151.00000000000000000000",
+    "name": "Kopenhagen",
+    "wikidata_id": null,
+    "tillich_id": "tillich_place_id__174"
+  },
+  "175": {
+    "id": 175,
+    "order": "152.00000000000000000000",
+    "name": "Chicago, Illinois",
+    "wikidata_id": null,
+    "tillich_id": "tillich_place_id__175"
+  },
+  "176": {
+    "id": 176,
+    "order": "153.00000000000000000000",
+    "name": "Berlin-Ost",
+    "wikidata_id": null,
+    "tillich_id": "tillich_place_id__176"
+  },
+  "177": {
+    "id": 177,
+    "order": "154.00000000000000000000",
+    "name": "Frankfurt am Main",
+    "wikidata_id": null,
+    "tillich_id": "tillich_place_id__177"
+  },
+  "178": {
+    "id": 178,
+    "order": "155.00000000000000000000",
+    "name": "Köln",
+    "wikidata_id": null,
+    "tillich_id": "tillich_place_id__178"
   }
 }
