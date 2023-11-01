@@ -38713,5 +38713,20 @@
     "tillich_id": "tillich_person_id__2581",
     "date_of_birth": null,
     "date_of_death": null
+  },
+  "2582": {
+    "id": 2582,
+    "order": "2582.00000000000000000000",
+    "name": "",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2582",
+    "date_of_birth": null,
+    "date_of_death": null
   }
 }

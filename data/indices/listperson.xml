@@ -9457,6 +9457,9 @@
                <person xml:id="tillich_person_id__2581">
                   <persName>Steinbach</persName>
                </person>
+               <person xml:id="tillich_person_id__2582">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>
