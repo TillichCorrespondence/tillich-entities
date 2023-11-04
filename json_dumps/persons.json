@@ -38728,5 +38728,35 @@
     "tillich_id": "tillich_person_id__2582",
     "date_of_birth": null,
     "date_of_death": null
+  },
+  "2583": {
+    "id": 2583,
+    "order": "2583.00000000000000000000",
+    "name": "",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2583",
+    "date_of_birth": null,
+    "date_of_death": null
+  },
+  "2584": {
+    "id": 2584,
+    "order": "2584.00000000000000000000",
+    "name": "",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2584",
+    "date_of_birth": null,
+    "date_of_death": null
   }
 }
