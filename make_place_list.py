@@ -22,6 +22,7 @@ for x in glob.glob("../TillichEdition/data/*.xml"):
     for p in doc.any_xpath(".//tei:placeName[@ref]/@ref"):
         items.append(p)
 
+print(len(set(items)))
 for x in glob.glob("../TillichEdition/Data_unrefined/*.xml"):
     try:
         doc = TeiReader(x)
@@ -29,8 +30,12 @@ for x in glob.glob("../TillichEdition/Data_unrefined/*.xml"):
         faulty.append([x, e])
     for p in doc.any_xpath(".//tei:placeName[@ref]/@ref"):
         items.append(p)
-print(len(items))
+    for p in doc.any_xpath(".//tei:settlement[@ref]/@ref"):
+        items.append(p)
+    for p in doc.any_xpath(".//tei:pubPlace[@ref]/@ref"):
+        items.append(p)
 print(len(set(items)))
+
 print(faulty)
 
 data = []
