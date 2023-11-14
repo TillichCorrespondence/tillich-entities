@@ -2421,6 +2421,7 @@
                </person>
                <person xml:id="tillich_person_id__688">
                   <persName>Goesch, Heinrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
                </person>
                <person xml:id="tillich_person_id__689">
                   <persName>Goeters, Johann Friedrich Gerhard</persName>
@@ -5536,6 +5537,7 @@
                <person xml:id="tillich_person_id__1610">
                   <persName>Riezler, Kurt</persName>
                   <occupation>Diplomat und Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
                   <note type="bio"><p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p></note>
                </person>
                <person xml:id="tillich_person_id__1611">
@@ -6027,6 +6029,7 @@
                </person>
                <person xml:id="tillich_person_id__1755">
                   <persName>Schwegler, Albert</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119088967</idno>
                </person>
                <person xml:id="tillich_person_id__1756">
                   <persName>Schweitzer, Carl Gunther</persName>
@@ -6294,6 +6297,7 @@
                <person xml:id="tillich_person_id__1829">
                   <persName>Spiegelberg, Friedrich</persName>
                   <occupation>Religionswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
                   <note type="bio"><p>Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
                </person>
                <person xml:id="tillich_person_id__1830">
@@ -9461,10 +9465,45 @@
                   <persName>Eisfeldt</persName>
                </person>
                <person xml:id="tillich_person_id__2583">
-                  <persName/>
+                  <persName>Linsa</persName>
+                  <occupation>Maler</occupation>
                </person>
                <person xml:id="tillich_person_id__2584">
-                  <persName/>
+                  <persName>Marcoussis, Louis</persName>
+                  <occupation>Maler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119238136</idno>
+               </person>
+               <person xml:id="tillich_person_id__2585">
+                  <persName>Werner, Roland</persName>
+                  <note type="bio"><p>Ältester Bruder von Hannah Tillich. Diente im Zweiten Weltkrieg als Hauptmann bei der Luftwaffe wurde, verhungerte jedoch später.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2586">
+                  <persName>Lisel</persName>
+                  <occupation>Krankenschwester</occupation>
+                  <note type="bio"><p>Jüngere Schwester von Hannah Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2587">
+                  <persName>Werner, Hellmuth</persName>
+                  <note type="bio"><p>Jüngerer Bruder Hannah Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2588">
+                  <persName>Werner, Walter</persName>
+                  <note type="bio"><p>Jüngerer Bruder Hannah Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2589">
+                  <persName>Veronika</persName>
+               </person>
+               <person xml:id="tillich_person_id__2590">
+                  <persName>Kara</persName>
+               </person>
+               <person xml:id="tillich_person_id__2592">
+                  <persName>Rade, Paul Martin</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118597612</idno>
+               </person>
+               <person xml:id="tillich_person_id__2594">
+                  <persName>Korreferent</persName>
+                  <note type="bio"><p>Korreferent bei der Begutachtung der Habilitationsschrift von Paul Tillich.</p></note>
                </person>
             </listPerson>
          </div>

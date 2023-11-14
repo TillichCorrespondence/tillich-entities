@@ -16,7 +16,7 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "???",
+    "name": "Unbekannter Ort",
     "tillich_id": "tillich_place_id__3",
     "geonames_url": ""
   },
@@ -25,7 +25,7 @@
     "order": "4.00000000000000000000",
     "name": "Aachen",
     "tillich_id": "tillich_place_id__4",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/3247449/aachen.html"
   },
   "5": {
     "id": 5,
@@ -81,7 +81,7 @@
     "order": "12.00000000000000000000",
     "name": "Amsterdam",
     "tillich_id": "tillich_place_id__12",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2759794/amsterdam.html"
   },
   "13": {
     "id": 13,
@@ -214,21 +214,21 @@
     "order": "31.00000000000000000000",
     "name": "Basel",
     "tillich_id": "tillich_place_id__31",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2661604/basel.html"
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
     "name": "Bayern",
     "tillich_id": "tillich_place_id__32",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2951839/bavaria.html"
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
     "name": "Belgien",
     "tillich_id": "tillich_place_id__33",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2802361"
   },
   "34": {
     "id": 34,
@@ -284,7 +284,7 @@
     "order": "41.00000000000000000000",
     "name": "Berlin-Lichtenrade",
     "tillich_id": "tillich_place_id__41",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2878044/"
   },
   "42": {
     "id": 42,
@@ -363,25 +363,25 @@
     "tillich_id": "tillich_place_id__52",
     "geonames_url": ""
   },
-  "53": {
-    "id": 53,
-    "order": "53.00000000000000000000",
-    "name": "Berlin/Boston",
-    "tillich_id": "tillich_place_id__53",
-    "geonames_url": ""
-  },
-  "54": {
-    "id": 54,
-    "order": "54.00000000000000000000",
-    "name": "Berlin/Friedenau",
-    "tillich_id": "tillich_place_id__54",
-    "geonames_url": ""
-  },
   "55": {
     "id": 55,
     "order": "55.00000000000000000000",
     "name": "Bern",
     "tillich_id": "tillich_place_id__55",
+    "geonames_url": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "55.33333333333333570181",
+    "name": "",
+    "tillich_id": "tillich_place_id__53",
+    "geonames_url": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "55.50000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__54",
     "geonames_url": ""
   },
   "56": {
@@ -403,12 +403,12 @@
     "order": "58.00000000000000000000",
     "name": "Bethel",
     "tillich_id": "tillich_place_id__58",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2949766/"
   },
   "59": {
     "id": 59,
     "order": "59.00000000000000000000",
-    "name": "Bethel bei Bielefeld",
+    "name": "",
     "tillich_id": "tillich_place_id__59",
     "geonames_url": ""
   },
@@ -417,19 +417,19 @@
     "order": "60.00000000000000000000",
     "name": "Bielefeld",
     "tillich_id": "tillich_place_id__60",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2949188/"
   },
   "61": {
     "id": 61,
     "order": "61.00000000000000000000",
     "name": "Bieuxy",
     "tillich_id": "tillich_place_id__61",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/6446494/"
   },
   "62": {
     "id": 62,
     "order": "62.00000000000000000000",
-    "name": "Bieuxy (Aisne)",
+    "name": "",
     "tillich_id": "tillich_place_id__62",
     "geonames_url": ""
   },
@@ -473,12 +473,12 @@
     "order": "68.00000000000000000000",
     "name": "Bonn",
     "tillich_id": "tillich_place_id__68",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2946447/"
   },
   "69": {
     "id": 69,
     "order": "69.00000000000000000000",
-    "name": "Bonn/Rhein",
+    "name": "",
     "tillich_id": "tillich_place_id__69",
     "geonames_url": ""
   },
@@ -492,7 +492,7 @@
   "71": {
     "id": 71,
     "order": "71.00000000000000000000",
-    "name": "Boston, Massachusetts",
+    "name": "",
     "tillich_id": "tillich_place_id__71",
     "geonames_url": ""
   },
@@ -569,35 +569,35 @@
   "82": {
     "id": 82,
     "order": "82.00000000000000000000",
-    "name": "Cambrdige",
+    "name": "Cambridge, MA",
     "tillich_id": "tillich_place_id__82",
     "geonames_url": ""
   },
   "83": {
     "id": 83,
     "order": "83.00000000000000000000",
-    "name": "Cambrdige, MA",
+    "name": "",
     "tillich_id": "tillich_place_id__83",
     "geonames_url": ""
   },
   "84": {
     "id": 84,
     "order": "84.00000000000000000000",
-    "name": "Cambridge",
+    "name": "",
     "tillich_id": "tillich_place_id__84",
     "geonames_url": ""
   },
   "85": {
     "id": 85,
     "order": "85.00000000000000000000",
-    "name": "Cambridge, MA",
+    "name": "",
     "tillich_id": "tillich_place_id__85",
     "geonames_url": ""
   },
   "86": {
     "id": 86,
     "order": "86.00000000000000000000",
-    "name": "Cambrigde, MA",
+    "name": "",
     "tillich_id": "tillich_place_id__86",
     "geonames_url": ""
   },
@@ -632,14 +632,14 @@
   "91": {
     "id": 91,
     "order": "91.00000000000000000000",
-    "name": "Champs",
+    "name": "Champs02670",
     "tillich_id": "tillich_place_id__91",
     "geonames_url": ""
   },
   "92": {
     "id": 92,
     "order": "92.00000000000000000000",
-    "name": "Champs02670",
+    "name": "",
     "tillich_id": "tillich_place_id__92",
     "geonames_url": ""
   },
@@ -653,14 +653,14 @@
   "94": {
     "id": 94,
     "order": "94.00000000000000000000",
-    "name": "Charleville",
+    "name": "Charleville-Mézières",
     "tillich_id": "tillich_place_id__94",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/3026613/"
   },
   "95": {
     "id": 95,
     "order": "95.00000000000000000000",
-    "name": "Charleville-Mézières",
+    "name": "",
     "tillich_id": "tillich_place_id__95",
     "geonames_url": ""
   },
@@ -683,26 +683,26 @@
     "order": "98.00000000000000000000",
     "name": "Chauny",
     "tillich_id": "tillich_place_id__98",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/3025860/"
   },
   "99": {
     "id": 99,
     "order": "99.00000000000000000000",
-    "name": "Chauny (Aisne)",
+    "name": "",
     "tillich_id": "tillich_place_id__99",
     "geonames_url": ""
   },
   "100": {
     "id": 100,
     "order": "100.00000000000000000000",
-    "name": "Chavigny",
+    "name": "Chavigny02880",
     "tillich_id": "tillich_place_id__100",
     "geonames_url": ""
   },
   "101": {
     "id": 101,
     "order": "101.00000000000000000000",
-    "name": "Chavigny02880",
+    "name": "",
     "tillich_id": "tillich_place_id__101",
     "geonames_url": ""
   },
@@ -739,14 +739,14 @@
     "order": "106.00000000000000000000",
     "name": "Clausthal",
     "tillich_id": "tillich_place_id__106",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2939996/"
   },
   "107": {
     "id": 107,
     "order": "107.00000000000000000000",
     "name": "Clausthal-Zellerfeld",
     "tillich_id": "tillich_place_id__107",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2939995/"
   },
   "108": {
     "id": 108,
@@ -788,19 +788,19 @@
     "order": "113.00000000000000000000",
     "name": "Crécy-au-Mont",
     "tillich_id": "tillich_place_id__113",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/3022625/"
   },
   "114": {
     "id": 114,
     "order": "114.00000000000000000000",
-    "name": "Crécy-au-Mont (Aisne)",
+    "name": "",
     "tillich_id": "tillich_place_id__114",
     "geonames_url": ""
   },
   "115": {
     "id": 115,
     "order": "115.00000000000000000000",
-    "name": "Crécy-au-Mont02380",
+    "name": "",
     "tillich_id": "tillich_place_id__115",
     "geonames_url": ""
   },
@@ -856,7 +856,7 @@
   "123": {
     "id": 123,
     "order": "123.00000000000000000000",
-    "name": "Deutschlands",
+    "name": "",
     "tillich_id": "tillich_place_id__123",
     "geonames_url": ""
   },
@@ -886,7 +886,7 @@
     "order": "127.00000000000000000000",
     "name": "Dresden Neustadt",
     "tillich_id": "tillich_place_id__127",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/12500814/neustadt.html"
   },
   "128": {
     "id": 128,
@@ -912,7 +912,7 @@
   "131": {
     "id": 131,
     "order": "131.00000000000000000000",
-    "name": "Düsseldorg",
+    "name": "",
     "tillich_id": "tillich_place_id__131",
     "geonames_url": ""
   },
@@ -996,119 +996,119 @@
   "143": {
     "id": 143,
     "order": "143.00000000000000000000",
-    "name": "Frankfurt",
+    "name": "Frankfurt am Main",
     "tillich_id": "tillich_place_id__143",
     "geonames_url": ""
   },
   "144": {
     "id": 144,
     "order": "144.00000000000000000000",
-    "name": "Frankfurt (Main)-Niederrad",
+    "name": "Niederrad",
     "tillich_id": "tillich_place_id__144",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/7290401/"
   },
   "145": {
     "id": 145,
     "order": "145.00000000000000000000",
-    "name": "Frankfurt (Main-)Niederrad",
+    "name": "",
     "tillich_id": "tillich_place_id__145",
     "geonames_url": ""
   },
   "146": {
     "id": 146,
     "order": "146.00000000000000000000",
-    "name": "Frankfurt a. M.",
+    "name": "",
     "tillich_id": "tillich_place_id__146",
     "geonames_url": ""
   },
   "147": {
     "id": 147,
     "order": "147.00000000000000000000",
-    "name": "Frankfurt a. M.-Niederrad",
+    "name": "",
     "tillich_id": "tillich_place_id__147",
     "geonames_url": ""
   },
   "148": {
     "id": 148,
     "order": "148.00000000000000000000",
-    "name": "Frankfurt a. Main",
+    "name": "",
     "tillich_id": "tillich_place_id__148",
     "geonames_url": ""
   },
   "149": {
     "id": 149,
     "order": "149.00000000000000000000",
-    "name": "Frankfurt a. O.",
+    "name": "Frankfurt an der Oder",
     "tillich_id": "tillich_place_id__149",
     "geonames_url": ""
   },
   "150": {
     "id": 150,
     "order": "150.00000000000000000000",
-    "name": "Frankfurt a.M",
+    "name": "",
     "tillich_id": "tillich_place_id__150",
     "geonames_url": ""
   },
   "151": {
     "id": 151,
     "order": "151.00000000000000000000",
-    "name": "Frankfurt a.M.",
+    "name": "",
     "tillich_id": "tillich_place_id__151",
     "geonames_url": ""
   },
   "152": {
     "id": 152,
     "order": "152.00000000000000000000",
-    "name": "Frankfurt a.M.-Niederrad",
+    "name": "",
     "tillich_id": "tillich_place_id__152",
     "geonames_url": ""
   },
   "153": {
     "id": 153,
     "order": "153.00000000000000000000",
-    "name": "Frankfurt a.M./Niederrad",
+    "name": "",
     "tillich_id": "tillich_place_id__153",
     "geonames_url": ""
   },
   "154": {
     "id": 154,
     "order": "154.00000000000000000000",
-    "name": "Frankfurt a/M.",
+    "name": "",
     "tillich_id": "tillich_place_id__154",
     "geonames_url": ""
   },
   "155": {
     "id": 155,
     "order": "155.00000000000000000000",
-    "name": "Frankfurt am Main",
+    "name": "",
     "tillich_id": "tillich_place_id__155",
     "geonames_url": ""
   },
   "156": {
     "id": 156,
     "order": "156.00000000000000000000",
-    "name": "Frankfurt/M",
+    "name": "",
     "tillich_id": "tillich_place_id__156",
     "geonames_url": ""
   },
   "157": {
     "id": 157,
     "order": "157.00000000000000000000",
-    "name": "Frankfurt/Main",
+    "name": "",
     "tillich_id": "tillich_place_id__157",
     "geonames_url": ""
   },
   "158": {
     "id": 158,
     "order": "158.00000000000000000000",
-    "name": "Frankfurt/Main-Niederrad",
+    "name": "",
     "tillich_id": "tillich_place_id__158",
     "geonames_url": ""
   },
   "159": {
     "id": 159,
     "order": "159.00000000000000000000",
-    "name": "Frankfurt/Main/Niederrad",
+    "name": "",
     "tillich_id": "tillich_place_id__159",
     "geonames_url": ""
   },
@@ -1150,21 +1150,21 @@
   "165": {
     "id": 165,
     "order": "165.00000000000000000000",
-    "name": "Freiburg i. Br.",
+    "name": "",
     "tillich_id": "tillich_place_id__165",
     "geonames_url": ""
   },
   "166": {
     "id": 166,
     "order": "166.00000000000000000000",
-    "name": "Freiburg i.Br.",
+    "name": "",
     "tillich_id": "tillich_place_id__166",
     "geonames_url": ""
   },
   "167": {
     "id": 167,
     "order": "167.00000000000000000000",
-    "name": "Freiburg im Breisgau",
+    "name": "",
     "tillich_id": "tillich_place_id__167",
     "geonames_url": ""
   },
@@ -1178,7 +1178,7 @@
   "169": {
     "id": 169,
     "order": "169.00000000000000000000",
-    "name": "Friedenau",
+    "name": "",
     "tillich_id": "tillich_place_id__169",
     "geonames_url": ""
   },
@@ -1220,14 +1220,14 @@
   "175": {
     "id": 175,
     "order": "175.00000000000000000000",
-    "name": "Giessen",
+    "name": "Gießen",
     "tillich_id": "tillich_place_id__175",
     "geonames_url": ""
   },
   "176": {
     "id": 176,
     "order": "176.00000000000000000000",
-    "name": "Gießen",
+    "name": "",
     "tillich_id": "tillich_place_id__176",
     "geonames_url": ""
   },
@@ -1325,42 +1325,42 @@
   "190": {
     "id": 190,
     "order": "190.00000000000000000000",
-    "name": "Halle a. S.",
+    "name": "",
     "tillich_id": "tillich_place_id__190",
     "geonames_url": ""
   },
   "191": {
     "id": 191,
     "order": "191.00000000000000000000",
-    "name": "Halle a. d. S.",
+    "name": "",
     "tillich_id": "tillich_place_id__191",
     "geonames_url": ""
   },
   "192": {
     "id": 192,
     "order": "192.00000000000000000000",
-    "name": "Halle a. d. Saale",
+    "name": "",
     "tillich_id": "tillich_place_id__192",
     "geonames_url": ""
   },
   "193": {
     "id": 193,
     "order": "193.00000000000000000000",
-    "name": "Halle a.S.",
+    "name": "",
     "tillich_id": "tillich_place_id__193",
     "geonames_url": ""
   },
   "194": {
     "id": 194,
     "order": "194.00000000000000000000",
-    "name": "Halle a.d. Saale",
+    "name": "",
     "tillich_id": "tillich_place_id__194",
     "geonames_url": ""
   },
   "195": {
     "id": 195,
     "order": "195.00000000000000000000",
-    "name": "Halle an der Saale",
+    "name": "",
     "tillich_id": "tillich_place_id__195",
     "geonames_url": ""
   },
@@ -1374,7 +1374,7 @@
   "197": {
     "id": 197,
     "order": "197.00000000000000000000",
-    "name": "Halle/Saale",
+    "name": "",
     "tillich_id": "tillich_place_id__197",
     "geonames_url": ""
   },
@@ -1493,7 +1493,7 @@
   "214": {
     "id": 214,
     "order": "214.00000000000000000000",
-    "name": "Hohen-Neuendorf",
+    "name": "",
     "tillich_id": "tillich_place_id__214",
     "geonames_url": ""
   },
@@ -1549,7 +1549,7 @@
   "222": {
     "id": 222,
     "order": "222.00000000000000000000",
-    "name": "Jacobsdorf (Mark)",
+    "name": "",
     "tillich_id": "tillich_place_id__222",
     "geonames_url": ""
   },
@@ -1577,28 +1577,28 @@
   "226": {
     "id": 226,
     "order": "226.00000000000000000000",
-    "name": "Johanna Tillich",
+    "name": "",
     "tillich_id": "tillich_place_id__226",
     "geonames_url": ""
   },
   "227": {
     "id": 227,
     "order": "227.00000000000000000000",
-    "name": "Juvigny",
+    "name": "Juvigny (Aisne)",
     "tillich_id": "tillich_place_id__227",
     "geonames_url": ""
   },
   "228": {
     "id": 228,
     "order": "228.00000000000000000000",
-    "name": "Juvigny (Aisne)",
+    "name": "",
     "tillich_id": "tillich_place_id__228",
     "geonames_url": ""
   },
   "229": {
     "id": 229,
     "order": "229.00000000000000000000",
-    "name": "Juvigny, Aisne",
+    "name": "",
     "tillich_id": "tillich_place_id__229",
     "geonames_url": ""
   },
@@ -1612,14 +1612,14 @@
   "231": {
     "id": 231,
     "order": "231.00000000000000000000",
-    "name": "Kampen (Sylt)",
+    "name": "",
     "tillich_id": "tillich_place_id__231",
     "geonames_url": ""
   },
   "232": {
     "id": 232,
     "order": "232.00000000000000000000",
-    "name": "Kampen a. Sylt",
+    "name": "",
     "tillich_id": "tillich_place_id__232",
     "geonames_url": ""
   },
@@ -1640,7 +1640,7 @@
   "235": {
     "id": 235,
     "order": "235.00000000000000000000",
-    "name": "Karlsruhe(Baden)",
+    "name": "",
     "tillich_id": "tillich_place_id__235",
     "geonames_url": ""
   },
@@ -1654,7 +1654,7 @@
   "237": {
     "id": 237,
     "order": "237.00000000000000000000",
-    "name": "Kassel?",
+    "name": "",
     "tillich_id": "tillich_place_id__237",
     "geonames_url": ""
   },
@@ -1822,14 +1822,14 @@
   "261": {
     "id": 261,
     "order": "261.00000000000000000000",
-    "name": "Leuilly-sous-Coucy",
+    "name": "Leuilly-sous-Coucy02380",
     "tillich_id": "tillich_place_id__261",
     "geonames_url": ""
   },
   "262": {
     "id": 262,
     "order": "262.00000000000000000000",
-    "name": "Leuilly-sous-Coucy02380",
+    "name": "",
     "tillich_id": "tillich_place_id__262",
     "geonames_url": ""
   },
@@ -1843,14 +1843,14 @@
   "264": {
     "id": 264,
     "order": "264.00000000000000000000",
-    "name": "Lichtenrade",
+    "name": "",
     "tillich_id": "tillich_place_id__264",
     "geonames_url": ""
   },
   "265": {
     "id": 265,
     "order": "265.00000000000000000000",
-    "name": "Lichterfelde",
+    "name": "",
     "tillich_id": "tillich_place_id__265",
     "geonames_url": ""
   },
@@ -1955,28 +1955,28 @@
   "280": {
     "id": 280,
     "order": "280.00000000000000000000",
-    "name": "Marburg a. d. L.",
+    "name": "",
     "tillich_id": "tillich_place_id__280",
     "geonames_url": ""
   },
   "281": {
     "id": 281,
     "order": "281.00000000000000000000",
-    "name": "Marburg a. d. Lahn",
+    "name": "",
     "tillich_id": "tillich_place_id__281",
     "geonames_url": ""
   },
   "282": {
     "id": 282,
     "order": "282.00000000000000000000",
-    "name": "Marburg-Lahn",
+    "name": "",
     "tillich_id": "tillich_place_id__282",
     "geonames_url": ""
   },
   "283": {
     "id": 283,
     "order": "283.00000000000000000000",
-    "name": "Marburg/Lahn",
+    "name": "",
     "tillich_id": "tillich_place_id__283",
     "geonames_url": ""
   },
@@ -2018,14 +2018,14 @@
   "289": {
     "id": 289,
     "order": "289.00000000000000000000",
-    "name": "Menton",
+    "name": "Mentone",
     "tillich_id": "tillich_place_id__289",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/12319349/"
   },
   "290": {
     "id": 290,
     "order": "290.00000000000000000000",
-    "name": "Mentone",
+    "name": "",
     "tillich_id": "tillich_place_id__290",
     "geonames_url": ""
   },
@@ -2046,28 +2046,28 @@
   "293": {
     "id": 293,
     "order": "293.00000000000000000000",
-    "name": "Misdory",
+    "name": "Misdroy",
     "tillich_id": "tillich_place_id__293",
     "geonames_url": ""
   },
   "294": {
     "id": 294,
     "order": "294.00000000000000000000",
-    "name": "Misdroy",
+    "name": "",
     "tillich_id": "tillich_place_id__294",
     "geonames_url": ""
   },
   "295": {
     "id": 295,
     "order": "295.00000000000000000000",
-    "name": "Misdroy/Międzyzdroje",
+    "name": "",
     "tillich_id": "tillich_place_id__295",
     "geonames_url": ""
   },
   "296": {
     "id": 296,
     "order": "296.00000000000000000000",
-    "name": "Międzyzdroje",
+    "name": "",
     "tillich_id": "tillich_place_id__296",
     "geonames_url": ""
   },
@@ -2095,14 +2095,14 @@
   "300": {
     "id": 300,
     "order": "300.00000000000000000000",
-    "name": "Montécouvé",
+    "name": "Montécouvé02880",
     "tillich_id": "tillich_place_id__300",
     "geonames_url": ""
   },
   "301": {
     "id": 301,
     "order": "301.00000000000000000000",
-    "name": "Montécouvé02880",
+    "name": "",
     "tillich_id": "tillich_place_id__301",
     "geonames_url": ""
   },
@@ -2186,7 +2186,7 @@
   "313": {
     "id": 313,
     "order": "313.00000000000000000000",
-    "name": "Neu-Ruppin",
+    "name": "",
     "tillich_id": "tillich_place_id__313",
     "geonames_url": ""
   },
@@ -2200,14 +2200,14 @@
   "315": {
     "id": 315,
     "order": "315.00000000000000000000",
-    "name": "Neuenburger Straße 3, Berlin",
+    "name": "",
     "tillich_id": "tillich_place_id__315",
     "geonames_url": ""
   },
   "316": {
     "id": 316,
     "order": "316.00000000000000000000",
-    "name": "Neuenburgerstraße 3, Berlin",
+    "name": "",
     "tillich_id": "tillich_place_id__316",
     "geonames_url": ""
   },
@@ -2235,7 +2235,7 @@
   "320": {
     "id": 320,
     "order": "320.00000000000000000000",
-    "name": "New York City",
+    "name": "",
     "tillich_id": "tillich_place_id__320",
     "geonames_url": ""
   },
@@ -2270,14 +2270,14 @@
   "325": {
     "id": 325,
     "order": "325.00000000000000000000",
-    "name": "Nouvron",
+    "name": "Nouvron-Vingré",
     "tillich_id": "tillich_place_id__325",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2989951/"
   },
   "326": {
     "id": 326,
     "order": "326.00000000000000000000",
-    "name": "Nouvron-Vingré",
+    "name": "",
     "tillich_id": "tillich_place_id__326",
     "geonames_url": ""
   },
@@ -2291,7 +2291,7 @@
   "328": {
     "id": 328,
     "order": "328.00000000000000000000",
-    "name": "O.O.",
+    "name": "Ohne Ort",
     "tillich_id": "tillich_place_id__328",
     "geonames_url": ""
   },
@@ -2354,35 +2354,35 @@
   "337": {
     "id": 337,
     "order": "337.00000000000000000000",
-    "name": "P00644",
+    "name": "",
     "tillich_id": "tillich_place_id__337",
     "geonames_url": ""
   },
   "338": {
     "id": 338,
     "order": "338.00000000000000000000",
-    "name": "P02089",
+    "name": "",
     "tillich_id": "tillich_place_id__338",
     "geonames_url": ""
   },
   "339": {
     "id": 339,
     "order": "339.00000000000000000000",
-    "name": "P02394",
+    "name": "",
     "tillich_id": "tillich_place_id__339",
     "geonames_url": ""
   },
   "340": {
     "id": 340,
     "order": "340.00000000000000000000",
-    "name": "P02462",
+    "name": "",
     "tillich_id": "tillich_place_id__340",
     "geonames_url": ""
   },
   "341": {
     "id": 341,
     "order": "341.00000000000000000000",
-    "name": "P02540",
+    "name": "",
     "tillich_id": "tillich_place_id__341",
     "geonames_url": ""
   },
@@ -2403,14 +2403,14 @@
   "344": {
     "id": 344,
     "order": "344.00000000000000000000",
-    "name": "Pasly",
+    "name": "Pasly02200",
     "tillich_id": "tillich_place_id__344",
     "geonames_url": ""
   },
   "345": {
     "id": 345,
     "order": "345.00000000000000000000",
-    "name": "Pasly02200",
+    "name": "",
     "tillich_id": "tillich_place_id__345",
     "geonames_url": ""
   },
@@ -2466,14 +2466,14 @@
   "353": {
     "id": 353,
     "order": "353.00000000000000000000",
-    "name": "Pont-Saint-Mard",
+    "name": "Pont-Saint-Mard02380",
     "tillich_id": "tillich_place_id__353",
     "geonames_url": ""
   },
   "354": {
     "id": 354,
     "order": "354.00000000000000000000",
-    "name": "Pont-Saint-Mard02380",
+    "name": "",
     "tillich_id": "tillich_place_id__354",
     "geonames_url": ""
   },
@@ -2564,14 +2564,14 @@
   "367": {
     "id": 367,
     "order": "367.00000000000000000000",
-    "name": "Rixdorf",
+    "name": "Rixdorf/Berlin-Neukölln",
     "tillich_id": "tillich_place_id__367",
     "geonames_url": ""
   },
   "368": {
     "id": 368,
     "order": "368.00000000000000000000",
-    "name": "Rixdorf/Berlin-Neukölln",
+    "name": "",
     "tillich_id": "tillich_place_id__368",
     "geonames_url": ""
   },
@@ -2592,7 +2592,7 @@
   "371": {
     "id": 371,
     "order": "371.00000000000000000000",
-    "name": "Rostock/M",
+    "name": "",
     "tillich_id": "tillich_place_id__371",
     "geonames_url": ""
   },
@@ -2634,21 +2634,21 @@
   "377": {
     "id": 377,
     "order": "377.00000000000000000000",
-    "name": "Rußland",
+    "name": "",
     "tillich_id": "tillich_place_id__377",
     "geonames_url": ""
   },
   "378": {
     "id": 378,
     "order": "378.00000000000000000000",
-    "name": "Rüdesheim",
+    "name": "Rüdesheim am Rhein",
     "tillich_id": "tillich_place_id__378",
     "geonames_url": ""
   },
   "379": {
     "id": 379,
     "order": "379.00000000000000000000",
-    "name": "Rüdesheim am Rhein",
+    "name": "",
     "tillich_id": "tillich_place_id__379",
     "geonames_url": ""
   },
@@ -2690,7 +2690,7 @@
   "385": {
     "id": 385,
     "order": "385.00000000000000000000",
-    "name": "Saint-Malo",
+    "name": "",
     "tillich_id": "tillich_place_id__385",
     "geonames_url": ""
   },
@@ -2718,14 +2718,14 @@
   "389": {
     "id": 389,
     "order": "389.00000000000000000000",
-    "name": "Sassnitz",
+    "name": "Sassnitz (Rügen)",
     "tillich_id": "tillich_place_id__389",
     "geonames_url": ""
   },
   "390": {
     "id": 390,
     "order": "390.00000000000000000000",
-    "name": "Sassnitz (Rügen)",
+    "name": "",
     "tillich_id": "tillich_place_id__390",
     "geonames_url": ""
   },
@@ -2802,14 +2802,14 @@
   "401": {
     "id": 401,
     "order": "401.00000000000000000000",
-    "name": "Sils Maria",
+    "name": "Sils Maria/Engadin",
     "tillich_id": "tillich_place_id__401",
     "geonames_url": ""
   },
   "402": {
     "id": 402,
     "order": "402.00000000000000000000",
-    "name": "Sils Maria/Engadin",
+    "name": "",
     "tillich_id": "tillich_place_id__402",
     "geonames_url": ""
   },
@@ -2879,7 +2879,7 @@
   "412": {
     "id": 412,
     "order": "412.00000000000000000000",
-    "name": "St.Malo",
+    "name": "",
     "tillich_id": "tillich_place_id__412",
     "geonames_url": ""
   },
@@ -2942,14 +2942,14 @@
   "421": {
     "id": 421,
     "order": "421.00000000000000000000",
-    "name": "Stuttgart ",
+    "name": "",
     "tillich_id": "tillich_place_id__421",
     "geonames_url": ""
   },
   "422": {
     "id": 422,
     "order": "422.00000000000000000000",
-    "name": "Stuttgart/Frankfurt",
+    "name": "",
     "tillich_id": "tillich_place_id__422",
     "geonames_url": ""
   },
@@ -2991,14 +2991,14 @@
   "428": {
     "id": 428,
     "order": "428.00000000000000000000",
-    "name": "Tancourt",
+    "name": "Tancourt02200",
     "tillich_id": "tillich_place_id__428",
     "geonames_url": ""
   },
   "429": {
     "id": 429,
     "order": "429.00000000000000000000",
-    "name": "Tancourt02200",
+    "name": "",
     "tillich_id": "tillich_place_id__429",
     "geonames_url": ""
   },
@@ -3019,14 +3019,14 @@
   "432": {
     "id": 432,
     "order": "432.00000000000000000000",
-    "name": "Tartiers",
+    "name": "Tartiers02290",
     "tillich_id": "tillich_place_id__432",
     "geonames_url": ""
   },
   "433": {
     "id": 433,
     "order": "433.00000000000000000000",
-    "name": "Tartiers02290",
+    "name": "",
     "tillich_id": "tillich_place_id__433",
     "geonames_url": ""
   },
@@ -3096,56 +3096,56 @@
   "443": {
     "id": 443,
     "order": "443.00000000000000000000",
-    "name": "Trotha",
+    "name": "Trotha/Halle a.S.",
     "tillich_id": "tillich_place_id__443",
     "geonames_url": ""
   },
   "444": {
     "id": 444,
     "order": "444.00000000000000000000",
-    "name": "Trotha/Halle a.S.",
+    "name": "",
     "tillich_id": "tillich_place_id__444",
     "geonames_url": ""
   },
   "445": {
     "id": 445,
     "order": "445.00000000000000000000",
-    "name": "Trouville",
+    "name": "Trouville sur Mer",
     "tillich_id": "tillich_place_id__445",
     "geonames_url": ""
   },
   "446": {
     "id": 446,
     "order": "446.00000000000000000000",
-    "name": "Trouville sur Mer",
+    "name": "",
     "tillich_id": "tillich_place_id__446",
     "geonames_url": ""
   },
   "447": {
     "id": 447,
     "order": "447.00000000000000000000",
-    "name": "Trouville-sur-Mer",
+    "name": "",
     "tillich_id": "tillich_place_id__447",
     "geonames_url": ""
   },
   "448": {
     "id": 448,
     "order": "448.00000000000000000000",
-    "name": "Tuebingen",
+    "name": "Tübingen",
     "tillich_id": "tillich_place_id__448",
     "geonames_url": ""
   },
   "449": {
     "id": 449,
     "order": "449.00000000000000000000",
-    "name": "Tübingen",
+    "name": "",
     "tillich_id": "tillich_place_id__449",
     "geonames_url": ""
   },
   "450": {
     "id": 450,
     "order": "450.00000000000000000000",
-    "name": "Tübingen(Württemberg)",
+    "name": "",
     "tillich_id": "tillich_place_id__450",
     "geonames_url": ""
   },
@@ -3189,19 +3189,19 @@
     "order": "456.00000000000000000000",
     "name": "Vaux-lès-Mouron",
     "tillich_id": "tillich_place_id__456",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/6426152/"
   },
   "457": {
     "id": 457,
     "order": "457.00000000000000000000",
-    "name": "Vauxrezis",
+    "name": "Vauxrezis02200",
     "tillich_id": "tillich_place_id__457",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2970327/"
   },
   "458": {
     "id": 458,
     "order": "458.00000000000000000000",
-    "name": "Vauxrezis02200",
+    "name": "",
     "tillich_id": "tillich_place_id__458",
     "geonames_url": ""
   },
@@ -3222,7 +3222,7 @@
   "461": {
     "id": 461,
     "order": "461.00000000000000000000",
-    "name": "Villers-la-Fosse",
+    "name": "",
     "tillich_id": "tillich_place_id__461",
     "geonames_url": ""
   },
@@ -3362,49 +3362,49 @@
   "481": {
     "id": 481,
     "order": "481.00000000000000000000",
-    "name": "nicht erfasst",
+    "name": "",
     "tillich_id": "tillich_place_id__481",
     "geonames_url": ""
   },
   "482": {
     "id": 482,
     "order": "482.00000000000000000000",
-    "name": "o.O",
+    "name": "",
     "tillich_id": "tillich_place_id__482",
     "geonames_url": ""
   },
   "483": {
     "id": 483,
     "order": "483.00000000000000000000",
-    "name": "o.O.",
+    "name": "",
     "tillich_id": "tillich_place_id__483",
     "geonames_url": ""
   },
   "484": {
     "id": 484,
     "order": "484.00000000000000000000",
-    "name": "ohne Ort",
+    "name": "",
     "tillich_id": "tillich_place_id__484",
     "geonames_url": ""
   },
   "485": {
     "id": 485,
     "order": "485.00000000000000000000",
-    "name": "where",
+    "name": "Platzhalter in",
     "tillich_id": "tillich_place_id__485",
     "geonames_url": ""
   },
   "486": {
     "id": 486,
     "order": "486.00000000000000000000",
-    "name": "Épagny",
+    "name": "Épagny02290",
     "tillich_id": "tillich_place_id__486",
     "geonames_url": ""
   },
   "487": {
     "id": 487,
     "order": "487.00000000000000000000",
-    "name": "Épagny02290",
+    "name": "",
     "tillich_id": "tillich_place_id__487",
     "geonames_url": ""
   },
@@ -3413,6 +3413,48 @@
     "order": "488.00000000000000000000",
     "name": "Świnoujście",
     "tillich_id": "tillich_place_id__488",
+    "geonames_url": ""
+  },
+  "489": {
+    "id": 489,
+    "order": "489.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__489",
+    "geonames_url": ""
+  },
+  "490": {
+    "id": 490,
+    "order": "490.00000000000000000000",
+    "name": "Darmstadt-Eberstadt",
+    "tillich_id": "tillich_place_id__490",
+    "geonames_url": "https://www.geonames.org/2933895"
+  },
+  "494": {
+    "id": 494,
+    "order": "491.00000000000000000000",
+    "name": "Rotenburg",
+    "tillich_id": "tillich_place_id__494",
+    "geonames_url": "https://www.geonames.org/2844434/"
+  },
+  "495": {
+    "id": 495,
+    "order": "492.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__495",
+    "geonames_url": ""
+  },
+  "496": {
+    "id": 496,
+    "order": "493.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__496",
+    "geonames_url": ""
+  },
+  "497": {
+    "id": 497,
+    "order": "494.00000000000000000000",
+    "name": "Sankt Moritz",
+    "tillich_id": "tillich_place_id__497",
     "geonames_url": ""
   }
 }
