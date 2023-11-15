@@ -2,17 +2,169 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "",
-    "working_note": "",
+    "name": "Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.",
+    "working_note": "Auch in: Tillich, Paul, Frühe Hauptwerke (GW I), 2. Aufl., Stuttgart 1959, S. 109-293.",
     "tillich_id": "tillich_work_id__1",
     "zotero": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "",
+    "name": "Dell, August, Der Charakter der Theologie in Tillichs System der Wissenschaften, in: Theologische Blätter 2, Nr. 10 (Oktober 1923), S. 235–245.",
     "working_note": "",
     "tillich_id": "tillich_work_id__2",
     "zotero": null
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Herrmann, Christian, Philosophie. Systematik, in: Sozialistische Monatshefte 29, Heft 9 (1923), S. 569–571.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__3",
+    "zotero": ""
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Mennicke, Carl, Anzeigen, in: Blätter für Religiösen Sozialismus, hg. von Carl Mennicke, Jg. 4, Nr. 5 (Mai 1923), S. 20.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__4",
+    "zotero": ""
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Mennicke, Carl, Systematik. Eine Erläuterung, in Blätter für religiösen Sozialismus 5, Nr. 5/6 (Mai/Juni 1924), S. 17f.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__5",
+    "zotero": ""
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Tillich, Paul, Tillichs Antwort, in: Blätter für religiösen Sozialismus 5, Nr. 5/6 (Mai/Juni 1924), S. 18–22.",
+    "working_note": "Auch in: ...",
+    "tillich_id": "tillich_work_id__6",
+    "zotero": ""
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__7",
+    "zotero": ""
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Tillich, Paul, Die religiöse und philosophische Weiterbildung des Sozialismus, in: Blätter für Religiösen Sozialismus, Jg. 5 (1924), S. 26-30.",
+    "working_note": "Auch in: Tillich, Paul, Christentum und Soziale Gestaltung (GW II), S. 121-131.",
+    "tillich_id": "tillich_work_id__8",
+    "zotero": ""
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.",
+    "working_note": "Auch in: ...",
+    "tillich_id": "tillich_work_id__9",
+    "zotero": ""
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Althaus, Paul, Das Problem der Kirche im Protestantismus, verm. unpubliziert.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__10",
+    "zotero": ""
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Danz, Christian/Schüßler, Werner, Paul Tillich in Dresden. Einleitung, in: Dies. (Hg.), Paul Tillich in Dresden. Intellektuellen-Diskurse in der Weimarer Republik, Berlin/Boston 2023, S. 1-7.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__11",
+    "zotero": ""
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Jasper, Gotthard, Paul Althaus (1888-1966). Professor, Prediger und Patriot in seiner Zeit, Göttingen 2013.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__12",
+    "zotero": ""
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Vico, Giambattista, Die neue Wissenschaft, herausgegeben von Gottfried Salomon und übersetzt von Erich Auerbach, München 1924",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__13",
+    "zotero": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Medicus, Fritz, Paul Tillich (Zu seiner Berufung nach Frankfurt), in: Neue Zürcher Zeitung, Nr. 527, vom 19.3.1929.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__14",
+    "zotero": ""
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926",
+    "working_note": "auch in GW VI (1963), S. 42-71",
+    "tillich_id": "tillich_work_id__15",
+    "zotero": ""
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "de Man, Hendrik, Zur Psychologie des Sozialismus, Jena 1926.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__16",
+    "zotero": ""
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Tillich, Paul, Der Protestantismus als kritisches und gestaltendes Prinzip, in Protestantismus als Kritik und Gestaltung. Zweites Buch des Kairos-Kreises, hg. von Paul Tillich, Darmstadt 1929, 3-37",
+    "working_note": "Auch in: GW VII, 29-53",
+    "tillich_id": "tillich_work_id__17",
+    "zotero": ""
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Tillich, Paul, Über gläubigen Realismus, in: Theologische Blätter, Jg. 7, H. 5 (1928, Sp. 109-118.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__18",
+    "zotero": ""
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Tillich, Paul, Religiöse Verwirklichung, Berlin 1930",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__19",
+    "zotero": ""
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__20",
+    "zotero": ""
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Tillich, Paul, Das System der religiösen Erkenntnis (2. Version), in: Ders., Religion, Kultur, Gesellschaft II (EW XI), hg. von Erdmann Sturm, Berlin/New York 1999, S. 116-174.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__21",
+    "zotero": ""
   }
 }
