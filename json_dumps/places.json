@@ -3455,6 +3455,13 @@
     "order": "494.00000000000000000000",
     "name": "Sankt Moritz",
     "tillich_id": "tillich_place_id__497",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2658813/st-moritz.html"
+  },
+  "498": {
+    "id": 498,
+    "order": "495.00000000000000000000",
+    "name": "Schmilka bei Bad Schandau",
+    "tillich_id": "tillich_place_id__498",
+    "geonames_url": "https://www.geonames.org/2837731/schmilka.html"
   }
 }

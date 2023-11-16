@@ -943,7 +943,7 @@
                </person>
                <person xml:id="tillich_person_id__246">
                   <persName>Boller, Salome</persName>
-                  <note type="bio"><p>Tillich hatte B. wie auch Leni Burri bei einem früheren Schweizaufenthalt in der Unterkunft der Familie Salis kennengelernt.</p></note>
+                  <note type="bio"><p>Tillich hatte B. bei einem früheren Schweizaufenthalt in der Unterkunft der Familie Salis kennengelernt.</p></note>
                </person>
                <person xml:id="tillich_person_id__247">
                   <persName>Bölsche, Wilhelm</persName>
@@ -8484,8 +8484,6 @@
                </person>
                <person xml:id="tillich_person_id__2353">
                   <persName>Medicus, Clara</persName>
-                  <occupation>Vermutlich Frau Fritz Medicus Erwähnt in: 1928.04.19. Tillich, P an Fritz Medicus
- Medicus, F</occupation>
                </person>
                <person xml:id="tillich_person_id__2354">
                   <persName>Anna</persName>
@@ -8508,6 +8506,7 @@
                   <persName>Stepun, Natalja Nikolaevna</persName>
                   <occupation>Frau von Fedor Stepun</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1107814014</idno>
+                  <note type="bio"><p>auch bekannt als Natascha</p></note>
                </person>
                <person xml:id="tillich_person_id__2359">
                   <persName>Fondaminski, Ilja Issidorowitsch</persName>
@@ -8796,7 +8795,7 @@
                </person>
                <person xml:id="tillich_person_id__2424">
                   <persName>Blum, Suzanne</persName>
-                  <occupation>Frau von Emil Blum, https://hls-dhs-dss.ch/de/articles/010547/2002-11-05/</occupation>
+                  <note type="bio"><p>geb. Kullmann. Frau von Emil Blum.</p></note>
                </person>
                <person xml:id="tillich_person_id__2425">
                   <persName>Schümer, Anja</persName>
@@ -9504,6 +9503,20 @@
                <person xml:id="tillich_person_id__2594">
                   <persName>Korreferent</persName>
                   <note type="bio"><p>Korreferent bei der Begutachtung der Habilitationsschrift von Paul Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2595">
+                  <persName>???</persName>
+                  <note type="bio"><p>Bruder von Stepun, Natalja Nikolaevna</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2596">
+                  <persName>Margrit</persName>
+               </person>
+               <person xml:id="tillich_person_id__2597">
+                  <persName>Jenenski</persName>
+                  <note type="bio"><p>Eventuell die Namen Jenensky oder Janowski, könnten dafür stehen</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2598">
+                  <persName/>
                </person>
             </listPerson>
          </div>
