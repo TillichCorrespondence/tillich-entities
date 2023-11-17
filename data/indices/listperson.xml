@@ -8706,16 +8706,17 @@
                </person>
                <person xml:id="tillich_person_id__2404">
                   <persName>von Sydow, Elfriede Margarete</persName>
-                  <occupation>Mutter von Eckart von Sydow</occupation>
+                  <note type="bio"><p>geb. von Wedel. Mutter von Eckart von Sydow</p></note>
                </person>
                <person xml:id="tillich_person_id__2405">
                   <persName>von Sydow, Helene Antonie Mathilde Kathinka</persName>
-                  <occupation>Schwester von Eckart von Sydow</occupation>
+                  <note type="bio"><p>Schwester von Eckart von Sydow</p></note>
                </person>
                <person xml:id="tillich_person_id__2406">
                   <persName>Hirzel, Stephan</persName>
-                  <occupation>Architekt, baute u.a. das "Haus auf dem Küssel"</occupation>
+                  <occupation>Architekt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1038829402</idno>
+                  <note type="bio"><p>Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Baute u.a. das "Haus auf dem Küssel".</p></note>
                </person>
                <person xml:id="tillich_person_id__2407">
                   <persName>Pallenberg, Max</persName>
@@ -9516,7 +9517,43 @@
                   <note type="bio"><p>Eventuell die Namen Jenensky oder Janowski, könnten dafür stehen</p></note>
                </person>
                <person xml:id="tillich_person_id__2598">
-                  <persName/>
+                  <persName>Weissenberg, Alfred</persName>
+                  <occupation>Maler</occupation>
+                  <note type="bio"><p>Flüchtete 1933 zusammen mit seiner Frau Charlotte (geb. Rychwalski) nach Paris, wo er sich Alfred Jan Weissenbergh nannte. Nach zeitweiser Internierung in Südfrankreich gelang ihnen die Flucht nach Portugal und von dort weiter nach New York.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2599">
+                  <persName>Beinhorn, Elly</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118508490</idno>
+               </person>
+               <person xml:id="tillich_person_id__2600">
+                  <persName>Schneider, Gotthold</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/110485919X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2601">
+                  <persName>Erdmann-Czapski, Veronika</persName>
+                  <occupation>Schriftstellerin, Dichterin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116531274</idno>
+               </person>
+               <person xml:id="tillich_person_id__2602">
+                  <persName>Reimann, Hans</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118744089</idno>
+               </person>
+               <person xml:id="tillich_person_id__2603">
+                  <persName>Brod, Max</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118515624</idno>
+               </person>
+               <person xml:id="tillich_person_id__2604">
+                  <persName>Hašek, Jaroslav</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118546554</idno>
+               </person>
+               <person xml:id="tillich_person_id__2605">
+                  <persName>Shaw, George Bernard</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118642375</idno>
+               </person>
+               <person xml:id="tillich_person_id__2606">
+                  <persName>Hattemer, Lotte</persName>
+                  <occupation>Lehrerin, Kommunengründerin</occupation>
+                  <note type="bio"><p>Mitbegründerin des Monte Verità in Ascona</p></note>
                </person>
             </listPerson>
          </div>

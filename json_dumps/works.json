@@ -174,5 +174,45 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__22",
     "zotero": ""
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Tillich, Paul, Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher, Königsberg 1915",
+    "working_note": "Auch erschienen in: EW IX, 435-588.",
+    "tillich_id": "tillich_work_id__23",
+    "zotero": ""
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "Tillich, Paul, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, Gütersloh 1912.",
+    "working_note": "Auch in: MW I, 21-112; GW I, 13-108",
+    "tillich_id": "tillich_work_id__24",
+    "zotero": ""
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "name": "Kant, Immanuel, Zum ewigen Frieden. Ein philosophischer Entwurf, Königsberg 1795.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__25",
+    "zotero": ""
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "name": "Fichte, Johann Gottlieb, Über den Begriff des wahrhaften Krieges in Bezug auf den Krieg im Jahre 1813, Tübingen 1815.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__26",
+    "zotero": ""
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "name": "Goetz, Bruno, Das Reich ohne Raum. Roman, Potsdam 1919. Erweiterte Ausgabe: Das Reich ohne Raum. Eine Chronik wunderlicher Begebenheiten. Neue unverstümmelte Ausgabe, Konstanz 1925.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__27",
+    "zotero": ""
   }
 }
