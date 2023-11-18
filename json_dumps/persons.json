@@ -41021,7 +41021,7 @@
     "tillich_id": "tillich_person_id__2564",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": null
+    "working_note": "Dürfte weiblich sein, vgl. PT an Hannah Tillich vom 7. Januar 1933 (2)"
   },
   "2565": {
     "id": 2565,
@@ -41662,5 +41662,37 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": "Vorlage für die gleichnamige Figur in Bruno Goetz' Roman \"Das Göttliche Gesicht\""
+  },
+  "2607": {
+    "id": 2607,
+    "order": "2605.00000000000000000000",
+    "name": "Tessen",
+    "surname": "Tessen",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2607",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "Unsichere Lesart (ggf. Tessan). Bisher nicht ermittelt. Tessen ist ein altes Adelsgeschlecht. Tillich traf drei Schwestern diesen Namens (\"drei Schwestern Tessen\", PT an Hannah Tilich, 7.Jan1933 (2)))"
+  },
+  "2608": {
+    "id": 2608,
+    "order": "2606.00000000000000000000",
+    "name": "T., Lisy",
+    "surname": "T.",
+    "forename": "Lisy",
+    "from_to": "",
+    "occupation": "Fotographin",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2608",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "bisher nicht ermittelt"
   }
 }

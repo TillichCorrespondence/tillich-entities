@@ -9555,6 +9555,13 @@
                   <occupation>Lehrerin, Kommunengründerin</occupation>
                   <note type="bio"><p>Mitbegründerin des Monte Verità in Ascona</p></note>
                </person>
+               <person xml:id="tillich_person_id__2607">
+                  <persName>Tessen</persName>
+               </person>
+               <person xml:id="tillich_person_id__2608">
+                  <persName>T., Lisy</persName>
+                  <occupation>Fotographin</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
