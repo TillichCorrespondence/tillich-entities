@@ -2432,6 +2432,7 @@
                <person xml:id="tillich_person_id__691">
                   <persName>Goetz, Bruno</persName>
                   <occupation>Deutschbaltischer Dichter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119192330</idno>
                </person>
                <person xml:id="tillich_person_id__692">
                   <persName>Goetz, John B.</persName>
@@ -7583,7 +7584,7 @@
                   <occupation>Studienkollege von Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__2139">
-                  <persName>Schwarzkopf</persName>
+                  <persName>Schwartzkopff, Philipp</persName>
                   <occupation>Oberpräsident von Unbekannt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117361267</idno>
                </person>
@@ -8705,11 +8706,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/1044769491</idno>
                </person>
                <person xml:id="tillich_person_id__2404">
-                  <persName>von Sydow, Elfriede Margarete</persName>
+                  <persName>Sydow, Elfriede Margarete von</persName>
                   <note type="bio"><p>geb. von Wedel. Mutter von Eckart von Sydow</p></note>
                </person>
                <person xml:id="tillich_person_id__2405">
-                  <persName>von Sydow, Helene Antonie Mathilde Kathinka</persName>
+                  <persName>Sydow, Helene Antonie Mathilde Kathinka von</persName>
                   <note type="bio"><p>Schwester von Eckart von Sydow</p></note>
                </person>
                <person xml:id="tillich_person_id__2406">
@@ -8728,11 +8729,11 @@
                   <occupation>Frau von Adolf Grimme</occupation>
                </person>
                <person xml:id="tillich_person_id__2409">
-                  <persName>Königs</persName>
+                  <persName>Königs, ???</persName>
                   <occupation>Als "Comphil." (?) erwähnt in: 1914.10.05. Schafft, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2410">
-                  <persName>Wagner</persName>
+                  <persName>Wagner, ???</persName>
                   <occupation>Bisher nicht ermittelt; Dresdner Umfeld; erwähnt in PT an Hannah Tillich vom 2.März1933</occupation>
                </person>
                <person xml:id="tillich_person_id__2411">
@@ -8740,7 +8741,7 @@
                   <occupation>Großindustrieller, Sammler, Mäzen; Sohn von Ida und(?) Erwin Bienert</occupation>
                </person>
                <person xml:id="tillich_person_id__2412">
-                  <persName>Wolfgang</persName>
+                  <persName>???, Wolfgang</persName>
                   <occupation>verm. aus Halle; bisher nicht ermittelt; z.B. erwähnt in PT an Hannah Tillich vom 1.4.1933</occupation>
                </person>
                <person xml:id="tillich_person_id__2413">
@@ -8748,7 +8749,7 @@
                   <occupation>Da gibt es einen Brief von ihm an Tillich: 1925.08.10. Viergutz, P. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2414">
-                  <persName>Gretha</persName>
+                  <persName>???, Gretha</persName>
                   <occupation>Kenne ich bisher nur aus: 1926.01.08. Gretha an Tillich, P. Sollte eine enge Bekannte von Paul Tillich sein, aus Berlin (?).</occupation>
                </person>
                <person xml:id="tillich_person_id__2415">
@@ -8856,7 +8857,7 @@
                   <note type="bio"><p>Geb: Kassel,  Jura (Göttingen 1896/97),  Archäologie und Kunstgeschichte an den Universitäten Göttingen, Berlin, München und Leipzig, Burschenschaf Alemannia Göttingen 1896, Antisemit, Nationalist, Nazi Tod: Berlin</p></note>
                </person>
                <person xml:id="tillich_person_id__2435">
-                  <persName>Passarge, ?</persName>
+                  <persName>Passarge, ???</persName>
                   <occupation>Erwähnt in: "1929.09.30. Passarge, W. an Tillich, P"</occupation>
                </person>
                <person xml:id="tillich_person_id__2436">
@@ -8869,7 +8870,7 @@
                   <occupation>War Mitte der 1920er Jahre Freundin von Hans  Hamburger, seit 15.Oktober 1925 seine Frau (später geschieden); in dieser Zeit mit Tillichs befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander;  Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums</occupation>
                </person>
                <person xml:id="tillich_person_id__2438">
-                  <persName>Graf von Schwerin</persName>
+                  <persName>(Graf von Schwerin), ???</persName>
                   <occupation>1 WK</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/114681593X</idno>
                </person>
@@ -8879,8 +8880,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/121594165</idno>
                </person>
                <person xml:id="tillich_person_id__2440">
-                  <persName>Verlag Mohr Siebeck (Institution)</persName>
-                  <occupation>Erwähnt in: "1929.12.05. Tillich, P an Verlag Mohr Siebeck"</occupation>
+                  <persName>Verlag Mohr Siebeck, ???</persName>
+                  <occupation>Institution</occupation>
                </person>
                <person xml:id="tillich_person_id__2441">
                   <persName>Braun, Otto</persName>
@@ -8904,12 +8905,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/138240043</idno>
                </person>
                <person xml:id="tillich_person_id__2445">
-                  <persName>Borenz</persName>
-                  <occupation>(wahrscheinlicher Name)Vorstand der SPD Gross-Frankfurt, Erwähnt in "1932.10.07. SPD Groß-Frankfurt an Tillich, P"</occupation>
+                  <persName>Borenz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2446">
-                  <persName>(Pfarrer)Thomas</persName>
-                  <occupation>Erwähnt in: "1926.11.16. Tillich, P an Verlag Mohr Siebeck": (Einzige Info: "Pfarrer Thomas Marburg-Lahn Bahnhofstr. 1"... hab nicht viel gefunden online)</occupation>
+                  <persName>Thomas, (Pfarrer)</persName>
                </person>
                <person xml:id="tillich_person_id__2447">
                   <persName>Thurmann, Theodor</persName>
@@ -8954,7 +8953,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/1077869991</idno>
                </person>
                <person xml:id="tillich_person_id__2457">
-                  <persName>Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+                  <persName>Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2458">
                   <persName>Hülsen, Ernst von</persName>
@@ -8994,7 +8993,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/1052278809</idno>
                </person>
                <person xml:id="tillich_person_id__2467">
-                  <persName>Hochheimer, ?</persName>
+                  <persName>Hochheimer, ???</persName>
                   <occupation>Herrn Dr. Hochheimer, Erwähnt in "1932.05.01. Tillich, P an Verlag Mohr Siebeck"</occupation>
                   <note type="bio"><p>(Kronprinzenstr. 28 Halle/Saale, 1932)</p></note>
                </person>
@@ -9009,7 +9008,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/137432534</idno>
                </person>
                <person xml:id="tillich_person_id__2470">
-                  <persName>Sulzbach, ?</persName>
+                  <persName>Sulzbach, ???</persName>
                   <occupation>Erwähnt in: "1932.05.22. Tillich, P an Verlag Mohr Siebeck (1)"</occupation>
                </person>
                <person xml:id="tillich_person_id__2471">
@@ -9018,11 +9017,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/117400149</idno>
                </person>
                <person xml:id="tillich_person_id__2472">
-                  <persName>Frentzel</persName>
+                  <persName>Frentzel, ???</persName>
                   <occupation>Erwähnt in: "1932.05.22. Tillich, P an Verlag Mohr Siebeck (2)"</occupation>
                </person>
                <person xml:id="tillich_person_id__2473">
-                  <persName>Starkloff</persName>
+                  <persName>Starkloff, ???</persName>
                   <occupation>Erwähnt in: "1932.05.22. Tillich, P an Verlag Mohr Siebeck (2)"</occupation>
                </person>
                <person xml:id="tillich_person_id__2474">
@@ -9084,7 +9083,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/117474673</idno>
                </person>
                <person xml:id="tillich_person_id__2488">
-                  <persName>Ministerialrat</persName>
+                  <persName>(Ministerialrat)</persName>
                   <occupation>Tillich hat am 5.5.1933 und am 17.5.1933 einen Brief an einen nicht namentlich genannten Ministerialrat geschrieben. Der ist nicht zu verwechseln mit Ministerialdirektor Gerullis - an diesen gibt es nämlich einen separaten Brief vom 17.5. Mögliche Kandidaten wären: Georg Hubrich, Hellmut Bojunga, Johann Daniel Achelis, Joachim Haupt, Reinhard Sunkel. Vgl. https://forhistiur.net/2005-08-jasch/?l=de</occupation>
                </person>
                <person xml:id="tillich_person_id__2489">
@@ -9104,7 +9103,7 @@
                   <persName>Rosenbusch, Agnes</persName>
                </person>
                <person xml:id="tillich_person_id__2493">
-                  <persName>Nida</persName>
+                  <persName>Nida, ???</persName>
                   <occupation>Erwähnt in: 1933.06.20. Rosenbusch, A. an Tillich, P (erster Satz)</occupation>
                </person>
                <person xml:id="tillich_person_id__2494">
@@ -9144,7 +9143,7 @@
                   <occupation>Tochter von Erich Seeberg</occupation>
                </person>
                <person xml:id="tillich_person_id__2502">
-                  <persName>Seeberg, Amanda ("Alla")</persName>
+                  <persName>Seeberg, Amanda</persName>
                   <occupation>Mutter von Erich Seeberg, Gattin von Reinhold Seeberg</occupation>
                </person>
                <person xml:id="tillich_person_id__2503">
@@ -9170,11 +9169,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/11853808X</idno>
                </person>
                <person xml:id="tillich_person_id__2508">
-                  <persName>Chraneu?</persName>
+                  <persName>Chraneu, ???</persName>
                   <occupation>Postkarte: 1933.06.15. Chraneu (?) an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2509">
-                  <persName>ehemalige Frau Prinzhorn, jetzt Frau Wolhard(?)</persName>
+                  <persName>Prinzhorn, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__2510">
                   <persName>May, Ernst</persName>
@@ -9182,7 +9181,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118732218</idno>
                </person>
                <person xml:id="tillich_person_id__2511">
-                  <persName>Helena(?)</persName>
+                  <persName>???, Helena</persName>
                   <occupation>Erwähnt in: PT an Hannah Tillich, 1929.05.07</occupation>
                </person>
                <person xml:id="tillich_person_id__2512">
@@ -9190,7 +9189,7 @@
                   <occupation>Erwähnt in: PT an Hannah Tillich, 1926.08.23. evtl.: https://www.geni.com/people/Edith-Witkowski/6000000187132908830</occupation>
                </person>
                <person xml:id="tillich_person_id__2513">
-                  <persName>Nora</persName>
+                  <persName>???, Nora</persName>
                   <occupation>Erwähnt in: 1926.09 (verm. zw. 10. u. 13.) Tillich, P an Tillich, H</occupation>
                </person>
                <person xml:id="tillich_person_id__2514">
@@ -9215,7 +9214,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/116709065</idno>
                </person>
                <person xml:id="tillich_person_id__2519">
-                  <persName>Brinkmann, Frau Prof.</persName>
+                  <persName>Brinkmann, (Frau Prof.)</persName>
                   <occupation>Frau von Albert Erich Brinkmann, mehr bisher nicht herausgefunden</occupation>
                </person>
                <person xml:id="tillich_person_id__2520">
@@ -9234,41 +9233,41 @@
                   <idno type="gnd">https://d-nb.info/gnd/118596047</idno>
                </person>
                <person xml:id="tillich_person_id__2523">
-                  <persName>Odysseus</persName>
+                  <persName>Odysseus, ???</persName>
                   <occupation>Held der griechischen Mythologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118589385</idno>
                </person>
                <person xml:id="tillich_person_id__2524">
-                  <persName>Nausikaa</persName>
+                  <persName>Nausikaa, ???</persName>
                   <occupation>Figur aus der grichischen Mythologie und Tochter des phaiakischen Königs Alkinoos</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/13157969X</idno>
                </person>
                <person xml:id="tillich_person_id__2525">
-                  <persName>Unbekannt, Claus</persName>
+                  <persName>???, Claus</persName>
                   <occupation>Studienkollege? Von Tillich. Wird erwähnt in: 1908.01.13. Wingolfbrüder an Tillich, P/ Brief von Hans Schreiber an Paul Tillich vom 12. Januar 1908</occupation>
                </person>
                <person xml:id="tillich_person_id__2526">
-                  <persName>Weik, Unbekannt</persName>
+                  <persName>Weik, ???</persName>
                   <occupation>Studienkollege? Von Tillich. Wird erwähnt in: 1908.01.13. Wingolfbrüder an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2527">
-                  <persName>Hanker, Unbekannt</persName>
+                  <persName>Hanker, ???</persName>
                   <occupation>Studienkollege? Von Tillich. Wird erwähnt in: 1908.01.13. Wingolfbrüder an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2528">
-                  <persName>Schmidt, Frau</persName>
+                  <persName>Schmidt, (Frau)</persName>
                   <occupation>Affiliert mit Tillichs Mutter. Eventuell die Frau von Pastor Schmidt (P02246); erwähnt in: 1905. Tillich, M. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2529">
-                  <persName>Anna</persName>
+                  <persName>???, Anna</persName>
                   <occupation>Erwähnt in: 1914.10.23 Hartz, K and Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2530">
-                  <persName>Kühn</persName>
+                  <persName>Kühn, ???</persName>
                   <occupation>Erwähnt in: 1907.05.06: Bertheau, J. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2531">
-                  <persName>Vogt</persName>
+                  <persName>Vogt, ???</persName>
                   <occupation>Erwähnt in: 1907.05.06: Bertheau, J. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2532">
@@ -9289,12 +9288,14 @@
                   <occupation>Erwähnt in: 1907.03.21 Balke, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2536">
-                  <persName>Philister Kürstener, ???</persName>
+                  <persName>Kürstener, ???</persName>
                   <occupation>Erwähnt in: 1907.03.21 Balke, H. an Tillich, P.</occupation>
+                  <note type="bio"><p>Philister</p></note>
                </person>
                <person xml:id="tillich_person_id__2537">
-                  <persName>Philister Nell, ???</persName>
+                  <persName>Nell, ???</persName>
                   <occupation>Erwähnt in: 1907.04.05 Balke, H. an Tillich, P.</occupation>
+                  <note type="bio"><p>Philister</p></note>
                </person>
                <person xml:id="tillich_person_id__2538">
                   <persName>Bartels, Johann Heinrich Christian Adolf</persName>
@@ -9307,15 +9308,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/124747612</idno>
                </person>
                <person xml:id="tillich_person_id__2540">
-                  <persName>Bormann</persName>
+                  <persName>Bormann, ???</persName>
                   <occupation>Erwähnt in: 1915.01.12. Tillich, P an Tillich, J.</occupation>
                </person>
                <person xml:id="tillich_person_id__2541">
-                  <persName>Greiner</persName>
+                  <persName>Greiner, ???</persName>
                   <occupation>Erwähnt in: 1915.01.12. Tillich, P an Tillich, J.</occupation>
                </person>
                <person xml:id="tillich_person_id__2542">
-                  <persName>Bredt</persName>
+                  <persName>Bredt, ???</persName>
                   <occupation>Erwähnt in: 1907.04.05 Balke, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2543">
@@ -9324,12 +9325,12 @@
                   <idno type="gnd">https://d-nb.info/gnd/117142107</idno>
                </person>
                <person xml:id="tillich_person_id__2544">
-                  <persName>Spicker</persName>
+                  <persName>Spicker, ???</persName>
                   <occupation>Missionsinspektor/Erwähnt in: 1907.04.05 Balke, H. an Tillich, P.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1028222882</idno>
                </person>
                <person xml:id="tillich_person_id__2545">
-                  <persName>Schreiberle</persName>
+                  <persName>Schreiberle, ???</persName>
                   <occupation>Erwähnt in: 1907.04.05 Balke, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2546">
@@ -9338,13 +9339,14 @@
                   <idno type="gnd">https://d-nb.info/gnd/118567853</idno>
                </person>
                <person xml:id="tillich_person_id__2547">
-                  <persName>Kapell</persName>
+                  <persName>Kapell, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2548">
-                  <persName>Oberleutnant Menthe, Edgar</persName>
+                  <persName>Menthe, Edgar</persName>
+                  <note type="bio"><p>Oberleutnant</p></note>
                </person>
                <person xml:id="tillich_person_id__2549">
-                  <persName>Ilse</persName>
+                  <persName>???, Ilse</persName>
                </person>
                <person xml:id="tillich_person_id__2550">
                   <persName>Tillich, Hans</persName>
@@ -9354,11 +9356,11 @@
                   <occupation>Pfarrer, Erwähnt in: 1932.07.06. Tillich, P an Verlag Mohr Siebeck</occupation>
                </person>
                <person xml:id="tillich_person_id__2552">
-                  <persName>Napoleon III.</persName>
+                  <persName>Napoleon III., ???</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118586416</idno>
                </person>
                <person xml:id="tillich_person_id__2553">
-                  <persName>Famulus</persName>
+                  <persName>???, Famulus</persName>
                </person>
                <person xml:id="tillich_person_id__2554">
                   <persName>Peters, Hedda</persName>
@@ -9366,10 +9368,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/1107803306</idno>
                </person>
                <person xml:id="tillich_person_id__2555">
-                  <persName>"Mupa"</persName>
+                  <persName>???, Mupa</persName>
                </person>
                <person xml:id="tillich_person_id__2556">
-                  <persName>Wagner</persName>
+                  <persName>Wagner, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2557">
                   <persName>Beth, Karl</persName>
@@ -9377,26 +9379,26 @@
                   <idno type="gnd">https://d-nb.info/gnd/116155264</idno>
                </person>
                <person xml:id="tillich_person_id__2558">
-                  <persName>Wagner, Frau</persName>
+                  <persName>Wagner, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__2559">
-                  <persName>¿¿¿</persName>
+                  <persName>???, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2560">
-                  <persName>Ulli</persName>
+                  <persName>???, Ulli</persName>
                </person>
                <person xml:id="tillich_person_id__2561">
                   <persName>Kleist, Heinrich von</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118563076</idno>
                </person>
                <person xml:id="tillich_person_id__2562">
-                  <persName>B¿¿</persName>
+                  <persName>???, B</persName>
                </person>
                <person xml:id="tillich_person_id__2563">
-                  <persName>Walter</persName>
+                  <persName>???, Walter</persName>
                </person>
                <person xml:id="tillich_person_id__2564">
-                  <persName>Kallen</persName>
+                  <persName>Kallen, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2565">
                   <persName>Große, (Fräulein)</persName>
@@ -9406,10 +9408,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/118509896</idno>
                </person>
                <person xml:id="tillich_person_id__2567">
-                  <persName>Hilde</persName>
+                  <persName>???, Hilde</persName>
                </person>
                <person xml:id="tillich_person_id__2568">
-                  <persName>Peter</persName>
+                  <persName>???, Peter</persName>
                </person>
                <person xml:id="tillich_person_id__2569">
                   <persName>Ruprecht, Wilhelm</persName>
@@ -9450,22 +9452,22 @@
                   <idno type="gnd">https://d-nb.info/gnd/118506099</idno>
                </person>
                <person xml:id="tillich_person_id__2578">
-                  <persName>Stukemann</persName>
+                  <persName>Stukemann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2579">
-                  <persName>Ohlg</persName>
+                  <persName>Ohlg, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2580">
-                  <persName>Kehrler</persName>
+                  <persName>Kehrler, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2581">
-                  <persName>Steinbach</persName>
+                  <persName>Steinbach, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2582">
-                  <persName>Eisfeldt</persName>
+                  <persName>Eisfeldt, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2583">
-                  <persName>Linsa</persName>
+                  <persName>Linsa, ???</persName>
                   <occupation>Maler</occupation>
                </person>
                <person xml:id="tillich_person_id__2584">
@@ -9494,7 +9496,7 @@
                   <persName>Veronika</persName>
                </person>
                <person xml:id="tillich_person_id__2590">
-                  <persName>Kara</persName>
+                  <persName>Kara, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2592">
                   <persName>Rade, Paul Martin</persName>
@@ -9502,7 +9504,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118597612</idno>
                </person>
                <person xml:id="tillich_person_id__2594">
-                  <persName>Korreferent</persName>
+                  <persName>???, (Korreferent)</persName>
                   <note type="bio"><p>Korreferent bei der Begutachtung der Habilitationsschrift von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2595">
@@ -9510,10 +9512,10 @@
                   <note type="bio"><p>Bruder von Stepun, Natalja Nikolaevna</p></note>
                </person>
                <person xml:id="tillich_person_id__2596">
-                  <persName>Margrit</persName>
+                  <persName>???, Margrit</persName>
                </person>
                <person xml:id="tillich_person_id__2597">
-                  <persName>Jenenski</persName>
+                  <persName>Jenenski, ???</persName>
                   <note type="bio"><p>Eventuell die Namen Jenensky oder Janowski, könnten dafür stehen</p></note>
                </person>
                <person xml:id="tillich_person_id__2598">
@@ -9561,6 +9563,18 @@
                <person xml:id="tillich_person_id__2608">
                   <persName>T., Lisy</persName>
                   <occupation>Fotographin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2609">
+                  <persName>Ruckteschell, Elisabeth von</persName>
+                  <occupation>Malerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139305041</idno>
+                  <note type="bio"><p>Ehefrau von Bruno Goetz</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2611">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2612">
+                  <persName/>
                </person>
             </listPerson>
          </div>

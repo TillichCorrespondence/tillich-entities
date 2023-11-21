@@ -210,7 +210,7 @@
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "name": "Goetz, Bruno, Das Reich ohne Raum. Roman, Potsdam 1919. Erweiterte Ausgabe: Das Reich ohne Raum. Eine Chronik wunderlicher Begebenheiten. Neue unverstümmelte Ausgabe, Konstanz 1925.",
+    "name": "Goetz, Bruno, Das Reich ohne Raum, Potsdam 1919. Erweiterte Ausgabe: Das Reich ohne Raum. Eine Chronik wunderlicher Begebenheiten. Neue unverstümmelte Ausgabe, Konstanz 1925.",
     "working_note": "",
     "tillich_id": "tillich_work_id__27",
     "zotero": ""
@@ -218,9 +218,49 @@
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "name": "Tillich, Paul, Religionsphilosophie (Lehrbuch der Philosophie, Bd. 2, hg. von Max Dessoir), Berlin 1925",
+    "name": "Tillich, Paul, Religionsphilosophie, in: Dessoir, Max (Hg.), Lehrbuch der Philosophie, Bd. 2: Die Philosophie in ihren Einzelgebieten, Berlin 1925, S. 765-835.",
     "working_note": "auch in: GW I, 295-364.",
     "tillich_id": "tillich_work_id__28",
+    "zotero": ""
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "name": "Windelband, Wilhelm, Einleitung in die Philosophie, Tübingen 1914",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__29",
+    "zotero": ""
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "name": "Picardi, Roberta (Hg.), Carteggio Croce – Medicus, Bologna (Soc. Ed. Il. Mulino) 2002.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__30",
+    "zotero": ""
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "name": "Goetz, Bruno, Das göttliche Gesicht, Leipzig 1927.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__31",
+    "zotero": ""
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "name": "",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__32",
+    "zotero": ""
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "name": "",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__33",
     "zotero": ""
   }
 }
