@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "name": " Nouvron-Vingré",
     "tillich_id": "tillich_place_id__1",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/6425113"
   },
   "2": {
     "id": 2,
@@ -256,7 +256,7 @@
     "order": "37.00000000000000000000",
     "name": "Berlin",
     "tillich_id": "tillich_place_id__37",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2950159/"
   },
   "38": {
     "id": 38,
@@ -1124,7 +1124,7 @@
     "order": "161.00000000000000000000",
     "name": "Frankreich",
     "tillich_id": "tillich_place_id__161",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/3017382"
   },
   "162": {
     "id": 162,
@@ -1318,9 +1318,9 @@
   "189": {
     "id": 189,
     "order": "189.00000000000000000000",
-    "name": "Halle",
+    "name": "Halle (Saale)",
     "tillich_id": "tillich_place_id__189",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2911522/"
   },
   "190": {
     "id": 190,
@@ -3463,5 +3463,33 @@
     "name": "Schmilka bei Bad Schandau",
     "tillich_id": "tillich_place_id__498",
     "geonames_url": "https://www.geonames.org/2837731/schmilka.html"
+  },
+  "499": {
+    "id": 499,
+    "order": "496.00000000000000000000",
+    "name": "Nowogeorgiewsk",
+    "tillich_id": "tillich_place_id__499",
+    "geonames_url": "https://www.geonames.org/764529"
+  },
+  "500": {
+    "id": 500,
+    "order": "497.00000000000000000000",
+    "name": "Westerfelde",
+    "tillich_id": "tillich_place_id__500",
+    "geonames_url": "http://www.geonames.org/2810371/westerfelde.html"
+  },
+  "501": {
+    "id": 501,
+    "order": "498.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__501",
+    "geonames_url": ""
+  },
+  "502": {
+    "id": 502,
+    "order": "499.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__502",
+    "geonames_url": ""
   }
 }

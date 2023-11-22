@@ -2260,7 +2260,7 @@
                   <persName>Fritz, Alfred</persName>
                   <occupation>Pfarrer und Heimleiter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
-                  <note type="bio"><p>1904-1908 Studium der Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
+                  <note type="bio"><p>(auch Frede genannt)1904-1908 Studium der Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
                <person xml:id="tillich_person_id__642">
                   <persName>Fritz, Gottlieb</persName>
@@ -5369,6 +5369,7 @@
                <person xml:id="tillich_person_id__1562">
                   <persName>Rathmann, August</persName>
                   <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
+                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
                </person>
                <person xml:id="tillich_person_id__1563">
                   <persName>Ratramnus</persName>
@@ -7178,7 +7179,7 @@
                <person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>
                   <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
-                  <note type="bio"><p>Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
+                  <note type="bio"><p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p></note>
                </person>
                <person xml:id="tillich_person_id__2042">
                   <persName>Wernle, Paul</persName>
@@ -8377,7 +8378,7 @@
                   <occupation>Katholischer Pfarrer; mit Tillich im 1. WK.</occupation>
                </person>
                <person xml:id="tillich_person_id__2328">
-                  <persName>Heireke</persName>
+                  <persName>Hereike, ???</persName>
                   <occupation>Gerichtssektretär; mit Tillich im 1. WK.</occupation>
                </person>
                <person xml:id="tillich_person_id__2329">
@@ -9516,7 +9517,7 @@
                </person>
                <person xml:id="tillich_person_id__2597">
                   <persName>Jenenski, ???</persName>
-                  <note type="bio"><p>Eventuell die Namen Jenensky oder Janowski, könnten dafür stehen</p></note>
+                  <note type="bio"><p>Eventuell die Namen Jenenski oder Janowski, könnten dafür stehen</p></note>
                </person>
                <person xml:id="tillich_person_id__2598">
                   <persName>Weissenberg, Alfred</persName>
@@ -9571,10 +9572,19 @@
                   <note type="bio"><p>Ehefrau von Bruno Goetz</p></note>
                </person>
                <person xml:id="tillich_person_id__2611">
-                  <persName/>
+                  <persName>Falkenhayn, Erich von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118531875</idno>
                </person>
                <person xml:id="tillich_person_id__2612">
-                  <persName/>
+                  <persName>Carolus, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2613">
+                  <persName>Stöckler, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2614">
+                  <persName>Karsen, Fritz</persName>
+                  <occupation>Schulrat</occupation>
+                  <idno type="gnd">https://explore.gnd.network/gnd/118721054</idno>
                </person>
             </listPerson>
          </div>

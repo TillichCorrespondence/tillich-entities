@@ -250,7 +250,7 @@
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "name": "",
+    "name": "Pauck, Wilhelm/ Pauck, Marion, Paul Tillich. Sein Leben und Denken,  Bd. 1: Leben, Stuttgart 1978",
     "working_note": "",
     "tillich_id": "tillich_work_id__32",
     "zotero": ""
@@ -258,9 +258,25 @@
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "name": "",
+    "name": "Münchhausen, Börries von, Die Balladen und ritterlichen Lieder, Berlin 1908.",
     "working_note": "",
     "tillich_id": "tillich_work_id__33",
+    "zotero": ""
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "name": "Sturm, Erdmann, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924), in: International Yearbook for Tillich Research, 10(1), 273-332.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__34",
+    "zotero": ""
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": "",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__35",
     "zotero": ""
   }
 }

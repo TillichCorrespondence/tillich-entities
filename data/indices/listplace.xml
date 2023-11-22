@@ -581,7 +581,7 @@
                   <placeName>Halberstadt</placeName>
                </place>
                <place xml:id="tillich_place_id__189">
-                  <placeName>Halle</placeName>
+                  <placeName>Halle (Saale)</placeName>
                </place>
                <place xml:id="tillich_place_id__190">
                   <placeName/>
@@ -1500,6 +1500,18 @@
                </place>
                <place xml:id="tillich_place_id__498">
                   <placeName>Schmilka bei Bad Schandau</placeName>
+               </place>
+               <place xml:id="tillich_place_id__499">
+                  <placeName>Nowogeorgiewsk</placeName>
+               </place>
+               <place xml:id="tillich_place_id__500">
+                  <placeName>Westerfelde</placeName>
+               </place>
+               <place xml:id="tillich_place_id__501">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__502">
+                  <placeName/>
                </place>
             </listPlace>
          </div>
