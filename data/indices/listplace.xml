@@ -1508,9 +1508,18 @@
                   <placeName>Westerfelde</placeName>
                </place>
                <place xml:id="tillich_place_id__501">
-                  <placeName/>
+                  <placeName>Sommepy-Tahure</placeName>
                </place>
                <place xml:id="tillich_place_id__502">
+                  <placeName>Souain-Perthes-lès-Hurlus</placeName>
+               </place>
+               <place xml:id="tillich_place_id__503">
+                  <placeName>England</placeName>
+               </place>
+               <place xml:id="tillich_place_id__504">
+                  <placeName>Berlin-Charlottenburg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__505">
                   <placeName/>
                </place>
             </listPlace>

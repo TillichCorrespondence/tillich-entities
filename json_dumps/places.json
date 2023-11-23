@@ -3481,15 +3481,36 @@
   "501": {
     "id": 501,
     "order": "498.00000000000000000000",
-    "name": "",
+    "name": "Sommepy-Tahure",
     "tillich_id": "tillich_place_id__501",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/6436026/"
   },
   "502": {
     "id": 502,
     "order": "499.00000000000000000000",
-    "name": "",
+    "name": "Souain-Perthes-lès-Hurlus",
     "tillich_id": "tillich_place_id__502",
+    "geonames_url": "https://www.geonames.org/6436035"
+  },
+  "503": {
+    "id": 503,
+    "order": "500.00000000000000000000",
+    "name": "England",
+    "tillich_id": "tillich_place_id__503",
+    "geonames_url": "http://www.geonames.org/6269131/england.html"
+  },
+  "504": {
+    "id": 504,
+    "order": "501.00000000000000000000",
+    "name": "Berlin-Charlottenburg",
+    "tillich_id": "tillich_place_id__504",
+    "geonames_url": "https://www.geonames.org/2940187/"
+  },
+  "505": {
+    "id": 505,
+    "order": "502.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__505",
     "geonames_url": ""
   }
 }
