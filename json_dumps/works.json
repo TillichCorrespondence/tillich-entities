@@ -274,9 +274,25 @@
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "name": "",
+    "name": "Lourié, Samuel, Die Prinzipien der Wahrscheinlichkeitsrechnung. Eine logische Untersuchung des Disjunktiven Urteils, Leipzig 1910",
     "working_note": "",
     "tillich_id": "tillich_work_id__35",
+    "zotero": ""
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": "Sturm, Erdmann, Historische Einleitung zu Tillich, Paul, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30), in: Paul Tillich, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XV), Berlin/New York 2007, XXIII-LIX.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__36",
+    "zotero": ""
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "name": "Willbrandt, Robert von/Löwe, Adolf/Salomon, Gottfried (Hg.), Wirtschaft und Gesellschaft. Beiträge zur Oekonomik und Soziologie der Gegenwart (Festschrift Franz Oppenheimer), Frankfurt a. M. 1924",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__37",
     "zotero": ""
   }
 }

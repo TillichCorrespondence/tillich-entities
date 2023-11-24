@@ -2518,14 +2518,14 @@
     "surname": "Bäumler",
     "forename": "Alfred",
     "from_to": "",
-    "occupation": "",
+    "occupation": "Philosoph",
     "bio": "",
     "legacy_id": "P00158",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__158",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": null
+    "working_note": "auch: Baeumler"
   },
   "159": {
     "id": 159,
@@ -41847,13 +41847,13 @@
     "forename": "Gertrud",
     "from_to": "",
     "occupation": "",
-    "bio": "Schwester von Rosenbaum Eduard(die Quelle hätte ich von da, https://www.stolpersteine-hamburg.de/index.php?MAIN_ID=7&BIO_ID=352)",
+    "bio": "Schwester von Rosenbaum Eduard",
     "legacy_id": "",
     "gnd_url": "https://d-nb.info/gnd/12685565X",
     "tillich_id": "tillich_person_id__2620",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": ""
+    "working_note": "(die Quelle hätte ich von da, https://www.stolpersteine-hamburg.de/index.php?MAIN_ID=7&BIO_ID=352)"
   },
   "2621": {
     "id": 2621,
@@ -41874,14 +41874,14 @@
   "2622": {
     "id": 2622,
     "order": "2618.00000000000000000000",
-    "name": "",
-    "surname": "",
-    "forename": "",
-    "from_to": "",
-    "occupation": "",
+    "name": "Lourié, Samuel",
+    "surname": "Lourié",
+    "forename": "Samuel",
+    "from_to": "*1883",
+    "occupation": "Philosoph",
     "bio": "",
     "legacy_id": "",
-    "gnd_url": "",
+    "gnd_url": "http://d-nb.info/gnd/1145464289",
     "tillich_id": "tillich_person_id__2622",
     "date_of_birth": null,
     "date_of_death": null,

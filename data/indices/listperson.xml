@@ -643,6 +643,7 @@
                </person>
                <person xml:id="tillich_person_id__158">
                   <persName>Bäumler, Alfred</persName>
+                  <occupation>Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__159">
                   <persName>Baur, Ferdinand Christian</persName>
@@ -9612,13 +9613,15 @@
                <person xml:id="tillich_person_id__2620">
                   <persName>Rosenbaum, Gertrud</persName>
                   <idno type="gnd">https://d-nb.info/gnd/12685565X</idno>
-                  <note type="bio"><p>Schwester von Rosenbaum Eduard(die Quelle hätte ich von da, https://www.stolpersteine-hamburg.de/index.php?MAIN_ID=7&amp;BIO_ID=352)</p></note>
+                  <note type="bio"><p>Schwester von Rosenbaum Eduard</p></note>
                </person>
                <person xml:id="tillich_person_id__2621">
                   <persName>???, Ehrhard</persName>
                </person>
                <person xml:id="tillich_person_id__2622">
-                  <persName/>
+                  <persName>Lourié, Samuel</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1145464289</idno>
                </person>
                <person xml:id="tillich_person_id__2623">
                   <persName/>
