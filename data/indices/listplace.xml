@@ -1522,6 +1522,9 @@
                <place xml:id="tillich_place_id__505">
                   <placeName>Ouessant</placeName>
                </place>
+               <place xml:id="tillich_place_id__506">
+                  <placeName>Breslau</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

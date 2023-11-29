@@ -165,7 +165,7 @@
     "order": "24.00000000000000000000",
     "name": "Bad Schönfließ",
     "tillich_id": "tillich_place_id__24",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/3083158/"
   },
   "25": {
     "id": 25,
@@ -2552,7 +2552,7 @@
     "order": "365.00000000000000000000",
     "name": "Rethel",
     "tillich_id": "tillich_place_id__365",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2983891"
   },
   "366": {
     "id": 366,
@@ -3512,5 +3512,12 @@
     "name": "Ouessant",
     "tillich_id": "tillich_place_id__505",
     "geonames_url": "https://www.geonames.org/6620083"
+  },
+  "506": {
+    "id": 506,
+    "order": "503.00000000000000000000",
+    "name": "Breslau",
+    "tillich_id": "tillich_place_id__506",
+    "geonames_url": "https://www.geonames.org/3081368"
   }
 }
