@@ -3519,5 +3519,40 @@
     "name": "Breslau",
     "tillich_id": "tillich_place_id__506",
     "geonames_url": "https://www.geonames.org/3081368"
+  },
+  "507": {
+    "id": 507,
+    "order": "504.00000000000000000000",
+    "name": "Travemünde",
+    "tillich_id": "tillich_place_id__507",
+    "geonames_url": "https://www.geonames.org/2821480"
+  },
+  "508": {
+    "id": 508,
+    "order": "505.00000000000000000000",
+    "name": "Niendorf",
+    "tillich_id": "tillich_place_id__508",
+    "geonames_url": "https://www.geonames.org/2862596"
+  },
+  "509": {
+    "id": 509,
+    "order": "506.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__509",
+    "geonames_url": ""
+  },
+  "511": {
+    "id": 511,
+    "order": "507.00000000000000000000",
+    "name": "Rosenheim",
+    "tillich_id": "tillich_place_id__511",
+    "geonames_url": "https://www.geonames.org/2844988"
+  },
+  "512": {
+    "id": 512,
+    "order": "508.00000000000000000000",
+    "name": "Venedig",
+    "tillich_id": "tillich_place_id__512",
+    "geonames_url": "https://www.geonames.org/3164603"
   }
 }

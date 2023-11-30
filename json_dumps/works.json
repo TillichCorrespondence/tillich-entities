@@ -138,7 +138,7 @@
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "name": "Tillich, Paul, Über gläubigen Realismus, in: Theologische Blätter, Jg. 7, H. 5 (1928, Sp. 109-118.",
+    "name": "Tillich, Paul, Über gläubigen Realismus, in: Theologische Blätter, Jg. 7, H. 5 (1928), Sp. 109-118.",
     "working_note": "",
     "tillich_id": "tillich_work_id__18",
     "zotero": ""
@@ -387,7 +387,7 @@
     "id": 49,
     "order": "49.00000000000000000000",
     "name": "Shaw, Bernard, Der Kaiser von Amerika (Original: The Apple Cart), Komödie (1929), siehe Suhrkamp Gesammelte Werkausgabe Band 13",
-    "working_note": "Uraufführung des Theaters 1929 in Berlin, Erstellt 1928",
+    "working_note": "",
     "tillich_id": "tillich_work_id__49",
     "zotero": ""
   },
@@ -410,9 +410,97 @@
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "name": "",
+    "name": "Tillich, Paul, Joh 1,5 - Weihnachten: Das Licht scheint in der Finsternis, in: Ders., Frühe Predigten (EW VII), hg. von Erdmann Sturm, Berlin/New York 1994, S. 421-424.",
     "working_note": "",
     "tillich_id": "tillich_work_id__52",
+    "zotero": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "name": "Tillich, Paul, 2. Kor 4,17f - Auf das Unsichtbare und Ewige sehen, in: Ders., Frühe Predigten (EW VII), hg. von Erdmann Sturm, Berlin/New York 1994, S. 408-411.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__53",
+    "zotero": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "name": "Hochland. Monatsschrift für alle Gebiete des Wissens, der Literatur u. Kunst, hg. von Carl Muth, 1903ff.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__54",
+    "zotero": ""
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "name": "Stepun, Fedor, Das Problem der Demokratie in Rußland, in: Hochland, 22. Jg. (1925), Nr. 1, S. 389-404 u. 557-571.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__55",
+    "zotero": ""
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "name": "Stepun, Fedor, Die Mission der Demokratie in Rußland, in: Hochland, 23. Jg. (1926), Nr. 1, S. 412-434.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__56",
+    "zotero": ""
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "name": "Stepun, Fedor, Der metaphysische Sinn der Revolution und die Sowjetliteratur, 24. Jg. (1927), Nr. 2, S. 34-45 u. S. 187-198.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__57",
+    "zotero": ""
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "name": "Friedrich, Wolf. Cyankali (Drama), Berlin 1929",
+    "working_note": "Erstaufführung des Stücks 1929 in Berlin.",
+    "tillich_id": "tillich_work_id__58",
+    "zotero": ""
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "name": "Die Weltbühne : Wochenschrift für Politik, Kunst, Wirtschaft 1918 - 1993",
+    "working_note": "Wurde 1933 auch eingestellt",
+    "tillich_id": "tillich_work_id__59",
+    "zotero": ""
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "name": "Lübeckische Blätter. Zeitschrift der Gesellschaft zur Beförderung gemeinnütziger Arbeit, Jg. 73, Nr. 9 (1. März 1931)",
+    "working_note": "online unter: https://digital-stadtbibliothek.luebeck.de/viewer/image/L2301931/179/",
+    "tillich_id": "tillich_work_id__60",
+    "zotero": ""
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "name": "Tillich, Paul, Zwang und Freiheit im sozialen Leben (Philosophie der Macht), in: EW XI/2, S. 233-247.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__61",
+    "zotero": ""
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "name": "Tillich, Paul, Der Begriff der historischen Zeit, in: EW XI/2, S. 265-266.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__62",
+    "zotero": ""
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "name": "Tillich, Paul, Das Wohnen, der Raum und die Zeit. Rede anläßlich der Einweihungsfeier des Hauses auf dem Küssel in Potsdam, in: Die Form, Jg. 8 (1933), S. 11f.",
+    "working_note": "auch in: GW IX, 328-332.",
+    "tillich_id": "tillich_work_id__63",
     "zotero": ""
   }
 }

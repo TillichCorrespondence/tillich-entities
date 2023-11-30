@@ -8477,7 +8477,8 @@
                </person>
                <person xml:id="tillich_person_id__2350">
                   <persName>Dürr, Erich</persName>
-                  <occupation>Evtl. erwähnt im Brief PTs an Hannah Tillich vom 4.2.31. Vgl. https://kalliope-verbund.info/ead?ead.id=DE-611-HS-3079428</occupation>
+                  <occupation>Dramaturg, Regisseur, Kunstkritiker.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116240253</idno>
                </person>
                <person xml:id="tillich_person_id__2351">
                   <persName>Vandewater, ???</persName>
@@ -8618,8 +8619,8 @@
                </person>
                <person xml:id="tillich_person_id__2383">
                   <persName>Frey, Emmy</persName>
-                  <occupation>Erwähnt z.B. im Brief Tillichs an Hannah und Erdmuthe Tillich vom 4.12.1932; Vgl. evtl. (Identifikation unsicher!): https://www2.landesarchiv-bw.de/ofs21/olf/einfueh.php?bestand=50270</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1089666586</idno>
+                  <note type="bio"><p>Erwähnt z.B. im Brief Tillichs an Hannah und Erdmuthe Tillich vom 4.12.1932; Vgl. evtl. (Identifikation unsicher!): https://www2.landesarchiv-bw.de/ofs21/olf/einfueh.php?bestand=50270</p></note>
                </person>
                <person xml:id="tillich_person_id__2384">
                   <persName>Mislin, Hans</persName>
@@ -9653,7 +9654,51 @@
                </person>
                <person xml:id="tillich_person_id__2633">
                   <persName>Hochheimer(Fr), ???</persName>
-                  <occupation>(Frau Hocheimer, Erwähnt in 1929.10.26 Tillich an Hannah)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2634">
+                  <persName>Klein, Tim</persName>
+                  <occupation>Journalist, Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116212683</idno>
+               </person>
+               <person xml:id="tillich_person_id__2635">
+                  <persName>Gründler, Otto</persName>
+                  <occupation>Journalist, Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116888202</idno>
+               </person>
+               <person xml:id="tillich_person_id__2636">
+                  <persName>Langenfaß, Friedrich</persName>
+                  <occupation>Theologe, Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116707593</idno>
+               </person>
+               <person xml:id="tillich_person_id__2637">
+                  <persName>???, André</persName>
+                  <occupation>(Freund Tillichs und scheinbar Ulli, erwähnt in: Tillich zu Hannah 1929.10.26.)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2638">
+                  <persName>Nelson (Revün), ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2639">
+                  <persName>Ulich, Robert</persName>
+                  <occupation>Dr. Robert Ulich, Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
+               </person>
+               <person xml:id="tillich_person_id__2640">
+                  <persName>Rückert, Hanns</persName>
+                  <occupation>Prof. für Kirchengeschichte</occupation>
+                  <note type="bio"><p>Prof. für Kirchengeschichte in Leipzig, 1931 in Tübingen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2641">
+                  <persName>Vogelsang, Erich</persName>
+                  <occupation>Privatdozent für Kirchengeschichte und Kirchenmusik</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2642">
+                  <persName>Granach, Alexander</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11854148X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2643">
+                  <persName>Würzburger, Karl</persName>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117376094</idno>
                </person>
             </listPerson>
          </div>

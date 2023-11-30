@@ -1525,6 +1525,21 @@
                <place xml:id="tillich_place_id__506">
                   <placeName>Breslau</placeName>
                </place>
+               <place xml:id="tillich_place_id__507">
+                  <placeName>Travemünde</placeName>
+               </place>
+               <place xml:id="tillich_place_id__508">
+                  <placeName>Niendorf</placeName>
+               </place>
+               <place xml:id="tillich_place_id__509">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__511">
+                  <placeName>Rosenheim</placeName>
+               </place>
+               <place xml:id="tillich_place_id__512">
+                  <placeName>Venedig</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
