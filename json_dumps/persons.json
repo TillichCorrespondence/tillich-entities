@@ -37654,14 +37654,14 @@
     "surname": "???",
     "forename": "Anna",
     "from_to": "",
-    "occupation": "bisher nicht ermittelt, erwähnt in PT an Hannah Tillich, 22.09.1932",
+    "occupation": "",
     "bio": "",
     "legacy_id": "P02359",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__2354",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": null
+    "working_note": "bisher nicht ermittelt, erwähnt in PT an Hannah Tillich, 22.09.1932"
   },
   "2355": {
     "id": 2355,
@@ -42190,5 +42190,37 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""
+  },
+  "2644": {
+    "id": 2644,
+    "order": "2640.00000000000000000000",
+    "name": "Hansen",
+    "surname": "Hansen",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2644",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "Erwähnt in L01111, bisher nicht ermittelt"
+  },
+  "2645": {
+    "id": 2645,
+    "order": "2641.00000000000000000000",
+    "name": "Elfriede",
+    "surname": "???",
+    "forename": "Elfriede",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2645",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "Erwähnt in L01111, bisher nicht ermittelt"
   }
 }
