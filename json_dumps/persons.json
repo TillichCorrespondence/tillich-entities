@@ -42222,5 +42222,21 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": "Erwähnt in L01111, bisher nicht ermittelt"
+  },
+  "2646": {
+    "id": 2646,
+    "order": "2642.00000000000000000000",
+    "name": "Schwarz",
+    "surname": "Schwarz",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2646",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "bisher nicht ermittelt. Erwähnt in L00905"
   }
 }
