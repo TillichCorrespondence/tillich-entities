@@ -1540,6 +1540,15 @@
                <place xml:id="tillich_place_id__512">
                   <placeName>Venedig</placeName>
                </place>
+               <place xml:id="tillich_place_id__513">
+                  <placeName>Ardennen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__514">
+                  <placeName>Müggelsee</placeName>
+               </place>
+               <place xml:id="tillich_place_id__515">
+                  <placeName>Kaliningrad (Königsberg)</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

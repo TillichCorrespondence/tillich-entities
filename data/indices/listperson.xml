@@ -3143,6 +3143,7 @@
                <person xml:id="tillich_person_id__904">
                   <persName>Hirsch, Emanuel</persName>
                   <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
                </person>
                <person xml:id="tillich_person_id__905">
                   <persName>Hirsch, Hans S.</persName>
@@ -4073,6 +4074,8 @@
                </person>
                <person xml:id="tillich_person_id__1180">
                   <persName>Lietzmann, Hans</persName>
+                  <occupation>Evangelischer Theologe, Kirchenhistoriker, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118572865</idno>
                </person>
                <person xml:id="tillich_person_id__1181">
                   <persName>Liguori, Alfonso Maria di</persName>
@@ -6360,7 +6363,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/118798502</idno>
                </person>
                <person xml:id="tillich_person_id__1844">
-                  <persName>Stauchnger, Else</persName>
+                  <persName>Staudinger, Else</persName>
+                  <occupation>Verbandsfunktionärin, Volkswirtschaftlerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117223336</idno>
                </person>
                <person xml:id="tillich_person_id__1845">
                   <persName>Staudinger, Hans</persName>
@@ -9684,11 +9689,14 @@
                <person xml:id="tillich_person_id__2640">
                   <persName>Rückert, Hanns</persName>
                   <occupation>Prof. für Kirchengeschichte</occupation>
-                  <note type="bio"><p>Prof. für Kirchengeschichte in Leipzig, 1931 in Tübingen.</p></note>
+                  <idno type="gnd">https://d-nb.info/gnd/116673567</idno>
+                  <note type="bio"><p>Prof. für Kirchengeschichte in Leipzig(1928), 1931 in Tübingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2641">
                   <persName>Vogelsang, Erich</persName>
                   <occupation>Privatdozent für Kirchengeschichte und Kirchenmusik</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133273830</idno>
+                  <note type="bio"><p>Privatdozent aus Königsberg(GND verweis in Geoname ist Kaliningrad)</p></note>
                </person>
                <person xml:id="tillich_person_id__2642">
                   <persName>Granach, Alexander</persName>
@@ -9707,6 +9715,47 @@
                </person>
                <person xml:id="tillich_person_id__2646">
                   <persName>Schwarz</persName>
+               </person>
+               <person xml:id="tillich_person_id__2647">
+                  <persName>Brandis, Cordt von</persName>
+                  <occupation>Offizier, Freikorpsführer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118673181</idno>
+               </person>
+               <person xml:id="tillich_person_id__2648">
+                  <persName>Hermelink, Heinrich</persName>
+                  <occupation>Prof. für Kirchengeschichte</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
+                  <note type="bio"><p>1915 o. Prof. für Kirchengeschichte in Bonn, 1916 in Marburg</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2649">
+                  <persName>Zscharnack, Leopold</persName>
+                  <occupation>Prof. für Kirchengeschichte</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117015067</idno>
+                  <note type="bio"><p>1922 o. Prof. für Kirchengeschichte in Breslau, 1925 in Königsberg.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2650">
+                  <persName>Kohlmeyer, Ernst</persName>
+                  <occupation>Prof. für Kirchengeschichte</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116307552</idno>
+                  <note type="bio"><p>1926 o. Prof. für Kirchengeschichte in Breslau, 1929 in Halle</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2651">
+                  <persName>Dreß, Walter</persName>
+                  <occupation>Privatdozent für Kirchengeschichte</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118680722</idno>
+                  <note type="bio"><p>Schwager und Freund D. Bonhoeffers, 1929 Privatdozent für Kirchengeschichte in Berlin, 1930-1933 Prof. an der Lutherakademie in Dorpat. 1935 Bruch mit seinem Lehrer E. Seeberg (wegen des von R. Seeberg verfassten Gutachtens zu den Thesen der Reichsbewegung der DC(aus: Erdmann Sturm, Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit, Berlin 2012 ))</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2652">
+                  <persName>Wedemeyer, Hans von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119124947</idno>
+               </person>
+               <person xml:id="tillich_person_id__2653">
+                  <persName>Lütgert, Martha</persName>
+                  <occupation>Frau von Wilhelm Lütgert</occupation>
+                  <note type="bio"><p>geb. Sellschopp</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2654">
+                  <persName>Elses Schwester</persName>
                </person>
             </listPerson>
          </div>

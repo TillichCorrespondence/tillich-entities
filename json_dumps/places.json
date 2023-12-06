@@ -3554,5 +3554,26 @@
     "name": "Venedig",
     "tillich_id": "tillich_place_id__512",
     "geonames_url": "https://www.geonames.org/3164603"
+  },
+  "513": {
+    "id": 513,
+    "order": "509.00000000000000000000",
+    "name": "Ardennen",
+    "tillich_id": "tillich_place_id__513",
+    "geonames_url": "https://www.geonames.org/2803095"
+  },
+  "514": {
+    "id": 514,
+    "order": "510.00000000000000000000",
+    "name": "Müggelsee",
+    "tillich_id": "tillich_place_id__514",
+    "geonames_url": "https://www.geonames.org/2916161"
+  },
+  "515": {
+    "id": 515,
+    "order": "511.00000000000000000000",
+    "name": "Kaliningrad (Königsberg)",
+    "tillich_id": "tillich_place_id__515",
+    "geonames_url": "https://www.geonames.org/554234/"
   }
 }
