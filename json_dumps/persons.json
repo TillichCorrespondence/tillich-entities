@@ -42366,5 +42366,21 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": "bisher nicht ermittelt. \"Else\" ist vermutlich Else Staudinger."
+  },
+  "2655": {
+    "id": 2655,
+    "order": "2651.00000000000000000000",
+    "name": "Klotz, Evamaria",
+    "surname": "Klotz",
+    "forename": "Evamaria",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2655",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "bisher nicht ermittelt. PT an Hannah Tillich vom 31.07.1933"
   }
 }

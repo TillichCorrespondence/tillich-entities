@@ -1549,6 +1549,9 @@
                <place xml:id="tillich_place_id__515">
                   <placeName>Kaliningrad (Königsberg)</placeName>
                </place>
+               <place xml:id="tillich_place_id__516">
+                  <placeName>Leiden</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
