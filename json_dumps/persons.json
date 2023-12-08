@@ -41021,7 +41021,7 @@
     "tillich_id": "tillich_person_id__2564",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "Dürfte weiblich sein, vgl. PT an Hannah Tillich vom 7. Januar 1933 (2); vgl.auch: tillich__1933-01-05-tillich-p-und-elis-an-tillich-h_"
+    "working_note": "Dürfte weiblich sein, vgl. PT an Hannah Tillich vom 7. Januar 1933 (2); vgl. auch PT an HT 8.1.27.; vgl.auch: tillich__1933-01-05-tillich-p-und-elis-an-tillich-h_"
   },
   "2565": {
     "id": 2565,
@@ -42382,5 +42382,37 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": "bisher nicht ermittelt. PT an Hannah Tillich vom 31.07.1933"
+  },
+  "2656": {
+    "id": 2656,
+    "order": "2652.00000000000000000000",
+    "name": "Christians, ???",
+    "surname": "Christians",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2656",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "Erwähnt im Brief Paul Tillich an Hannah Tillich vom 08.01.1927"
+  },
+  "2657": {
+    "id": 2657,
+    "order": "2653.00000000000000000000",
+    "name": "Otto, Heiner",
+    "surname": "Otto",
+    "forename": "Heiner",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2657",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": ""
   }
 }

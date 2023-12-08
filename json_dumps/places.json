@@ -3582,5 +3582,12 @@
     "name": "Leiden",
     "tillich_id": "tillich_place_id__516",
     "geonames_url": "https://www.geonames.org/2751773"
+  },
+  "517": {
+    "id": 517,
+    "order": "513.00000000000000000000",
+    "name": "Sellin",
+    "tillich_id": "tillich_place_id__517",
+    "geonames_url": "https://www.geonames.org/2856189"
   }
 }
