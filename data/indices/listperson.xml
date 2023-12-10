@@ -9762,6 +9762,10 @@
                <person xml:id="tillich_person_id__2657">
                   <persName>Otto, Heiner</persName>
                </person>
+               <person xml:id="tillich_person_id__2658">
+                  <persName>Flechtheim, Alfred</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118952714</idno>
+               </person>
             </listPerson>
          </div>
       </body>

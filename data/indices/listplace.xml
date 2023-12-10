@@ -1555,6 +1555,9 @@
                <place xml:id="tillich_place_id__517">
                   <placeName>Sellin</placeName>
                </place>
+               <place xml:id="tillich_place_id__518">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

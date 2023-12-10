@@ -42414,5 +42414,21 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""
+  },
+  "2658": {
+    "id": 2658,
+    "order": "2654.00000000000000000000",
+    "name": "Flechtheim, Alfred",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/118952714",
+    "tillich_id": "tillich_person_id__2658",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": ""
   }
 }
