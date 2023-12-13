@@ -42430,5 +42430,37 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""
+  },
+  "2659": {
+    "id": 2659,
+    "order": "2655.00000000000000000000",
+    "name": "Anja",
+    "surname": "???",
+    "forename": "Anja",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2659",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "nicht ermittelt. Erwähnt in L00939"
+  },
+  "2660": {
+    "id": 2660,
+    "order": "2656.00000000000000000000",
+    "name": "Bine",
+    "surname": "???",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2660",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "Unsichere Lesart. Bisher nicht ermittelt. Evtl. \"Sabine\"? Erwähnt in L00939"
   }
 }
