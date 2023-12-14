@@ -1561,6 +1561,33 @@
                <place xml:id="tillich_place_id__519">
                   <placeName>Bouconville</placeName>
                </place>
+               <place xml:id="tillich_place_id__520">
+                  <placeName>Utrecht</placeName>
+               </place>
+               <place xml:id="tillich_place_id__521">
+                  <placeName>Rotterdam</placeName>
+               </place>
+               <place xml:id="tillich_place_id__522">
+                  <placeName>Scheveningen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__523">
+                  <placeName>Delft</placeName>
+               </place>
+               <place xml:id="tillich_place_id__524">
+                  <placeName>Unna</placeName>
+               </place>
+               <place xml:id="tillich_place_id__525">
+                  <placeName>Volendam</placeName>
+               </place>
+               <place xml:id="tillich_place_id__526">
+                  <placeName>Arnhem</placeName>
+               </place>
+               <place xml:id="tillich_place_id__527">
+                  <placeName>Groningen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__528">
+                  <placeName>Zuiderzee</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

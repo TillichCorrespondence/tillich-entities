@@ -757,7 +757,6 @@
                </person>
                <person xml:id="tillich_person_id__190">
                   <persName>Berger, Geza</persName>
-                  <note type="bio"><p>Erwähnt im Reisetagebuch</p></note>
                </person>
                <person xml:id="tillich_person_id__191">
                   <persName>Berger, Ida</persName>
@@ -847,6 +846,7 @@
                <person xml:id="tillich_person_id__217">
                   <persName>Bienert, Ida</persName>
                   <occupation>Dresdner Kunstsammlerin und Mäzenatin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133509060</idno>
                </person>
                <person xml:id="tillich_person_id__218">
                   <persName>Bienert, Erwin</persName>
@@ -1027,6 +1027,9 @@
                </person>
                <person xml:id="tillich_person_id__271">
                   <persName>Brändström, Elsa</persName>
+                  <occupation>Philanthropin, Lehrerin, Krankenschwester</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514407</idno>
+                  <note type="bio"><p>(hat Ulich Robert als Ehemann)</p></note>
                </person>
                <person xml:id="tillich_person_id__272">
                   <persName>Braque, Georges</persName>
@@ -6305,11 +6308,11 @@
                   <persName>Spiegelberg, Friedrich</persName>
                   <occupation>Religionswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
-                  <note type="bio"><p>Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
+                  <note type="bio"><p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p></note>
                </person>
                <person xml:id="tillich_person_id__1830">
                   <persName>Spiegelberg, Rosalie</persName>
-                  <note type="bio"><p>Frau von Friedrich Spiegelberg</p></note>
+                  <note type="bio"><p>Frau von Friedrich(Frederic) Spiegelberg</p></note>
                </person>
                <person xml:id="tillich_person_id__1831">
                   <persName>Spiero, Sabine</persName>
@@ -6867,6 +6870,7 @@
                   <persName>Ulich, Robert</persName>
                   <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
+                  <note type="bio"><p>(verheiratet mit Brändström, Elsa)</p></note>
                </person>
                <person xml:id="tillich_person_id__1966">
                   <persName>Ulrich, Thomas</persName>
@@ -9771,6 +9775,33 @@
                </person>
                <person xml:id="tillich_person_id__2660">
                   <persName>Bine</persName>
+               </person>
+               <person xml:id="tillich_person_id__2661">
+                  <persName>Jordan, Hermann Jacques</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117182591</idno>
+               </person>
+               <person xml:id="tillich_person_id__2662">
+                  <persName>Vermeer, Jan</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118626590</idno>
+               </person>
+               <person xml:id="tillich_person_id__2663">
+                  <persName>Frau von Geza Berger</persName>
+               </person>
+               <person xml:id="tillich_person_id__2664">
+                  <persName>Rivera</persName>
+               </person>
+               <person xml:id="tillich_person_id__2665">
+                  <persName>Otte</persName>
+               </person>
+               <person xml:id="tillich_person_id__2666">
+                  <persName>Forrer, Anita</persName>
+                  <occupation>Grafologin, Fotografin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118534386</idno>
+               </person>
+               <person xml:id="tillich_person_id__2667">
+                  <persName>Gräfenberg, Rosie</persName>
+                  <occupation>Schriftstellerin, Journalistin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/107662450</idno>
                </person>
             </listPerson>
          </div>
