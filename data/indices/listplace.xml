@@ -1588,6 +1588,12 @@
                <place xml:id="tillich_place_id__528">
                   <placeName>Zuiderzee</placeName>
                </place>
+               <place xml:id="tillich_place_id__529">
+                  <placeName>Bad Ferienwalde</placeName>
+               </place>
+               <place xml:id="tillich_place_id__530">
+                  <placeName>Dortmund</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

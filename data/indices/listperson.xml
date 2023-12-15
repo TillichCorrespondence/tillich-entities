@@ -9803,6 +9803,20 @@
                   <occupation>Schriftstellerin, Journalistin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/107662450</idno>
                </person>
+               <person xml:id="tillich_person_id__2668">
+                  <persName>Frau von Richard Wegener</persName>
+               </person>
+               <person xml:id="tillich_person_id__2669">
+                  <persName>Goetz, Curt</persName>
+                  <occupation>Deutsch-schweizerischer Schriftsteller und Schauspieler.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118540297</idno>
+               </person>
+               <person xml:id="tillich_person_id__2670">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2671">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>

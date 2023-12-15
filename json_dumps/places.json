@@ -3666,5 +3666,19 @@
     "name": "Zuiderzee",
     "tillich_id": "tillich_place_id__528",
     "geonames_url": "https://www.geonames.org/2753361"
+  },
+  "529": {
+    "id": 529,
+    "order": "525.00000000000000000000",
+    "name": "Bad Ferienwalde",
+    "tillich_id": "tillich_place_id__529",
+    "geonames_url": ""
+  },
+  "530": {
+    "id": 530,
+    "order": "526.00000000000000000000",
+    "name": "Dortmund",
+    "tillich_id": "tillich_place_id__530",
+    "geonames_url": "https://www.geonames.org/2935517/dortmund.html"
   }
 }
