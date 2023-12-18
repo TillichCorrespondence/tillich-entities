@@ -1594,6 +1594,9 @@
                <place xml:id="tillich_place_id__530">
                   <placeName>Dortmund</placeName>
                </place>
+               <place xml:id="tillich_place_id__531">
+                  <placeName>Berlin-Leipzig (Bahnpost)</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
