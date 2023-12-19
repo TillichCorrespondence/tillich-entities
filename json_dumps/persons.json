@@ -42413,7 +42413,7 @@
     "tillich_id": "tillich_person_id__2657",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": ""
+    "working_note": "Oder Otte? Nicht ermittelt bisher."
   },
   "2658": {
     "id": 2658,
@@ -42610,9 +42610,9 @@
   "2670": {
     "id": 2670,
     "order": "2666.00000000000000000000",
-    "name": "",
-    "surname": "",
-    "forename": "",
+    "name": "Veronika",
+    "surname": "???",
+    "forename": "Veronika",
     "from_to": "",
     "occupation": "",
     "bio": "",
@@ -42635,6 +42635,38 @@
     "legacy_id": "",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__2671",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": ""
+  },
+  "2672": {
+    "id": 2672,
+    "order": "2668.00000000000000000000",
+    "name": "Otto",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2672",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "erwähnt in L00983; nicht ermittelt"
+  },
+  "2673": {
+    "id": 2673,
+    "order": "2669.00000000000000000000",
+    "name": "Wassermann, Jakob",
+    "surname": "Wassermann",
+    "forename": "Jakob",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/118629387",
+    "tillich_id": "tillich_person_id__2673",
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""

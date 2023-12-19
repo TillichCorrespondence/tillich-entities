@@ -9814,10 +9814,17 @@
                   <idno type="gnd">https://d-nb.info/gnd/118540297</idno>
                </person>
                <person xml:id="tillich_person_id__2670">
-                  <persName/>
+                  <persName>Veronika</persName>
                </person>
                <person xml:id="tillich_person_id__2671">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2672">
+                  <persName>Otto</persName>
+               </person>
+               <person xml:id="tillich_person_id__2673">
+                  <persName>Wassermann, Jakob</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118629387</idno>
                </person>
             </listPerson>
          </div>

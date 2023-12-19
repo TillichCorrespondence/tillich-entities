@@ -3687,5 +3687,12 @@
     "name": "Berlin-Leipzig (Bahnpost)",
     "tillich_id": "tillich_place_id__531",
     "geonames_url": ""
+  },
+  "532": {
+    "id": 532,
+    "order": "528.00000000000000000000",
+    "name": "Kloster (Hiddensee)",
+    "tillich_id": "tillich_place_id__532",
+    "geonames_url": "https://www.geonames.org/2887560"
   }
 }
