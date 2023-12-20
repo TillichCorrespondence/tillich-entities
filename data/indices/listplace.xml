@@ -1600,6 +1600,18 @@
                <place xml:id="tillich_place_id__532">
                   <placeName>Kloster (Hiddensee)</placeName>
                </place>
+               <place xml:id="tillich_place_id__533">
+                  <placeName>Königssee</placeName>
+               </place>
+               <place xml:id="tillich_place_id__534">
+                  <placeName>Berchtesgaden</placeName>
+               </place>
+               <place xml:id="tillich_place_id__535">
+                  <placeName>Hiddensee</placeName>
+               </place>
+               <place xml:id="tillich_place_id__536">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

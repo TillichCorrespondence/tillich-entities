@@ -3694,5 +3694,33 @@
     "name": "Kloster (Hiddensee)",
     "tillich_id": "tillich_place_id__532",
     "geonames_url": "https://www.geonames.org/2887560"
+  },
+  "533": {
+    "id": 533,
+    "order": "529.00000000000000000000",
+    "name": "Königssee",
+    "tillich_id": "tillich_place_id__533",
+    "geonames_url": "https://www.geonames.org/2885777"
+  },
+  "534": {
+    "id": 534,
+    "order": "530.00000000000000000000",
+    "name": "Berchtesgaden",
+    "tillich_id": "tillich_place_id__534",
+    "geonames_url": "https://www.geonames.org/2950881"
+  },
+  "535": {
+    "id": 535,
+    "order": "531.00000000000000000000",
+    "name": "Hiddensee",
+    "tillich_id": "tillich_place_id__535",
+    "geonames_url": "https://www.geonames.org/2904885"
+  },
+  "536": {
+    "id": 536,
+    "order": "532.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__536",
+    "geonames_url": ""
   }
 }

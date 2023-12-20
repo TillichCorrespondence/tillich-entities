@@ -1162,9 +1162,7 @@
                <person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
-               </person>
-               <person xml:id="tillich_person_id__311">
-                  <persName>Büchsel, Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                </person>
                <person xml:id="tillich_person_id__312">
                   <persName>Buddha</persName>
@@ -9825,6 +9823,49 @@
                <person xml:id="tillich_person_id__2673">
                   <persName>Wassermann, Jakob</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118629387</idno>
+               </person>
+               <person xml:id="tillich_person_id__2674">
+                  <persName>???, Therese</persName>
+               </person>
+               <person xml:id="tillich_person_id__2675">
+                  <persName>???, Leona</persName>
+               </person>
+               <person xml:id="tillich_person_id__2676">
+                  <persName>???, Aurelia</persName>
+               </person>
+               <person xml:id="tillich_person_id__2677">
+                  <persName>???, Berthe</persName>
+               </person>
+               <person xml:id="tillich_person_id__2678">
+                  <persName>???, Jeanne</persName>
+               </person>
+               <person xml:id="tillich_person_id__2679">
+                  <persName>???, Georgina</persName>
+               </person>
+               <person xml:id="tillich_person_id__2680">
+                  <persName>???, Lore</persName>
+               </person>
+               <person xml:id="tillich_person_id__2681">
+                  <persName>Frau ¿¿¿</persName>
+               </person>
+               <person xml:id="tillich_person_id__2682">
+                  <persName>Hoffmann, Hermann</persName>
+                  <occupation>Modeschöpfer für Herrn</occupation>
+                  <note type="bio"><p>In Berlin Modehaus tätig</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2683">
+                  <persName>Emmerich, Herbert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2684">
+                  <persName>B., ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2685">
+                  <persName>Bassermann, Albert</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118653407</idno>
+               </person>
+               <person xml:id="tillich_person_id__2686">
+                  <persName>Mannheim, Lucie</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118730665</idno>
                </person>
             </listPerson>
          </div>
