@@ -3333,6 +3333,8 @@
                </person>
                <person xml:id="tillich_person_id__963">
                   <persName>Jacker, John Arthur</persName>
+                  <occupation>Fleischfabrikant</occupation>
+                  <note type="bio"><p>Geboren in Prag (Tschechoslowakei), Heirat mit Annie Jacker im Jahr 1915 in Wien. Von 1914 bis 1933 Lebensmittelpunkt in Berlin, wo J. Fleischverpackungsbetrieben vorstand, bevor er am 1. April 1933 seinen Beruf aufgeben musste. Exil in Paris und Grenoble bis 1942, danach in der Schweiz und schließlich in New York.</p></note>
                </person>
                <person xml:id="tillich_person_id__964">
                   <persName>Jacobi, Friedrich Heinrich</persName>
@@ -9004,9 +9006,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/1052278809</idno>
                </person>
                <person xml:id="tillich_person_id__2467">
-                  <persName>Hochheimer, ???</persName>
-                  <occupation>Herrn Dr. Hochheimer, Erwähnt in "1932.05.01. Tillich, P an Verlag Mohr Siebeck"</occupation>
-                  <note type="bio"><p>(Kronprinzenstr. 28 Halle/Saale, 1932)</p></note>
+                  <persName>Hochheimer, Wolfgang</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/122796608</idno>
                </person>
                <person xml:id="tillich_person_id__2468">
                   <persName>Seeberg, Bengt</persName>
@@ -9608,9 +9609,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/116621583</idno>
                </person>
                <person xml:id="tillich_person_id__2620">
-                  <persName>Rosenbaum, Gertrud</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/12685565X</idno>
-                  <note type="bio"><p>Sie war die Schwester von Eduard Rosenbaum.</p></note>
+                  <persName>Rosenbaum, Frau</persName>
                </person>
                <person xml:id="tillich_person_id__2621">
                   <persName>???, Ehrhard</persName>
@@ -9638,7 +9637,7 @@
                   <note type="bio"><p>Er war Dekan der Theologischen Fakultät während Tillichs Habilitationsvorlesung in Halle.</p></note>
                </person>
                <person xml:id="tillich_person_id__2627">
-                  <persName>Küche, ???</persName>
+                  <persName>Frau K¿¿¿</persName>
                </person>
                <person xml:id="tillich_person_id__2628">
                   <persName>Wild von Hohenborn, Adolf</persName>
@@ -9678,7 +9677,8 @@
                   <note type="bio"><p>Er war ein Freund von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2638">
-                  <persName>Nelson (Revün), ???</persName>
+                  <persName>Nelson, Rudolf</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118738410</idno>
                </person>
                <person xml:id="tillich_person_id__2639">
                   <persName>Ulich, Robert</persName>
@@ -9855,6 +9855,8 @@
                </person>
                <person xml:id="tillich_person_id__2683">
                   <persName>Emmerich, Herbert</persName>
+                  <occupation>Bürgermeister (SPD)</occupation>
+                  <note type="bio"><p>Bürgermeister von Unna 12. Januar 1926 bis 8. März 1933. Am 2. September 1933 wurde er entlassen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2684">
                   <persName>B., ???</persName>
@@ -9866,6 +9868,18 @@
                <person xml:id="tillich_person_id__2686">
                   <persName>Mannheim, Lucie</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118730665</idno>
+               </person>
+               <person xml:id="tillich_person_id__2687">
+                  <persName>Tillich, Fa. (?)</persName>
+                  <occupation>Tante Tillichs</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2688">
+                  <persName>Rothschild</persName>
+               </person>
+               <person xml:id="tillich_person_id__2689">
+                  <persName>Jacker, Annie</persName>
+                  <occupation>Journalistin</occupation>
+                  <note type="bio"><p>J. schrieb unter anderem für die "Vossische Zeitung" sowie für die "Weltbühne". Die jüdische Journalistin, die mit dem Fleischfabrikanten Arthur Jacker verheiratet war, starb unerwartet am 7. April 1931.</p></note>
                </person>
             </listPerson>
          </div>

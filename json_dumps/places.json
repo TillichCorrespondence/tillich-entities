@@ -1173,7 +1173,7 @@
     "order": "168.00000000000000000000",
     "name": "Freienwalde",
     "tillich_id": "tillich_place_id__168",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2953458"
   },
   "169": {
     "id": 169,
@@ -1607,7 +1607,7 @@
     "order": "230.00000000000000000000",
     "name": "Kampen",
     "tillich_id": "tillich_place_id__230",
-    "geonames_url": ""
+    "geonames_url": "https://www.geonames.org/2893295"
   },
   "231": {
     "id": 231,
@@ -3722,5 +3722,19 @@
     "name": "",
     "tillich_id": "tillich_place_id__536",
     "geonames_url": ""
+  },
+  "537": {
+    "id": 537,
+    "order": "533.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__537",
+    "geonames_url": ""
+  },
+  "538": {
+    "id": 538,
+    "order": "534.00000000000000000000",
+    "name": "Piaseczno",
+    "tillich_id": "tillich_place_id__538",
+    "geonames_url": "https://www.geonames.org/762423"
   }
 }

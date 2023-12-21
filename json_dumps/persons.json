@@ -15380,16 +15380,16 @@
     "order": "963.00000000000000000000",
     "name": "Jacker, John Arthur",
     "surname": "Jacker",
-    "forename": "John Arthur",
-    "from_to": "",
-    "occupation": "",
-    "bio": "",
+    "forename": "Arthur",
+    "from_to": "1875-1963",
+    "occupation": "Fleischfabrikant",
+    "bio": "Geboren in Prag (Tschechoslowakei), Heirat mit Annie Jacker im Jahr 1915 in Wien. Von 1914 bis 1933 Lebensmittelpunkt in Berlin, wo J. Fleischverpackungsbetrieben vorstand, bevor er am 1. April 1933 seinen Beruf aufgeben musste. Exil in Paris und Grenoble bis 1942, danach in der Schweiz und schließlich in New York.",
     "legacy_id": "P00963",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__963",
-    "date_of_birth": null,
-    "date_of_death": null,
-    "working_note": null
+    "date_of_birth": "1875-07-19",
+    "date_of_death": "1963-07-06",
+    "working_note": "Quelle: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjpqMqKmJ6DAxVS7AIHHaOWDjUQFnoECA4QAQ&url=https%3A%2F%2Fcrt-ii.org%2F_awards%2F_apdfs%2FJacker_Arthur.pdf&usg=AOvVaw2u-sYtqd2Qrki_IqFIvYnW&opi=89978449"
   },
   "964": {
     "id": 964,
@@ -39442,18 +39442,18 @@
   "2467": {
     "id": 2467,
     "order": "2467.00000000000000000000",
-    "name": "Hochheimer, ???",
+    "name": "Hochheimer, Wolfgang",
     "surname": "Hochheimer",
-    "forename": "???",
+    "forename": "Wolfgang",
     "from_to": "",
-    "occupation": "Herrn Dr. Hochheimer, Erwähnt in \"1932.05.01. Tillich, P an Verlag Mohr Siebeck\"",
-    "bio": "(Kronprinzenstr. 28 Halle/Saale, 1932)",
+    "occupation": "",
+    "bio": "",
     "legacy_id": "P02472",
-    "gnd_url": "",
+    "gnd_url": "http://d-nb.info/gnd/122796608",
     "tillich_id": "tillich_person_id__2467",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": null
+    "working_note": "Herrn Dr. Hochheimer (Kronprinzenstr. 28 Halle/Saale, 1932), Erwähnt in \"1932.05.01. Tillich, P an Verlag Mohr Siebeck\""
   },
   "2468": {
     "id": 2468,
@@ -41810,18 +41810,18 @@
   "2620": {
     "id": 2620,
     "order": "2616.00000000000000000000",
-    "name": "Rosenbaum, Gertrud",
+    "name": "Rosenbaum, Frau",
     "surname": "Rosenbaum",
-    "forename": "Gertrud",
+    "forename": "",
     "from_to": "",
     "occupation": "",
-    "bio": "Sie war die Schwester von Eduard Rosenbaum.",
+    "bio": "",
     "legacy_id": "",
-    "gnd_url": "https://d-nb.info/gnd/12685565X",
+    "gnd_url": "",
     "tillich_id": "tillich_person_id__2620",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "(die Quelle hätte ich von da, https://www.stolpersteine-hamburg.de/index.php?MAIN_ID=7&BIO_ID=352)"
+    "working_note": "Erwähnt in L01034. Bisher nicht ermittelt; offenbar eine Bekannte der Tillichs von ihren Urlauben in Kampen"
   },
   "2621": {
     "id": 2621,
@@ -41922,8 +41922,8 @@
   "2627": {
     "id": 2627,
     "order": "2623.00000000000000000000",
-    "name": "Küche, ???",
-    "surname": "Küche",
+    "name": "Frau K¿¿¿",
+    "surname": "K¿¿¿",
     "forename": "???",
     "from_to": "",
     "occupation": "",
@@ -41933,7 +41933,7 @@
     "tillich_id": "tillich_person_id__2627",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "(Als Frau Küche erwähnt in: 1929.10.24 Tillich an Hannah)"
+    "working_note": "erwähnt in: 1929.10.24 Tillich an Hannah; evtl. Küche, Kuche, Kuhe, Kühe"
   },
   "2628": {
     "id": 2628,
@@ -42013,7 +42013,7 @@
     "tillich_id": "tillich_person_id__2633",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "Frau Hocheimer, Erwähnt in 1929.10.26 Tillich an Hannah"
+    "working_note": "Verm. die Frau von Wolfgang Hochheimer. Erwähnt in 1929.10.26 Tillich an Hannah"
   },
   "2634": {
     "id": 2634,
@@ -42082,14 +42082,14 @@
   "2638": {
     "id": 2638,
     "order": "2634.00000000000000000000",
-    "name": "Nelson (Revün), ???",
+    "name": "Nelson, Rudolf",
     "surname": "Nelson",
-    "forename": "???",
+    "forename": "Rudolf",
     "from_to": "",
     "occupation": "",
     "bio": "",
     "legacy_id": "",
-    "gnd_url": "",
+    "gnd_url": "http://d-nb.info/gnd/118738410",
     "tillich_id": "tillich_person_id__2638",
     "date_of_birth": null,
     "date_of_death": null,
@@ -42806,8 +42806,8 @@
     "surname": "Emmerich",
     "forename": "Herbert",
     "from_to": "",
-    "occupation": "",
-    "bio": "",
+    "occupation": "Bürgermeister (SPD)",
+    "bio": "Bürgermeister von Unna 12. Januar 1926 bis 8. März 1933. Am 2. September 1933 wurde er entlassen.",
     "legacy_id": "",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__2683",
@@ -42862,5 +42862,53 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""
+  },
+  "2687": {
+    "id": 2687,
+    "order": "2683.00000000000000000000",
+    "name": "Tillich, Fa. (?)",
+    "surname": "Tillich",
+    "forename": "Fa. (?)",
+    "from_to": "",
+    "occupation": "Tante Tillichs",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2687",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "Sie lässt in: \"1904.09.24. unbekannt (Onkel und Tante?) an Tillich, P.\" Tillichs Schwester schön grüßen und meint in über 8 Tage kommt Johanna vorbei."
+  },
+  "2688": {
+    "id": 2688,
+    "order": "2684.00000000000000000000",
+    "name": "Rothschild",
+    "surname": "Rothschild",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2688",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "L01034; nicht ermittelt."
+  },
+  "2689": {
+    "id": 2689,
+    "order": "2685.00000000000000000000",
+    "name": "Jacker, Annie",
+    "surname": "Jacker",
+    "forename": "Annie",
+    "from_to": "-1931",
+    "occupation": "Journalistin",
+    "bio": "J. schrieb unter anderem für die \"Vossische Zeitung\" sowie für die \"Weltbühne\". Die jüdische Journalistin, die mit dem Fleischfabrikanten Arthur Jacker verheiratet war, starb unerwartet am 7. April 1931.",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2689",
+    "date_of_birth": null,
+    "date_of_death": "1931-04-07",
+    "working_note": "Frau von Arthur Jacker. Quelle: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjpqMqKmJ6DAxVS7AIHHaOWDjUQFnoECA4QAQ&url=https%3A%2F%2Fcrt-ii.org%2F_awards%2F_apdfs%2FJacker_Arthur.pdf&usg=AOvVaw2u-sYtqd2Qrki_IqFIvYnW&opi=89978449"
   }
 }
