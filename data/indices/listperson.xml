@@ -8747,7 +8747,6 @@
                </person>
                <person xml:id="tillich_person_id__2410">
                   <persName>Wagner, ???</persName>
-                  <occupation>Bisher nicht ermittelt; Dresdner Umfeld; erwähnt in PT an Hannah Tillich vom 2.März1933</occupation>
                </person>
                <person xml:id="tillich_person_id__2411">
                   <persName>Bienert, Friedrich</persName>
@@ -9880,6 +9879,19 @@
                   <persName>Jacker, Annie</persName>
                   <occupation>Journalistin</occupation>
                   <note type="bio"><p>J. schrieb unter anderem für die "Vossische Zeitung" sowie für die "Weltbühne". Die jüdische Journalistin, die mit dem Fleischfabrikanten Arthur Jacker verheiratet war, starb unerwartet am 7. April 1931.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2690">
+                  <persName>Jacker, Maria</persName>
+                  <note type="bio"><p>Tochter von Arthur und Annie Jacker.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2691">
+                  <persName>Großmama/Mama</persName>
+               </person>
+               <person xml:id="tillich_person_id__2692">
+                  <persName>Liese</persName>
+               </person>
+               <person xml:id="tillich_person_id__2693">
+                  <persName>Pastor Seidel</persName>
                </person>
             </listPerson>
          </div>
