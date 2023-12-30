@@ -9618,7 +9618,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/116621583</idno>
                </person>
                <person xml:id="tillich_person_id__2620">
-                  <persName>Rosenbaum, Frau</persName>
+                  <persName>Rosenbaum, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__2621">
                   <persName>???, Ehrhard</persName>
@@ -9646,7 +9646,7 @@
                   <note type="bio"><p>Er war Dekan der Theologischen Fakultät während Tillichs Habilitationsvorlesung in Halle.</p></note>
                </person>
                <person xml:id="tillich_person_id__2627">
-                  <persName>Frau K¿¿¿</persName>
+                  <persName>K., ???</persName>
                </person>
                <person xml:id="tillich_person_id__2628">
                   <persName>Wild von Hohenborn, Adolf</persName>
@@ -9660,11 +9660,11 @@
                   <persName>Achenbach, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2632">
-                  <persName>Dein Freund</persName>
+                  <persName>???, (Dein Freund)</persName>
                   <note type="bio"><p>Er war ab 1916 liiert mit Maria Klein.</p></note>
                </person>
                <person xml:id="tillich_person_id__2633">
-                  <persName>Hochheimer(Fr), ???</persName>
+                  <persName>Hochheimer, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2634">
                   <persName>Klein, Tim</persName>
@@ -9716,13 +9716,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/117376094</idno>
                </person>
                <person xml:id="tillich_person_id__2644">
-                  <persName>Hansen</persName>
+                  <persName>Hansen, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2645">
-                  <persName>Elfriede</persName>
+                  <persName>???, Elfriede</persName>
                </person>
                <person xml:id="tillich_person_id__2646">
-                  <persName>Schwarz</persName>
+                  <persName>Schwarz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2647">
                   <persName>Brandis, Cordt von</persName>
@@ -9821,13 +9821,13 @@
                   <idno type="gnd">https://d-nb.info/gnd/118540297</idno>
                </person>
                <person xml:id="tillich_person_id__2670">
-                  <persName>Veronika</persName>
+                  <persName>???, Veronika</persName>
                </person>
                <person xml:id="tillich_person_id__2671">
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2672">
-                  <persName>Otto</persName>
+                  <persName>???, Otto</persName>
                </person>
                <person xml:id="tillich_person_id__2673">
                   <persName>Wassermann, Jakob</persName>
@@ -9855,7 +9855,7 @@
                   <persName>???, Lore</persName>
                </person>
                <person xml:id="tillich_person_id__2681">
-                  <persName>Frau ¿¿¿</persName>
+                  <persName>???, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__2682">
                   <persName>Hoffmann, Hermann</persName>
@@ -9879,11 +9879,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/118730665</idno>
                </person>
                <person xml:id="tillich_person_id__2687">
-                  <persName>Tillich, Fa. (?)</persName>
-                  <note type="bio"><p>Sie war eine Tante Tillichs.</p></note>
+                  <persName>Tillich, Fa.</persName>
+                  <note type="bio"><p>Sie war eine Tante Tillichs. Der Vorname ist unklar.</p></note>
                </person>
                <person xml:id="tillich_person_id__2688">
-                  <persName>Rothschild</persName>
+                  <persName>Rothschild, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2689">
                   <persName>Jacker, Annie</persName>
@@ -9895,13 +9895,14 @@
                   <note type="bio"><p>Sie war die Tochter von Arthur und Annie Jacker.</p></note>
                </person>
                <person xml:id="tillich_person_id__2691">
-                  <persName>Großmama/Mama</persName>
+                  <persName>???, (Großmama)</persName>
                </person>
                <person xml:id="tillich_person_id__2692">
-                  <persName>Liese</persName>
+                  <persName>???, Liese</persName>
                </person>
                <person xml:id="tillich_person_id__2693">
-                  <persName>Pastor Seidel</persName>
+                  <persName>Seidel, ???</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
                <person xml:id="tillich_person_id__2694">
                   <persName/>
