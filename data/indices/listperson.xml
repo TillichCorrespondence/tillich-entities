@@ -8207,23 +8207,24 @@
                </person>
                <person xml:id="tillich_person_id__2287">
                   <persName>Schubart, Friedrich Winfried</persName>
-                  <occupation>Generalsuperintendent von Anhalt Erwähnt in: 1918.09.08 Meinhof an Tillich, P</occupation>
+                  <occupation>Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/132462974</idno>
+                  <note type="bio"><p>Er war außerdem Generalsuperintendent von Anhalt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2288">
                   <persName>Hartmann, Richard</persName>
-                  <occupation>Islamwissenschaftler Erwähnt in: 1918.09.08 Meinhof an Tillich, P</occupation>
+                  <occupation>Islamwissenschaftler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119489228</idno>
                </person>
                <person xml:id="tillich_person_id__2289">
                   <persName>Mackensen, Fritz</persName>
-                  <occupation>Maler. Erwähnt in: 1906.09.07. Hanffstengel, G. an Tillich, P.</occupation>
+                  <occupation>Maler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118575910</idno>
                </person>
                <person xml:id="tillich_person_id__2290">
                   <persName>Makrina, ???</persName>
-                  <occupation>Makrina die Jüngere war eine geweihte Jungfrau und die ältere Schwester von Basilius dem Großen, Gregor von Nyssa und Peter von Sebaste. Sie war eine ähnlich herausragende geistliche Persönlichkeit wie ihre Brüder, deren Lebensweg sie stark beeinflusste.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118813757</idno>
+                  <note type="bio"><p>Sie war eine geweihte Jungfrau und die ältere Schwester von Basilius dem Großen, Gregor von Nyssa und Peter von Sebaste. Sie war eine ähnlich herausragende geistliche Persönlichkeit wie ihre Brüder, deren Lebensweg sie stark beeinflusste.</p></note>
                </person>
                <person xml:id="tillich_person_id__2291">
                   <persName>Firmilian von Caesarea, ???</persName>
@@ -8239,40 +8240,40 @@
                </person>
                <person xml:id="tillich_person_id__2294">
                   <persName>Stein, Hermann Christlieb Matthäus </persName>
-                  <occupation>Kriegsminister, Erwähnt in 1916.11.17 Tillich, P an Winkler, T</occupation>
+                  <occupation>Kriegsminister;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117242160</idno>
                </person>
                <person xml:id="tillich_person_id__2295">
                   <persName>Wild, Adolf Heinrich</persName>
-                  <occupation>Kriegsminister, Erwähnt in 1916.11.17 Tillich, P an Winkler, T</occupation>
+                  <occupation>Kriegsminister;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118816136</idno>
                </person>
                <person xml:id="tillich_person_id__2296">
                   <persName>Neumeister, Eckhardt</persName>
-                  <occupation>Geheimrat und Medizinalrat, Erwähnt in: 1924.11.21 Tillich, P an Verlag Vandenhoeck und Ruprecht / Medizinalrat, Erwähnt in: Mitgliederverzeichnis=Verzeichnis der Gesellschaft fur Pommersche Geschichte und Altertumskunde Stettin: Fischer und Schmidt, Seite 8(https://fbc.pionier.net.pl/details/nnhsRhs); vgl. auch 1914.11.17. Tillich, P an Tillich, E (Umschlagsadresse Alfred Fritz)</occupation>
+                  <occupation>Geheimrat; Medizinalrat;</occupation>
                </person>
                <person xml:id="tillich_person_id__2297">
                   <persName>Jaurès, Jean</persName>
-                  <occupation>Historiker/Politiker</occupation>
+                  <occupation>Historiker; Politiker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11871192X</idno>
                </person>
                <person xml:id="tillich_person_id__2298">
                   <persName>Bertheau, Hermann</persName>
-                  <occupation>stud. Med. Erwähnt in: 1907.10.21. Schreiber, H. an Tillich, P; ggf. in 1907. Tillich, P. an Fritz, A. (Verzicht auf Recht)</occupation>
+                  <occupation>Mediziner;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1143870417</idno>
                </person>
                <person xml:id="tillich_person_id__2299">
                   <persName>Kittel, Rudolf</persName>
-                  <occupation>Biblia Hebraica</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116194367</idno>
                </person>
                <person xml:id="tillich_person_id__2300">
                   <persName>Theologische Fakultät der Universität Berlin, ???</persName>
-                  <occupation>Institution: Universität, Erwähnt in: 1924.04.02 Tillich, P an Theol.Fak Berlin</occupation>
+                  <occupation>Institution;</occupation>
                </person>
                <person xml:id="tillich_person_id__2301">
                   <persName>Verlag Vandenhoeck &amp; Ruprecht, ???</persName>
-                  <occupation>Institution: Verlag, Erwähnt in: 1924.11.21 Tillich, P an Verlag Vandenhoeck und Ruprecht</occupation>
+                  <occupation>Institution;</occupation>
                </person>
                <person xml:id="tillich_person_id__2302">
                   <persName>Bunge, Gustav von</persName>
@@ -8284,48 +8285,51 @@
                </person>
                <person xml:id="tillich_person_id__2304">
                   <persName>Krohn, Hildegard</persName>
-                  <occupation>Von 1921-1930 mit Gottfried Salomon-Delatour verheiratet; Frühe die Muse von Georg Heym. Im KZ ermordert.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1272748154</idno>
+                  <note type="bio"><p>Sie war von 1921 bis 1930 mit Gottfried Salomon-Delatour verheiratet. Davor war sie die Muse von Georg Heym. Sie wurde in einem Konzentrationslager ermordet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2305">
                   <persName>Woitschach, Frl.</persName>
-                  <occupation>nicht erfasst; erwähnt im Brief PT an Salomon-Delatour vom 5.2.1925</occupation>
                </person>
                <person xml:id="tillich_person_id__2306">
                   <persName>Hildebrandt, Else</persName>
-                  <occupation>Pädagogin; vgl. das Biogramm bei Graf, Ein unbekannter Systementwurf, 39 (Anm. 36)</occupation>
+                  <occupation>Pädagogin;</occupation>
                </person>
                <person xml:id="tillich_person_id__2307">
                   <persName>Dresler und Scharfenstein, Wilhelm Ernst Hermann von</persName>
-                  <occupation>General</occupation>
+                  <occupation>General;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2308">
                   <persName>Kinzel, Eberhard</persName>
-                  <occupation>Oberstleutnat</occupation>
+                  <occupation>Oberstleutnant;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1072046415</idno>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2309">
                   <persName>Kappes, Heintz</persName>
-                  <occupation>evangelischer Pfarrer und Quäker, Übersetzer und religiöser Sozialist, Erwähnt in: 1930.05.19 Kappes, H an Tillich, P. (bloß auf wikipedia nachgeschaut) </occupation>
+                  <occupation>Pfarrer; Übersetzer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128431210</idno>
+                  <note type="bio"><p>Er war ein evangelischer Pfarrer, Quäker und Übersetzer. Er galt als religiöser Sozialist.</p></note>
                </person>
                <person xml:id="tillich_person_id__2310">
                   <persName>Erb, ???</persName>
-                  <occupation>Jugendpfleger, Erwähnt in: 1930.05.19 Kappes, H an Tillich, P.</occupation>
+                  <occupation>Jugendpfleger;</occupation>
                </person>
                <person xml:id="tillich_person_id__2311">
                   <persName>Schultz, Bruno</persName>
-                  <occupation>Wirtschaftswissenschaftler, Schüler Franz Oppenheimers, https://de.wikipedia.org/wiki/Bruno_Schultz_(Wirtschaftswissenschaftler)</occupation>
+                  <occupation>Wirtschaftswissenschaftler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/134112202</idno>
+                  <note type="bio"><p>Er war ein Schüler von Franz Oppenheimer.</p></note>
                </person>
                <person xml:id="tillich_person_id__2312">
                   <persName>Jahn, Georg</persName>
-                  <occupation>Soziologe, https://www.catalogus-professorum-halensis.de/politische-verfolgung-ns/verfolgte/jahn-georg.htm</occupation>
+                  <occupation>Soziologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118711482</idno>
                </person>
                <person xml:id="tillich_person_id__2313">
                   <persName>Spamer, Adolf</persName>
-                  <occupation>Germanist und Volkskundler</occupation>
+                  <occupation>Germanist; Volkskundler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118751727</idno>
                </person>
                <person xml:id="tillich_person_id__2314">
@@ -8334,102 +8338,109 @@
                </person>
                <person xml:id="tillich_person_id__2315">
                   <persName>Mehlis, (Prof.)</persName>
-                  <occupation>Erwähnt im Brief Gottfried Salomons an Tillich vom 16.11.1925 - evtl. Georg Mehlis gemeint, aber unsicher</occupation>
                </person>
                <person xml:id="tillich_person_id__2316">
                   <persName>Lederer, Emil</persName>
-                  <occupation>Ökonom und Soziologe</occupation>
+                  <occupation>Ökonom; Soziologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119311143</idno>
                </person>
                <person xml:id="tillich_person_id__2317">
                   <persName>Vleugels, Wilhelm</persName>
-                  <occupation>Wirtschaftswissenschaftler und Soziologe</occupation>
+                  <occupation>Wirtschaftswissenschaftler; Soziologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117448559</idno>
                </person>
                <person xml:id="tillich_person_id__2318">
                   <persName>Meusel, Alfred</persName>
-                  <occupation>Soziologe und Historiker</occupation>
+                  <occupation>Soziologe; Historiker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11696068X</idno>
                </person>
                <person xml:id="tillich_person_id__2319">
                   <persName>Leonhard, Franz</persName>
-                  <occupation>Jurist (Uni Marburg) https://de.wikipedia.org/wiki/Franz_Leonhard_(Rechtswissenschaftler)</occupation>
+                  <occupation>Jurist;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116919140</idno>
                </person>
                <person xml:id="tillich_person_id__2320">
                   <persName>Winkowsky, ??? von</persName>
-                  <occupation>General 1. WK.</occupation>
+                  <occupation>General;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2321">
                   <persName>Krubin, ???</persName>
-                  <occupation>Oberstleutnant 1. WK.</occupation>
+                  <occupation>Oberstleutnant;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2322">
                   <persName>Gronau, Johann Karl Hermann von</persName>
-                  <occupation>Ab dem 2. August 1914 kommandierender General des IV. Reserve-Korps; vgl. Alfons Paquet, Wilhelm Groener, Albert Hopman (Hg.), Von Brest-Litovsk zur Deutschen Novemberrevolution. Aus den Tagebüchern, Briefen und Aufzeichnungen, Göttingen 1971, 281.</occupation>
+                  <occupation>General;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/136139418</idno>
+                  <note type="bio"><p>Ab dem 2. August 1914 war er kommandierender General des IV. Reserve-Korps. Sein Spitzname war Hans.</p></note>
                </person>
                <person xml:id="tillich_person_id__2323">
                   <persName>Kluck, Alexander Heinrich Rudolph von</persName>
-                  <occupation>Armeeführer 1. WK.</occupation>
+                  <occupation>Armeeführer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116235489</idno>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2324">
                   <persName>Ahrens, ???</persName>
-                  <occupation>Generalstäbler Hauptmann 1. WK. </occupation>
+                  <occupation>Hauptmann;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2325">
                   <persName>Pescatore, Dominik von</persName>
-                  <occupation>Rittmeister 1. WK; besaß ein Allodialgut in Schwenzin bei Waren (Mecklenburg).</occupation>
+                  <occupation>Rittmeister;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt und besaß ein Allodialgut in Schwenzin bei Waren/Mecklenburg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2326">
                   <persName>Freud, ???</persName>
                   <occupation>Oberleutnant 1. WK</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2327">
                   <persName>Dietrich, ???</persName>
-                  <occupation>Katholischer Pfarrer; mit Tillich im 1. WK.</occupation>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er war katholischer Priester und hatte Kontakt zu Paul Tillich im 1. Weltkrieg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2328">
                   <persName>Hereike, ???</persName>
-                  <occupation>Gerichtssektretär; mit Tillich im 1. WK.</occupation>
+                  <occupation>Gerichtssektretär;</occupation>
+                  <note type="bio"><p>Er hatte Kontakt zu Paul Tillich im 1. Weltkrieg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2329">
                   <persName>Rosental, ???</persName>
-                  <occupation>Oberstabsarzt 1. WK.</occupation>
+                  <occupation>Oberstabsarzt;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2330">
                   <persName>Müller, ???</persName>
-                  <occupation>Kriegsgerichtsrat 1. WK.</occupation>
+                  <occupation>Kriegsgerichtsrat;</occupation>
+                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2331">
                   <persName>Giese, ???</persName>
-                  <occupation>In 1907.10.13. Schreiber, H. an Tillich, P. erwähnt als Lesezimmerdachs</occupation>
                </person>
                <person xml:id="tillich_person_id__2332">
                   <persName>Böke, ???</persName>
-                  <occupation>In 1907.10.13. Schreiber, H. an Tillich, P. erwähnt als nicht der Lesezimmerdachs</occupation>
                </person>
                <person xml:id="tillich_person_id__2333">
                   <persName>Schetelig, O.</persName>
-                  <occupation>Wahrscheinlich der Bruder von Wilhelm S.? Erwähnt in: 1907.10.13. Schreiber, H. an Tillich, P:</occupation>
                </person>
                <person xml:id="tillich_person_id__2334">
                   <persName>Mensching, ???</persName>
-                  <occupation>Erwähnt in 1907.10.13. Schreiber, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2335">
                   <persName>Felden, ???</persName>
-                  <occupation>Als Pastor von Bremen erwähnt in 1907.10.13. Schreiber, H. an Tillich, P.</occupation>
+                  <occupation>Pastor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118844814</idno>
+                  <note type="bio"><p>Er lebte und wirkte in Bremen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2336">
                   <persName>Büttner, ???</persName>
-                  <occupation>Pastor in Bremen (?) 1907.10.13. Schreiber, H. an Tillich, P.</occupation>
+                  <occupation>Pastor;</occupation>
+                  <note type="bio"><p>Er lebte und wirkte in Bremen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2337">
                   <persName>Groeber, ???</persName>
-                  <occupation>Erwähnt in 1907.10.13. Schreiber, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2338">
                   <persName>Bronisch, Gotthelf Matthias</persName>
@@ -8437,66 +8448,61 @@
                </person>
                <person xml:id="tillich_person_id__2339">
                   <persName>Portig, ???</persName>
-                  <occupation>Erwähnt als Theologe, der ein Buch geschrieben hat, das Troeltschs "Schwenk zur Metaphysik" bedingt haben soll: 1907.10.13. Schreiber, H. an Tillich, P.</occupation>
+                  <occupation>Theologe; Autor;</occupation>
                </person>
                <person xml:id="tillich_person_id__2340">
                   <persName>Fritsch, ???</persName>
-                  <occupation>Erwähnt in 1907.10.27. Vethake, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2341">
                   <persName>Heydemeyer, ???</persName>
-                  <occupation>Mitstudent im Hallenser Wingolf.  Erwähnt in 1907.10.27. Vethake, H. an Tillich, P.</occupation>
+                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2342">
                   <persName>Schafft, Sepp</persName>
-                  <occupation>Vielleicht ein Bruder Schaffts? Erwähnt in 1907.10.27. Vethake, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2343">
                   <persName>Brachmann, Johannes</persName>
-                  <occupation>Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/121447316</idno>
                </person>
                <person xml:id="tillich_person_id__2344">
                   <persName>Schornbaum, ???</persName>
-                  <occupation>Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116922923</idno>
                </person>
                <person xml:id="tillich_person_id__2345">
                   <persName>Grießhammer, ???</persName>
-                  <occupation>Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2346">
                   <persName>Rupprecht, ???</persName>
-                  <occupation>Erlanger Wingolfit. Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P:</occupation>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2347">
                   <persName>Weber, Hans Emil</persName>
-                  <occupation>Erlanger Wingolfit. Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P:</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117163228</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2348">
                   <persName>Hopfmüller, ???</persName>
-                  <occupation>Erlanger Wingolfit. Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P:</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118909991</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2349">
                   <persName>Behrens, ???</persName>
-                  <occupation>Erlanger Wingolfit. Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P:</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1034730894</idno>
+                  <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2350">
                   <persName>Dürr, Erich</persName>
-                  <occupation>Dramaturg, Regisseur, Kunstkritiker.</occupation>
+                  <occupation>Dramaturg; Regisseur; Kunstkritiker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116240253</idno>
                </person>
                <person xml:id="tillich_person_id__2351">
                   <persName>Vandewater, ???</persName>
-                  <occupation>Leiter der Internationalen Schule für Philosophie, Erwähnt in: 1931.10.19. de Man, H an Tillich, P
-</occupation>
+                  <occupation>Philosoph;</occupation>
+                  <note type="bio"><p>Er war Leiter der Internationalen Schule für Philosophie.</p></note>
                </person>
                <person xml:id="tillich_person_id__2352">
                   <persName>Borchers, Frau</persName>
-                  <occupation>nicht ermittelt; wom. Eine Verwandte von Wilhelm Borchers. Erwähnt in PT an Hannah Tillich vom 5.3.1931</occupation>
+                  <note type="bio"><p>Sie war eine Verwandte von Wilhelm Borcher.</p></note>
                </person>
                <person xml:id="tillich_person_id__2353">
                   <persName>Medicus, Clara</persName>
@@ -8506,22 +8512,21 @@
                </person>
                <person xml:id="tillich_person_id__2355">
                   <persName>Walker, Gisela</persName>
-                  <occupation>Patentochter von Paul Tillich</occupation>
+                  <note type="bio"><p>Sie war die Patentochter von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2356">
                   <persName>Herrmann, Christian</persName>
-                  <occupation>Religiös sozialistische Philosoph und Pädagoge, ein enger Freund Tillichs, Erwähnt in: 1926.11.16. Tillich, P anVerlag Mohr Siebeck</occupation>
-                  <note type="bio"><p>1919 bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert, Herausgeber von Werken Schelling, schrieb für Sozialistischen die Monatshefte, reiste mit Tillich u. Eckart von Sydow 1926 durch Frankreich (wo Tillich "Das Dämonische" verfasst hat)</p></note>
+                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <note type="bio"><p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p></note>
                </person>
                <person xml:id="tillich_person_id__2357">
                   <persName>Ossipowna, Amalija</persName>
-                  <occupation>Frau von Ilja Issidorowitsch Fondaminski</occupation>
+                  <note type="bio"><p>Sie war die Frau von Ilja Issidorowitsch Fondaminski.</p></note>
                </person>
                <person xml:id="tillich_person_id__2358">
                   <persName>Stepun, Natalja Nikolaevna</persName>
-                  <occupation>Frau von Fedor Stepun</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1107814014</idno>
-                  <note type="bio"><p>auch bekannt als Natascha</p></note>
+                  <note type="bio"><p>Sie war die Frau von Fedor Stepun und war bekannt als Natascha.</p></note>
                </person>
                <person xml:id="tillich_person_id__2359">
                   <persName>Fondaminski, Ilja Issidorowitsch</persName>
@@ -8532,108 +8537,110 @@
                </person>
                <person xml:id="tillich_person_id__2361">
                   <persName>???, Elis</persName>
-                  <occupation>Ab und zu erwähnt, bisher nicht identifiziert</occupation>
                </person>
                <person xml:id="tillich_person_id__2362">
                   <persName>???, Lydia</persName>
-                  <occupation>Bisher nicht ermittelt; erwähnt im Brief PT an Hannah Tillich vom 7.9.1926</occupation>
                </person>
                <person xml:id="tillich_person_id__2363">
                   <persName>Bogmann, ???</persName>
-                  <occupation>Jägeroberleutnant 1. WK; Assessor in Kiel</occupation>
+                  <occupation>Oberleutnant; Assessor;</occupation>
+                  <note type="bio"><p>Er war Jägeroberleutnant im 1. Weltkrieg und Assessor in Kiel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2364">
                   <persName>Cordier, ??? von</persName>
-                  <occupation>Unsichere Lesart; Oberleutnant der Feldtelephonabteilung 1. WK:, Ingenieur bei Krupp, kennt Immanuel Fritz sehr gut</occupation>
+                  <occupation>Ingenieur; Oberleutnant;</occupation>
+                  <note type="bio"><p>Er war Oberleutnant der Feldtelephonabteilung im 1. Weltkrieg und arbeitete als Ingenieur bei Krupp. Er kannte Immanuel Fritz sehr gut.</p></note>
                </person>
                <person xml:id="tillich_person_id__2365">
                   <persName>Müller, Karl</persName>
-                  <occupation>Evangelischer Theologe und Kirchenhistoriker</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138219885</idno>
+                  <note type="bio"><p>Er hat sich auf die kirchengeschichtliche Forschung spezialisiert.</p></note>
                </person>
                <person xml:id="tillich_person_id__2366">
                   <persName>Johann Quistorp der Ältere, ???</persName>
-                  <occupation>Theologe</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117684058</idno>
                </person>
                <person xml:id="tillich_person_id__2367">
                   <persName>Hollaz, David</persName>
-                  <occupation>Theologe</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/131640879</idno>
                </person>
                <person xml:id="tillich_person_id__2368">
                   <persName>Gelderblom, Hans</persName>
-                  <occupation>Baumeister. War befreundet mit Hermann Schafft.</occupation>
+                  <occupation>Baumeister;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1024984346</idno>
+                  <note type="bio"><p>Er war befreundet mit Hermann Schafft.</p></note>
                </person>
                <person xml:id="tillich_person_id__2369">
                   <persName>Gottschalk, M.</persName>
-                  <occupation>Hallenser Wingolfit. Unterschreibt auf: 1907.11.20. Wingolfbrüder an Tillich, P.</occupation>
+                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2370">
                   <persName>Bensch, ???</persName>
-                  <occupation>Hallenser Wingolfit. Erwähnt in: 1907.11.23. Smissen, G. an Tillich, P.</occupation>
+                  <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2371">
                   <persName>Keyserling-Bismarck, Gräfin Goedela</persName>
-                  <occupation>Frau des Philosophen Hermann Graf Keyserling. Erwähnt in: "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/106015850</idno>
+                  <note type="bio"><p>Sie war die Frau des Philosophen Hermann Graf Keyserling.</p></note>
                </person>
                <person xml:id="tillich_person_id__2372">
                   <persName>Schnitzler, ???</persName>
-                  <occupation> Erwähnt in: "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
                </person>
                <person xml:id="tillich_person_id__2373">
                   <persName>Theel, ???</persName>
-                  <occupation>Oberarzt und Adjudant des Oberstabsarztes Rosental im 1. WK.</occupation>
+                  <occupation>Oberarzt;</occupation>
+                  <note type="bio"><p>Er war Adjutant des Oberstabsarztes Rosental im 1. Weltkrieg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2374">
                   <persName>Hafemann, Richard</persName>
-                  <occupation>Freund von Oberarzt Theel</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1200987659</idno>
+                  <note type="bio"><p>Er war ein Freund von Oberarzt Theel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2375">
                   <persName>Bolkansky, ???</persName>
-                  <occupation>Hauptmann 1. WK.; der erste Adjudant zur Rechten von Exzellenz (Gronau)</occupation>
+                  <occupation>Hauptmann;</occupation>
+                  <note type="bio"><p>Er war Hauptmann und Adjutant im 1. Weltkrieg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2376">
                   <persName>Holzapfel, ???</persName>
-                  <occupation>Pastor irgendwo in Norddeutschland. Erwähnt in: 1907.11.28. Hanffstengel, G. an Tillich, P.</occupation>
+                  <occupation>Pastor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116971886</idno>
+                  <note type="bio"><p>Er lebte und wirkte in Norddeutschland.</p></note>
                </person>
                <person xml:id="tillich_person_id__2377">
                   <persName>Hukmann, ???</persName>
-                  <occupation>Göttinger Wingolfit. Erwähnt in: 1907.11.28. Hanffstengel, G. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2378">
                   <persName>Zähringer, ???</persName>
-                  <occupation>Als Kneipgast erwähnt in: 1907.12.31. Schreiber, H. an Tillich, P.</occupation>
+                  <note type="bio"><p>Er war ein Göttinger Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2379">
                   <persName>Bublitz, ???</persName>
-                  <occupation>Erwähnt in 1907.12.31. Schreiber, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2380">
                   <persName>Kilger, Joh.</persName>
-                  <occupation>Offensichtlich Bruder von Albert Kilger. Erwähnt in 1907.12.31. Schreiber, H. an Tillich, P.</occupation>
+                  <note type="bio"><p>Er war der Bruder von Albert Kilger.</p></note>
                </person>
                <person xml:id="tillich_person_id__2381">
                   <persName>Neumeister, Käthe</persName>
                </person>
                <person xml:id="tillich_person_id__2382">
                   <persName>Heldmann, ???</persName>
-                  <occupation>Mit Böke offensichtlich in eine Wingolf-Angelegenheit verwickelt. Siehe: 1908.02.10. Balke, H. an Tillich, P.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/102824407X</idno>
+                  <note type="bio"><p>Er war in Kontakt mit der Wingolf-Verbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2383">
                   <persName>Frey, Emmy</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1089666586</idno>
-                  <note type="bio"><p>Erwähnt z.B. im Brief Tillichs an Hannah und Erdmuthe Tillich vom 4.12.1932; Vgl. evtl. (Identifikation unsicher!): https://www2.landesarchiv-bw.de/ofs21/olf/einfueh.php?bestand=50270</p></note>
                </person>
                <person xml:id="tillich_person_id__2384">
                   <persName>Mislin, Hans</persName>
-                  <occupation>Vgl. PT an Hannah Tillich vom 6.12.1932 aus Basel; M. studierte zu jener Zeit Zoologie in Basel, engagierte sich 1935 gegen den Faschismus (vgl. Simon, An der Peripherie des nazifizierten deutschen Hochschulsystems, 67 und 693), später Professor der Zoologie; https://www.gutenberg-biographics.ub.uni-mainz.de/personen/register/eintrag/hans-mislin.html</occupation>
+                  <occupation>Professor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119154714</idno>
+                  <note type="bio"><p>Er engagierte sich 1935 gegen den Faschismus und war später Professor der Zoologie.</p></note>
                </person>
                <person xml:id="tillich_person_id__2385">
                   <persName>Mislin, Mutter von Herrn Mislin</persName>
@@ -8644,168 +8651,164 @@
                </person>
                <person xml:id="tillich_person_id__2387">
                   <persName>Manzenstein, ???</persName>
-                  <occupation>Erwähnt in: 1915.07.19. Tillich, M an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2388">
                   <persName>Lothauser, ???</persName>
-                  <occupation>Erwähnt in: 1915.07.19. Tillich, M an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2389">
                   <persName>Teniers, David</persName>
-                  <occupation>Flämischer Maler</occupation>
+                  <occupation>Maler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118907832</idno>
+                  <note type="bio"><p>Er stammte aus Flandern in den Niederlanden.</p></note>
                </person>
                <person xml:id="tillich_person_id__2390">
                   <persName>SPD Gross-Frankfurt, ???</persName>
-                  <occupation>(Partei)Erwähnt in: "1932.10.07. SPD Groß-Frankfurt an Tillich, P"</occupation>
                </person>
                <person xml:id="tillich_person_id__2391">
                   <persName>Riezler, Walter</persName>
-                  <occupation>https://www.deutsche-biographie.de/sfz105920.html</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116546662</idno>
                </person>
                <person xml:id="tillich_person_id__2392">
                   <persName>(Amerikanischer Professor), ???</persName>
-                  <occupation>nicht ermittelt, erwähnt in: PT an Hannah Tillich vom 9.5.1929</occupation>
                </person>
                <person xml:id="tillich_person_id__2393">
                   <persName>Schultz, Franz</persName>
-                  <occupation>https://www.deutsche-biographie.de/pnd118795570.html bzw. https://de.wikipedia.org/wiki/Franz_Schultz_(Philologe)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
                </person>
                <person xml:id="tillich_person_id__2394">
                   <persName>Schultz, Hildegard</persName>
-                  <occupation>(Zweite) Frau von Franz Schultz</occupation>
+                  <note type="bio"><p>Sie war die zweite Frau von Franz Schultz.</p></note>
                </person>
                <person xml:id="tillich_person_id__2395">
                   <persName>Riezler, Käthe</persName>
-                  <occupation>Tochter Max Liebermanns, Ehefrau Kurt Riezlers</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116996242</idno>
+                  <note type="bio"><p>Sie war die Tochter von Max Liebermann und die Ehefrau von Kurt Riezler.</p></note>
                </person>
                <person xml:id="tillich_person_id__2396">
                   <persName>Gelb, Nelly</persName>
-                  <occupation>Frau Adhémar Gelbs, Tochter Max Alvarys</occupation>
+                  <note type="bio"><p>Sie war die Frau von Adhémar Gelb und die Tochter von Max Alvary.</p></note>
                </person>
                <person xml:id="tillich_person_id__2397">
                   <persName>Weil, Felix</persName>
-                  <occupation>Gründer/Finazier des Instituts für Sozialforschung</occupation>
+                  <occupation>Institutsgründer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117251062</idno>
+                  <note type="bio"><p>Er war der Gründer/Finazier des Instituts für Sozialforschung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2398">
                   <persName>Gonzala, Anita</persName>
-                  <occupation>Schwester von Felix Weil</occupation>
+                  <note type="bio"><p>Sie war die Schwester von Felix Weil.</p></note>
                </person>
                <person xml:id="tillich_person_id__2399">
                   <persName>Weil, Käthe</persName>
-                  <occupation>1921-1929 Frau von Felix Weil</occupation>
+                  <note type="bio"><p>Sie war von 1921 bis 1929 die Frau von Felix Weil.</p></note>
                </person>
                <person xml:id="tillich_person_id__2400">
                   <persName>Wolfers, Doris</persName>
-                  <occupation>Frau von Arnold Wolfers</occupation>
+                  <note type="bio"><p>Sie war die Frau von Arnold Wolfers.</p></note>
                </person>
                <person xml:id="tillich_person_id__2401">
                   <persName>Hermelink, Heinrich</persName>
-                  <occupation>Theologe (Kirchenhistoriker)</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
+                  <note type="bio"><p>Er hat sich auf die kirchengeschichtliche Forschung spezialisiert.</p></note>
                </person>
                <person xml:id="tillich_person_id__2402">
                   <persName>Hölscher, Gustav</persName>
-                  <occupation>Theologe (Altes Testament)</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116927461</idno>
+                  <note type="bio"><p>Er hat sich auf die alttestamentliche Forschung spezialisiert.</p></note>
                </person>
                <person xml:id="tillich_person_id__2403">
                   <persName>Schairer, Gerda</persName>
-                  <occupation>Frau von Reinhold Schairer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1044769491</idno>
+                  <note type="bio"><p>Sie war die Frau von Reinhold Schairer.</p></note>
                </person>
                <person xml:id="tillich_person_id__2404">
                   <persName>Sydow, Elfriede Margarete von</persName>
-                  <note type="bio"><p>geb. von Wedel. Mutter von Eckart von Sydow</p></note>
+                  <note type="bio"><p>Sie war die Mutter von Eckart von Sydow und eine geborene von Wedel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2405">
                   <persName>Sydow, Helene Antonie Mathilde Kathinka von</persName>
-                  <note type="bio"><p>Schwester von Eckart von Sydow</p></note>
+                  <note type="bio"><p>Sie war die Schwester von Eckart von Sydow.</p></note>
                </person>
                <person xml:id="tillich_person_id__2406">
                   <persName>Hirzel, Stephan</persName>
-                  <occupation>Architekt</occupation>
+                  <occupation>Architekt;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1038829402</idno>
-                  <note type="bio"><p>Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Baute u.a. das "Haus auf dem Küssel".</p></note>
+                  <note type="bio"><p>Er war Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Er baute unter anderem das "Haus auf dem Küssel".</p></note>
                </person>
                <person xml:id="tillich_person_id__2407">
                   <persName>Pallenberg, Max</persName>
-                  <occupation>Schauspieler</occupation>
+                  <occupation>Schauspieler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11859138X</idno>
                </person>
                <person xml:id="tillich_person_id__2408">
                   <persName>Grimme, Mascha</persName>
-                  <occupation>Frau von Adolf Grimme</occupation>
+                  <note type="bio"><p>Sie war die Frau von Adolf Grimme.</p></note>
                </person>
                <person xml:id="tillich_person_id__2409">
                   <persName>Königs, ???</persName>
-                  <occupation>Als "Comphil." (?) erwähnt in: 1914.10.05. Schafft, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2410">
                   <persName>Wagner, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2411">
                   <persName>Bienert, Friedrich</persName>
-                  <occupation>Großindustrieller, Sammler, Mäzen; Sohn von Ida und(?) Erwin Bienert</occupation>
+                  <occupation>Großindustrieller; Sammler; Mäzen;</occupation>
+                  <note type="bio"><p>Er war der Sohn von Ida und Erwin Bienert.</p></note>
                </person>
                <person xml:id="tillich_person_id__2412">
                   <persName>???, Wolfgang</persName>
-                  <occupation>verm. aus Halle; bisher nicht ermittelt; z.B. erwähnt in PT an Hannah Tillich vom 1.4.1933</occupation>
                </person>
                <person xml:id="tillich_person_id__2413">
                   <persName>Viergutz, Paul</persName>
-                  <occupation>Da gibt es einen Brief von ihm an Tillich: 1925.08.10. Viergutz, P. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2414">
                   <persName>???, Gretha</persName>
-                  <occupation>Kenne ich bisher nur aus: 1926.01.08. Gretha an Tillich, P. Sollte eine enge Bekannte von Paul Tillich sein, aus Berlin (?).</occupation>
                </person>
                <person xml:id="tillich_person_id__2415">
                   <persName>Kloppenburg, Heinrich</persName>
-                  <occupation>Theologe.</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116234210</idno>
                </person>
                <person xml:id="tillich_person_id__2416">
                   <persName>Billström, Astrid</persName>
-                  <occupation>Freundin von Tillich. Frau von Jacob Billström. </occupation>
+                  <note type="bio"><p>Sie war eine Freundin von Paul Tillich und war die Frau von Jacob Billström.</p></note>
                </person>
                <person xml:id="tillich_person_id__2417">
                   <persName>Aster, Ernst von</persName>
-                  <occupation>Philosoph.</occupation>
+                  <occupation>Philosoph;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116372222</idno>
                </person>
                <person xml:id="tillich_person_id__2418">
                   <persName>Dixelius - von Aster, Hildur Emma Eufrosyne</persName>
-                  <occupation>Dichterin. Frau von Ernst von Aster</occupation>
+                  <occupation>Dichterin;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/101206844</idno>
+                  <note type="bio"><p>Sie war die Frau von Ernst von Aster.</p></note>
                </person>
                <person xml:id="tillich_person_id__2419">
                   <persName>Erdmann, Carl</persName>
-                  <occupation>Vielleicht der Mediävist? Unklar. Schreibt an Paul Tillic am 14. Juli 1927</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118682253</idno>
                </person>
                <person xml:id="tillich_person_id__2420">
                   <persName>Herrmann, Heinrich</persName>
-                  <occupation>Irgendein Verehrer, der Tillich auf einem seiner Vorträge hin schreibt: 1928.03.04. Hermann, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2421">
                   <persName>Gerullis, Georg</persName>
-                  <occupation>Baltist, seit April 1933 Ministerialdirektor im Wissenschafts- bzw. Kultusministerium</occupation>
+                  <occupation>Baltist; Ministerialdirektor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116595167</idno>
+                  <note type="bio"><p>seit Ab April 1933 war er Ministerialdirektor im deutschen Wissenschafts- bzw. Kultusministerium.</p></note>
                </person>
                <person xml:id="tillich_person_id__2422">
                   <persName>Mayer-Kulenkampff, Lina</persName>
-                  <occupation>Historikerin, Pädagogin und Schulleiterin</occupation>
+                  <occupation>Historikerin; Pädagogin; Schulleiterin;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116963522</idno>
                </person>
                <person xml:id="tillich_person_id__2423">
                   <persName>Johnson, Alvin</persName>
-                  <occupation>Wirtschaftswissenschaftler und Initiator der University of Exile an der New School for Social Research</occupation>
+                  <occupation>Wirtschaftswissenschaftler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117164550</idno>
+                  <note type="bio"><p>Er war Initiator der University of Exile an der New School for Social Research.</p></note>
                </person>
                <person xml:id="tillich_person_id__2424">
                   <persName>Blum, Suzanne</persName>
