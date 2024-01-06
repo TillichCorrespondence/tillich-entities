@@ -1618,6 +1618,9 @@
                <place xml:id="tillich_place_id__538">
                   <placeName>Piaseczno</placeName>
                </place>
+               <place xml:id="tillich_place_id__539">
+                  <placeName>Nauheim</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

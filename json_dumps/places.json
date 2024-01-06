@@ -3736,5 +3736,12 @@
     "name": "Piaseczno",
     "tillich_id": "tillich_place_id__538",
     "geonames_url": "https://www.geonames.org/762423"
+  },
+  "539": {
+    "id": 539,
+    "order": "535.00000000000000000000",
+    "name": "Nauheim",
+    "tillich_id": "tillich_place_id__539",
+    "geonames_url": "https://www.geonames.org/2953395/bad-nauheim.html"
   }
 }
