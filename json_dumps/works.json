@@ -666,7 +666,7 @@
   "84": {
     "id": 84,
     "order": "84.00000000000000000000",
-    "name": "Tillich, Paul: Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85",
+    "name": "Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85",
     "working_note": "",
     "tillich_id": "tillich_work_id__84",
     "zotero": ""
@@ -674,7 +674,7 @@
   "85": {
     "id": 85,
     "order": "85.00000000000000000000",
-    "name": "",
+    "name": "Kollo, Walter/Bredschneider, Willy,  Wie einst im Mai (Operette), Uraufführung am 4.10.1913, Berliner Theater, Berlin.",
     "working_note": "",
     "tillich_id": "tillich_work_id__85",
     "zotero": ""
@@ -685,6 +685,22 @@
     "name": "Tillich, Paul, Die religiöse Lage der Gegenwart, Berlin 1926.",
     "working_note": "",
     "tillich_id": "tillich_work_id__86",
+    "zotero": ""
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "name": "Heidegger, Martin, Kant und das Problem der Metaphysik, Bonn 1929.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__87",
+    "zotero": ""
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "name": "Rieter, Heinz, Der deutsche Volkswirt 1926 bis 1933. Eine Fallstudie zur publizistischen Umsetzung wirtschaftspolitischer Konzeptionen, in: Albeda, Willem et al., Die Umsetzung wirtschaftspolitischer Grundkonzeptionen in die kontinentaleuropäische Praxis des 19. und 20. Jahrhunderts, II. Teil (Studien zur Entwicklung der ökonomischen Theorie XVII, hg. von Erich W. Streissler), Berlin 1998, S. 95-153.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__88",
     "zotero": ""
   }
 }

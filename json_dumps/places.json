@@ -3743,5 +3743,12 @@
     "name": "Nauheim",
     "tillich_id": "tillich_place_id__539",
     "geonames_url": "https://www.geonames.org/2953395/bad-nauheim.html"
+  },
+  "540": {
+    "id": 540,
+    "order": "536.00000000000000000000",
+    "name": "Hanau",
+    "tillich_id": "tillich_place_id__540",
+    "geonames_url": "https://www.geonames.org/2911007"
   }
 }

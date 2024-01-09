@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -8972,7 +8973,7 @@
                </person>
                <person xml:id="tillich_person_id__2456">
                   <persName>Keck, Karl</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1077869991</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/116141182</idno>
                </person>
                <person xml:id="tillich_person_id__2457">
                   <persName>Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung, ???</persName>
@@ -9781,10 +9782,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/118952714</idno>
                </person>
                <person xml:id="tillich_person_id__2659">
-                  <persName>Anja</persName>
+                  <persName>???, Anja</persName>
                </person>
                <person xml:id="tillich_person_id__2660">
-                  <persName>Bine</persName>
+                  <persName>???, Bine</persName>
                </person>
                <person xml:id="tillich_person_id__2661">
                   <persName>Jordan, Hermann Jacques</persName>
@@ -9908,7 +9909,17 @@
                   <occupation>Pfarrer;</occupation>
                </person>
                <person xml:id="tillich_person_id__2694">
-                  <persName/>
+                  <persName>Linke, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2695">
+                  <persName>Meier, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2696">
+                  <persName>Schurich, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2697">
+                  <persName>Stolper, Gustav</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11861858X</idno>
                </person>
             </listPerson>
          </div>
