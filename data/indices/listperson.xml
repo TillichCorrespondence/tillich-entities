@@ -6711,6 +6711,7 @@
                <person xml:id="tillich_person_id__1925">
                   <persName>Tillich, Margarete</persName>
                   <occupation>Tante</occupation>
+                  <note type="bio"><p>Erwähnt als: Tante Grete</p></note>
                </person>
                <person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
@@ -8065,6 +8066,7 @@
                <person xml:id="tillich_person_id__2253">
                   <persName>Lepsius</persName>
                   <occupation>Wird meist erwähnt in den Briefen der Familie an Tillich von 1905.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11694580X</idno>
                </person>
                <person xml:id="tillich_person_id__2254">
                   <persName>Höfer</persName>
@@ -8509,7 +8511,8 @@
                   <persName>Medicus, Clara</persName>
                </person>
                <person xml:id="tillich_person_id__2354">
-                  <persName>Anna, ???</persName>
+                  <persName>???, Anna</persName>
+                  <note type="bio"><p>Unter Umständen handelt es sich um die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war.</p></note>
                </person>
                <person xml:id="tillich_person_id__2355">
                   <persName>Walker, Gisela</persName>
@@ -9905,8 +9908,9 @@
                   <persName>???, Liese</persName>
                </person>
                <person xml:id="tillich_person_id__2693">
-                  <persName>Seidel, ???</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <persName>Seidel, Heinrich Wolfgang</persName>
+                  <occupation>Pfarrer; Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118760602</idno>
                </person>
                <person xml:id="tillich_person_id__2694">
                   <persName>Linke, ???</persName>
@@ -9920,6 +9924,49 @@
                <person xml:id="tillich_person_id__2697">
                   <persName>Stolper, Gustav</persName>
                   <idno type="gnd">https://d-nb.info/gnd/11861858X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2698">
+                  <persName>(unbekannte)Onkel Tillichs, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2699">
+                  <persName>Seidel, Heinrich</persName>
+                  <occupation>Schriftsteller; Bauingenieur</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118796089</idno>
+               </person>
+               <person xml:id="tillich_person_id__2700">
+                  <persName>Ahleck, ???</persName>
+                  <note type="bio"><p>Fräulein, dass Tillich im ersten Weltkrieg ein Kissen geschickt hat.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2701">
+                  <persName>Hermann, Rudolf</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119063689</idno>
+               </person>
+               <person xml:id="tillich_person_id__2702">
+                  <persName>Sturm, Erdmann</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/108334279</idno>
+               </person>
+               <person xml:id="tillich_person_id__2703">
+                  <persName>Schmidt, Eugenie</persName>
+               </person>
+               <person xml:id="tillich_person_id__2704">
+                  <persName>Martin, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2705">
+                  <persName>Titzke, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2706">
+                  <persName>Thomas, Friedrich Wilhelm</persName>
+                  <occupation>Pfarrer, Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1270440098</idno>
+               </person>
+               <person xml:id="tillich_person_id__2707">
+                  <persName>Fritz, Eckehardt</persName>
+                  <note type="bio"><p>Sohn von Alfred Fritz und Johanna Fritz; Bruder von Paul Tillichs Patentochter Gisela Walker geb. Fritz.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2708">
+                  <persName>Meyer, Gottfried</persName>
+                  <occupation>Rechtswissenschaftler; Kurator der Universität Halle</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1104756838</idno>
                </person>
             </listPerson>
          </div>
