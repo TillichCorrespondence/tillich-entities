@@ -1625,6 +1625,9 @@
                <place xml:id="tillich_place_id__540">
                   <placeName>Hanau</placeName>
                </place>
+               <place xml:id="tillich_place_id__541">
+                  <placeName>Etienne</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

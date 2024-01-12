@@ -507,7 +507,7 @@
     "id": 64,
     "order": "64.00000000000000000000",
     "name": "Tillich, Paul, Die sozialistische Entscheidung, Potsdam 1933",
-    "working_note": "auch in ...",
+    "working_note": "in: MW 3, 273-419",
     "tillich_id": "tillich_work_id__64",
     "zotero": ""
   },
@@ -885,6 +885,46 @@
     "name": "Seeberg, Erich, Die Universitäten, der Staat und die Wirtschaft, in: Ders., Wirklichkeit und Geist im Deutschland von heute, 24-38.",
     "working_note": "",
     "tillich_id": "tillich_work_id__111",
+    "zotero": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "name": "Barth, Karl, Von der Paradoxie des \"positiven Paradoxes\". Antworten und Fragen an Paul Tillich, in: Theologische Blätter, Jg. 2, 1923, Sp. 287-296",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__112",
+    "zotero": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "name": "Spengler, Oswald, Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte, 2. Bd, München 1924.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__113",
+    "zotero": ""
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "name": "Nietzsche, Friedrich, Der Wille zur Macht. Versuch einer Umwerthung aller Werthe, hg. von Peter Gast/Elisabeth Förster-Nietzsche, Leipzig 1906.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__114",
+    "zotero": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "name": "Wobbermin, Georg, Die Religionspsychologische Methode und Religionswissenschaft und Theologie (Systematische Theologie nach religionspsychologischer Methode, Bd. 1), Leipzig 1913.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__115",
+    "zotero": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "name": "Spitta, Walter, Die Insel des Todes, in: Zeitwende, Jg. 6, H. 2 (Dezember 1930), S. 540-544.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__116",
     "zotero": ""
   }
 }

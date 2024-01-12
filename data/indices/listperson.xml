@@ -7548,7 +7548,9 @@
                </person>
                <person xml:id="tillich_person_id__2127">
                   <persName>Zscharnack, Leopold</persName>
+                  <occupation>Theologe (Kirchengeschichte)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117015067</idno>
+                  <note type="bio"><p>Er wirkte ab 1922 als Professor für Kirchengeschichte in Breslau. Ab 1925 lebte und wirkte er in Königsberg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2128">
                   <persName>Zschorsch, Gertrud</persName>
@@ -7817,7 +7819,7 @@
                </person>
                <person xml:id="tillich_person_id__2192">
                   <persName>Schwester Therese</persName>
-                  <occupation>So unterschreibt irgendein Mädel dass Tillich öfters gereimte Postkarten zusendet.</occupation>
+                  <note type="bio"><p>Gemeindeschwester aus der Gemeinde von Johannes Tillich</p></note>
                </person>
                <person xml:id="tillich_person_id__2193">
                   <persName>Gaiser, ???</persName>
@@ -8712,9 +8714,9 @@
                </person>
                <person xml:id="tillich_person_id__2401">
                   <persName>Hermelink, Heinrich</persName>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe (Kirchengeschichte)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
-                  <note type="bio"><p>Er hat sich auf die kirchengeschichtliche Forschung spezialisiert.</p></note>
+                  <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2402">
                   <persName>Hölscher, Gustav</persName>
@@ -9737,16 +9739,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/118673181</idno>
                </person>
                <person xml:id="tillich_person_id__2648">
-                  <persName>Hermelink, Heinrich</persName>
-                  <occupation>Professor für Kirchengeschichte;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
-                  <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
+                  <persName>gelöscher Doppeleintrag</persName>
                </person>
                <person xml:id="tillich_person_id__2649">
-                  <persName>Zscharnack, Leopold</persName>
+                  <persName>Gelöschter Doppeleintrag</persName>
                   <occupation>Professor für Kirchengeschichte;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117015067</idno>
-                  <note type="bio"><p>Er wirkte ab 1922 als Professor für Kirchengeschichte in Breslau. Ab 1925 lebte und wirkte er in Königsberg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2650">
                   <persName>Kohlmeyer, Ernst</persName>
@@ -9967,6 +9964,28 @@
                   <persName>Meyer, Gottfried</persName>
                   <occupation>Rechtswissenschaftler; Kurator der Universität Halle</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1104756838</idno>
+               </person>
+               <person xml:id="tillich_person_id__2709">
+                  <persName>Schilling(???), Paul</persName>
+                  <note type="bio"><p>Mann von Tante Else</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2710">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2711">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2712">
+                  <persName>Krüger, ???</persName>
+                  <note type="bio"><p>Wahrscheinlich der Leiter des Chors in der Bethlehemsgemeinde</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2713">
+                  <persName>Pfalzgraf, Erich</persName>
+                  <occupation>Divisionspfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1035114623</idno>
+               </person>
+               <person xml:id="tillich_person_id__2714">
+                  <persName/>
                </person>
             </listPerson>
          </div>
