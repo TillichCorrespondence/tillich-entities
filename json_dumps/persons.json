@@ -41923,7 +41923,7 @@
     "id": 2627,
     "order": "2623.00000000000000000000",
     "name": "K., ???",
-    "surname": "K",
+    "surname": "K.",
     "forename": "???",
     "from_to": "",
     "occupation": "",
@@ -43042,9 +43042,9 @@
   "2698": {
     "id": 2698,
     "order": "2694.00000000000000000000",
-    "name": "(unbekannte)Onkel Tillichs, ???",
+    "name": "???, (Onkel)",
     "surname": "???",
-    "forename": "???",
+    "forename": "(Onkel)",
     "from_to": "",
     "occupation": "",
     "bio": "",
@@ -43053,7 +43053,7 @@
     "tillich_id": "tillich_person_id__2698",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "Wird erwähnt von Paul Tillichs Tante Fa. im Brief: \"tillich__1904-09-24-unbekannte_tante_fa-und-onkel-tillich-an-tillich-p_\""
+    "working_note": "Unbekannter Onkel Tillichs. Wird erwähnt von Paul Tillichs Tante Fa. im Brief: \"tillich__1904-09-24-unbekannte_tante_fa-und-onkel-tillich-an-tillich-p_\""
   },
   "2699": {
     "id": 2699,
@@ -43140,7 +43140,7 @@
     "order": "2700.00000000000000000000",
     "name": "Martin, ???",
     "surname": "Martin",
-    "forename": "(Frl.)",
+    "forename": "???",
     "from_to": "",
     "occupation": "",
     "bio": "",
@@ -43218,8 +43218,8 @@
   "2709": {
     "id": 2709,
     "order": "2705.00000000000000000000",
-    "name": "Schilling(???), Paul",
-    "surname": "Schilling(???)",
+    "name": "Schilling, Paul",
+    "surname": "Schilling",
     "forename": "Paul",
     "from_to": "",
     "occupation": "",
@@ -43229,7 +43229,7 @@
     "tillich_id": "tillich_person_id__2709",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": ""
+    "working_note": "Nachname unklar"
   },
   "2710": {
     "id": 2710,
