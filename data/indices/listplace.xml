@@ -1628,6 +1628,15 @@
                <place xml:id="tillich_place_id__541">
                   <placeName>Etienne</placeName>
                </place>
+               <place xml:id="tillich_place_id__542">
+                  <placeName>Aarau</placeName>
+               </place>
+               <place xml:id="tillich_place_id__543">
+                  <placeName>Weimar</placeName>
+               </place>
+               <place xml:id="tillich_place_id__544">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

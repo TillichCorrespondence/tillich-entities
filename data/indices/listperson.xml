@@ -5952,6 +5952,7 @@
                </person>
                <person xml:id="tillich_person_id__1729">
                   <persName>Schneeberger, Friedrich</persName>
+                  <occupation>Pfarrer und Verfasser von Volkstheaterstücken</occupation>
                </person>
                <person xml:id="tillich_person_id__1730">
                   <persName>Schneider, Alexander</persName>
@@ -8185,36 +8186,39 @@
                </person>
                <person xml:id="tillich_person_id__2281">
                   <persName>Weizsäcker, Carl Heinrich</persName>
-                  <occupation>Theologe, Liberale Theologie, NT</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117308110</idno>
+                  <note type="bio"><p>Er hat sich auf die neutestamentliche Forschung spezialisiert und gilt als Vertreter der Liberalen Theologie.</p></note>
                </person>
                <person xml:id="tillich_person_id__2282">
                   <persName>???, Sepp</persName>
-                  <occupation>Studienkollege von Tillich? Vgl. 1908.08. Tillich, P an Büchsel, F.; </occupation>
+                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2283">
                   <persName>Bakel, Hendrik Anton van</persName>
-                  <occupation>Rector Magnificus Universiteit van Amsterdam; hoogleraar theologie Evangelisch Luthers Seminarium.</occupation>
+                  <occupation>Rektor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127695842</idno>
+                  <note type="bio"><p>Er war Rektor der Magnificus-Universität von Amsterdam.</p></note>
                </person>
                <person xml:id="tillich_person_id__2284">
                   <persName>???, Wenzel</persName>
-                  <occupation>Studienkollege von Tillich? Vgl. 1908.08. Tillich, P an Büchsel, F.</occupation>
+                  <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2285">
                   <persName>Grimm, ???</persName>
-                  <occupation>Feldpfarrer im Ersten Weltkrieg. Erwähnt in: 1918.09.14 Koch, K an Tillich, P</occupation>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er war Feldpfarrer im 1. Weltkrieg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2286">
                   <persName>Schubart, Christoph</persName>
-                  <occupation>Schüler von Prof. Loofs, Sohn von Generalsuperintendent Friedrich Winfried Schubart (1847-1918). Erwähnt in: 1918.09.08 Meinhof an Tillich, P</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117724742</idno>
+                  <note type="bio"><p>Er war ein Schüler von Prof. Loofs und der Sohn von Generalsuperintendent Friedrich Winfried Schubart.</p></note>
                </person>
                <person xml:id="tillich_person_id__2287">
                   <persName>Schubart, Friedrich Winfried</persName>
                   <occupation>Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/132462974</idno>
-                  <note type="bio"><p>Er war außerdem Generalsuperintendent von Anhalt.</p></note>
+                  <note type="bio"><p>Er war Generalsuperintendent von Anhalt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2288">
                   <persName>Hartmann, Richard</persName>
@@ -8312,7 +8316,7 @@
                   <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2309">
-                  <persName>Kappes, Heintz</persName>
+                  <persName>Kappes, Heinz</persName>
                   <occupation>Pfarrer; Übersetzer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128431210</idno>
                   <note type="bio"><p>Er war ein evangelischer Pfarrer, Quäker und Übersetzer. Er galt als religiöser Sozialist.</p></note>
@@ -8953,7 +8957,7 @@
                </person>
                <person xml:id="tillich_person_id__2450">
                   <persName>Hoenisch, Ernst</persName>
-                  <occupation>Photograph;</occupation>
+                  <occupation>Hoffotograf in Leipzig</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127774904</idno>
                </person>
                <person xml:id="tillich_person_id__2451">
@@ -9668,10 +9672,6 @@
                <person xml:id="tillich_person_id__2631">
                   <persName>Achenbach, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__2632">
-                  <persName>???, (Dein Freund)</persName>
-                  <note type="bio"><p>Er war ab 1916 liiert mit Maria Klein.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2633">
                   <persName>Hochheimer, ???</persName>
                </person>
@@ -9906,7 +9906,7 @@
                </person>
                <person xml:id="tillich_person_id__2693">
                   <persName>Seidel, Heinrich Wolfgang</persName>
-                  <occupation>Pfarrer; Schriftsteller</occupation>
+                  <occupation>Pfarrer; Schriftsteller;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118760602</idno>
                </person>
                <person xml:id="tillich_person_id__2694">
@@ -9927,12 +9927,12 @@
                </person>
                <person xml:id="tillich_person_id__2699">
                   <persName>Seidel, Heinrich</persName>
-                  <occupation>Schriftsteller; Bauingenieur</occupation>
+                  <occupation>Schriftsteller; Bauingenieur;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118796089</idno>
                </person>
                <person xml:id="tillich_person_id__2700">
                   <persName>Ahleck, ???</persName>
-                  <note type="bio"><p>Fräulein, dass Tillich im ersten Weltkrieg ein Kissen geschickt hat.</p></note>
+                  <note type="bio"><p>Sie hat Paul Tillich im 1. Weltkrieg ein Kissen geschickt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2701">
                   <persName>Hermann, Rudolf</persName>
@@ -9953,21 +9953,21 @@
                </person>
                <person xml:id="tillich_person_id__2706">
                   <persName>Thomas, Friedrich Wilhelm</persName>
-                  <occupation>Pfarrer, Theologe</occupation>
+                  <occupation>Pfarrer; Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1270440098</idno>
                </person>
                <person xml:id="tillich_person_id__2707">
                   <persName>Fritz, Eckehardt</persName>
-                  <note type="bio"><p>Sohn von Alfred Fritz und Johanna Fritz; Bruder von Paul Tillichs Patentochter Gisela Walker geb. Fritz.</p></note>
+                  <note type="bio"><p>Er war der Sohn von Alfred Fritz und Johanna Fritz. Außerdem war er der Bruder von Paul Tillichs Patentochter Gisela Walker, geborene Fritz.</p></note>
                </person>
                <person xml:id="tillich_person_id__2708">
                   <persName>Meyer, Gottfried</persName>
-                  <occupation>Rechtswissenschaftler; Kurator der Universität Halle</occupation>
+                  <occupation>Rechtswissenschaftler; Kurator der Universität Halle;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1104756838</idno>
                </person>
                <person xml:id="tillich_person_id__2709">
                   <persName>Schilling, Paul</persName>
-                  <note type="bio"><p>Mann von Tante Else</p></note>
+                  <note type="bio"><p>Er war der Mann von einer Dame namens Else.</p></note>
                </person>
                <person xml:id="tillich_person_id__2710">
                   <persName/>
@@ -9977,14 +9977,50 @@
                </person>
                <person xml:id="tillich_person_id__2712">
                   <persName>Krüger, ???</persName>
-                  <note type="bio"><p>Wahrscheinlich der Leiter des Chors in der Bethlehemsgemeinde</p></note>
+                  <note type="bio"><p>Es handelt sich vermutlich um den Chorleiter der Bethlehemsgemeinde.</p></note>
                </person>
                <person xml:id="tillich_person_id__2713">
                   <persName>Pfalzgraf, Erich</persName>
-                  <occupation>Divisionspfarrer</occupation>
+                  <occupation>Divisionspfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1035114623</idno>
                </person>
                <person xml:id="tillich_person_id__2714">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2715">
+                  <persName>Hinrichs, Johann Conrad</persName>
+                  <occupation>Buchhändler und Verleger;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123161789</idno>
+               </person>
+               <person xml:id="tillich_person_id__2716">
+                  <persName>Riedel, ???</persName>
+                  <note type="bio"><p>Er hatte einen Doktortitel.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2717">
+                  <persName>Harder, Braut</persName>
+               </person>
+               <person xml:id="tillich_person_id__2718">
+                  <persName>Preußen, Wilhelm von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11877185X</idno>
+                  <note type="bio"><p>Er war Kronprinz des Deutschen Reichs und von Preußen.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2719">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2720">
+                  <persName>???, Anna</persName>
+               </person>
+               <person xml:id="tillich_person_id__2722">
+                  <persName>???, (Unbekannt)</persName>
+               </person>
+               <person xml:id="tillich_person_id__2723">
+                  <persName>Fuchs, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2724">
+                  <persName>Grimms, ???</persName>
+                  <note type="bio"><p>Es handelt sich um eine Person aus der Verwaltung der Evangelischen Kirche in Berlin oder Brandenburg, die Paul Tillich eine Hilfspredigerstelle während des Ersten Weltkriegs verschaffen sollte.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2725">
                   <persName/>
                </person>
             </listPerson>

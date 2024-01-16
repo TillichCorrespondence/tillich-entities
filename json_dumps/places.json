@@ -3757,5 +3757,26 @@
     "name": "Etienne",
     "tillich_id": "tillich_place_id__541",
     "geonames_url": ""
+  },
+  "542": {
+    "id": 542,
+    "order": "538.00000000000000000000",
+    "name": "Aarau",
+    "tillich_id": "tillich_place_id__542",
+    "geonames_url": "https://www.geonames.org/2661881/"
+  },
+  "543": {
+    "id": 543,
+    "order": "539.00000000000000000000",
+    "name": "Weimar",
+    "tillich_id": "tillich_place_id__543",
+    "geonames_url": ""
+  },
+  "544": {
+    "id": 544,
+    "order": "540.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__544",
+    "geonames_url": ""
   }
 }
