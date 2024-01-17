@@ -3778,5 +3778,12 @@
     "name": "",
     "tillich_id": "tillich_place_id__544",
     "geonames_url": ""
+  },
+  "545": {
+    "id": 545,
+    "order": "541.00000000000000000000",
+    "name": "Ravenstein i. P.",
+    "tillich_id": "tillich_place_id__545",
+    "geonames_url": ""
   }
 }

@@ -974,5 +974,29 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__122",
     "zotero": ""
+  },
+  "123": {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "name": "Schreiner, Helmuth, Pädagogik aus Glauben, Schwerin 1930",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__123",
+    "zotero": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "name": "Tillich, Paul, Was ist religiöser Sozialismus? Rundfunkvortrag beim \"Deutschlandsender\" am 22. Juli 1930.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__124",
+    "zotero": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "name": "Nietzsche, Friedrich, Also sprach Zarathustra. 4. Bd., Leipzig, 1891.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__125",
+    "zotero": ""
   }
 }

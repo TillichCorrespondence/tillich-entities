@@ -6726,7 +6726,9 @@
                </person>
                <person xml:id="tillich_person_id__1928">
                   <persName>Tillich, Paul</persName>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
+                  <note type="bio"><p>Er wurde in Starzeddel bei Guben geboren und zog mit seiner Familie im Jahr 1900 nach Berlin. Im Anschluss an das Abitur studierte er evangelische Theologie in Berlin, Tübingen und Halle. Außerdem war er in der Studentenverbindung Wingolf aktiv. 1910 wurde er in Breslau zum Dr. phil. promoviert. 1912 folgte die Promotion zum Lic. theol. in Halle. Im 1. Weltkrieg wirkte Paul Tillich als Feldprediger.  Nach dem Ende des 1. Weltkriegs kehrte er zurück nach Berlin, setzte dort seine universitäre Karriere fort und wirkte gleichzeitig als Stadtvikar. 1924 folgte er dem Ruf ein Professur nach Marburg. 1925 wechselte er auf eine Professur für Religionswissenschaften und Sozialphilosophie an die TH Dresden. Er war daneben auch als Honorarprofessor in Leipzig tätig. 1933 emigrierte Paul Tillich nach New York und lehrte fortan am Union Theological Seminary. In den USA entstand dann auch sein wissenschaftliches Hauptwerk, nämlich die "Systematic Theology".</p></note>
                </person>
                <person xml:id="tillich_person_id__1929">
                   <persName>Tillich, Wilhelmina Mathilde</persName>
@@ -7579,35 +7581,36 @@
                   <idno type="gnd">https://d-nb.info/gnd/118637533</idno>
                </person>
                <person xml:id="tillich_person_id__2134">
-                  <persName>Charlotte</persName>
-                  <occupation>Geliebte, Dresden</occupation>
+                  <persName>???, Charlotte</persName>
+                  <note type="bio"><p>Es handelt sich um eine Geliebte von Paul Tillich, die aus Dresden stammte.</p></note>
                </person>
                <person xml:id="tillich_person_id__2135">
                   <persName>Rickert, Heinrich</persName>
-                  <occupation>Philosoph (Neukantianismus)</occupation>
+                  <occupation>Philosoph;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
+                  <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
                </person>
                <person xml:id="tillich_person_id__2136">
                   <persName>Kaumann, E.</persName>
-                  <occupation>Studienkollege von Tillich aus der frühen Tübinger Zeit 1905</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2137">
                   <persName>Reuter, Fritz</persName>
-                  <occupation>Deutscher Schriftsteller</occupation>
+                  <occupation>Schriftsteller;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118599976</idno>
                </person>
                <person xml:id="tillich_person_id__2138">
                   <persName>Heller, Otto</persName>
-                  <occupation>Studienkollege von Tillich</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2139">
                   <persName>Schwartzkopff, Philipp</persName>
-                  <occupation>Oberpräsident von Unbekannt</occupation>
+                  <occupation>Oberpräsident;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117361267</idno>
                </person>
                <person xml:id="tillich_person_id__2140">
-                  <persName>Pulkowski</persName>
-                  <occupation>Divisionsadjudant Hauptmann</occupation>
+                  <persName>Pulkowski, ???</persName>
+                  <occupation>Divisionsadjudant;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1070597449</idno>
                </person>
                <person xml:id="tillich_person_id__2141">
@@ -7615,159 +7618,158 @@
                   <idno type="gnd">https://d-nb.info/gnd/118785273</idno>
                </person>
                <person xml:id="tillich_person_id__2142">
-                  <persName>Tielking</persName>
-                  <occupation>Zur Studienzeit Tillichs Mitgleid des Wingolf in Göttingen</occupation>
+                  <persName>Tielking, ???</persName>
+                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Göttingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2143">
-                  <persName>Schüssler</persName>
-                  <occupation>Zur Studienzeit Tillichs Mitgleid des Wingolf in Berlin</occupation>
+                  <persName>Schüssler, ???</persName>
+                  <note type="bio"><p>Er war Mitglied der Wingolfsverbindung in Berlin.</p></note>
                </person>
                <person xml:id="tillich_person_id__2144">
-                  <persName>Adrienne</persName>
+                  <persName>Adrienne, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2145">
                   <persName>Martel, Rachel</persName>
-                  <occupation>Schreibt französisch mit Tillich, während 1. WK.</occupation>
+                  <note type="bio"><p>Er war im Kontakt mit Paul Tillich im 1. Weltkrieg und korrespondierte mit ihm auf Französisch.</p></note>
                </person>
                <person xml:id="tillich_person_id__2146">
                   <persName>Wagner, Richard</persName>
-                  <occupation>Komponist</occupation>
+                  <occupation>Komponist;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118594117</idno>
                </person>
                <person xml:id="tillich_person_id__2147">
                   <persName>Vethake, Hans</persName>
-                  <occupation>Vgl. Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
                </person>
                <person xml:id="tillich_person_id__2148">
                   <persName>Schlemm, ???</persName>
-                  <occupation>Irgendein Studienkollege oder ein Mitbruder der Verbindunge, mit dem es eine "hochoffiziöse" und also unangenehme Sache gegeben haben muß</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich oder ein Mitbruder der Wingolfsverbindung, mit dem es eine "hochoffiziöse" bzw. unangenehme Sache gegeben haben muss.</p></note>
                </person>
                <person xml:id="tillich_person_id__2149">
                   <persName>Fink, ???</persName>
-                  <occupation>Philister im Bonner Wingolf (1907)</occupation>
+                  <note type="bio"><p>Er war ein Philister im Bonner Wingolf.</p></note>
                </person>
                <person xml:id="tillich_person_id__2150">
-                  <persName>Meyer zu Stieghorst</persName>
-                  <occupation>Ein Schulkamerade von Tillichs Studienkollege Hans Schreiber</occupation>
+                  <persName>Meyer zu Stieghorst, ???</persName>
+                  <note type="bio"><p>Er war ein Schulkamerade von Paul Tillichs Studienkollege Hans Schreiber</p></note>
                </person>
                <person xml:id="tillich_person_id__2151">
-                  <persName>Kachler</persName>
-                  <occupation>Wohl ein Studienkollege Tillichs</occupation>
+                  <persName>Kachler, ???</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2152">
-                  <persName>Goebel</persName>
-                  <occupation>Geheimrat, gest. 05.11.1907</occupation>
+                  <persName>Goebel, ???</persName>
+                  <occupation>Geheimrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118717863</idno>
                </person>
                <person xml:id="tillich_person_id__2153">
-                  <persName>Hancke</persName>
-                  <occupation>Leibfux von Hans Balke</occupation>
+                  <persName>Hancke, ???</persName>
+                  <note type="bio"><p>Er war der Leibfux von Hans Balke.</p></note>
                </person>
                <person xml:id="tillich_person_id__2154">
                   <persName>Stosch, Martin</persName>
-                  <occupation>Studienkollege Tillichs (Halle?); Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...), 1907 Tillich, P. an Fritz, A (So schwer…). Siehe: 1906. Wingolfsbrüder an Tillich, P; 1907. Tillich, P. an Fritz, A (Verzicht auf Recht)</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2155">
                   <persName>Voget, Hans</persName>
-                  <occupation>Studienkollege Tillichs (Halle?)</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2156">
-                  <persName>Oberschmidt</persName>
-                  <occupation>Leibfux von Nickelby</occupation>
+                  <persName>Oberschmidt, ???</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117077836</idno>
+                  <note type="bio"><p>Er war der Leibfux eines Herrn namens Nickelby.</p></note>
                </person>
                <person xml:id="tillich_person_id__2157">
                   <persName>Nickelby, C.</persName>
-                  <occupation>Studienkollege Tillichs </occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2158">
                   <persName>Varchmin, ???</persName>
-                  <occupation>Irgendein Funktionär des Wingolfs</occupation>
+                  <note type="bio"><p>Er war ein Funktionär der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2159">
                   <persName>Nell, W.</persName>
-                  <occupation>Studienkollege Tillichs</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2160">
                   <persName>Winkler, ???</persName>
-                  <occupation>Irgendein Funktionär des Wingolfs (Philister)</occupation>
+                  <note type="bio"><p>Er war ein Funktionär der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2161">
-                  <persName>Gaul</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Gaul, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2162">
-                  <persName>Lorenz</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...); (Verzicht auf Recht); 1907.10. Tillich, P. an Fritz, A</occupation>
+                  <persName>Lorenz, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2163">
-                  <persName>Hessig</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Hessig, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2164">
-                  <persName>Jungklaussen</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Jungklaussen, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2165">
-                  <persName>Heermann</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Heermann, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2166">
-                  <persName>Veit</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Veit, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2167">
-                  <persName>Zentgraf</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Zentgraf, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2168">
                   <persName>Schuster, Daniel</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...); 1907. Tillich, P. an Fritz, A._Endlich soweit</occupation>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2169">
-                  <persName>Struckmaier (Struckmeier?)</persName>
-                  <occupation>Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Struckmaier, ???</persName>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2170">
-                  <persName>Daniel</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...);  1907. Tillich, P. an Fritz, A. (So schwer...); 1907. Tillich, P. an Fritz, A. (Fast wage...); 1907. Tillich, P. an Fritz, A._Endlich soweit; 1907.10. Tillich, P. an Fritz, A.; identisch mit Daniel Schuster P02172?</occupation>
+                  <persName>???, Daniel</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2171">
                   <persName>Hanffstengel, Karl von</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2172">
                   <persName>Heienbrok, ???</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2173">
                   <persName>Nöck, ???</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2174">
                   <persName>Weitz, ???</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2175">
                   <persName>Müller, ???</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2176">
-                  <persName>Heine</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Heine, ???</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2177">
-                  <persName>Sessow</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <persName>Sessow, ???</persName>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2178">
                   <persName>Van der Smissen, Wilm</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2179">
                   <persName>Dennert, Eberhard</persName>
-                  <occupation>Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118824821</idno>
+                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2180">
                   <persName>Zahn, Theodor</persName>
@@ -7782,73 +7784,73 @@
                </person>
                <person xml:id="tillich_person_id__2183">
                   <persName>Bertheau, Hans</persName>
-                  <occupation>Offenbar kleiner Bruder von Lorenz. Siehe: 1907.08.13. Hanffstengel, G. an Tillich, P</occupation>
+                  <note type="bio"><p>Er war scheinbar der kleine Bruder von einem Mann namens Lorenz.</p></note>
                </person>
                <person xml:id="tillich_person_id__2184">
                   <persName>Kalfhaus, ???</persName>
-                  <occupation>Mitstudent oder zumindest Mitbruder des Wingolfs. Siehe u. a. 1907.08.13. Hanffstengel, G. an Tillich, P. / 1907.03.22. Hanffstengel, P. an Tillich, P / 1907. Tillich, P. an Fritz, A._Endlich soweit</occupation>
+                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2185">
                   <persName>Meyersieck, Joh.</persName>
-                  <occupation>Mitstudent oder zumindest Mitbruder des Wingolfs. Siehe u. a. 1907.08.13. Hanffstengel, G. an Tillich, P.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
+                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2186">
-                  <persName>Ebers</persName>
-                  <occupation>Mitstudent oder zumindest Mitbruder des Wingolfs. Siehe u. a. 1907.08.13. Hanffstengel, G. an Tillich, P.</occupation>
+                  <persName>Ebers, ???</persName>
+                  <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2187">
                   <persName>Van der Smissen, Heinrich</persName>
-                  <occupation>Wohl ältesteser Bruder der Smissen-Geschwister. Studierte Chemie.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/139617159</idno>
+                  <note type="bio"><p>Er war vermutlich der älteste Bruder der Smissen-Geschwister und studierte Chemie.</p></note>
                </person>
                <person xml:id="tillich_person_id__2188">
-                  <persName>Erdmann</persName>
-                  <occupation>Damit ist irgendein Professor für Chemie an der Hochschule in Berlin gemeint.</occupation>
+                  <persName>Erdmann, ???</persName>
+                  <occupation>Professor;</occupation>
+                  <note type="bio"><p>Er war Professor für Chemie an einer Berliner Hochschule.</p></note>
                </person>
                <person xml:id="tillich_person_id__2189">
-                  <persName>Scheurich</persName>
-                  <occupation>Vgl. 1907. Tillich, P. an Fritz, A. (So schwer...); Tillich spricht von dessen kürzlicher "Trauerkneipe" </occupation>
+                  <persName>Scheurich, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2190">
-                  <persName>Spatz</persName>
-                  <occupation>Vgl. 1907. Tillich, P. an Fritz, A. (So schwer...); (Verzicht auf Recht)</occupation>
+                  <persName>Spatz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2191">
                   <persName>???, Jonas</persName>
-                  <occupation>Scheint ein Studienkollege zu sein. Nachname ist mir nicht bekannt. Wird erwähnt im Brief: 1907.10.02. Balke, H. an Tillich, P.</occupation>
+                  <note type="bio"><p>Er scheint ein Studienkollege von Paul Tillich gewesen zu sein.</p></note>
                </person>
                <person xml:id="tillich_person_id__2192">
-                  <persName>Schwester Therese</persName>
-                  <note type="bio"><p>Gemeindeschwester aus der Gemeinde von Johannes Tillich</p></note>
+                  <persName>???, Therese</persName>
+                  <occupation>Gemeindeschwester;</occupation>
+                  <note type="bio"><p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2193">
                   <persName>Gaiser, ???</persName>
-                  <occupation>Conchargierter von Fr. Banzhaf und ich nehme einmal an drum auch ein Fuxmajor im Tübinger Wingolf. Siehe: 1907.08.18. Banzhaf, F. an Tillich, P.</occupation>
+                  <note type="bio"><p>Er stand vermutlich im Kontakt mit der Wingolfsverbindung in Tübingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2194">
                   <persName>Buss, ???</persName>
-                  <occupation>Ein Mitstudent von Tillich der in irgendeine Austrittsangelegenheit verwickelt war. Siehe: 1907.12.11. Balke, H. an Tillich, P.</occupation>
+                  <note type="bio"><p>Er war ein Mitstudent von Paul Tillich, der in irgendeine Austrittsangelegenheit verwickelt war.</p></note>
                </person>
                <person xml:id="tillich_person_id__2195">
                   <persName>Häfele, ???</persName>
-                  <occupation>Mitstudent Tillichs in Halle. Vgl. 1907.04.21. Schubert, D. an Tillich, P.; 1907. Tillich, P. an Fritz, A. (Fast wage); 1908.08. Tillich, P. an Büchsel, F.</occupation>
+                  <note type="bio"><p>Er war ein Mitstudent von Paul Tillich in Halle.</p></note>
                </person>
                <person xml:id="tillich_person_id__2196">
                   <persName>???, Käte</persName>
-                  <occupation>Tante von Paul Tillich.</occupation>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2197">
-                  <persName>Fritz, Immanuel(?)</persName>
-                  <occupation>Der Bruder von Alfred Fritz. Erwähnt in: 1907.07.27. Fritz, A. an Tillich, P. Den Vornamen gilt es noch herauszufinden. (Gottlieb Fritz ist der Vater);  ebenso erwähnt in 1907. Tillich, P. an Fritz, A. (Fast wage); vgl. zur Hypothese, ob Immanuel: 17.11.1914 Tillich, Paul an Tillich, Elisabeth</occupation>
+                  <persName>Fritz, Immanuel</persName>
+                  <note type="bio"><p>Er war der Bruder von Alfred Fritz.</p></note>
                </person>
                <person xml:id="tillich_person_id__2198">
                   <persName>Banzhaf, ???</persName>
-                  <occupation>Der Bruder von Friedrich Banzhaf. Erwähnt in: 1907.07.27. Fritz, A. an Tillich, P. Ebenso fehlt der Vorname</occupation>
+                  <note type="bio"><p>Er war der Bruder von Friedrich Banzhaf.</p></note>
                </person>
                <person xml:id="tillich_person_id__2199">
                   <persName>???, Trude</persName>
-                  <occupation>Tante von Paul Tillich. Unterschreibt in: 1907.08.16. Tillich, J. an Tillich, P</occupation>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2200">
                   <persName>Bebel, August Ferdinand</persName>
@@ -7876,31 +7878,26 @@
                </person>
                <person xml:id="tillich_person_id__2206">
                   <persName>Wergenthaler, ???</persName>
-                  <occupation>Philister in Stuttgart? Erwähnt in: 1907.09.19. Fritz, A. an Tillich, P</occupation>
+                  <note type="bio"><p>Er stand vermutlich im Kontakt mit der Wingolfsverbindung in Stuttgart.</p></note>
                </person>
                <person xml:id="tillich_person_id__2207">
                   <persName>Auel, ???</persName>
-                  <occupation>Nicht gesichert. Erwähnt in: 1907.10.23. Balke, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2208">
                   <persName>Kremer, ???</persName>
-                  <occupation>Erwähnt in: 1907.10.23. Balke, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2209">
                   <persName>Stelz, ???</persName>
-                  <occupation>Nicht gesichert. Erwähnt in: 1907.10.23. Balke, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2210">
                   <persName>Wittekindt, ???</persName>
-                  <occupation>Erwähnt in: 1907.10.23. Balke, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2211">
-                  <persName>Frau Wendelmuth</persName>
-                  <occupation>Erwähnt in: 1907.10.23. Balke, H. an Tillich, P.</occupation>
+                  <persName>Wendelmuth, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__2212">
                   <persName>Gräber, ???</persName>
-                  <occupation>Irgendein X im Göttinger Wingolf. Erwähnt in: 1907.10.23. Hanffstengel, G. an Tillich, P.; 1907.10. Tillich, P. an Fritz, A.</occupation>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2213">
                   <persName>Titius, Arthur</persName>
@@ -7911,222 +7908,198 @@
                   <idno type="gnd">https://d-nb.info/gnd/117429880</idno>
                </person>
                <person xml:id="tillich_person_id__2215">
-                  <persName>Ritter, Rudi (?)</persName>
-                  <occupation>Es handelt sich hier nicht um den Karl Bernhard Ritter! Dieser fing sein Studium erst 1909 an. Der hier eingetragene Rudolf (?) Ritter aber ist ein anderer!</occupation>
+                  <persName>Ritter, Rudi</persName>
                </person>
                <person xml:id="tillich_person_id__2216">
                   <persName>Jarcke, ???</persName>
-                  <occupation>Erwähnt in 1907.12.15. Spatz an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2217">
                   <persName>Jülicher, Adolf</persName>
-                  <occupation>Evangelischer Theologe: Neues Testament und Kirchengeschichte): Erwähnt in 1907. Tillich, P. an Fritz, A. (Fast wage)</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118776495</idno>
+                  <note type="bio"><p>Er hat sich auf die neutestamentliche und kirchengeschichtliche Forschung spezialisiert.</p></note>
                </person>
                <person xml:id="tillich_person_id__2218">
                   <persName>Landmann, F.</persName>
-                  <occupation>Unterschreibt als "Onkel" in: 1905.03.21. Koch, K. an Tillich, P. Außerdem erwähnt in: 1905.05.04. Gerich an Tillich, P.</occupation>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2219">
                   <persName>Fanerod, Jeanne</persName>
-                  <occupation>Erwähnt in: 1905.05.03. Tillich, Johanna an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2220">
                   <persName>Flittner, Else</persName>
-                  <occupation>Erwähnt in: 1905.05.03. Tillich, Johanna an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2221">
                   <persName>Diehl, ???</persName>
-                  <occupation>Erwähnt in: 1905.05.04. Gerich an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2222">
                   <persName>Stieglitz, ???</persName>
-                  <occupation>Irgendein Student in Marburg. Erwähnt in: 1905.05.04. Gerich an Tillich, P.</occupation>
+                  <note type="bio"><p>Er war ein Student in Marburg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2223">
                   <persName>Weißenborng, Hans</persName>
-                  <occupation>Erwähnt in: 1905.06.05. Tillich, Marie an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2224">
                   <persName>Dürselen , Paul Rudolf</persName>
-                  <occupation>Onkel von Paul Tillich</occupation>
+                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2225">
-                  <persName>Dürselen, Johanna Amalia Eugenia (Eugenie)</persName>
-                  <occupation>Tante von Paul Tillich</occupation>
+                  <persName>Dürselen, Johanna Amalia Eugenia</persName>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2226">
                   <persName>???, Anton von</persName>
-                  <occupation>1906. Wingolfsbrüder an Tillich, Paul</occupation>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2227">
                   <persName>???, Emma</persName>
-                  <occupation>Wird erwähnt als "Tante Emma" in: 1905.10.20. Winkler, T. an Tillich, P; auch 1914.11.17 Tillich P, an Tillich, E (Umschlagadresse Alfred Fritz)</occupation>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2228">
                   <persName>Solberger, Maria</persName>
-                  <occupation>Erwähnt in: 1905.10.20. Winkler, T. an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2229">
                   <persName>Schilling, Lottchen</persName>
-                  <occupation>Erwähnt in: 1905.10.20. Winkler, T. an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2230">
-                  <persName>Schilling(???), Edith</persName>
-                  <occupation>Erwähnt in: 1905.10.20. Winkler, T. an Tillich, P</occupation>
+                  <persName>Schilling, Edith</persName>
                </person>
                <person xml:id="tillich_person_id__2231">
-                  <persName>Schilling(???), Gerda</persName>
-                  <occupation>Erwähnt in: 1905.10.20. Winkler, T. an Tillich, P</occupation>
+                  <persName>Schilling, Gerda</persName>
                </person>
                <person xml:id="tillich_person_id__2232">
                   <persName>Hanffstengel, ???</persName>
-                  <occupation>Hier soll Platz sein für die Mutter von G. v. Hanffstengel. Erwähnt z. B. in: 1907.03.22. Hanffstengel, G. an Tillich, P. (S.5)</occupation>
+                  <note type="bio"><p>Sie war die Mutter von G. v. Hanffstengel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2233">
                   <persName>Engelmann, ???</persName>
-                  <occupation>Erwähnt in: 1907.03.22. Hanffstengel, G. an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2234">
                   <persName>Heintze, Hans Karl Ludwig Theodor</persName>
-                  <occupation>Pfarrer in Lindtorf. Onkel von G. v. Hanffstengel. Erwähnt in: 1907.03.22. Hanffstengel, G. an Tillich, P</occupation>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er war Pfarrer in Lindtorf und Onkel von G. v. Hanffstengel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2235">
                   <persName>Hessel, ???</persName>
-                  <occupation>Erwähnt in: 1907.03.22. Hanffstengel, G. an Tillich, P sowie 1907.04.11. Bertheau, L. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2236">
                   <persName>???, Else</persName>
-                  <occupation>Als Tante erwähnt in: 1906.08.19. Onkel Paul an Tillich, P.</occupation>
+                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2237">
                   <persName>Dürselen, Gustav</persName>
-                  <occupation>Großvater von Paul Tillich</occupation>
+                  <note type="bio"><p>Er war ein Großvater von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2238">
-                  <persName>Dürselen, Amalia Gertrud (Mathilde)</persName>
-                  <occupation>Großmutter von Paul Tillich</occupation>
+                  <persName>Dürselen, Amalia Gertrud Mathilde</persName>
+                  <note type="bio"><p>Sie war ein Großmutter von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2239">
-                  <persName>Elbrechts</persName>
-                  <occupation>cand. Theol. In Ostfriesland (genauso wie Voget). Erwähnt in: 1906.09.22. Hanffstengel, G. an Tillich, P</occupation>
+                  <persName>Elbrechts, ???</persName>
+                  <occupation>Theologe;</occupation>
+                  <note type="bio"><p>Er wirkte als Candidatus Theologiae in Ostfriesland.</p></note>
                </person>
                <person xml:id="tillich_person_id__2240">
-                  <persName>Onkel Walz</persName>
-                  <occupation>So erwähnt in: 1906.11.17. Tillich, J. an Tillich, P. Es gibt aber weder mütterlicherseits noch väterlicherseits irgendwelche Geschwister die diesen Namen tragen könnten</occupation>
+                  <persName>???, Walz</persName>
+                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2241">
-                  <persName>Hüpfer</persName>
-                  <occupation>Erwähnt in: 1906.11.17. Tillich, J. an Tillich, P</occupation>
+                  <persName>Hüpfer, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2242">
-                  <persName>Pastor Schmidt</persName>
-                  <occupation>Erwähnt in: 1906.11.17. Tillich, J. an Tillich, P</occupation>
+                  <persName>Schmidt</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
                <person xml:id="tillich_person_id__2243">
                   <persName>Hessig, O.</persName>
-                  <occupation>Erwähnt in: 1907.03.22 Hanffstengel, G. an Tillich, P. sowie 1907.10.21. Schreiber, H. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2244">
                   <persName>Grill, Julius</persName>
-                  <occupation>Evangelischer Theologe in Tübingen</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116835907</idno>
+                  <note type="bio"><p>Er wirkte vor allem in Tübingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2245">
                   <persName>Wurster, Paul von</persName>
-                  <occupation>Evangelischer Theologe in Tübingen</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117358800</idno>
+                  <note type="bio"><p>Er wirkte vor allem in Tübingen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2246">
                   <persName>Storm, Theodor</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118618725</idno>
                </person>
                <person xml:id="tillich_person_id__2247">
-                  <persName>Dinglinger</persName>
-                  <occupation>Erwähnt in: 1907.07.14 Fritz, A. an Tillich, P</occupation>
+                  <persName>Dinglinger, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2248">
                   <persName>Raabe, Wilhelm Karl</persName>
-                  <occupation>Schriftsteller</occupation>
+                  <occupation>Schriftsteller;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118597442</idno>
                </person>
                <person xml:id="tillich_person_id__2249">
                   <persName>Pfisterer, Immanuel</persName>
-                  <occupation>Unterschreibt in: 1907. Wingolfsbrüder an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2250">
                   <persName>Grundlies , Ernst</persName>
-                  <occupation>Erwähnt in: 1907.10.29. Fritz, A. an Tillich, P</occupation>
                </person>
                <person xml:id="tillich_person_id__2251">
-                  <persName>Zimmermann</persName>
-                  <occupation>Erwähnt in: 1907.10.29. Fritz, A. an Tillich, P</occupation>
+                  <persName>Zimmermann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2252">
-                  <persName>Kunsemüller</persName>
-                  <occupation>Erwähnt in: 1907. Tillich, P. an Fritz, A._Endlich soweit</occupation>
+                  <persName>Kunsemüller, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2253">
-                  <persName>Lepsius</persName>
-                  <occupation>Wird meist erwähnt in den Briefen der Familie an Tillich von 1905.</occupation>
+                  <persName>Lepsius, Johannes</persName>
                   <idno type="gnd">https://d-nb.info/gnd/11694580X</idno>
                </person>
                <person xml:id="tillich_person_id__2254">
-                  <persName>Höfer</persName>
-                  <occupation>Hilfsprediger bei Johannes Tillich um 1905</occupation>
+                  <persName>Höfer, ???</persName>
+                  <occupation>Prediger;</occupation>
+                  <note type="bio"><p>Er wirkte als Hilfsprediger bei Johannes Tillich um 1905.</p></note>
                </person>
                <person xml:id="tillich_person_id__2255">
-                  <persName>Heine , Dr. (Ohrenarzt für T.)</persName>
-                  <occupation>Erwähnt in: 1905.05.19 Winkler T. etc. an Tillich, P.</occupation>
+                  <persName>Heine, ???</persName>
+                  <occupation>Ohrenarzt;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117512990</idno>
                </person>
                <person xml:id="tillich_person_id__2256">
                   <persName>Wichel , Käthe</persName>
-                  <occupation>Cousine? Erwähnt in: 1905.06.17. Winkler, T. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2257">
                   <persName>Krause, Friederike</persName>
-                  <occupation>Erwähnt in: 1905.06.17. Winkler, T. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2258">
                   <persName>Krause, Anna</persName>
-                  <occupation>Erwähnt in: 1905.06.17. Winkler, T. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__2259">
-                  <persName>Onkel Adolf</persName>
-                  <occupation>Erwähnt in: 1905.06.26. Tillich, J. an Tillich, P.</occupation>
+                  <persName>???, Adolf</persName>
+                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2260">
-                  <persName>Conrad</persName>
-                  <occupation>Pfarrer; Erwähnt in: 1905.06.26. Tillich, J. an Tillich, P.</occupation>
+                  <persName>???, Conrad</persName>
+                  <occupation>Pfarrer;</occupation>
                </person>
                <person xml:id="tillich_person_id__2261">
-                  <persName>Gerty</persName>
-                  <occupation>S.: 1907.05.13. Gerty an Tillich, P.</occupation>
+                  <persName>???, Gerty</persName>
                </person>
                <person xml:id="tillich_person_id__2262">
                   <persName>Gründler, Ernst</persName>
-                  <occupation>1907. Tillich, P. an Fritz, A._Verzicht auf Recht; 1907.10. Tillich, P. an Fritz, A. </occupation>
                </person>
                <person xml:id="tillich_person_id__2263">
                   <persName>Jäger, Th.</persName>
-                  <occupation>1907. Tillich, P. an Fritz, A._Verzicht auf Recht; 1907.10. Tillich, P. an Fritz, A. </occupation>
                </person>
                <person xml:id="tillich_person_id__2264">
-                  <persName>Starke</persName>
-                  <occupation>1907. Tillich, P. an Fritz, A._Verzicht auf Recht</occupation>
+                  <persName>Starke, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2265">
-                  <persName>Grüber</persName>
-                  <occupation>1907. Tillich, P. an Fritz, A._Verzicht auf Recht</occupation>
+                  <persName>Grüber, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2266">
-                  <persName>Hans</persName>
-                  <occupation>1907. Tillich, P. an Fritz, A._Verzicht auf Recht</occupation>
+                  <persName>???, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2267">
-                  <persName>Kraut, Ts.?</persName>
-                  <occupation>1907. Tillich, P. an Fritz, A._Verzicht auf Recht</occupation>
+                  <persName>Kraut, Ts.</persName>
                </person>
                <person xml:id="tillich_person_id__2268">
                   <persName>Valentinus, Gnosticus</persName>
@@ -8134,55 +8107,57 @@
                </person>
                <person xml:id="tillich_person_id__2269">
                   <persName>Steuernagel, Carl</persName>
-                  <occupation>Evangelischer Professor Altes Testament</occupation>
+                  <occupation>Professor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117241377</idno>
+                  <note type="bio"><p>Er hat sich auf die alttestamentliche Forschung spezialisiert.</p></note>
                </person>
                <person xml:id="tillich_person_id__2270">
                   <persName>Weiss, Karl Philipp Bernhard</persName>
-                  <occupation>Evangelischer Professor Neues Testament</occupation>
+                  <occupation>Professor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
+                  <note type="bio"><p>Er hat sich auf die neutestamentliche Forschung spezialisiert.</p></note>
                </person>
                <person xml:id="tillich_person_id__2271">
                   <persName>Bromisch, ???</persName>
-                  <occupation>Wingolf-Kontext, 1907.10. Tillich, P. an Fritz, A.</occupation>
+                  <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2272">
                   <persName>Fritz, ???</persName>
-                  <occupation>Schwester von Alfred Fritz. Erwähnt in: 1906.03.29. Fritz, A. an Tillich, P.</occupation>
+                  <note type="bio"><p>Sie war die Schwester von Alfred Fritz.</p></note>
                </person>
                <person xml:id="tillich_person_id__2273">
                   <persName>Zahn, Ernst</persName>
-                  <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118996282</idno>
                </person>
                <person xml:id="tillich_person_id__2274">
                   <persName>Büchsel-Giesebrecht, Dorothea Amalie Friederike</persName>
-                  <occupation>Mutter von Hermann Martin Friedrich Büchsel (Theologe-NT, Studienfreund Tillichs)</occupation>
+                  <note type="bio"><p>Sie war die Mutter von Hermann Martin Friedrich Büchsel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2275">
                   <persName>Büchsel, Johannes Friedrich Wilhelm</persName>
-                  <occupation>Pfarrer, Vater von Hermann Martin Friedrich Büchsel (Theologe-NT, Studienfreund Tillichs)</occupation>
+                  <occupation>Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117718580</idno>
+                  <note type="bio"><p>Er war der Vater von Hermann Martin Friedrich Büchsel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2276">
                   <persName>Bachmann-Büchsel, Marie Elisabeth</persName>
-                  <occupation>Schwester von Hermann Martin Friedrich Büchsel (Theologe-NT, Studienfreund Tillichs); heiratete am 07.06.1900 Hans Gustav Friedrich Bachmann, geb. 16.07.1869 Breslau Polen</occupation>
+                  <note type="bio"><p>Sie war eine Schwester von Hermann Martin Friedrich Büchsel und heiratete am 07.06.1900 Hans Gustav Friedrich Bachmann.</p></note>
                </person>
                <person xml:id="tillich_person_id__2277">
                   <persName>Büchsel, Karl Wilhelm Konrad</persName>
-                  <occupation>Bruder von Hermann Martin Friedrich Büchsel (Theologe-NT, Studienfreund Tillichs)</occupation>
+                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2278">
                   <persName>Büchsel, Hermann Martin Friedrich</persName>
-                  <occupation>Bruder von Hermann Martin Friedrich Büchsel (Theologe-NT, Studienfreund Tillichs)</occupation>
+                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2279">
                   <persName>Büchsel, Johannes Karl</persName>
-                  <occupation>Bruder von Hermann Martin Friedrich Büchsel (Theologe-NT, Studienfreund Tillichs)</occupation>
+                  <note type="bio"><p>Er war ein Bruder von Hermann Martin Friedrich Büchsel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2280">
                   <persName>Bindemann-Büchsel, Anna Dorothea</persName>
-                  <occupation>Schwester von Hermann Martin Friedrich Büchsel (Theologe-NT, Studienfreund Tillichs); heiratete am 29.07.1909 Gerhard Ernst Johannes Bindemann, geb. 26.02.1875 Stralsund D</occupation>
+                  <note type="bio"><p>Sie war eine Schwester von Hermann Martin Friedrich Büchsel und heiratete am 29.07.1909 Gerhard Ernst Johannes Bindemann.</p></note>
                </person>
                <person xml:id="tillich_person_id__2281">
                   <persName>Weizsäcker, Carl Heinrich</persName>
@@ -8212,7 +8187,7 @@
                <person xml:id="tillich_person_id__2286">
                   <persName>Schubart, Christoph</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117724742</idno>
-                  <note type="bio"><p>Er war ein Schüler von Prof. Loofs und der Sohn von Generalsuperintendent Friedrich Winfried Schubart.</p></note>
+                  <note type="bio"><p>Er war ein Schüler von Professor Loofs und der Sohn von Generalsuperintendent Friedrich Winfried Schubart.</p></note>
                </person>
                <person xml:id="tillich_person_id__2287">
                   <persName>Schubart, Friedrich Winfried</persName>
@@ -9303,7 +9278,7 @@
                </person>
                <person xml:id="tillich_person_id__2532">
                   <persName>Philipps, Wilhelm</persName>
-                  <occupation>Evangelischer Theologe; Politiker;</occupation>
+                  <occupation>Theologe; Politiker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/102452020X</idno>
                   <note type="bio"><p>Er war Vorsitzender der christlich-sozialen Partei von 1912 bis 1916.</p></note>
                </person>
@@ -9447,7 +9422,7 @@
                </person>
                <person xml:id="tillich_person_id__2570">
                   <persName>Dell, August</persName>
-                  <occupation>Professor; evangelischer Pfarrer;</occupation>
+                  <occupation>Professor; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116063815</idno>
                   <note type="bio"><p>Er war 1914 in Gießen zum Lic. theol. promoviert worden und erwarb hier die venia legendi für Systematische Theologie. Von 1922 bis 1945 nahm er in Gießen einen Lehrauftrag für die "Geschichte der Protestantischen Theologie" wahr. Von 1925 bis 1953 lehrte er zugleich am Evangelisch Theologischen Landesseminar in Herborn, wo er auch als Pfarrer wirkte. 1932 wurde er in Gießen zum nichtbeamteten außerordentlichen Professor. Ab 1940 wirkte er als außerplanmäßiger Professor.</p></note>
                </person>
@@ -9654,9 +9629,9 @@
                </person>
                <person xml:id="tillich_person_id__2626">
                   <persName>Dobschütz, Ernst von</persName>
-                  <occupation>Dekan der theologischen Fakultät Halle;</occupation>
+                  <occupation>Dekan;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116151420</idno>
-                  <note type="bio"><p>Er war Dekan der Theologischen Fakultät während Tillichs Habilitationsvorlesung in Halle.</p></note>
+                  <note type="bio"><p>Er war Dekan der Theologischen Fakultät während Paul Tillichs Habilitationsvorlesung in Halle.</p></note>
                </person>
                <person xml:id="tillich_person_id__2627">
                   <persName>K., ???</persName>
@@ -10021,7 +9996,45 @@
                   <note type="bio"><p>Es handelt sich um eine Person aus der Verwaltung der Evangelischen Kirche in Berlin oder Brandenburg, die Paul Tillich eine Hilfspredigerstelle während des Ersten Weltkriegs verschaffen sollte.</p></note>
                </person>
                <person xml:id="tillich_person_id__2725">
-                  <persName/>
+                  <persName>Höpker-Aschoff, Hermann</persName>
+                  <occupation>Jurist, Politiker, preußischer Finanzminister (1925-1931)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119208857</idno>
+               </person>
+               <person xml:id="tillich_person_id__2726">
+                  <persName>Haas, August</persName>
+                  <occupation>Schlosser, Gewerkschaftsmitglied, Parteifunktionär, Abgeordneter. Zwischen Mai 1930 und 21. Juli 1932 (Preußenschlag) Oberpräsident der Provinz Hessen-Nassau mit Sitz in Kassel.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133437086</idno>
+               </person>
+               <person xml:id="tillich_person_id__2727">
+                  <persName>Wanzlik, H.</persName>
+               </person>
+               <person xml:id="tillich_person_id__2728">
+                  <persName>Kandeler, Friedrich</persName>
+                  <occupation>Bildhauer und Zeichenlehrer an der VIII. Realschule</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2729">
+                  <persName>Kandeler, Martha</persName>
+               </person>
+               <person xml:id="tillich_person_id__2730">
+                  <persName>Böttger, Sophie</persName>
+               </person>
+               <person xml:id="tillich_person_id__2731">
+                  <persName>Böttger, Else</persName>
+               </person>
+               <person xml:id="tillich_person_id__2732">
+                  <persName>Burckhardt, H.</persName>
+               </person>
+               <person xml:id="tillich_person_id__2733">
+                  <persName>Kapell, Hubert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2734">
+                  <persName>Simon, Garina Gertrud</persName>
+               </person>
+               <person xml:id="tillich_person_id__2735">
+                  <persName>Albers, August</persName>
+               </person>
+               <person xml:id="tillich_person_id__2736">
+                  <persName>Wiechel</persName>
                </person>
             </listPerson>
          </div>
