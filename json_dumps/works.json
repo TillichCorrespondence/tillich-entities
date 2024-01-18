@@ -970,7 +970,7 @@
   "122": {
     "id": 122,
     "order": "122.00000000000000000000",
-    "name": "Kant, Immanuel, Kritik der reinen Vernunft, hg. von Jens Timmermann",
+    "name": "Kant, Immanuel, Kritik der reinen Vernunft, hg. von Jens Timmermann, Hamburg 1998.",
     "working_note": "",
     "tillich_id": "tillich_work_id__122",
     "zotero": ""
@@ -997,6 +997,110 @@
     "name": "Nietzsche, Friedrich, Also sprach Zarathustra. 4. Bd., Leipzig, 1891.",
     "working_note": "",
     "tillich_id": "tillich_work_id__125",
+    "zotero": ""
+  },
+  "126": {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "name": "Poelchau, Harald, Das Menschenbild des Fürsorgerechts, Potsdam 1932.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__126",
+    "zotero": ""
+  },
+  "127": {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "name": "",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__127",
+    "zotero": ""
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "name": "Neugebauer, Georg, Tillichs frühe Christologie. Eine Untersuchung zu Offenbarung und Geschichte bei Tillich vor dem Hintergrund seiner Schellingrezeption, Berlin/New York 2007.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__128",
+    "zotero": ""
+  },
+  "129": {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "name": "Tillich, Paul, Fichtes Religionsphilosophie in ihrem Verhältnis zum Johannesevangelium (1906), in: EN IX, 4–19.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__129",
+    "zotero": ""
+  },
+  "130": {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "name": "Husserl, Edmund, Logische Untersuchungen. Prolegomena zur reinen Logik. Bd. 1, Halle a.S. 1900.",
+    "working_note": "Überarbeitete zweite Auflage, 1913.",
+    "tillich_id": "tillich_work_id__130",
+    "zotero": ""
+  },
+  "131": {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "name": "Husserl, Edmund, Logische Untersuchungen. Untersuchungen zur Phänomenologie und Theorie der Erkenntnis, Bd. 2/1, Halle a.S. 1901.",
+    "working_note": "Überarbeitete zweite Auflage, 1913.",
+    "tillich_id": "tillich_work_id__131",
+    "zotero": ""
+  },
+  "132": {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "name": "Husserl, Edmund, Logische Untersuchungen. Elemente einer phänomenologischen Aufklärung der Erkenntnis., Bd. 2/2, Halle a.S. 1901.",
+    "working_note": "Überarbeitete zweite Auflage, 1913.",
+    "tillich_id": "tillich_work_id__132",
+    "zotero": ""
+  },
+  "133": {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "name": "Lütgert, Wilhelm, Gesetz und Freiheit. Rede bei der Übernahme des Rektorates in der Aula der vereinigten Friedrichs-Universität Halle-Wittenberg [1917], Hallische Universitätsreden, 6, Halle a.S. 1917.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__133",
+    "zotero": ""
+  },
+  "134": {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "name": "Troeltsch, Ernst, Die Soziallehren der christlichen Kirchen und Gruppen, (Gesammelte Schriften, Bd. 1), Tübingen 1912.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__134",
+    "zotero": ""
+  },
+  "135": {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "name": "Dorner, Isaak August, Das Princip unsrer Kirche nach dem innern Verhältniß seiner zwey Seiten betrachtet. Eine dogmatische Abhandlung zur Feyer des 25jährigen Jubiläums des Amtsantrittes von D. Harms, Kiel 1941.",
+    "working_note": "Auch erschienen in I. A. Dorner, Gesammelte Schriften aus dem Gebiet der systematischen Theologie, Exegese und Geschichte, 1883, 49—150 als Das Princip unserer Kirche nach dem inneren Verhältniß der materialen und formalen Seite desselben zueinander.",
+    "tillich_id": "tillich_work_id__135",
+    "zotero": ""
+  },
+  "136": {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "name": "Husserl, Edmund, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Erstes Buch: Allgemeine Einführung in die reine Phänomenologie, Halle a.S. 1913",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__136",
+    "zotero": ""
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "name": "Husserl, Edmund (Hg.), Jahrbuch für Philosophie und phänomenologische Forschung, Jg. 3, Halle a.S. 1916.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__137",
+    "zotero": ""
+  },
+  "138": {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "name": "Simmel, Georg, Rembrandt, ein kunstphilosophischer Versuch, Leipzig 1916.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__138",
     "zotero": ""
   }
 }

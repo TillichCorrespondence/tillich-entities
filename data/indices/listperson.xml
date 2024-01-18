@@ -10036,6 +10036,25 @@
                <person xml:id="tillich_person_id__2736">
                   <persName>Wiechel</persName>
                </person>
+               <person xml:id="tillich_person_id__2737">
+                  <persName>Poelchau, Dorothee</persName>
+                  <occupation>Bibliothekarin, Widerstandskämpferin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139217185</idno>
+               </person>
+               <person xml:id="tillich_person_id__2738">
+                  <persName>Strack, Hermann</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119402734</idno>
+               </person>
+               <person xml:id="tillich_person_id__2739">
+                  <persName>Krebs, Albert</persName>
+                  <occupation>Sozialpädagoge und Strafvollzugsreformer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118715844</idno>
+               </person>
+               <person xml:id="tillich_person_id__2740">
+                  <persName>Bondy, Curt</persName>
+                  <occupation>Psychologe, Sozialpädagoge, Sozialforscher, u.a. Leiter des Jugendgefängnisses Eisenach</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116238011</idno>
+               </person>
             </listPerson>
          </div>
       </body>
