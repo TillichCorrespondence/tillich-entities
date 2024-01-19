@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paul-Tillich-Korrespondenz: Bibliographie</title>
+         </titleStmt>
+          <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_bibls">
+            <listBibl xml:id="listbibl">
+               <bibl xml:id="tillich_work_id__1">Tillich, Paul, Das System der Wissenschaften nach Gegenständen und Methoden. Ein Entwurf von Paul Tillich, Göttingen 1923.</bibl>
+               <bibl xml:id="tillich_work_id__2">Dell, August, Der Charakter der Theologie in Tillichs System der Wissenschaften, in: Theologische Blätter 2, Nr. 10 (Oktober 1923), S. 235–245.</bibl>
+               <bibl xml:id="tillich_work_id__3">Herrmann, Christian, Philosophie. Systematik, in: Sozialistische Monatshefte 29, Heft 9 (1923), S. 569–571.</bibl>
+               <bibl xml:id="tillich_work_id__4">Mennicke, Carl, Anzeigen, in: Blätter für Religiösen Sozialismus, hg. von Carl Mennicke, Jg. 4, Nr. 5 (Mai 1923), S. 20.</bibl>
+               <bibl xml:id="tillich_work_id__5">Mennicke, Carl, Systematik. Eine Erläuterung, in Blätter für religiösen Sozialismus 5, Nr. 5/6 (Mai/Juni 1924), S. 17f.</bibl>
+               <bibl xml:id="tillich_work_id__6">Tillich, Paul, Tillichs Antwort, in: Blätter für religiösen Sozialismus 5, Nr. 5/6 (Mai/Juni 1924), S. 18–22.</bibl>
+               <bibl xml:id="tillich_work_id__7">Jahrbuch für Soziologie, hg. von Gottfried Salomon, Karlsruhe 1925-1927.</bibl>
+               <bibl xml:id="tillich_work_id__8">Tillich, Paul, Die religiöse und philosophische Weiterbildung des Sozialismus, in: Blätter für Religiösen Sozialismus, Jg. 5 (1924), S. 26-30.</bibl>
+               <bibl xml:id="tillich_work_id__9">Tillich, Paul, Kirche und Kultur (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet Theologie und Religionsgeschichte, Nr. 111), Tübingen 1924, S. 1-22.</bibl>
+               <bibl xml:id="tillich_work_id__10">Althaus, Paul, Das Problem der Kirche im Protestantismus, verm. unpubliziert.</bibl>
+               <bibl xml:id="tillich_work_id__11">Danz, Christian/Schüßler, Werner, Paul Tillich in Dresden. Einleitung, in: Dies. (Hg.), Paul Tillich in Dresden. Intellektuellen-Diskurse in der Weimarer Republik, Berlin/Boston 2023, S. 1-7.</bibl>
+               <bibl xml:id="tillich_work_id__12">Jasper, Gotthard, Paul Althaus (1888-1966). Professor, Prediger und Patriot in seiner Zeit, Göttingen 2013.</bibl>
+               <bibl xml:id="tillich_work_id__13">Vico, Giambattista, Die neue Wissenschaft, herausgegeben von Gottfried Salomon und übersetzt von Erich Auerbach, München 1924</bibl>
+               <bibl xml:id="tillich_work_id__14">Medicus, Fritz, Paul Tillich (Zu seiner Berufung nach Frankfurt), in: Neue Zürcher Zeitung, Nr. 527, vom 19.3.1929.</bibl>
+               <bibl xml:id="tillich_work_id__15">Tillich, Paul, Das Dämonische. Ein Beitrag zur Sinndeutung der Geschichte (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte, Nr. 119), Tübingen 1926</bibl>
+               <bibl xml:id="tillich_work_id__16">de Man, Hendrik, Zur Psychologie des Sozialismus, Jena 1926.</bibl>
+               <bibl xml:id="tillich_work_id__17">Tillich, Paul, Der Protestantismus als kritisches und gestaltendes Prinzip, in Protestantismus als Kritik und Gestaltung. Zweites Buch des Kairos-Kreises, hg. von Paul Tillich, Darmstadt 1929, 3-37</bibl>
+               <bibl xml:id="tillich_work_id__18">Tillich, Paul, Über gläubigen Realismus, in: Theologische Blätter, Jg. 7, H. 5 (1928), Sp. 109-118.</bibl>
+               <bibl xml:id="tillich_work_id__19">Tillich, Paul, Religiöse Verwirklichung, Berlin 1930</bibl>
+               <bibl xml:id="tillich_work_id__20">Tillich, Paul, Gläubiger Realismus II, in: Ders., Philosophie und Schicksal. Schriften zur Erkenntnislehre und Existenzphilosophie (GW IV), hg. von Renate Albtecht, Stuttgart 1961, S. 88-106.</bibl>
+               <bibl xml:id="tillich_work_id__21">Tillich, Paul, Das System der religiösen Erkenntnis (2. Version), in: Ders., Religion, Kultur, Gesellschaft II (EW XI), hg. von Erdmann Sturm, Berlin/New York 1999, S. 116-174.</bibl>
+               <bibl xml:id="tillich_work_id__22">Tillich, Paul, Der deutsche Idealismus und das proletarische Schicksal, in: Ders., Religion, Kultur, Gesellschaft II (EW XI), hg. von Erdmann Sturm, Berlin/New York 1999, S. 453-461.</bibl>
+               <bibl xml:id="tillich_work_id__23">Tillich, Paul, Der Begriff des übernatürlichen, sein dialektischer Charakter und das Prinzip der Identität, dargestellt an der supranaturalistischen Theologie vor Schleiermacher, Königsberg 1915</bibl>
+               <bibl xml:id="tillich_work_id__24">Tillich, Paul, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, Gütersloh 1912.</bibl>
+               <bibl xml:id="tillich_work_id__25">Kant, Immanuel, Zum ewigen Frieden. Ein philosophischer Entwurf, Königsberg 1795.</bibl>
+               <bibl xml:id="tillich_work_id__26">Fichte, Johann Gottlieb, Über den Begriff des wahrhaften Krieges in Bezug auf den Krieg im Jahre 1813, Tübingen 1815.</bibl>
+               <bibl xml:id="tillich_work_id__27">Goetz, Bruno, Das Reich ohne Raum, Potsdam 1919. Erweiterte Ausgabe: Das Reich ohne Raum. Eine Chronik wunderlicher Begebenheiten. Neue unverstümmelte Ausgabe, Konstanz 1925.</bibl>
+               <bibl xml:id="tillich_work_id__28">Tillich, Paul, Religionsphilosophie, in: Dessoir, Max (Hg.), Lehrbuch der Philosophie, Bd. 2: Die Philosophie in ihren Einzelgebieten, Berlin 1925, S. 765-835.</bibl>
+               <bibl xml:id="tillich_work_id__29">Windelband, Wilhelm, Einleitung in die Philosophie, Tübingen 1914</bibl>
+               <bibl xml:id="tillich_work_id__30">Picardi, Roberta (Hg.), Carteggio Croce – Medicus, Bologna (Soc. Ed. Il. Mulino) 2002.</bibl>
+               <bibl xml:id="tillich_work_id__31">Goetz, Bruno, Das göttliche Gesicht, Leipzig 1927.</bibl>
+               <bibl xml:id="tillich_work_id__32">Pauck, Wilhelm/ Pauck, Marion, Paul Tillich. Sein Leben und Denken,  Bd. 1: Leben, Stuttgart 1978</bibl>
+               <bibl xml:id="tillich_work_id__33">Münchhausen, Börries von, Die Balladen und ritterlichen Lieder, Berlin 1908.</bibl>
+               <bibl xml:id="tillich_work_id__34">Sturm, Erdmann, An der engen Pforte der historischen Methode vorbei... Paul Tillichs Habilitation in Halle (1916) und seine Umhabilitierungen nach Berlin (1919) und Marburg (1924), in: International Yearbook for Tillich Research, 10(1), 273-332.</bibl>
+               <bibl xml:id="tillich_work_id__35">Lourié, Samuel, Die Prinzipien der Wahrscheinlichkeitsrechnung. Eine logische Untersuchung des Disjunktiven Urteils, Leipzig 1910</bibl>
+               <bibl xml:id="tillich_work_id__36">Sturm, Erdmann, Historische Einleitung zu Tillich, Paul, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30), in: Paul Tillich, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XV), Berlin/New York 2007, XXIII-LIX.</bibl>
+               <bibl xml:id="tillich_work_id__37">Willbrandt, Robert von/Löwe, Adolf/Salomon, Gottfried (Hg.), Wirtschaft und Gesellschaft. Beiträge zur Oekonomik und Soziologie der Gegenwart (Festschrift Franz Oppenheimer), Frankfurt a. M. 1924</bibl>
+               <bibl xml:id="tillich_work_id__38">Tillich, Paul (Hg.), Kairos. Zur Geisteslage und Geisteswendung, Darmstadt 1926.</bibl>
+               <bibl xml:id="tillich_work_id__39">Salomon, Gottfried (Hg.), Jahrbuch für Soziologie. Eine internationale Sammlung, Bd. 3, Karlsruhe 1927.</bibl>
+               <bibl xml:id="tillich_work_id__40">Giovanoli, Friedrich, Die Maifeierbewegung. Ihre wirtschaftlichen und soziologischen Ursprüunge und Wirkungen (Sozialwissenschaftliche Abhandlungen, Bd. 1, hg. von Gottfried Salomon), Karlsruhe 1925</bibl>
+               <bibl xml:id="tillich_work_id__41">Archiv für Philosophie und Soziologie, zweite Abteilung: Archiv für systematische Philosophie und Soziologie, hg. von Ludwig Stein, Mitherausgeber für die Abteilung Soziologie Gottfried Salomon, 29.Band, Berlin 1926</bibl>
+               <bibl xml:id="tillich_work_id__42">Breysig, Kurt, Zur Kritik der Vernunft an sich, in: Archiv für Philosophie und Soziologie, zweite Abteilung: Archiv für systematische Philosophie und Soziologie, hg. von Ludwig Stein, Mitherausgeber für die Abteilung Soziologie Gottfried Salomon, 29.Band, Berlin 1926, 141-159 und 277-288.</bibl>
+               <bibl xml:id="tillich_work_id__43">Salomon, Gottfried/Oppenheimer, Franz, Soziologische Lesestücke, 3 Bde. (Bd. 1: Begriff der Gesellschaft in der allgemeinen Soziologie. Bd. 2: Begriff der Gesellschaft in der deutschen Sozialphilosophie. Bd. 3: Individuum und Gesellschaft), Karlsruhe 1926.</bibl>
+               <bibl xml:id="tillich_work_id__44">Salomon-Delatour, Gottfried (Hg.), Die Lehre Saint-Simons, Neuwied 1962.</bibl>
+               <bibl xml:id="tillich_work_id__45">Gumplowicz, Ludwig, Geschichte der Staatstheorien. Mit einem Vorwort von Gottfried Salomon (Ausgewählte Werke in vier Bänden, Bd. 1), Innsbruck 1926.</bibl>
+               <bibl xml:id="tillich_work_id__46">Salomon, Gottfried, et al. (Hg.), Bibliothek der Soziologie und Politik, 3 Bde., Karlsruhe 1926/1927.</bibl>
+               <bibl xml:id="tillich_work_id__47">Tillich, Paul, Der Begriff des christlichen Volkes, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 114-126.</bibl>
+               <bibl xml:id="tillich_work_id__48">Zeitwende. Kultur, Kirche, Zeitgeschehen, wechselnde Verlagsorte, 1925ff.</bibl>
+               <bibl xml:id="tillich_work_id__49">Shaw, Bernard, Der Kaiser von Amerika (Original: The Apple Cart), Komödie (1929), siehe Suhrkamp Gesammelte Werkausgabe Band 13</bibl>
+               <bibl xml:id="tillich_work_id__50">Tillich, Paul, Theodicee, in: Ders., Religion, Gesellschaft, Kultur I (EW X), hg. von Erdmann Sturm, Berlin/New York 1999, S. 101-113.</bibl>
+               <bibl xml:id="tillich_work_id__51">Handbuch der Kunstwissenschaften, 31 Bde., gegründet von Fritz Burger, hg. von A. E. Brinkmann, Berlin-Neubabelsberg 1913ff.</bibl>
+               <bibl xml:id="tillich_work_id__52">Tillich, Paul, Joh 1,5 - Weihnachten: Das Licht scheint in der Finsternis, in: Ders., Frühe Predigten (EW VII), hg. von Erdmann Sturm, Berlin/New York 1994, S. 421-424.</bibl>
+               <bibl xml:id="tillich_work_id__53">Tillich, Paul, 2. Kor 4,17f - Auf das Unsichtbare und Ewige sehen, in: Ders., Frühe Predigten (EW VII), hg. von Erdmann Sturm, Berlin/New York 1994, S. 408-411.</bibl>
+               <bibl xml:id="tillich_work_id__54">Hochland. Monatsschrift für alle Gebiete des Wissens, der Literatur u. Kunst, hg. von Carl Muth, 1903ff.</bibl>
+               <bibl xml:id="tillich_work_id__55">Stepun, Fedor, Das Problem der Demokratie in Rußland, in: Hochland, 22. Jg. (1925), Nr. 1, S. 389-404 u. 557-571.</bibl>
+               <bibl xml:id="tillich_work_id__56">Stepun, Fedor, Die Mission der Demokratie in Rußland, in: Hochland, 23. Jg. (1926), Nr. 1, S. 412-434.</bibl>
+               <bibl xml:id="tillich_work_id__57">Stepun, Fedor, Der metaphysische Sinn der Revolution und die Sowjetliteratur, 24. Jg. (1927), Nr. 2, S. 34-45 u. S. 187-198.</bibl>
+               <bibl xml:id="tillich_work_id__58">Friedrich, Wolf. Cyankali (Drama), Berlin 1929</bibl>
+               <bibl xml:id="tillich_work_id__59">Die Weltbühne : Wochenschrift für Politik, Kunst, Wirtschaft 1918 - 1993</bibl>
+               <bibl xml:id="tillich_work_id__60">Lübeckische Blätter. Zeitschrift der Gesellschaft zur Beförderung gemeinnütziger Arbeit, Jg. 73, Nr. 9 (1. März 1931)</bibl>
+               <bibl xml:id="tillich_work_id__61">Tillich, Paul, Zwang und Freiheit im sozialen Leben (Philosophie der Macht), in: EW XI/2, S. 233-247.</bibl>
+               <bibl xml:id="tillich_work_id__62">Tillich, Paul, Der Begriff der historischen Zeit, in: EW XI/2, S. 265-266.</bibl>
+               <bibl xml:id="tillich_work_id__63">Tillich, Paul, Das Wohnen, der Raum und die Zeit. Rede anläßlich der Einweihungsfeier des Hauses auf dem Küssel in Potsdam, in: Die Form, Jg. 8 (1933), S. 11f.</bibl>
+               <bibl xml:id="tillich_work_id__64">Tillich, Paul, Die sozialistische Entscheidung, Potsdam 1933</bibl>
+               <bibl xml:id="tillich_work_id__65">Vogelsang, Erich, Die Anfänge von Luthers Christologie nach der ersten Psalmenvorlesung, Berlin/Leipzig 1929</bibl>
+               <bibl xml:id="tillich_work_id__66">Neue Blätter für den Sozialismus. Zeitschrift für geistige und politische Gestaltung, hg. von Eduard Heimann, Fritz Klatt und Paul Tillich, 1930ff.</bibl>
+               <bibl xml:id="tillich_work_id__67">Graf, Friedrich Wilhelm, Paul Tillich im Exil, in: Danz, Christian/Schüßler, Werner (Hg.), Paul Tillich im Exil, Berlin/Boston 2017, S. 11-78.</bibl>
+               <bibl xml:id="tillich_work_id__68">Tillich, Paul, Dogmatik-Vorlesung (Dresden 1925-1927) (=EW XIV), Berlin et al. 2005.</bibl>
+               <bibl xml:id="tillich_work_id__69">Tillich, Paul, Systematic Theology, 3 Volumes, Chicago 1951/1957/1963</bibl>
+               <bibl xml:id="tillich_work_id__70">Christophersen, Alf/Graf, Friedrich Wilhelm, "Beweise einer unsichtbaren Beziehung". Die Korrespondenz zwischen Paul Tillich und dem Tübinger Verlag J. C. B. Mohr, in: International Yearbook for Tillich Research 6 (1):237-408 (2011)</bibl>
+               <bibl xml:id="tillich_work_id__71">Troeltsch, Ernst, Konservativ und Liberal (1). in: Die Christliche Welt. Evangelisches Gemeindeblatt für Gebildete aller Stände, Jg. 30, Nr. 33 (1916), Sp. 647-651.</bibl>
+               <bibl xml:id="tillich_work_id__72">Troeltsch, Ernst, Konservativ und Liberal (2). in: Die Christliche Welt. Evangelisches Gemeindeblatt für Gebildete aller Stände, Jg. 30, Nr. 34 (1916), Sp. 659-666.</bibl>
+               <bibl xml:id="tillich_work_id__73">Troeltsch, Ernst, Konservativ und Liberal (3). in: Die Christliche Welt. Evangelisches Gemeindeblatt für Gebildete aller Stände, Jg. 30, Nr. 35 (1916), Sp. 678-683.</bibl>
+               <bibl xml:id="tillich_work_id__74">Troeltsch, Ernst, Über Maßstäbe zur Beurteilung historischer Dinge. Rede zur Kaisersgeburtstagsfeier der Berliner Universität. in: Historische Zeitschrift, Jg. 116. Nr. 1 (1916), S. 1-47.</bibl>
+               <bibl xml:id="tillich_work_id__75">Tillich, Paul, Diskussionsbeitrag, in: Die Verhandlungen des 35. Evangelisch-sozialen Kongresses in Dresden, 29.-31. 5. 1928, Göttingen 1928, S. 74-77</bibl>
+               <bibl xml:id="tillich_work_id__76">Wagner, Richard, Tannhäuser und der Sängerkrieg auf Wartburg (Oper), Uraufführung am 19.10.1845, Königlich-Sächsisches Opernhaus (Semperoper), Dresden.</bibl>
+               <bibl xml:id="tillich_work_id__77">Blätter für den religiösen Sozialismus, hg. von Carl Mennicke, 1920-1927.</bibl>
+               <bibl xml:id="tillich_work_id__78">Sozialismus aus dem Glauben. Verhandlungen der sozialistischen Tagung in Heppenheim a. B. - Pfingstwoche 1928, Zürich/Leipzig 1929</bibl>
+               <bibl xml:id="tillich_work_id__79">Gundolf, Friedrich, Briefe. Neue Folge, hg. von Lother Helbing und Claus Victor Bock, 2. Aufl., Amsterdam 1965</bibl>
+               <bibl xml:id="tillich_work_id__80">Sturm, Erdmann, Historische Einleitung zu Tillich, Paul, Vorlesungen über Geschichtsphilosophie und Sozialpädagogik (Frankfurt 1929/30), in: Paul Tillich, Frankfurter Vorlesungen (1930-1933) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XVIII), Berlin/Boston 2013, XIX-XLVIII</bibl>
+               <bibl xml:id="tillich_work_id__81">Tillich, Paul, Vorlesung: Der religiöse Gehalt und die religionsgeschichtliche Bedeutung der griechischen Philosophie, in: ders., Berliner Vorlesungen (1920-1924) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XIII.2), Berlin/New York 2003, 1-198</bibl>
+               <bibl xml:id="tillich_work_id__82">Tillich, Paul, Vorlesung: Griechische Philosophie, Einleitung, in: ders., Frankfurter Vorlesungen (1930-1933) (Ergänzungs- und Nachlaßbände zu den Gesammelten Werken, Bd. XVIII), Berlin/Boston 2013, 668-683</bibl>
+               <bibl xml:id="tillich_work_id__83">Sherriff, Robert Cedric, Journey's End (1928)</bibl>
+               <bibl xml:id="tillich_work_id__84">Tillich, Paul, Die Überwindung des Persönlichkeitsideals. Ein Vortrag, in Logos, Band XVI, 1927, S. 68-85</bibl>
+               <bibl xml:id="tillich_work_id__85">Kollo, Walter/Bredschneider, Willy,  Wie einst im Mai (Operette), Uraufführung am 4.10.1913, Berliner Theater, Berlin.</bibl>
+               <bibl xml:id="tillich_work_id__86">Tillich, Paul, Die religiöse Lage der Gegenwart, Berlin 1926.</bibl>
+               <bibl xml:id="tillich_work_id__87">Heidegger, Martin, Kant und das Problem der Metaphysik, Bonn 1929.</bibl>
+               <bibl xml:id="tillich_work_id__88">Rieter, Heinz, Der deutsche Volkswirt 1926 bis 1933. Eine Fallstudie zur publizistischen Umsetzung wirtschaftspolitischer Konzeptionen, in: Albeda, Willem et al., Die Umsetzung wirtschaftspolitischer Grundkonzeptionen in die kontinentaleuropäische Praxis des 19. und 20. Jahrhunderts, II. Teil (Studien zur Entwicklung der ökonomischen Theorie XVII, hg. von Erich W. Streissler), Berlin 1998, S. 95-153.</bibl>
+               <bibl xml:id="tillich_work_id__89">Loofs, Friedrich, Grundlinien der Kirchengeschichte: in der Form von Dispositionen für seine Vorlesungen, Halle a.S. 1901.</bibl>
+               <bibl xml:id="tillich_work_id__90">Seeberg, Reinhold, Die Theologie des Johannes Duns Scotus. Eine dogmengeschichtliche Untersuchung (Studien zur Geschichte der Theologie und der Kirche, Bd. V), Leipzig 1900</bibl>
+               <bibl xml:id="tillich_work_id__91">Seeberg, Reinhold, Lehrbuch der Dogmengeschichte. Zweite Hälfte: Die Dogmengeschichte des Mittelalters und der Neuzeit, Erlangen und Leipzig 1898; 2. u. 3. durchweg neu ausgearbeitete Aufl.: Bd. III: Die Dogmengeschichte des Mittelalters, Leipzig 1913; 4. Aufl.: Die Dogmenbildung des Mittelalters, Leipzig 1930</bibl>
+               <bibl xml:id="tillich_work_id__92">Tillich, Paul, Vorlesung Geistesgeschichte der altchristlichen und mittelalterlichen Philosophie (Wintersemester 1923/24), veröffentlicht in EW XIII, 407-638; zweite Version der Einleitung, ebd., 639-643</bibl>
+               <bibl xml:id="tillich_work_id__93">Seeberg, Reinhold, Christliche Dogmatik, 1. Bd.: Religionsphilosophisch-apologetische und erkenntnistheoretische Grundlegung – Allgemeiner Teil: Die Lehren von Gott, dem Menschen und der Geschichte, Erlangen/Leipzig 1924; 2. Bd.: Die spezielle christliche Dogmatik: Das Böse und die sündige Menschheit, der Erlöser und sein Werk, die Erneuerung der Menschheit und die Gnadenordnung, die Vollendung der Menschheit und das ewige Gottesreich, Erlangen/Leipzig 1925</bibl>
+               <bibl xml:id="tillich_work_id__94">Seeberg, Reinhold, Die Kirche Deutschlands im neunzehnten Jahrhundert. Eine Einführung in die religiösen, theologischen und kirchlichen Fragen der Gegenwart, Leipzig 1903, S. 308.</bibl>
+               <bibl xml:id="tillich_work_id__95">Seidel, Heinrich Wolfgang, Unbekannter Vortrag, den Paul Tillich von seinem Vater geschickt bekommen hat, wahrscheinlich 1916.</bibl>
+               <bibl xml:id="tillich_work_id__96">Tillich, Paul, Ein Lebensbild in Dokumenten : Briefe, Tagebuch-Auszüge, Berichte (EW V), hg. von Renate Albrecht, Margot Hahl, Stuttgart 1980.</bibl>
+               <bibl xml:id="tillich_work_id__97">Tillich, Paul, Impressionen und Reflexionen (GW XIII)</bibl>
+               <bibl xml:id="tillich_work_id__98">Neugebauer, Georg, Δι᾽ ἑνὸϛ πάντα – Tillich im Wingolf. In: International Yearbook for Tillich Research 11 (2016), 149–173.</bibl>
+               <bibl xml:id="tillich_work_id__99">Wiebel, Arnold (Hg.), Rudolf Hermann - Erich Seeberg. Briefwechsel 1920-1945, Frankfurt/Main 2003.</bibl>
+               <bibl xml:id="tillich_work_id__100">Pfennigsdorf, Emil (Hg.), Der Erlösungsgedanke. Bericht über den 2. deutschen Theologentag in Frankfurt a. M. (Deutsche Theologie, 2. Bd.), Göttingen 1929.</bibl>
+               <bibl xml:id="tillich_work_id__101">Tillich, Paul, Dogmatik. Marburger Vorlesung von 1925, hg. von W. Schüßler, Düsseldorf 1986.</bibl>
+               <bibl xml:id="tillich_work_id__102">Tillich, Paul, Natur und Sakrament, in: Ders., Religiöse Verwirklichung, Berlin 1930, 142-167.293-295.</bibl>
+               <bibl xml:id="tillich_work_id__103">Sturm, Erdmann (Hg.), "Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit in Berlin". Paul Tillichs Briefe an Reinhold und Erich Seeberg (1924-1935), in: in: Theology and Natural Science. Hg. zus. mit Christian Danz, Marc Dumas, Werner Schüßler und Mary Ann Stenger (= International Yearbook for Tillich Research, Vol. 7, 2012), Berlin/Boston 2012, 211–253</bibl>
+               <bibl xml:id="tillich_work_id__104">Tillich, Paul, Nichtkirchliche Religionen, in: GW V, 13-31.</bibl>
+               <bibl xml:id="tillich_work_id__105">Seeberg, Erich, Luthers Theologie. Motive und Ideen I. Die Gottesanschauung, Göttingen 1929</bibl>
+               <bibl xml:id="tillich_work_id__106">Tillich, Paul, Vorlesung zur Geschichtsphilosophie, Frankfurt Wintersemester 1929/1930, in: EW XV, S. 1-118.</bibl>
+               <bibl xml:id="tillich_work_id__107">Seeberg, Erich, Wirklichkeit und Geist im Deutschland von heute, Leipzig 1919</bibl>
+               <bibl xml:id="tillich_work_id__108">Tillich, Paul, Philosophie der Macht (zwei Manuskripte), in: EW XI/2, S. 226-232 und S. 233-247</bibl>
+               <bibl xml:id="tillich_work_id__109">Anonym: Landeskirchliche Versammlung. (Eigener Bericht.), in: Vossische Zeitung, Nr. 207, 4. Mai 1905, Morgen-Ausgabe, Fünfte Beilage.</bibl>
+               <bibl xml:id="tillich_work_id__110">Seeberg, Erich, Rezension zu: Tillich, Paul, Religiöse Verwircklichung, in: Deutsche Literaturzeitung 3. Folge, 1. Jg., Heft 17, 26.4.1930, S. 769-773.</bibl>
+               <bibl xml:id="tillich_work_id__111">Seeberg, Erich, Die Universitäten, der Staat und die Wirtschaft, in: Ders., Wirklichkeit und Geist im Deutschland von heute, 24-38.</bibl>
+               <bibl xml:id="tillich_work_id__112">Barth, Karl, Von der Paradoxie des "positiven Paradoxes". Antworten und Fragen an Paul Tillich, in: Theologische Blätter, Jg. 2, 1923, Sp. 287-296</bibl>
+               <bibl xml:id="tillich_work_id__113">Spengler, Oswald, Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte, 2. Bd (Welthistorische Perspektiven), München 1924 (1. Aufl. 1922).</bibl>
+               <bibl xml:id="tillich_work_id__114">Nietzsche, Friedrich, Der Wille zur Macht. Versuch einer Umwerthung aller Werthe, hg. von Peter Gast/Elisabeth Förster-Nietzsche, Leipzig 1906.</bibl>
+               <bibl xml:id="tillich_work_id__115">Wobbermin, Georg, Die Religionspsychologische Methode und Religionswissenschaft und Theologie (Systematische Theologie nach religionspsychologischer Methode, Bd. 1), Leipzig 1913.</bibl>
+               <bibl xml:id="tillich_work_id__116">Spitta, Walter, Die Insel des Todes, in: Zeitwende, Jg. 6, H. 2 (Dezember 1930), S. 540-544.</bibl>
+               <bibl xml:id="tillich_work_id__117">Lütgert, Wilhelm, Christentum und Theologie, in: Positive Union. Kirchliche Monatsschrift, Nr. 6, Juni 1905, 121–128.</bibl>
+               <bibl xml:id="tillich_work_id__118">Jehle, Frank, Die Aarauer Konferenz (1897-1939). Spiegel der evangelischen Theologiegeschichte, Zürich 2020.</bibl>
+               <bibl xml:id="tillich_work_id__119">Tillich, Paul, Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Der Protestantismus als Kritik und Gestaltung. Schriften zur Theologie I (=GW VII), 70-83.</bibl>
+               <bibl xml:id="tillich_work_id__120">Vorstand des Eisenacher Bundes, Verhandlungen der Vierten Eisenacher Konferenz. 13. 14. 15. 16. Juni 1905, Großlichterfelde 1905.</bibl>
+               <bibl xml:id="tillich_work_id__121">Dorner, Isaak August, System der christlichen Glaubenslehre. 2 Bde. Berlin 1879-81.</bibl>
+               <bibl xml:id="tillich_work_id__122">Kant, Immanuel, Kritik der reinen Vernunft, hg. von Jens Timmermann, Hamburg 1998.</bibl>
+               <bibl xml:id="tillich_work_id__123">Schreiner, Helmuth, Pädagogik aus Glauben, Schwerin 1930</bibl>
+               <bibl xml:id="tillich_work_id__124">Tillich, Paul, Was ist religiöser Sozialismus? Rundfunkvortrag beim "Deutschlandsender" am 22. Juli 1930.</bibl>
+               <bibl xml:id="tillich_work_id__125">Nietzsche, Friedrich, Also sprach Zarathustra. 4. Bd., Leipzig, 1891.</bibl>
+               <bibl xml:id="tillich_work_id__126">Poelchau, Harald, Das Menschenbild des Fürsorgerechts, Potsdam 1932.</bibl>
+               <bibl xml:id="tillich_work_id__127"/>
+               <bibl xml:id="tillich_work_id__128">Neugebauer, Georg, Tillichs frühe Christologie. Eine Untersuchung zu Offenbarung und Geschichte bei Tillich vor dem Hintergrund seiner Schellingrezeption, Berlin/New York 2007.</bibl>
+               <bibl xml:id="tillich_work_id__129">Tillich, Paul, Fichtes Religionsphilosophie in ihrem Verhältnis zum Johannesevangelium (1906), in: EN IX, 4–19.</bibl>
+               <bibl xml:id="tillich_work_id__130">Husserl, Edmund, Logische Untersuchungen. Prolegomena zur reinen Logik. Bd. 1, Halle a.S. 1900.</bibl>
+               <bibl xml:id="tillich_work_id__131">Husserl, Edmund, Logische Untersuchungen. Untersuchungen zur Phänomenologie und Theorie der Erkenntnis, Bd. 2/1, Halle a.S. 1901.</bibl>
+               <bibl xml:id="tillich_work_id__132">Husserl, Edmund, Logische Untersuchungen. Elemente einer phänomenologischen Aufklärung der Erkenntnis., Bd. 2/2, Halle a.S. 1901.</bibl>
+               <bibl xml:id="tillich_work_id__133">Lütgert, Wilhelm, Gesetz und Freiheit. Rede bei der Übernahme des Rektorates in der Aula der vereinigten Friedrichs-Universität Halle-Wittenberg [1917], Hallische Universitätsreden, 6, Halle a.S. 1917.</bibl>
+               <bibl xml:id="tillich_work_id__134">Troeltsch, Ernst, Die Soziallehren der christlichen Kirchen und Gruppen, (Gesammelte Schriften, Bd. 1), Tübingen 1912.</bibl>
+               <bibl xml:id="tillich_work_id__135">Dorner, Isaak August, Das Princip unsrer Kirche nach dem innern Verhältniß seiner zwey Seiten betrachtet. Eine dogmatische Abhandlung zur Feyer des 25jährigen Jubiläums des Amtsantrittes von D. Harms, Kiel 1941.</bibl>
+               <bibl xml:id="tillich_work_id__136">Husserl, Edmund, Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Erstes Buch: Allgemeine Einführung in die reine Phänomenologie, Halle a.S. 1913</bibl>
+               <bibl xml:id="tillich_work_id__137">Husserl, Edmund (Hg.), Jahrbuch für Philosophie und phänomenologische Forschung, Jg. 3, Halle a.S. 1916.</bibl>
+               <bibl xml:id="tillich_work_id__138">Simmel, Georg, Rembrandt, ein kunstphilosophischer Versuch, Leipzig 1916.</bibl>
+               <bibl xml:id="tillich_work_id__139">Passarge, Walter, Die Philosophie der Kunstgeschichte, Berlin 1930</bibl>
+               <bibl xml:id="tillich_work_id__140">Tillich, Paul, Das Religiöse als kritisches Prinzip. Die protestantische Verkündigung und der Mensch der Gegenwart, in: ders., Religiöse Verwirklichung, Berlin 1930, S. 25-42.</bibl>
+               <bibl xml:id="tillich_work_id__141">Walter Kinkel, Idealismus und Realismus. Eine Einführung in ihr Wesen und in ihre kulturgeschichtliche Entwicklung, Wege zur Einführung in die Philosophie. Schriften zur Einführung in das philosophische Denken, Heft 3. Göttingen: Vandenhoeck &amp; Ruprecht, 1911, 2., verbesserte Auflage 1920.</bibl>
+               <bibl xml:id="tillich_work_id__145">Hirsch, Emanuel, Deutschlands Schicksal. Staat, Volk und Menschheit im Lichte einer ethischen Geschichtsansicht. Göttingen: Vandenhoeck &amp; Ruprecht, 1920.</bibl>
+               <bibl xml:id="tillich_work_id__146">Werner, Alfred, Philosophische Reihe, München, Rösl.</bibl>
+               <bibl xml:id="tillich_work_id__147">Neuigkeiten / J. C. B. Mohr (Paul Siebeck) ; H. Laupp'sche Buchhandlung, ersch. 1913 - 1939</bibl>
+               <bibl xml:id="tillich_work_id__148">Schelling, Vorlesungen über die Methode des akademischen Studiums</bibl>
+               <bibl xml:id="tillich_work_id__149">Hegel, Enzyklopädie der philosophischen Wissenschaften</bibl>
+            </listBibl>
+         </div>
+      </body>
+   </text>
+</TEI>

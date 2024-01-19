@@ -20,7 +20,7 @@ files = glob.glob("./json_dumps/*.json")
 
 for x in files:
     _, tail = os.path.split(x)
-    if tail in ["persons.json", "places.json"]:
+    if tail in ["persons.json", "places.json", "bibls.json"]:
         with open(x, "r") as f:
             data = json.load(f)
         context = {"project_title": PROJECT_TITLE}
