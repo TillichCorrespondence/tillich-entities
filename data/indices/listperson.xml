@@ -3155,6 +3155,8 @@
                </person>
                <person xml:id="tillich_person_id__907">
                   <persName>Hirsch, Rose</persName>
+                  <occupation>Ehefrau von Emanuel Hirsch</occupation>
+                  <note type="bio"><p>geb. Ecke</p></note>
                </person>
                <person xml:id="tillich_person_id__908">
                   <persName>Hirschfeld, Kurt</persName>
@@ -8321,7 +8323,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/118719475</idno>
                </person>
                <person xml:id="tillich_person_id__2315">
-                  <persName>Mehlis, (Prof.)</persName>
+                  <persName>Mehlis, Georg (Prof.)</persName>
+                  <occupation>Freiburg</occupation>
                </person>
                <person xml:id="tillich_person_id__2316">
                   <persName>Lederer, Emil</persName>
@@ -8816,7 +8819,7 @@
                </person>
                <person xml:id="tillich_person_id__2428">
                   <persName>Riegl, Alois</persName>
-                  <occupation>Kunsthistoriker; Professor;</occupation>
+                  <occupation>Kunsthistoriker; Professor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118600818</idno>
                   <note type="bio"><p>Er stammt ursprünglich aus Linz und wirkte als Professor in Wien. Er war Generalkonservator.</p></note>
                </person>
@@ -10054,6 +10057,50 @@
                   <persName>Bondy, Curt</persName>
                   <occupation>Psychologe, Sozialpädagoge, Sozialforscher, u.a. Leiter des Jugendgefängnisses Eisenach</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116238011</idno>
+               </person>
+               <person xml:id="tillich_person_id__2741">
+                  <persName>???, Lina</persName>
+               </person>
+               <person xml:id="tillich_person_id__2742">
+                  <persName>Zitzte, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__2743">
+                  <persName>Ecke, Gustav</persName>
+                  <occupation>Evangelischer Theologe; Professor für Systematische Theologie in Bonn</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117496774</idno>
+               </person>
+               <person xml:id="tillich_person_id__2744">
+                  <persName>Quervain, Alfred de</persName>
+               </person>
+               <person xml:id="tillich_person_id__2745">
+                  <persName>Kinkel, Walter</persName>
+               </person>
+               <person xml:id="tillich_person_id__2746">
+                  <persName>Steinmann</persName>
+                  <occupation>Herausgeber der "Wege"</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2747">
+                  <persName>Plenge, Johannes</persName>
+                  <occupation>Nationalökonom und Soziologe, Schüler Karl Büchers, lehrte an der WWU Münster</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2748">
+                  <persName>Foerster, Erich</persName>
+                  <occupation>war nach einem Studium der Evangelischen Theologie und der Rechtswissenschaft Vikar beiMartin Rade gewesen, bevor er 1893 bis 1895 als Pfarrer in Hirschberg wirkte. 1895 übernahm er das Pfarramt der Reformierten Gemeinde in Frankfurt am Main. An der Frankfurter Akademie für Sozial- und Handelswissenschaften habilitierte er sich 1907.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2749">
+                  <persName>Dietrich, Dr.</persName>
+                  <occupation>Kontakte zu Wilhelm Ruprecht, erwähnt in Brief vom 26. Februar 1924 an Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2750">
+                  <persName>Verlag Rösl &amp; Cie.</persName>
+                  <occupation>Verlag in München</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2751">
+                  <persName>Werner, Alfred</persName>
+                  <occupation>Philosoph, Herausgeber "Philosophische Reihe"</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2752">
+                  <persName>Reyer, Wilhelm</persName>
                </person>
             </listPerson>
          </div>

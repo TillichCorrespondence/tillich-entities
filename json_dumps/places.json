@@ -3785,5 +3785,33 @@
     "name": "Ravenstein i. P.",
     "tillich_id": "tillich_place_id__545",
     "geonames_url": ""
+  },
+  "546": {
+    "id": 546,
+    "order": "542.00000000000000000000",
+    "name": "Falkenwalde",
+    "tillich_id": "tillich_place_id__546",
+    "geonames_url": "https://www.geonames.org/2927896/falkenwalde.html"
+  },
+  "548": {
+    "id": 548,
+    "order": "543.00000000000000000000",
+    "name": "Danzig",
+    "tillich_id": "tillich_place_id__548",
+    "geonames_url": "https://www.geonames.org/3099434/gdansk.html"
+  },
+  "549": {
+    "id": 549,
+    "order": "544.00000000000000000000",
+    "name": "Nauen",
+    "tillich_id": "tillich_place_id__549",
+    "geonames_url": "https://www.geonames.org/2866930/nauen.html"
+  },
+  "550": {
+    "id": 550,
+    "order": "545.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__550",
+    "geonames_url": ""
   }
 }

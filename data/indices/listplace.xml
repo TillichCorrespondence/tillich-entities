@@ -1640,6 +1640,18 @@
                <place xml:id="tillich_place_id__545">
                   <placeName>Ravenstein i. P.</placeName>
                </place>
+               <place xml:id="tillich_place_id__546">
+                  <placeName>Falkenwalde</placeName>
+               </place>
+               <place xml:id="tillich_place_id__548">
+                  <placeName>Danzig</placeName>
+               </place>
+               <place xml:id="tillich_place_id__549">
+                  <placeName>Nauen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__550">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>
