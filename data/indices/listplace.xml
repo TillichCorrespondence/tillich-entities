@@ -1652,6 +1652,12 @@
                <place xml:id="tillich_place_id__550">
                   <placeName/>
                </place>
+               <place xml:id="tillich_place_id__551">
+                  <placeName>Birkenweder</placeName>
+               </place>
+               <place xml:id="tillich_place_id__552">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

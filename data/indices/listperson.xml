@@ -10102,6 +10102,10 @@
                <person xml:id="tillich_person_id__2752">
                   <persName>Reyer, Wilhelm</persName>
                </person>
+               <person xml:id="tillich_person_id__2753">
+                  <persName>Joel</persName>
+                  <occupation>Mitarbeiter Wege zur Philosophie</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
