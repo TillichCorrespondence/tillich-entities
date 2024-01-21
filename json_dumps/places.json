@@ -3827,5 +3827,19 @@
     "name": "",
     "tillich_id": "tillich_place_id__552",
     "geonames_url": ""
+  },
+  "553": {
+    "id": 553,
+    "order": "548.00000000000000000000",
+    "name": "Rügenwaldermünde",
+    "tillich_id": "tillich_place_id__553",
+    "geonames_url": ""
+  },
+  "554": {
+    "id": 554,
+    "order": "549.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__554",
+    "geonames_url": ""
   }
 }

@@ -10106,6 +10106,24 @@
                   <persName>Joel</persName>
                   <occupation>Mitarbeiter Wege zur Philosophie</occupation>
                </person>
+               <person xml:id="tillich_person_id__2754">
+                  <persName>Zschimmer, Eberhard</persName>
+                  <occupation>Mineraloge</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2755">
+                  <persName>Stern, William</persName>
+                  <occupation>Begründer der differentiellen Psychologie</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2756">
+                  <persName>Hermann Friedrich Schmalenbach</persName>
+               </person>
+               <person xml:id="tillich_person_id__2757">
+                  <persName>Bruns</persName>
+               </person>
+               <person xml:id="tillich_person_id__2758">
+                  <persName>Hüllmann</persName>
+                  <occupation>Theologe</occupation>
+               </person>
             </listPerson>
          </div>
       </body>

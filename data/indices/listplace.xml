@@ -1658,6 +1658,12 @@
                <place xml:id="tillich_place_id__552">
                   <placeName/>
                </place>
+               <place xml:id="tillich_place_id__553">
+                  <placeName>Rügenwaldermünde</placeName>
+               </place>
+               <place xml:id="tillich_place_id__554">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>
