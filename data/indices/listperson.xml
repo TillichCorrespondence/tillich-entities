@@ -8483,9 +8483,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/116240253</idno>
                </person>
                <person xml:id="tillich_person_id__2351">
-                  <persName>Vandewater, ???</persName>
+                  <persName/>
                   <occupation>Philosoph;</occupation>
-                  <note type="bio"><p>Er war Leiter der Internationalen Schule für Philosophie.</p></note>
                </person>
                <person xml:id="tillich_person_id__2352">
                   <persName>Borchers, Frau</persName>
@@ -8575,7 +8574,8 @@
                   <note type="bio"><p>Sie war die Frau des Philosophen Hermann Graf Keyserling.</p></note>
                </person>
                <person xml:id="tillich_person_id__2372">
-                  <persName>Schnitzler, ???</persName>
+                  <persName>von Mallinckrodt-Schnitzler, Lilly</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116848715</idno>
                </person>
                <person xml:id="tillich_person_id__2373">
                   <persName>Theel, ???</persName>
@@ -10123,6 +10123,9 @@
                <person xml:id="tillich_person_id__2758">
                   <persName>Hüllmann</persName>
                   <occupation>Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2759">
+                  <persName/>
                </person>
             </listPerson>
          </div>
