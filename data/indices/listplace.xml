@@ -1664,6 +1664,9 @@
                <place xml:id="tillich_place_id__554">
                   <placeName>Washington, D.C.</placeName>
                </place>
+               <place xml:id="tillich_place_id__555">
+                  <placeName>Stade</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -3841,5 +3841,12 @@
     "name": "Washington, D.C.",
     "tillich_id": "tillich_place_id__554",
     "geonames_url": "https://www.geonames.org/4140963"
+  },
+  "555": {
+    "id": 555,
+    "order": "550.00000000000000000000",
+    "name": "Stade",
+    "tillich_id": "tillich_place_id__555",
+    "geonames_url": "https://www.geonames.org/2829901/stade.html"
   }
 }

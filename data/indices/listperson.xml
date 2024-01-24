@@ -8912,7 +8912,8 @@
                   <note type="bio"><p>Er war ein deutscher evangelischer Pfarrer und Hitlergegner. Als Häftling war er im KZ Dachau interniert. Auch als "Bibellehrer" wirkte er.</p></note>
                </person>
                <person xml:id="tillich_person_id__2445">
-                  <persName>Borenz, ???</persName>
+                  <persName>Broßwitz, Conrad</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/130145645</idno>
                </person>
                <person xml:id="tillich_person_id__2446">
                   <persName>Thomas, (Pfarrer)</persName>
@@ -10125,7 +10126,13 @@
                   <occupation>Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2759">
-                  <persName/>
+                  <persName>Ottmer, Johanne</persName>
+                  <note type="bio"><p>geb. Otto, Schwester von Rudolf Otto. Heiratete um 1899 Ernst Ottmer, der jedoch bereits 1904 verstarb. Seitdem lebte sie viel bei ihrem Bruder und kümmerte sich um seinen Haushalt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2760">
+                  <persName>Klein, Peter</persName>
+                  <occupation>Jüngerer Bruder von Maria Klein/Rhine.</occupation>
+                  <note type="bio"><p>Jüngerer Bruder von Maria Klein/Rhine.</p></note>
                </person>
             </listPerson>
          </div>
