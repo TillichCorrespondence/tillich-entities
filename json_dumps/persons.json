@@ -44014,5 +44014,21 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""
+  },
+  "2761": {
+    "id": 2761,
+    "order": "2756.00000000000000000000",
+    "name": "Grillparzer",
+    "surname": "Franz",
+    "forename": "",
+    "from_to": "1791-1872",
+    "occupation": "Schriftsteller",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/118542192",
+    "tillich_id": "tillich_person_id__2761",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": ""
   }
 }

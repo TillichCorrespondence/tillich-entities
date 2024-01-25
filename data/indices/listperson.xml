@@ -10134,6 +10134,11 @@
                   <occupation>Jüngerer Bruder von Maria Klein/Rhine.</occupation>
                   <note type="bio"><p>Jüngerer Bruder von Maria Klein/Rhine.</p></note>
                </person>
+               <person xml:id="tillich_person_id__2761">
+                  <persName>Grillparzer</persName>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118542192</idno>
+               </person>
             </listPerson>
          </div>
       </body>

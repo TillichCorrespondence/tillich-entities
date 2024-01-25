@@ -105,7 +105,7 @@
                   <placeName>Barkow</placeName>
                </place>
                <place xml:id="tillich_place_id__30">
-                  <placeName>Barmen</placeName>
+                  <placeName>Barmen (Deutschland)</placeName>
                </place>
                <place xml:id="tillich_place_id__31">
                   <placeName>Basel</placeName>
@@ -159,7 +159,7 @@
                   <placeName>Berlin-Spandau</placeName>
                </place>
                <place xml:id="tillich_place_id__48">
-                  <placeName>Berlin-Teltow</placeName>
+                  <placeName>Teltow</placeName>
                </place>
                <place xml:id="tillich_place_id__49">
                   <placeName>Berlin-Tempelhof</placeName>
@@ -1666,6 +1666,15 @@
                </place>
                <place xml:id="tillich_place_id__555">
                   <placeName>Stade</placeName>
+               </place>
+               <place xml:id="tillich_place_id__556">
+                  <placeName>Meißen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__557">
+                  <placeName>Hannoversch-Münden</placeName>
+               </place>
+               <place xml:id="tillich_place_id__558">
+                  <placeName>Landsberg am Lech</placeName>
                </place>
             </listPlace>
          </div>
