@@ -10038,7 +10038,7 @@
                   <persName>Albers, August</persName>
                </person>
                <person xml:id="tillich_person_id__2736">
-                  <persName>Wiechel</persName>
+                  <persName>Wiechel, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2737">
                   <persName>Poelchau, Dorothee</persName>
@@ -10077,7 +10077,7 @@
                   <persName>Kinkel, Walter</persName>
                </person>
                <person xml:id="tillich_person_id__2746">
-                  <persName>Steinmann</persName>
+                  <persName>Steinmann, ???</persName>
                   <occupation>Herausgeber der "Wege"</occupation>
                </person>
                <person xml:id="tillich_person_id__2747">
@@ -10089,11 +10089,12 @@
                   <occupation>war nach einem Studium der Evangelischen Theologie und der Rechtswissenschaft Vikar beiMartin Rade gewesen, bevor er 1893 bis 1895 als Pfarrer in Hirschberg wirkte. 1895 übernahm er das Pfarramt der Reformierten Gemeinde in Frankfurt am Main. An der Frankfurter Akademie für Sozial- und Handelswissenschaften habilitierte er sich 1907.</occupation>
                </person>
                <person xml:id="tillich_person_id__2749">
-                  <persName>Dietrich, Dr.</persName>
+                  <persName>Dietrich, ???</persName>
                   <occupation>Kontakte zu Wilhelm Ruprecht, erwähnt in Brief vom 26. Februar 1924 an Paul Tillich</occupation>
+                  <note type="bio"><p>Er hatte einen Doktortitel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2750">
-                  <persName>Verlag Rösl &amp; Cie.</persName>
+                  <persName>Verlag Rösl &amp; Cie., ???</persName>
                   <occupation>Verlag in München</occupation>
                </person>
                <person xml:id="tillich_person_id__2751">
@@ -10104,7 +10105,7 @@
                   <persName>Reyer, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2753">
-                  <persName>Joel</persName>
+                  <persName>Joel, ???</persName>
                   <occupation>Mitarbeiter Wege zur Philosophie</occupation>
                </person>
                <person xml:id="tillich_person_id__2754">
@@ -10116,13 +10117,13 @@
                   <occupation>Begründer der differentiellen Psychologie</occupation>
                </person>
                <person xml:id="tillich_person_id__2756">
-                  <persName>Hermann Friedrich Schmalenbach</persName>
+                  <persName>Schmalenbach, Hermann Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__2757">
-                  <persName>Bruns</persName>
+                  <persName>Bruns, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2758">
-                  <persName>Hüllmann</persName>
+                  <persName>Hüllmann, ???</persName>
                   <occupation>Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2759">
@@ -10135,9 +10136,19 @@
                   <note type="bio"><p>Jüngerer Bruder von Maria Klein/Rhine.</p></note>
                </person>
                <person xml:id="tillich_person_id__2761">
-                  <persName>Grillparzer</persName>
+                  <persName>Grillparzer, Franz</persName>
                   <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118542192</idno>
+               </person>
+               <person xml:id="tillich_person_id__2762">
+                  <persName>Balke, Adelheid</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116043792</idno>
+                  <note type="bio"><p>geb. Voswinckel,*22.06.1888 in Soest</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2763">
+                  <persName>Balke, Siegfried August Theodor</persName>
+                  <occupation>Pfarrer in Wülfrath und ab 1900 Leiter des Diakonissenhauses in Bremen.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116043873</idno>
                </person>
             </listPerson>
          </div>

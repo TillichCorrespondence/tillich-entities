@@ -43618,7 +43618,7 @@
   "2736": {
     "id": 2736,
     "order": "2731.00000000000000000000",
-    "name": "Wiechel",
+    "name": "Wiechel, ???",
     "surname": "Wiechel",
     "forename": "Tante",
     "from_to": "",
@@ -43778,7 +43778,7 @@
   "2746": {
     "id": 2746,
     "order": "2741.00000000000000000000",
-    "name": "Steinmann",
+    "name": "Steinmann, ???",
     "surname": "Steinmann",
     "forename": "???",
     "from_to": "",
@@ -43826,12 +43826,12 @@
   "2749": {
     "id": 2749,
     "order": "2744.00000000000000000000",
-    "name": "Dietrich, Dr.",
+    "name": "Dietrich, ???",
     "surname": "Dietrich",
     "forename": "???",
     "from_to": "",
     "occupation": "Kontakte zu Wilhelm Ruprecht, erwähnt in Brief vom 26. Februar 1924 an Paul Tillich",
-    "bio": "",
+    "bio": "Er hatte einen Doktortitel.",
     "legacy_id": "",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__2749",
@@ -43842,9 +43842,9 @@
   "2750": {
     "id": 2750,
     "order": "2745.00000000000000000000",
-    "name": "Verlag Rösl & Cie.",
-    "surname": "",
-    "forename": "",
+    "name": "Verlag Rösl & Cie., ???",
+    "surname": "Verlag Rösl & Cie.",
+    "forename": "???",
     "from_to": "",
     "occupation": "Verlag in München",
     "bio": "",
@@ -43890,7 +43890,7 @@
   "2753": {
     "id": 2753,
     "order": "2748.00000000000000000000",
-    "name": "Joel",
+    "name": "Joel, ???",
     "surname": "Joel",
     "forename": "???",
     "from_to": "",
@@ -43938,7 +43938,7 @@
   "2756": {
     "id": 2756,
     "order": "2751.00000000000000000000",
-    "name": "Hermann Friedrich Schmalenbach",
+    "name": "Schmalenbach, Hermann Friedrich",
     "surname": "Schmalenbach",
     "forename": "Hermann Friedrich",
     "from_to": "1885–1950",
@@ -43954,7 +43954,7 @@
   "2757": {
     "id": 2757,
     "order": "2752.00000000000000000000",
-    "name": "Bruns",
+    "name": "Bruns, ???",
     "surname": "Bruns",
     "forename": "???",
     "from_to": "",
@@ -43970,7 +43970,7 @@
   "2758": {
     "id": 2758,
     "order": "2753.00000000000000000000",
-    "name": "Hüllmann",
+    "name": "Hüllmann, ???",
     "surname": "Hüllmann",
     "forename": "???",
     "from_to": "",
@@ -44018,9 +44018,9 @@
   "2761": {
     "id": 2761,
     "order": "2756.00000000000000000000",
-    "name": "Grillparzer",
-    "surname": "Franz",
-    "forename": "",
+    "name": "Grillparzer, Franz",
+    "surname": "Grillparzer",
+    "forename": "Franz",
     "from_to": "1791-1872",
     "occupation": "Schriftsteller",
     "bio": "",
@@ -44029,6 +44029,38 @@
     "tillich_id": "tillich_person_id__2761",
     "date_of_birth": null,
     "date_of_death": null,
+    "working_note": ""
+  },
+  "2762": {
+    "id": 2762,
+    "order": "2757.00000000000000000000",
+    "name": "Balke, Adelheid",
+    "surname": "Balke",
+    "forename": "Adelheid",
+    "from_to": "",
+    "occupation": "",
+    "bio": "geb. Voswinckel,*22.06.1888 in Soest",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/116043792",
+    "tillich_id": "tillich_person_id__2762",
+    "date_of_birth": "1888-06-22",
+    "date_of_death": null,
+    "working_note": ""
+  },
+  "2763": {
+    "id": 2763,
+    "order": "2758.00000000000000000000",
+    "name": "Balke, Siegfried August Theodor",
+    "surname": "Balke",
+    "forename": "Siegfried August Theodor",
+    "from_to": "1866-1915",
+    "occupation": "Pfarrer in Wülfrath und ab 1900 Leiter des Diakonissenhauses in Bremen.",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/116043873",
+    "tillich_id": "tillich_person_id__2763",
+    "date_of_birth": "1866-05-31",
+    "date_of_death": "1915-12-13",
     "working_note": ""
   }
 }
