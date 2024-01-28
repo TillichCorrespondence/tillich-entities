@@ -10078,7 +10078,7 @@
                </person>
                <person xml:id="tillich_person_id__2746">
                   <persName>Steinmann, ???</persName>
-                  <occupation>Herausgeber der "Wege"</occupation>
+                  <occupation>Er war Herausgeber der "Wege".</occupation>
                </person>
                <person xml:id="tillich_person_id__2747">
                   <persName>Plenge, Johannes</persName>
@@ -10110,7 +10110,7 @@
                </person>
                <person xml:id="tillich_person_id__2754">
                   <persName>Zschimmer, Eberhard</persName>
-                  <occupation>Mineraloge</occupation>
+                  <occupation>Mineraloge;</occupation>
                </person>
                <person xml:id="tillich_person_id__2755">
                   <persName>Stern, William</persName>
@@ -10132,8 +10132,7 @@
                </person>
                <person xml:id="tillich_person_id__2760">
                   <persName>Klein, Peter</persName>
-                  <occupation>Jüngerer Bruder von Maria Klein/Rhine.</occupation>
-                  <note type="bio"><p>Jüngerer Bruder von Maria Klein/Rhine.</p></note>
+                  <note type="bio"><p>Er war der jüngere Bruder von Maria Klein/Rhine.</p></note>
                </person>
                <person xml:id="tillich_person_id__2761">
                   <persName>Grillparzer, Franz</persName>
