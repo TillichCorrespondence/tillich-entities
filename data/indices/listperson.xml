@@ -3100,6 +3100,8 @@
                </person>
                <person xml:id="tillich_person_id__890">
                   <persName>Herrmann, Wilhelm</persName>
+                  <occupation>Deutscher Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118549995</idno>
                </person>
                <person xml:id="tillich_person_id__891">
                   <persName>Hertel, Karin</persName>
@@ -10148,6 +10150,11 @@
                   <persName>Balke, Siegfried August Theodor</persName>
                   <occupation>Pfarrer in Wülfrath und ab 1900 Leiter des Diakonissenhauses in Bremen.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116043873</idno>
+               </person>
+               <person xml:id="tillich_person_id__2764">
+                  <persName>Siegward, Christioph von</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118614258</idno>
                </person>
             </listPerson>
          </div>

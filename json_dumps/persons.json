@@ -14213,11 +14213,11 @@
     "name": "Herrmann, Wilhelm",
     "surname": "Herrmann",
     "forename": "Wilhelm",
-    "from_to": "",
-    "occupation": "",
+    "from_to": "1846-1922",
+    "occupation": "Deutscher Theologe",
     "bio": "",
     "legacy_id": "P00890",
-    "gnd_url": "",
+    "gnd_url": "http://d-nb.info/gnd/118549995",
     "tillich_id": "tillich_person_id__890",
     "date_of_birth": null,
     "date_of_death": null,
@@ -44061,6 +44061,22 @@
     "tillich_id": "tillich_person_id__2763",
     "date_of_birth": "1866-05-31",
     "date_of_death": "1915-12-13",
+    "working_note": ""
+  },
+  "2764": {
+    "id": 2764,
+    "order": "2759.00000000000000000000",
+    "name": "Siegward, Christioph von",
+    "surname": "Siegwart",
+    "forename": "Christoph von",
+    "from_to": "1830-1905",
+    "occupation": "Philosoph",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118614258",
+    "tillich_id": "tillich_person_id__2764",
+    "date_of_birth": "1830-03-28",
+    "date_of_death": "1905-08-05",
     "working_note": ""
   }
 }
