@@ -10156,6 +10156,31 @@
                   <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118614258</idno>
                </person>
+               <person xml:id="tillich_person_id__2765">
+                  <persName>Muff, Christian</persName>
+                  <occupation>Deutscher Philologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117179671</idno>
+               </person>
+               <person xml:id="tillich_person_id__2766">
+                  <persName>Loti, Pierre</persName>
+                  <occupation>Mathematiker, Zeichner, Schriftsteller, Marineoffizier</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118780522</idno>
+               </person>
+               <person xml:id="tillich_person_id__2767">
+                  <persName>Engel, Georg</persName>
+                  <occupation>Schriftsteller, Dramatiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116487054</idno>
+               </person>
+               <person xml:id="tillich_person_id__2768">
+                  <persName>Auerbach, Berthold</persName>
+                  <occupation>Schrifsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11865103X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2769">
+                  <persName>Conrad, Paul</persName>
+                  <occupation>Deutscher Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117697311</idno>
+               </person>
             </listPerson>
          </div>
       </body>

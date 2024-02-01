@@ -915,7 +915,7 @@
                   <placeName>Montmartre (Paris)</placeName>
                </place>
                <place xml:id="tillich_place_id__300">
-                  <placeName>Montécouvé02880</placeName>
+                  <placeName>Montécouvé (Juvigny)</placeName>
                </place>
                <place xml:id="tillich_place_id__301">
                   <placeName/>
@@ -1675,6 +1675,9 @@
                </place>
                <place xml:id="tillich_place_id__558">
                   <placeName>Landsberg am Lech</placeName>
+               </place>
+               <place xml:id="tillich_place_id__559">
+                  <placeName>Lindtorf</placeName>
                </place>
             </listPlace>
          </div>
