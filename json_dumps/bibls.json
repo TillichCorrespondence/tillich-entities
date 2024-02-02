@@ -1406,5 +1406,29 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__179",
     "zotero": ""
+  },
+  "180": {
+    "id": 180,
+    "order": "177.00000000000000000000",
+    "name": "Kähler, Martin, Dogmatische Zeitfragen. Alte und neue Ausführungen zur Wissenschaft der christlichen Lehre, 2. Band: Angewandte Dogmen, Deichert, Leipzig 1908.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__180",
+    "zotero": ""
+  },
+  "181": {
+    "id": 181,
+    "order": "178.00000000000000000000",
+    "name": "Ebbinghaus, Hermann, Grundzüge der Psychologie, Leipzig 1905.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__181",
+    "zotero": ""
+  },
+  "182": {
+    "id": 182,
+    "order": "179.00000000000000000000",
+    "name": "Kähler, Martin, Die Wissenschaft der christlichen Lehre von dem evangelischen Grundartikel aus im Abrisse dargestellt, Leipzig 1905, 3. Auflage.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__182",
+    "zotero": ""
   }
 }

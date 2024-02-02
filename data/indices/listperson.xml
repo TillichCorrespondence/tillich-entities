@@ -2858,6 +2858,8 @@
                </person>
                <person xml:id="tillich_person_id__815">
                   <persName>Hartmann, Eduard von</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118546252</idno>
                </person>
                <person xml:id="tillich_person_id__816">
                   <persName>Hartmann, Nicolai</persName>
@@ -4115,6 +4117,8 @@
                </person>
                <person xml:id="tillich_person_id__1189">
                   <persName>Lipps, Theodor</persName>
+                  <occupation>Philosoph; Psychologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117057436</idno>
                </person>
                <person xml:id="tillich_person_id__1190">
                   <persName>Lipsius, Justus</persName>
@@ -10180,6 +10184,11 @@
                   <persName>Conrad, Paul</persName>
                   <occupation>Deutscher Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117697311</idno>
+               </person>
+               <person xml:id="tillich_person_id__2770">
+                  <persName>Balke, Paul</persName>
+                  <occupation>Bruder von Hans Balke.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1068177888</idno>
                </person>
             </listPerson>
          </div>
