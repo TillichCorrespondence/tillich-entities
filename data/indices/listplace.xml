@@ -1679,6 +1679,21 @@
                <place xml:id="tillich_place_id__559">
                   <placeName>Lindtorf</placeName>
                </place>
+               <place xml:id="tillich_place_id__560">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__561">
+                  <placeName>Bad Doberan</placeName>
+               </place>
+               <place xml:id="tillich_place_id__562">
+                  <placeName>Mainberg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__563">
+                  <placeName>Marienburg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__564">
+                  <placeName>Maria Laach</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

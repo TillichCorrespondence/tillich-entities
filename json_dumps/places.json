@@ -4430,5 +4430,45 @@
     "tillich_id": "tillich_place_id__559",
     "geonames_url": "https://www.geonames.org/2877106/lindtorf.html",
     "Working Notes": "Working Notes"
+  },
+  "560": {
+    "id": 560,
+    "order": "555.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__560",
+    "geonames_url": "",
+    "Working Notes": ""
+  },
+  "561": {
+    "id": 561,
+    "order": "556.00000000000000000000",
+    "name": "Bad Doberan",
+    "tillich_id": "tillich_place_id__561",
+    "geonames_url": "https://www.geonames.org/2953528/bad-doberan.html",
+    "Working Notes": ""
+  },
+  "562": {
+    "id": 562,
+    "order": "557.00000000000000000000",
+    "name": "Mainberg",
+    "tillich_id": "tillich_place_id__562",
+    "geonames_url": "",
+    "Working Notes": ""
+  },
+  "563": {
+    "id": 563,
+    "order": "558.00000000000000000000",
+    "name": "Marienburg",
+    "tillich_id": "tillich_place_id__563",
+    "geonames_url": "https://www.geonames.org/3092472/malbork.html",
+    "Working Notes": ""
+  },
+  "564": {
+    "id": 564,
+    "order": "559.00000000000000000000",
+    "name": "Maria Laach",
+    "tillich_id": "tillich_place_id__564",
+    "geonames_url": "",
+    "Working Notes": ""
   }
 }
