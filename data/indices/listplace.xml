@@ -1694,6 +1694,27 @@
                <place xml:id="tillich_place_id__564">
                   <placeName>Maria Laach</placeName>
                </place>
+               <place xml:id="tillich_place_id__565">
+                  <placeName>Kreiensen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__566">
+                  <placeName>Friedersdorf</placeName>
+               </place>
+               <place xml:id="tillich_place_id__567">
+                  <placeName>Greiz</placeName>
+               </place>
+               <place xml:id="tillich_place_id__568">
+                  <placeName>Mengelberg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__569">
+                  <placeName>Gera</placeName>
+               </place>
+               <place xml:id="tillich_place_id__570">
+                  <placeName>Braunau</placeName>
+               </place>
+               <place xml:id="tillich_place_id__571">
+                  <placeName>Pfalzburg</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

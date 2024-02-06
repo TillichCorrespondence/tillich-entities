@@ -4719,6 +4719,7 @@
                </person>
                <person xml:id="tillich_person_id__1363">
                   <persName>Müller, Johannes</persName>
+                  <occupation>Mitarbeiter im Schloss Elmau</occupation>
                </person>
                <person xml:id="tillich_person_id__1364">
                   <persName>Müller, Julius</persName>
@@ -10212,6 +10213,31 @@
                </person>
                <person xml:id="tillich_person_id__2774">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2775">
+                  <persName>Gottschow, Erna</persName>
+                  <note type="bio"><p>Verwandte von Albert Gottschow</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2776">
+                  <persName>Storch, Lotte</persName>
+               </person>
+               <person xml:id="tillich_person_id__2777">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2778">
+                  <persName>nora m.</persName>
+               </person>
+               <person xml:id="tillich_person_id__2779">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2780">
+                  <persName>Bussian</persName>
+               </person>
+               <person xml:id="tillich_person_id__2781">
+                  <persName>Knut Hamsun</persName>
+               </person>
+               <person xml:id="tillich_person_id__2782">
+                  <persName>Rudolf, ???</persName>
                </person>
             </listPerson>
          </div>

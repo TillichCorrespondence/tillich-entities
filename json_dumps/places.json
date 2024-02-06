@@ -4470,5 +4470,61 @@
     "tillich_id": "tillich_place_id__564",
     "geonames_url": "",
     "Working Notes": ""
+  },
+  "565": {
+    "id": 565,
+    "order": "560.00000000000000000000",
+    "name": "Kreiensen",
+    "tillich_id": "tillich_place_id__565",
+    "geonames_url": "https://www.geonames.org/2884482/kreiensen.html",
+    "Working Notes": ""
+  },
+  "566": {
+    "id": 566,
+    "order": "561.00000000000000000000",
+    "name": "Friedersdorf",
+    "tillich_id": "tillich_place_id__566",
+    "geonames_url": "",
+    "Working Notes": ""
+  },
+  "567": {
+    "id": 567,
+    "order": "562.00000000000000000000",
+    "name": "Greiz",
+    "tillich_id": "tillich_place_id__567",
+    "geonames_url": "https://www.geonames.org/2917737/greiz.html",
+    "Working Notes": ""
+  },
+  "568": {
+    "id": 568,
+    "order": "563.00000000000000000000",
+    "name": "Mengelberg",
+    "tillich_id": "tillich_place_id__568",
+    "geonames_url": "",
+    "Working Notes": ""
+  },
+  "569": {
+    "id": 569,
+    "order": "564.00000000000000000000",
+    "name": "Gera",
+    "tillich_id": "tillich_place_id__569",
+    "geonames_url": "https://www.geonames.org/2921232/gera.html",
+    "Working Notes": ""
+  },
+  "570": {
+    "id": 570,
+    "order": "565.00000000000000000000",
+    "name": "Braunau",
+    "tillich_id": "tillich_place_id__570",
+    "geonames_url": "",
+    "Working Notes": ""
+  },
+  "571": {
+    "id": 571,
+    "order": "566.00000000000000000000",
+    "name": "Pfalzburg",
+    "tillich_id": "tillich_place_id__571",
+    "geonames_url": "",
+    "Working Notes": ""
   }
 }
