@@ -1757,7 +1757,7 @@
     "name": "Italien-Sorrento",
     "tillich_id": "tillich_place_id__220",
     "geonames_url": "https://www.geonames.org/3166350/",
-    "Working Notes": ""
+    "Working Notes": "Doppelung in (407)"
   },
   "221": {
     "id": 221,
@@ -2508,8 +2508,8 @@
     "order": "314.00000000000000000000",
     "name": "Neudamm",
     "tillich_id": "tillich_place_id__314",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2866049/",
+    "Working Notes": "(Brief betrifft Johannes Tillich, Neudamm (am großen Bruch, Deutschland)wegen Johannes Ortsnähe in Dölzig, wahrscheinlicher als Dębno(Neudamm) in Polen"
   },
   "315": {
     "id": 315,
@@ -2532,24 +2532,24 @@
     "order": "317.00000000000000000000",
     "name": "Neukölln",
     "tillich_id": "tillich_place_id__317",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2864694/",
+    "Working Notes": "Neukölln(Berlin District)"
   },
   "318": {
     "id": 318,
     "order": "318.00000000000000000000",
     "name": "Neviges",
     "tillich_id": "tillich_place_id__318",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2863758/",
+    "Working Notes": ""
   },
   "319": {
     "id": 319,
     "order": "319.00000000000000000000",
     "name": "New York",
     "tillich_id": "tillich_place_id__319",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/5128581/",
+    "Working Notes": ""
   },
   "320": {
     "id": 320,
@@ -2564,32 +2564,32 @@
     "order": "321.00000000000000000000",
     "name": "Nimwegen",
     "tillich_id": "tillich_place_id__321",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2750053/",
+    "Working Notes": "Nijmegen (Niederlande)"
   },
   "322": {
     "id": 322,
     "order": "322.00000000000000000000",
     "name": "Nogent",
     "tillich_id": "tillich_place_id__322",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/6616998/",
+    "Working Notes": "(L00411)(Gibt viele Nogents, könnte neben bloß \"Nogent\"(kleine Stadt) als solchen auch \"Nogent-sur-Marne\"(große Stadt) gemeint sein weil dort weil es befindet sich dort -> evangelische Institut Biblique Nogent-sur-Marne)"
   },
   "323": {
     "id": 323,
     "order": "323.00000000000000000000",
     "name": "Nordfrankreich",
     "tillich_id": "tillich_place_id__323",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/11071624/",
+    "Working Notes": "(GeoNames: Nord Frankreich - womöglich Hauts-de-France ein guter Verweis)"
   },
   "324": {
     "id": 324,
     "order": "324.00000000000000000000",
     "name": "Norwegen",
     "tillich_id": "tillich_place_id__324",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3144096/",
+    "Working Notes": ""
   },
   "325": {
     "id": 325,
@@ -2612,8 +2612,8 @@
     "order": "327.00000000000000000000",
     "name": "Nürnberg",
     "tillich_id": "tillich_place_id__327",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2861650/",
+    "Working Notes": ""
   },
   "328": {
     "id": 328,
@@ -2621,71 +2621,71 @@
     "name": "Ohne Ort",
     "tillich_id": "tillich_place_id__328",
     "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "Working Notes": "Ohne Ort Platzhalter"
   },
   "329": {
     "id": 329,
     "order": "329.00000000000000000000",
     "name": "Odenwald",
     "tillich_id": "tillich_place_id__329",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2858101/",
+    "Working Notes": "Möglicher verweis ->(Alte Personeregister auf Excel(Emmerich Kurt): Odenwaldschule Oberhambach)"
   },
   "330": {
     "id": 330,
     "order": "330.00000000000000000000",
     "name": "Offenbach",
     "tillich_id": "tillich_place_id__330",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3220975/",
+    "Working Notes": ""
   },
   "331": {
     "id": 331,
     "order": "331.00000000000000000000",
     "name": "Olizy",
     "tillich_id": "tillich_place_id__331",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2989603/",
+    "Working Notes": "(L00498)Wahrscheinlich nicht Olizy (Reims) -> sondern Olizy-sur-Chiers (Verdun)-> https://www.verdun14-18.de/tag/olizy/"
   },
   "332": {
     "id": 332,
     "order": "332.00000000000000000000",
     "name": "Orvieto",
     "tillich_id": "tillich_place_id__332",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3171874/",
+    "Working Notes": ""
   },
   "333": {
     "id": 333,
     "order": "333.00000000000000000000",
     "name": "Osnabrück",
     "tillich_id": "tillich_place_id__333",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2856883/",
+    "Working Notes": ""
   },
   "334": {
     "id": 334,
     "order": "334.00000000000000000000",
     "name": "Ossana",
     "tillich_id": "tillich_place_id__334",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/6542680/",
+    "Working Notes": ""
   },
   "335": {
     "id": 335,
     "order": "335.00000000000000000000",
     "name": "Ostfriesland",
     "tillich_id": "tillich_place_id__335",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2856304/",
+    "Working Notes": ""
   },
   "336": {
     "id": 336,
     "order": "336.00000000000000000000",
     "name": "Ostpreußen",
     "tillich_id": "tillich_place_id__336",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/772636/",
+    "Working Notes": ""
   },
   "337": {
     "id": 337,
@@ -2732,24 +2732,24 @@
     "order": "342.00000000000000000000",
     "name": "Pargny",
     "tillich_id": "tillich_place_id__342",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/6454768/",
+    "Working Notes": "(Vorsicht! Datei nicht gefunden; gibt mehrere im Namen, aber die kleine Gemeinde macht Sinn im Weltkriegskontext)"
   },
   "343": {
     "id": 343,
     "order": "343.00000000000000000000",
     "name": "Paris",
     "tillich_id": "tillich_place_id__343",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2988507/",
+    "Working Notes": ""
   },
   "344": {
     "id": 344,
     "order": "344.00000000000000000000",
     "name": "Pasly02200",
     "tillich_id": "tillich_place_id__344",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2988421/",
+    "Working Notes": "Pasly (Aisne)"
   },
   "345": {
     "id": 345,
@@ -2764,64 +2764,64 @@
     "order": "346.00000000000000000000",
     "name": "Peißnitzinsel",
     "tillich_id": "tillich_place_id__346",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2842700/",
+    "Working Notes": "(geoNames Verweise auf die Saale) https://de.wikipedia.org/wiki/Peißnitzinsel"
   },
   "347": {
     "id": 347,
     "order": "347.00000000000000000000",
     "name": "Penzing bei Wien",
     "tillich_id": "tillich_place_id__347",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2769121/",
+    "Working Notes": ""
   },
   "348": {
     "id": 348,
     "order": "348.00000000000000000000",
     "name": "Pfunds am Inn",
     "tillich_id": "tillich_place_id__348",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2768905/",
+    "Working Notes": ""
   },
   "349": {
     "id": 349,
     "order": "349.00000000000000000000",
     "name": "Pillau",
     "tillich_id": "tillich_place_id__349",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2609906/",
+    "Working Notes": "(Russisch: Baltiysk)"
   },
   "350": {
     "id": 350,
     "order": "350.00000000000000000000",
     "name": "Piz Bernina",
     "tillich_id": "tillich_place_id__350",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2661545/",
+    "Working Notes": ""
   },
   "351": {
     "id": 351,
     "order": "351.00000000000000000000",
     "name": "Polen",
     "tillich_id": "tillich_place_id__351",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/798544/",
+    "Working Notes": ""
   },
   "352": {
     "id": 352,
     "order": "352.00000000000000000000",
     "name": "Polen-Neuendorf",
     "tillich_id": "tillich_place_id__352",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3090679/",
+    "Working Notes": "Polnisch: Nowa Wieś Przywidzka"
   },
   "353": {
     "id": 353,
     "order": "353.00000000000000000000",
     "name": "Pont-Saint-Mard02380",
     "tillich_id": "tillich_place_id__353",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2986108/",
+    "Working Notes": "Pont-Saint-Mard02380"
   },
   "354": {
     "id": 354,
@@ -2836,16 +2836,16 @@
     "order": "355.00000000000000000000",
     "name": "Porto-Vecchio",
     "tillich_id": "tillich_place_id__355",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2985947/",
+    "Working Notes": "Porto-Vecchio (Corsica)"
   },
   "356": {
     "id": 356,
     "order": "356.00000000000000000000",
     "name": "Potsdam",
     "tillich_id": "tillich_place_id__356",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2852458/",
+    "Working Notes": "Potsdam (Brandenburg)"
   },
   "357": {
     "id": 357,
@@ -2853,39 +2853,39 @@
     "name": "Preußen",
     "tillich_id": "tillich_place_id__357",
     "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "Working Notes": "(In GeoNames nicht geschichtlich verordnet)"
   },
   "358": {
     "id": 358,
     "order": "358.00000000000000000000",
     "name": "Przyjezierze",
     "tillich_id": "tillich_place_id__358",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3087839/",
+    "Working Notes": ""
   },
   "359": {
     "id": 359,
     "order": "359.00000000000000000000",
     "name": "Péronne",
     "tillich_id": "tillich_place_id__359",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2987928/",
+    "Working Notes": ""
   },
   "360": {
     "id": 360,
     "order": "360.00000000000000000000",
     "name": "Quedlinburg",
     "tillich_id": "tillich_place_id__360",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/6551148/",
+    "Working Notes": ""
   },
   "361": {
     "id": 361,
     "order": "361.00000000000000000000",
     "name": "Quiberon",
     "tillich_id": "tillich_place_id__361",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2984741/",
+    "Working Notes": ""
   },
   "362": {
     "id": 362,
@@ -2924,16 +2924,16 @@
     "order": "366.00000000000000000000",
     "name": "Rheingau",
     "tillich_id": "tillich_place_id__366",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3220989/",
+    "Working Notes": "Rheingau-Taunus-Kreis"
   },
   "367": {
     "id": 367,
     "order": "367.00000000000000000000",
     "name": "Rixdorf/Berlin-Neukölln",
     "tillich_id": "tillich_place_id__367",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/12503568/",
+    "Working Notes": ""
   },
   "368": {
     "id": 368,
@@ -2948,16 +2948,16 @@
     "order": "369.00000000000000000000",
     "name": "Rom",
     "tillich_id": "tillich_place_id__369",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3169070/",
+    "Working Notes": ""
   },
   "370": {
     "id": 370,
     "order": "370.00000000000000000000",
     "name": "Rostock",
     "tillich_id": "tillich_place_id__370",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2844588/",
+    "Working Notes": ""
   },
   "371": {
     "id": 371,
@@ -2972,8 +2972,8 @@
     "order": "372.00000000000000000000",
     "name": "Rothenburg a. d. Fulda",
     "tillich_id": "tillich_place_id__372",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2844434/",
+    "Working Notes": ""
   },
   "373": {
     "id": 373,
@@ -3004,8 +3004,8 @@
     "order": "376.00000000000000000000",
     "name": "Russland",
     "tillich_id": "tillich_place_id__376",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2017370/",
+    "Working Notes": ""
   },
   "377": {
     "id": 377,
@@ -3020,8 +3020,8 @@
     "order": "378.00000000000000000000",
     "name": "Rüdesheim am Rhein",
     "tillich_id": "tillich_place_id__378",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2843395/",
+    "Working Notes": ""
   },
   "379": {
     "id": 379,
@@ -3036,40 +3036,40 @@
     "order": "380.00000000000000000000",
     "name": "Rügen",
     "tillich_id": "tillich_place_id__380",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2843325/",
+    "Working Notes": ""
   },
   "381": {
     "id": 381,
     "order": "381.00000000000000000000",
     "name": "Rüschlikon",
     "tillich_id": "tillich_place_id__381",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/7286991/",
+    "Working Notes": ""
   },
   "382": {
     "id": 382,
     "order": "382.00000000000000000000",
     "name": "Saarbrücken",
     "tillich_id": "tillich_place_id__382",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2842647/",
+    "Working Notes": ""
   },
   "383": {
     "id": 383,
     "order": "383.00000000000000000000",
     "name": "Sachsen",
     "tillich_id": "tillich_place_id__383",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2842566/",
+    "Working Notes": ""
   },
   "384": {
     "id": 384,
     "order": "384.00000000000000000000",
     "name": "Saint Malo, Ille-et-Vilaine",
     "tillich_id": "tillich_place_id__384",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2978640/",
+    "Working Notes": ""
   },
   "385": {
     "id": 385,
@@ -3084,32 +3084,32 @@
     "order": "386.00000000000000000000",
     "name": "Saint-Quentin",
     "tillich_id": "tillich_place_id__386",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2977295/",
+    "Working Notes": ""
   },
   "387": {
     "id": 387,
     "order": "387.00000000000000000000",
     "name": "Salzburg",
     "tillich_id": "tillich_place_id__387",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2766824/",
+    "Working Notes": ""
   },
   "388": {
     "id": 388,
     "order": "388.00000000000000000000",
     "name": "Santa Maria Capua Vetere",
     "tillich_id": "tillich_place_id__388",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/6538728/",
+    "Working Notes": ""
   },
   "389": {
     "id": 389,
     "order": "389.00000000000000000000",
     "name": "Sassnitz (Rügen)",
     "tillich_id": "tillich_place_id__389",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2841333/",
+    "Working Notes": ""
   },
   "390": {
     "id": 390,
@@ -3125,87 +3125,87 @@
     "name": "Schildberg",
     "tillich_id": "tillich_place_id__391",
     "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "Working Notes": "(L00160)Es gibt mehrere Schildberg, ich weis nicht welches gemeint sein könnte"
   },
   "392": {
     "id": 392,
     "order": "392.00000000000000000000",
     "name": "Schleswig-Holstein",
     "tillich_id": "tillich_place_id__392",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2838632/",
+    "Working Notes": ""
   },
   "393": {
     "id": 393,
     "order": "393.00000000000000000000",
     "name": "Schwaben",
     "tillich_id": "tillich_place_id__393",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2824481/",
+    "Working Notes": ""
   },
   "394": {
     "id": 394,
     "order": "394.00000000000000000000",
     "name": "Schwarzwald",
     "tillich_id": "tillich_place_id__394",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2834688/",
+    "Working Notes": ""
   },
   "395": {
     "id": 395,
     "order": "395.00000000000000000000",
     "name": "Schwarzwalddorf",
     "tillich_id": "tillich_place_id__395",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2887177/",
+    "Working Notes": "womöglich Schwarzwalddorf Kniebis"
   },
   "396": {
     "id": 396,
     "order": "396.00000000000000000000",
     "name": "Schweden",
     "tillich_id": "tillich_place_id__396",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2661886/",
+    "Working Notes": ""
   },
   "397": {
     "id": 397,
     "order": "397.00000000000000000000",
     "name": "Schweiz",
     "tillich_id": "tillich_place_id__397",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2658434/",
+    "Working Notes": ""
   },
   "398": {
     "id": 398,
     "order": "398.00000000000000000000",
     "name": "Schönfließ",
     "tillich_id": "tillich_place_id__398",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3083158/",
+    "Working Notes": "(L00526)(L01079)Vermutlich das Bad Schönfließ(Trzcińsko Zdrój, Polen) hier gemeint ist. Aus nähe zu Berlin im Text abgegeben; Johannes Tillich -> altes PR\"1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark)\""
   },
   "399": {
     "id": 399,
     "order": "399.00000000000000000000",
     "name": "Sedan",
     "tillich_id": "tillich_place_id__399",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2975349/",
+    "Working Notes": "Sedan (Frankreich) (tillich__1915-05-28-tillich-p-an-tillich-j_246)"
   },
   "400": {
     "id": 400,
     "order": "400.00000000000000000000",
     "name": "Siena",
     "tillich_id": "tillich_place_id__400",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3166548/",
+    "Working Notes": ""
   },
   "401": {
     "id": 401,
     "order": "401.00000000000000000000",
     "name": "Sils Maria/Engadin",
     "tillich_id": "tillich_place_id__401",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2658641/",
+    "Working Notes": ""
   },
   "402": {
     "id": 402,
@@ -3220,72 +3220,72 @@
     "order": "403.00000000000000000000",
     "name": "Soest",
     "tillich_id": "tillich_place_id__403",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2831708/",
+    "Working Notes": "Soest(Deutschland)"
   },
   "404": {
     "id": 404,
     "order": "404.00000000000000000000",
     "name": "Soissons",
     "tillich_id": "tillich_place_id__404",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2974389/",
+    "Working Notes": ""
   },
   "405": {
     "id": 405,
     "order": "405.00000000000000000000",
     "name": "Solingen",
     "tillich_id": "tillich_place_id__405",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2831580/",
+    "Working Notes": ""
   },
   "406": {
     "id": 406,
     "order": "406.00000000000000000000",
     "name": "Somme",
     "tillich_id": "tillich_place_id__406",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2974304/",
+    "Working Notes": ""
   },
   "407": {
     "id": 407,
     "order": "407.00000000000000000000",
     "name": "Sorrent-Italien",
     "tillich_id": "tillich_place_id__407",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3166350/",
+    "Working Notes": "Doppelung in (220)"
   },
   "408": {
     "id": 408,
     "order": "408.00000000000000000000",
     "name": "Spiekeroog",
     "tillich_id": "tillich_place_id__408",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2830534/",
+    "Working Notes": ""
   },
   "409": {
     "id": 409,
     "order": "409.00000000000000000000",
     "name": "St. Anton am Arlberg",
     "tillich_id": "tillich_place_id__409",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/7873670/",
+    "Working Notes": ""
   },
   "410": {
     "id": 410,
     "order": "410.00000000000000000000",
     "name": "St. Clement",
     "tillich_id": "tillich_place_id__410",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2981060/",
+    "Working Notes": "Saint-Clément(Frankreich), \"tillich__1918-08-20-backhaus-a-an-tillich-p_360\""
   },
   "411": {
     "id": 411,
     "order": "411.00000000000000000000",
     "name": "St. Pauli (Hamburg)",
     "tillich_id": "tillich_place_id__411",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/6944296/",
+    "Working Notes": ""
   },
   "412": {
     "id": 412,
@@ -3300,48 +3300,48 @@
     "order": "413.00000000000000000000",
     "name": "Starzeddel",
     "tillich_id": "tillich_place_id__413",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3084812/",
+    "Working Notes": "Heute: Starosiedle (alte PR -> \"Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben\")"
   },
   "414": {
     "id": 414,
     "order": "414.00000000000000000000",
     "name": "Stellingen",
     "tillich_id": "tillich_place_id__414",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2827552/",
+    "Working Notes": ""
   },
   "415": {
     "id": 415,
     "order": "415.00000000000000000000",
     "name": "Stendal",
     "tillich_id": "tillich_place_id__415",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2827479/",
+    "Working Notes": "Stendal(verm. Deutschland) (tillich__1905-07-31-winkler-t-an-tillich-p_35)"
   },
   "416": {
     "id": 416,
     "order": "416.00000000000000000000",
     "name": "Stettin",
     "tillich_id": "tillich_place_id__416",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/3083829/",
+    "Working Notes": "Stettin (Szczecin, Polen)"
   },
   "417": {
     "id": 417,
     "order": "417.00000000000000000000",
     "name": "Stockholm",
     "tillich_id": "tillich_place_id__417",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2673722/",
+    "Working Notes": ""
   },
   "418": {
     "id": 418,
     "order": "418.00000000000000000000",
     "name": "Straßburg",
     "tillich_id": "tillich_place_id__418",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2826178/",
+    "Working Notes": "Straßburg (Deutschland)"
   },
   "419": {
     "id": 419,
@@ -4524,6 +4524,102 @@
     "order": "566.00000000000000000000",
     "name": "Pfalzburg",
     "tillich_id": "tillich_place_id__571",
+    "geonames_url": "",
+    "Working Notes": ""
+  },
+  "572": {
+    "id": 572,
+    "order": "567.00000000000000000000",
+    "name": "Blankenese",
+    "tillich_id": "tillich_place_id__572",
+    "geonames_url": "https://www.geonames.org/2948066/blankenese.html",
+    "Working Notes": ""
+  },
+  "573": {
+    "id": 573,
+    "order": "568.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__573",
+    "geonames_url": "",
+    "Working Notes": ""
+  },
+  "574": {
+    "id": 574,
+    "order": "569.00000000000000000000",
+    "name": "Altona",
+    "tillich_id": "tillich_place_id__574",
+    "geonames_url": "https://www.geonames.org/2911296/altona.html",
+    "Working Notes": ""
+  },
+  "575": {
+    "id": 575,
+    "order": "570.00000000000000000000",
+    "name": "Horn",
+    "tillich_id": "tillich_place_id__575",
+    "geonames_url": "https://www.geonames.org/2898917/horn.html",
+    "Working Notes": ""
+  },
+  "576": {
+    "id": 576,
+    "order": "571.00000000000000000000",
+    "name": "Winterhude",
+    "tillich_id": "tillich_place_id__576",
+    "geonames_url": "https://www.geonames.org/2807748/winterhude.html",
+    "Working Notes": ""
+  },
+  "577": {
+    "id": 577,
+    "order": "572.00000000000000000000",
+    "name": "Ohlsdorf",
+    "tillich_id": "tillich_place_id__577",
+    "geonames_url": "https://www.geonames.org/2857650/ohlsdorf.html",
+    "Working Notes": ""
+  },
+  "578": {
+    "id": 578,
+    "order": "573.00000000000000000000",
+    "name": "Kirchheim",
+    "tillich_id": "tillich_place_id__578",
+    "geonames_url": "",
+    "Working Notes": ""
+  },
+  "579": {
+    "id": 579,
+    "order": "574.00000000000000000000",
+    "name": "Eldena",
+    "tillich_id": "tillich_place_id__579",
+    "geonames_url": "https://www.geonames.org/2931217/",
+    "Working Notes": ""
+  },
+  "580": {
+    "id": 580,
+    "order": "575.00000000000000000000",
+    "name": "Wilhelmsdorf",
+    "tillich_id": "tillich_place_id__580",
+    "geonames_url": "https://www.geonames.org/2808741",
+    "Working Notes": ""
+  },
+  "581": {
+    "id": 581,
+    "order": "576.00000000000000000000",
+    "name": "Brandenburg",
+    "tillich_id": "tillich_place_id__581",
+    "geonames_url": "https://www.geonames.org/2945356",
+    "Working Notes": ""
+  },
+  "582": {
+    "id": 582,
+    "order": "577.00000000000000000000",
+    "name": "Palästina",
+    "tillich_id": "tillich_place_id__582",
+    "geonames_url": "https://www.geonames.org/6254930",
+    "Working Notes": ""
+  },
+  "583": {
+    "id": 583,
+    "order": "578.00000000000000000000",
+    "name": "Ilmenau",
+    "tillich_id": "tillich_place_id__583",
     "geonames_url": "",
     "Working Notes": ""
   }

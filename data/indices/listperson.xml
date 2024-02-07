@@ -10239,6 +10239,53 @@
                <person xml:id="tillich_person_id__2782">
                   <persName>Rudolf, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__2783">
+                  <persName>Held, Käthe</persName>
+               </person>
+               <person xml:id="tillich_person_id__2784">
+                  <persName>Hessling, Frau?</persName>
+               </person>
+               <person xml:id="tillich_person_id__2785">
+                  <persName>Heimbach, Familie?</persName>
+               </person>
+               <person xml:id="tillich_person_id__2786">
+                  <persName>Knak, Familie?</persName>
+               </person>
+               <person xml:id="tillich_person_id__2787">
+                  <persName>Balke, Franz</persName>
+               </person>
+               <person xml:id="tillich_person_id__2788">
+                  <persName>Anders, Fritz</persName>
+                  <occupation>Religionslehrer, Pfarrer. Studium in Bonn.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1024593517</idno>
+               </person>
+               <person xml:id="tillich_person_id__2789">
+                  <persName>Anders, Fritz</persName>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1164503693</idno>
+               </person>
+               <person xml:id="tillich_person_id__2790">
+                  <persName>Schrügle, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2791">
+                  <persName>Klein, Linda</persName>
+                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2792">
+                  <persName>Rhine</persName>
+                  <occupation>Mann von Maria Klein (Rhine)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2793">
+                  <persName>Jellinghaus, Paul</persName>
+                  <occupation>Bibelschule und Erholungsheim Dr. Paul Jellinghaus. Wilhelmsdorf, bei Brandenburg a.H.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127733124</idno>
+               </person>
+               <person xml:id="tillich_person_id__2794">
+                  <persName>Lenchen, Tante</persName>
+               </person>
+               <person xml:id="tillich_person_id__2795">
+                  <persName>Pastor Horn</persName>
+               </person>
             </listPerson>
          </div>
       </body>

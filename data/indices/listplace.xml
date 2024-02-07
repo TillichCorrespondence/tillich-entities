@@ -1715,6 +1715,42 @@
                <place xml:id="tillich_place_id__571">
                   <placeName>Pfalzburg</placeName>
                </place>
+               <place xml:id="tillich_place_id__572">
+                  <placeName>Blankenese</placeName>
+               </place>
+               <place xml:id="tillich_place_id__573">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__574">
+                  <placeName>Altona</placeName>
+               </place>
+               <place xml:id="tillich_place_id__575">
+                  <placeName>Horn</placeName>
+               </place>
+               <place xml:id="tillich_place_id__576">
+                  <placeName>Winterhude</placeName>
+               </place>
+               <place xml:id="tillich_place_id__577">
+                  <placeName>Ohlsdorf</placeName>
+               </place>
+               <place xml:id="tillich_place_id__578">
+                  <placeName>Kirchheim</placeName>
+               </place>
+               <place xml:id="tillich_place_id__579">
+                  <placeName>Eldena</placeName>
+               </place>
+               <place xml:id="tillich_place_id__580">
+                  <placeName>Wilhelmsdorf</placeName>
+               </place>
+               <place xml:id="tillich_place_id__581">
+                  <placeName>Brandenburg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__582">
+                  <placeName>Palästina</placeName>
+               </place>
+               <place xml:id="tillich_place_id__583">
+                  <placeName>Ilmenau</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
