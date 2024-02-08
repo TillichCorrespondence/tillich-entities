@@ -8002,7 +8002,7 @@
                </person>
                <person xml:id="tillich_person_id__2238">
                   <persName>Dürselen, Amalia Gertrud Mathilde</persName>
-                  <note type="bio"><p>Sie war ein Großmutter von Paul Tillich.</p></note>
+                  <note type="bio"><p>Sie war eine Großmutter von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2239">
                   <persName>Elbrechts, ???</persName>
@@ -10285,6 +10285,40 @@
                </person>
                <person xml:id="tillich_person_id__2795">
                   <persName>Pastor Horn</persName>
+               </person>
+               <person xml:id="tillich_person_id__2796">
+                  <persName>Trotzki, Leo</persName>
+                  <occupation>Politiker; Kommunist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118642979</idno>
+               </person>
+               <person xml:id="tillich_person_id__2797">
+                  <persName>Verhaeren, Emile</persName>
+                  <occupation>Schriftsteller; Dramatiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118768085</idno>
+               </person>
+               <person xml:id="tillich_person_id__2798">
+                  <persName>Kalina</persName>
+                  <occupation>Oberapotheker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2799">
+                  <persName>Steuerrat Tillich</persName>
+               </person>
+               <person xml:id="tillich_person_id__2800">
+                  <persName>Mohn</persName>
+                  <occupation>Leibfux von Hans Balke (Stand: SoSe07)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2801">
+                  <persName>Hoelscher, Gustav</persName>
+                  <occupation>Dekan der Evangelischen Theologie an der Universität Marburg</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2802">
+                  <persName>Dr. Friedrich Gain</persName>
+               </person>
+               <person xml:id="tillich_person_id__2803">
+                  <persName>Professor Kestenberg</persName>
+               </person>
+               <person xml:id="tillich_person_id__2804">
+                  <persName>Ilse-Margot</persName>
                </person>
             </listPerson>
          </div>

@@ -4468,7 +4468,7 @@
     "order": "559.00000000000000000000",
     "name": "Maria Laach",
     "tillich_id": "tillich_place_id__564",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/11777214/",
     "Working Notes": ""
   },
   "565": {
@@ -4621,6 +4621,54 @@
     "name": "Ilmenau",
     "tillich_id": "tillich_place_id__583",
     "geonames_url": "",
+    "Working Notes": ""
+  },
+  "584": {
+    "id": 584,
+    "order": "579.00000000000000000000",
+    "name": "Bad Cannstatt",
+    "tillich_id": "tillich_place_id__584",
+    "geonames_url": "https://www.geonames.org/2953533/bad-cannstatt.html",
+    "Working Notes": ""
+  },
+  "585": {
+    "id": 585,
+    "order": "580.00000000000000000000",
+    "name": "Kapstadt",
+    "tillich_id": "tillich_place_id__585",
+    "geonames_url": "https://www.geonames.org/3369157/cape-town.html",
+    "Working Notes": ""
+  },
+  "586": {
+    "id": 586,
+    "order": "581.00000000000000000000",
+    "name": "Tokio",
+    "tillich_id": "tillich_place_id__586",
+    "geonames_url": "https://www.geonames.org/1850147/tokyo.html",
+    "Working Notes": ""
+  },
+  "587": {
+    "id": 587,
+    "order": "582.00000000000000000000",
+    "name": "Minden",
+    "tillich_id": "tillich_place_id__587",
+    "geonames_url": "https://www.geonames.org/2871039/minden.html",
+    "Working Notes": ""
+  },
+  "588": {
+    "id": 588,
+    "order": "583.00000000000000000000",
+    "name": "Marienburg (Zell)",
+    "tillich_id": "tillich_place_id__588",
+    "geonames_url": "https://www.geonames.org/11862087",
+    "Working Notes": ""
+  },
+  "589": {
+    "id": 589,
+    "order": "584.00000000000000000000",
+    "name": "Bullay",
+    "tillich_id": "tillich_place_id__589",
+    "geonames_url": "https://www.geonames.org/2941826",
     "Working Notes": ""
   }
 }
