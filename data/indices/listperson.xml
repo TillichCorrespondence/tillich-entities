@@ -5884,6 +5884,7 @@
                </person>
                <person xml:id="tillich_person_id__1705">
                   <persName>Schelling, Friedrich Wilhelm Joseph</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                </person>
                <person xml:id="tillich_person_id__1706">
                   <persName>Schemens, Harns</persName>
@@ -10319,6 +10320,106 @@
                </person>
                <person xml:id="tillich_person_id__2804">
                   <persName>Ilse-Margot</persName>
+               </person>
+               <person xml:id="tillich_person_id__2805">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2806">
+                  <persName>Hanffstengel, Theodor von</persName>
+                  <occupation>Evangelischer Theologe, Pfarrer. Vermutlich Vater von Gottfried von Hanffstengel</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
+               </person>
+               <person xml:id="tillich_person_id__2807">
+                  <persName>Burger, Fritz</persName>
+                  <occupation>Kunsthistoriker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2808">
+                  <persName>Ignatius von Loyola</persName>
+               </person>
+               <person xml:id="tillich_person_id__2809">
+                  <persName>Apelius</persName>
+                  <occupation>geb. Erbslöb, Frau von Wegener</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2810">
+                  <persName>Dox</persName>
+               </person>
+               <person xml:id="tillich_person_id__2811">
+                  <persName>Alfred</persName>
+                  <occupation>Schwager</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2812">
+                  <persName>Fricke, Uli</persName>
+                  <occupation>eventuell identisch mit 2560</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2813">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2814">
+                  <persName>Ziegler</persName>
+                  <occupation>Philosoph</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2815">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2816">
+                  <persName>Frau Stern</persName>
+               </person>
+               <person xml:id="tillich_person_id__2817">
+                  <persName>Tovote, Heinz</persName>
+               </person>
+               <person xml:id="tillich_person_id__2818">
+                  <persName>Schillbach</persName>
+               </person>
+               <person xml:id="tillich_person_id__2819">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2820">
+                  <persName>Massys, Quentin</persName>
+               </person>
+               <person xml:id="tillich_person_id__2821">
+                  <persName>Immow, Gertrud</persName>
+               </person>
+               <person xml:id="tillich_person_id__2822">
+                  <persName>Brahms</persName>
+                  <occupation>Komponist</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2823">
+                  <persName>Egli</persName>
+                  <occupation>Maler</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2824">
+                  <persName>Chopin, Frederic</persName>
+               </person>
+               <person xml:id="tillich_person_id__2825">
+                  <persName>Mengelberg, Nora</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116881666</idno>
+               </person>
+               <person xml:id="tillich_person_id__2826">
+                  <persName>Tanl, Wilhelm</persName>
+               </person>
+               <person xml:id="tillich_person_id__2827">
+                  <persName>???, Rudi</persName>
+               </person>
+               <person xml:id="tillich_person_id__2828">
+                  <persName>Tillich, Karl</persName>
+                  <note type="bio"><p>Vetter von Paul Tillich</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2829">
+                  <persName>Mahling, ???</persName>
+                  <occupation>Professor</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2830">
+                  <persName>Kleedehe, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2831">
+                  <persName>???, Ilse</persName>
+               </person>
+               <person xml:id="tillich_person_id__2832">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2833">
+                  <persName>Kögel, ???</persName>
+                  <occupation>Professor</occupation>
                </person>
             </listPerson>
          </div>

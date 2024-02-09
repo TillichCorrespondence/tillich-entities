@@ -1769,6 +1769,72 @@
                <place xml:id="tillich_place_id__589">
                   <placeName>Bullay</placeName>
                </place>
+               <place xml:id="tillich_place_id__590">
+                  <placeName>Arkona</placeName>
+               </place>
+               <place xml:id="tillich_place_id__591">
+                  <placeName>Regensburg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__592">
+                  <placeName>Passau</placeName>
+               </place>
+               <place xml:id="tillich_place_id__593">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__594">
+                  <placeName>Stargard</placeName>
+               </place>
+               <place xml:id="tillich_place_id__595">
+                  <placeName>Berlin-Posen (Bahnpost)</placeName>
+               </place>
+               <place xml:id="tillich_place_id__596">
+                  <placeName>Plauen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__597">
+                  <placeName>Gotha</placeName>
+               </place>
+               <place xml:id="tillich_place_id__598">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__599">
+                  <placeName>Haferungen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__600">
+                  <placeName>Bredow</placeName>
+               </place>
+               <place xml:id="tillich_place_id__601">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__602">
+                  <placeName>Havelberg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__603">
+                  <placeName>Bad Meinberg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__604">
+                  <placeName>Edinburg</placeName>
+               </place>
+               <place xml:id="tillich_place_id__605">
+                  <placeName>Schweinfurth</placeName>
+               </place>
+               <place xml:id="tillich_place_id__606">
+                  <placeName>Ammersee</placeName>
+               </place>
+               <place xml:id="tillich_place_id__607">
+                  <placeName>Braunlage</placeName>
+               </place>
+               <place xml:id="tillich_place_id__608">
+                  <placeName>Anhalter</placeName>
+               </place>
+               <place xml:id="tillich_place_id__609">
+                  <placeName>Alt-Buchhorst</placeName>
+               </place>
+               <place xml:id="tillich_place_id__610">
+                  <placeName>Essen</placeName>
+               </place>
+               <place xml:id="tillich_place_id__611">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>
