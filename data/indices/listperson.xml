@@ -2264,7 +2264,7 @@
                </person>
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
-                  <occupation>Pfarrer; Heimleiter;</occupation>
+                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio"><p>1904-1908 studierte er Theologie in Tübingen und Halle. In Tübingen freundet er sich mit seinem Mitstudenten Paul Tillich an der sie wie auch Alfred beim Wingolf engagierte. Seit 1912 Pfarrer in Butterfelde und Heirat mit Pauls Schwester Johanna, die jedoch 1920 bei der Geburt des dritten Kindes stirbt. 1916-1922 Missionsinspektor in Bremen, 1922-1927 Pfarrer der französisch-reformierten Gemeinde Frankfurt/Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitet er im Teltower Diakonissenhaus und wird dessen Leiter. Er war in zweiter Ehe mit der Pastorentochter Gertrud ‚Trude‘ Fritz (1883-1961), geb. Horn, verheiratet.</p></note>
                </person>
@@ -10420,6 +10420,51 @@
                <person xml:id="tillich_person_id__2833">
                   <persName>Kögel, ???</persName>
                   <occupation>Professor</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2834">
+                  <persName>Weiß, Bernhard</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
+               </person>
+               <person xml:id="tillich_person_id__2835">
+                  <persName>Prof. Grassmann</persName>
+               </person>
+               <person xml:id="tillich_person_id__2836">
+                  <persName>Prof. Beissmann</persName>
+               </person>
+               <person xml:id="tillich_person_id__2837">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2838">
+                  <persName>Gelau, Hanno</persName>
+               </person>
+               <person xml:id="tillich_person_id__2839">
+                  <persName>Forberg, Friedrich Karl</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119059479</idno>
+               </person>
+               <person xml:id="tillich_person_id__2840">
+                  <persName>Müller, Margot</persName>
+               </person>
+               <person xml:id="tillich_person_id__2841">
+                  <persName>Prof. Bornhausen</persName>
+               </person>
+               <person xml:id="tillich_person_id__2842">
+                  <persName>Unteroffizier</persName>
+               </person>
+               <person xml:id="tillich_person_id__2843">
+                  <persName>Hartmann, Martin</persName>
+                  <occupation>Orientalist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119120828</idno>
+               </person>
+               <person xml:id="tillich_person_id__2844">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2845">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2846">
+                  <persName/>
                </person>
             </listPerson>
          </div>
