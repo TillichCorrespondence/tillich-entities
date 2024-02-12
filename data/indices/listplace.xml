@@ -1835,6 +1835,9 @@
                <place xml:id="tillich_place_id__611">
                   <placeName/>
                </place>
+               <place xml:id="tillich_place_id__613">
+                  <placeName>Wittenberg</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

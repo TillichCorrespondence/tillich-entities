@@ -10466,6 +10466,13 @@
                <person xml:id="tillich_person_id__2846">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__2847">
+                  <persName>Jordan, Julius</persName>
+               </person>
+               <person xml:id="tillich_person_id__2848">
+                  <persName>Hausrath, Adolf</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119059517</idno>
+               </person>
             </listPerson>
          </div>
       </body>

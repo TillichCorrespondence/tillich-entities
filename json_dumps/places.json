@@ -4846,5 +4846,13 @@
     "tillich_id": "tillich_place_id__611",
     "geonames_url": "",
     "Working Notes": ""
+  },
+  "613": {
+    "id": 613,
+    "order": "607.00000000000000000000",
+    "name": "Wittenberg",
+    "tillich_id": "tillich_place_id__613",
+    "geonames_url": "",
+    "Working Notes": ""
   }
 }

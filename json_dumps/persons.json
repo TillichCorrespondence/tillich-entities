@@ -45390,5 +45390,37 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""
+  },
+  "2847": {
+    "id": 2847,
+    "order": "2842.00000000000000000000",
+    "name": "Jordan, Julius",
+    "surname": "Jordan",
+    "forename": "Julius",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2847",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": ""
+  },
+  "2848": {
+    "id": 2848,
+    "order": "2843.00000000000000000000",
+    "name": "Hausrath, Adolf",
+    "surname": "Hausrath",
+    "forename": "Adolf",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/119059517",
+    "tillich_id": "tillich_person_id__2848",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": ""
   }
 }
