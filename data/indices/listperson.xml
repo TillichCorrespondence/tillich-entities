@@ -5853,6 +5853,7 @@
                <person xml:id="tillich_person_id__1696">
                   <persName>Schafft, Hermann</persName>
                   <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
                   <note type="bio"><p>Ab 1903 studierte er Theologie in Halle, Berlin und Tübingen. Er hatte eine frühe und enge Freundschaft zu Paul Tillich. Anschließend an das erste theologische Examen (in Halle) absolvierte er eine Ausbildung zum Taubstummenseelsorger. 1909 legte er das zweite theologische Examen ab. Nach dem Ersten Weltkrieg, den er als freiwilliger Feldpfarrer erlebte, wurde er Pfarrer in Kassel. Ab 1923 war er u.a. gemeinsam mit Emil Blum im religiös-sozialistischen Neuwerkkreis aktiv. 1933 Beurlaubung, 1934 Zwangspensionierung. 1938 konnte Schafft ins Pfarramt zurückkehren, nach 1945 Beteiligung am Wiederaufbau des Schulwesens. 1951 wurde er pensioniert.</p></note>
                </person>
                <person xml:id="tillich_person_id__1697">
@@ -10472,6 +10473,24 @@
                <person xml:id="tillich_person_id__2848">
                   <persName>Hausrath, Adolf</persName>
                   <idno type="gnd">https://d-nb.info/gnd/119059517</idno>
+               </person>
+               <person xml:id="tillich_person_id__2849">
+                  <persName>Eike, D.</persName>
+               </person>
+               <person xml:id="tillich_person_id__2850">
+                  <persName>Sydow, "Minchen"</persName>
+                  <occupation>Tochter Eckhart von Sydow</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2851">
+                  <persName>Rantzau, Heino von</persName>
+               </person>
+               <person xml:id="tillich_person_id__2852">
+                  <persName>Jahnke, Richard</persName>
+                  <occupation>Philologe und Ministerialdirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117066060</idno>
+               </person>
+               <person xml:id="tillich_person_id__2853">
+                  <persName/>
                </person>
             </listPerson>
          </div>
