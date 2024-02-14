@@ -1841,6 +1841,9 @@
                <place xml:id="tillich_place_id__614">
                   <placeName>Godesberg</placeName>
                </place>
+               <place xml:id="tillich_place_id__615">
+                  <placeName>Scheuen</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

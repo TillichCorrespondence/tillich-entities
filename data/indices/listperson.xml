@@ -5523,6 +5523,7 @@
                <person xml:id="tillich_person_id__1600">
                   <persName>Richter, Julius</persName>
                   <occupation>Evangelischer Theologe und Missionswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116512407</idno>
                </person>
                <person xml:id="tillich_person_id__1601">
                   <persName>Richter, Liselotte</persName>
@@ -7790,9 +7791,11 @@
                <person xml:id="tillich_person_id__2181">
                   <persName>Hanffstengel , Georg von</persName>
                   <idno type="gnd">https://d-nb.info/gnd/14373685X</idno>
+                  <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2182">
                   <persName>Hanffstengel, Otto von</persName>
+                  <note type="bio"><p>Bruder von G. v. Hanffstengel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2183">
                   <persName>Bertheau, Hans</persName>
@@ -10490,7 +10493,50 @@
                   <idno type="gnd">https://d-nb.info/gnd/117066060</idno>
                </person>
                <person xml:id="tillich_person_id__2853">
+                  <persName>Utrillo, Maurice</persName>
+                  <occupation>Maler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11862573X</idno>
+                  <note type="bio"><p>Ein französischer Maler und der Sohn von Suzanne Valadon</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2854">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2855">
+                  <persName>Stops, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2856">
+                  <persName>Köhler, Siegfried</persName>
+               </person>
+               <person xml:id="tillich_person_id__2857">
+                  <persName>???, Rahel</persName>
+               </person>
+               <person xml:id="tillich_person_id__2858">
+                  <persName>???, Robert</persName>
+                  <note type="bio"><p>Vgl. L00159</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2859">
+                  <persName>Bertheau, Carl</persName>
+               </person>
+               <person xml:id="tillich_person_id__2860">
+                  <persName>???, Jens</persName>
+               </person>
+               <person xml:id="tillich_person_id__2861">
+                  <persName>???, Martin</persName>
+               </person>
+               <person xml:id="tillich_person_id__2862">
+                  <persName>Wagner, Hermann</persName>
+                  <occupation>Katholischer Gutachter im Blasphemie-Prozess George Grosz'.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2863">
+                  <persName>Bleier, August</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/12431676X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2864">
+                  <persName>Dirks, Walter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118525956</idno>
+               </person>
+               <person xml:id="tillich_person_id__2865">
+                  <persName>Albrecht, Hans</persName>
                </person>
             </listPerson>
          </div>

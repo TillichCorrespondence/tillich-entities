@@ -1654,5 +1654,37 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__210",
     "zotero": ""
+  },
+  "211": {
+    "id": 211,
+    "order": "208.00000000000000000000",
+    "name": "Grillparzer, Friedrich, Des Meeres und der Liebe Wellen: Trauerspiel in fünf Aufzügen. Wien: Daberkow, 1903",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__211",
+    "zotero": ""
+  },
+  "212": {
+    "id": 212,
+    "order": "209.00000000000000000000",
+    "name": "Hašek, Jaroslav, Die Abenteuer des braven Soldaten Schwejk, Reinbek bei Hamburg.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__212",
+    "zotero": ""
+  },
+  "213": {
+    "id": 213,
+    "order": "210.00000000000000000000",
+    "name": "Reuter, Fritz, Ut mine Festungstid, 3. Aufl., Rostock: Hinstorff, 1997.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__213",
+    "zotero": ""
+  },
+  "214": {
+    "id": 214,
+    "order": "211.00000000000000000000",
+    "name": "Aktenstücke aus dem Grosz-Prozeß, in: Neuwerk. Ein Dienst am Werdenden, 12. Jg. (1930/31), 291-309",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__214",
+    "zotero": ""
   }
 }
