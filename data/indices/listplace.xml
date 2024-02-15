@@ -1844,6 +1844,9 @@
                <place xml:id="tillich_place_id__615">
                   <placeName>Scheuen</placeName>
                </place>
+               <place xml:id="tillich_place_id__616">
+                  <placeName>Osternothafen</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

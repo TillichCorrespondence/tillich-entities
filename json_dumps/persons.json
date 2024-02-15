@@ -45694,5 +45694,21 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": "Link zur Biographie (S. 14-19 des PDF): https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjlp_XPsqqEAxX7gP0HHavdAxc4ChAWegQIERAB&url=https%3A%2F%2Fcontent.bautz.de%2Fneuerscheinungen-2007%2Fpdf%2F9783883093987.pdf&usg=AOvVaw3yBfllUwEG9_YNiz0FQ2sD&opi=89978449"
+  },
+  "2866": {
+    "id": 2866,
+    "order": "2861.00000000000000000000",
+    "name": "Schloss",
+    "surname": "Schloss",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2866",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": ""
   }
 }
