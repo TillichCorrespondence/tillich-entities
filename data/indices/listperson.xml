@@ -3056,7 +3056,7 @@
                   <occupation>Pfarrer in Stolberg Rhld, Finkenberg 7</occupation>
                </person>
                <person xml:id="tillich_person_id__875">
-                  <persName>Henning, Hilde</persName>
+                  <persName>Hennig, Hilde</persName>
                </person>
                <person xml:id="tillich_person_id__876">
                   <persName>Henoch</persName>
@@ -10540,6 +10540,20 @@
                </person>
                <person xml:id="tillich_person_id__2866">
                   <persName>Schloss</persName>
+               </person>
+               <person xml:id="tillich_person_id__2867">
+                  <persName>Claassen, Eugen</persName>
+                  <occupation>Verleger</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11852089X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2868">
+                  <persName>Claassen, Hildegard</persName>
+                  <occupation>Kunsthistorikerin, Verlegerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116524774</idno>
+               </person>
+               <person xml:id="tillich_person_id__2869">
+                  <persName>Schmujlow-Claassen, Ria</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118609424</idno>
                </person>
             </listPerson>
          </div>

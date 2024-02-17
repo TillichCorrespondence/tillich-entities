@@ -4878,5 +4878,21 @@
     "tillich_id": "tillich_place_id__616",
     "geonames_url": "",
     "Working Notes": ""
+  },
+  "617": {
+    "id": 617,
+    "order": "611.00000000000000000000",
+    "name": "Johanngeorgenstadt",
+    "tillich_id": "tillich_place_id__617",
+    "geonames_url": "https://www.geonames.org/2894814",
+    "Working Notes": ""
+  },
+  "618": {
+    "id": 618,
+    "order": "612.00000000000000000000",
+    "name": "Rochlitz",
+    "tillich_id": "tillich_place_id__618",
+    "geonames_url": "https://www.geonames.org/2846261",
+    "Working Notes": ""
   }
 }
