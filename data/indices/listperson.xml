@@ -5770,7 +5770,8 @@
                </person>
                <person xml:id="tillich_person_id__1672">
                   <persName>Sachs, Emmy</persName>
-                  <note type="bio"><p>Erwähnt im Reisetagebuch</p></note>
+                  <occupation>Mathematikerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118905430</idno>
                </person>
                <person xml:id="tillich_person_id__1673">
                   <persName>Sahl, Hans</persName>
@@ -10554,6 +10555,13 @@
                <person xml:id="tillich_person_id__2869">
                   <persName>Schmujlow-Claassen, Ria</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118609424</idno>
+               </person>
+               <person xml:id="tillich_person_id__2870">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2871">
+                  <persName>Sachs, Hanns</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/100259723</idno>
                </person>
             </listPerson>
          </div>

@@ -4894,5 +4894,13 @@
     "tillich_id": "tillich_place_id__618",
     "geonames_url": "https://www.geonames.org/2846261",
     "Working Notes": ""
+  },
+  "619": {
+    "id": 619,
+    "order": "613.00000000000000000000",
+    "name": "Küstrin",
+    "tillich_id": "tillich_place_id__619",
+    "geonames_url": "https://www.geonames.org/3095057",
+    "Working Notes": ""
   }
 }
