@@ -939,6 +939,7 @@
                </person>
                <person xml:id="tillich_person_id__243">
                   <persName>Böhme, Jakob</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118512579</idno>
                </person>
                <person xml:id="tillich_person_id__244">
                   <persName>Boleyn, Anne</persName>
@@ -2090,9 +2091,11 @@
                </person>
                <person xml:id="tillich_person_id__588">
                   <persName>Fichte, Immanuel Hermann</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118687018</idno>
                </person>
                <person xml:id="tillich_person_id__589">
                   <persName>Fichte, Johann Gottlieb</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
                </person>
                <person xml:id="tillich_person_id__590">
                   <persName>Fiedler, Bianca</persName>
@@ -2939,6 +2942,7 @@
                </person>
                <person xml:id="tillich_person_id__839">
                   <persName>Hegel, Georg Wilhelm Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                </person>
                <person xml:id="tillich_person_id__840">
                   <persName>Hegesias Peisithanatos</persName>
@@ -4255,9 +4259,11 @@
                <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
                   <occupation>Systematischer Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
                </person>
                <person xml:id="tillich_person_id__1228">
                   <persName>Luther, Martin</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118575449</idno>
                </person>
                <person xml:id="tillich_person_id__1229">
                   <persName>Lüttichau, Wilhelm Victor von</persName>
@@ -4974,6 +4980,8 @@
                </person>
                <person xml:id="tillich_person_id__1438">
                   <persName>Otto, Rudolf</persName>
+                  <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
                </person>
                <person xml:id="tillich_person_id__1439">
                   <persName>Overbeck, Franz</persName>
@@ -5845,6 +5853,8 @@
                </person>
                <person xml:id="tillich_person_id__1693">
                   <persName>Schaeder, Erich</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118606131</idno>
                </person>
                <person xml:id="tillich_person_id__1694">
                   <persName>Schäfer, Wilhelm</persName>
@@ -5911,6 +5921,8 @@
                </person>
                <person xml:id="tillich_person_id__1712">
                   <persName>Schlatter, Adolf</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
                </person>
                <person xml:id="tillich_person_id__1713">
                   <persName>Schlegel, Erich</persName>
@@ -10564,7 +10576,31 @@
                   <idno type="gnd">https://d-nb.info/gnd/100259723</idno>
                </person>
                <person xml:id="tillich_person_id__2872">
-                  <persName>???, Emily</persName>
+                  <persName>Glatzer, Nahum Norbert</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119011085</idno>
+               </person>
+               <person xml:id="tillich_person_id__2873">
+                  <persName>Dingler, Hugo</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11852576X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2874">
+                  <persName>Messer</persName>
+               </person>
+               <person xml:id="tillich_person_id__2875">
+                  <persName>Weinberg, Heinz</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127503412</idno>
+               </person>
+               <person xml:id="tillich_person_id__2876">
+                  <persName>Cassirer, Heinrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/120843676</idno>
+               </person>
+               <person xml:id="tillich_person_id__2877">
+                  <persName>Zerener, Holm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11759637X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2878">
+                  <persName/>
                </person>
             </listPerson>
          </div>

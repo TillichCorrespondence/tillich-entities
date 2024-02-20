@@ -1007,14 +1007,6 @@
     "tillich_id": "tillich_work_id__126",
     "zotero": ""
   },
-  "127": {
-    "id": 127,
-    "order": "127.00000000000000000000",
-    "name": "",
-    "working_note": "",
-    "tillich_id": "tillich_work_id__127",
-    "zotero": ""
-  },
   "128": {
     "id": 128,
     "order": "128.00000000000000000000",
@@ -1727,22 +1719,6 @@
     "tillich_id": "tillich_work_id__219",
     "zotero": ""
   },
-  "220": {
-    "id": 220,
-    "order": "217.00000000000000000000",
-    "name": "",
-    "working_note": "",
-    "tillich_id": "tillich_work_id__220",
-    "zotero": ""
-  },
-  "221": {
-    "id": 221,
-    "order": "218.00000000000000000000",
-    "name": "",
-    "working_note": "",
-    "tillich_id": "tillich_work_id__221",
-    "zotero": ""
-  },
   "223": {
     "id": 223,
     "order": "219.00000000000000000000",
@@ -1821,6 +1797,78 @@
     "name": "Glatzer, Nahum Norbert, Untersuchung zur Geschichtslehre der Tannaiten, 1932.",
     "working_note": "",
     "tillich_id": "tillich_work_id__232",
+    "zotero": ""
+  },
+  "233": {
+    "id": 233,
+    "order": "229.00000000000000000000",
+    "name": "Tillich, Paul, Selbstanzeige Tillichs von \"Hegel und Goethe\", in: Neuigkeiten, J. C. B. Mohr (Paul Siebeck), H. Laupp’sche Buchhandlung 1932, Nr. 2, 14. Mai, 25",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__233",
+    "zotero": ""
+  },
+  "234": {
+    "id": 234,
+    "order": "230.00000000000000000000",
+    "name": "Weinberg, Heinz, Das Geltungsproblem bei Hugo Dingler. Versuch einer Kritik, 1934.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__234",
+    "zotero": ""
+  },
+  "235": {
+    "id": 235,
+    "order": "231.00000000000000000000",
+    "name": "Tillich, Paul, Goethe und die Idee der Klassik, in: Tillich, Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932, 33–48",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__235",
+    "zotero": ""
+  },
+  "236": {
+    "id": 236,
+    "order": "232.00000000000000000000",
+    "name": "Die Erziehung, „Monatsschrift für den Zusammenhang von Kultur und Erziehung in Wissenschaft und Leben“, hg. von Eduard Spranger, Wilhelm Flitner, Theodor Litt, Herman Nohl und Aloys Fischer, 1925-1937.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__236",
+    "zotero": ""
+  },
+  "237": {
+    "id": 237,
+    "order": "233.00000000000000000000",
+    "name": "Hirsch, Emanuel, Luthers Gottesanschauung, Göttingen 1918.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__237",
+    "zotero": ""
+  },
+  "238": {
+    "id": 238,
+    "order": "234.00000000000000000000",
+    "name": "Jaspers, Karl, Psychologie der Weltanschauung, Berlin 1919.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__238",
+    "zotero": ""
+  },
+  "239": {
+    "id": 239,
+    "order": "235.00000000000000000000",
+    "name": "Hirsch, Emanuel, Liebe und Persönlichkeit in, in: Der Geisteskampf der Gegenwart, Monatsschrift für christliche Bildung und Weltanschauung, 54. Jg. (1910), Heft 5, Nr. 17, Sp.167-169 1918, 108-110.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__239",
+    "zotero": ""
+  },
+  "240": {
+    "id": 240,
+    "order": "236.00000000000000000000",
+    "name": "Tillich, Paul: Hegel und Goethe. Zwei Gedenkreden (Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte 158), Tübingen 1932",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__240",
+    "zotero": ""
+  },
+  "241": {
+    "id": 241,
+    "order": "237.00000000000000000000",
+    "name": "Reuter, Fritz, Hanne Nüte un de lütte Pudel, in: Sämmtliche Werke, Bd. 4, hg. v. dems. Wismar, Rostock und Ludwigslust, 1878, S. 1–199.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__241",
     "zotero": ""
   }
 }

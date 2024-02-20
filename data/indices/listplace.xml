@@ -63,7 +63,7 @@
                   <placeName>Assmannshausen</placeName>
                </place>
                <place xml:id="tillich_place_id__16">
-                  <placeName>Augburg</placeName>
+                  <placeName>Augsburg</placeName>
                </place>
                <place xml:id="tillich_place_id__17">
                   <placeName>Autry</placeName>
@@ -176,12 +176,6 @@
                <place xml:id="tillich_place_id__55">
                   <placeName>Bern</placeName>
                </place>
-               <place xml:id="tillich_place_id__53">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__54">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__56">
                   <placeName>Bernkastel</placeName>
                </place>
@@ -191,17 +185,11 @@
                <place xml:id="tillich_place_id__58">
                   <placeName>Bethel</placeName>
                </place>
-               <place xml:id="tillich_place_id__59">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__60">
                   <placeName>Bielefeld</placeName>
                </place>
                <place xml:id="tillich_place_id__61">
                   <placeName>Bieuxy</placeName>
-               </place>
-               <place xml:id="tillich_place_id__62">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__63">
                   <placeName>Bingerbrück</placeName>
@@ -221,14 +209,8 @@
                <place xml:id="tillich_place_id__68">
                   <placeName>Bonn</placeName>
                </place>
-               <place xml:id="tillich_place_id__69">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__70">
                   <placeName>Boston</placeName>
-               </place>
-               <place xml:id="tillich_place_id__71">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__72">
                   <placeName>Bozen</placeName>
@@ -263,18 +245,6 @@
                <place xml:id="tillich_place_id__82">
                   <placeName>Cambridge, MA</placeName>
                </place>
-               <place xml:id="tillich_place_id__83">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__84">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__85">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__86">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__87">
                   <placeName>Cancale</placeName>
                </place>
@@ -290,17 +260,11 @@
                <place xml:id="tillich_place_id__91">
                   <placeName>Champs02670</placeName>
                </place>
-               <place xml:id="tillich_place_id__92">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__93">
                   <placeName>Chantilly</placeName>
                </place>
                <place xml:id="tillich_place_id__94">
                   <placeName>Charleville-Mézières</placeName>
-               </place>
-               <place xml:id="tillich_place_id__95">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__96">
                   <placeName>Charlottenburg</placeName>
@@ -311,14 +275,8 @@
                <place xml:id="tillich_place_id__98">
                   <placeName>Chauny</placeName>
                </place>
-               <place xml:id="tillich_place_id__99">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__100">
                   <placeName>Chavigny02880</placeName>
-               </place>
-               <place xml:id="tillich_place_id__101">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__102">
                   <placeName>Chebrex</placeName>
@@ -356,12 +314,6 @@
                <place xml:id="tillich_place_id__113">
                   <placeName>Crécy-au-Mont</placeName>
                </place>
-               <place xml:id="tillich_place_id__114">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__115">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__116">
                   <placeName>Cuffies02880</placeName>
                </place>
@@ -383,9 +335,6 @@
                <place xml:id="tillich_place_id__122">
                   <placeName>Deutschland</placeName>
                </place>
-               <place xml:id="tillich_place_id__123">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__124">
                   <placeName>Douaumont</placeName>
                </place>
@@ -406,9 +355,6 @@
                </place>
                <place xml:id="tillich_place_id__130">
                   <placeName>Düsseldorf</placeName>
-               </place>
-               <place xml:id="tillich_place_id__131">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__132">
                   <placeName>Eisenach</placeName>
@@ -449,50 +395,8 @@
                <place xml:id="tillich_place_id__144">
                   <placeName>Niederrad</placeName>
                </place>
-               <place xml:id="tillich_place_id__145">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__146">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__147">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__148">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__149">
                   <placeName>Frankfurt an der Oder</placeName>
-               </place>
-               <place xml:id="tillich_place_id__150">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__151">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__152">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__153">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__154">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__155">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__156">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__157">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__158">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__159">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__160">
                   <placeName>Frankfurt/Main/Römerstadt</placeName>
@@ -509,20 +413,8 @@
                <place xml:id="tillich_place_id__164">
                   <placeName>Freiburg</placeName>
                </place>
-               <place xml:id="tillich_place_id__165">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__166">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__167">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__168">
                   <placeName>Freienwalde</placeName>
-               </place>
-               <place xml:id="tillich_place_id__169">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__170">
                   <placeName>Friedrichshagen</placeName>
@@ -541,9 +433,6 @@
                </place>
                <place xml:id="tillich_place_id__175">
                   <placeName>Gießen</placeName>
-               </place>
-               <place xml:id="tillich_place_id__176">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__177">
                   <placeName>Glarnerland</placeName>
@@ -584,29 +473,8 @@
                <place xml:id="tillich_place_id__189">
                   <placeName>Halle (Saale)</placeName>
                </place>
-               <place xml:id="tillich_place_id__190">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__191">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__192">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__193">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__194">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__195">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__196">
                   <placeName>Halle-Gröllwitz</placeName>
-               </place>
-               <place xml:id="tillich_place_id__197">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__198">
                   <placeName>Hamburg</placeName>
@@ -656,9 +524,6 @@
                <place xml:id="tillich_place_id__213">
                   <placeName>Hohen Neuendorf</placeName>
                </place>
-               <place xml:id="tillich_place_id__214">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__215">
                   <placeName>Holzgerlingen</placeName>
                </place>
@@ -680,9 +545,6 @@
                <place xml:id="tillich_place_id__221">
                   <placeName>Jacobsdorf</placeName>
                </place>
-               <place xml:id="tillich_place_id__222">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__223">
                   <placeName>Jade</placeName>
                </place>
@@ -692,26 +554,11 @@
                <place xml:id="tillich_place_id__225">
                   <placeName>Jerusalem</placeName>
                </place>
-               <place xml:id="tillich_place_id__226">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__227">
                   <placeName>Juvigny (Aisne)</placeName>
                </place>
-               <place xml:id="tillich_place_id__228">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__229">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__230">
                   <placeName>Kampen</placeName>
-               </place>
-               <place xml:id="tillich_place_id__231">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__232">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__233">
                   <placeName>Karlsbad</placeName>
@@ -719,14 +566,8 @@
                <place xml:id="tillich_place_id__234">
                   <placeName>Karlsruhe</placeName>
                </place>
-               <place xml:id="tillich_place_id__235">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__236">
                   <placeName>Kassel</placeName>
-               </place>
-               <place xml:id="tillich_place_id__237">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__238">
                   <placeName>Kiel</placeName>
@@ -800,17 +641,8 @@
                <place xml:id="tillich_place_id__261">
                   <placeName>Leuilly-sous-Coucy02380</placeName>
                </place>
-               <place xml:id="tillich_place_id__262">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__263">
                   <placeName>Leury</placeName>
-               </place>
-               <place xml:id="tillich_place_id__264">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__265">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__266">
                   <placeName>Lille</placeName>
@@ -854,18 +686,6 @@
                <place xml:id="tillich_place_id__279">
                   <placeName>Marburg</placeName>
                </place>
-               <place xml:id="tillich_place_id__280">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__281">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__282">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__283">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__284">
                   <placeName>Mark</placeName>
                </place>
@@ -884,9 +704,6 @@
                <place xml:id="tillich_place_id__289">
                   <placeName>Mentone</placeName>
                </place>
-               <place xml:id="tillich_place_id__290">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__291">
                   <placeName>Mesopotamien</placeName>
                </place>
@@ -895,15 +712,6 @@
                </place>
                <place xml:id="tillich_place_id__293">
                   <placeName>Misdroy</placeName>
-               </place>
-               <place xml:id="tillich_place_id__294">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__295">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__296">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__297">
                   <placeName>Mohrin</placeName>
@@ -916,9 +724,6 @@
                </place>
                <place xml:id="tillich_place_id__300">
                   <placeName>Montécouvé (Juvigny)</placeName>
-               </place>
-               <place xml:id="tillich_place_id__301">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__302">
                   <placeName>Moryń</placeName>
@@ -953,17 +758,8 @@
                <place xml:id="tillich_place_id__312">
                   <placeName>Neu Ruppin</placeName>
                </place>
-               <place xml:id="tillich_place_id__313">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__314">
                   <placeName>Neudamm</placeName>
-               </place>
-               <place xml:id="tillich_place_id__315">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__316">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__317">
                   <placeName>Neukölln</placeName>
@@ -973,9 +769,6 @@
                </place>
                <place xml:id="tillich_place_id__319">
                   <placeName>New York</placeName>
-               </place>
-               <place xml:id="tillich_place_id__320">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__321">
                   <placeName>Nimwegen</placeName>
@@ -991,9 +784,6 @@
                </place>
                <place xml:id="tillich_place_id__325">
                   <placeName>Nouvron-Vingré</placeName>
-               </place>
-               <place xml:id="tillich_place_id__326">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__327">
                   <placeName>Nürnberg</placeName>
@@ -1025,21 +815,6 @@
                <place xml:id="tillich_place_id__336">
                   <placeName>Ostpreußen</placeName>
                </place>
-               <place xml:id="tillich_place_id__337">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__338">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__339">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__340">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__341">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__342">
                   <placeName>Pargny</placeName>
                </place>
@@ -1048,9 +823,6 @@
                </place>
                <place xml:id="tillich_place_id__344">
                   <placeName>Pasly02200</placeName>
-               </place>
-               <place xml:id="tillich_place_id__345">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__346">
                   <placeName>Peißnitzinsel</placeName>
@@ -1075,9 +847,6 @@
                </place>
                <place xml:id="tillich_place_id__353">
                   <placeName>Pont-Saint-Mard02380</placeName>
-               </place>
-               <place xml:id="tillich_place_id__354">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__355">
                   <placeName>Porto-Vecchio</placeName>
@@ -1118,17 +887,11 @@
                <place xml:id="tillich_place_id__367">
                   <placeName>Rixdorf/Berlin-Neukölln</placeName>
                </place>
-               <place xml:id="tillich_place_id__368">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__369">
                   <placeName>Rom</placeName>
                </place>
                <place xml:id="tillich_place_id__370">
                   <placeName>Rostock</placeName>
-               </place>
-               <place xml:id="tillich_place_id__371">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__372">
                   <placeName>Rothenburg a. d. Fulda</placeName>
@@ -1145,14 +908,8 @@
                <place xml:id="tillich_place_id__376">
                   <placeName>Russland</placeName>
                </place>
-               <place xml:id="tillich_place_id__377">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__378">
                   <placeName>Rüdesheim am Rhein</placeName>
-               </place>
-               <place xml:id="tillich_place_id__379">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__380">
                   <placeName>Rügen</placeName>
@@ -1169,9 +926,6 @@
                <place xml:id="tillich_place_id__384">
                   <placeName>Saint Malo, Ille-et-Vilaine</placeName>
                </place>
-               <place xml:id="tillich_place_id__385">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__386">
                   <placeName>Saint-Quentin</placeName>
                </place>
@@ -1183,9 +937,6 @@
                </place>
                <place xml:id="tillich_place_id__389">
                   <placeName>Sassnitz (Rügen)</placeName>
-               </place>
-               <place xml:id="tillich_place_id__390">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__391">
                   <placeName>Schildberg</placeName>
@@ -1220,9 +971,6 @@
                <place xml:id="tillich_place_id__401">
                   <placeName>Sils Maria/Engadin</placeName>
                </place>
-               <place xml:id="tillich_place_id__402">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__403">
                   <placeName>Soest</placeName>
                </place>
@@ -1250,9 +998,6 @@
                <place xml:id="tillich_place_id__411">
                   <placeName>St. Pauli (Hamburg)</placeName>
                </place>
-               <place xml:id="tillich_place_id__412">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__413">
                   <placeName>Starzeddel</placeName>
                </place>
@@ -1277,12 +1022,6 @@
                <place xml:id="tillich_place_id__420">
                   <placeName>Stuttgart</placeName>
                </place>
-               <place xml:id="tillich_place_id__421">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__422">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__423">
                   <placeName>Sulden</placeName>
                </place>
@@ -1301,9 +1040,6 @@
                <place xml:id="tillich_place_id__428">
                   <placeName>Tancourt02200</placeName>
                </place>
-               <place xml:id="tillich_place_id__429">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__430">
                   <placeName>Taormina</placeName>
                </place>
@@ -1312,9 +1048,6 @@
                </place>
                <place xml:id="tillich_place_id__432">
                   <placeName>Tartiers02290</placeName>
-               </place>
-               <place xml:id="tillich_place_id__433">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__434">
                   <placeName>Teltow</placeName>
@@ -1346,35 +1079,17 @@
                <place xml:id="tillich_place_id__443">
                   <placeName>Trotha/Halle a.S.</placeName>
                </place>
-               <place xml:id="tillich_place_id__444">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__445">
                   <placeName>Trouville sur Mer</placeName>
                </place>
-               <place xml:id="tillich_place_id__446">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__447">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__448">
                   <placeName>Tübingen</placeName>
-               </place>
-               <place xml:id="tillich_place_id__449">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__450">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__451">
                   <placeName>Ubbedissen</placeName>
                </place>
                <place xml:id="tillich_place_id__452">
                   <placeName>Ulm</placeName>
-               </place>
-               <place xml:id="tillich_place_id__453">
-                  <placeName>Utrillo</placeName>
                </place>
                <place xml:id="tillich_place_id__454">
                   <placeName>Valenciennes</placeName>
@@ -1388,17 +1103,11 @@
                <place xml:id="tillich_place_id__457">
                   <placeName>Vauxrezis02200</placeName>
                </place>
-               <place xml:id="tillich_place_id__458">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__459">
                   <placeName>Verdun</placeName>
                </place>
                <place xml:id="tillich_place_id__460">
                   <placeName>Villers la Fosse02200</placeName>
-               </place>
-               <place xml:id="tillich_place_id__461">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__462">
                   <placeName>Visp</placeName>
@@ -1457,44 +1166,20 @@
                <place xml:id="tillich_place_id__480">
                   <placeName>Zürich</placeName>
                </place>
-               <place xml:id="tillich_place_id__481">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__482">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__483">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__484">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__485">
                   <placeName>Platzhalter in</placeName>
                </place>
                <place xml:id="tillich_place_id__486">
                   <placeName>Épagny02290</placeName>
                </place>
-               <place xml:id="tillich_place_id__487">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__488">
                   <placeName>Świnoujście</placeName>
-               </place>
-               <place xml:id="tillich_place_id__489">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__490">
                   <placeName>Darmstadt-Eberstadt</placeName>
                </place>
                <place xml:id="tillich_place_id__494">
                   <placeName>Rotenburg</placeName>
-               </place>
-               <place xml:id="tillich_place_id__495">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__496">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__497">
                   <placeName>Sankt Moritz</placeName>
@@ -1532,9 +1217,6 @@
                <place xml:id="tillich_place_id__508">
                   <placeName>Niendorf</placeName>
                </place>
-               <place xml:id="tillich_place_id__509">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__511">
                   <placeName>Rosenheim</placeName>
                </place>
@@ -1555,9 +1237,6 @@
                </place>
                <place xml:id="tillich_place_id__517">
                   <placeName>Sellin</placeName>
-               </place>
-               <place xml:id="tillich_place_id__518">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__519">
                   <placeName>Bouconville</placeName>
@@ -1590,7 +1269,7 @@
                   <placeName>Zuiderzee</placeName>
                </place>
                <place xml:id="tillich_place_id__529">
-                  <placeName>Bad Ferienwalde</placeName>
+                  <placeName>Bad Freienwalde</placeName>
                </place>
                <place xml:id="tillich_place_id__530">
                   <placeName>Dortmund</placeName>
@@ -1610,12 +1289,6 @@
                <place xml:id="tillich_place_id__535">
                   <placeName>Hiddensee</placeName>
                </place>
-               <place xml:id="tillich_place_id__536">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__537">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__538">
                   <placeName>Piaseczno</placeName>
                </place>
@@ -1634,9 +1307,6 @@
                <place xml:id="tillich_place_id__543">
                   <placeName>Weimar</placeName>
                </place>
-               <place xml:id="tillich_place_id__544">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__545">
                   <placeName>Ravenstein i. P.</placeName>
                </place>
@@ -1649,14 +1319,8 @@
                <place xml:id="tillich_place_id__549">
                   <placeName>Nauen</placeName>
                </place>
-               <place xml:id="tillich_place_id__550">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__551">
                   <placeName>Birkenweder</placeName>
-               </place>
-               <place xml:id="tillich_place_id__552">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__553">
                   <placeName>Rügenwaldermünde</placeName>
@@ -1679,9 +1343,6 @@
                <place xml:id="tillich_place_id__559">
                   <placeName>Lindtorf</placeName>
                </place>
-               <place xml:id="tillich_place_id__560">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__561">
                   <placeName>Bad Doberan</placeName>
                </place>
@@ -1703,9 +1364,6 @@
                <place xml:id="tillich_place_id__567">
                   <placeName>Greiz</placeName>
                </place>
-               <place xml:id="tillich_place_id__568">
-                  <placeName>Mengelberg</placeName>
-               </place>
                <place xml:id="tillich_place_id__569">
                   <placeName>Gera</placeName>
                </place>
@@ -1717,9 +1375,6 @@
                </place>
                <place xml:id="tillich_place_id__572">
                   <placeName>Blankenese</placeName>
-               </place>
-               <place xml:id="tillich_place_id__573">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__574">
                   <placeName>Altona</placeName>
@@ -1778,9 +1433,6 @@
                <place xml:id="tillich_place_id__592">
                   <placeName>Passau</placeName>
                </place>
-               <place xml:id="tillich_place_id__593">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__594">
                   <placeName>Stargard</placeName>
                </place>
@@ -1793,17 +1445,11 @@
                <place xml:id="tillich_place_id__597">
                   <placeName>Gotha</placeName>
                </place>
-               <place xml:id="tillich_place_id__598">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__599">
                   <placeName>Haferungen</placeName>
                </place>
                <place xml:id="tillich_place_id__600">
                   <placeName>Bredow</placeName>
-               </place>
-               <place xml:id="tillich_place_id__601">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__602">
                   <placeName>Havelberg</placeName>
@@ -1832,9 +1478,6 @@
                <place xml:id="tillich_place_id__610">
                   <placeName>Essen</placeName>
                </place>
-               <place xml:id="tillich_place_id__611">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__613">
                   <placeName>Wittenberg</placeName>
                </place>
@@ -1855,6 +1498,9 @@
                </place>
                <place xml:id="tillich_place_id__619">
                   <placeName>Küstrin</placeName>
+               </place>
+               <place xml:id="tillich_place_id__620">
+                  <placeName>Brunnen</placeName>
                </place>
             </listPlace>
          </div>
