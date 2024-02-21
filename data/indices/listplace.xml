@@ -1502,6 +1502,15 @@
                <place xml:id="tillich_place_id__620">
                   <placeName>Brunnen</placeName>
                </place>
+               <place xml:id="tillich_place_id__621">
+                  <placeName>Nienstädten</placeName>
+               </place>
+               <place xml:id="tillich_place_id__622">
+                  <placeName>Heide</placeName>
+               </place>
+               <place xml:id="tillich_place_id__623">
+                  <placeName>Witzenhausen</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

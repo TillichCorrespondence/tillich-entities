@@ -8499,7 +8499,7 @@
                   <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2349">
-                  <persName>Behrens, ???</persName>
+                  <persName>Behrens, Johann</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1034730894</idno>
                   <note type="bio"><p>Er war ein Erlanger Wingolfit.</p></note>
                </person>
@@ -10601,6 +10601,38 @@
                </person>
                <person xml:id="tillich_person_id__2878">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2879">
+                  <persName>Eisenmann, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2880">
+                  <persName>Pfeiffer, Suzanne</persName>
+                  <note type="bio"><p>Spätere Frau von Erich Pfeiffer</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2881">
+                  <persName>Schetelig, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2882">
+                  <persName>Schubert, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2883">
+                  <persName>Aée</persName>
+               </person>
+               <person xml:id="tillich_person_id__2884">
+                  <persName>Käthe</persName>
+               </person>
+               <person xml:id="tillich_person_id__2885">
+                  <persName>Leese, Minna</persName>
+                  <occupation>Gattin Kurt Leeses</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2886">
+                  <persName>Behrens, Herr</persName>
+               </person>
+               <person xml:id="tillich_person_id__2887">
+                  <persName>Behrens, Frau</persName>
+               </person>
+               <person xml:id="tillich_person_id__2888">
+                  <persName>???, Dieter</persName>
                </person>
             </listPerson>
          </div>

@@ -3958,5 +3958,29 @@
     "tillich_id": "tillich_place_id__620",
     "geonames_url": "",
     "Working Notes": "Vgl. L00184: Eine Tante reiste von dort nach Interlaken"
+  },
+  "621": {
+    "id": 621,
+    "order": "615.00000000000000000000",
+    "name": "Nienstädten",
+    "tillich_id": "tillich_place_id__621",
+    "geonames_url": "https://www.geonames.org/2862539/nienstedt.html",
+    "Working Notes": ""
+  },
+  "622": {
+    "id": 622,
+    "order": "616.00000000000000000000",
+    "name": "Heide",
+    "tillich_id": "tillich_place_id__622",
+    "geonames_url": "https://www.geonames.org/2908032/heide.html",
+    "Working Notes": ""
+  },
+  "623": {
+    "id": 623,
+    "order": "617.00000000000000000000",
+    "name": "Witzenhausen",
+    "tillich_id": "tillich_place_id__623",
+    "geonames_url": "https://www.geonames.org/2807184",
+    "Working Notes": ""
   }
 }
