@@ -100,7 +100,6 @@
                </person>
                <person xml:id="tillich_person_id__20">
                   <persName>Aiken, Newton</persName>
-                  <occupation>editor of Baltimore's Evening Sun?</occupation>
                </person>
                <person xml:id="tillich_person_id__21">
                   <persName>Ainesidemos</persName>
@@ -421,7 +420,6 @@
                </person>
                <person xml:id="tillich_person_id__99">
                   <persName>Auersperg, Hilda</persName>
-                  <occupation>Hilda de Rothschild-Auersperg? (Hildegard (Hilda) Karolina Johanna Maria von Auersperg)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116377593</idno>
                </person>
                <person xml:id="tillich_person_id__100">
@@ -1180,7 +1178,6 @@
                </person>
                <person xml:id="tillich_person_id__315">
                   <persName>Bülau, Thea</persName>
-                  <occupation>Thea Tillich-Bülau</occupation>
                </person>
                <person xml:id="tillich_person_id__316">
                   <persName>Bull, Evelyn</persName>
@@ -1921,7 +1918,6 @@
                </person>
                <person xml:id="tillich_person_id__539">
                   <persName>Erdmann, Gerda</persName>
-                  <occupation>Ich glaube, dass sie umgekehrt "Erdmann" geboren ist und "Wittkowski" geheiratet. Siehe 1913.04.10. Erdmann, G. an Tillich, P.</occupation>
                </person>
                <person xml:id="tillich_person_id__540">
                   <persName>Erdmann, Benno</persName>
@@ -2021,7 +2017,6 @@
                </person>
                <person xml:id="tillich_person_id__568">
                   <persName>Falk, Karl</persName>
-                  <occupation>?</occupation>
                </person>
                <person xml:id="tillich_person_id__569">
                   <persName>Falkenberg-Liefrinck, Liv</persName>
@@ -2030,7 +2025,7 @@
                </person>
                <person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
-                  <occupation>Tochter</occupation>
+                  <occupation>Tochter von Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__571">
                   <persName>Farris, Madeleine</persName>
@@ -2732,7 +2727,7 @@
                </person>
                <person xml:id="tillich_person_id__776">
                   <persName>Halverson, William</persName>
-                  <occupation>Philosoph?</occupation>
+                  <occupation>Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__777">
                   <persName>Hamann, Anneliese</persName>
@@ -4937,7 +4932,6 @@
                </person>
                <person xml:id="tillich_person_id__1425">
                   <persName>Oppenheimer, Ludwig</persName>
-                  <occupation>Student Tillichs?</occupation>
                </person>
                <person xml:id="tillich_person_id__1426">
                   <persName>Oppenheimer, Franz</persName>
@@ -5955,7 +5949,6 @@
                </person>
                <person xml:id="tillich_person_id__1722">
                   <persName>Schmidt, Johann</persName>
-                  <occupation>???</occupation>
                </person>
                <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
@@ -6463,7 +6456,6 @@
                </person>
                <person xml:id="tillich_person_id__1859">
                   <persName>Stewart, Ann C.</persName>
-                  <occupation>???</occupation>
                </person>
                <person xml:id="tillich_person_id__1860">
                   <persName>Sthamer, Margarete</persName>
@@ -7017,7 +7009,6 @@
                </person>
                <person xml:id="tillich_person_id__1993">
                   <persName>Viergatz, Ella</persName>
-                  <occupation>Mann: Paul Viergatz?</occupation>
                </person>
                <person xml:id="tillich_person_id__1994">
                   <persName>Vierkandt, Alfred</persName>
@@ -7066,7 +7057,6 @@
                </person>
                <person xml:id="tillich_person_id__2005">
                   <persName>Volckmar, F.</persName>
-                  <occupation>Erwähnt in: "1932.05.13. Volckmar, F an Tillich, P"</occupation>
                </person>
                <person xml:id="tillich_person_id__2006">
                   <persName>Vollmer, Antje</persName>
@@ -10366,7 +10356,6 @@
                </person>
                <person xml:id="tillich_person_id__2812">
                   <persName>Fricke, Uli</persName>
-                  <occupation>eventuell identisch mit 2560</occupation>
                </person>
                <person xml:id="tillich_person_id__2813">
                   <persName/>
@@ -10633,6 +10622,53 @@
                </person>
                <person xml:id="tillich_person_id__2888">
                   <persName>???, Dieter</persName>
+               </person>
+               <person xml:id="tillich_person_id__2889">
+                  <persName>???, Kera</persName>
+               </person>
+               <person xml:id="tillich_person_id__2890">
+                  <persName>Bergner, Elisabeth</persName>
+                  <occupation>Schauspielerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11850956X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2891">
+                  <persName>Hamburger, Margarete</persName>
+                  <occupation>Mutter von Hans Hamburger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2892">
+                  <persName>Jessen, ???</persName>
+                  <occupation>Mutter von Malla Jessen, Gattin des Kunsthistorikers Peter Jessen.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2893">
+                  <persName>Eberts, Frau</persName>
+               </person>
+               <person xml:id="tillich_person_id__2894">
+                  <persName>Rhotert, Hans</persName>
+                  <occupation>Ethnologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1020607351</idno>
+               </person>
+               <person xml:id="tillich_person_id__2895">
+                  <persName>von den Steinen, Helmut</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117251909</idno>
+               </person>
+               <person xml:id="tillich_person_id__2896">
+                  <persName>Wieschhoff, Heinrich "Heinz"</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/12407216X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2897">
+                  <persName>Frobenius, Editha</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1064189253</idno>
+               </person>
+               <person xml:id="tillich_person_id__2898">
+                  <persName>Ullstein Verlag</persName>
+               </person>
+               <person xml:id="tillich_person_id__2899">
+                  <persName>Ad. v. Rantzau</persName>
+                  <note type="bio"><p>Hierbei handelt es sich evtl. um Heino Erwin Georg Ernst Karl von Rantzau.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2900">
+                  <persName>Bewohnerinnen und Bewohner des "Haus auf dem Küssel"</persName>
+                  <note type="bio"><p>Lily und Fritz Pincus sowie Claire und Günther Löwenfeld</p></note>
                </person>
             </listPerson>
          </div>

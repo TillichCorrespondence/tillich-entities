@@ -3982,5 +3982,13 @@
     "tillich_id": "tillich_place_id__623",
     "geonames_url": "https://www.geonames.org/2807184",
     "Working Notes": ""
+  },
+  "624": {
+    "id": 624,
+    "order": "618.00000000000000000000",
+    "name": "Lago Maggiore",
+    "tillich_id": "tillich_place_id__624",
+    "geonames_url": "https://www.geonames.org/2659792",
+    "Working Notes": ""
   }
 }

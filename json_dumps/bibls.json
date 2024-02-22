@@ -298,7 +298,7 @@
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "name": "Tillich, Paul (Hg.), Kairos. Zur Geisteslage und Geisteswendung, Darmstadt 1926.",
+    "name": "Tillich, Paul (Hg.): Kairos. 1ter Band: Zur Geisteslage und Geisteswendung, Darmstadt Otto Reichl Verlag 1926",
     "working_note": "",
     "tillich_id": "tillich_work_id__38",
     "zotero": ""
@@ -1877,6 +1877,46 @@
     "name": "Heim, Karl, Das Weltbild der Zukunft. Eine Auseinandersetzung zwischen Philosophie, Naturwissenschaft und Theologie, 1904",
     "working_note": "",
     "tillich_id": "tillich_work_id__242",
+    "zotero": ""
+  },
+  "243": {
+    "id": 243,
+    "order": "239.00000000000000000000",
+    "name": "Tillich, Paul, Der Staatsbegriff in Augustins \"De Civitate Dei\", in: ders., Religiöse Verwirklichung, Berlin 1930, 233-252.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__243",
+    "zotero": ""
+  },
+  "244": {
+    "id": 244,
+    "order": "240.00000000000000000000",
+    "name": "Tillich, Paul (hg.): Kairos. 2ter Band:  Protestantismus als Kritik und Gestaltung, Darmstadt Otto Reichl Verlag 1929",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__244",
+    "zotero": ""
+  },
+  "245": {
+    "id": 245,
+    "order": "241.00000000000000000000",
+    "name": "Adorno, Theodor W., Kierkegaard. Konstruktion des Ästhetischen. Beiträge zur Philosophie und ihrer Geschichte, Bd. 2. Tübingen 1933",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__245",
+    "zotero": ""
+  },
+  "246": {
+    "id": 246,
+    "order": "242.00000000000000000000",
+    "name": "Medicus, Fritz: Wilhelm Windelband: Grundriss der philosophischen Wissenschaften - Einleitung in die Philosophie\" 1914",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__246",
+    "zotero": ""
+  },
+  "247": {
+    "id": 247,
+    "order": "243.00000000000000000000",
+    "name": "Frobenius, Leo, Kulturgeschichte Afrikas. Prolegomena zu einer historischen Gestaltlehre, Zürich 1933.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__247",
     "zotero": ""
   }
 }
