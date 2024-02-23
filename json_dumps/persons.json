@@ -46254,5 +46254,53 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""
+  },
+  "2901": {
+    "id": 2901,
+    "order": "2896.00000000000000000000",
+    "name": "Kube (unsichere Lesart)",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2901",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "nicht ermittelt; L01204"
+  },
+  "2902": {
+    "id": 2902,
+    "order": "2897.00000000000000000000",
+    "name": "Erich August Wilhelm (unsichere Lesart)",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2902",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "nicht ermittelt; L01204"
+  },
+  "2903": {
+    "id": 2903,
+    "order": "2898.00000000000000000000",
+    "name": "Herr von W. (unsichere Lesart)",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2903",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "nicht ermittelt; L01204"
   }
 }

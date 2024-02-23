@@ -10670,6 +10670,15 @@
                   <persName>Bewohnerinnen und Bewohner des "Haus auf dem Küssel"</persName>
                   <note type="bio"><p>Lily und Fritz Pincus sowie Claire und Günther Löwenfeld</p></note>
                </person>
+               <person xml:id="tillich_person_id__2901">
+                  <persName>Kube (unsichere Lesart)</persName>
+               </person>
+               <person xml:id="tillich_person_id__2902">
+                  <persName>Erich August Wilhelm (unsichere Lesart)</persName>
+               </person>
+               <person xml:id="tillich_person_id__2903">
+                  <persName>Herr von W. (unsichere Lesart)</persName>
+               </person>
             </listPerson>
          </div>
       </body>
