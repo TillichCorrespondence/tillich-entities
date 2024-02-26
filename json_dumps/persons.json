@@ -46302,5 +46302,21 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": "nicht ermittelt; L01204"
+  },
+  "2904": {
+    "id": 2904,
+    "order": "2899.00000000000000000000",
+    "name": "",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2904",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": ""
   }
 }
