@@ -10682,6 +10682,36 @@
                <person xml:id="tillich_person_id__2904">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__2905">
+                  <persName>Fritz, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2906">
+                  <persName>Mezger, Paul</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117012432</idno>
+               </person>
+               <person xml:id="tillich_person_id__2907">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2908">
+                  <persName>Meinhof, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__2909">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2910">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2911">
+                  <persName>Schubert, Hans von</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/104066598</idno>
+               </person>
+               <person xml:id="tillich_person_id__2912">
+                  <persName>Pritschow</persName>
+               </person>
+               <person xml:id="tillich_person_id__2913">
+                  <persName>Magnif, Sr</persName>
+               </person>
             </listPerson>
          </div>
       </body>

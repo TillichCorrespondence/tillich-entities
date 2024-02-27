@@ -4006,5 +4006,13 @@
     "tillich_id": "tillich_place_id__626",
     "geonames_url": "https://www.geonames.org/734077/thessaloniki.html",
     "Working Notes": ""
+  },
+  "627": {
+    "id": 627,
+    "order": "621.00000000000000000000",
+    "name": "Meisdorf",
+    "tillich_id": "tillich_place_id__627",
+    "geonames_url": "https://www.geonames.org/2872192/meisdorf.html",
+    "Working Notes": ""
   }
 }

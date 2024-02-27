@@ -1520,6 +1520,9 @@
                <place xml:id="tillich_place_id__626">
                   <placeName>Thessaloniki</placeName>
                </place>
+               <place xml:id="tillich_place_id__627">
+                  <placeName>Meisdorf</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
