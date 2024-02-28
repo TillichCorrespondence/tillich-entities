@@ -10214,7 +10214,8 @@
                   <occupation>Theologe;</occupation>
                </person>
                <person xml:id="tillich_person_id__2772">
-                  <persName>Dr. Farke</persName>
+                  <persName>Farke, ???</persName>
+                  <note type="bio"><p>Er hatte eine Doktortitel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2773">
                   <persName/>
@@ -10224,7 +10225,7 @@
                </person>
                <person xml:id="tillich_person_id__2775">
                   <persName>Gottschow, Erna</persName>
-                  <note type="bio"><p>Verwandte von Albert Gottschow</p></note>
+                  <note type="bio"><p>Sie war eine Verwandte von Albert Gottschow.</p></note>
                </person>
                <person xml:id="tillich_person_id__2776">
                   <persName>Storch, Lotte</persName>
@@ -10233,43 +10234,44 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2778">
-                  <persName>nora m.</persName>
+                  <persName>M., Nora</persName>
                </person>
                <person xml:id="tillich_person_id__2779">
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2780">
-                  <persName>Bussian</persName>
+                  <persName>???, Bussian</persName>
                </person>
                <person xml:id="tillich_person_id__2781">
-                  <persName>Knut Hamsun</persName>
+                  <persName>Hamsun, Knut</persName>
                </person>
                <person xml:id="tillich_person_id__2782">
-                  <persName>Rudolf, ???</persName>
+                  <persName>???, Rudolf</persName>
                </person>
                <person xml:id="tillich_person_id__2783">
                   <persName>Held, Käthe</persName>
                </person>
                <person xml:id="tillich_person_id__2784">
-                  <persName>Hessling, Frau?</persName>
+                  <persName>Hessling, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__2785">
-                  <persName>Heimbach, Familie?</persName>
+                  <persName>Heimbach, (Familie)</persName>
                </person>
                <person xml:id="tillich_person_id__2786">
-                  <persName>Knak, Familie?</persName>
+                  <persName>Knak, (Familie)</persName>
                </person>
                <person xml:id="tillich_person_id__2787">
                   <persName>Balke, Franz</persName>
                </person>
                <person xml:id="tillich_person_id__2788">
                   <persName>Anders, Fritz</persName>
-                  <occupation>Religionslehrer, Pfarrer. Studium in Bonn.</occupation>
+                  <occupation>Religionslehrer; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1024593517</idno>
+                  <note type="bio"><p>Er studierte in Bonn.</p></note>
                </person>
                <person xml:id="tillich_person_id__2789">
                   <persName>Anders, Fritz</persName>
-                  <occupation>Schriftsteller</occupation>
+                  <occupation>Schriftsteller;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1164503693</idno>
                </person>
                <person xml:id="tillich_person_id__2790">
@@ -10277,16 +10279,17 @@
                </person>
                <person xml:id="tillich_person_id__2791">
                   <persName>Klein, Linda</persName>
-                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
+                  <note type="bio"><p>Sie war die Schwester von Maria Klein/Rhine.</p></note>
                </person>
                <person xml:id="tillich_person_id__2792">
-                  <persName>Rhine</persName>
-                  <occupation>Mann von Maria Klein (Rhine)</occupation>
+                  <persName>Rhine, ???</persName>
+                  <note type="bio"><p>Er war der Mann von Maria Klein/Rhine.</p></note>
                </person>
                <person xml:id="tillich_person_id__2793">
                   <persName>Jellinghaus, Paul</persName>
-                  <occupation>Bibelschule und Erholungsheim Dr. Paul Jellinghaus. Wilhelmsdorf, bei Brandenburg a.H.</occupation>
+                  <occupation>Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127733124</idno>
+                  <note type="bio"><p>Die Bibelschule bzw. das Erholungsheim "Dr. Paul Jellinghaus" steht im Zusammenhang mit seiner missionarischen Aktivität.</p></note>
                </person>
                <person xml:id="tillich_person_id__2794">
                   <persName>Lenchen, Tante</persName>
@@ -10296,34 +10299,37 @@
                </person>
                <person xml:id="tillich_person_id__2796">
                   <persName>Trotzki, Leo</persName>
-                  <occupation>Politiker; Kommunist</occupation>
+                  <occupation>Politiker; Kommunist;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118642979</idno>
                </person>
                <person xml:id="tillich_person_id__2797">
                   <persName>Verhaeren, Emile</persName>
-                  <occupation>Schriftsteller; Dramatiker</occupation>
+                  <occupation>Schriftsteller; Dramatiker;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118768085</idno>
                </person>
                <person xml:id="tillich_person_id__2798">
-                  <persName>Kalina</persName>
-                  <occupation>Oberapotheker</occupation>
+                  <persName>Kalina, ???</persName>
+                  <occupation>Oberapotheker;</occupation>
                </person>
                <person xml:id="tillich_person_id__2799">
-                  <persName>Steuerrat Tillich</persName>
+                  <persName>(Steuerrat), Tillich</persName>
                </person>
                <person xml:id="tillich_person_id__2800">
-                  <persName>Mohn</persName>
-                  <occupation>Leibfux von Hans Balke (Stand: SoSe07)</occupation>
+                  <persName>Mohn, ???</persName>
+                  <note type="bio"><p>Er war der Leibfux von Hans Balke.</p></note>
                </person>
                <person xml:id="tillich_person_id__2801">
                   <persName>Hoelscher, Gustav</persName>
-                  <occupation>Dekan der Evangelischen Theologie an der Universität Marburg</occupation>
+                  <occupation>Dekan;</occupation>
+                  <note type="bio"><p>Er wirkte als Dekan der evangelischen Theologie an der Universität Marburg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2802">
-                  <persName>Dr. Friedrich Gain</persName>
+                  <persName>Gain, Friedrich</persName>
+                  <note type="bio"><p>Er hatte einen Doktortitel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2803">
-                  <persName>Professor Kestenberg</persName>
+                  <persName>Kestenberg, ???</persName>
+                  <occupation>Professor;</occupation>
                </person>
                <person xml:id="tillich_person_id__2804">
                   <persName>Ilse-Margot</persName>
@@ -10333,26 +10339,26 @@
                </person>
                <person xml:id="tillich_person_id__2806">
                   <persName>Hanffstengel, Theodor von</persName>
-                  <occupation>Evangelischer Theologe, Pfarrer. Vermutlich Vater von Gottfried von Hanffstengel</occupation>
+                  <occupation>Theologe; Pfarrer;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
+                  <note type="bio"><p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2807">
                   <persName>Burger, Fritz</persName>
-                  <occupation>Kunsthistoriker</occupation>
+                  <occupation>Kunsthistoriker;</occupation>
                </person>
                <person xml:id="tillich_person_id__2808">
                   <persName>Ignatius von Loyola</persName>
                </person>
                <person xml:id="tillich_person_id__2809">
-                  <persName>Apelius</persName>
-                  <occupation>geb. Erbslöb, Frau von Wegener</occupation>
+                  <persName>Apelius, Hildegard</persName>
+                  <note type="bio"><p>Sie war eine geborene Erbslöb und die Frau von Wegener.</p></note>
                </person>
                <person xml:id="tillich_person_id__2810">
                   <persName>Dox</persName>
                </person>
                <person xml:id="tillich_person_id__2811">
-                  <persName>Alfred</persName>
-                  <occupation>Schwager</occupation>
+                  <persName>???, Alfred</persName>
                </person>
                <person xml:id="tillich_person_id__2812">
                   <persName>Fricke, Uli</persName>
@@ -10361,20 +10367,20 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2814">
-                  <persName>Ziegler</persName>
-                  <occupation>Philosoph</occupation>
+                  <persName>Ziegler, ???</persName>
+                  <occupation>Philosoph;</occupation>
                </person>
                <person xml:id="tillich_person_id__2815">
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2816">
-                  <persName>Frau Stern</persName>
+                  <persName>Stern, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2817">
                   <persName>Tovote, Heinz</persName>
                </person>
                <person xml:id="tillich_person_id__2818">
-                  <persName>Schillbach</persName>
+                  <persName>Schillbach, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2819">
                   <persName/>
@@ -10386,12 +10392,12 @@
                   <persName>Immow, Gertrud</persName>
                </person>
                <person xml:id="tillich_person_id__2822">
-                  <persName>Brahms</persName>
-                  <occupation>Komponist</occupation>
+                  <persName>Brahms, Johannes</persName>
+                  <occupation>Komponist;</occupation>
                </person>
                <person xml:id="tillich_person_id__2823">
-                  <persName>Egli</persName>
-                  <occupation>Maler</occupation>
+                  <persName>Egli, ???</persName>
+                  <occupation>Maler;</occupation>
                </person>
                <person xml:id="tillich_person_id__2824">
                   <persName>Chopin, Frederic</persName>
@@ -10408,11 +10414,11 @@
                </person>
                <person xml:id="tillich_person_id__2828">
                   <persName>Tillich, Karl</persName>
-                  <note type="bio"><p>Vetter von Paul Tillich</p></note>
+                  <note type="bio"><p>Er war ein Vetter von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2829">
                   <persName>Mahling, ???</persName>
-                  <occupation>Professor</occupation>
+                  <occupation>Professor;</occupation>
                </person>
                <person xml:id="tillich_person_id__2830">
                   <persName>Kleedehe, ???</persName>
@@ -10425,18 +10431,18 @@
                </person>
                <person xml:id="tillich_person_id__2833">
                   <persName>Kögel, ???</persName>
-                  <occupation>Professor</occupation>
+                  <occupation>Professor;</occupation>
                </person>
                <person xml:id="tillich_person_id__2834">
                   <persName>Weiß, Bernhard</persName>
-                  <occupation>Evangelischer Theologe</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
                </person>
                <person xml:id="tillich_person_id__2835">
-                  <persName>Prof. Grassmann</persName>
+                  <persName>Grassmann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2836">
-                  <persName>Prof. Beissmann</persName>
+                  <persName>Beissmann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2837">
                   <persName/>
@@ -10446,7 +10452,7 @@
                </person>
                <person xml:id="tillich_person_id__2839">
                   <persName>Forberg, Friedrich Karl</persName>
-                  <occupation>Philosoph</occupation>
+                  <occupation>Philosoph;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119059479</idno>
                </person>
                <person xml:id="tillich_person_id__2840">
@@ -10460,7 +10466,7 @@
                </person>
                <person xml:id="tillich_person_id__2843">
                   <persName>Hartmann, Martin</persName>
-                  <occupation>Orientalist</occupation>
+                  <occupation>Orientalist;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119120828</idno>
                </person>
                <person xml:id="tillich_person_id__2844">
@@ -10483,22 +10489,22 @@
                   <persName>Eike, D.</persName>
                </person>
                <person xml:id="tillich_person_id__2850">
-                  <persName>Sydow, "Minchen"</persName>
-                  <occupation>Tochter Eckhart von Sydow</occupation>
+                  <persName>Sydow, Minchen</persName>
+                  <note type="bio"><p>Sie war die Tochter von Eckhart von Sydow.</p></note>
                </person>
                <person xml:id="tillich_person_id__2851">
                   <persName>Rantzau, Heino von</persName>
                </person>
                <person xml:id="tillich_person_id__2852">
                   <persName>Jahnke, Richard</persName>
-                  <occupation>Philologe und Ministerialdirektor</occupation>
+                  <occupation>Philologe; Ministerialdirektor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117066060</idno>
                </person>
                <person xml:id="tillich_person_id__2853">
                   <persName>Utrillo, Maurice</persName>
-                  <occupation>Maler</occupation>
+                  <occupation>Maler;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11862573X</idno>
-                  <note type="bio"><p>Ein französischer Maler und der Sohn von Suzanne Valadon</p></note>
+                  <note type="bio"><p>Er war ein französischer Maler und der Sohn von Suzanne Valadon.</p></note>
                </person>
                <person xml:id="tillich_person_id__2854">
                   <persName/>
@@ -10514,7 +10520,6 @@
                </person>
                <person xml:id="tillich_person_id__2858">
                   <persName>???, Robert</persName>
-                  <note type="bio"><p>Vgl. L00159</p></note>
                </person>
                <person xml:id="tillich_person_id__2859">
                   <persName>Bertheau, Carl</persName>
@@ -10527,7 +10532,8 @@
                </person>
                <person xml:id="tillich_person_id__2862">
                   <persName>Wagner, Hermann</persName>
-                  <occupation>Katholischer Gutachter im Blasphemie-Prozess George Grosz'.</occupation>
+                  <occupation>Pfarrer;</occupation>
+                  <note type="bio"><p>Er wirkte als katholischer Gutachter im Blasphemie-Prozess George Grosz'.</p></note>
                </person>
                <person xml:id="tillich_person_id__2863">
                   <persName>Bleier, August</persName>
@@ -10541,16 +10547,16 @@
                   <persName>Albrecht, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2866">
-                  <persName>Schloss</persName>
+                  <persName>Schloss, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2867">
                   <persName>Claassen, Eugen</persName>
-                  <occupation>Verleger</occupation>
+                  <occupation>Verleger;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11852089X</idno>
                </person>
                <person xml:id="tillich_person_id__2868">
                   <persName>Claassen, Hildegard</persName>
-                  <occupation>Kunsthistorikerin, Verlegerin</occupation>
+                  <occupation>Kunsthistorikerin; Verlegerin;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116524774</idno>
                </person>
                <person xml:id="tillich_person_id__2869">
@@ -10573,15 +10579,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/11852576X</idno>
                </person>
                <person xml:id="tillich_person_id__2874">
-                  <persName>Messer</persName>
+                  <persName>Messer, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2875">
                   <persName>Weinberg, Heinz</persName>
-                  <occupation>Jurist</occupation>
+                  <occupation>Jurist;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127503412</idno>
                </person>
                <person xml:id="tillich_person_id__2876">
-                  <persName>Cassirer, Heinrich</persName>
+                  <persName>Cassirer, Heinrich Walter</persName>
                   <idno type="gnd">https://d-nb.info/gnd/120843676</idno>
                </person>
                <person xml:id="tillich_person_id__2877">
@@ -10596,7 +10602,7 @@
                </person>
                <person xml:id="tillich_person_id__2880">
                   <persName>Pfeiffer, Suzanne</persName>
-                  <note type="bio"><p>Spätere Frau von Erich Pfeiffer</p></note>
+                  <note type="bio"><p>Sie war die spätere Frau von Erich Pfeiffer.</p></note>
                </person>
                <person xml:id="tillich_person_id__2881">
                   <persName>Schetelig, ???</persName>
@@ -10605,20 +10611,20 @@
                   <persName>Schubert, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2883">
-                  <persName>Aée</persName>
+                  <persName>???, Aée</persName>
                </person>
                <person xml:id="tillich_person_id__2884">
-                  <persName>Käthe</persName>
+                  <persName>???, Käthe</persName>
                </person>
                <person xml:id="tillich_person_id__2885">
-                  <persName>Leese, Minna</persName>
-                  <occupation>Gattin Kurt Leeses</occupation>
+                  <persName>Leese, Minna Margarethe</persName>
+                  <note type="bio"><p>Sie war die Gattin von Kurt Leese.</p></note>
                </person>
                <person xml:id="tillich_person_id__2886">
-                  <persName>Behrens, Herr</persName>
+                  <persName>Behrens, (Herr)</persName>
                </person>
                <person xml:id="tillich_person_id__2887">
-                  <persName>Behrens, Frau</persName>
+                  <persName>Behrens, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__2888">
                   <persName>???, Dieter</persName>
@@ -10628,56 +10634,58 @@
                </person>
                <person xml:id="tillich_person_id__2890">
                   <persName>Bergner, Elisabeth</persName>
-                  <occupation>Schauspielerin</occupation>
+                  <occupation>Schauspielerin;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11850956X</idno>
                </person>
                <person xml:id="tillich_person_id__2891">
                   <persName>Hamburger, Margarete</persName>
-                  <occupation>Mutter von Hans Hamburger</occupation>
+                  <note type="bio"><p>Sie war eine geborene Levy und die Mutter von Hans Hamburger.</p></note>
                </person>
                <person xml:id="tillich_person_id__2892">
                   <persName>Jessen, ???</persName>
-                  <occupation>Mutter von Malla Jessen, Gattin des Kunsthistorikers Peter Jessen.</occupation>
+                  <note type="bio"><p>Sie war die Mutter von Malla Jessen und Gattin des Kunsthistorikers Peter Jessen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2893">
                   <persName>Eberts, Frau</persName>
                </person>
                <person xml:id="tillich_person_id__2894">
                   <persName>Rhotert, Hans</persName>
-                  <occupation>Ethnologe</occupation>
+                  <occupation>Ethnologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1020607351</idno>
                </person>
                <person xml:id="tillich_person_id__2895">
-                  <persName>von den Steinen, Helmut</persName>
+                  <persName>Steinen, Helmut von den</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117251909</idno>
                </person>
                <person xml:id="tillich_person_id__2896">
-                  <persName>Wieschhoff, Heinrich "Heinz"</persName>
+                  <persName>Wieschhoff, Heinrich</persName>
                   <idno type="gnd">https://d-nb.info/gnd/12407216X</idno>
                </person>
                <person xml:id="tillich_person_id__2897">
                   <persName>Frobenius, Editha</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1064189253</idno>
+                  <note type="bio"><p>Sie war eine geborene Brandt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2898">
-                  <persName>Ullstein Verlag</persName>
+                  <persName>Ullstein Verlag, ???</persName>
+                  <occupation>Institution: Verlag;</occupation>
                </person>
                <person xml:id="tillich_person_id__2899">
-                  <persName>Ad. v. Rantzau</persName>
+                  <persName>Rantzau, Ad. v.</persName>
                   <note type="bio"><p>Hierbei handelt es sich evtl. um Heino Erwin Georg Ernst Karl von Rantzau.</p></note>
                </person>
                <person xml:id="tillich_person_id__2900">
-                  <persName>Bewohnerinnen und Bewohner des "Haus auf dem Küssel"</persName>
-                  <note type="bio"><p>Lily und Fritz Pincus sowie Claire und Günther Löwenfeld</p></note>
+                  <persName>Bewohnerinnen und Bewohner des "Haus auf dem Küssel", ???</persName>
+                  <note type="bio"><p>Hierbei handelt es sich evtl. um Lily und Fritz Pincus sowie Claire und Günther Löwenfeld.</p></note>
                </person>
                <person xml:id="tillich_person_id__2901">
-                  <persName>Kube (unsichere Lesart)</persName>
+                  <persName>Kube, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2902">
-                  <persName>Erich August Wilhelm (unsichere Lesart)</persName>
+                  <persName>???, Erich August Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2903">
-                  <persName>Herr von W. (unsichere Lesart)</persName>
+                  <persName>W., (Herr von)</persName>
                </person>
                <person xml:id="tillich_person_id__2904">
                   <persName/>
@@ -10703,14 +10711,20 @@
                </person>
                <person xml:id="tillich_person_id__2911">
                   <persName>Schubert, Hans von</persName>
-                  <occupation>Evangelischer Theologe</occupation>
+                  <occupation>Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/104066598</idno>
                </person>
                <person xml:id="tillich_person_id__2912">
-                  <persName>Pritschow</persName>
+                  <persName>Pritschow, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2913">
-                  <persName>Magnif, Sr</persName>
+                  <persName>Magnif, Sr.</persName>
+               </person>
+               <person xml:id="tillich_person_id__2914">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2915">
+                  <persName>Weiß, ???</persName>
                </person>
             </listPerson>
          </div>

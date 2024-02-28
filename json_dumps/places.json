@@ -693,7 +693,7 @@
     "name": "Chavigny02880",
     "tillich_id": "tillich_place_id__100",
     "geonames_url": "https://www.geonames.org/3025718/",
-    "Working Notes": "Working Notes"
+    "Working Notes": "Chavigny02880"
   },
   "102": {
     "id": 102,
@@ -1077,7 +1077,7 @@
     "name": "Front",
     "tillich_id": "tillich_place_id__171",
     "geonames_url": "",
-    "Working Notes": "Vermutlich nicht die Stadt in Italien sondern ->Tillich in o.O (Westfront) 8. Juni 1916 (siehe tillich_place_id__469 & L00492)"
+    "Working Notes": "Vermutlich nicht die Stadt in Italien sondern ->Tillich in o.O (Westfront) 8. Juni 1916 (siehe tillich_place_id__469 & L00492)Doppelt"
   },
   "172": {
     "id": 172,
@@ -1332,8 +1332,8 @@
     "order": "211.00000000000000000000",
     "name": "Hinterpommern",
     "tillich_id": "tillich_place_id__211",
-    "geonames_url": "https://www.geonames.org/3088388/",
-    "Working Notes": "geonames: Bloß Pommern genommen (West Pommern gibts aber Ost Pommern(Hinterpommern) gibts nicht)"
+    "geonames_url": "",
+    "Working Notes": "Gibt kein Hinterpommern in GN(West Pommern gibts aber Ost Pommern(Hinterpommern) gibts nicht in GeoNames)"
   },
   "212": {
     "id": 212,
@@ -1661,7 +1661,7 @@
     "name": "Leuilly-sous-Coucy02380",
     "tillich_id": "tillich_place_id__261",
     "geonames_url": "https://www.geonames.org/2999029/",
-    "Working Notes": ""
+    "Working Notes": "Leuilly-sous-Coucy02380"
   },
   "263": {
     "id": 263,
@@ -1797,7 +1797,7 @@
     "name": "Marnuit",
     "tillich_id": "tillich_place_id__285",
     "geonames_url": "",
-    "Working Notes": "(mgl. Maranuit, 05350 Arvieux, Frankreich)"
+    "Working Notes": "(mgl. Maranuit, 05350 Arvieux, Frankreich -> https://maps.app.goo.gl/ehYHTEpYXsPXLHqb6)"
   },
   "286": {
     "id": 286,
@@ -1805,7 +1805,7 @@
     "name": "Marnuit-Ferme",
     "tillich_id": "tillich_place_id__286",
     "geonames_url": "",
-    "Working Notes": "Maranuit, 05350 Arvieux, Frankreich"
+    "Working Notes": "Maranuit, 05350 Arvieux, Frankreich -> https://maps.app.goo.gl/ehYHTEpYXsPXLHqb6"
   },
   "287": {
     "id": 287,
@@ -1981,7 +1981,7 @@
     "name": "Neudamm",
     "tillich_id": "tillich_place_id__314",
     "geonames_url": "https://www.geonames.org/2866049/",
-    "Working Notes": "(Brief betrifft Johannes Tillich, Neudamm (am großen Bruch, Deutschland)wegen Johannes Ortsnähe in Dölzig, wahrscheinlicher als Dębno(Neudamm) in Polen"
+    "Working Notes": "(Brief betrifft Johanna Tillich, Neudamm (am großen Bruch, Deutschland)wegen Johannes Ortsnähe in Dölzig, wahrscheinlicher als Dębno(Neudamm) in Polen"
   },
   "317": {
     "id": 317,
@@ -2149,7 +2149,7 @@
     "name": "Pasly02200",
     "tillich_id": "tillich_place_id__344",
     "geonames_url": "https://www.geonames.org/2988421/",
-    "Working Notes": "Pasly (Aisne)"
+    "Working Notes": "Pasly02200 (Aisne)"
   },
   "346": {
     "id": 346,
@@ -2284,8 +2284,8 @@
     "order": "363.00000000000000000000",
     "name": "Raucourt",
     "tillich_id": "tillich_place_id__363",
-    "geonames_url": "",
-    "Working Notes": "Working Notes"
+    "geonames_url": "https://www.geonames.org/2984363/",
+    "Working Notes": "Kriegseinsatz Tillichs, Wahrscheinlich dieses Raucourt"
   },
   "364": {
     "id": 364,
@@ -2725,7 +2725,7 @@
     "name": "Tancourt02200",
     "tillich_id": "tillich_place_id__428",
     "geonames_url": "https://www.geonames.org/12318197/",
-    "Working Notes": ""
+    "Working Notes": "Tancourt02200"
   },
   "430": {
     "id": 430,
@@ -2973,7 +2973,7 @@
     "name": "Westfront",
     "tillich_id": "tillich_place_id__469",
     "geonames_url": "",
-    "Working Notes": "Vermutlich Tillichs Position im Krieg an der Westfront gemeint, das wäre Umgebung Aisne, zugehörige referenzdatei nicht gefunden (siehe tillich_place_id__171 & L00492)"
+    "Working Notes": "Vermutlich Tillichs Position im Krieg an der Westfront gemeint, das wäre Umgebung Aisne, zugehörige referenzdatei nicht gefunden (siehe tillich_place_id__171 & L00492) Doppelt"
   },
   "470": {
     "id": 470,
@@ -3581,7 +3581,7 @@
     "name": "Friedersdorf",
     "tillich_id": "tillich_place_id__566",
     "geonames_url": "https://www.geonames.org/2924713/",
-    "Working Notes": "(Friedersdorf-Storkow)"
+    "Working Notes": "(Friedersdorf-Storkow, L00891)"
   },
   "567": {
     "id": 567,
@@ -3789,7 +3789,7 @@
     "name": "Berlin-Posen (Bahnpost)",
     "tillich_id": "tillich_place_id__595",
     "geonames_url": "https://www.geonames.org/3088171/",
-    "Working Notes": "(VORSICHT Bahnpost zwischen Berlin und Posen (Polen)"
+    "Working Notes": "(VORSICHT Bahnpost zwischen Berlin und Posen (Polen)->Endziel genommen)"
   },
   "596": {
     "id": 596,
