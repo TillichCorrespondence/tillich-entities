@@ -19,6 +19,14 @@
             {% for x in objects %}
                <place xml:id="{{ x.tillich_id }}">
                   <placeName>{{ x.name }}</placeName>
+                  {% if x.latitude %}
+                  <location type="coords">
+                     <geo>{{ x.latitude}} {{ x.longitude }}</geo>
+                  </location>
+                  {% endif %}
+                  {% if x.geonames_url %}
+                  <idno type="geonames">{{ x.geonames_url }}</idno>
+                  {% endif %}
                </place>
             {% endfor %}
             </listPlace>
