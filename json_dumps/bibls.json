@@ -2058,9 +2058,33 @@
   "265": {
     "id": 265,
     "order": "261.00000000000000000000",
-    "name": "",
-    "working_note": "",
+    "name": "Tillich, Paul, Kirche und humanistische Gesellschaft. Vortrag, gehalten auf der Berneuchener Arbeitskonferenz in Pätzig, am 5. Oktober 1930. In: Neuwerk, Jg. 13 (1931/1932), S. 4-18.",
+    "working_note": "Auch in: GW IX, 47-61.",
     "tillich_id": "tillich_work_id__265",
+    "zotero": ""
+  },
+  "266": {
+    "id": 266,
+    "order": "262.00000000000000000000",
+    "name": "Stählin, Wilhelm, \"Kirche und humanistische Gesellschaft\". Zu Paul Tillichs Vortrag. In: Neuwerk, Jg. 13 (1931/1932), S. 112-117.",
+    "working_note": "Auch in: GW IX, 62-67.",
+    "tillich_id": "tillich_work_id__266",
+    "zotero": ""
+  },
+  "267": {
+    "id": 267,
+    "order": "263.00000000000000000000",
+    "name": "Storm, Theodor, \"Das Fest auf Haderslevhuus\" Novelle, Berlin : H. Hillger,",
+    "working_note": "Referenz auf gleichnamige Theaterstück 1907, die Uraufführung find ich nicht",
+    "tillich_id": "tillich_work_id__267",
+    "zotero": ""
+  },
+  "268": {
+    "id": 268,
+    "order": "264.00000000000000000000",
+    "name": "(Original)Kittel, Rudolf, Biblia Hebraica,  J.C. Hinrichs Buchhandlung in Leipzig, 1906",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__268",
     "zotero": ""
   }
 }
