@@ -10726,6 +10726,19 @@
                <person xml:id="tillich_person_id__2915">
                   <persName>Weiß, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__2916">
+                  <persName>Vethake, Vetter</persName>
+               </person>
+               <person xml:id="tillich_person_id__2917">
+                  <persName>Vethake, Bruder</persName>
+               </person>
+               <person xml:id="tillich_person_id__2918">
+                  <persName>Hans von Schubert</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/104066598</idno>
+               </person>
+               <person xml:id="tillich_person_id__2919">
+                  <persName>Müller, Nicolaus</persName>
+               </person>
             </listPerson>
          </div>
       </body>

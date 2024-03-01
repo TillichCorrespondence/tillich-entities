@@ -44,10 +44,10 @@
     "order": "5.00000000000000000000",
     "name": "Aberdeen",
     "tillich_id": "tillich_place_id__5",
-    "geonames_url": "https://www.geonames.org/2657832/",
+    "geonames_url": "https://sws.geonames.org/2657832/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "57.14369",
+    "longitude": "-2.09814"
   },
   "6": {
     "id": 6,
@@ -644,10 +644,10 @@
     "order": "70.00000000000000000000",
     "name": "Boston",
     "tillich_id": "tillich_place_id__70",
-    "geonames_url": "https://www.geonames.org/4930956/",
+    "geonames_url": "https://sws.geonames.org/4930956/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "42.35843",
+    "longitude": "-71.05977"
   },
   "72": {
     "id": 72,
@@ -704,10 +704,10 @@
     "order": "77.00000000000000000000",
     "name": "Brest",
     "tillich_id": "tillich_place_id__77",
-    "geonames_url": "https://www.geonames.org/3030300/",
+    "geonames_url": "https://sws.geonames.org/3030300/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.39029",
+    "longitude": "-4.48628"
   },
   "78": {
     "id": 78,
@@ -754,20 +754,20 @@
     "order": "82.00000000000000000000",
     "name": "Cambridge, MA",
     "tillich_id": "tillich_place_id__82",
-    "geonames_url": "https://www.geonames.org/4931972/",
+    "geonames_url": "https://sws.geonames.org/4931972/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "42.37510",
+    "longitude": "-71.10561"
   },
   "87": {
     "id": 87,
     "order": "87.00000000000000000000",
     "name": "Cancale",
     "tillich_id": "tillich_place_id__87",
-    "geonames_url": "https://www.geonames.org/3028868/",
+    "geonames_url": "https://sws.geonames.org/3028868/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.67660",
+    "longitude": "-1.85216"
   },
   "88": {
     "id": 88,
@@ -904,10 +904,10 @@
     "order": "105.00000000000000000000",
     "name": "Chicago, Illinois",
     "tillich_id": "tillich_place_id__105",
-    "geonames_url": "https://www.geonames.org/4887398/",
+    "geonames_url": "https://sws.geonames.org/4887398/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "41.85003",
+    "longitude": "-87.65005"
   },
   "106": {
     "id": 106,
@@ -1204,10 +1204,10 @@
     "order": "139.00000000000000000000",
     "name": "Finistère",
     "tillich_id": "tillich_place_id__139",
-    "geonames_url": "https://www.geonames.org/3018471/",
+    "geonames_url": "https://sws.geonames.org/3018471/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.25224",
+    "longitude": "-3.99263"
   },
   "140": {
     "id": 140,
@@ -1994,10 +1994,10 @@
     "order": "253.00000000000000000000",
     "name": "Le Conquet",
     "tillich_id": "tillich_place_id__253",
-    "geonames_url": "https://www.geonames.org/3004513/",
+    "geonames_url": "https://sws.geonames.org/3004513/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.36053",
+    "longitude": "-4.77086"
   },
   "254": {
     "id": 254,
@@ -2024,20 +2024,20 @@
     "order": "256.00000000000000000000",
     "name": "Le Mont-Saint-Michel",
     "tillich_id": "tillich_place_id__256",
-    "geonames_url": "https://www.geonames.org/7522158/",
+    "geonames_url": "https://sws.geonames.org/7522158/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.63603",
+    "longitude": "-1.51139"
   },
   "257": {
     "id": 257,
     "order": "257.00000000000000000000",
     "name": "Le Palais",
     "tillich_id": "tillich_place_id__257",
-    "geonames_url": "https://www.geonames.org/3003045/",
+    "geonames_url": "https://sws.geonames.org/3003045/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.34630",
+    "longitude": "-3.15583"
   },
   "258": {
     "id": 258,
@@ -2114,20 +2114,20 @@
     "order": "268.00000000000000000000",
     "name": "Lissabon",
     "tillich_id": "tillich_place_id__268",
-    "geonames_url": "https://www.geonames.org/2267057/",
+    "geonames_url": "https://sws.geonames.org/2267057/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "38.71667",
+    "longitude": "-9.13333"
   },
   "269": {
     "id": 269,
     "order": "269.00000000000000000000",
     "name": "Liverpool",
     "tillich_id": "tillich_place_id__269",
-    "geonames_url": "https://www.geonames.org/2644210/",
+    "geonames_url": "https://sws.geonames.org/2644210/",
     "Working Notes": "Liverpool (United Kingdom, England)",
-    "latitude": null,
-    "longitude": null
+    "latitude": "53.41058",
+    "longitude": "-2.97794"
   },
   "270": {
     "id": 270,
@@ -2144,10 +2144,10 @@
     "order": "271.00000000000000000000",
     "name": "London",
     "tillich_id": "tillich_place_id__271",
-    "geonames_url": "https://www.geonames.org/2643743/",
+    "geonames_url": "https://sws.geonames.org/2643743/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "51.50853",
+    "longitude": "-0.12574"
   },
   "272": {
     "id": 272,
@@ -2164,10 +2164,10 @@
     "order": "273.00000000000000000000",
     "name": "Lugo",
     "tillich_id": "tillich_place_id__273",
-    "geonames_url": "https://www.geonames.org/3117814/",
+    "geonames_url": "https://sws.geonames.org/3117814/",
     "Working Notes": "Lugo (Spanien)",
-    "latitude": null,
-    "longitude": null
+    "latitude": "43.00992",
+    "longitude": "-7.55602"
   },
   "274": {
     "id": 274,
@@ -2504,10 +2504,10 @@
     "order": "319.00000000000000000000",
     "name": "New York",
     "tillich_id": "tillich_place_id__319",
-    "geonames_url": "https://www.geonames.org/5128581/",
+    "geonames_url": "https://sws.geonames.org/5128581/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "40.71427",
+    "longitude": "-74.00597"
   },
   "321": {
     "id": 321,
@@ -2834,10 +2834,10 @@
     "order": "361.00000000000000000000",
     "name": "Quiberon",
     "tillich_id": "tillich_place_id__361",
-    "geonames_url": "https://www.geonames.org/2984741/",
+    "geonames_url": "https://sws.geonames.org/2984741/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.48368",
+    "longitude": "-3.11986"
   },
   "362": {
     "id": 362,
@@ -2864,10 +2864,10 @@
     "order": "364.00000000000000000000",
     "name": "Redon, Ille-et-Vilaine",
     "tillich_id": "tillich_place_id__364",
-    "geonames_url": "https://www.geonames.org/2984192",
+    "geonames_url": "https://sws.geonames.org/2984192/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.65165",
+    "longitude": "-2.08421"
   },
   "365": {
     "id": 365,
@@ -3024,10 +3024,10 @@
     "order": "384.00000000000000000000",
     "name": "Saint Malo, Ille-et-Vilaine",
     "tillich_id": "tillich_place_id__384",
-    "geonames_url": "https://www.geonames.org/2978640/",
+    "geonames_url": "https://sws.geonames.org/2978640/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.64738",
+    "longitude": "-2.00877"
   },
   "386": {
     "id": 386,
@@ -3964,10 +3964,10 @@
     "order": "502.00000000000000000000",
     "name": "Ouessant",
     "tillich_id": "tillich_place_id__505",
-    "geonames_url": "https://www.geonames.org/6620083",
+    "geonames_url": "https://sws.geonames.org/6620083/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.45969",
+    "longitude": "-5.08615"
   },
   "506": {
     "id": 506,
@@ -4364,10 +4364,10 @@
     "order": "549.00000000000000000000",
     "name": "Washington, D.C.",
     "tillich_id": "tillich_place_id__554",
-    "geonames_url": "https://www.geonames.org/4140963",
+    "geonames_url": "https://sws.geonames.org/4140963/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null
+    "latitude": "38.89511",
+    "longitude": "-77.03637"
   },
   "555": {
     "id": 555,
@@ -4804,10 +4804,10 @@
     "order": "599.00000000000000000000",
     "name": "Edinburg",
     "tillich_id": "tillich_place_id__604",
-    "geonames_url": "https://www.geonames.org/2650225/",
+    "geonames_url": "https://sws.geonames.org/2650225/",
     "Working Notes": "(United Kingdom vermutlich und nicht USA)",
-    "latitude": null,
-    "longitude": null
+    "latitude": "55.95206",
+    "longitude": "-3.19648"
   },
   "605": {
     "id": 605,

@@ -43,6 +43,9 @@
                </place>
                <place xml:id="tillich_place_id__5">
                   <placeName>Aberdeen</placeName>
+                  <location type="coords">
+                     <geo>57.14369 -2.09814</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2657832/</idno>
                </place>
                <place xml:id="tillich_place_id__6">
@@ -454,6 +457,9 @@
                </place>
                <place xml:id="tillich_place_id__70">
                   <placeName>Boston</placeName>
+                  <location type="coords">
+                     <geo>42.35843 -71.05977</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/4930956/</idno>
                </place>
                <place xml:id="tillich_place_id__72">
@@ -493,6 +499,9 @@
                </place>
                <place xml:id="tillich_place_id__77">
                   <placeName>Brest</placeName>
+                  <location type="coords">
+                     <geo>48.39029 -4.48628</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/3030300/</idno>
                </place>
                <place xml:id="tillich_place_id__78">
@@ -525,10 +534,16 @@
                </place>
                <place xml:id="tillich_place_id__82">
                   <placeName>Cambridge, MA</placeName>
+                  <location type="coords">
+                     <geo>42.37510 -71.10561</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/4931972/</idno>
                </place>
                <place xml:id="tillich_place_id__87">
                   <placeName>Cancale</placeName>
+                  <location type="coords">
+                     <geo>48.67660 -1.85216</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/3028868/</idno>
                </place>
                <place xml:id="tillich_place_id__88">
@@ -624,6 +639,9 @@
                </place>
                <place xml:id="tillich_place_id__105">
                   <placeName>Chicago, Illinois</placeName>
+                  <location type="coords">
+                     <geo>41.85003 -87.65005</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/4887398/</idno>
                </place>
                <place xml:id="tillich_place_id__106">
@@ -831,6 +849,9 @@
                </place>
                <place xml:id="tillich_place_id__139">
                   <placeName>Finistère</placeName>
+                  <location type="coords">
+                     <geo>48.25224 -3.99263</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/3018471/</idno>
                </place>
                <place xml:id="tillich_place_id__140">
@@ -1369,6 +1390,9 @@
                </place>
                <place xml:id="tillich_place_id__253">
                   <placeName>Le Conquet</placeName>
+                  <location type="coords">
+                     <geo>48.36053 -4.77086</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/3004513/</idno>
                </place>
                <place xml:id="tillich_place_id__254">
@@ -1387,10 +1411,16 @@
                </place>
                <place xml:id="tillich_place_id__256">
                   <placeName>Le Mont-Saint-Michel</placeName>
+                  <location type="coords">
+                     <geo>48.63603 -1.51139</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/7522158/</idno>
                </place>
                <place xml:id="tillich_place_id__257">
                   <placeName>Le Palais</placeName>
+                  <location type="coords">
+                     <geo>47.34630 -3.15583</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/3003045/</idno>
                </place>
                <place xml:id="tillich_place_id__258">
@@ -1440,10 +1470,16 @@
                </place>
                <place xml:id="tillich_place_id__268">
                   <placeName>Lissabon</placeName>
+                  <location type="coords">
+                     <geo>38.71667 -9.13333</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2267057/</idno>
                </place>
                <place xml:id="tillich_place_id__269">
                   <placeName>Liverpool</placeName>
+                  <location type="coords">
+                     <geo>53.41058 -2.97794</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2644210/</idno>
                </place>
                <place xml:id="tillich_place_id__270">
@@ -1455,6 +1491,9 @@
                </place>
                <place xml:id="tillich_place_id__271">
                   <placeName>London</placeName>
+                  <location type="coords">
+                     <geo>51.50853 -0.12574</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2643743/</idno>
                </place>
                <place xml:id="tillich_place_id__272">
@@ -1466,6 +1505,9 @@
                </place>
                <place xml:id="tillich_place_id__273">
                   <placeName>Lugo</placeName>
+                  <location type="coords">
+                     <geo>43.00992 -7.55602</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/3117814/</idno>
                </place>
                <place xml:id="tillich_place_id__274">
@@ -1693,6 +1735,9 @@
                </place>
                <place xml:id="tillich_place_id__319">
                   <placeName>New York</placeName>
+                  <location type="coords">
+                     <geo>40.71427 -74.00597</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/5128581/</idno>
                </place>
                <place xml:id="tillich_place_id__321">
@@ -1913,6 +1958,9 @@
                </place>
                <place xml:id="tillich_place_id__361">
                   <placeName>Quiberon</placeName>
+                  <location type="coords">
+                     <geo>47.48368 -3.11986</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2984741/</idno>
                </place>
                <place xml:id="tillich_place_id__362">
@@ -1931,6 +1979,9 @@
                </place>
                <place xml:id="tillich_place_id__364">
                   <placeName>Redon, Ille-et-Vilaine</placeName>
+                  <location type="coords">
+                     <geo>47.65165 -2.08421</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2984192/</idno>
                </place>
                <place xml:id="tillich_place_id__365">
@@ -2040,6 +2091,9 @@
                </place>
                <place xml:id="tillich_place_id__384">
                   <placeName>Saint Malo, Ille-et-Vilaine</placeName>
+                  <location type="coords">
+                     <geo>48.64738 -2.00877</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2978640/</idno>
                </place>
                <place xml:id="tillich_place_id__386">
@@ -2681,6 +2735,9 @@
                </place>
                <place xml:id="tillich_place_id__505">
                   <placeName>Ouessant</placeName>
+                  <location type="coords">
+                     <geo>48.45969 -5.08615</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/6620083/</idno>
                </place>
                <place xml:id="tillich_place_id__506">
@@ -2954,6 +3011,9 @@
                </place>
                <place xml:id="tillich_place_id__554">
                   <placeName>Washington, D.C.</placeName>
+                  <location type="coords">
+                     <geo>38.89511 -77.03637</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/4140963/</idno>
                </place>
                <place xml:id="tillich_place_id__555">
@@ -3259,6 +3319,9 @@
                </place>
                <place xml:id="tillich_place_id__604">
                   <placeName>Edinburg</placeName>
+                  <location type="coords">
+                     <geo>55.95206 -3.19648</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2650225/</idno>
                </place>
                <place xml:id="tillich_place_id__605">
