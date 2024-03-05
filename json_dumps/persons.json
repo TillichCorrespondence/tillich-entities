@@ -42855,13 +42855,13 @@
     "forename": "Fa.",
     "from_to": "",
     "occupation": "",
-    "bio": "Sie war eine Tante Tillichs. Der Vorname ist unklar.",
+    "bio": "",
     "legacy_id": "",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__2687",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "Sie lässt in: \"1904.09.24. unbekannt (Onkel und Tante?) an Tillich, P.\" Tillichs Schwester schön grüßen und meint in über 8 Tage kommt Johanna vorbei."
+    "working_note": "Sie lässt in: \"1904.09.24. unbekannt (Onkel und Tante?) an Tillich, P.\" Tillichs Schwester schön grüßen und meint in über 8 Tage kommt Johanna vorbei. In L000126 wird eine Tante Betty von Johannes Tillich erwähnt. Eventuell die selbe person."
   },
   "2688": {
     "id": 2688,
@@ -46558,5 +46558,21 @@
     "date_of_birth": null,
     "date_of_death": null,
     "working_note": ""
+  },
+  "2920": {
+    "id": 2920,
+    "order": "2915.00000000000000000000",
+    "name": "Crisolli",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2920",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "working_note": "Familie, bei der ein Bibelabend stattfand (vgl. L000126)"
   }
 }

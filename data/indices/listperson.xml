@@ -9879,7 +9879,6 @@
                </person>
                <person xml:id="tillich_person_id__2687">
                   <persName>Tillich, Fa.</persName>
-                  <note type="bio"><p>Sie war eine Tante Tillichs. Der Vorname ist unklar.</p></note>
                </person>
                <person xml:id="tillich_person_id__2688">
                   <persName>Rothschild, ???</persName>
@@ -10738,6 +10737,9 @@
                </person>
                <person xml:id="tillich_person_id__2919">
                   <persName>Müller, Nicolaus</persName>
+               </person>
+               <person xml:id="tillich_person_id__2920">
+                  <persName>Crisolli</persName>
                </person>
             </listPerson>
          </div>
