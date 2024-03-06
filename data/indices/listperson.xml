@@ -10741,6 +10741,12 @@
                <person xml:id="tillich_person_id__2920">
                   <persName>Crisolli</persName>
                </person>
+               <person xml:id="tillich_person_id__2921">
+                  <persName>Knigge</persName>
+               </person>
+               <person xml:id="tillich_person_id__2922">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>
