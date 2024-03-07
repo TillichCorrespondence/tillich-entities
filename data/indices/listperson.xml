@@ -10745,7 +10745,28 @@
                   <persName>Knigge</persName>
                </person>
                <person xml:id="tillich_person_id__2922">
-                  <persName/>
+                  <persName>Jensen, Adolf Ellegard</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118712063</idno>
+               </person>
+               <person xml:id="tillich_person_id__2923">
+                  <persName>Seekirchner, Albert</persName>
+                  <occupation>Ethnologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/125469977</idno>
+                  <note type="bio"><p>Seekirchner fungierte in den 1920er Jahren als wissenschaftlicher Mitarbeiter Leo Frobenius.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2924">
+                  <persName>Mannsfeld, Elisabeth</persName>
+                  <occupation>Wissenschaftlicher Zeichnerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/126266506</idno>
+               </person>
+               <person xml:id="tillich_person_id__2925">
+                  <persName>Weyersberg, Maria</persName>
+                  <occupation>Malerin, Ethnologin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/128319887</idno>
+               </person>
+               <person xml:id="tillich_person_id__2926">
+                  <persName>Lutz, Joachim</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117331236</idno>
                </person>
             </listPerson>
          </div>
