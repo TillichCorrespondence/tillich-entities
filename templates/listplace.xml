@@ -27,6 +27,9 @@
                   {% if x.geonames_url %}
                   <idno type="geonames">{{ x.geonames_url }}</idno>
                   {% endif %}
+                  {% if x.wikidata_url %}
+                  <idno type="wikidata">{{ x.wikidata_url }}</idno>
+                  {% endif %}
                </place>
             {% endfor %}
             </listPlace>
