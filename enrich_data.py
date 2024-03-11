@@ -1,6 +1,8 @@
 import requests
 from tqdm import tqdm
 from config import br_client, BASEROW_DB_ID
+
+from acdh_id_reconciler import geonames_to_wikidata
 from acdh_geonames_utils.gn_client import gn_as_object
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 
@@ -23,6 +25,10 @@ for x in tqdm(items):
     except Exception as e:
         print(e, update_url)
         continue
+    try:
+        update_object["wikidata_url"] = geonames_to_wikidata(x["geonames_url"])["wikidata"]
+    except (KeyError, IndexError):
+        pass
     update_object["latitude"] = gn_object["latitude"]
     update_object["longitude"] = gn_object["longitude"]
     update_object["geonames_url"] = get_normalized_uri(x["geonames_url"])

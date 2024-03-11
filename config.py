@@ -13,5 +13,5 @@ try:
     br_client = BaseRowClient(
         BASEROW_USER, BASEROW_PW, BASEROW_TOKEN, br_base_url=BASEROW_URL
     )
-except:
+except KeyError:
     pass

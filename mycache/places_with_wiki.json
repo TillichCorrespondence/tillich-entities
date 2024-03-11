@@ -8,7 +8,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.42917",
     "longitude": "3.19833",
-    "wikidata": "http://www.wikidata.org/entity/Q283344"
+    "wikidata_url": "http://www.wikidata.org/entity/Q283344"
   },
   "2": {
     "id": 2,
@@ -19,7 +19,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.63333",
     "longitude": "3.11667",
-    "wikidata": "http://www.wikidata.org/entity/Q35732297"
+    "wikidata_url": "http://www.wikidata.org/entity/Q35732297"
   },
   "3": {
     "id": 3,
@@ -50,7 +50,7 @@
     "Working Notes": "Working Notes",
     "latitude": "57.14369",
     "longitude": "-2.09814",
-    "wikidata": "http://www.wikidata.org/entity/Q36405"
+    "wikidata_url": "http://www.wikidata.org/entity/Q36405"
   },
   "6": {
     "id": 6,
@@ -71,7 +71,7 @@
     "Working Notes": "Working Notes",
     "latitude": "54.38330",
     "longitude": "12.43330",
-    "wikidata": "http://www.wikidata.org/entity/Q402819"
+    "wikidata_url": "http://www.wikidata.org/entity/Q402819"
   },
   "8": {
     "id": 8,
@@ -82,7 +82,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.50000",
     "longitude": "3.50000",
-    "wikidata": "http://www.wikidata.org/entity/Q3093"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3093"
   },
   "9": {
     "id": 9,
@@ -93,7 +93,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.50000",
     "longitude": "3.50000",
-    "wikidata": "http://www.wikidata.org/entity/Q3093"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3093"
   },
   "10": {
     "id": 10,
@@ -114,7 +114,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.15500",
     "longitude": "5.38750",
-    "wikidata": "http://www.wikidata.org/entity/Q33421377"
+    "wikidata_url": "http://www.wikidata.org/entity/Q33421377"
   },
   "12": {
     "id": 12,
@@ -125,7 +125,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.37403",
     "longitude": "4.88969",
-    "wikidata": "http://www.wikidata.org/entity/Q727"
+    "wikidata_url": "http://www.wikidata.org/entity/Q727"
   },
   "13": {
     "id": 13,
@@ -146,7 +146,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.29301",
     "longitude": "2.78186",
-    "wikidata": "http://www.wikidata.org/entity/Q131329"
+    "wikidata_url": "http://www.wikidata.org/entity/Q131329"
   },
   "15": {
     "id": 15,
@@ -157,7 +157,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.98986",
     "longitude": "7.86716",
-    "wikidata": "http://www.wikidata.org/entity/Q317535"
+    "wikidata_url": "http://www.wikidata.org/entity/Q317535"
   },
   "16": {
     "id": 16,
@@ -188,7 +188,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.06667",
     "longitude": "7.03333",
-    "wikidata": "http://www.wikidata.org/entity/Q31896761"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31896761"
   },
   "19": {
     "id": 19,
@@ -229,7 +229,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.13431",
     "longitude": "11.72203",
-    "wikidata": "http://www.wikidata.org/entity/Q574451"
+    "wikidata_url": "http://www.wikidata.org/entity/Q574451"
   },
   "23": {
     "id": 23,
@@ -250,7 +250,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.96487",
     "longitude": "14.60667",
-    "wikidata": "http://www.wikidata.org/entity/Q558719"
+    "wikidata_url": "http://www.wikidata.org/entity/Q558719"
   },
   "25": {
     "id": 25,
@@ -281,7 +281,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.10379",
     "longitude": "2.84966",
-    "wikidata": "http://www.wikidata.org/entity/Q317235"
+    "wikidata_url": "http://www.wikidata.org/entity/Q317235"
   },
   "28": {
     "id": 28,
@@ -292,7 +292,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.12417",
     "longitude": "6.44306",
-    "wikidata": "http://www.wikidata.org/entity/Q2063712"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2063712"
   },
   "29": {
     "id": 29,
@@ -313,7 +313,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.27737",
     "longitude": "7.19802",
-    "wikidata": "http://www.wikidata.org/entity/Q153974"
+    "wikidata_url": "http://www.wikidata.org/entity/Q153974"
   },
   "31": {
     "id": 31,
@@ -324,7 +324,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.55839",
     "longitude": "7.57327",
-    "wikidata": "http://www.wikidata.org/entity/Q56447734"
+    "wikidata_url": "http://www.wikidata.org/entity/Q56447734"
   },
   "32": {
     "id": 32,
@@ -335,7 +335,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.00000",
     "longitude": "11.50000",
-    "wikidata": "http://www.wikidata.org/entity/Q980"
+    "wikidata_url": "http://www.wikidata.org/entity/Q980"
   },
   "33": {
     "id": 33,
@@ -346,7 +346,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.75000",
     "longitude": "4.50000",
-    "wikidata": "http://www.wikidata.org/entity/Q31"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31"
   },
   "34": {
     "id": 34,
@@ -357,7 +357,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.14184",
     "longitude": "12.59272",
-    "wikidata": "http://www.wikidata.org/entity/Q31909574"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31909574"
   },
   "35": {
     "id": 35,
@@ -368,7 +368,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.48462",
     "longitude": "10.22904",
-    "wikidata": "http://www.wikidata.org/entity/Q1637"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1637"
   },
   "36": {
     "id": 36,
@@ -389,7 +389,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.52437",
     "longitude": "13.41053",
-    "wikidata": "http://www.wikidata.org/entity/Q64"
+    "wikidata_url": "http://www.wikidata.org/entity/Q64"
   },
   "38": {
     "id": 38,
@@ -400,7 +400,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.47133",
     "longitude": "13.32813",
-    "wikidata": "http://www.wikidata.org/entity/Q692390"
+    "wikidata_url": "http://www.wikidata.org/entity/Q692390"
   },
   "39": {
     "id": 39,
@@ -411,7 +411,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.45052",
     "longitude": "13.62463",
-    "wikidata": "http://www.wikidata.org/entity/Q563528"
+    "wikidata_url": "http://www.wikidata.org/entity/Q563528"
   },
   "40": {
     "id": 40,
@@ -422,7 +422,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.49005",
     "longitude": "13.29602",
-    "wikidata": "http://www.wikidata.org/entity/Q651009"
+    "wikidata_url": "http://www.wikidata.org/entity/Q651009"
   },
   "41": {
     "id": 41,
@@ -433,7 +433,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.39844",
     "longitude": "13.40637",
-    "wikidata": "http://www.wikidata.org/entity/Q821101"
+    "wikidata_url": "http://www.wikidata.org/entity/Q821101"
   },
   "42": {
     "id": 42,
@@ -444,7 +444,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.43330",
     "longitude": "13.30762",
-    "wikidata": "http://www.wikidata.org/entity/Q155211"
+    "wikidata_url": "http://www.wikidata.org/entity/Q155211"
   },
   "43": {
     "id": 43,
@@ -455,7 +455,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.47719",
     "longitude": "13.43126",
-    "wikidata": "http://www.wikidata.org/entity/Q169492"
+    "wikidata_url": "http://www.wikidata.org/entity/Q169492"
   },
   "44": {
     "id": 44,
@@ -466,7 +466,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.52437",
     "longitude": "13.41053",
-    "wikidata": "http://www.wikidata.org/entity/Q64"
+    "wikidata_url": "http://www.wikidata.org/entity/Q64"
   },
   "45": {
     "id": 45,
@@ -477,7 +477,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.56926",
     "longitude": "13.40186",
-    "wikidata": "http://www.wikidata.org/entity/Q4707648"
+    "wikidata_url": "http://www.wikidata.org/entity/Q4707648"
   },
   "46": {
     "id": 46,
@@ -498,7 +498,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.55110",
     "longitude": "13.19921",
-    "wikidata": "http://www.wikidata.org/entity/Q569827"
+    "wikidata_url": "http://www.wikidata.org/entity/Q569827"
   },
   "48": {
     "id": 48,
@@ -519,7 +519,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.46667",
     "longitude": "13.40000",
-    "wikidata": "http://www.wikidata.org/entity/Q363830"
+    "wikidata_url": "http://www.wikidata.org/entity/Q363830"
   },
   "50": {
     "id": 50,
@@ -530,7 +530,7 @@
     "Working Notes": "(Doppelt Siehe 465)",
     "latitude": "52.41915",
     "longitude": "13.15531",
-    "wikidata": "http://www.wikidata.org/entity/Q1949"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1949"
   },
   "51": {
     "id": 51,
@@ -541,7 +541,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.48333",
     "longitude": "13.31667",
-    "wikidata": "http://www.wikidata.org/entity/Q693628"
+    "wikidata_url": "http://www.wikidata.org/entity/Q693628"
   },
   "52": {
     "id": 52,
@@ -552,7 +552,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.43333",
     "longitude": "13.25000",
-    "wikidata": "http://www.wikidata.org/entity/Q324402"
+    "wikidata_url": "http://www.wikidata.org/entity/Q324402"
   },
   "55": {
     "id": 55,
@@ -573,7 +573,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.91602",
     "longitude": "7.07664",
-    "wikidata": "http://www.wikidata.org/entity/Q31911076"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31911076"
   },
   "57": {
     "id": 57,
@@ -584,7 +584,7 @@
     "Working Notes": "(Verweis auf Bad Bertrich)",
     "latitude": "50.06667",
     "longitude": "7.03333",
-    "wikidata": "http://www.wikidata.org/entity/Q31896761"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31896761"
   },
   "58": {
     "id": 58,
@@ -595,7 +595,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.00697",
     "longitude": "8.52797",
-    "wikidata": "http://www.wikidata.org/entity/Q23559794"
+    "wikidata_url": "http://www.wikidata.org/entity/Q23559794"
   },
   "60": {
     "id": 60,
@@ -616,7 +616,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.44667",
     "longitude": "3.26139",
-    "wikidata": "http://www.wikidata.org/entity/Q864733"
+    "wikidata_url": "http://www.wikidata.org/entity/Q864733"
   },
   "63": {
     "id": 63,
@@ -627,7 +627,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.96612",
     "longitude": "7.88476",
-    "wikidata": "http://www.wikidata.org/entity/Q863777"
+    "wikidata_url": "http://www.wikidata.org/entity/Q863777"
   },
   "64": {
     "id": 64,
@@ -638,7 +638,7 @@
     "Working Notes": "(Bay of Biscay)",
     "latitude": null,
     "longitude": null,
-    "wikidata": "http://www.wikidata.org/entity/Q41573"
+    "wikidata_url": "http://www.wikidata.org/entity/Q41573"
   },
   "65": {
     "id": 65,
@@ -659,7 +659,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.15476",
     "longitude": "9.82255",
-    "wikidata": "http://www.wikidata.org/entity/Q21881833"
+    "wikidata_url": "http://www.wikidata.org/entity/Q21881833"
   },
   "67": {
     "id": 67,
@@ -680,7 +680,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.73438",
     "longitude": "7.09549",
-    "wikidata": "http://www.wikidata.org/entity/Q31917795"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31917795"
   },
   "70": {
     "id": 70,
@@ -691,7 +691,7 @@
     "Working Notes": "Working Notes",
     "latitude": "42.35843",
     "longitude": "-71.05977",
-    "wikidata": "http://www.wikidata.org/entity/Q100"
+    "wikidata_url": "http://www.wikidata.org/entity/Q100"
   },
   "72": {
     "id": 72,
@@ -702,7 +702,7 @@
     "Working Notes": "Working Notes",
     "latitude": "46.49067",
     "longitude": "11.33982",
-    "wikidata": "http://www.wikidata.org/entity/Q49280504"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49280504"
   },
   "73": {
     "id": 73,
@@ -713,7 +713,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.50311",
     "longitude": "9.74710",
-    "wikidata": "http://www.wikidata.org/entity/Q21882134"
+    "wikidata_url": "http://www.wikidata.org/entity/Q21882134"
   },
   "74": {
     "id": 74,
@@ -724,7 +724,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.07582",
     "longitude": "8.80717",
-    "wikidata": "http://www.wikidata.org/entity/Q24879"
+    "wikidata_url": "http://www.wikidata.org/entity/Q24879"
   },
   "75": {
     "id": 75,
@@ -735,7 +735,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.48458",
     "longitude": "9.14306",
-    "wikidata": "http://www.wikidata.org/entity/Q33426057"
+    "wikidata_url": "http://www.wikidata.org/entity/Q33426057"
   },
   "76": {
     "id": 76,
@@ -746,7 +746,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.44780",
     "longitude": "10.04236",
-    "wikidata": "http://www.wikidata.org/entity/Q824454"
+    "wikidata_url": "http://www.wikidata.org/entity/Q824454"
   },
   "77": {
     "id": 77,
@@ -757,7 +757,7 @@
     "Working Notes": "Working Notes",
     "latitude": "48.39029",
     "longitude": "-4.48628",
-    "wikidata": "http://www.wikidata.org/entity/Q12193"
+    "wikidata_url": "http://www.wikidata.org/entity/Q12193"
   },
   "78": {
     "id": 78,
@@ -768,7 +768,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.85045",
     "longitude": "4.34878",
-    "wikidata": "http://www.wikidata.org/entity/Q239"
+    "wikidata_url": "http://www.wikidata.org/entity/Q239"
   },
   "79": {
     "id": 79,
@@ -779,7 +779,7 @@
     "Working Notes": "(spezifisch nicht zu finden, Berggipfel in Sommepy-Tahure angegeben)",
     "latitude": "49.25124",
     "longitude": "4.55834",
-    "wikidata": "http://www.wikidata.org/entity/Q1221195"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1221195"
   },
   "80": {
     "id": 80,
@@ -800,7 +800,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.17596",
     "longitude": "3.23472",
-    "wikidata": "http://www.wikidata.org/entity/Q181285"
+    "wikidata_url": "http://www.wikidata.org/entity/Q181285"
   },
   "82": {
     "id": 82,
@@ -811,7 +811,7 @@
     "Working Notes": "Working Notes",
     "latitude": "42.37510",
     "longitude": "-71.10561",
-    "wikidata": "http://www.wikidata.org/entity/Q49111"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49111"
   },
   "87": {
     "id": 87,
@@ -822,7 +822,7 @@
     "Working Notes": "Working Notes",
     "latitude": "48.67660",
     "longitude": "-1.85216",
-    "wikidata": "http://www.wikidata.org/entity/Q203561"
+    "wikidata_url": "http://www.wikidata.org/entity/Q203561"
   },
   "88": {
     "id": 88,
@@ -833,7 +833,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.12490",
     "longitude": "3.41186",
-    "wikidata": "http://www.wikidata.org/entity/Q476016"
+    "wikidata_url": "http://www.wikidata.org/entity/Q476016"
   },
   "89": {
     "id": 89,
@@ -884,7 +884,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.76850",
     "longitude": "4.72487",
-    "wikidata": "http://www.wikidata.org/entity/Q2960786"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2960786"
   },
   "96": {
     "id": 96,
@@ -895,7 +895,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.51667",
     "longitude": "13.28333",
-    "wikidata": "http://www.wikidata.org/entity/Q162049"
+    "wikidata_url": "http://www.wikidata.org/entity/Q162049"
   },
   "97": {
     "id": 97,
@@ -906,7 +906,7 @@
     "Working Notes": "Working Notes",
     "latitude": "48.11121",
     "longitude": "5.14134",
-    "wikidata": "http://www.wikidata.org/entity/Q193880"
+    "wikidata_url": "http://www.wikidata.org/entity/Q193880"
   },
   "98": {
     "id": 98,
@@ -917,7 +917,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.61514",
     "longitude": "3.21857",
-    "wikidata": "http://www.wikidata.org/entity/Q269833"
+    "wikidata_url": "http://www.wikidata.org/entity/Q269833"
   },
   "100": {
     "id": 100,
@@ -938,7 +938,7 @@
     "Working Notes": "(Vermutlich verschrieben, nicht aufzufinden, nicht doch vielleicht Chexbres gemeint?)",
     "latitude": "46.48208",
     "longitude": "6.77805",
-    "wikidata": "http://www.wikidata.org/entity/Q22490557"
+    "wikidata_url": "http://www.wikidata.org/entity/Q22490557"
   },
   "103": {
     "id": 103,
@@ -949,7 +949,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.83570",
     "longitude": "12.92922",
-    "wikidata": "http://www.wikidata.org/entity/Q2795"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2795"
   },
   "104": {
     "id": 104,
@@ -960,7 +960,7 @@
     "Working Notes": "Working Notes",
     "latitude": "46.48208",
     "longitude": "6.77805",
-    "wikidata": "http://www.wikidata.org/entity/Q22490557"
+    "wikidata_url": "http://www.wikidata.org/entity/Q22490557"
   },
   "105": {
     "id": 105,
@@ -971,7 +971,7 @@
     "Working Notes": "Working Notes",
     "latitude": "41.85003",
     "longitude": "-87.65005",
-    "wikidata": "http://www.wikidata.org/entity/Q1297"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1297"
   },
   "106": {
     "id": 106,
@@ -982,7 +982,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.80441",
     "longitude": "10.33384",
-    "wikidata": "http://www.wikidata.org/entity/Q15377091"
+    "wikidata_url": "http://www.wikidata.org/entity/Q15377091"
   },
   "107": {
     "id": 107,
@@ -993,7 +993,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.80949",
     "longitude": "10.33821",
-    "wikidata": "http://www.wikidata.org/entity/Q31933119"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31933119"
   },
   "108": {
     "id": 108,
@@ -1004,7 +1004,7 @@
     "Working Notes": "(als Kleinich)",
     "latitude": "49.89478",
     "longitude": "7.18695",
-    "wikidata": "http://www.wikidata.org/entity/Q543401"
+    "wikidata_url": "http://www.wikidata.org/entity/Q543401"
   },
   "109": {
     "id": 109,
@@ -1015,7 +1015,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.35357",
     "longitude": "7.57883",
-    "wikidata": "http://www.wikidata.org/entity/Q3104"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3104"
   },
   "110": {
     "id": 110,
@@ -1026,7 +1026,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.14511",
     "longitude": "7.16379",
-    "wikidata": "http://www.wikidata.org/entity/Q31934490"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31934490"
   },
   "111": {
     "id": 111,
@@ -1047,7 +1047,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.52083",
     "longitude": "3.32381",
-    "wikidata": "http://www.wikidata.org/entity/Q34796877"
+    "wikidata_url": "http://www.wikidata.org/entity/Q34796877"
   },
   "113": {
     "id": 113,
@@ -1088,7 +1088,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.87167",
     "longitude": "8.65027",
-    "wikidata": "http://www.wikidata.org/entity/Q32067893"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067893"
   },
   "119": {
     "id": 119,
@@ -1099,7 +1099,7 @@
     "Working Notes": "Working Notes",
     "latitude": "46.80429",
     "longitude": "9.83723",
-    "wikidata": "http://www.wikidata.org/entity/Q56528928"
+    "wikidata_url": "http://www.wikidata.org/entity/Q56528928"
   },
   "120": {
     "id": 120,
@@ -1110,7 +1110,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.35700",
     "longitude": "0.06995",
-    "wikidata": "http://www.wikidata.org/entity/Q209021"
+    "wikidata_url": "http://www.wikidata.org/entity/Q209021"
   },
   "121": {
     "id": 121,
@@ -1121,7 +1121,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.07667",
     "longitude": "4.29861",
-    "wikidata": "http://www.wikidata.org/entity/Q36600"
+    "wikidata_url": "http://www.wikidata.org/entity/Q36600"
   },
   "122": {
     "id": 122,
@@ -1132,7 +1132,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.50000",
     "longitude": "10.50000",
-    "wikidata": "http://www.wikidata.org/entity/Q183"
+    "wikidata_url": "http://www.wikidata.org/entity/Q183"
   },
   "124": {
     "id": 124,
@@ -1143,7 +1143,7 @@
     "Working Notes": "(Heutige Erweiterung der damals zerstörten Gemeinde)",
     "latitude": "49.21139",
     "longitude": "5.47250",
-    "wikidata": "http://www.wikidata.org/entity/Q669097"
+    "wikidata_url": "http://www.wikidata.org/entity/Q669097"
   },
   "125": {
     "id": 125,
@@ -1154,7 +1154,7 @@
     "Working Notes": "(Vermutlich England Dover gemeint(Andover Library Verbindung), die Datei wo es vorkommt nicht gefunden)",
     "latitude": "51.12598",
     "longitude": "1.31257",
-    "wikidata": "http://www.wikidata.org/entity/Q179224"
+    "wikidata_url": "http://www.wikidata.org/entity/Q179224"
   },
   "126": {
     "id": 126,
@@ -1165,7 +1165,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.05089",
     "longitude": "13.73832",
-    "wikidata": "http://www.wikidata.org/entity/Q1731"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1731"
   },
   "127": {
     "id": 127,
@@ -1186,7 +1186,7 @@
     "Working Notes": "Working Notes",
     "latitude": "56.00000",
     "longitude": "10.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q35"
+    "wikidata_url": "http://www.wikidata.org/entity/Q35"
   },
   "129": {
     "id": 129,
@@ -1197,7 +1197,7 @@
     "Working Notes": "(Bei Johannes Tillich - Erich H. Kontext ist es Dölzig/Neumark ->nun Dolsko)",
     "latitude": "52.90062",
     "longitude": "14.37630",
-    "wikidata": "http://www.wikidata.org/entity/Q5289683"
+    "wikidata_url": "http://www.wikidata.org/entity/Q5289683"
   },
   "130": {
     "id": 130,
@@ -1208,7 +1208,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.22172",
     "longitude": "6.77616",
-    "wikidata": "http://www.wikidata.org/entity/Q1718"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1718"
   },
   "132": {
     "id": 132,
@@ -1219,7 +1219,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.98070",
     "longitude": "10.31522",
-    "wikidata": "http://www.wikidata.org/entity/Q31987608"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31987608"
   },
   "133": {
     "id": 133,
@@ -1230,7 +1230,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.25083",
     "longitude": "7.14816",
-    "wikidata": "http://www.wikidata.org/entity/Q702259"
+    "wikidata_url": "http://www.wikidata.org/entity/Q702259"
   },
   "134": {
     "id": 134,
@@ -1241,7 +1241,7 @@
     "Working Notes": "Working Notes",
     "latitude": "48.33333",
     "longitude": "7.43333",
-    "wikidata": "http://www.wikidata.org/entity/Q1142"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1142"
   },
   "135": {
     "id": 135,
@@ -1252,7 +1252,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.97870",
     "longitude": "11.03283",
-    "wikidata": "http://www.wikidata.org/entity/Q31997476"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31997476"
   },
   "136": {
     "id": 136,
@@ -1263,7 +1263,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.59099",
     "longitude": "11.00783",
-    "wikidata": "http://www.wikidata.org/entity/Q117751880"
+    "wikidata_url": "http://www.wikidata.org/entity/Q117751880"
   },
   "137": {
     "id": 137,
@@ -1274,7 +1274,7 @@
     "Working Notes": "(spezifisch nicht bestimmbar in der Region verordnet)",
     "latitude": "53.33388",
     "longitude": "13.43500",
-    "wikidata": "http://www.wikidata.org/entity/Q612214"
+    "wikidata_url": "http://www.wikidata.org/entity/Q612214"
   },
   "138": {
     "id": 138,
@@ -1285,7 +1285,7 @@
     "Working Notes": "(Mareuil)",
     "latitude": "45.45074",
     "longitude": "0.45214",
-    "wikidata": "http://www.wikidata.org/entity/Q35724623"
+    "wikidata_url": "http://www.wikidata.org/entity/Q35724623"
   },
   "139": {
     "id": 139,
@@ -1296,7 +1296,7 @@
     "Working Notes": "Working Notes",
     "latitude": "48.25224",
     "longitude": "-3.99263",
-    "wikidata": "http://www.wikidata.org/entity/Q3389"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3389"
   },
   "140": {
     "id": 140,
@@ -1307,7 +1307,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.63244",
     "longitude": "3.09915",
-    "wikidata": "http://www.wikidata.org/entity/Q663930"
+    "wikidata_url": "http://www.wikidata.org/entity/Q663930"
   },
   "141": {
     "id": 141,
@@ -1338,7 +1338,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.11552",
     "longitude": "8.68417",
-    "wikidata": "http://www.wikidata.org/entity/Q122166308"
+    "wikidata_url": "http://www.wikidata.org/entity/Q122166308"
   },
   "144": {
     "id": 144,
@@ -1349,7 +1349,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.08309",
     "longitude": "8.62852",
-    "wikidata": "http://www.wikidata.org/entity/Q567307"
+    "wikidata_url": "http://www.wikidata.org/entity/Q567307"
   },
   "149": {
     "id": 149,
@@ -1360,7 +1360,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.34714",
     "longitude": "14.55062",
-    "wikidata": "http://www.wikidata.org/entity/Q4024"
+    "wikidata_url": "http://www.wikidata.org/entity/Q4024"
   },
   "160": {
     "id": 160,
@@ -1381,7 +1381,7 @@
     "Working Notes": "Working Notes",
     "latitude": "46.00000",
     "longitude": "2.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q142"
+    "wikidata_url": "http://www.wikidata.org/entity/Q142"
   },
   "162": {
     "id": 162,
@@ -1402,7 +1402,7 @@
     "Working Notes": "Unsichere Angabe",
     "latitude": "60.13333",
     "longitude": "14.38333",
-    "wikidata": "http://www.wikidata.org/entity/Q1317694"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1317694"
   },
   "164": {
     "id": 164,
@@ -1413,7 +1413,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.99590",
     "longitude": "7.85222",
-    "wikidata": "http://www.wikidata.org/entity/Q2833"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2833"
   },
   "168": {
     "id": 168,
@@ -1424,7 +1424,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.78730",
     "longitude": "14.03040",
-    "wikidata": "http://www.wikidata.org/entity/Q31897099"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31897099"
   },
   "170": {
     "id": 170,
@@ -1435,7 +1435,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.45052",
     "longitude": "13.62463",
-    "wikidata": "http://www.wikidata.org/entity/Q563528"
+    "wikidata_url": "http://www.wikidata.org/entity/Q563528"
   },
   "171": {
     "id": 171,
@@ -1456,7 +1456,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.50000",
     "longitude": "23.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q180086"
+    "wikidata_url": "http://www.wikidata.org/entity/Q180086"
   },
   "173": {
     "id": 173,
@@ -1467,7 +1467,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.43575",
     "longitude": "10.37790",
-    "wikidata": "http://www.wikidata.org/entity/Q32027120"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32027120"
   },
   "174": {
     "id": 174,
@@ -1478,7 +1478,7 @@
     "Working Notes": "Working Notes",
     "latitude": "44.40478",
     "longitude": "8.94439",
-    "wikidata": "http://www.wikidata.org/entity/Q33675638"
+    "wikidata_url": "http://www.wikidata.org/entity/Q33675638"
   },
   "175": {
     "id": 175,
@@ -1509,7 +1509,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.04057",
     "longitude": "9.06804",
-    "wikidata": "http://www.wikidata.org/entity/Q15730054"
+    "wikidata_url": "http://www.wikidata.org/entity/Q15730054"
   },
   "179": {
     "id": 179,
@@ -1520,7 +1520,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.65563",
     "longitude": "21.16035",
-    "wikidata": "http://www.wikidata.org/entity/Q947521"
+    "wikidata_url": "http://www.wikidata.org/entity/Q947521"
   },
   "180": {
     "id": 180,
@@ -1531,7 +1531,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.90425",
     "longitude": "10.42766",
-    "wikidata": "http://www.wikidata.org/entity/Q32038334"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32038334"
   },
   "181": {
     "id": 181,
@@ -1542,7 +1542,7 @@
     "Working Notes": "Working Notes",
     "latitude": "54.09311",
     "longitude": "13.38786",
-    "wikidata": "http://www.wikidata.org/entity/Q32041909"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32041909"
   },
   "182": {
     "id": 182,
@@ -1553,7 +1553,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.11552",
     "longitude": "8.68417",
-    "wikidata": "http://www.wikidata.org/entity/Q122166308"
+    "wikidata_url": "http://www.wikidata.org/entity/Q122166308"
   },
   "183": {
     "id": 183,
@@ -1564,7 +1564,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.48338",
     "longitude": "13.26586",
-    "wikidata": "http://www.wikidata.org/entity/Q2874431"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2874431"
   },
   "184": {
     "id": 184,
@@ -1575,7 +1575,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.90055",
     "longitude": "3.62801",
-    "wikidata": "http://www.wikidata.org/entity/Q271093"
+    "wikidata_url": "http://www.wikidata.org/entity/Q271093"
   },
   "185": {
     "id": 185,
@@ -1596,7 +1596,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.53443",
     "longitude": "9.93228",
-    "wikidata": "http://www.wikidata.org/entity/Q3033"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3033"
   },
   "187": {
     "id": 187,
@@ -1607,7 +1607,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.90693",
     "longitude": "8.37853",
-    "wikidata": "http://www.wikidata.org/entity/Q11042201"
+    "wikidata_url": "http://www.wikidata.org/entity/Q11042201"
   },
   "188": {
     "id": 188,
@@ -1628,7 +1628,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.48158",
     "longitude": "11.97947",
-    "wikidata": "http://www.wikidata.org/entity/Q445500"
+    "wikidata_url": "http://www.wikidata.org/entity/Q445500"
   },
   "196": {
     "id": 196,
@@ -1649,7 +1649,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.55073",
     "longitude": "9.99302",
-    "wikidata": "http://www.wikidata.org/entity/Q1055"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1055"
   },
   "199": {
     "id": 199,
@@ -1660,7 +1660,7 @@
     "Working Notes": "(Hamburg Ost Stadtteil)",
     "latitude": "53.55073",
     "longitude": "9.99302",
-    "wikidata": "http://www.wikidata.org/entity/Q1055"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1055"
   },
   "200": {
     "id": 200,
@@ -1671,7 +1671,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.37052",
     "longitude": "9.73322",
-    "wikidata": "http://www.wikidata.org/entity/Q32052205"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32052205"
   },
   "201": {
     "id": 201,
@@ -1682,7 +1682,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.75619",
     "longitude": "10.63462",
-    "wikidata": "http://www.wikidata.org/entity/Q4186"
+    "wikidata_url": "http://www.wikidata.org/entity/Q4186"
   },
   "202": {
     "id": 202,
@@ -1693,7 +1693,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.54409",
     "longitude": "13.23743",
-    "wikidata": "http://www.wikidata.org/entity/Q266024"
+    "wikidata_url": "http://www.wikidata.org/entity/Q266024"
   },
   "203": {
     "id": 203,
@@ -1704,7 +1704,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.40768",
     "longitude": "8.69079",
-    "wikidata": "http://www.wikidata.org/entity/Q2966"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2966"
   },
   "204": {
     "id": 204,
@@ -1715,7 +1715,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.13995",
     "longitude": "9.22054",
-    "wikidata": "http://www.wikidata.org/entity/Q32055580"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32055580"
   },
   "205": {
     "id": 205,
@@ -1726,7 +1726,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.11667",
     "longitude": "13.75000",
-    "wikidata": "http://www.wikidata.org/entity/Q8920"
+    "wikidata_url": "http://www.wikidata.org/entity/Q8920"
   },
   "206": {
     "id": 206,
@@ -1747,7 +1747,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.95379",
     "longitude": "14.16852",
-    "wikidata": "http://www.wikidata.org/entity/Q32296746"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32296746"
   },
   "208": {
     "id": 208,
@@ -1768,7 +1768,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.15077",
     "longitude": "9.95112",
-    "wikidata": "http://www.wikidata.org/entity/Q32058340"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32058340"
   },
   "210": {
     "id": 210,
@@ -1799,7 +1799,7 @@
     "Working Notes": "",
     "latitude": "49.92262",
     "longitude": "4.08259",
-    "wikidata": "http://www.wikidata.org/entity/Q271090"
+    "wikidata_url": "http://www.wikidata.org/entity/Q271090"
   },
   "213": {
     "id": 213,
@@ -1810,7 +1810,7 @@
     "Working Notes": "",
     "latitude": "52.67631",
     "longitude": "13.27775",
-    "wikidata": "http://www.wikidata.org/entity/Q32059729"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32059729"
   },
   "215": {
     "id": 215,
@@ -1821,7 +1821,7 @@
     "Working Notes": "",
     "latitude": "48.63969",
     "longitude": "9.01149",
-    "wikidata": "http://www.wikidata.org/entity/Q32060149"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32060149"
   },
   "216": {
     "id": 216,
@@ -1842,7 +1842,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.26266",
     "longitude": "11.39454",
-    "wikidata": "http://www.wikidata.org/entity/Q32060456"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32060456"
   },
   "218": {
     "id": 218,
@@ -1863,7 +1863,7 @@
     "Working Notes": "",
     "latitude": "42.83333",
     "longitude": "12.83333",
-    "wikidata": "http://www.wikidata.org/entity/Q38"
+    "wikidata_url": "http://www.wikidata.org/entity/Q38"
   },
   "220": {
     "id": 220,
@@ -1874,7 +1874,7 @@
     "Working Notes": "Doppelung in (407)",
     "latitude": "40.62678",
     "longitude": "14.37771",
-    "wikidata": "http://www.wikidata.org/entity/Q30030832"
+    "wikidata_url": "http://www.wikidata.org/entity/Q30030832"
   },
   "221": {
     "id": 221,
@@ -1885,7 +1885,7 @@
     "Working Notes": "Jacobsdorf (Mark) -> Unsicher Relevanz für Mark (284)",
     "latitude": "52.33333",
     "longitude": "14.35000",
-    "wikidata": "http://www.wikidata.org/entity/Q32062863"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32062863"
   },
   "223": {
     "id": 223,
@@ -1896,7 +1896,7 @@
     "Working Notes": "",
     "latitude": "53.36123",
     "longitude": "8.25355",
-    "wikidata": "http://www.wikidata.org/entity/Q835271"
+    "wikidata_url": "http://www.wikidata.org/entity/Q835271"
   },
   "224": {
     "id": 224,
@@ -1907,7 +1907,7 @@
     "Working Notes": "",
     "latitude": "50.92878",
     "longitude": "11.58990",
-    "wikidata": "http://www.wikidata.org/entity/Q32063050"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32063050"
   },
   "225": {
     "id": 225,
@@ -1918,7 +1918,7 @@
     "Working Notes": "",
     "latitude": "31.76904",
     "longitude": "35.21633",
-    "wikidata": "http://www.wikidata.org/entity/Q1218"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1218"
   },
   "227": {
     "id": 227,
@@ -1939,7 +1939,7 @@
     "Working Notes": "Working Notes",
     "latitude": "54.95411",
     "longitude": "8.34171",
-    "wikidata": "http://www.wikidata.org/entity/Q32063863"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32063863"
   },
   "233": {
     "id": 233,
@@ -1950,7 +1950,7 @@
     "Working Notes": "Karlsbad (Deutschland)",
     "latitude": "48.90617",
     "longitude": "8.50412",
-    "wikidata": "http://www.wikidata.org/entity/Q542659"
+    "wikidata_url": "http://www.wikidata.org/entity/Q542659"
   },
   "234": {
     "id": 234,
@@ -1961,7 +1961,7 @@
     "Working Notes": "",
     "latitude": "49.00937",
     "longitude": "8.40444",
-    "wikidata": "http://www.wikidata.org/entity/Q1040"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1040"
   },
   "236": {
     "id": 236,
@@ -1972,7 +1972,7 @@
     "Working Notes": "",
     "latitude": "51.31667",
     "longitude": "9.50000",
-    "wikidata": "http://www.wikidata.org/entity/Q32067925"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067925"
   },
   "238": {
     "id": 238,
@@ -1993,7 +1993,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.35357",
     "longitude": "7.57883",
-    "wikidata": "http://www.wikidata.org/entity/Q3104"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3104"
   },
   "240": {
     "id": 240,
@@ -2004,7 +2004,7 @@
     "Working Notes": "",
     "latitude": "55.67594",
     "longitude": "12.56553",
-    "wikidata": "http://www.wikidata.org/entity/Q1748"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1748"
   },
   "241": {
     "id": 241,
@@ -2015,7 +2015,7 @@
     "Working Notes": "",
     "latitude": "48.83139",
     "longitude": "9.12234",
-    "wikidata": "http://www.wikidata.org/entity/Q61663"
+    "wikidata_url": "http://www.wikidata.org/entity/Q61663"
   },
   "242": {
     "id": 242,
@@ -2036,7 +2036,7 @@
     "Working Notes": "(Unklar welches Krakau hier gemeint ist Deutschland, Österreich, Polen?), Datei Referenz nicht gefunden",
     "latitude": "50.06143",
     "longitude": "19.93658",
-    "wikidata": "http://www.wikidata.org/entity/Q31487"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31487"
   },
   "244": {
     "id": 244,
@@ -2057,7 +2057,7 @@
     "Working Notes": "(geonames -> chojna, nicht identisch)Wiki: Der Kreis Königsberg Nm., bis ins 19. Jahrhundert auch Königsberger Kreis genannt, war ein preußischer Landkreis in der Neumark in der Provinz Brandenburg, der bis 1946 bestand",
     "latitude": "52.96389",
     "longitude": "14.42797",
-    "wikidata": "http://www.wikidata.org/entity/Q954157"
+    "wikidata_url": "http://www.wikidata.org/entity/Q954157"
   },
   "246": {
     "id": 246,
@@ -2068,7 +2068,7 @@
     "Working Notes": "(Bad Kösen -> Eisenacher Konferenz)",
     "latitude": "51.13431",
     "longitude": "11.72203",
-    "wikidata": "http://www.wikidata.org/entity/Q574451"
+    "wikidata_url": "http://www.wikidata.org/entity/Q574451"
   },
   "247": {
     "id": 247,
@@ -2099,7 +2099,7 @@
     "Working Notes": "(Wälder Autry angegeben, nicht ganz sicher) -> Siehe (Bahnhof) Autry https://www.verdun14-18.de/tag/saalburg-lager/",
     "latitude": "49.27197",
     "longitude": "4.81416",
-    "wikidata": "http://www.wikidata.org/entity/Q49325814"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49325814"
   },
   "250": {
     "id": 250,
@@ -2110,7 +2110,7 @@
     "Working Notes": "Wälder Autry angegeben, nicht ganz sicher -> Siehe Autry, Saalburg Lager -> https://www.verdun14-18.de/bahnhof-autry-und-saalburg-lager/",
     "latitude": "49.27197",
     "longitude": "4.81416",
-    "wikidata": "http://www.wikidata.org/entity/Q49325814"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49325814"
   },
   "251": {
     "id": 251,
@@ -2121,7 +2121,7 @@
     "Working Notes": "",
     "latitude": "43.97590",
     "longitude": "8.15823",
-    "wikidata": "http://www.wikidata.org/entity/Q30026464"
+    "wikidata_url": "http://www.wikidata.org/entity/Q30026464"
   },
   "252": {
     "id": 252,
@@ -2132,7 +2132,7 @@
     "Working Notes": "",
     "latitude": "47.12575",
     "longitude": "10.56679",
-    "wikidata": "http://www.wikidata.org/entity/Q665605"
+    "wikidata_url": "http://www.wikidata.org/entity/Q665605"
   },
   "253": {
     "id": 253,
@@ -2143,7 +2143,7 @@
     "Working Notes": "",
     "latitude": "48.36053",
     "longitude": "-4.77086",
-    "wikidata": "http://www.wikidata.org/entity/Q326149"
+    "wikidata_url": "http://www.wikidata.org/entity/Q326149"
   },
   "254": {
     "id": 254,
@@ -2154,7 +2154,7 @@
     "Working Notes": "",
     "latitude": "49.49346",
     "longitude": "0.10785",
-    "wikidata": "http://www.wikidata.org/entity/Q42810"
+    "wikidata_url": "http://www.wikidata.org/entity/Q42810"
   },
   "255": {
     "id": 255,
@@ -2175,7 +2175,7 @@
     "Working Notes": "",
     "latitude": "48.63603",
     "longitude": "-1.51139",
-    "wikidata": "http://www.wikidata.org/entity/Q20892"
+    "wikidata_url": "http://www.wikidata.org/entity/Q20892"
   },
   "257": {
     "id": 257,
@@ -2186,7 +2186,7 @@
     "Working Notes": "",
     "latitude": "47.34630",
     "longitude": "-3.15583",
-    "wikidata": "http://www.wikidata.org/entity/Q128745"
+    "wikidata_url": "http://www.wikidata.org/entity/Q128745"
   },
   "258": {
     "id": 258,
@@ -2197,7 +2197,7 @@
     "Working Notes": "Schloss Chateau nördlich von Tournon-Saint-Pierre",
     "latitude": "46.73928",
     "longitude": "0.95268",
-    "wikidata": "http://www.wikidata.org/entity/Q1170614"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1170614"
   },
   "259": {
     "id": 259,
@@ -2218,7 +2218,7 @@
     "Working Notes": "",
     "latitude": "51.33962",
     "longitude": "12.37129",
-    "wikidata": "http://www.wikidata.org/entity/Q2079"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2079"
   },
   "261": {
     "id": 261,
@@ -2239,7 +2239,7 @@
     "Working Notes": "",
     "latitude": "49.43036",
     "longitude": "3.33726",
-    "wikidata": "http://www.wikidata.org/entity/Q846041"
+    "wikidata_url": "http://www.wikidata.org/entity/Q846041"
   },
   "266": {
     "id": 266,
@@ -2250,7 +2250,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.63297",
     "longitude": "3.05858",
-    "wikidata": "http://www.wikidata.org/entity/Q648"
+    "wikidata_url": "http://www.wikidata.org/entity/Q648"
   },
   "267": {
     "id": 267,
@@ -2271,7 +2271,7 @@
     "Working Notes": "",
     "latitude": "38.71667",
     "longitude": "-9.13333",
-    "wikidata": "http://www.wikidata.org/entity/Q597"
+    "wikidata_url": "http://www.wikidata.org/entity/Q597"
   },
   "269": {
     "id": 269,
@@ -2282,7 +2282,7 @@
     "Working Notes": "Liverpool (United Kingdom, England)",
     "latitude": "53.41058",
     "longitude": "-2.97794",
-    "wikidata": "http://www.wikidata.org/entity/Q24826"
+    "wikidata_url": "http://www.wikidata.org/entity/Q24826"
   },
   "270": {
     "id": 270,
@@ -2293,7 +2293,7 @@
     "Working Notes": "",
     "latitude": "54.58313",
     "longitude": "13.61067",
-    "wikidata": "http://www.wikidata.org/entity/Q32101560"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32101560"
   },
   "271": {
     "id": 271,
@@ -2304,7 +2304,7 @@
     "Working Notes": "",
     "latitude": "51.50853",
     "longitude": "-0.12574",
-    "wikidata": "http://www.wikidata.org/entity/Q84"
+    "wikidata_url": "http://www.wikidata.org/entity/Q84"
   },
   "272": {
     "id": 272,
@@ -2315,7 +2315,7 @@
     "Working Notes": "Lugano (Switzerland)",
     "latitude": "46.01008",
     "longitude": "8.96004",
-    "wikidata": "http://www.wikidata.org/entity/Q7024"
+    "wikidata_url": "http://www.wikidata.org/entity/Q7024"
   },
   "273": {
     "id": 273,
@@ -2326,7 +2326,7 @@
     "Working Notes": "Lugo (Spanien)",
     "latitude": "43.00992",
     "longitude": "-7.55602",
-    "wikidata": "http://www.wikidata.org/entity/Q31917885"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31917885"
   },
   "274": {
     "id": 274,
@@ -2367,7 +2367,7 @@
     "Working Notes": "",
     "latitude": "49.48910",
     "longitude": "8.46694",
-    "wikidata": "http://www.wikidata.org/entity/Q2119"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2119"
   },
   "278": {
     "id": 278,
@@ -2378,7 +2378,7 @@
     "Working Notes": "",
     "latitude": "46.85441",
     "longitude": "7.89966",
-    "wikidata": "http://www.wikidata.org/entity/Q67493"
+    "wikidata_url": "http://www.wikidata.org/entity/Q67493"
   },
   "279": {
     "id": 279,
@@ -2389,7 +2389,7 @@
     "Working Notes": "",
     "latitude": "50.80904",
     "longitude": "8.77069",
-    "wikidata": "http://www.wikidata.org/entity/Q32121710"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32121710"
   },
   "284": {
     "id": 284,
@@ -2430,7 +2430,7 @@
     "Working Notes": "",
     "latitude": "51.66796",
     "longitude": "17.59808",
-    "wikidata": "http://www.wikidata.org/entity/Q735089"
+    "wikidata_url": "http://www.wikidata.org/entity/Q735089"
   },
   "288": {
     "id": 288,
@@ -2441,7 +2441,7 @@
     "Working Notes": "Mecklenburg Westpommern",
     "latitude": "53.83333",
     "longitude": "12.50000",
-    "wikidata": "http://www.wikidata.org/entity/Q1196"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1196"
   },
   "289": {
     "id": 289,
@@ -2462,7 +2462,7 @@
     "Working Notes": "Als Iraq angegeben",
     "latitude": "33.00000",
     "longitude": "44.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q796"
+    "wikidata_url": "http://www.wikidata.org/entity/Q796"
   },
   "292": {
     "id": 292,
@@ -2473,7 +2473,7 @@
     "Working Notes": "",
     "latitude": "49.11911",
     "longitude": "6.17269",
-    "wikidata": "http://www.wikidata.org/entity/Q22690"
+    "wikidata_url": "http://www.wikidata.org/entity/Q22690"
   },
   "293": {
     "id": 293,
@@ -2484,7 +2484,7 @@
     "Working Notes": "",
     "latitude": "53.92921",
     "longitude": "14.45097",
-    "wikidata": "http://www.wikidata.org/entity/Q148615"
+    "wikidata_url": "http://www.wikidata.org/entity/Q148615"
   },
   "297": {
     "id": 297,
@@ -2495,7 +2495,7 @@
     "Working Notes": "",
     "latitude": "52.85769",
     "longitude": "14.39297",
-    "wikidata": "http://www.wikidata.org/entity/Q988602"
+    "wikidata_url": "http://www.wikidata.org/entity/Q988602"
   },
   "298": {
     "id": 298,
@@ -2506,7 +2506,7 @@
     "Working Notes": "",
     "latitude": "50.63333",
     "longitude": "3.11667",
-    "wikidata": "http://www.wikidata.org/entity/Q35732297"
+    "wikidata_url": "http://www.wikidata.org/entity/Q35732297"
   },
   "299": {
     "id": 299,
@@ -2517,7 +2517,7 @@
     "Working Notes": "",
     "latitude": "48.89250",
     "longitude": "2.34440",
-    "wikidata": "http://www.wikidata.org/entity/Q186115"
+    "wikidata_url": "http://www.wikidata.org/entity/Q186115"
   },
   "300": {
     "id": 300,
@@ -2538,7 +2538,7 @@
     "Working Notes": "",
     "latitude": "52.86010",
     "longitude": "14.40070",
-    "wikidata": "http://www.wikidata.org/entity/Q33694693"
+    "wikidata_url": "http://www.wikidata.org/entity/Q33694693"
   },
   "303": {
     "id": 303,
@@ -2549,7 +2549,7 @@
     "Working Notes": "",
     "latitude": "49.31000",
     "longitude": "4.78389",
-    "wikidata": "http://www.wikidata.org/entity/Q1084909"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1084909"
   },
   "304": {
     "id": 304,
@@ -2560,7 +2560,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.43781",
     "longitude": "13.64981",
-    "wikidata": "http://www.wikidata.org/entity/Q694789"
+    "wikidata_url": "http://www.wikidata.org/entity/Q694789"
   },
   "305": {
     "id": 305,
@@ -2571,7 +2571,7 @@
     "Working Notes": "Mühlhausen (Thüring.)",
     "latitude": "51.20896",
     "longitude": "10.45275",
-    "wikidata": "http://www.wikidata.org/entity/Q32664001"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32664001"
   },
   "306": {
     "id": 306,
@@ -2582,7 +2582,7 @@
     "Working Notes": "",
     "latitude": "48.13743",
     "longitude": "11.57549",
-    "wikidata": "http://www.wikidata.org/entity/Q32664319"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32664319"
   },
   "307": {
     "id": 307,
@@ -2593,7 +2593,7 @@
     "Working Notes": "",
     "latitude": "51.96236",
     "longitude": "7.62571",
-    "wikidata": "http://www.wikidata.org/entity/Q33158887"
+    "wikidata_url": "http://www.wikidata.org/entity/Q33158887"
   },
   "308": {
     "id": 308,
@@ -2604,7 +2604,7 @@
     "Working Notes": "",
     "latitude": "48.22361",
     "longitude": "3.22306",
-    "wikidata": "http://www.wikidata.org/entity/Q1173964"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1173964"
   },
   "309": {
     "id": 309,
@@ -2615,7 +2615,7 @@
     "Working Notes": "",
     "latitude": "50.46690",
     "longitude": "4.86746",
-    "wikidata": "http://www.wikidata.org/entity/Q51389725"
+    "wikidata_url": "http://www.wikidata.org/entity/Q51389725"
   },
   "310": {
     "id": 310,
@@ -2626,7 +2626,7 @@
     "Working Notes": "",
     "latitude": "50.46690",
     "longitude": "4.86746",
-    "wikidata": "http://www.wikidata.org/entity/Q51389725"
+    "wikidata_url": "http://www.wikidata.org/entity/Q51389725"
   },
   "311": {
     "id": 311,
@@ -2637,7 +2637,7 @@
     "Working Notes": "Naumburg (Saale) -> 1 Wk. Denkmal",
     "latitude": "51.14987",
     "longitude": "11.80979",
-    "wikidata": "http://www.wikidata.org/entity/Q32174717"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32174717"
   },
   "312": {
     "id": 312,
@@ -2648,7 +2648,7 @@
     "Working Notes": "Neuruppin",
     "latitude": "52.92815",
     "longitude": "12.80311",
-    "wikidata": "http://www.wikidata.org/entity/Q32183911"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32183911"
   },
   "314": {
     "id": 314,
@@ -2659,7 +2659,7 @@
     "Working Notes": "(Brief betrifft Johanna Tillich, Neudamm (am großen Bruch, Deutschland)wegen Johannes Ortsnähe in Dölzig, wahrscheinlicher als Dębno(Neudamm) in Polen",
     "latitude": "52.02932",
     "longitude": "11.09422",
-    "wikidata": "http://www.wikidata.org/entity/Q110531038"
+    "wikidata_url": "http://www.wikidata.org/entity/Q110531038"
   },
   "317": {
     "id": 317,
@@ -2670,7 +2670,7 @@
     "Working Notes": "Neukölln(Berlin District)",
     "latitude": "52.48333",
     "longitude": "13.45000",
-    "wikidata": "http://www.wikidata.org/entity/Q4071168"
+    "wikidata_url": "http://www.wikidata.org/entity/Q4071168"
   },
   "318": {
     "id": 318,
@@ -2691,7 +2691,7 @@
     "Working Notes": "",
     "latitude": "40.71427",
     "longitude": "-74.00597",
-    "wikidata": "http://www.wikidata.org/entity/Q60"
+    "wikidata_url": "http://www.wikidata.org/entity/Q60"
   },
   "321": {
     "id": 321,
@@ -2702,7 +2702,7 @@
     "Working Notes": "Nijmegen (Niederlande)",
     "latitude": "51.84250",
     "longitude": "5.85278",
-    "wikidata": "http://www.wikidata.org/entity/Q13188714"
+    "wikidata_url": "http://www.wikidata.org/entity/Q13188714"
   },
   "322": {
     "id": 322,
@@ -2713,7 +2713,7 @@
     "Working Notes": "(L00411)(Gibt viele Nogents, könnte neben bloß \"Nogent\"(kleine Stadt) als solchen auch \"Nogent-sur-Marne\"(große Stadt) gemeint sein weil dort weil es befindet sich dort -> evangelische Institut Biblique Nogent-sur-Marne)",
     "latitude": "48.02940",
     "longitude": "5.34590",
-    "wikidata": "http://www.wikidata.org/entity/Q1325342"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1325342"
   },
   "323": {
     "id": 323,
@@ -2724,7 +2724,7 @@
     "Working Notes": "(GeoNames: Nord Frankreich - womöglich Hauts-de-France ein guter Verweis)",
     "latitude": "49.61232",
     "longitude": "2.65594",
-    "wikidata": "http://www.wikidata.org/entity/Q18677767"
+    "wikidata_url": "http://www.wikidata.org/entity/Q18677767"
   },
   "324": {
     "id": 324,
@@ -2735,7 +2735,7 @@
     "Working Notes": "",
     "latitude": "62.00000",
     "longitude": "10.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q20"
+    "wikidata_url": "http://www.wikidata.org/entity/Q20"
   },
   "325": {
     "id": 325,
@@ -2756,7 +2756,7 @@
     "Working Notes": "",
     "latitude": "49.45421",
     "longitude": "11.07752",
-    "wikidata": "http://www.wikidata.org/entity/Q116874675"
+    "wikidata_url": "http://www.wikidata.org/entity/Q116874675"
   },
   "328": {
     "id": 328,
@@ -2787,7 +2787,7 @@
     "Working Notes": "",
     "latitude": "50.08861",
     "longitude": "8.78250",
-    "wikidata": "http://www.wikidata.org/entity/Q3042"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3042"
   },
   "331": {
     "id": 331,
@@ -2798,7 +2798,7 @@
     "Working Notes": "(L00498)Wahrscheinlich nicht Olizy (Reims) -> sondern Olizy-sur-Chiers (Verdun)-> https://www.verdun14-18.de/tag/olizy/",
     "latitude": "49.55670",
     "longitude": "5.22190",
-    "wikidata": "http://www.wikidata.org/entity/Q981623"
+    "wikidata_url": "http://www.wikidata.org/entity/Q981623"
   },
   "332": {
     "id": 332,
@@ -2819,7 +2819,7 @@
     "Working Notes": "",
     "latitude": "52.27264",
     "longitude": "8.04980",
-    "wikidata": "http://www.wikidata.org/entity/Q33158934"
+    "wikidata_url": "http://www.wikidata.org/entity/Q33158934"
   },
   "334": {
     "id": 334,
@@ -2830,7 +2830,7 @@
     "Working Notes": "",
     "latitude": "46.30651",
     "longitude": "10.73757",
-    "wikidata": "http://www.wikidata.org/entity/Q297133"
+    "wikidata_url": "http://www.wikidata.org/entity/Q297133"
   },
   "335": {
     "id": 335,
@@ -2861,7 +2861,7 @@
     "Working Notes": "(Vorsicht! Datei nicht gefunden; gibt mehrere im Namen, aber die kleine Gemeinde macht Sinn im Weltkriegskontext)",
     "latitude": "49.81320",
     "longitude": "2.95190",
-    "wikidata": "http://www.wikidata.org/entity/Q490478"
+    "wikidata_url": "http://www.wikidata.org/entity/Q490478"
   },
   "343": {
     "id": 343,
@@ -2882,7 +2882,7 @@
     "Working Notes": "Pasly02200 (Aisne)",
     "latitude": "49.40167",
     "longitude": "3.29631",
-    "wikidata": "http://www.wikidata.org/entity/Q1020383"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1020383"
   },
   "346": {
     "id": 346,
@@ -2893,7 +2893,7 @@
     "Working Notes": "(geoNames Verweise auf die Saale) https://de.wikipedia.org/wiki/Peißnitzinsel",
     "latitude": "51.95410",
     "longitude": "11.91432",
-    "wikidata": "http://www.wikidata.org/entity/Q1678"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1678"
   },
   "347": {
     "id": 347,
@@ -2904,7 +2904,7 @@
     "Working Notes": "",
     "latitude": "48.20000",
     "longitude": "16.30000",
-    "wikidata": "http://www.wikidata.org/entity/Q690335"
+    "wikidata_url": "http://www.wikidata.org/entity/Q690335"
   },
   "348": {
     "id": 348,
@@ -2915,7 +2915,7 @@
     "Working Notes": "",
     "latitude": "46.96667",
     "longitude": "10.55000",
-    "wikidata": "http://www.wikidata.org/entity/Q21881863"
+    "wikidata_url": "http://www.wikidata.org/entity/Q21881863"
   },
   "349": {
     "id": 349,
@@ -2926,7 +2926,7 @@
     "Working Notes": "(Russisch: Baltiysk)",
     "latitude": "54.65455",
     "longitude": "19.90929",
-    "wikidata": "http://www.wikidata.org/entity/Q5660"
+    "wikidata_url": "http://www.wikidata.org/entity/Q5660"
   },
   "350": {
     "id": 350,
@@ -2937,7 +2937,7 @@
     "Working Notes": "",
     "latitude": "46.38235",
     "longitude": "9.90806",
-    "wikidata": "http://www.wikidata.org/entity/Q15132"
+    "wikidata_url": "http://www.wikidata.org/entity/Q15132"
   },
   "351": {
     "id": 351,
@@ -2948,7 +2948,7 @@
     "Working Notes": "",
     "latitude": "52.00000",
     "longitude": "20.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q36"
+    "wikidata_url": "http://www.wikidata.org/entity/Q36"
   },
   "352": {
     "id": 352,
@@ -2979,7 +2979,7 @@
     "Working Notes": "Porto-Vecchio (Corsica)",
     "latitude": "41.59101",
     "longitude": "9.27947",
-    "wikidata": "http://www.wikidata.org/entity/Q241567"
+    "wikidata_url": "http://www.wikidata.org/entity/Q241567"
   },
   "356": {
     "id": 356,
@@ -2990,7 +2990,7 @@
     "Working Notes": "Potsdam (Brandenburg)",
     "latitude": "52.39886",
     "longitude": "13.06566",
-    "wikidata": "http://www.wikidata.org/entity/Q1711"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1711"
   },
   "357": {
     "id": 357,
@@ -3031,7 +3031,7 @@
     "Working Notes": "",
     "latitude": "51.79000",
     "longitude": "11.16200",
-    "wikidata": "http://www.wikidata.org/entity/Q40623"
+    "wikidata_url": "http://www.wikidata.org/entity/Q40623"
   },
   "361": {
     "id": 361,
@@ -3042,7 +3042,7 @@
     "Working Notes": "",
     "latitude": "47.48368",
     "longitude": "-3.11986",
-    "wikidata": "http://www.wikidata.org/entity/Q128783"
+    "wikidata_url": "http://www.wikidata.org/entity/Q128783"
   },
   "362": {
     "id": 362,
@@ -3053,7 +3053,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.60659",
     "longitude": "12.33696",
-    "wikidata": "http://www.wikidata.org/entity/Q32247316"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32247316"
   },
   "363": {
     "id": 363,
@@ -3074,7 +3074,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.65165",
     "longitude": "-2.08421",
-    "wikidata": "http://www.wikidata.org/entity/Q49272226"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49272226"
   },
   "365": {
     "id": 365,
@@ -3085,7 +3085,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.50979",
     "longitude": "4.36740",
-    "wikidata": "http://www.wikidata.org/entity/Q209790"
+    "wikidata_url": "http://www.wikidata.org/entity/Q209790"
   },
   "366": {
     "id": 366,
@@ -3096,7 +3096,7 @@
     "Working Notes": "Rheingau-Taunus-Kreis",
     "latitude": "50.16889",
     "longitude": "8.07472",
-    "wikidata": "http://www.wikidata.org/entity/Q7907"
+    "wikidata_url": "http://www.wikidata.org/entity/Q7907"
   },
   "367": {
     "id": 367,
@@ -3117,7 +3117,7 @@
     "Working Notes": "",
     "latitude": "41.89193",
     "longitude": "12.51133",
-    "wikidata": "http://www.wikidata.org/entity/Q220"
+    "wikidata_url": "http://www.wikidata.org/entity/Q220"
   },
   "370": {
     "id": 370,
@@ -3128,7 +3128,7 @@
     "Working Notes": "",
     "latitude": "54.08870",
     "longitude": "12.14049",
-    "wikidata": "http://www.wikidata.org/entity/Q32265522"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32265522"
   },
   "372": {
     "id": 372,
@@ -3149,7 +3149,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.44313",
     "longitude": "1.09932",
-    "wikidata": "http://www.wikidata.org/entity/Q30974"
+    "wikidata_url": "http://www.wikidata.org/entity/Q30974"
   },
   "374": {
     "id": 374,
@@ -3160,7 +3160,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.89296",
     "longitude": "10.36573",
-    "wikidata": "http://www.wikidata.org/entity/Q32269123"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32269123"
   },
   "375": {
     "id": 375,
@@ -3171,7 +3171,7 @@
     "Working Notes": "Alt Ruppin",
     "latitude": "52.94833",
     "longitude": "12.84800",
-    "wikidata": "http://www.wikidata.org/entity/Q433253"
+    "wikidata_url": "http://www.wikidata.org/entity/Q433253"
   },
   "376": {
     "id": 376,
@@ -3182,7 +3182,7 @@
     "Working Notes": "",
     "latitude": "60.00000",
     "longitude": "100.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q159"
+    "wikidata_url": "http://www.wikidata.org/entity/Q159"
   },
   "378": {
     "id": 378,
@@ -3203,7 +3203,7 @@
     "Working Notes": "",
     "latitude": "54.41667",
     "longitude": "13.40000",
-    "wikidata": "http://www.wikidata.org/entity/Q3237"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3237"
   },
   "381": {
     "id": 381,
@@ -3214,7 +3214,7 @@
     "Working Notes": "",
     "latitude": "47.30432",
     "longitude": "8.54691",
-    "wikidata": "http://www.wikidata.org/entity/Q22369988"
+    "wikidata_url": "http://www.wikidata.org/entity/Q22369988"
   },
   "382": {
     "id": 382,
@@ -3225,7 +3225,7 @@
     "Working Notes": "",
     "latitude": "49.23262",
     "longitude": "7.00982",
-    "wikidata": "http://www.wikidata.org/entity/Q1724"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1724"
   },
   "383": {
     "id": 383,
@@ -3236,7 +3236,7 @@
     "Working Notes": "",
     "latitude": "51.00000",
     "longitude": "13.25000",
-    "wikidata": "http://www.wikidata.org/entity/Q1202"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1202"
   },
   "384": {
     "id": 384,
@@ -3277,7 +3277,7 @@
     "Working Notes": "",
     "latitude": "41.08021",
     "longitude": "14.25653",
-    "wikidata": "http://www.wikidata.org/entity/Q58894"
+    "wikidata_url": "http://www.wikidata.org/entity/Q58894"
   },
   "389": {
     "id": 389,
@@ -3298,7 +3298,7 @@
     "Working Notes": "(L00160)Es gibt mehrere Schildberg, ich weis nicht welches gemeint sein könnte",
     "latitude": "52.94864",
     "longitude": "14.78931",
-    "wikidata": "http://www.wikidata.org/entity/Q5580461"
+    "wikidata_url": "http://www.wikidata.org/entity/Q5580461"
   },
   "392": {
     "id": 392,
@@ -3309,7 +3309,7 @@
     "Working Notes": "",
     "latitude": "54.20000",
     "longitude": "9.75000",
-    "wikidata": "http://www.wikidata.org/entity/Q1194"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1194"
   },
   "393": {
     "id": 393,
@@ -3330,7 +3330,7 @@
     "Working Notes": "",
     "latitude": "48.00000",
     "longitude": "8.25000",
-    "wikidata": "http://www.wikidata.org/entity/Q4204"
+    "wikidata_url": "http://www.wikidata.org/entity/Q4204"
   },
   "395": {
     "id": 395,
@@ -3351,7 +3351,7 @@
     "Working Notes": "",
     "latitude": "62.00000",
     "longitude": "15.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q34"
+    "wikidata_url": "http://www.wikidata.org/entity/Q34"
   },
   "397": {
     "id": 397,
@@ -3362,7 +3362,7 @@
     "Working Notes": "",
     "latitude": "47.00016",
     "longitude": "8.01427",
-    "wikidata": "http://www.wikidata.org/entity/Q39"
+    "wikidata_url": "http://www.wikidata.org/entity/Q39"
   },
   "398": {
     "id": 398,
@@ -3373,7 +3373,7 @@
     "Working Notes": "(L00526)(L01079)Vermutlich das Bad Schönfließ(Trzcińsko Zdrój, Polen) hier gemeint ist. Aus nähe zu Berlin im Text abgegeben; Johannes Tillich -> altes PR\"1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark)\"",
     "latitude": "52.96487",
     "longitude": "14.60667",
-    "wikidata": "http://www.wikidata.org/entity/Q558719"
+    "wikidata_url": "http://www.wikidata.org/entity/Q558719"
   },
   "399": {
     "id": 399,
@@ -3384,7 +3384,7 @@
     "Working Notes": "Sedan (Frankreich) (tillich__1915-05-28-tillich-p-an-tillich-j_246)",
     "latitude": "49.70187",
     "longitude": "4.94028",
-    "wikidata": "http://www.wikidata.org/entity/Q184371"
+    "wikidata_url": "http://www.wikidata.org/entity/Q184371"
   },
   "400": {
     "id": 400,
@@ -3395,7 +3395,7 @@
     "Working Notes": "",
     "latitude": "43.31822",
     "longitude": "11.33064",
-    "wikidata": "http://www.wikidata.org/entity/Q49280771"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49280771"
   },
   "401": {
     "id": 401,
@@ -3406,7 +3406,7 @@
     "Working Notes": "",
     "latitude": "46.42886",
     "longitude": "9.76364",
-    "wikidata": "http://www.wikidata.org/entity/Q22624696"
+    "wikidata_url": "http://www.wikidata.org/entity/Q22624696"
   },
   "403": {
     "id": 403,
@@ -3427,7 +3427,7 @@
     "Working Notes": "",
     "latitude": "49.38167",
     "longitude": "3.32361",
-    "wikidata": "http://www.wikidata.org/entity/Q167152"
+    "wikidata_url": "http://www.wikidata.org/entity/Q167152"
   },
   "405": {
     "id": 405,
@@ -3448,7 +3448,7 @@
     "Working Notes": "",
     "latitude": "49.93141",
     "longitude": "2.27639",
-    "wikidata": "http://www.wikidata.org/entity/Q12770"
+    "wikidata_url": "http://www.wikidata.org/entity/Q12770"
   },
   "407": {
     "id": 407,
@@ -3459,7 +3459,7 @@
     "Working Notes": "Doppelung in (220)",
     "latitude": "40.62678",
     "longitude": "14.37771",
-    "wikidata": "http://www.wikidata.org/entity/Q30030832"
+    "wikidata_url": "http://www.wikidata.org/entity/Q30030832"
   },
   "408": {
     "id": 408,
@@ -3480,7 +3480,7 @@
     "Working Notes": "",
     "latitude": "47.08257",
     "longitude": "10.22347",
-    "wikidata": "http://www.wikidata.org/entity/Q659996"
+    "wikidata_url": "http://www.wikidata.org/entity/Q659996"
   },
   "410": {
     "id": 410,
@@ -3501,7 +3501,7 @@
     "Working Notes": "",
     "latitude": "53.55700",
     "longitude": "9.96400",
-    "wikidata": "http://www.wikidata.org/entity/Q1556"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1556"
   },
   "413": {
     "id": 413,
@@ -3512,7 +3512,7 @@
     "Working Notes": "Heute: Starosiedle (alte PR -> \"Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben\")",
     "latitude": "51.85782",
     "longitude": "14.82112",
-    "wikidata": "http://www.wikidata.org/entity/Q150033"
+    "wikidata_url": "http://www.wikidata.org/entity/Q150033"
   },
   "414": {
     "id": 414,
@@ -3523,7 +3523,7 @@
     "Working Notes": "",
     "latitude": "53.59220",
     "longitude": "9.92870",
-    "wikidata": "http://www.wikidata.org/entity/Q1621"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1621"
   },
   "415": {
     "id": 415,
@@ -3534,7 +3534,7 @@
     "Working Notes": "Stendal(verm. Deutschland) (tillich__1905-07-31-winkler-t-an-tillich-p_35)",
     "latitude": "52.60690",
     "longitude": "11.85867",
-    "wikidata": "http://www.wikidata.org/entity/Q49278247"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49278247"
   },
   "416": {
     "id": 416,
@@ -3545,7 +3545,7 @@
     "Working Notes": "Stettin (Szczecin, Polen)",
     "latitude": "53.42894",
     "longitude": "14.55302",
-    "wikidata": "http://www.wikidata.org/entity/Q393"
+    "wikidata_url": "http://www.wikidata.org/entity/Q393"
   },
   "417": {
     "id": 417,
@@ -3556,7 +3556,7 @@
     "Working Notes": "",
     "latitude": "59.50000",
     "longitude": "18.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q104231"
+    "wikidata_url": "http://www.wikidata.org/entity/Q104231"
   },
   "418": {
     "id": 418,
@@ -3587,7 +3587,7 @@
     "Working Notes": "",
     "latitude": "48.78232",
     "longitude": "9.17702",
-    "wikidata": "http://www.wikidata.org/entity/Q32749678"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32749678"
   },
   "423": {
     "id": 423,
@@ -3598,7 +3598,7 @@
     "Working Notes": "",
     "latitude": "46.52715",
     "longitude": "10.58905",
-    "wikidata": "http://www.wikidata.org/entity/Q536016"
+    "wikidata_url": "http://www.wikidata.org/entity/Q536016"
   },
   "424": {
     "id": 424,
@@ -3609,7 +3609,7 @@
     "Working Notes": "",
     "latitude": "53.91053",
     "longitude": "14.24712",
-    "wikidata": "http://www.wikidata.org/entity/Q41599"
+    "wikidata_url": "http://www.wikidata.org/entity/Q41599"
   },
   "425": {
     "id": 425,
@@ -3620,7 +3620,7 @@
     "Working Notes": "",
     "latitude": "54.91823",
     "longitude": "8.33113",
-    "wikidata": "http://www.wikidata.org/entity/Q3107"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3107"
   },
   "426": {
     "id": 426,
@@ -3631,7 +3631,7 @@
     "Working Notes": "",
     "latitude": "37.08805",
     "longitude": "15.27924",
-    "wikidata": "http://www.wikidata.org/entity/Q16277"
+    "wikidata_url": "http://www.wikidata.org/entity/Q16277"
   },
   "427": {
     "id": 427,
@@ -3642,7 +3642,7 @@
     "Working Notes": "",
     "latitude": "49.93056",
     "longitude": "4.48639",
-    "wikidata": "http://www.wikidata.org/entity/Q1419211"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1419211"
   },
   "428": {
     "id": 428,
@@ -3663,7 +3663,7 @@
     "Working Notes": "",
     "latitude": "37.85206",
     "longitude": "15.28699",
-    "wikidata": "http://www.wikidata.org/entity/Q199952"
+    "wikidata_url": "http://www.wikidata.org/entity/Q199952"
   },
   "431": {
     "id": 431,
@@ -3674,7 +3674,7 @@
     "Working Notes": "",
     "latitude": "50.01381",
     "longitude": "20.98698",
-    "wikidata": "http://www.wikidata.org/entity/Q106281"
+    "wikidata_url": "http://www.wikidata.org/entity/Q106281"
   },
   "432": {
     "id": 432,
@@ -3685,7 +3685,7 @@
     "Working Notes": "Tartiers02290",
     "latitude": "49.43306",
     "longitude": "3.23889",
-    "wikidata": "http://www.wikidata.org/entity/Q871168"
+    "wikidata_url": "http://www.wikidata.org/entity/Q871168"
   },
   "434": {
     "id": 434,
@@ -3696,7 +3696,7 @@
     "Working Notes": "",
     "latitude": "52.39760",
     "longitude": "13.25227",
-    "wikidata": "http://www.wikidata.org/entity/Q572512"
+    "wikidata_url": "http://www.wikidata.org/entity/Q572512"
   },
   "435": {
     "id": 435,
@@ -3707,7 +3707,7 @@
     "Working Notes": "",
     "latitude": "49.65607",
     "longitude": "3.30107",
-    "wikidata": "http://www.wikidata.org/entity/Q378973"
+    "wikidata_url": "http://www.wikidata.org/entity/Q378973"
   },
   "436": {
     "id": 436,
@@ -3718,7 +3718,7 @@
     "Working Notes": "",
     "latitude": "49.44722",
     "longitude": "3.36833",
-    "wikidata": "http://www.wikidata.org/entity/Q770806"
+    "wikidata_url": "http://www.wikidata.org/entity/Q770806"
   },
   "437": {
     "id": 437,
@@ -3729,7 +3729,7 @@
     "Working Notes": "",
     "latitude": "50.91667",
     "longitude": "11.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q1205"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1205"
   },
   "438": {
     "id": 438,
@@ -3740,7 +3740,7 @@
     "Working Notes": "",
     "latitude": "47.25000",
     "longitude": "11.33333",
-    "wikidata": "http://www.wikidata.org/entity/Q42880"
+    "wikidata_url": "http://www.wikidata.org/entity/Q42880"
   },
   "439": {
     "id": 439,
@@ -3751,7 +3751,7 @@
     "Working Notes": "",
     "latitude": "51.55820",
     "longitude": "12.96990",
-    "wikidata": "http://www.wikidata.org/entity/Q12062"
+    "wikidata_url": "http://www.wikidata.org/entity/Q12062"
   },
   "440": {
     "id": 440,
@@ -3762,7 +3762,7 @@
     "Working Notes": "",
     "latitude": "53.01449",
     "longitude": "18.60145",
-    "wikidata": "http://www.wikidata.org/entity/Q650180"
+    "wikidata_url": "http://www.wikidata.org/entity/Q650180"
   },
   "441": {
     "id": 441,
@@ -3773,7 +3773,7 @@
     "Working Notes": "",
     "latitude": "49.95076",
     "longitude": "7.11562",
-    "wikidata": "http://www.wikidata.org/entity/Q33507259"
+    "wikidata_url": "http://www.wikidata.org/entity/Q33507259"
   },
   "442": {
     "id": 442,
@@ -3814,7 +3814,7 @@
     "Working Notes": "",
     "latitude": "48.52266",
     "longitude": "9.05222",
-    "wikidata": "http://www.wikidata.org/entity/Q32751737"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32751737"
   },
   "451": {
     "id": 451,
@@ -3835,7 +3835,7 @@
     "Working Notes": "Ulm (nicht Neu-Ulm)",
     "latitude": "48.39841",
     "longitude": "9.99155",
-    "wikidata": "http://www.wikidata.org/entity/Q3012"
+    "wikidata_url": "http://www.wikidata.org/entity/Q3012"
   },
   "454": {
     "id": 454,
@@ -3846,7 +3846,7 @@
     "Working Notes": "",
     "latitude": "50.35909",
     "longitude": "3.52506",
-    "wikidata": "http://www.wikidata.org/entity/Q163795"
+    "wikidata_url": "http://www.wikidata.org/entity/Q163795"
   },
   "455": {
     "id": 455,
@@ -3857,7 +3857,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.92206",
     "longitude": "2.54953",
-    "wikidata": "http://www.wikidata.org/entity/Q935707"
+    "wikidata_url": "http://www.wikidata.org/entity/Q935707"
   },
   "456": {
     "id": 456,
@@ -3868,7 +3868,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.30000",
     "longitude": "4.78333",
-    "wikidata": "http://www.wikidata.org/entity/Q1147107"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1147107"
   },
   "457": {
     "id": 457,
@@ -3879,7 +3879,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.41405",
     "longitude": "3.27964",
-    "wikidata": "http://www.wikidata.org/entity/Q49369925"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49369925"
   },
   "459": {
     "id": 459,
@@ -3890,7 +3890,7 @@
     "Working Notes": "",
     "latitude": "49.15964",
     "longitude": "5.38290",
-    "wikidata": "http://www.wikidata.org/entity/Q154748"
+    "wikidata_url": "http://www.wikidata.org/entity/Q154748"
   },
   "460": {
     "id": 460,
@@ -3901,7 +3901,7 @@
     "Working Notes": "(Als GeoNames Link Vauxrezis angeben, liegt nördlich in der Region)Villers la Fosse02200 (genau ->https://maps.app.goo.gl/aWtAUqLXTWupA7aU9)",
     "latitude": "49.41405",
     "longitude": "3.27964",
-    "wikidata": "http://www.wikidata.org/entity/Q49369925"
+    "wikidata_url": "http://www.wikidata.org/entity/Q49369925"
   },
   "462": {
     "id": 462,
@@ -3912,7 +3912,7 @@
     "Working Notes": "",
     "latitude": "46.29370",
     "longitude": "7.88149",
-    "wikidata": "http://www.wikidata.org/entity/Q22426822"
+    "wikidata_url": "http://www.wikidata.org/entity/Q22426822"
   },
   "463": {
     "id": 463,
@@ -3923,7 +3923,7 @@
     "Working Notes": "",
     "latitude": "49.39791",
     "longitude": "4.70120",
-    "wikidata": "http://www.wikidata.org/entity/Q209821"
+    "wikidata_url": "http://www.wikidata.org/entity/Q209821"
   },
   "464": {
     "id": 464,
@@ -3944,7 +3944,7 @@
     "Working Notes": "Siehe tillich_place_id__50(Es gibt eine Zugstation die heist Berlin Wannsee, aber hier ist wohl generell Wannsee in Berlin gemeint)",
     "latitude": "52.41915",
     "longitude": "13.15531",
-    "wikidata": "http://www.wikidata.org/entity/Q1949"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1949"
   },
   "466": {
     "id": 466,
@@ -3955,7 +3955,7 @@
     "Working Notes": "",
     "latitude": "52.22977",
     "longitude": "21.01178",
-    "wikidata": "http://www.wikidata.org/entity/Q270"
+    "wikidata_url": "http://www.wikidata.org/entity/Q270"
   },
   "467": {
     "id": 467,
@@ -3966,7 +3966,7 @@
     "Working Notes": "Wartburg (Burg in Deutschland)",
     "latitude": "50.96605",
     "longitude": "10.30646",
-    "wikidata": "http://www.wikidata.org/entity/Q151545"
+    "wikidata_url": "http://www.wikidata.org/entity/Q151545"
   },
   "468": {
     "id": 468,
@@ -3977,7 +3977,7 @@
     "Working Notes": "",
     "latitude": "49.63278",
     "longitude": "4.35667",
-    "wikidata": "http://www.wikidata.org/entity/Q930958"
+    "wikidata_url": "http://www.wikidata.org/entity/Q930958"
   },
   "469": {
     "id": 469,
@@ -4008,7 +4008,7 @@
     "Working Notes": "",
     "latitude": "50.08258",
     "longitude": "8.24932",
-    "wikidata": "http://www.wikidata.org/entity/Q1721"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1721"
   },
   "472": {
     "id": 472,
@@ -4039,7 +4039,7 @@
     "Working Notes": "(Hanffstengel schreibt Worpswede immer als Worpswerde)",
     "latitude": "53.21930",
     "longitude": "8.93450",
-    "wikidata": "http://www.wikidata.org/entity/Q269174"
+    "wikidata_url": "http://www.wikidata.org/entity/Q269174"
   },
   "475": {
     "id": 475,
@@ -4060,7 +4060,7 @@
     "Working Notes": "Working Notes",
     "latitude": "48.50000",
     "longitude": "9.00000",
-    "wikidata": "http://www.wikidata.org/entity/Q985"
+    "wikidata_url": "http://www.wikidata.org/entity/Q985"
   },
   "477": {
     "id": 477,
@@ -4071,7 +4071,7 @@
     "Working Notes": "",
     "latitude": "50.85114",
     "longitude": "2.88569",
-    "wikidata": "http://www.wikidata.org/entity/Q31824036"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31824036"
   },
   "478": {
     "id": 478,
@@ -4082,7 +4082,7 @@
     "Working Notes": "Zehlendorf (Berlin)",
     "latitude": "52.43333",
     "longitude": "13.25000",
-    "wikidata": "http://www.wikidata.org/entity/Q324402"
+    "wikidata_url": "http://www.wikidata.org/entity/Q324402"
   },
   "479": {
     "id": 479,
@@ -4133,7 +4133,7 @@
     "Working Notes": "",
     "latitude": "53.91053",
     "longitude": "14.24712",
-    "wikidata": "http://www.wikidata.org/entity/Q41599"
+    "wikidata_url": "http://www.wikidata.org/entity/Q41599"
   },
   "490": {
     "id": 490,
@@ -4174,7 +4174,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.89190",
     "longitude": "14.23261",
-    "wikidata": "http://www.wikidata.org/entity/Q2246488"
+    "wikidata_url": "http://www.wikidata.org/entity/Q2246488"
   },
   "499": {
     "id": 499,
@@ -4185,7 +4185,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.44461",
     "longitude": "20.69695",
-    "wikidata": "http://www.wikidata.org/entity/Q995207"
+    "wikidata_url": "http://www.wikidata.org/entity/Q995207"
   },
   "500": {
     "id": 500,
@@ -4226,7 +4226,7 @@
     "Working Notes": "Working Notes",
     "latitude": null,
     "longitude": null,
-    "wikidata": "http://www.wikidata.org/entity/Q21"
+    "wikidata_url": "http://www.wikidata.org/entity/Q21"
   },
   "504": {
     "id": 504,
@@ -4237,7 +4237,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.51667",
     "longitude": "13.28333",
-    "wikidata": "http://www.wikidata.org/entity/Q162049"
+    "wikidata_url": "http://www.wikidata.org/entity/Q162049"
   },
   "505": {
     "id": 505,
@@ -4268,7 +4268,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.96304",
     "longitude": "10.87090",
-    "wikidata": "http://www.wikidata.org/entity/Q321792"
+    "wikidata_url": "http://www.wikidata.org/entity/Q321792"
   },
   "508": {
     "id": 508,
@@ -4299,7 +4299,7 @@
     "Working Notes": "Working Notes",
     "latitude": "45.43713",
     "longitude": "12.33265",
-    "wikidata": "http://www.wikidata.org/entity/Q33723961"
+    "wikidata_url": "http://www.wikidata.org/entity/Q33723961"
   },
   "513": {
     "id": 513,
@@ -4310,7 +4310,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.16667",
     "longitude": "5.50000",
-    "wikidata": "http://www.wikidata.org/entity/Q151985"
+    "wikidata_url": "http://www.wikidata.org/entity/Q151985"
   },
   "514": {
     "id": 514,
@@ -4321,7 +4321,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.43781",
     "longitude": "13.64981",
-    "wikidata": "http://www.wikidata.org/entity/Q694789"
+    "wikidata_url": "http://www.wikidata.org/entity/Q694789"
   },
   "515": {
     "id": 515,
@@ -4332,7 +4332,7 @@
     "Working Notes": "Working Notes",
     "latitude": "54.70649",
     "longitude": "20.51095",
-    "wikidata": "http://www.wikidata.org/entity/Q1829"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1829"
   },
   "516": {
     "id": 516,
@@ -4343,7 +4343,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.15833",
     "longitude": "4.49306",
-    "wikidata": "http://www.wikidata.org/entity/Q43631"
+    "wikidata_url": "http://www.wikidata.org/entity/Q43631"
   },
   "517": {
     "id": 517,
@@ -4354,7 +4354,7 @@
     "Working Notes": "Working Notes",
     "latitude": "54.37846",
     "longitude": "13.69394",
-    "wikidata": "http://www.wikidata.org/entity/Q32211140"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32211140"
   },
   "519": {
     "id": 519,
@@ -4365,7 +4365,7 @@
     "Working Notes": "Working Notes",
     "latitude": "49.25500",
     "longitude": "4.76250",
-    "wikidata": "http://www.wikidata.org/entity/Q473084"
+    "wikidata_url": "http://www.wikidata.org/entity/Q473084"
   },
   "520": {
     "id": 520,
@@ -4376,7 +4376,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.09083",
     "longitude": "5.12222",
-    "wikidata": "http://www.wikidata.org/entity/Q39297398"
+    "wikidata_url": "http://www.wikidata.org/entity/Q39297398"
   },
   "521": {
     "id": 521,
@@ -4387,7 +4387,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.92250",
     "longitude": "4.47917",
-    "wikidata": "http://www.wikidata.org/entity/Q34370"
+    "wikidata_url": "http://www.wikidata.org/entity/Q34370"
   },
   "522": {
     "id": 522,
@@ -4398,7 +4398,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.10461",
     "longitude": "4.27557",
-    "wikidata": "http://www.wikidata.org/entity/Q837211"
+    "wikidata_url": "http://www.wikidata.org/entity/Q837211"
   },
   "523": {
     "id": 523,
@@ -4409,7 +4409,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.00667",
     "longitude": "4.35556",
-    "wikidata": "http://www.wikidata.org/entity/Q690"
+    "wikidata_url": "http://www.wikidata.org/entity/Q690"
   },
   "524": {
     "id": 524,
@@ -4420,7 +4420,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.56861",
     "longitude": "7.71750",
-    "wikidata": "http://www.wikidata.org/entity/Q6163"
+    "wikidata_url": "http://www.wikidata.org/entity/Q6163"
   },
   "525": {
     "id": 525,
@@ -4431,7 +4431,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.49500",
     "longitude": "5.07083",
-    "wikidata": "http://www.wikidata.org/entity/Q903595"
+    "wikidata_url": "http://www.wikidata.org/entity/Q903595"
   },
   "526": {
     "id": 526,
@@ -4442,7 +4442,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.98000",
     "longitude": "5.91111",
-    "wikidata": "http://www.wikidata.org/entity/Q1310"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1310"
   },
   "527": {
     "id": 527,
@@ -4453,7 +4453,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.21917",
     "longitude": "6.56667",
-    "wikidata": "http://www.wikidata.org/entity/Q749"
+    "wikidata_url": "http://www.wikidata.org/entity/Q749"
   },
   "528": {
     "id": 528,
@@ -4464,7 +4464,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.82762",
     "longitude": "5.24814",
-    "wikidata": "http://www.wikidata.org/entity/Q4121"
+    "wikidata_url": "http://www.wikidata.org/entity/Q4121"
   },
   "529": {
     "id": 529,
@@ -4475,7 +4475,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.78730",
     "longitude": "14.03040",
-    "wikidata": "http://www.wikidata.org/entity/Q31897099"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31897099"
   },
   "530": {
     "id": 530,
@@ -4486,7 +4486,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.51494",
     "longitude": "7.46600",
-    "wikidata": "http://www.wikidata.org/entity/Q31971850"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31971850"
   },
   "531": {
     "id": 531,
@@ -4497,7 +4497,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.52437",
     "longitude": "13.41053",
-    "wikidata": "http://www.wikidata.org/entity/Q64"
+    "wikidata_url": "http://www.wikidata.org/entity/Q64"
   },
   "532": {
     "id": 532,
@@ -4518,7 +4518,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.55567",
     "longitude": "12.97802",
-    "wikidata": "http://www.wikidata.org/entity/Q156715"
+    "wikidata_url": "http://www.wikidata.org/entity/Q156715"
   },
   "534": {
     "id": 534,
@@ -4529,7 +4529,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.63236",
     "longitude": "13.00187",
-    "wikidata": "http://www.wikidata.org/entity/Q31910292"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31910292"
   },
   "535": {
     "id": 535,
@@ -4550,7 +4550,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.08140",
     "longitude": "21.02397",
-    "wikidata": "http://www.wikidata.org/entity/Q741876"
+    "wikidata_url": "http://www.wikidata.org/entity/Q741876"
   },
   "539": {
     "id": 539,
@@ -4591,7 +4591,7 @@
     "Working Notes": "Working Notes",
     "latitude": "47.39254",
     "longitude": "8.04422",
-    "wikidata": "http://www.wikidata.org/entity/Q14274"
+    "wikidata_url": "http://www.wikidata.org/entity/Q14274"
   },
   "543": {
     "id": 543,
@@ -4602,7 +4602,7 @@
     "Working Notes": "Working Notes",
     "latitude": "50.98030",
     "longitude": "11.32903",
-    "wikidata": "http://www.wikidata.org/entity/Q32067990"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067990"
   },
   "545": {
     "id": 545,
@@ -4613,7 +4613,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.27466",
     "longitude": "15.46257",
-    "wikidata": "http://www.wikidata.org/entity/Q7968275"
+    "wikidata_url": "http://www.wikidata.org/entity/Q7968275"
   },
   "546": {
     "id": 546,
@@ -4634,7 +4634,7 @@
     "Working Notes": "Working Notes",
     "latitude": "54.35227",
     "longitude": "18.64912",
-    "wikidata": "http://www.wikidata.org/entity/Q1792"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1792"
   },
   "549": {
     "id": 549,
@@ -4645,7 +4645,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.60701",
     "longitude": "12.87374",
-    "wikidata": "http://www.wikidata.org/entity/Q32174574"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32174574"
   },
   "551": {
     "id": 551,
@@ -4656,7 +4656,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.69106",
     "longitude": "13.27833",
-    "wikidata": "http://www.wikidata.org/entity/Q31914245"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31914245"
   },
   "553": {
     "id": 553,
@@ -4667,7 +4667,7 @@
     "Working Notes": "Darłówko (Polen)",
     "latitude": "54.43518",
     "longitude": "16.37731",
-    "wikidata": "http://www.wikidata.org/entity/Q336454"
+    "wikidata_url": "http://www.wikidata.org/entity/Q336454"
   },
   "554": {
     "id": 554,
@@ -4678,7 +4678,7 @@
     "Working Notes": "Working Notes",
     "latitude": "38.89511",
     "longitude": "-77.03637",
-    "wikidata": "http://www.wikidata.org/entity/Q61"
+    "wikidata_url": "http://www.wikidata.org/entity/Q61"
   },
   "555": {
     "id": 555,
@@ -4689,7 +4689,7 @@
     "Working Notes": "Working Notes",
     "latitude": "53.59337",
     "longitude": "9.47629",
-    "wikidata": "http://www.wikidata.org/entity/Q32747857"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32747857"
   },
   "556": {
     "id": 556,
@@ -4700,7 +4700,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.16158",
     "longitude": "13.47370",
-    "wikidata": "http://www.wikidata.org/entity/Q32638348"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32638348"
   },
   "557": {
     "id": 557,
@@ -4711,7 +4711,7 @@
     "Working Notes": "Working Notes",
     "latitude": "51.41505",
     "longitude": "9.65046",
-    "wikidata": "http://www.wikidata.org/entity/Q165380"
+    "wikidata_url": "http://www.wikidata.org/entity/Q165380"
   },
   "558": {
     "id": 558,
@@ -4732,7 +4732,7 @@
     "Working Notes": "Working Notes",
     "latitude": "52.68481",
     "longitude": "11.91244",
-    "wikidata": "http://www.wikidata.org/entity/Q648578"
+    "wikidata_url": "http://www.wikidata.org/entity/Q648578"
   },
   "561": {
     "id": 561,
@@ -4743,7 +4743,7 @@
     "Working Notes": "",
     "latitude": "54.10712",
     "longitude": "11.90051",
-    "wikidata": "http://www.wikidata.org/entity/Q31896916"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31896916"
   },
   "562": {
     "id": 562,
@@ -4764,7 +4764,7 @@
     "Working Notes": "",
     "latitude": "54.03591",
     "longitude": "19.02660",
-    "wikidata": "http://www.wikidata.org/entity/Q146820"
+    "wikidata_url": "http://www.wikidata.org/entity/Q146820"
   },
   "564": {
     "id": 564,
@@ -4785,7 +4785,7 @@
     "Working Notes": "",
     "latitude": "51.85363",
     "longitude": "9.96481",
-    "wikidata": "http://www.wikidata.org/entity/Q503423"
+    "wikidata_url": "http://www.wikidata.org/entity/Q503423"
   },
   "566": {
     "id": 566,
@@ -4806,7 +4806,7 @@
     "Working Notes": "",
     "latitude": "50.65778",
     "longitude": "12.19918",
-    "wikidata": "http://www.wikidata.org/entity/Q32041969"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32041969"
   },
   "569": {
     "id": 569,
@@ -4817,7 +4817,7 @@
     "Working Notes": "",
     "latitude": "50.88029",
     "longitude": "12.08187",
-    "wikidata": "http://www.wikidata.org/entity/Q32029631"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32029631"
   },
   "570": {
     "id": 570,
@@ -4828,7 +4828,7 @@
     "Working Notes": "",
     "latitude": "48.25628",
     "longitude": "13.04343",
-    "wikidata": "http://www.wikidata.org/entity/Q21880244"
+    "wikidata_url": "http://www.wikidata.org/entity/Q21880244"
   },
   "571": {
     "id": 571,
@@ -4839,7 +4839,7 @@
     "Working Notes": "",
     "latitude": "48.76771",
     "longitude": "7.25820",
-    "wikidata": "http://www.wikidata.org/entity/Q22160"
+    "wikidata_url": "http://www.wikidata.org/entity/Q22160"
   },
   "572": {
     "id": 572,
@@ -4850,7 +4850,7 @@
     "Working Notes": "",
     "latitude": "53.55698",
     "longitude": "9.80590",
-    "wikidata": "http://www.wikidata.org/entity/Q1607"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1607"
   },
   "574": {
     "id": 574,
@@ -4861,7 +4861,7 @@
     "Working Notes": "",
     "latitude": "53.55000",
     "longitude": "9.93333",
-    "wikidata": "http://www.wikidata.org/entity/Q1630"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1630"
   },
   "575": {
     "id": 575,
@@ -4872,7 +4872,7 @@
     "Working Notes": "",
     "latitude": "53.55406",
     "longitude": "10.08989",
-    "wikidata": "http://www.wikidata.org/entity/Q1572"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1572"
   },
   "576": {
     "id": 576,
@@ -4883,7 +4883,7 @@
     "Working Notes": "",
     "latitude": "53.59628",
     "longitude": "10.01785",
-    "wikidata": "http://www.wikidata.org/entity/Q1148"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1148"
   },
   "577": {
     "id": 577,
@@ -4894,7 +4894,7 @@
     "Working Notes": "",
     "latitude": "53.62594",
     "longitude": "10.03145",
-    "wikidata": "http://www.wikidata.org/entity/Q1157"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1157"
   },
   "578": {
     "id": 578,
@@ -4905,7 +4905,7 @@
     "Working Notes": "",
     "latitude": "48.64683",
     "longitude": "9.45378",
-    "wikidata": "http://www.wikidata.org/entity/Q32065270"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32065270"
   },
   "579": {
     "id": 579,
@@ -4936,7 +4936,7 @@
     "Working Notes": "",
     "latitude": "52.45905",
     "longitude": "13.01582",
-    "wikidata": "http://www.wikidata.org/entity/Q1208"
+    "wikidata_url": "http://www.wikidata.org/entity/Q1208"
   },
   "582": {
     "id": 582,
@@ -4947,7 +4947,7 @@
     "Working Notes": "",
     "latitude": "31.92157",
     "longitude": "35.20329",
-    "wikidata": "http://www.wikidata.org/entity/Q219060"
+    "wikidata_url": "http://www.wikidata.org/entity/Q219060"
   },
   "583": {
     "id": 583,
@@ -4958,7 +4958,7 @@
     "Working Notes": "",
     "latitude": "50.68322",
     "longitude": "10.91858",
-    "wikidata": "http://www.wikidata.org/entity/Q32062217"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32062217"
   },
   "584": {
     "id": 584,
@@ -4969,7 +4969,7 @@
     "Working Notes": "",
     "latitude": "48.80480",
     "longitude": "9.21450",
-    "wikidata": "http://www.wikidata.org/entity/Q656982"
+    "wikidata_url": "http://www.wikidata.org/entity/Q656982"
   },
   "585": {
     "id": 585,
@@ -4980,7 +4980,7 @@
     "Working Notes": "",
     "latitude": "-33.92584",
     "longitude": "18.42322",
-    "wikidata": "http://www.wikidata.org/entity/Q5465"
+    "wikidata_url": "http://www.wikidata.org/entity/Q5465"
   },
   "586": {
     "id": 586,
@@ -5021,7 +5021,7 @@
     "Working Notes": "",
     "latitude": "50.05448",
     "longitude": "7.13730",
-    "wikidata": "http://www.wikidata.org/entity/Q31924899"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31924899"
   },
   "590": {
     "id": 590,
@@ -5032,7 +5032,7 @@
     "Working Notes": "(müsste herausfinden welches Arkona hier gemeint ist)",
     "latitude": "54.67960",
     "longitude": "13.43274",
-    "wikidata": "http://www.wikidata.org/entity/Q4110"
+    "wikidata_url": "http://www.wikidata.org/entity/Q4110"
   },
   "591": {
     "id": 591,
@@ -5043,7 +5043,7 @@
     "Working Notes": "",
     "latitude": "49.01315",
     "longitude": "12.11190",
-    "wikidata": "http://www.wikidata.org/entity/Q32067968"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067968"
   },
   "592": {
     "id": 592,
@@ -5054,7 +5054,7 @@
     "Working Notes": "",
     "latitude": "48.56650",
     "longitude": "13.43122",
-    "wikidata": "http://www.wikidata.org/entity/Q120753915"
+    "wikidata_url": "http://www.wikidata.org/entity/Q120753915"
   },
   "594": {
     "id": 594,
@@ -5065,7 +5065,7 @@
     "Working Notes": "Stargard (Polen)",
     "latitude": "53.33672",
     "longitude": "15.04990",
-    "wikidata": "http://www.wikidata.org/entity/Q106268"
+    "wikidata_url": "http://www.wikidata.org/entity/Q106268"
   },
   "595": {
     "id": 595,
@@ -5076,7 +5076,7 @@
     "Working Notes": "(VORSICHT Bahnpost zwischen Berlin und Posen (Polen)->Endziel genommen)",
     "latitude": "52.40692",
     "longitude": "16.92993",
-    "wikidata": "http://www.wikidata.org/entity/Q268"
+    "wikidata_url": "http://www.wikidata.org/entity/Q268"
   },
   "596": {
     "id": 596,
@@ -5087,7 +5087,7 @@
     "Working Notes": "",
     "latitude": "50.49730",
     "longitude": "12.13782",
-    "wikidata": "http://www.wikidata.org/entity/Q32227563"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32227563"
   },
   "597": {
     "id": 597,
@@ -5098,7 +5098,7 @@
     "Working Notes": "",
     "latitude": "50.94823",
     "longitude": "10.70193",
-    "wikidata": "http://www.wikidata.org/entity/Q32038418"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32038418"
   },
   "599": {
     "id": 599,
@@ -5139,7 +5139,7 @@
     "Working Notes": "",
     "latitude": "51.89588",
     "longitude": "8.98313",
-    "wikidata": "http://www.wikidata.org/entity/Q798730"
+    "wikidata_url": "http://www.wikidata.org/entity/Q798730"
   },
   "604": {
     "id": 604,
@@ -5150,7 +5150,7 @@
     "Working Notes": "(United Kingdom vermutlich und nicht USA)",
     "latitude": "55.95206",
     "longitude": "-3.19648",
-    "wikidata": "http://www.wikidata.org/entity/Q23436"
+    "wikidata_url": "http://www.wikidata.org/entity/Q23436"
   },
   "605": {
     "id": 605,
@@ -5171,7 +5171,7 @@
     "Working Notes": "",
     "latitude": "47.99668",
     "longitude": "11.12716",
-    "wikidata": "http://www.wikidata.org/entity/Q265336"
+    "wikidata_url": "http://www.wikidata.org/entity/Q265336"
   },
   "607": {
     "id": 607,
@@ -5182,7 +5182,7 @@
     "Working Notes": "",
     "latitude": "51.72651",
     "longitude": "10.61090",
-    "wikidata": "http://www.wikidata.org/entity/Q31920437"
+    "wikidata_url": "http://www.wikidata.org/entity/Q31920437"
   },
   "608": {
     "id": 608,
@@ -5193,7 +5193,7 @@
     "Working Notes": "",
     "latitude": "52.50341",
     "longitude": "13.38158",
-    "wikidata": "http://www.wikidata.org/entity/Q695244"
+    "wikidata_url": "http://www.wikidata.org/entity/Q695244"
   },
   "609": {
     "id": 609,
@@ -5204,7 +5204,7 @@
     "Working Notes": "",
     "latitude": "52.43151",
     "longitude": "13.84051",
-    "wikidata": "http://www.wikidata.org/entity/Q110249085"
+    "wikidata_url": "http://www.wikidata.org/entity/Q110249085"
   },
   "610": {
     "id": 610,
@@ -5235,7 +5235,7 @@
     "Working Notes": "(Bad Godesberg)",
     "latitude": "50.68457",
     "longitude": "7.15393",
-    "wikidata": "http://www.wikidata.org/entity/Q153260"
+    "wikidata_url": "http://www.wikidata.org/entity/Q153260"
   },
   "615": {
     "id": 615,
@@ -5266,7 +5266,7 @@
     "Working Notes": "",
     "latitude": "50.43254",
     "longitude": "12.71140",
-    "wikidata": "http://www.wikidata.org/entity/Q32063218"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32063218"
   },
   "618": {
     "id": 618,
@@ -5277,7 +5277,7 @@
     "Working Notes": "",
     "latitude": "51.05007",
     "longitude": "12.79754",
-    "wikidata": "http://www.wikidata.org/entity/Q32261100"
+    "wikidata_url": "http://www.wikidata.org/entity/Q32261100"
   },
   "619": {
     "id": 619,
@@ -5288,7 +5288,7 @@
     "Working Notes": "",
     "latitude": "52.58713",
     "longitude": "14.64953",
-    "wikidata": "http://www.wikidata.org/entity/Q156837"
+    "wikidata_url": "http://www.wikidata.org/entity/Q156837"
   },
   "620": {
     "id": 620,
@@ -5309,7 +5309,7 @@
     "Working Notes": "",
     "latitude": "51.44164",
     "longitude": "11.39832",
-    "wikidata": "http://www.wikidata.org/entity/Q372342"
+    "wikidata_url": "http://www.wikidata.org/entity/Q372342"
   },
   "622": {
     "id": 622,
@@ -5340,7 +5340,7 @@
     "Working Notes": "",
     "latitude": "46.01175",
     "longitude": "8.70754",
-    "wikidata": "http://www.wikidata.org/entity/Q14379"
+    "wikidata_url": "http://www.wikidata.org/entity/Q14379"
   },
   "625": {
     "id": 625,
@@ -5351,7 +5351,7 @@
     "Working Notes": "",
     "latitude": "50.69075",
     "longitude": "16.62300",
-    "wikidata": "http://www.wikidata.org/entity/Q857331"
+    "wikidata_url": "http://www.wikidata.org/entity/Q857331"
   },
   "626": {
     "id": 626,
@@ -5362,7 +5362,7 @@
     "Working Notes": "",
     "latitude": "40.64361",
     "longitude": "22.93086",
-    "wikidata": "http://www.wikidata.org/entity/Q17151"
+    "wikidata_url": "http://www.wikidata.org/entity/Q17151"
   },
   "627": {
     "id": 627,
@@ -5373,6 +5373,6 @@
     "Working Notes": "",
     "latitude": "51.70921",
     "longitude": "11.29375",
-    "wikidata": "http://www.wikidata.org/entity/Q876084"
+    "wikidata_url": "http://www.wikidata.org/entity/Q876084"
   }
 }
