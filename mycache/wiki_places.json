@@ -1,0 +1,3047 @@
+{
+  "http://www.wikidata.org/entity/Q1715": {
+    "name": "Hanover",
+    "lat": 52.374444444444,
+    "lng": 9.7386111111111
+  },
+  "http://www.wikidata.org/entity/Q428736": {
+    "name": "Wust, Saxony-Anhalt",
+    "lat": 52.546666666667,
+    "lng": 12.116666666667
+  },
+  "http://www.wikidata.org/entity/Q144880": {
+    "name": "Zakynthos",
+    "lat": 37.8,
+    "lng": 20.75
+  },
+  "http://www.wikidata.org/entity/Q538724": {
+    "name": "Wittnau",
+    "lat": 47.945833333333,
+    "lng": 7.8147222222222
+  },
+  "http://www.wikidata.org/entity/Q82382": {
+    "name": "Langenburg",
+    "lat": 49.253333333333,
+    "lng": 9.8486111111111
+  },
+  "http://www.wikidata.org/entity/Q3874": {
+    "name": "Giessen",
+    "lat": 50.583333333333336,
+    "lng": 8.666666666666666
+  },
+  "http://www.wikidata.org/entity/Q503640": {
+    "name": "Gunzenhausen",
+    "lat": 49.114722222222,
+    "lng": 10.754166666667
+  },
+  "http://www.wikidata.org/entity/Q639241": {
+    "name": "Międzyrzecz",
+    "lat": 52.44461,
+    "lng": 15.57801
+  },
+  "http://www.wikidata.org/entity/Q855943": {
+    "name": "Białochowo",
+    "lat": 53.54299,
+    "lng": 18.86088
+  },
+  "http://www.wikidata.org/entity/Q34713": {
+    "name": "Salzburg",
+    "lat": 47.8,
+    "lng": 13.045
+  },
+  "http://www.wikidata.org/entity/Q3376": {
+    "name": "Trento",
+    "lat": 46.06666667,
+    "lng": 11.11666667
+  },
+  "http://www.wikidata.org/entity/Q151198": {
+    "name": "Dachau concentration camp",
+    "lat": 48.2699,
+    "lng": 11.4683
+  },
+  "http://www.wikidata.org/entity/Q65": {
+    "name": "Los Angeles",
+    "lat": 34.05223,
+    "lng": -118.24368
+  },
+  "http://www.wikidata.org/entity/Q1423615": {
+    "name": "Tyana",
+    "lat": 37.823445,
+    "lng": 34.570473
+  },
+  "http://www.wikidata.org/entity/Q425877": {
+    "name": "Hardegsen",
+    "lat": 51.65277777777778,
+    "lng": 9.832222222222223
+  },
+  "http://www.wikidata.org/entity/Q681427": {
+    "name": "Tus",
+    "lat": 36.48613888888889,
+    "lng": 59.51755555555555
+  },
+  "http://www.wikidata.org/entity/Q48338": {
+    "name": "Kayseri",
+    "lat": 38.7225,
+    "lng": 35.4875
+  },
+  "http://www.wikidata.org/entity/Q2683": {
+    "name": "Parma",
+    "lat": 44.801472222222,
+    "lng": 10.328
+  },
+  "http://www.wikidata.org/entity/Q188776": {
+    "name": "Castres",
+    "lat": 43.605833333333,
+    "lng": 2.24
+  },
+  "http://www.wikidata.org/entity/Q884936": {
+    "name": "Warsingsfehn",
+    "lat": 53.314444444444,
+    "lng": 7.4858333333333
+  },
+  "http://www.wikidata.org/entity/Q583555": {
+    "name": "Dallgow-Döberitz",
+    "lat": 52.533055555556,
+    "lng": 13.05
+  },
+  "http://www.wikidata.org/entity/Q162049": {
+    "name": "Charlottenburg",
+    "lat": 52.516666666667,
+    "lng": 13.3
+  },
+  "http://www.wikidata.org/entity/Q384544": {
+    "name": "Karlovy Vary",
+    "lat": 50.230555555556,
+    "lng": 12.8725
+  },
+  "http://www.wikidata.org/entity/Q191754": {
+    "name": "Hendaye",
+    "lat": 43.358611111111,
+    "lng": -1.7744444444444
+  },
+  "http://www.wikidata.org/entity/Q1018921": {
+    "name": "Tekoa",
+    "lat": 31.653016666667,
+    "lng": 35.229033333333
+  },
+  "http://www.wikidata.org/entity/Q78": {
+    "name": "Basel",
+    "lat": 47.560555555556,
+    "lng": 7.5905555555556
+  },
+  "http://www.wikidata.org/entity/Q1888379": {
+    "name": "Mammolshain",
+    "lat": 50.171666666667,
+    "lng": 8.4927777777778
+  },
+  "http://www.wikidata.org/entity/Q1233520": {
+    "name": "Dobropole Gryfińskie",
+    "lat": 53.301944444444,
+    "lng": 14.746388888889
+  },
+  "http://www.wikidata.org/entity/Q270": {
+    "name": "Warsaw",
+    "lat": 52.23,
+    "lng": 21.011111111111113
+  },
+  "http://www.wikidata.org/entity/Q745085": {
+    "name": "Mrągowo",
+    "lat": 53.86437,
+    "lng": 21.30507
+  },
+  "http://www.wikidata.org/entity/Q690219": {
+    "name": "Perlin",
+    "lat": 53.566666666667,
+    "lng": 11.166666666667
+  },
+  "http://www.wikidata.org/entity/Q15976": {
+    "name": "Altenburg",
+    "lat": 50.985,
+    "lng": 12.433333333333
+  },
+  "http://www.wikidata.org/entity/Q7044": {
+    "name": "Oberursel (Taunus)",
+    "lat": 50.202777777778,
+    "lng": 8.5769444444444
+  },
+  "http://www.wikidata.org/entity/Q16064": {
+    "name": "Fürstenwalde/Spree",
+    "lat": 52.366666666667,
+    "lng": 14.066666666667
+  },
+  "http://www.wikidata.org/entity/Q514640": {
+    "name": "Bücken",
+    "lat": 52.7795,
+    "lng": 9.13844
+  },
+  "http://www.wikidata.org/entity/Q110989": {
+    "name": "Maaseik",
+    "lat": 51.101944444444,
+    "lng": 5.7855555555556
+  },
+  "http://www.wikidata.org/entity/Q1022": {
+    "name": "Stuttgart",
+    "lat": 48.7775,
+    "lng": 9.18
+  },
+  "http://www.wikidata.org/entity/Q540835": {
+    "name": "Nellingen",
+    "lat": 48.541944444444,
+    "lng": 9.7913888888889
+  },
+  "http://www.wikidata.org/entity/Q1632522": {
+    "name": "Hrušovany nad Jevišovkou",
+    "lat": 48.829942174573,
+    "lng": 16.402703446663
+  },
+  "http://www.wikidata.org/entity/Q844930": {
+    "name": "Classical Athens",
+    "lat": 37.96666667,
+    "lng": 23.71666667
+  },
+  "http://www.wikidata.org/entity/Q1903250": {
+    "name": "Grinnell",
+    "lat": 41.743611111111,
+    "lng": -92.724722222222
+  },
+  "http://www.wikidata.org/entity/Q18575": {
+    "name": "Tucson",
+    "lat": 32.221666666667,
+    "lng": -110.92638888889
+  },
+  "http://www.wikidata.org/entity/Q692390": {
+    "name": "Friedenau",
+    "lat": 52.472222,
+    "lng": 13.327778
+  },
+  "http://www.wikidata.org/entity/Q203645": {
+    "name": "Chalon-sur-Saône",
+    "lat": 46.781111111111,
+    "lng": 4.8538888888889
+  },
+  "http://www.wikidata.org/entity/Q509338": {
+    "name": "Esens",
+    "lat": 53.646944444444,
+    "lng": 7.6127777777778
+  },
+  "http://www.wikidata.org/entity/Q582023": {
+    "name": "Märkische Heide",
+    "lat": 52.0385,
+    "lng": 14.040944444444444
+  },
+  "http://www.wikidata.org/entity/Q100": {
+    "name": "Boston",
+    "lat": 42.360277777777775,
+    "lng": -71.05777777777777
+  },
+  "http://www.wikidata.org/entity/Q597": {
+    "name": "Lisbon",
+    "lat": 38.708042,
+    "lng": -9.139016
+  },
+  "http://www.wikidata.org/entity/Q2814": {
+    "name": "Halle (Saale)",
+    "lat": 51.48277777777778,
+    "lng": 11.969722222222222
+  },
+  "http://www.wikidata.org/entity/Q543978": {
+    "name": "Wörrstadt",
+    "lat": 49.843055555556,
+    "lng": 8.1155555555556
+  },
+  "http://www.wikidata.org/entity/Q213679": {
+    "name": "Pella",
+    "lat": 40.76,
+    "lng": 22.519167
+  },
+  "http://www.wikidata.org/entity/Q253119": {
+    "name": "Traunstein",
+    "lat": 47.868333333333,
+    "lng": 12.643333333333
+  },
+  "http://www.wikidata.org/entity/Q1729": {
+    "name": "Erfurt",
+    "lat": 50.97805555555556,
+    "lng": 11.028888888888888
+  },
+  "http://www.wikidata.org/entity/Q518356": {
+    "name": "Meuselwitz",
+    "lat": 51.05,
+    "lng": 12.3
+  },
+  "http://www.wikidata.org/entity/Q4098": {
+    "name": "Greifswald",
+    "lat": 54.083333333333,
+    "lng": 13.383333333333
+  },
+  "http://www.wikidata.org/entity/Q543639": {
+    "name": "Saarburg",
+    "lat": 49.609166666667,
+    "lng": 6.5502777777778
+  },
+  "http://www.wikidata.org/entity/Q505468": {
+    "name": "Müllheim",
+    "lat": 47.808333333333,
+    "lng": 7.6308333333333
+  },
+  "http://www.wikidata.org/entity/Q50886": {
+    "name": "Ballenstedt",
+    "lat": 51.72,
+    "lng": 11.2375
+  },
+  "http://www.wikidata.org/entity/Q536598": {
+    "name": "Klazomenai",
+    "lat": 38.35816667,
+    "lng": 26.76758333
+  },
+  "http://www.wikidata.org/entity/Q41065": {
+    "name": "Pieve di Cadore",
+    "lat": 46.428709,
+    "lng": 12.375297
+  },
+  "http://www.wikidata.org/entity/Q1675832": {
+    "name": "Ulla",
+    "lat": 50.9739,
+    "lng": 11.2592
+  },
+  "http://www.wikidata.org/entity/Q700416": {
+    "name": "Wedderstedt",
+    "lat": 51.839166666667,
+    "lng": 11.244166666667
+  },
+  "http://www.wikidata.org/entity/Q858024": {
+    "name": "Hippo Regius",
+    "lat": 36.8825,
+    "lng": 7.75
+  },
+  "http://www.wikidata.org/entity/Q1761": {
+    "name": "Dublin",
+    "lat": 53.34972222222222,
+    "lng": -6.260277777777778
+  },
+  "http://www.wikidata.org/entity/Q43549106": {
+    "name": "Storkyrkoförsamlingen",
+    "lat": 59.325319444444,
+    "lng": 18.071338888889
+  },
+  "http://www.wikidata.org/entity/Q170532": {
+    "name": "Amasya",
+    "lat": 40.65,
+    "lng": 35.833333333333
+  },
+  "http://www.wikidata.org/entity/Q3433770": {
+    "name": "Adolf Fredriks parish",
+    "lat": 59.337944444444,
+    "lng": 18.060111111111
+  },
+  "http://www.wikidata.org/entity/Q150033": {
+    "name": "Starosiedle",
+    "lat": 51.85782,
+    "lng": 14.82112
+  },
+  "http://www.wikidata.org/entity/Q67048": {
+    "name": "Grabs",
+    "lat": 47.183055555556,
+    "lng": 9.45
+  },
+  "http://www.wikidata.org/entity/Q3415": {
+    "name": "Ancona",
+    "lat": 43.616666666667,
+    "lng": 13.516666666667
+  },
+  "http://www.wikidata.org/entity/Q2010987": {
+    "name": "Obershagen",
+    "lat": 52.498055555556,
+    "lng": 10.058611111111
+  },
+  "http://www.wikidata.org/entity/Q47611": {
+    "name": "Ephesus",
+    "lat": 37.939722,
+    "lng": 27.348611
+  },
+  "http://www.wikidata.org/entity/Q23298": {
+    "name": "Kent",
+    "lat": 51.19,
+    "lng": 0.73
+  },
+  "http://www.wikidata.org/entity/Q155281": {
+    "name": "Kuldīga",
+    "lat": 56.967222222222,
+    "lng": 21.97
+  },
+  "http://www.wikidata.org/entity/Q2279121": {
+    "name": "Kempsey",
+    "lat": 52.139088888889,
+    "lng": -2.2176611111111
+  },
+  "http://www.wikidata.org/entity/Q12434": {
+    "name": "Bad Honnef",
+    "lat": 50.645,
+    "lng": 7.2269444444444
+  },
+  "http://www.wikidata.org/entity/Q985648": {
+    "name": "Columbus",
+    "lat": 33.501666666667,
+    "lng": -88.415
+  },
+  "http://www.wikidata.org/entity/Q15982": {
+    "name": "Wernigerode",
+    "lat": 51.835,
+    "lng": 10.785277777778
+  },
+  "http://www.wikidata.org/entity/Q625458": {
+    "name": "Carmel-by-the-Sea",
+    "lat": 36.555277777778,
+    "lng": -121.92333333333
+  },
+  "http://www.wikidata.org/entity/Q13426467": {
+    "name": "Piraeus",
+    "lat": 37.937222222222225,
+    "lng": 23.64472222222222
+  },
+  "http://www.wikidata.org/entity/Q504875": {
+    "name": "Bourgueil",
+    "lat": 47.281944444444,
+    "lng": 0.16833333333333
+  },
+  "http://www.wikidata.org/entity/Q2709095": {
+    "name": "Poczernin, West Pomeranian Voivodeship",
+    "lat": 53.42333333,
+    "lng": 14.95138889
+  },
+  "http://www.wikidata.org/entity/Q1422630": {
+    "name": "Hohenstaufen",
+    "lat": 48.7394,
+    "lng": 9.71944
+  },
+  "http://www.wikidata.org/entity/Q71": {
+    "name": "Geneva",
+    "lat": 46.2,
+    "lng": 6.15
+  },
+  "http://www.wikidata.org/entity/Q1567437": {
+    "name": "Hadersdorf-Weidlingau",
+    "lat": 48.2114,
+    "lng": 16.2211
+  },
+  "http://www.wikidata.org/entity/Q2742": {
+    "name": "Münster",
+    "lat": 51.9625,
+    "lng": 7.6255555555556
+  },
+  "http://www.wikidata.org/entity/Q2119": {
+    "name": "Mannheim",
+    "lat": 49.48777777777778,
+    "lng": 8.466111111111111
+  },
+  "http://www.wikidata.org/entity/Q4107532": {
+    "name": "Verbivtsi",
+    "lat": 48.625555555556,
+    "lng": 25.378055555556
+  },
+  "http://www.wikidata.org/entity/Q1346930": {
+    "name": "Epichnellen",
+    "lat": 50.9376,
+    "lng": 10.2521
+  },
+  "http://www.wikidata.org/entity/Q783413": {
+    "name": "Passugg",
+    "lat": 46.8306,
+    "lng": 9.54638
+  },
+  "http://www.wikidata.org/entity/Q627838": {
+    "name": "Kloster Lehnin",
+    "lat": 52.316666666667,
+    "lng": 12.75
+  },
+  "http://www.wikidata.org/entity/Q14929": {
+    "name": "Kempen",
+    "lat": 51.365833333333,
+    "lng": 6.4194444444444
+  },
+  "http://www.wikidata.org/entity/Q445963": {
+    "name": "Lesum",
+    "lat": 53.171944444444,
+    "lng": 8.7427777777778
+  },
+  "http://www.wikidata.org/entity/Q21235810": {
+    "name": "Chalcis",
+    "lat": 38.4624,
+    "lng": 23.5971
+  },
+  "http://www.wikidata.org/entity/Q988639": {
+    "name": "Dobrzany",
+    "lat": 53.358611111111,
+    "lng": 15.426111111111
+  },
+  "http://www.wikidata.org/entity/Q34217": {
+    "name": "Oxford",
+    "lat": 51.751944444444,
+    "lng": -1.2577777777778
+  },
+  "http://www.wikidata.org/entity/Q43048": {
+    "name": "Rhodes",
+    "lat": 36.17,
+    "lng": 27.92
+  },
+  "http://www.wikidata.org/entity/Q556565": {
+    "name": "Göhrde",
+    "lat": 53.15,
+    "lng": 10.883333333333
+  },
+  "http://www.wikidata.org/entity/Q10051": {
+    "name": "Oudewater",
+    "lat": 52.0267,
+    "lng": 4.8686
+  },
+  "http://www.wikidata.org/entity/Q693628": {
+    "name": "Wilmersdorf",
+    "lat": 52.483333333333,
+    "lng": 13.316666666667
+  },
+  "http://www.wikidata.org/entity/Q3104": {
+    "name": "Koblenz",
+    "lat": 50.359722222222,
+    "lng": 7.5977777777778
+  },
+  "http://www.wikidata.org/entity/Q470273": {
+    "name": "Ames",
+    "lat": 42.027335,
+    "lng": -93.631586
+  },
+  "http://www.wikidata.org/entity/Q558631": {
+    "name": "Rotenburg an der Fulda",
+    "lat": 50.995,
+    "lng": 9.7272222222222
+  },
+  "http://www.wikidata.org/entity/Q2705385": {
+    "name": "Ockham",
+    "lat": 51.298,
+    "lng": -0.461
+  },
+  "http://www.wikidata.org/entity/Q1572": {
+    "name": "Horn",
+    "lat": 53.55406,
+    "lng": 10.08989
+  },
+  "http://www.wikidata.org/entity/Q9920": {
+    "name": "Haarlem",
+    "lat": 52.380277777778,
+    "lng": 4.6405555555556
+  },
+  "http://www.wikidata.org/entity/Q324402": {
+    "name": "Zehlendorf",
+    "lat": 52.434,
+    "lng": 13.259
+  },
+  "http://www.wikidata.org/entity/Q309272": {
+    "name": "Mauretania",
+    "lat": 32.06,
+    "lng": -6.59179688
+  },
+  "http://www.wikidata.org/entity/Q606296": {
+    "name": "Le Pallet",
+    "lat": 47.138333333333,
+    "lng": -1.3358333333333
+  },
+  "http://www.wikidata.org/entity/Q641": {
+    "name": "Venice",
+    "lat": 45.439722222222,
+    "lng": 12.331944444444
+  },
+  "http://www.wikidata.org/entity/Q181609": {
+    "name": "Lengerich",
+    "lat": 52.175,
+    "lng": 7.8666666666667
+  },
+  "http://www.wikidata.org/entity/Q156882": {
+    "name": "Samos",
+    "lat": 37.75,
+    "lng": 26.8333
+  },
+  "http://www.wikidata.org/entity/Q219671": {
+    "name": "Ndola",
+    "lat": -12.96888888888889,
+    "lng": 28.6325
+  },
+  "http://www.wikidata.org/entity/Q156119": {
+    "name": "Ludwigslust",
+    "lat": 53.33325,
+    "lng": 11.50235
+  },
+  "http://www.wikidata.org/entity/Q186234": {
+    "name": "Kufa",
+    "lat": 32.03,
+    "lng": 44.4
+  },
+  "http://www.wikidata.org/entity/Q35765": {
+    "name": "Osaka",
+    "lat": 34.69375,
+    "lng": 135.5021111111111
+  },
+  "http://www.wikidata.org/entity/Q239": {
+    "name": "City of Brussels",
+    "lat": 50.846666666666664,
+    "lng": 4.351666666666667
+  },
+  "http://www.wikidata.org/entity/Q648": {
+    "name": "Lille",
+    "lat": 50.631944444444,
+    "lng": 3.0575
+  },
+  "http://www.wikidata.org/entity/Q520280": {
+    "name": "Heiligengrabe",
+    "lat": 53.14541666666667,
+    "lng": 12.372777777777777
+  },
+  "http://www.wikidata.org/entity/Q6829": {
+    "name": "Speyer",
+    "lat": 49.3165553,
+    "lng": 8.433615
+  },
+  "http://www.wikidata.org/entity/Q1304172": {
+    "name": "Eimbeckhausen",
+    "lat": 52.2325,
+    "lng": 9.42444
+  },
+  "http://www.wikidata.org/entity/Q209770": {
+    "name": "Les Andelys",
+    "lat": 49.245555555556,
+    "lng": 1.4116666666667
+  },
+  "http://www.wikidata.org/entity/Q15377091": {
+    "name": "Clausthal",
+    "lat": 51.80361111,
+    "lng": 10.33305556
+  },
+  "http://www.wikidata.org/entity/Q69182": {
+    "name": "Ramsen",
+    "lat": 47.699722222222,
+    "lng": 8.7997222222222
+  },
+  "http://www.wikidata.org/entity/Q675187": {
+    "name": "Wedding",
+    "lat": 52.55,
+    "lng": 13.3425
+  },
+  "http://www.wikidata.org/entity/Q654141": {
+    "name": "Hausen (Wied)",
+    "lat": 50.542222222222,
+    "lng": 7.4066666666667
+  },
+  "http://www.wikidata.org/entity/Q878458": {
+    "name": "Dąbie",
+    "lat": 53.381111111111,
+    "lng": 14.654444444444
+  },
+  "http://www.wikidata.org/entity/Q3449906": {
+    "name": "rue Saint-Joseph",
+    "lat": 48.8685,
+    "lng": 2.34444
+  },
+  "http://www.wikidata.org/entity/Q1720": {
+    "name": "Mainz",
+    "lat": 49.99944444444444,
+    "lng": 8.27361111111111
+  },
+  "http://www.wikidata.org/entity/Q6837": {
+    "name": "Lutherstadt Wittenberg",
+    "lat": 51.8671,
+    "lng": 12.6484
+  },
+  "http://www.wikidata.org/entity/Q1613": {
+    "name": "Harvestehude",
+    "lat": 53.57765,
+    "lng": 9.98893
+  },
+  "http://www.wikidata.org/entity/Q1726": {
+    "name": "Munich",
+    "lat": 48.1375,
+    "lng": 11.575
+  },
+  "http://www.wikidata.org/entity/Q760477": {
+    "name": "Augsburg-Haunstetten",
+    "lat": 48.3083,
+    "lng": 10.9042
+  },
+  "http://www.wikidata.org/entity/Q106268": {
+    "name": "Stargard",
+    "lat": 53.338719,
+    "lng": 15.04475
+  },
+  "http://www.wikidata.org/entity/Q49111": {
+    "name": "Cambridge",
+    "lat": 42.375,
+    "lng": -71.106111111111
+  },
+  "http://www.wikidata.org/entity/Q484870": {
+    "name": "Lutherstadt Eisleben",
+    "lat": 51.516666666667,
+    "lng": 11.55
+  },
+  "http://www.wikidata.org/entity/Q142101": {
+    "name": "Kożuchów",
+    "lat": 51.75,
+    "lng": 15.6
+  },
+  "http://www.wikidata.org/entity/Q6226": {
+    "name": "St Albans",
+    "lat": 51.755,
+    "lng": -0.336
+  },
+  "http://www.wikidata.org/entity/Q33050082": {
+    "name": "6 Podgórna Street in Poznań",
+    "lat": 52.406439,
+    "lng": 16.929258
+  },
+  "http://www.wikidata.org/entity/Q727": {
+    "name": "Amsterdam",
+    "lat": 52.37277777777778,
+    "lng": 4.893611111111111
+  },
+  "http://www.wikidata.org/entity/Q9839": {
+    "name": "Grave",
+    "lat": 51.7592,
+    "lng": 5.7383
+  },
+  "http://www.wikidata.org/entity/Q617": {
+    "name": "Padua",
+    "lat": 45.406388888889,
+    "lng": 11.877777777778
+  },
+  "http://www.wikidata.org/entity/Q189043": {
+    "name": "Petrópolis",
+    "lat": -22.505,
+    "lng": -43.178888888889
+  },
+  "http://www.wikidata.org/entity/Q11040": {
+    "name": "Waldbröl",
+    "lat": 50.878888888889,
+    "lng": 7.615
+  },
+  "http://www.wikidata.org/entity/Q207587": {
+    "name": "Rochefort",
+    "lat": 45.941944444444,
+    "lng": -0.96694444444444
+  },
+  "http://www.wikidata.org/entity/Q2758": {
+    "name": "Mönchengladbach",
+    "lat": 51.2,
+    "lng": 6.4333333333333
+  },
+  "http://www.wikidata.org/entity/Q74057": {
+    "name": "Gauting",
+    "lat": 48.067777777778,
+    "lng": 11.373888888889
+  },
+  "http://www.wikidata.org/entity/Q3846": {
+    "name": "Minden",
+    "lat": 52.288333333333334,
+    "lng": 8.916666666666666
+  },
+  "http://www.wikidata.org/entity/Q2090": {
+    "name": "Nuremberg",
+    "lat": 49.45388888888889,
+    "lng": 11.0775
+  },
+  "http://www.wikidata.org/entity/Q7072": {
+    "name": "Halberstadt",
+    "lat": 51.895833333333,
+    "lng": 11.046666666667
+  },
+  "http://www.wikidata.org/entity/Q4062": {
+    "name": "Hamelin",
+    "lat": 52.103055555556,
+    "lng": 9.36
+  },
+  "http://www.wikidata.org/entity/Q629137": {
+    "name": "Tourville-sur-Arques",
+    "lat": 49.858333333333,
+    "lng": 1.1013888888889
+  },
+  "http://www.wikidata.org/entity/Q1664820": {
+    "name": "Słupiec",
+    "lat": 50.5,
+    "lng": 16.5
+  },
+  "http://www.wikidata.org/entity/Q217265": {
+    "name": "Cappadocia",
+    "lat": 38.670556,
+    "lng": 34.839167
+  },
+  "http://www.wikidata.org/entity/Q683933": {
+    "name": "Nackenheim",
+    "lat": 49.915277777778,
+    "lng": 8.3388888888889
+  },
+  "http://www.wikidata.org/entity/Q19583": {
+    "name": "Gori",
+    "lat": 41.98168611111111,
+    "lng": 44.11241666666667
+  },
+  "http://www.wikidata.org/entity/Q1799": {
+    "name": "Wrocław",
+    "lat": 51.11,
+    "lng": 17.0325
+  },
+  "http://www.wikidata.org/entity/Q618495": {
+    "name": "Aphrodisias",
+    "lat": 37.708333333333,
+    "lng": 28.723611111111
+  },
+  "http://www.wikidata.org/entity/Q631638": {
+    "name": "Hanerau-Hademarschen",
+    "lat": 54.128611111111,
+    "lng": 9.4161111111111
+  },
+  "http://www.wikidata.org/entity/Q490": {
+    "name": "Milan",
+    "lat": 45.466944444444,
+    "lng": 9.19
+  },
+  "http://www.wikidata.org/entity/Q649": {
+    "name": "Moscow",
+    "lat": 55.755833333333,
+    "lng": 37.617777777778
+  },
+  "http://www.wikidata.org/entity/Q504348": {
+    "name": "Hildburghausen",
+    "lat": 50.426111111111,
+    "lng": 10.728888888889
+  },
+  "http://www.wikidata.org/entity/Q1973682": {
+    "name": "Neckarau",
+    "lat": 49.453511111111,
+    "lng": 8.4909194444444
+  },
+  "http://www.wikidata.org/entity/Q3621": {
+    "name": "Deutz",
+    "lat": 50.9347,
+    "lng": 6.9878
+  },
+  "http://www.wikidata.org/entity/Q1055": {
+    "name": "Hamburg",
+    "lat": 53.55,
+    "lng": 10
+  },
+  "http://www.wikidata.org/entity/Q3078607": {
+    "name": "Forum Iulii",
+    "lat": 43.4329,
+    "lng": 6.7369
+  },
+  "http://www.wikidata.org/entity/Q4108": {
+    "name": "Bad Salzuflen",
+    "lat": 52.083333333333336,
+    "lng": 8.746666666666666
+  },
+  "http://www.wikidata.org/entity/Q504031": {
+    "name": "Diez",
+    "lat": 50.370833333333,
+    "lng": 8.0158333333333
+  },
+  "http://www.wikidata.org/entity/Q80985": {
+    "name": "Fez",
+    "lat": 34.04333333333334,
+    "lng": -5.003333333333333
+  },
+  "http://www.wikidata.org/entity/Q49198": {
+    "name": "Danbury",
+    "lat": 41.402222222222,
+    "lng": -73.471111111111
+  },
+  "http://www.wikidata.org/entity/Q1775258": {
+    "name": "Fossanova Abbey",
+    "lat": 41.43808,
+    "lng": 13.195656
+  },
+  "http://www.wikidata.org/entity/Q55378038": {
+    "name": "Wolkenburg",
+    "lat": 50.902322,
+    "lng": 12.673456
+  },
+  "http://www.wikidata.org/entity/Q52096": {
+    "name": "Pratovecchio",
+    "lat": 43.787777777778,
+    "lng": 11.724444444444
+  },
+  "http://www.wikidata.org/entity/Q2340006": {
+    "name": "Homer",
+    "lat": 42.320833333333,
+    "lng": -96.49
+  },
+  "http://www.wikidata.org/entity/Q1291805": {
+    "name": "Engter",
+    "lat": 52.38664,
+    "lng": 8.06012
+  },
+  "http://www.wikidata.org/entity/Q521148": {
+    "name": "Boppard",
+    "lat": 50.231388888889,
+    "lng": 7.5908333333333
+  },
+  "http://www.wikidata.org/entity/Q2044": {
+    "name": "Florence",
+    "lat": 43.771388888889,
+    "lng": 11.254166666667
+  },
+  "http://www.wikidata.org/entity/Q181745": {
+    "name": "Tecklenburg",
+    "lat": 52.219444444444,
+    "lng": 7.8125
+  },
+  "http://www.wikidata.org/entity/Q1435": {
+    "name": "Zagreb",
+    "lat": 45.81305555555556,
+    "lng": 15.977222222222222
+  },
+  "http://www.wikidata.org/entity/Q33935": {
+    "name": "Tel Aviv",
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  "http://www.wikidata.org/entity/Q59974": {
+    "name": "Schönhausen",
+    "lat": 52.578611111111,
+    "lng": 12.039722222222
+  },
+  "http://www.wikidata.org/entity/Q13649455": {
+    "name": "Arkhangelskoye",
+    "lat": 55.398388888889,
+    "lng": 36.908527777778
+  },
+  "http://www.wikidata.org/entity/Q81811": {
+    "name": "Gaildorf",
+    "lat": 49,
+    "lng": 9.7666666666667
+  },
+  "http://www.wikidata.org/entity/Q27": {
+    "name": "Republic of Ireland",
+    "lat": 53,
+    "lng": -8
+  },
+  "http://www.wikidata.org/entity/Q50986": {
+    "name": "Stavenhagen",
+    "lat": 53.7,
+    "lng": 12.9
+  },
+  "http://www.wikidata.org/entity/Q3621695": {
+    "name": "Peuce Island",
+    "lat": 45.066666666667,
+    "lng": 28.75
+  },
+  "http://www.wikidata.org/entity/Q6343": {
+    "name": "Carthage",
+    "lat": 36.852558,
+    "lng": 10.323461
+  },
+  "http://www.wikidata.org/entity/Q518368": {
+    "name": "Bad Langensalza",
+    "lat": 51.108055555556,
+    "lng": 10.646666666667
+  },
+  "http://www.wikidata.org/entity/Q509939": {
+    "name": "Elsfleth",
+    "lat": 53.233333333333,
+    "lng": 8.4666666666667
+  },
+  "http://www.wikidata.org/entity/Q41819": {
+    "name": "Kansas City",
+    "lat": 39.05,
+    "lng": -94.583333333333
+  },
+  "http://www.wikidata.org/entity/Q3033": {
+    "name": "Göttingen",
+    "lat": 51.533888888889,
+    "lng": 9.9355555555556
+  },
+  "http://www.wikidata.org/entity/Q530930": {
+    "name": "Kronprinzenpalais",
+    "lat": 52.5172,
+    "lng": 13.3969
+  },
+  "http://www.wikidata.org/entity/Q16104": {
+    "name": "Ahrensburg",
+    "lat": 53.674722222222,
+    "lng": 10.241111111111
+  },
+  "http://www.wikidata.org/entity/Q10941": {
+    "name": "Holzwickede",
+    "lat": 51.5,
+    "lng": 7.6166666666667
+  },
+  "http://www.wikidata.org/entity/Q288": {
+    "name": "Tours",
+    "lat": 47.392777777778,
+    "lng": 0.68833333333333
+  },
+  "http://www.wikidata.org/entity/Q702829": {
+    "name": "Friedersdorf",
+    "lat": 51.016666666667,
+    "lng": 14.55
+  },
+  "http://www.wikidata.org/entity/Q3088462": {
+    "name": "Roslyn Heights",
+    "lat": 40.7825,
+    "lng": -73.641388888889
+  },
+  "http://www.wikidata.org/entity/Q6852": {
+    "name": "Bornheim",
+    "lat": 50.759166666667,
+    "lng": 7.005
+  },
+  "http://www.wikidata.org/entity/Q84": {
+    "name": "London",
+    "lat": 51.507222222222,
+    "lng": -0.1275
+  },
+  "http://www.wikidata.org/entity/Q912030": {
+    "name": "Sint-Amands",
+    "lat": 51.0525,
+    "lng": 4.205
+  },
+  "http://www.wikidata.org/entity/Q106274": {
+    "name": "Legnica",
+    "lat": 51.21006,
+    "lng": 16.1619
+  },
+  "http://www.wikidata.org/entity/Q430449": {
+    "name": "Gmunden",
+    "lat": 47.918055555556,
+    "lng": 13.799444444444
+  },
+  "http://www.wikidata.org/entity/Q5684": {
+    "name": "Babylon",
+    "lat": 32.5425,
+    "lng": 44.42111111111111
+  },
+  "http://www.wikidata.org/entity/Q155981": {
+    "name": "Zerbst",
+    "lat": 51.968055555556,
+    "lng": 12.084444444444
+  },
+  "http://www.wikidata.org/entity/Q3994": {
+    "name": "Kempten",
+    "lat": 47.733333333333334,
+    "lng": 10.316666666666666
+  },
+  "http://www.wikidata.org/entity/Q262951": {
+    "name": "Altaussee",
+    "lat": 47.639444444444,
+    "lng": 13.763333333333
+  },
+  "http://www.wikidata.org/entity/Q206197": {
+    "name": "Pieszyce",
+    "lat": 50.716666666667,
+    "lng": 16.583333333333
+  },
+  "http://www.wikidata.org/entity/Q9125": {
+    "name": "Winterthur",
+    "lat": 47.4992,
+    "lng": 8.72671
+  },
+  "http://www.wikidata.org/entity/Q54205": {
+    "name": "M'Daourouch",
+    "lat": 36.0759,
+    "lng": 7.8201
+  },
+  "http://www.wikidata.org/entity/Q57944": {
+    "name": "Annaberg-Buchholz",
+    "lat": 50.58,
+    "lng": 13.002222222222
+  },
+  "http://www.wikidata.org/entity/Q70981": {
+    "name": "Königshain-Wiederau",
+    "lat": 50.970833333333,
+    "lng": 12.8625
+  },
+  "http://www.wikidata.org/entity/Q16622": {
+    "name": "Nuits-Saint-Georges",
+    "lat": 47.1375,
+    "lng": 4.9502777777778
+  },
+  "http://www.wikidata.org/entity/Q1731": {
+    "name": "Dresden",
+    "lat": 51.05,
+    "lng": 13.74
+  },
+  "http://www.wikidata.org/entity/Q310990": {
+    "name": "Lam",
+    "lat": 49.2,
+    "lng": 13.05
+  },
+  "http://www.wikidata.org/entity/Q693454": {
+    "name": "Hottingen",
+    "lat": 47.3681,
+    "lng": 8.5604
+  },
+  "http://www.wikidata.org/entity/Q1333352": {
+    "name": "Schönrade",
+    "lat": null,
+    "lng": null
+  },
+  "http://www.wikidata.org/entity/Q503423": {
+    "name": "Kreiensen",
+    "lat": 51.856202777777774,
+    "lng": 9.963275
+  },
+  "http://www.wikidata.org/entity/Q393": {
+    "name": "Szczecin",
+    "lat": 53.424722222222,
+    "lng": 14.555277777778
+  },
+  "http://www.wikidata.org/entity/Q70": {
+    "name": "Bern",
+    "lat": 46.94798,
+    "lng": 7.44743
+  },
+  "http://www.wikidata.org/entity/Q254148": {
+    "name": "Icking",
+    "lat": 47.95,
+    "lng": 11.433333333333
+  },
+  "http://www.wikidata.org/entity/Q2243332": {
+    "name": "château of Sarcenat",
+    "lat": 45.795845,
+    "lng": 3.029504
+  },
+  "http://www.wikidata.org/entity/Q50808652": {
+    "name": "Hohnstädt",
+    "lat": 51.251664,
+    "lng": 12.730055
+  },
+  "http://www.wikidata.org/entity/Q622": {
+    "name": "Ludwigsburg",
+    "lat": 48.8975,
+    "lng": 9.1919444444444
+  },
+  "http://www.wikidata.org/entity/Q2079": {
+    "name": "Leipzig",
+    "lat": 51.34,
+    "lng": 12.375
+  },
+  "http://www.wikidata.org/entity/Q1524": {
+    "name": "Athens",
+    "lat": 37.98416666666667,
+    "lng": 23.728055555555557
+  },
+  "http://www.wikidata.org/entity/Q16565": {
+    "name": "Charlotte",
+    "lat": 35.226944444444,
+    "lng": -80.843333333333
+  },
+  "http://www.wikidata.org/entity/Q3852": {
+    "name": "Worms",
+    "lat": 49.631944444444,
+    "lng": 8.3652777777778
+  },
+  "http://www.wikidata.org/entity/Q6681": {
+    "name": "Crotone",
+    "lat": 39.083333333333,
+    "lng": 17.116666666667
+  },
+  "http://www.wikidata.org/entity/Q20784": {
+    "name": "Oldenswort",
+    "lat": 54.372419444444446,
+    "lng": 8.94025
+  },
+  "http://www.wikidata.org/entity/Q2112": {
+    "name": "Bielefeld",
+    "lat": 52.016666666667,
+    "lng": 8.5333333333333
+  },
+  "http://www.wikidata.org/entity/Q14805": {
+    "name": "Kaufbeuren",
+    "lat": 47.88,
+    "lng": 10.6225
+  },
+  "http://www.wikidata.org/entity/Q572172": {
+    "name": "Lamar",
+    "lat": 37.493611111111,
+    "lng": -94.272222222222
+  },
+  "http://www.wikidata.org/entity/Q1368652": {
+    "name": "Steele",
+    "lat": 51.449444,
+    "lng": 7.076389
+  },
+  "http://www.wikidata.org/entity/Q506388": {
+    "name": "Ottobrunn",
+    "lat": 48.066666666667,
+    "lng": 11.666666666667
+  },
+  "http://www.wikidata.org/entity/Q12045": {
+    "name": "Dommitzsch",
+    "lat": 51.639444444444,
+    "lng": 12.8825
+  },
+  "http://www.wikidata.org/entity/Q173292": {
+    "name": "Capri",
+    "lat": 40.55,
+    "lng": 14.233333333333
+  },
+  "http://www.wikidata.org/entity/Q153260": {
+    "name": "Bad Godesberg",
+    "lat": 50.683333333333,
+    "lng": 7.15
+  },
+  "http://www.wikidata.org/entity/Q122917": {
+    "name": "Chislehurst",
+    "lat": 51.415,
+    "lng": 0.0789
+  },
+  "http://www.wikidata.org/entity/Q14859": {
+    "name": "Ansbach",
+    "lat": 49.3,
+    "lng": 10.583333333333334
+  },
+  "http://www.wikidata.org/entity/Q3923": {
+    "name": "Bayreuth",
+    "lat": 49.948055555556,
+    "lng": 11.578333333333
+  },
+  "http://www.wikidata.org/entity/Q167141": {
+    "name": "Laon",
+    "lat": 49.563333333333,
+    "lng": 3.6236111111111
+  },
+  "http://www.wikidata.org/entity/Q95066": {
+    "name": "Alzano Lombardo",
+    "lat": 45.731666666667,
+    "lng": 9.7283333333333
+  },
+  "http://www.wikidata.org/entity/Q2865": {
+    "name": "Kassel",
+    "lat": 51.315777777778,
+    "lng": 9.4979166666667
+  },
+  "http://www.wikidata.org/entity/Q1709": {
+    "name": "Schwerin",
+    "lat": 53.62888888888889,
+    "lng": 11.415
+  },
+  "http://www.wikidata.org/entity/Q681425": {
+    "name": "Ronsdorf",
+    "lat": 51.233333333333,
+    "lng": 7.2
+  },
+  "http://www.wikidata.org/entity/Q40169": {
+    "name": "Assyria",
+    "lat": null,
+    "lng": null
+  },
+  "http://www.wikidata.org/entity/Q165131": {
+    "name": "Bad Muskau",
+    "lat": 51.549722222222,
+    "lng": 14.72
+  },
+  "http://www.wikidata.org/entity/Q134287": {
+    "name": "Tarsus",
+    "lat": 36.916666666667,
+    "lng": 34.9
+  },
+  "http://www.wikidata.org/entity/Q12892": {
+    "name": "Antwerp",
+    "lat": 51.221111111111114,
+    "lng": 4.3997222222222225
+  },
+  "http://www.wikidata.org/entity/Q704109": {
+    "name": "Langenstein",
+    "lat": 51.853055555556,
+    "lng": 10.988333333333
+  },
+  "http://www.wikidata.org/entity/Q994372": {
+    "name": "East Hampton",
+    "lat": 40.96343,
+    "lng": -72.1848
+  },
+  "http://www.wikidata.org/entity/Q319513": {
+    "name": "Lindstedt Castle",
+    "lat": 52.41,
+    "lng": 13.0108
+  },
+  "http://www.wikidata.org/entity/Q13298": {
+    "name": "Graz",
+    "lat": 47.07083333333333,
+    "lng": 15.438611111111111
+  },
+  "http://www.wikidata.org/entity/Q966908": {
+    "name": "Rennersdorf/O.L",
+    "lat": 51.021666666667,
+    "lng": 14.789166666667
+  },
+  "http://www.wikidata.org/entity/Q534257": {
+    "name": "Fahrenbach",
+    "lat": 49.430833333333,
+    "lng": 9.15
+  },
+  "http://www.wikidata.org/entity/Q4165": {
+    "name": "Bad Homburg vor der Höhe",
+    "lat": 50.22923611111111,
+    "lng": 8.610486111111111
+  },
+  "http://www.wikidata.org/entity/Q19792": {
+    "name": "Ware",
+    "lat": 51.817,
+    "lng": -0.0292
+  },
+  "http://www.wikidata.org/entity/Q56037": {
+    "name": "East Berlin",
+    "lat": 52.518611111111,
+    "lng": 13.404444444444
+  },
+  "http://www.wikidata.org/entity/Q13619": {
+    "name": "Cosenza",
+    "lat": 39.3,
+    "lng": 16.25
+  },
+  "http://www.wikidata.org/entity/Q127041": {
+    "name": "Mangaluru",
+    "lat": 12.868055555555555,
+    "lng": 74.8425
+  },
+  "http://www.wikidata.org/entity/Q3746183": {
+    "name": "Persis",
+    "lat": 30,
+    "lng": 52
+  },
+  "http://www.wikidata.org/entity/Q200122": {
+    "name": "Linnich",
+    "lat": 50.978888888889,
+    "lng": 6.2677777777778
+  },
+  "http://www.wikidata.org/entity/Q6373156": {
+    "name": "Karolina, Mińsk County",
+    "lat": 52.2,
+    "lng": 21.5833
+  },
+  "http://www.wikidata.org/entity/Q207639": {
+    "name": "Chichester",
+    "lat": 50.8365,
+    "lng": -0.7792
+  },
+  "http://www.wikidata.org/entity/Q3126": {
+    "name": "Erlangen",
+    "lat": 49.596388888889,
+    "lng": 11.004444444444
+  },
+  "http://www.wikidata.org/entity/Q702259": {
+    "name": "Elberfeld",
+    "lat": 51.257222,
+    "lng": 7.149167
+  },
+  "http://www.wikidata.org/entity/Q23156": {
+    "name": "Devon",
+    "lat": 50.7,
+    "lng": -3.8
+  },
+  "http://www.wikidata.org/entity/Q245495": {
+    "name": "Leichlingen",
+    "lat": 51.11666666666667,
+    "lng": 7.016666666666667
+  },
+  "http://www.wikidata.org/entity/Q2117583": {
+    "name": "Finja",
+    "lat": 56.169477386634,
+    "lng": 13.691613029734
+  },
+  "http://www.wikidata.org/entity/Q132499": {
+    "name": "Höchst",
+    "lat": 50.098888888889,
+    "lng": 8.5466666666667
+  },
+  "http://www.wikidata.org/entity/Q656680": {
+    "name": "Biebrich",
+    "lat": 50.0475,
+    "lng": 8.2408333333333
+  },
+  "http://www.wikidata.org/entity/Q47135": {
+    "name": "Châlons-en-Champagne",
+    "lat": 48.956666666667,
+    "lng": 4.3644444444444
+  },
+  "http://www.wikidata.org/entity/Q27155": {
+    "name": "El Kef",
+    "lat": 36.166666666667,
+    "lng": 8.7
+  },
+  "http://www.wikidata.org/entity/Q1546471": {
+    "name": "Gries-Quirein",
+    "lat": 46.500379,
+    "lng": 11.33888889
+  },
+  "http://www.wikidata.org/entity/Q895708": {
+    "name": "Diedenshausen",
+    "lat": 51.074166666667,
+    "lng": 8.5030555555556
+  },
+  "http://www.wikidata.org/entity/Q23968": {
+    "name": "Norderney",
+    "lat": 53.707222222222,
+    "lng": 7.1469444444444
+  },
+  "http://www.wikidata.org/entity/Q539118": {
+    "name": "Kalbe (Milde)",
+    "lat": 52.65,
+    "lng": 11.4
+  },
+  "http://www.wikidata.org/entity/Q542172": {
+    "name": "Nehren",
+    "lat": 48.431111111111,
+    "lng": 9.0694444444444
+  },
+  "http://www.wikidata.org/entity/Q849109": {
+    "name": "Buchach",
+    "lat": 49.064722222222,
+    "lng": 25.387222222222
+  },
+  "http://www.wikidata.org/entity/Q494529": {
+    "name": "Hechingen",
+    "lat": 48.351666666667,
+    "lng": 8.9633333333333
+  },
+  "http://www.wikidata.org/entity/Q41329": {
+    "name": "Linz",
+    "lat": 48.30583333333333,
+    "lng": 14.286388888888888
+  },
+  "http://www.wikidata.org/entity/Q3955": {
+    "name": "Weimar",
+    "lat": 50.98111111111111,
+    "lng": 11.329444444444444
+  },
+  "http://www.wikidata.org/entity/Q1229422": {
+    "name": "Lampsacus",
+    "lat": 40.343889,
+    "lng": 26.683611
+  },
+  "http://www.wikidata.org/entity/Q13502175": {
+    "name": "Erchia",
+    "lat": 37.9672025,
+    "lng": 23.9186855
+  },
+  "http://www.wikidata.org/entity/Q9344380": {
+    "name": "Stary Zawidów",
+    "lat": 51.02433138888889,
+    "lng": 15.082294722222223
+  },
+  "http://www.wikidata.org/entity/Q649612": {
+    "name": "Coca",
+    "lat": 41.217777777778,
+    "lng": -4.5222222222222
+  },
+  "http://www.wikidata.org/entity/Q955570": {
+    "name": "Markowice, Kuyavian-Pomeranian Voivodeship",
+    "lat": 52.7,
+    "lng": 18.21667
+  },
+  "http://www.wikidata.org/entity/Q2409258": {
+    "name": "Epworth",
+    "lat": 53.5167,
+    "lng": -0.8167
+  },
+  "http://www.wikidata.org/entity/Q2213391": {
+    "name": "Croydon",
+    "lat": 51.3727,
+    "lng": -0.1099
+  },
+  "http://www.wikidata.org/entity/Q2148416": {
+    "name": "Rhöndorf",
+    "lat": 50.6595,
+    "lng": 7.21282
+  },
+  "http://www.wikidata.org/entity/Q636188": {
+    "name": "Ray",
+    "lat": 35.5975,
+    "lng": 51.434444444444445
+  },
+  "http://www.wikidata.org/entity/Q61936": {
+    "name": "Starnberg",
+    "lat": 47.997222222222,
+    "lng": 11.340555555556
+  },
+  "http://www.wikidata.org/entity/Q793195": {
+    "name": "Ayot St Lawrence",
+    "lat": 51.834338888889,
+    "lng": -0.26708888888889
+  },
+  "http://www.wikidata.org/entity/Q515648": {
+    "name": "Höchenschwand",
+    "lat": 47.733888888889,
+    "lng": 8.1672222222222
+  },
+  "http://www.wikidata.org/entity/Q64694": {
+    "name": "Dornach",
+    "lat": 47.478888888889,
+    "lng": 7.6180555555556
+  },
+  "http://www.wikidata.org/entity/Q179528": {
+    "name": "Nile Delta",
+    "lat": 30.9,
+    "lng": 31.11666667
+  },
+  "http://www.wikidata.org/entity/Q487988": {
+    "name": "St. Augustine",
+    "lat": 29.894722222222,
+    "lng": -81.314444444444
+  },
+  "http://www.wikidata.org/entity/Q365": {
+    "name": "Cologne",
+    "lat": 50.942222222222,
+    "lng": 6.9577777777778
+  },
+  "http://www.wikidata.org/entity/Q2966": {
+    "name": "Heidelberg",
+    "lat": 49.412222222222,
+    "lng": 8.71
+  },
+  "http://www.wikidata.org/entity/Q10595631": {
+    "name": "Nederkalix parish",
+    "lat": 65.854138888889,
+    "lng": 23.132388888889
+  },
+  "http://www.wikidata.org/entity/Q1204": {
+    "name": "Illinois",
+    "lat": 40.000277777777775,
+    "lng": -89.25027777777778
+  },
+  "http://www.wikidata.org/entity/Q165140": {
+    "name": "Herrnhut",
+    "lat": 51.016666666667,
+    "lng": 14.741666666667
+  },
+  "http://www.wikidata.org/entity/Q429687": {
+    "name": "Upper West Side",
+    "lat": 40.787,
+    "lng": -73.9754
+  },
+  "http://www.wikidata.org/entity/Q25607": {
+    "name": "St. Gallen",
+    "lat": 47.423333333333,
+    "lng": 9.3772222222222
+  },
+  "http://www.wikidata.org/entity/Q157688": {
+    "name": "Lomonosov",
+    "lat": 59.916666666667,
+    "lng": 29.766666666667
+  },
+  "http://www.wikidata.org/entity/Q551408": {
+    "name": "Idstedt",
+    "lat": 54.580555555556,
+    "lng": 9.5083333333333
+  },
+  "http://www.wikidata.org/entity/Q22810": {
+    "name": "Dorlisheim",
+    "lat": 48.525,
+    "lng": 7.4858333333333
+  },
+  "http://www.wikidata.org/entity/Q20792": {
+    "name": "Tetenbüll",
+    "lat": 54.353888888889,
+    "lng": 8.8261111111111
+  },
+  "http://www.wikidata.org/entity/Q33518": {
+    "name": "Dover",
+    "lat": 39.161662,
+    "lng": -75.525709
+  },
+  "http://www.wikidata.org/entity/Q2441": {
+    "name": "Stücken",
+    "lat": 52.2464,
+    "lng": 13.0778
+  },
+  "http://www.wikidata.org/entity/Q17578856": {
+    "name": "Nordstetten",
+    "lat": 48.43333333,
+    "lng": 8.7
+  },
+  "http://www.wikidata.org/entity/Q127351": {
+    "name": "Barendorf",
+    "lat": 53.22896,
+    "lng": 10.52158
+  },
+  "http://www.wikidata.org/entity/Q3132": {
+    "name": "Moers",
+    "lat": 51.459166666667,
+    "lng": 6.6197222222222
+  },
+  "http://www.wikidata.org/entity/Q39984": {
+    "name": "Cannes",
+    "lat": 43.5525,
+    "lng": 7.0213888888889
+  },
+  "http://www.wikidata.org/entity/Q3798": {
+    "name": "Flensburg",
+    "lat": 54.781944444444,
+    "lng": 9.4366666666667
+  },
+  "http://www.wikidata.org/entity/Q572921": {
+    "name": "Lauingen",
+    "lat": 48.566666666667,
+    "lng": 10.433333333333
+  },
+  "http://www.wikidata.org/entity/Q13498": {
+    "name": "Taranto",
+    "lat": 40.471111111111114,
+    "lng": 17.243055555555557
+  },
+  "http://www.wikidata.org/entity/Q5806": {
+    "name": "Mecca",
+    "lat": 21.4225,
+    "lng": 39.826111111111
+  },
+  "http://www.wikidata.org/entity/Q37607": {
+    "name": "Windischleuba",
+    "lat": 51.016666666667,
+    "lng": 12.466666666667
+  },
+  "http://www.wikidata.org/entity/Q8810": {
+    "name": "Granada",
+    "lat": 37.178055555556,
+    "lng": -3.6008333333333
+  },
+  "http://www.wikidata.org/entity/Q13972": {
+    "name": "Tartu",
+    "lat": 58.38,
+    "lng": 26.7225
+  },
+  "http://www.wikidata.org/entity/Q200030": {
+    "name": "Latakia",
+    "lat": 35.523611111111,
+    "lng": 35.791666666667
+  },
+  "http://www.wikidata.org/entity/Q503145": {
+    "name": "Neuenstadt am Kocher",
+    "lat": 49.233333333333,
+    "lng": 9.3333333333333
+  },
+  "http://www.wikidata.org/entity/Q988576": {
+    "name": "Nakło nad Notecią",
+    "lat": 53.140277777778,
+    "lng": 17.592777777778
+  },
+  "http://www.wikidata.org/entity/Q1530": {
+    "name": "Baghdad",
+    "lat": 33.31527777777778,
+    "lng": 44.36611111111111
+  },
+  "http://www.wikidata.org/entity/Q698748": {
+    "name": "Förderstedt",
+    "lat": 51.89666666666667,
+    "lng": 11.634444444444444
+  },
+  "http://www.wikidata.org/entity/Q4120832": {
+    "name": "Königsberg",
+    "lat": 54.71147222222222,
+    "lng": 20.509305555555557
+  },
+  "http://www.wikidata.org/entity/Q62": {
+    "name": "San Francisco",
+    "lat": 37.7775,
+    "lng": -122.41638888888889
+  },
+  "http://www.wikidata.org/entity/Q16869": {
+    "name": "Constantinople",
+    "lat": 41.0125,
+    "lng": 28.98
+  },
+  "http://www.wikidata.org/entity/Q1721": {
+    "name": "Wiesbaden",
+    "lat": 50.0825,
+    "lng": 8.24
+  },
+  "http://www.wikidata.org/entity/Q63855": {
+    "name": "Roudnice nad Labem",
+    "lat": 50.425361080625,
+    "lng": 14.261840817268
+  },
+  "http://www.wikidata.org/entity/Q1492092": {
+    "name": "Schulpforte",
+    "lat": 51.1417,
+    "lng": 11.7495
+  },
+  "http://www.wikidata.org/entity/Q858": {
+    "name": "Syria",
+    "lat": 35.216667,
+    "lng": 38.583333
+  },
+  "http://www.wikidata.org/entity/Q173148": {
+    "name": "Delos",
+    "lat": 37.393333333333,
+    "lng": 25.271111111111
+  },
+  "http://www.wikidata.org/entity/Q2174345": {
+    "name": "Rudolfsheim",
+    "lat": 48.1903,
+    "lng": 16.3289
+  },
+  "http://www.wikidata.org/entity/Q262655": {
+    "name": "Schöppenstedt",
+    "lat": 52.133055555556,
+    "lng": 10.778333333333
+  },
+  "http://www.wikidata.org/entity/Q1707": {
+    "name": "Kiel",
+    "lat": 54.323333333333,
+    "lng": 10.139444444444
+  },
+  "http://www.wikidata.org/entity/Q71170": {
+    "name": "Mittweida",
+    "lat": 50.985555555556,
+    "lng": 12.981111111111
+  },
+  "http://www.wikidata.org/entity/Q21065": {
+    "name": "Friedrichstadt",
+    "lat": 54.376980555555555,
+    "lng": 9.0925
+  },
+  "http://www.wikidata.org/entity/Q15987": {
+    "name": "Tuttlingen",
+    "lat": 47.985,
+    "lng": 8.8233333333333
+  },
+  "http://www.wikidata.org/entity/Q32579": {
+    "name": "Phrygia",
+    "lat": 39,
+    "lng": 31
+  },
+  "http://www.wikidata.org/entity/Q31487": {
+    "name": "Kraków",
+    "lat": 50.061388888889,
+    "lng": 19.937222222222
+  },
+  "http://www.wikidata.org/entity/Q1241308": {
+    "name": "Passy",
+    "lat": 48.857111111111,
+    "lng": 2.2841361111111
+  },
+  "http://www.wikidata.org/entity/Q43509": {
+    "name": "Guayaquil",
+    "lat": -2.19,
+    "lng": -79.8875
+  },
+  "http://www.wikidata.org/entity/Q453692": {
+    "name": "Kleiner Wannsee",
+    "lat": 52.41576111111111,
+    "lng": 13.159430555555556
+  },
+  "http://www.wikidata.org/entity/Q200441": {
+    "name": "Antioch",
+    "lat": 36.20472222222222,
+    "lng": 36.181666666666665
+  },
+  "http://www.wikidata.org/entity/Q182805": {
+    "name": "Lübbecke",
+    "lat": 52.308055555556,
+    "lng": 8.6230555555556
+  },
+  "http://www.wikidata.org/entity/Q1040": {
+    "name": "Karlsruhe",
+    "lat": 49.016666666667,
+    "lng": 8.4
+  },
+  "http://www.wikidata.org/entity/Q2277": {
+    "name": "Roman Empire",
+    "lat": 41.9,
+    "lng": 12.5
+  },
+  "http://www.wikidata.org/entity/Q1512748": {
+    "name": "Ritzville",
+    "lat": 47.1264,
+    "lng": -118.377
+  },
+  "http://www.wikidata.org/entity/Q8818": {
+    "name": "Valencia",
+    "lat": 39.47,
+    "lng": -0.3763888888888889
+  },
+  "http://www.wikidata.org/entity/Q656": {
+    "name": "Saint Petersburg",
+    "lat": 59.95,
+    "lng": 30.316666666667
+  },
+  "http://www.wikidata.org/entity/Q1899": {
+    "name": "Kyiv",
+    "lat": 50.45,
+    "lng": 30.523611111111
+  },
+  "http://www.wikidata.org/entity/Q90": {
+    "name": "Paris",
+    "lat": 48.85666666666667,
+    "lng": 2.352222222222222
+  },
+  "http://www.wikidata.org/entity/Q995859": {
+    "name": "Szamocin",
+    "lat": 53.030277777778,
+    "lng": 17.120555555556
+  },
+  "http://www.wikidata.org/entity/Q2861": {
+    "name": "Rostock",
+    "lat": 54.083333333333,
+    "lng": 12.133333333333
+  },
+  "http://www.wikidata.org/entity/Q15118355": {
+    "name": "Leuthen (Drebkau)",
+    "lat": 51.69666667,
+    "lng": 14.24666667
+  },
+  "http://www.wikidata.org/entity/Q637911": {
+    "name": "Rietz-Neuendorf",
+    "lat": 52.22702777777778,
+    "lng": 14.176166666666667
+  },
+  "http://www.wikidata.org/entity/Q186115": {
+    "name": "Montmartre",
+    "lat": 48.886944444444,
+    "lng": 2.3411111111111
+  },
+  "http://www.wikidata.org/entity/Q18023391": {
+    "name": "Lindener Marktplatz 2, Hannover",
+    "lat": 52.366777,
+    "lng": 9.714939
+  },
+  "http://www.wikidata.org/entity/Q498540": {
+    "name": "Perleberg",
+    "lat": 53.066666666667,
+    "lng": 11.866666666667
+  },
+  "http://www.wikidata.org/entity/Q3708707": {
+    "name": "Stark",
+    "lat": 44.450277777778,
+    "lng": -74.781666666667
+  },
+  "http://www.wikidata.org/entity/Q13670": {
+    "name": "Syracuse",
+    "lat": 37.069166666667,
+    "lng": 15.2875
+  },
+  "http://www.wikidata.org/entity/Q3971": {
+    "name": "Herford",
+    "lat": 52.11456944444444,
+    "lng": 8.673430555555555
+  },
+  "http://www.wikidata.org/entity/Q19965669": {
+    "name": "Opherdicke",
+    "lat": 51.48744444,
+    "lng": 7.64147222
+  },
+  "http://www.wikidata.org/entity/Q380082": {
+    "name": "Ogrodzieniec",
+    "lat": 53.6,
+    "lng": 19.31666667
+  },
+  "http://www.wikidata.org/entity/Q66633": {
+    "name": "Kilchberg",
+    "lat": 47.324722222222,
+    "lng": 8.5491666666667
+  },
+  "http://www.wikidata.org/entity/Q22752": {
+    "name": "Montigny-lès-Metz",
+    "lat": 49.099722222222,
+    "lng": 6.1533333333333
+  },
+  "http://www.wikidata.org/entity/Q2028": {
+    "name": "Verona",
+    "lat": 45.43861111111111,
+    "lng": 10.992777777777778
+  },
+  "http://www.wikidata.org/entity/Q87": {
+    "name": "Alexandria",
+    "lat": 31.1975,
+    "lng": 29.8925
+  },
+  "http://www.wikidata.org/entity/Q4088132": {
+    "name": "Kuntsevo Dacha",
+    "lat": 55.72433611,
+    "lng": 37.48534444
+  },
+  "http://www.wikidata.org/entity/Q294783": {
+    "name": "Öhringen",
+    "lat": 49.2,
+    "lng": 9.5
+  },
+  "http://www.wikidata.org/entity/Q130272": {
+    "name": "Chartres",
+    "lat": 48.446666666667,
+    "lng": 1.4883333333333
+  },
+  "http://www.wikidata.org/entity/Q27332": {
+    "name": "Kampen",
+    "lat": 54.95,
+    "lng": 8.3333333333333
+  },
+  "http://www.wikidata.org/entity/Q36036": {
+    "name": "Lviv",
+    "lat": 49.8425,
+    "lng": 24.032222222222224
+  },
+  "http://www.wikidata.org/entity/Q883840": {
+    "name": "Kleinbottwar",
+    "lat": 48.98,
+    "lng": 9.28941
+  },
+  "http://www.wikidata.org/entity/Q555923": {
+    "name": "Mopsuestia",
+    "lat": 36.95778,
+    "lng": 35.619478
+  },
+  "http://www.wikidata.org/entity/Q1432674": {
+    "name": "Magnesia on the Maeander",
+    "lat": 37.852692,
+    "lng": 27.527104
+  },
+  "http://www.wikidata.org/entity/Q914": {
+    "name": "Volgograd",
+    "lat": 48.70861111111111,
+    "lng": 44.514722222222225
+  },
+  "http://www.wikidata.org/entity/Q18863": {
+    "name": "Prien am Chiemsee",
+    "lat": 47.85602,
+    "lng": 12.34623
+  },
+  "http://www.wikidata.org/entity/Q117211": {
+    "name": "Roccasecca",
+    "lat": 41.55,
+    "lng": 13.666666666667
+  },
+  "http://www.wikidata.org/entity/Q3216911": {
+    "name": "Lancaster",
+    "lat": 42.906111111111,
+    "lng": -78.633888888889
+  },
+  "http://www.wikidata.org/entity/Q643695": {
+    "name": "Argostoli",
+    "lat": 38.173888888889,
+    "lng": 20.488333333333
+  },
+  "http://www.wikidata.org/entity/Q794": {
+    "name": "Iran",
+    "lat": 32,
+    "lng": 53
+  },
+  "http://www.wikidata.org/entity/Q95759": {
+    "name": "Bad Ragaz",
+    "lat": 46.999722222222,
+    "lng": 9.5
+  },
+  "http://www.wikidata.org/entity/Q165198": {
+    "name": "Cyrenaica",
+    "lat": 32.530316,
+    "lng": 21.2146
+  },
+  "http://www.wikidata.org/entity/Q39297398": {
+    "name": "Utrecht",
+    "lat": 52.09083,
+    "lng": 5.12222
+  },
+  "http://www.wikidata.org/entity/Q1547899": {
+    "name": "Groß Fredenwalde",
+    "lat": 53.12875,
+    "lng": 13.79517
+  },
+  "http://www.wikidata.org/entity/Q760488": {
+    "name": "Augsburg-Lechhausen",
+    "lat": 48.3811,
+    "lng": 10.9161
+  },
+  "http://www.wikidata.org/entity/Q1669989": {
+    "name": "Vonhausen",
+    "lat": 50.2583,
+    "lng": 9.10167
+  },
+  "http://www.wikidata.org/entity/Q893358": {
+    "name": "Borby",
+    "lat": 54.48,
+    "lng": 9.83528
+  },
+  "http://www.wikidata.org/entity/Q960231": {
+    "name": "Rich Hill",
+    "lat": 38.0958,
+    "lng": -94.3633
+  },
+  "http://www.wikidata.org/entity/Q3992": {
+    "name": "Liège",
+    "lat": 50.639722222222225,
+    "lng": 5.570555555555556
+  },
+  "http://www.wikidata.org/entity/Q11935": {
+    "name": "Locarno",
+    "lat": 46.166388888889,
+    "lng": 8.7997222222222
+  },
+  "http://www.wikidata.org/entity/Q212406": {
+    "name": "Auvers-sur-Oise",
+    "lat": 49.071666666667,
+    "lng": 2.1741666666667
+  },
+  "http://www.wikidata.org/entity/Q20285": {
+    "name": "Alt Schwerin",
+    "lat": 53.513055555556,
+    "lng": 12.356666666667
+  },
+  "http://www.wikidata.org/entity/Q659113": {
+    "name": "Krauthausen",
+    "lat": 51.017222222222,
+    "lng": 10.27
+  },
+  "http://www.wikidata.org/entity/Q38511": {
+    "name": "Turku",
+    "lat": 60.451666666667,
+    "lng": 22.27
+  },
+  "http://www.wikidata.org/entity/Q158821": {
+    "name": "Drohobych",
+    "lat": 49.35,
+    "lng": 23.5
+  },
+  "http://www.wikidata.org/entity/Q857331": {
+    "name": "Bielawa",
+    "lat": 50.69075,
+    "lng": 16.623
+  },
+  "http://www.wikidata.org/entity/Q803": {
+    "name": "Utrecht",
+    "lat": 52.090833333333336,
+    "lng": 5.121666666666667
+  },
+  "http://www.wikidata.org/entity/Q161962": {
+    "name": "Chełmno",
+    "lat": 53.34917,
+    "lng": 18.42605
+  },
+  "http://www.wikidata.org/entity/Q182159": {
+    "name": "Balkh",
+    "lat": 36.758055555556,
+    "lng": 66.898888888889
+  },
+  "http://www.wikidata.org/entity/Q174234": {
+    "name": "Aurillac",
+    "lat": 44.925277777778,
+    "lng": 2.4397222222222
+  },
+  "http://www.wikidata.org/entity/Q674988": {
+    "name": "Falkenberg",
+    "lat": 52.5708,
+    "lng": 13.5458
+  },
+  "http://www.wikidata.org/entity/Q504513": {
+    "name": "Bad Brückenau",
+    "lat": 50.30911111111111,
+    "lng": 9.78711111111111
+  },
+  "http://www.wikidata.org/entity/Q3367": {
+    "name": "Aosta",
+    "lat": 45.737222222222,
+    "lng": 7.3205555555556
+  },
+  "http://www.wikidata.org/entity/Q10936": {
+    "name": "Werne",
+    "lat": 51.666666666666664,
+    "lng": 7.616666666666667
+  },
+  "http://www.wikidata.org/entity/Q2999": {
+    "name": "Würzburg",
+    "lat": 49.794444444444,
+    "lng": 9.9294444444444
+  },
+  "http://www.wikidata.org/entity/Q284604": {
+    "name": "Kłodzko",
+    "lat": 50.437777777778,
+    "lng": 16.652777777778
+  },
+  "http://www.wikidata.org/entity/Q15986": {
+    "name": "Naumburg",
+    "lat": 51.152095,
+    "lng": 11.809819
+  },
+  "http://www.wikidata.org/entity/Q508271": {
+    "name": "Person County",
+    "lat": 36.39,
+    "lng": -78.98
+  },
+  "http://www.wikidata.org/entity/Q793": {
+    "name": "Zwolle",
+    "lat": 52.516666666667,
+    "lng": 6.1
+  },
+  "http://www.wikidata.org/entity/Q4024": {
+    "name": "Frankfurt (Oder)",
+    "lat": 52.342083333333335,
+    "lng": 14.551666666666666
+  },
+  "http://www.wikidata.org/entity/Q93289": {
+    "name": "Rammenau",
+    "lat": 51.15,
+    "lng": 14.133333333333
+  },
+  "http://www.wikidata.org/entity/Q43453": {
+    "name": "Plzeň",
+    "lat": 49.741388888889,
+    "lng": 13.3825
+  },
+  "http://www.wikidata.org/entity/Q60": {
+    "name": "New York City",
+    "lat": 40.7,
+    "lng": -74
+  },
+  "http://www.wikidata.org/entity/Q11340": {
+    "name": "Sprockhövel",
+    "lat": 51.3614006,
+    "lng": 7.24401522
+  },
+  "http://www.wikidata.org/entity/Q142486": {
+    "name": "Blue Hill",
+    "lat": 44.404444444444444,
+    "lng": -68.56611111111111
+  },
+  "http://www.wikidata.org/entity/Q58757": {
+    "name": "Eschershausen",
+    "lat": 51.92664,
+    "lng": 9.64282
+  },
+  "http://www.wikidata.org/entity/Q3437": {
+    "name": "Perugia",
+    "lat": 43.1121,
+    "lng": 12.3888
+  },
+  "http://www.wikidata.org/entity/Q39785": {
+    "name": "Bad Soden am Taunus",
+    "lat": 50.142430555555556,
+    "lng": 8.499722222222223
+  },
+  "http://www.wikidata.org/entity/Q11947752": {
+    "name": "Sarakusta",
+    "lat": 41.654366145269556,
+    "lng": -0.8775636491620948
+  },
+  "http://www.wikidata.org/entity/Q3150": {
+    "name": "Jena",
+    "lat": 50.927222222222,
+    "lng": 11.586388888889
+  },
+  "http://www.wikidata.org/entity/Q8851": {
+    "name": "Málaga",
+    "lat": 36.716666666667,
+    "lng": -4.4166666666667
+  },
+  "http://www.wikidata.org/entity/Q1864473": {
+    "name": "Mont aux Potences - Galgenberg",
+    "lat": 50.836667,
+    "lng": 4.351667
+  },
+  "http://www.wikidata.org/entity/Q936101": {
+    "name": "Oborniki Śląskie",
+    "lat": 51.30222222,
+    "lng": 16.90888889
+  },
+  "http://www.wikidata.org/entity/Q736439": {
+    "name": "Ramsgate",
+    "lat": 51.343911111111,
+    "lng": 1.4040305555556
+  },
+  "http://www.wikidata.org/entity/Q3176643": {
+    "name": "Jefferson Barracks Military Post",
+    "lat": 38.4947,
+    "lng": -90.2819
+  },
+  "http://www.wikidata.org/entity/Q289851": {
+    "name": "Wannefeld",
+    "lat": 52.438333333333,
+    "lng": 11.445833333333
+  },
+  "http://www.wikidata.org/entity/Q6986": {
+    "name": "Gotha",
+    "lat": 50.948888888889,
+    "lng": 10.718333333333
+  },
+  "http://www.wikidata.org/entity/Q878220": {
+    "name": "Hänigsen",
+    "lat": 52.484166666667,
+    "lng": 10.096944444444
+  },
+  "http://www.wikidata.org/entity/Q553192": {
+    "name": "Großhansdorf",
+    "lat": 53.666666666667,
+    "lng": 10.266666666667
+  },
+  "http://www.wikidata.org/entity/Q56036": {
+    "name": "West Berlin",
+    "lat": 52.5,
+    "lng": 13.28
+  },
+  "http://www.wikidata.org/entity/Q326369": {
+    "name": "Conches-en-Ouche",
+    "lat": 48.960555555556,
+    "lng": 0.9425
+  },
+  "http://www.wikidata.org/entity/Q4174": {
+    "name": "Emden",
+    "lat": 53.366944444444,
+    "lng": 7.2061111111111
+  },
+  "http://www.wikidata.org/entity/Q193821": {
+    "name": "Saumur",
+    "lat": 47.259166666667,
+    "lng": -0.078055555555556
+  },
+  "http://www.wikidata.org/entity/Q5489": {
+    "name": "Troyes",
+    "lat": 48.298888888889,
+    "lng": 4.0780555555556
+  },
+  "http://www.wikidata.org/entity/Q26344": {
+    "name": "Nagold",
+    "lat": 48.551944444444,
+    "lng": 8.7255555555556
+  },
+  "http://www.wikidata.org/entity/Q9883": {
+    "name": "Zundert",
+    "lat": 51.4703,
+    "lng": 4.66
+  },
+  "http://www.wikidata.org/entity/Q586": {
+    "name": "Bonn",
+    "lat": 50.733888888889,
+    "lng": 7.0997222222222
+  },
+  "http://www.wikidata.org/entity/Q208713": {
+    "name": "Ixelles - Elsene",
+    "lat": 50.83305555555555,
+    "lng": 4.366944444444444
+  },
+  "http://www.wikidata.org/entity/Q3857": {
+    "name": "Wilhelmshaven",
+    "lat": 53.52861111111111,
+    "lng": 8.105555555555556
+  },
+  "http://www.wikidata.org/entity/Q43631": {
+    "name": "Leiden",
+    "lat": 52.16,
+    "lng": 4.49
+  },
+  "http://www.wikidata.org/entity/Q26317680": {
+    "name": "Mansion House",
+    "lat": 52.803947,
+    "lng": 0.016249052
+  },
+  "http://www.wikidata.org/entity/Q11299": {
+    "name": "Manhattan",
+    "lat": 40.728333333333,
+    "lng": -73.994166666667
+  },
+  "http://www.wikidata.org/entity/Q597413": {
+    "name": "Wildhaus",
+    "lat": 47.199722222222,
+    "lng": 9.3497222222222
+  },
+  "http://www.wikidata.org/entity/Q7999449": {
+    "name": "Wieśnica",
+    "lat": 50.9833,
+    "lng": 16.3333
+  },
+  "http://www.wikidata.org/entity/Q644636": {
+    "name": "Cyprus",
+    "lat": 35,
+    "lng": 33
+  },
+  "http://www.wikidata.org/entity/Q30974": {
+    "name": "Rouen",
+    "lat": 49.443055555556,
+    "lng": 1.1025
+  },
+  "http://www.wikidata.org/entity/Q72": {
+    "name": "Zürich",
+    "lat": 47.37444444444444,
+    "lng": 8.54111111111111
+  },
+  "http://www.wikidata.org/entity/Q541956": {
+    "name": "Wittenberge",
+    "lat": 52.997734,
+    "lng": 11.75041
+  },
+  "http://www.wikidata.org/entity/Q25319": {
+    "name": "Aarhus",
+    "lat": 56.156388888889,
+    "lng": 10.209722222222
+  },
+  "http://www.wikidata.org/entity/Q14821": {
+    "name": "Coburg",
+    "lat": 50.258469444444444,
+    "lng": 10.957869444444444
+  },
+  "http://www.wikidata.org/entity/Q8714": {
+    "name": "Großenhain",
+    "lat": 51.283333333333,
+    "lng": 13.55
+  },
+  "http://www.wikidata.org/entity/Q506278": {
+    "name": "Immenstadt im Allgäu",
+    "lat": 47.56666666666667,
+    "lng": 10.216666666666667
+  },
+  "http://www.wikidata.org/entity/Q516330": {
+    "name": "Thundorf in Unterfranken",
+    "lat": 50.183333333333,
+    "lng": 10.316666666667
+  },
+  "http://www.wikidata.org/entity/Q427153": {
+    "name": "Heilsbronn",
+    "lat": 49.338611111111,
+    "lng": 10.790833333333
+  },
+  "http://www.wikidata.org/entity/Q321502": {
+    "name": "Cusset",
+    "lat": 46.134444444444,
+    "lng": 3.4563888888889
+  },
+  "http://www.wikidata.org/entity/Q9845": {
+    "name": "Heusden",
+    "lat": 51.69975,
+    "lng": 5.16598
+  },
+  "http://www.wikidata.org/entity/Q173527": {
+    "name": "Knossos",
+    "lat": 35.297961111111,
+    "lng": 25.163155555556
+  },
+  "http://www.wikidata.org/entity/Q49169": {
+    "name": "Stamford",
+    "lat": 41.096666666667,
+    "lng": -73.552222222222
+  },
+  "http://www.wikidata.org/entity/Q88": {
+    "name": "Alexandria",
+    "lat": 38.804722222222,
+    "lng": -77.047222222222
+  },
+  "http://www.wikidata.org/entity/Q1324444": {
+    "name": "Thagaste",
+    "lat": 36.286389,
+    "lng": 7.951111
+  },
+  "http://www.wikidata.org/entity/Q749556": {
+    "name": "Yasnaya Polyana",
+    "lat": 54.075127,
+    "lng": 37.526385
+  },
+  "http://www.wikidata.org/entity/Q3933": {
+    "name": "Celle",
+    "lat": 52.625555555556,
+    "lng": 10.0825
+  },
+  "http://www.wikidata.org/entity/Q58006": {
+    "name": "Zschopau",
+    "lat": 50.75,
+    "lng": 13.066666666667
+  },
+  "http://www.wikidata.org/entity/Q36600": {
+    "name": "The Hague",
+    "lat": 52.08,
+    "lng": 4.31
+  },
+  "http://www.wikidata.org/entity/Q327895": {
+    "name": "Łódź Ghetto",
+    "lat": 51.801389,
+    "lng": 19.441389
+  },
+  "http://www.wikidata.org/entity/Q1562": {
+    "name": "Finkenwerder",
+    "lat": 53.54,
+    "lng": 9.83
+  },
+  "http://www.wikidata.org/entity/Q1792": {
+    "name": "Gdańsk",
+    "lat": 54.3482907,
+    "lng": 18.6540233
+  },
+  "http://www.wikidata.org/entity/Q3489": {
+    "name": "Harburg",
+    "lat": 53.459258333333,
+    "lng": 9.9826722222222
+  },
+  "http://www.wikidata.org/entity/Q22984": {
+    "name": "Friedelsheim",
+    "lat": 49.446666666667,
+    "lng": 8.2230555555556
+  },
+  "http://www.wikidata.org/entity/Q60956": {
+    "name": "Ashkelon",
+    "lat": 31.665833333333,
+    "lng": 34.566388888889
+  },
+  "http://www.wikidata.org/entity/Q1158272": {
+    "name": "Signy-l'Abbaye",
+    "lat": 49.6975,
+    "lng": 4.4202777777778
+  },
+  "http://www.wikidata.org/entity/Q4071563": {
+    "name": "Astapovo",
+    "lat": 53.2075,
+    "lng": 39.5375
+  },
+  "http://www.wikidata.org/entity/Q147934": {
+    "name": "Jelenia Góra",
+    "lat": 50.9,
+    "lng": 15.733333333333
+  },
+  "http://www.wikidata.org/entity/Q21159": {
+    "name": "Husum",
+    "lat": 54.476944444444,
+    "lng": 9.0511111111111
+  },
+  "http://www.wikidata.org/entity/Q5647": {
+    "name": "Sovetsk",
+    "lat": 55.08083333333333,
+    "lng": 21.886388888888888
+  },
+  "http://www.wikidata.org/entity/Q746303": {
+    "name": "Donji Kraljevec",
+    "lat": 46.37,
+    "lng": 16.65
+  },
+  "http://www.wikidata.org/entity/Q1305": {
+    "name": "Wageningen",
+    "lat": 51.964444444444,
+    "lng": 5.6630555555556
+  },
+  "http://www.wikidata.org/entity/Q2795": {
+    "name": "Chemnitz",
+    "lat": 50.833333333333,
+    "lng": 12.916666666667
+  },
+  "http://www.wikidata.org/entity/Q103011": {
+    "name": "Corinth",
+    "lat": 37.93861111111111,
+    "lng": 22.927222222222223
+  },
+  "http://www.wikidata.org/entity/Q2100": {
+    "name": "Duisburg",
+    "lat": 51.432222222222,
+    "lng": 6.7611111111111
+  },
+  "http://www.wikidata.org/entity/Q1025109": {
+    "name": "Lipnice nad Sázavou",
+    "lat": 49.613077554479,
+    "lng": 15.413601512044
+  },
+  "http://www.wikidata.org/entity/Q326582": {
+    "name": "Kwidzyn",
+    "lat": 53.735833333333,
+    "lng": 18.930833333333
+  },
+  "http://www.wikidata.org/entity/Q2211": {
+    "name": "Malmö",
+    "lat": 55.593188589918,
+    "lng": 13.021423031021
+  },
+  "http://www.wikidata.org/entity/Q1753117": {
+    "name": "Koonga Rural Municipality",
+    "lat": 58.583333333333,
+    "lng": 24.15
+  },
+  "http://www.wikidata.org/entity/Q56612225": {
+    "name": "Oberholzheim",
+    "lat": 48.2608,
+    "lng": 9.924429
+  },
+  "http://www.wikidata.org/entity/Q1295": {
+    "name": "Dortmund",
+    "lat": 51.513888888889,
+    "lng": 7.4652777777778
+  },
+  "http://www.wikidata.org/entity/Q22942": {
+    "name": "Graben-Neudorf",
+    "lat": 49.159166666667,
+    "lng": 8.4894444444444
+  },
+  "http://www.wikidata.org/entity/Q744948": {
+    "name": "New Rochelle",
+    "lat": 40.908611111111,
+    "lng": -73.781944444444
+  },
+  "http://www.wikidata.org/entity/Q632397": {
+    "name": "Neunkirchen",
+    "lat": 49.389166666667,
+    "lng": 9.0077777777778
+  },
+  "http://www.wikidata.org/entity/Q61": {
+    "name": "Washington, D.C.",
+    "lat": 38.895,
+    "lng": -77.036666666667
+  },
+  "http://www.wikidata.org/entity/Q7052": {
+    "name": "Landau in der Pfalz",
+    "lat": 49.199444444444,
+    "lng": 8.1230555555556
+  },
+  "http://www.wikidata.org/entity/Q6602": {
+    "name": "Strasbourg",
+    "lat": 48.573333333333,
+    "lng": 7.7522222222222
+  },
+  "http://www.wikidata.org/entity/Q64191": {
+    "name": "Walenstadt",
+    "lat": 47.1234,
+    "lng": 9.315
+  },
+  "http://www.wikidata.org/entity/Q2773": {
+    "name": "Brunswick",
+    "lat": 52.269166666667,
+    "lng": 10.521111111111
+  },
+  "http://www.wikidata.org/entity/Q138518": {
+    "name": "Princeton",
+    "lat": 40.352222222222,
+    "lng": -74.656944444444
+  },
+  "http://www.wikidata.org/entity/Q2973": {
+    "name": "Darmstadt",
+    "lat": 49.866666666667,
+    "lng": 8.65
+  },
+  "http://www.wikidata.org/entity/Q1748": {
+    "name": "Copenhagen",
+    "lat": 55.676111111111,
+    "lng": 12.568888888889
+  },
+  "http://www.wikidata.org/entity/Q488314": {
+    "name": "Alsfeld",
+    "lat": 50.751111111111,
+    "lng": 9.2711111111111
+  },
+  "http://www.wikidata.org/entity/Q272018": {
+    "name": "Champeaux",
+    "lat": 48.585,
+    "lng": 2.8072222222222
+  },
+  "http://www.wikidata.org/entity/Q559460": {
+    "name": "Huis Doorn",
+    "lat": 52.031389,
+    "lng": 5.338611
+  },
+  "http://www.wikidata.org/entity/Q240": {
+    "name": "Brussels-Capital Region",
+    "lat": 50.846666666666664,
+    "lng": 4.3525
+  },
+  "http://www.wikidata.org/entity/Q569661": {
+    "name": "Königstein im Taunus",
+    "lat": 50.183125,
+    "lng": 8.463541666666666
+  },
+  "http://www.wikidata.org/entity/Q373077": {
+    "name": "Gräfenhainichen",
+    "lat": 51.729166666667,
+    "lng": 12.455555555556
+  },
+  "http://www.wikidata.org/entity/Q180568": {
+    "name": "New Kingdom of Egypt",
+    "lat": null,
+    "lng": null
+  },
+  "http://www.wikidata.org/entity/Q1486": {
+    "name": "Buenos Aires",
+    "lat": -34.599722222222,
+    "lng": -58.381944444444
+  },
+  "http://www.wikidata.org/entity/Q1630": {
+    "name": "Altona",
+    "lat": 53.55,
+    "lng": 9.9333
+  },
+  "http://www.wikidata.org/entity/Q3869": {
+    "name": "Marburg",
+    "lat": 50.816666666667,
+    "lng": 8.7666666666667
+  },
+  "http://www.wikidata.org/entity/Q1733": {
+    "name": "Magdeburg",
+    "lat": 52.13166666666667,
+    "lng": 11.639166666666666
+  },
+  "http://www.wikidata.org/entity/Q197297": {
+    "name": "17th arrondissement of Paris",
+    "lat": 48.882244444444,
+    "lng": 2.3078388888889
+  },
+  "http://www.wikidata.org/entity/Q163749": {
+    "name": "West Palm Beach",
+    "lat": 26.709722222222,
+    "lng": -80.064166666667
+  },
+  "http://www.wikidata.org/entity/Q612260": {
+    "name": "Halesowen",
+    "lat": 52.450163888889,
+    "lng": -2.0509361111111
+  },
+  "http://www.wikidata.org/entity/Q220": {
+    "name": "Rome",
+    "lat": 41.893055555556,
+    "lng": 12.482777777778
+  },
+  "http://www.wikidata.org/entity/Q31872": {
+    "name": "Moosburg an der Isar",
+    "lat": 48.46666666666667,
+    "lng": 11.933333333333334
+  },
+  "http://www.wikidata.org/entity/Q503609": {
+    "name": "Hohenaltheim",
+    "lat": 48.783333333333,
+    "lng": 10.533333333333
+  },
+  "http://www.wikidata.org/entity/Q1064853": {
+    "name": "history of Athens",
+    "lat": null,
+    "lng": null
+  },
+  "http://www.wikidata.org/entity/Q546754": {
+    "name": "Treffurt",
+    "lat": 51.136666666667,
+    "lng": 10.2375
+  },
+  "http://www.wikidata.org/entity/Q2333774": {
+    "name": "Lutterworth",
+    "lat": 52.4585,
+    "lng": -1.2029
+  },
+  "http://www.wikidata.org/entity/Q1741": {
+    "name": "Vienna",
+    "lat": 48.208333333333336,
+    "lng": 16.3725
+  },
+  "http://www.wikidata.org/entity/Q11677414": {
+    "name": "Kōjimachi-ku",
+    "lat": 35.684257,
+    "lng": 139.7373925
+  },
+  "http://www.wikidata.org/entity/Q1794": {
+    "name": "Frankfurt",
+    "lat": 50.11055555555556,
+    "lng": 8.682222222222222
+  },
+  "http://www.wikidata.org/entity/Q12994": {
+    "name": "Bruges",
+    "lat": 51.208888888888886,
+    "lng": 3.2241666666666666
+  },
+  "http://www.wikidata.org/entity/Q1462261": {
+    "name": "Wasit",
+    "lat": 32.18911111111111,
+    "lng": 46.28172222222222
+  },
+  "http://www.wikidata.org/entity/Q188878": {
+    "name": "Dax",
+    "lat": 43.706944444444,
+    "lng": -1.0513888888889
+  },
+  "http://www.wikidata.org/entity/Q2634": {
+    "name": "Naples",
+    "lat": 40.833333333333,
+    "lng": 14.25
+  },
+  "http://www.wikidata.org/entity/Q690": {
+    "name": "Delft",
+    "lat": 52.01166666666666,
+    "lng": 4.359166666666667
+  },
+  "http://www.wikidata.org/entity/Q3802": {
+    "name": "Hanau",
+    "lat": 50.132777777777775,
+    "lng": 8.916944444444445
+  },
+  "http://www.wikidata.org/entity/Q1209": {
+    "name": "Bremen",
+    "lat": 53.13333333333333,
+    "lng": 8.733333333333333
+  },
+  "http://www.wikidata.org/entity/Q2649783": {
+    "name": "Hipswell",
+    "lat": 54.38,
+    "lng": -1.719
+  },
+  "http://www.wikidata.org/entity/Q49188": {
+    "name": "Lynn",
+    "lat": 42.466666666667,
+    "lng": -70.95
+  },
+  "http://www.wikidata.org/entity/Q92212": {
+    "name": "Opole",
+    "lat": 50.672222222222,
+    "lng": 17.925277777778
+  },
+  "http://www.wikidata.org/entity/Q7341": {
+    "name": "Auschwitz",
+    "lat": 50.035833333333336,
+    "lng": 19.178333333333335
+  },
+  "http://www.wikidata.org/entity/Q1085": {
+    "name": "Prague",
+    "lat": 50.0875,
+    "lng": 14.421388888888888
+  },
+  "http://www.wikidata.org/entity/Q3806": {
+    "name": "Tübingen",
+    "lat": 48.52,
+    "lng": 9.0555555555556
+  },
+  "http://www.wikidata.org/entity/Q846127": {
+    "name": "Stageira",
+    "lat": 40.59083333,
+    "lng": 23.79416667
+  },
+  "http://www.wikidata.org/entity/Q68224": {
+    "name": "Morcote",
+    "lat": 45.925,
+    "lng": 8.916
+  },
+  "http://www.wikidata.org/entity/Q1773": {
+    "name": "Riga",
+    "lat": 56.9475,
+    "lng": 24.106944444444
+  },
+  "http://www.wikidata.org/entity/Q38022": {
+    "name": "St. Louis",
+    "lat": 38.62638888888889,
+    "lng": -90.19944444444444
+  },
+  "http://www.wikidata.org/entity/Q14573": {
+    "name": "Meggen",
+    "lat": 47.046388888889,
+    "lng": 8.3744444444444
+  },
+  "http://www.wikidata.org/entity/Q457303": {
+    "name": "Krzyżowa, Świdnica County",
+    "lat": 50.799444444444,
+    "lng": 16.534444444444
+  },
+  "http://www.wikidata.org/entity/Q12062": {
+    "name": "Torgau",
+    "lat": 51.560277777778,
+    "lng": 13.005555555556
+  },
+  "http://www.wikidata.org/entity/Q7070": {
+    "name": "Eisenach",
+    "lat": 50.974722222222,
+    "lng": 10.324444444444
+  },
+  "http://www.wikidata.org/entity/Q71151": {
+    "name": "Sayda",
+    "lat": 50.71666666666667,
+    "lng": 13.416666666666666
+  },
+  "http://www.wikidata.org/entity/Q124252": {
+    "name": "St Luke's",
+    "lat": 51.525,
+    "lng": -0.093
+  },
+  "http://www.wikidata.org/entity/Q43788": {
+    "name": "Madison",
+    "lat": 43.07472222222222,
+    "lng": -89.38416666666667
+  },
+  "http://www.wikidata.org/entity/Q700211": {
+    "name": "Steglitz",
+    "lat": 52.466666666667,
+    "lng": 13.333333333333
+  },
+  "http://www.wikidata.org/entity/Q169460": {
+    "name": "Miletus",
+    "lat": 37.531111,
+    "lng": 27.275556
+  },
+  "http://www.wikidata.org/entity/Q64147": {
+    "name": "Visp",
+    "lat": 46.292222222222,
+    "lng": 7.8827777777778
+  },
+  "http://www.wikidata.org/entity/Q27088966": {
+    "name": "Amasia",
+    "lat": null,
+    "lng": null
+  },
+  "http://www.wikidata.org/entity/Q1297": {
+    "name": "Chicago",
+    "lat": 41.85003,
+    "lng": -87.65005
+  },
+  "http://www.wikidata.org/entity/Q569692": {
+    "name": "Hünfeld",
+    "lat": 50.666666666666664,
+    "lng": 9.766666666666667
+  },
+  "http://www.wikidata.org/entity/Q10780": {
+    "name": "Grimma",
+    "lat": 51.238611111111,
+    "lng": 12.725277777778
+  },
+  "http://www.wikidata.org/entity/Q3836325": {
+    "name": "Epizephyrian Locri",
+    "lat": 38.20779,
+    "lng": 16.23677
+  },
+  "http://www.wikidata.org/entity/Q936780": {
+    "name": "La Crosse",
+    "lat": 43.813333333333,
+    "lng": -91.233055555556
+  },
+  "http://www.wikidata.org/entity/Q3075": {
+    "name": "Fürth",
+    "lat": 49.478333333333,
+    "lng": 10.990277777778
+  },
+  "http://www.wikidata.org/entity/Q81423": {
+    "name": "Eningen unter Achalm",
+    "lat": 48.483055555556,
+    "lng": 9.2522222222222
+  },
+  "http://www.wikidata.org/entity/Q2899": {
+    "name": "Mülheim an der Ruhr",
+    "lat": 51.4275,
+    "lng": 6.8825
+  },
+  "http://www.wikidata.org/entity/Q14863": {
+    "name": "Löhne",
+    "lat": 52.2,
+    "lng": 8.7
+  },
+  "http://www.wikidata.org/entity/Q1142488": {
+    "name": "Colophon",
+    "lat": 38.11555556,
+    "lng": 27.14222222
+  },
+  "http://www.wikidata.org/entity/Q3185": {
+    "name": "Hildesheim",
+    "lat": 52.15,
+    "lng": 9.95
+  },
+  "http://www.wikidata.org/entity/Q134672": {
+    "name": "Exeter",
+    "lat": 50.72555555555556,
+    "lng": -3.526944444444444
+  },
+  "http://www.wikidata.org/entity/Q127856": {
+    "name": "Beverly Hills",
+    "lat": 34.073055555556,
+    "lng": -118.39944444444
+  },
+  "http://www.wikidata.org/entity/Q42462": {
+    "name": "York",
+    "lat": 53.95,
+    "lng": -1.0833333333333
+  },
+  "http://www.wikidata.org/entity/Q153974": {
+    "name": "Barmen",
+    "lat": 51.266666666667,
+    "lng": 7.2
+  },
+  "http://www.wikidata.org/entity/Q7010": {
+    "name": "Leonberg",
+    "lat": 48.801388888889,
+    "lng": 9.0130555555556
+  },
+  "http://www.wikidata.org/entity/Q1718": {
+    "name": "Düsseldorf",
+    "lat": 51.231144444444,
+    "lng": 6.7723805555556
+  },
+  "http://www.wikidata.org/entity/Q509155": {
+    "name": "Heiligenberg",
+    "lat": 47.820833333333,
+    "lng": 9.3125
+  },
+  "http://www.wikidata.org/entity/Q47465": {
+    "name": "Aix-en-Provence",
+    "lat": 43.527777777778,
+    "lng": 5.4455555555556
+  },
+  "http://www.wikidata.org/entity/Q6850": {
+    "name": "Peine",
+    "lat": 52.320277777778,
+    "lng": 10.233611111111
+  },
+  "http://www.wikidata.org/entity/Q49145": {
+    "name": "New Haven",
+    "lat": 41.308333333333,
+    "lng": -72.925
+  },
+  "http://www.wikidata.org/entity/Q661315": {
+    "name": "Coyoacán",
+    "lat": 19.35,
+    "lng": -99.16222222222223
+  },
+  "http://www.wikidata.org/entity/Q64589": {
+    "name": "Kappel am Albis",
+    "lat": 47.228611111111,
+    "lng": 8.5272222222222
+  },
+  "http://www.wikidata.org/entity/Q895714": {
+    "name": "Elten",
+    "lat": 51.871111,
+    "lng": 6.159722
+  },
+  "http://www.wikidata.org/entity/Q632677": {
+    "name": "Bahrdorf",
+    "lat": 52.387222222222,
+    "lng": 11.004166666667
+  },
+  "http://www.wikidata.org/entity/Q29303": {
+    "name": "Canterbury",
+    "lat": 51.278333333333,
+    "lng": 1.0775
+  },
+  "http://www.wikidata.org/entity/Q866381": {
+    "name": "Biskupiec, Nowe Miasto County",
+    "lat": 53.50055556,
+    "lng": 19.35055556
+  },
+  "http://www.wikidata.org/entity/Q486541": {
+    "name": "Jüterbog",
+    "lat": 51.993333333333,
+    "lng": 13.072777777778
+  },
+  "http://www.wikidata.org/entity/Q36405": {
+    "name": "Aberdeen",
+    "lat": 57.15,
+    "lng": -2.1
+  },
+  "http://www.wikidata.org/entity/Q202059": {
+    "name": "London Borough of Lambeth",
+    "lat": 51.460833333333,
+    "lng": -0.11638888888889
+  },
+  "http://www.wikidata.org/entity/Q64": {
+    "name": "Berlin",
+    "lat": 52.516666666667,
+    "lng": 13.383333333333
+  },
+  "http://www.wikidata.org/entity/Q1584966": {
+    "name": "Hohenborn",
+    "lat": 51.4207,
+    "lng": 9.27891
+  },
+  "http://www.wikidata.org/entity/Q697979": {
+    "name": "Ballerstedt",
+    "lat": 52.733055555556,
+    "lng": 11.716666666667
+  },
+  "http://www.wikidata.org/entity/Q4077": {
+    "name": "Görlitz",
+    "lat": 51.152777777778,
+    "lng": 14.987222222222
+  },
+  "http://www.wikidata.org/entity/Q169492": {
+    "name": "Neukölln",
+    "lat": 52.481388888889,
+    "lng": 13.435277777778
+  },
+  "http://www.wikidata.org/entity/Q81036": {
+    "name": "Michelbach an der Bilz",
+    "lat": 49.071666666666665,
+    "lng": 9.766666666666667
+  },
+  "http://www.wikidata.org/entity/Q552508": {
+    "name": "Beerfelden",
+    "lat": 49.567569444444,
+    "lng": 8.97375
+  },
+  "http://www.wikidata.org/entity/Q44112": {
+    "name": "Cyrene",
+    "lat": 32.816666666667,
+    "lng": 21.85
+  },
+  "http://www.wikidata.org/entity/Q699579": {
+    "name": "Sugamo Prison",
+    "lat": 35.729583,
+    "lng": 139.717778
+  },
+  "http://www.wikidata.org/entity/Q522992": {
+    "name": "Braunlage",
+    "lat": 51.7264,
+    "lng": 10.610099722222222
+  },
+  "http://www.wikidata.org/entity/Q8738": {
+    "name": "Meissen",
+    "lat": 51.163611111111,
+    "lng": 13.4775
+  },
+  "http://www.wikidata.org/entity/Q627653": {
+    "name": "Wallhalben",
+    "lat": 49.316944,
+    "lng": 7.527222
+  },
+  "http://www.wikidata.org/entity/Q537729": {
+    "name": "Billigheim",
+    "lat": 49.347777777778,
+    "lng": 9.2544444444444
+  },
+  "http://www.wikidata.org/entity/Q1711": {
+    "name": "Potsdam",
+    "lat": 52.4,
+    "lng": 13.066666666667
+  },
+  "http://www.wikidata.org/entity/Q1754": {
+    "name": "Stockholm",
+    "lat": 59.329444444444,
+    "lng": 18.068611111111
+  },
+  "http://www.wikidata.org/entity/Q24879": {
+    "name": "Bremen",
+    "lat": 53.075833333333335,
+    "lng": 8.807222222222222
+  },
+  "http://www.wikidata.org/entity/Q2871": {
+    "name": "Hagen",
+    "lat": 51.359444444444,
+    "lng": 7.475
+  },
+  "http://www.wikidata.org/entity/Q23670612": {
+    "name": "Roman Carthage",
+    "lat": null,
+    "lng": null
+  },
+  "http://www.wikidata.org/entity/Q30096": {
+    "name": "Frederiksberg",
+    "lat": 55.6775,
+    "lng": 12.536388888889
+  },
+  "http://www.wikidata.org/entity/Q1017": {
+    "name": "Aachen",
+    "lat": 50.776207,
+    "lng": 6.083788
+  },
+  "http://www.wikidata.org/entity/Q994136": {
+    "name": "Walim, Lower Silesian Voivodeship",
+    "lat": 50.69749,
+    "lng": 16.44482
+  },
+  "http://www.wikidata.org/entity/Q242098": {
+    "name": "Beverungen",
+    "lat": 51.662777777778,
+    "lng": 9.3725
+  },
+  "http://www.wikidata.org/entity/Q490445": {
+    "name": "Eutin",
+    "lat": 54.137777777778,
+    "lng": 10.618055555556
+  },
+  "http://www.wikidata.org/entity/Q492366": {
+    "name": "Norden",
+    "lat": 53.596666666667,
+    "lng": 7.2055555555556
+  },
+  "http://www.wikidata.org/entity/Q52903": {
+    "name": "Środa Wielkopolska",
+    "lat": 52.233333333333,
+    "lng": 17.283333333333
+  },
+  "http://www.wikidata.org/entity/Q753652": {
+    "name": "Bereslavka",
+    "lat": 47.892777777778,
+    "lng": 32.290277777778
+  },
+  "http://www.wikidata.org/entity/Q383394": {
+    "name": "Döhlen",
+    "lat": 51.0072,
+    "lng": 13.6467
+  }
+}

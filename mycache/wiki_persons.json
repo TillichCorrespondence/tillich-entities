@@ -1,0 +1,5654 @@
+{
+  "1": {
+    "name": "Abelard",
+    "first_name": "Pierre",
+    "start_date_written": "1079",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q606296",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q203645"
+  },
+  "2": {
+    "name": "Abe",
+    "first_name": "Masao",
+    "start_date_written": "1915",
+    "end_date_written": "2006-09-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q35765",
+    "place_of_death_id": null
+  },
+  "5": {
+    "name": "Abusch",
+    "first_name": "Alexander",
+    "start_date_written": "1902-02-14",
+    "end_date_written": "1982-01-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q31487",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q56037"
+  },
+  "6": {
+    "name": "Acontius",
+    "first_name": "Jacob",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3376",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q84"
+  },
+  "8": {
+    "name": "Adams",
+    "first_name": "James",
+    "start_date_written": "1901-11-12",
+    "end_date_written": "1994-07-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1512748",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q49111"
+  },
+  "9": {
+    "name": "Adenauer",
+    "first_name": "Konrad",
+    "start_date_written": "1876-01-05",
+    "end_date_written": "1967-04-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q365",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2148416"
+  },
+  "10": {
+    "name": "Adler",
+    "first_name": "Ada",
+    "start_date_written": "1878-02-18",
+    "end_date_written": "1946-12-28",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q30096",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1748"
+  },
+  "11": {
+    "name": "Adler",
+    "first_name": "Alfred",
+    "start_date_written": "1870-02-07",
+    "end_date_written": "1937-05-28",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2174345",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q36405"
+  },
+  "12": {
+    "name": "Adler",
+    "first_name": "Max",
+    "start_date_written": "1873-01-15",
+    "end_date_written": "1937-06-28",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "13": {
+    "name": "Adler",
+    "first_name": "Bruno",
+    "start_date_written": "1888-10-14",
+    "end_date_written": "1968-12-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q384544",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q84"
+  },
+  "14": {
+    "name": "Adonis",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "15": {
+    "name": "Wiesengrund",
+    "first_name": "Theodor",
+    "start_date_written": "1903-09-11",
+    "end_date_written": "1969-08-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1794",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64147"
+  },
+  "16": {
+    "name": "Adriani",
+    "first_name": "Bruno",
+    "start_date_written": "1881-08-18",
+    "end_date_written": "1971-01-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q10936",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q625458"
+  },
+  "17": {
+    "name": "Romanus, K\u00f6ln, Abt Aegidius",
+    "first_name": null,
+    "start_date_written": "1604",
+    "end_date_written": "1684-07-05",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "18": {
+    "name": "Gnaeus Julius Agricola",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": "0093-08-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3078607",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q220"
+  },
+  "19": {
+    "name": "Ahlborn",
+    "first_name": "Knud",
+    "start_date_written": "1888-03-14",
+    "end_date_written": "1977-05-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1055",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q27332"
+  },
+  "21": {
+    "name": "Aenesidemus",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q173527",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q87"
+  },
+  "22": {
+    "name": "Al-Ghazali",
+    "first_name": "Muhammad",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q681427",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q681427"
+  },
+  "23": {
+    "name": "Mansur Al-Hallaj",
+    "first_name": "Mansour",
+    "start_date_written": "858",
+    "end_date_written": "0922-03-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1462261",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1530"
+  },
+  "24": {
+    "name": "Al-Kindi",
+    "first_name": "Yakub",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q186234",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1530"
+  },
+  "25": {
+    "name": "Alain de Lille",
+    "first_name": "Alain",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q648",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q16622"
+  },
+  "26": {
+    "name": "Alaric I",
+    "first_name": "Alaricus",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3621695",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q13619"
+  },
+  "27": {
+    "name": "Albertus de Saxonia",
+    "first_name": "Albert",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q632677",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q7072"
+  },
+  "28": {
+    "name": "Albertus Magnus",
+    "first_name": "Albert",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q572921",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q365"
+  },
+  "29": {
+    "name": "Albrecht",
+    "first_name": "Renate",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "30": {
+    "name": "Alcuin",
+    "first_name": "Alcuin",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q42462",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q288"
+  },
+  "32": {
+    "name": "Alexander the Great",
+    "first_name": "Alexandros",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q213679",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q5684"
+  },
+  "33": {
+    "name": "Alexander Neckam",
+    "first_name": "Alexander",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q6226",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2279121"
+  },
+  "34": {
+    "name": "Alexandros of Aphrodisias",
+    "first_name": "Alexandros",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q618495",
+    "place_of_death_id": null
+  },
+  "35": {
+    "name": "Alexander of Hales",
+    "first_name": "Alexander",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q612260",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "36": {
+    "name": "Alexeyev",
+    "first_name": "Nikolai",
+    "start_date_written": null,
+    "end_date_written": "1964-03-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q649",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q71"
+  },
+  "37": {
+    "name": "Alfred of Sareshel",
+    "first_name": "Alfred",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "38": {
+    "name": "Al\u012b ibn Ab\u012b \u1e6c\u0101lib",
+    "first_name": "Ali",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q5806",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q186234"
+  },
+  "39": {
+    "name": "Alcibiades",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q844930",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q32579"
+  },
+  "40": {
+    "name": "Alcmaeon of Croton",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q6681",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q6681"
+  },
+  "41": {
+    "name": "Adolf Allwohn",
+    "first_name": "Adolf",
+    "start_date_written": "1893-07-03",
+    "end_date_written": "1975-02-18",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "42": {
+    "name": "Althaus",
+    "first_name": "Paul",
+    "start_date_written": "1888-02-04",
+    "end_date_written": "1966-05-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2010987",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3126"
+  },
+  "43": {
+    "name": "Althusius",
+    "first_name": "Johannes",
+    "start_date_written": null,
+    "end_date_written": "1638-08-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q895708",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q4174"
+  },
+  "44": {
+    "name": "Amalric of Bena",
+    "first_name": "Amaury",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q130272",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "45": {
+    "name": "Amelung",
+    "first_name": "Eberhard",
+    "start_date_written": "1926-07-07",
+    "end_date_written": "2008-10-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q569661",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q254148"
+  },
+  "46": {
+    "name": "Amenhotep I",
+    "first_name": "Amenhotep",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q180568",
+    "place_of_death_id": null
+  },
+  "47": {
+    "name": "Ammonius Saccas",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q87",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q87"
+  },
+  "48": {
+    "name": "Amon-Ra",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "49": {
+    "name": "Amos",
+    "first_name": "Amos",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1018921",
+    "place_of_death_id": null
+  },
+  "50": {
+    "name": "Nicolaus von Amsdorf",
+    "first_name": "Nikolaus",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q12062",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q7070"
+  },
+  "51": {
+    "name": "Moses Amyraut",
+    "first_name": "Moses",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q504875",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q193821"
+  },
+  "52": {
+    "name": "Anaxagoras",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q536598",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1229422"
+  },
+  "53": {
+    "name": "Anaximander",
+    "first_name": "\u0391\u03bd\u03b1\u03be\u03af\u03bc\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q169460",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q169460"
+  },
+  "54": {
+    "name": "Anaximenes of Miletus",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q169460",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q169460"
+  },
+  "55": {
+    "name": "Anders",
+    "first_name": "G\u00fcnther",
+    "start_date_written": "1902-07-12",
+    "end_date_written": "1992-12-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1799",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "57": {
+    "name": "Thomas Angell Endresen",
+    "first_name": "Thomas",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "58": {
+    "name": "Angell",
+    "first_name": "Norman",
+    "start_date_written": "1872-12-26",
+    "end_date_written": "1967-10-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q26317680",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2213391"
+  },
+  "59": {
+    "name": "Angelus Silesius",
+    "first_name": "Angelus",
+    "start_date_written": null,
+    "end_date_written": "1677-07-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1799",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1799"
+  },
+  "60": {
+    "name": "Anselm of Canterbury",
+    "first_name": "Anselm",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3367",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q29303"
+  },
+  "61": {
+    "name": "Anselm of Laon",
+    "first_name": "Anselmo",
+    "start_date_written": "1050",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q167141",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q167141"
+  },
+  "62": {
+    "name": "Ruth Nanda Anshen",
+    "first_name": "Ruth",
+    "start_date_written": "1900-06-14",
+    "end_date_written": "2003-12-02",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q49188",
+    "place_of_death_id": null
+  },
+  "64": {
+    "name": "Antiochus of Ascalon",
+    "first_name": "Antiochos",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q60956",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q858"
+  },
+  "65": {
+    "name": "Antiochus IV Epiphanes",
+    "first_name": "Antiochos",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "66": {
+    "name": "Antisthenes",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q13426467",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1524"
+  },
+  "67": {
+    "name": "Apelt",
+    "first_name": "Otto",
+    "start_date_written": "1845-12-29",
+    "end_date_written": "1932-12-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3150",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1731"
+  },
+  "68": {
+    "name": "Apollinaris of Laodicea",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q200030",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q16869"
+  },
+  "69": {
+    "name": "Apollo",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q173148",
+    "place_of_death_id": null
+  },
+  "70": {
+    "name": "Apollonius of Tyana",
+    "first_name": "\u0391\u03c0\u03bf\u03bb\u03bb\u03ce\u03bd\u03b9\u03bf\u03c2",
+    "start_date_written": "15",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1423615",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q47611"
+  },
+  "71": {
+    "name": "Apollos",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q87",
+    "place_of_death_id": null
+  },
+  "73": {
+    "name": "Apuleius",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q54205",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q6343"
+  },
+  "74": {
+    "name": "Archytas",
+    "first_name": "\u0391\u03c1\u03c7\u03cd\u03c4\u03b1\u03c2",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q13498",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q13498"
+  },
+  "75": {
+    "name": "Arendt",
+    "first_name": "Hannah",
+    "start_date_written": "1906-10-14",
+    "end_date_written": "1975-12-04",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q18023391",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q429687"
+  },
+  "76": {
+    "name": "Aretaeus of Cappadocia",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q217265",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q87"
+  },
+  "77": {
+    "name": "Aristarchus of Samos",
+    "first_name": "Aristarchus",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q156882",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q87"
+  },
+  "78": {
+    "name": "Aristidis of Athens",
+    "first_name": "Aristidis",
+    "start_date_written": null,
+    "end_date_written": "134",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1524",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1524"
+  },
+  "79": {
+    "name": "Aristippus",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q44112",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q44112"
+  },
+  "80": {
+    "name": "Aristotle",
+    "first_name": "Aristotelis",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q846127",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q21235810"
+  },
+  "81": {
+    "name": "Arius",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q165198",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q16869"
+  },
+  "83": {
+    "name": "Arminius",
+    "first_name": "Jakub",
+    "start_date_written": null,
+    "end_date_written": "1609-10-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q10051",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q43631"
+  },
+  "84": {
+    "name": "Arndt",
+    "first_name": "Johann",
+    "start_date_written": null,
+    "end_date_written": "1621-05-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q50886",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3933"
+  },
+  "85": {
+    "name": "von Arnim",
+    "first_name": "Hans",
+    "start_date_written": "1859-09-14",
+    "end_date_written": "1931-05-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1547899",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "86": {
+    "name": "Arnobius",
+    "first_name": null,
+    "start_date_written": "255",
+    "end_date_written": "327",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q27155",
+    "place_of_death_id": null
+  },
+  "89": {
+    "name": "Arnold",
+    "first_name": "Eberhard",
+    "start_date_written": "1883-07-26",
+    "end_date_written": "1935-11-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4120832",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2973"
+  },
+  "90": {
+    "name": "Arnold",
+    "first_name": "Gottfried",
+    "start_date_written": "1666-09-05",
+    "end_date_written": "1714-05-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q57944",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q498540"
+  },
+  "92": {
+    "name": "Asclepius",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "93": {
+    "name": "Asmussen",
+    "first_name": "Hans",
+    "start_date_written": "1898-08-21",
+    "end_date_written": "1968-12-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3798",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q6829"
+  },
+  "94": {
+    "name": "Paul Asselin",
+    "first_name": "Paul",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "95": {
+    "name": "Athanasius of Alexandria",
+    "first_name": "Athanasios",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q87",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q87"
+  },
+  "96": {
+    "name": "Athenagoras of Athens",
+    "first_name": "Athenagoras",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1524",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1524"
+  },
+  "97": {
+    "name": "Atkinson",
+    "first_name": "Henry",
+    "start_date_written": "1782",
+    "end_date_written": "1842-06-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q508271",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3176643"
+  },
+  "98": {
+    "name": "Auden",
+    "first_name": "W.",
+    "start_date_written": "1907-02-21",
+    "end_date_written": "1973-09-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q42462",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "99": {
+    "name": "Hilda Auersperg",
+    "first_name": "Hilda",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "100": {
+    "name": "Augustine of Hippo",
+    "first_name": "Augustinus",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1324444",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q858024"
+  },
+  "101": {
+    "name": "Augustinus Triumphus",
+    "first_name": "Augustinus",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3415",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2634"
+  },
+  "102": {
+    "name": "Albrecht",
+    "first_name": "Renate",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "103": {
+    "name": "Avempace",
+    "first_name": "Abu Bakr",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q11947752",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q80985"
+  },
+  "104": {
+    "name": "Solomon ibn Gabirol",
+    "first_name": "Solomon",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q8851",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q8818"
+  },
+  "105": {
+    "name": "Baader",
+    "first_name": "Benedict",
+    "start_date_written": "1765-03-27",
+    "end_date_written": "1841-05-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1726",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "106": {
+    "name": "Julius Bab",
+    "first_name": "Julius",
+    "start_date_written": "1880-12-11",
+    "end_date_written": "1955-02-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3088462"
+  },
+  "107": {
+    "name": "Bach",
+    "first_name": "Johann",
+    "start_date_written": null,
+    "end_date_written": "1750-07-28",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q7070",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "217": {
+    "name": "Bienert",
+    "first_name": "Ida",
+    "start_date_written": "1870-11-29",
+    "end_date_written": "1966-08-18",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q857331",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "243": {
+    "name": "B\u00f6hme",
+    "first_name": "Jakob",
+    "start_date_written": null,
+    "end_date_written": "1624-11-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q9344380",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q4077"
+  },
+  "271": {
+    "name": "Br\u00e4ndstr\u00f6m",
+    "first_name": "Elsa",
+    "start_date_written": "1888-03-26",
+    "end_date_written": "1948-03-04",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q656",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q49111"
+  },
+  "310": {
+    "name": "Friedrich B\u00fcchsel",
+    "first_name": "Friedrich",
+    "start_date_written": "1883-07-02",
+    "end_date_written": "1945-05-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2441",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2861"
+  },
+  "588": {
+    "name": "Fichte",
+    "first_name": "Immanuel",
+    "start_date_written": "1796-07-18",
+    "end_date_written": "1879-08-08",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3150",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "589": {
+    "name": "Fichte",
+    "first_name": "Johann",
+    "start_date_written": "1762-05-19",
+    "end_date_written": "1814-01-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q93289",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "641": {
+    "name": "Alfred Fritz (Pastor)",
+    "first_name": "Alfred",
+    "start_date_written": "1886",
+    "end_date_written": "1963",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "688": {
+    "name": "Goesch",
+    "first_name": "Heinrich",
+    "start_date_written": "1880",
+    "end_date_written": "1931-02-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2861",
+    "place_of_death_id": null
+  },
+  "691": {
+    "name": "Goetz",
+    "first_name": "Bruno",
+    "start_date_written": "1885-11-06",
+    "end_date_written": "1954-03-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1773",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q72"
+  },
+  "815": {
+    "name": "Hartmann",
+    "first_name": "Karl",
+    "start_date_written": "1842-02-23",
+    "end_date_written": "1906-06-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "839": {
+    "name": "Hegel",
+    "first_name": "Georg",
+    "start_date_written": "1770-08-27",
+    "end_date_written": "1831-11-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1022",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "890": {
+    "name": "Herrmann",
+    "first_name": "Wilhelm",
+    "start_date_written": "1846-12-06",
+    "end_date_written": "1922-01-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q428736",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3869"
+  },
+  "904": {
+    "name": "Hirsch",
+    "first_name": "Emanuel",
+    "start_date_written": "1888-06-14",
+    "end_date_written": "1972-07-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q541956",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3033"
+  },
+  "1180": {
+    "name": "Lietzmann",
+    "first_name": "Hans",
+    "start_date_written": "1875-03-02",
+    "end_date_written": "1942-06-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1718",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q11935"
+  },
+  "1189": {
+    "name": "Lipps",
+    "first_name": "Theodor",
+    "start_date_written": "1851-07-28",
+    "end_date_written": "1914-10-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q627653",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "1227": {
+    "name": "L\u00fctgert",
+    "first_name": "Wilhelm",
+    "start_date_written": "1867-04-09",
+    "end_date_written": "1938-02-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q520280",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1228": {
+    "name": "Luther",
+    "first_name": "Martin",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q484870",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q484870"
+  },
+  "1438": {
+    "name": "Otto",
+    "first_name": "Rudolf",
+    "start_date_written": "1869-09-25",
+    "end_date_written": "1937-03-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q6850",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3869"
+  },
+  "1600": {
+    "name": "Richter",
+    "first_name": "Julius",
+    "start_date_written": "1862-02-19",
+    "end_date_written": "1940-03-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q697979",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q700211"
+  },
+  "1610": {
+    "name": "Riezler",
+    "first_name": "Kurt",
+    "start_date_written": "1882-11-11",
+    "end_date_written": "1955-09-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1726",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "1672": {
+    "name": "Emmy Pisko",
+    "first_name": "Emmy",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1693": {
+    "name": "Schaeder",
+    "first_name": "Erich",
+    "start_date_written": "1861-12-22",
+    "end_date_written": "1936-02-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q15377091",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1696": {
+    "name": "Hermann Schafft",
+    "first_name": "Hermann",
+    "start_date_written": "1883-12-02",
+    "end_date_written": "1959-06-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q704109",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2865"
+  },
+  "1705": {
+    "name": "Schelling",
+    "first_name": "Friedrich",
+    "start_date_written": "1775-01-27",
+    "end_date_written": "1854-08-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q7010",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q95759"
+  },
+  "1712": {
+    "name": "Schlatter",
+    "first_name": "Adolf",
+    "start_date_written": "1852-08-16",
+    "end_date_written": "1938-05-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q25607",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "1755": {
+    "name": "Schwegler",
+    "first_name": "Albert",
+    "start_date_written": "1819-02-10",
+    "end_date_written": "1857-01-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q81036",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "1829": {
+    "name": "Spiegelberg",
+    "first_name": "Frederic",
+    "start_date_written": "1897-05-24",
+    "end_date_written": "1994-11-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1613",
+    "place_of_death_id": null
+  },
+  "1835": {
+    "name": "Stahl",
+    "first_name": "Friedrich",
+    "start_date_written": "1802-01-16",
+    "end_date_written": "1861-08-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2999",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q504513"
+  },
+  "1836": {
+    "name": "Stahl",
+    "first_name": "Georg",
+    "start_date_written": "1659-10-21",
+    "end_date_written": "1734-05-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q14859",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1837": {
+    "name": "St\u00e4hlin",
+    "first_name": "Wilhelm",
+    "start_date_written": "1883-09-24",
+    "end_date_written": "1975-12-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q503640",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q18863"
+  },
+  "1838": {
+    "name": "Stalin",
+    "first_name": "Ioseb",
+    "start_date_written": null,
+    "end_date_written": "1953-03-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q19583",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q4088132"
+  },
+  "1839": {
+    "name": "Stammler",
+    "first_name": "Rudolf",
+    "start_date_written": "1856-02-19",
+    "end_date_written": "1938-04-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q488314",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q15982"
+  },
+  "1841": {
+    "name": "Stapel",
+    "first_name": "Wilhelm",
+    "start_date_written": "1882-10-27",
+    "end_date_written": "1954-06-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q539118",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1055"
+  },
+  "1842": {
+    "name": "Edwin Diller Starbuck",
+    "first_name": "Edwin",
+    "start_date_written": "1866-02-20",
+    "end_date_written": "1947-11-18",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1843": {
+    "name": "Publius Papinius Statius",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2634",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2634"
+  },
+  "1844": {
+    "name": "Else Staudinger",
+    "first_name": "Else",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1845": {
+    "name": "Staudinger",
+    "first_name": "Hans",
+    "start_date_written": "1889-08-16",
+    "end_date_written": "1980-02-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3852",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "1846": {
+    "name": "Karl Friedrich St\u00e4udlin",
+    "first_name": "Karl",
+    "start_date_written": "1761-07-25",
+    "end_date_written": "1826-07-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1022",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3033"
+  },
+  "1847": {
+    "name": "Stauffer",
+    "first_name": null,
+    "start_date_written": "1902-05-08",
+    "end_date_written": "1979-08-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q22984",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3126"
+  },
+  "1849": {
+    "name": "Stein",
+    "first_name": "Heinrich",
+    "start_date_written": "1857",
+    "end_date_written": "1887-06-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q14821",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1850": {
+    "name": "von Stein",
+    "first_name": "Lorenz",
+    "start_date_written": "1815-11-15",
+    "end_date_written": "1890-09-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q893358",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1567437"
+  },
+  "1851": {
+    "name": "Steiner",
+    "first_name": "Rudolf",
+    "start_date_written": "1861-02-27",
+    "end_date_written": "1925-03-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q746303",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64694"
+  },
+  "1852": {
+    "name": "Hermann Steinhausen",
+    "first_name": "Hermann",
+    "start_date_written": "1854-10-07",
+    "end_date_written": "1928-10-08",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1853": {
+    "name": "Gertrud Steinweg",
+    "first_name": "Gertrud",
+    "start_date_written": "1899-07-17",
+    "end_date_written": "1976-08-05",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2814",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q12434"
+  },
+  "1854": {
+    "name": "Stephan",
+    "first_name": "Horst",
+    "start_date_written": "1873-09-27",
+    "end_date_written": "1954-01-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q71151",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "1856": {
+    "name": "Fyodor Stepun",
+    "first_name": "Fyodor",
+    "start_date_written": "1884-02-18",
+    "end_date_written": "1965-02-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q649",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "1857": {
+    "name": "Sternberger",
+    "first_name": "Dolf",
+    "start_date_written": "1907-07-28",
+    "end_date_written": "1989-07-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1721",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1794"
+  },
+  "1858": {
+    "name": "Steudel",
+    "first_name": "Friedrich",
+    "start_date_written": "1866-09-27",
+    "end_date_written": "1939-11-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q15987",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q24879"
+  },
+  "1862": {
+    "name": "Schmidt",
+    "first_name": "Johann",
+    "start_date_written": "1806-10-25",
+    "end_date_written": "1856-06-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3923",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1863": {
+    "name": "Gertraut St\u00f6ber",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1864": {
+    "name": "Stoecker",
+    "first_name": "Adolf",
+    "start_date_written": "1835-12-11",
+    "end_date_written": "1909-02-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q7072",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1546471"
+  },
+  "1865": {
+    "name": "St\u00f6cker",
+    "first_name": "Lydia",
+    "start_date_written": "1877",
+    "end_date_written": "1942",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q702259",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q509155"
+  },
+  "1866": {
+    "name": "Stocks",
+    "first_name": "John",
+    "start_date_written": "1882-10-26",
+    "end_date_written": "1937-06-13",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1868": {
+    "name": "Stoevesandt",
+    "first_name": "Karl",
+    "start_date_written": "1882-08-09",
+    "end_date_written": "1977-07-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q24879",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1209"
+  },
+  "1869": {
+    "name": "Toni Stolper",
+    "first_name": "Toni",
+    "start_date_written": "1890-11-22",
+    "end_date_written": "1988-10-18",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q88"
+  },
+  "1870": {
+    "name": "Arnold Stolzenburg",
+    "first_name": "Arnold",
+    "start_date_written": "1887-07-21",
+    "end_date_written": "1966-05-12",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": "http://www.wikidata.org/entity/Q15986"
+  },
+  "1871": {
+    "name": "Storr",
+    "first_name": "Gottlob",
+    "start_date_written": "1746-09-10",
+    "end_date_written": "1805-01-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1022",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "1872": {
+    "name": "Strabo",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q27088966",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q27088966"
+  },
+  "1874": {
+    "name": "Strathmann",
+    "first_name": "Hermann",
+    "start_date_written": "1882-08-30",
+    "end_date_written": "1966-11-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q19965669",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3126"
+  },
+  "1875": {
+    "name": "Strato of Lampsacus",
+    "first_name": "\u03a3\u03c4\u03c1\u03ac\u03c4\u03c9\u03bd",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1229422",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1524"
+  },
+  "1876": {
+    "name": "Strau\u00df",
+    "first_name": "David",
+    "start_date_written": "1808-01-27",
+    "end_date_written": "1874-02-08",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q622",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q622"
+  },
+  "1877": {
+    "name": "Stravinsky",
+    "first_name": "Igor",
+    "start_date_written": "1882-06-17",
+    "end_date_written": "1971-04-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q157688",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "1878": {
+    "name": "Victorinus Strigel",
+    "first_name": "Victorinus",
+    "start_date_written": "1524-12-26",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q14805",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "1879": {
+    "name": "Strindberg",
+    "first_name": "August",
+    "start_date_written": "1849-01-22",
+    "end_date_written": "1912-05-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q43549106",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3433770"
+  },
+  "1880": {
+    "name": "Su\u00e1rez",
+    "first_name": "Francisco",
+    "start_date_written": null,
+    "end_date_written": "1617-09-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q8810",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q597"
+  },
+  "1881": {
+    "name": "Suenens",
+    "first_name": "L\u00e9on-Joseph",
+    "start_date_written": "1904-07-16",
+    "end_date_written": "1996-05-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q208713",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q240"
+  },
+  "1882": {
+    "name": "Suetonius",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2277"
+  },
+  "1883": {
+    "name": "Friedrich Gottlieb S\u00fcskind",
+    "first_name": "Friedrich",
+    "start_date_written": "1767-02-17",
+    "end_date_written": "1829-11-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q503145",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "1884": {
+    "name": "S\u00fc\u00dfmilch",
+    "first_name": "Johann Peter",
+    "start_date_written": "1707-09-03",
+    "end_date_written": "1767-03-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q324402",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1885": {
+    "name": "Swensen",
+    "first_name": "David",
+    "start_date_written": "1954-01-26",
+    "end_date_written": "2021-05-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q470273",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q49145"
+  },
+  "1887": {
+    "name": "von Sydow",
+    "first_name": "Eckart",
+    "start_date_written": "1885-09-05",
+    "end_date_written": "1942-07-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1233520",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1889": {
+    "name": "Tatian",
+    "first_name": null,
+    "start_date_written": "120",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q40169",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q40169"
+  },
+  "1890": {
+    "name": "Taubes",
+    "first_name": "Jacob",
+    "start_date_written": "1923-02-25",
+    "end_date_written": "1987-03-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1891": {
+    "name": "Teilhard de Chardin",
+    "first_name": "Pierre",
+    "start_date_written": "1881-05-01",
+    "end_date_written": "1955-04-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2243332",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "1892": {
+    "name": "Bernardino Telesio",
+    "first_name": "Bernardino",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q13619",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q13619"
+  },
+  "1893": {
+    "name": "Teller",
+    "first_name": "Wilhelm",
+    "start_date_written": "1734-01-09",
+    "end_date_written": "1804-12-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1894": {
+    "name": "Temple",
+    "first_name": "William",
+    "start_date_written": "1881-10-15",
+    "end_date_written": "1944-10-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q134672",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q23298"
+  },
+  "1895": {
+    "name": "Williams",
+    "first_name": "Thomas",
+    "start_date_written": "1911-03-26",
+    "end_date_written": "1983-02-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q985648",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "1897": {
+    "name": "Tersteegen",
+    "first_name": "Gerhard",
+    "start_date_written": "1697-11-25",
+    "end_date_written": "1769-04-03",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3132",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2899"
+  },
+  "1898": {
+    "name": "Tertullian",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q23670612",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q23670612"
+  },
+  "1899": {
+    "name": "Tetens",
+    "first_name": "Johannes",
+    "start_date_written": "1736-09-16",
+    "end_date_written": "1807-08-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q20792",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1748"
+  },
+  "1900": {
+    "name": "Thales",
+    "first_name": "Thalis",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q169460",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q169460"
+  },
+  "1901": {
+    "name": "Bruno Theek",
+    "first_name": "Bruno",
+    "start_date_written": "1891-05-20",
+    "end_date_written": "1990-03-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q675187",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q156119"
+  },
+  "1903": {
+    "name": "Karl Themel",
+    "first_name": "Karl",
+    "start_date_written": "1890-02-26",
+    "end_date_written": "1973-03-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q486541",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1904": {
+    "name": "Themistocles",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1524",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1432674"
+  },
+  "1905": {
+    "name": "Theodore of Mopsuestia",
+    "first_name": "Theodoros",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q200441",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q555923"
+  },
+  "1906": {
+    "name": "Theodoros the Atheist",
+    "first_name": "Theodoros",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q44112",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q44112"
+  },
+  "1907": {
+    "name": "Theodosius I",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q649612",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q490"
+  },
+  "1908": {
+    "name": "Thielicke",
+    "first_name": "Helmut",
+    "start_date_written": "1908-12-04",
+    "end_date_written": "1986-03-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q153974",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1055"
+  },
+  "1909": {
+    "name": "de Chartres",
+    "first_name": "Thierry",
+    "start_date_written": "1100",
+    "end_date_written": "1155",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1910": {
+    "name": "Thomas",
+    "first_name": "Wilhelm",
+    "start_date_written": "1875-08-25",
+    "end_date_written": "1955-11-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q543978",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1720"
+  },
+  "1911": {
+    "name": "Thomas Bradwardine",
+    "first_name": "Thomas",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q207639",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q202059"
+  },
+  "1912": {
+    "name": "Thomas Aquinas",
+    "first_name": "Tommaso",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q117211",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1775258"
+  },
+  "1913": {
+    "name": "Kempen",
+    "first_name": "Tommaso",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q14929",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q793"
+  },
+  "1914": {
+    "name": "Thomasius",
+    "first_name": "Christian",
+    "start_date_written": "1655-01-01",
+    "end_date_written": "1728-09-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2814"
+  },
+  "1915": {
+    "name": "Thompson",
+    "first_name": "Dorothy",
+    "start_date_written": "1893-07-09",
+    "end_date_written": "1961-01-30",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3216911",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q597"
+  },
+  "1916": {
+    "name": "Thorndike",
+    "first_name": "Lynn",
+    "start_date_written": "1882-07-24",
+    "end_date_written": "1965-12-28",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q49188",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "1918": {
+    "name": "Thurneysen",
+    "first_name": "Eduard",
+    "start_date_written": "1888-07-10",
+    "end_date_written": "1974-08-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64191",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q78"
+  },
+  "1919": {
+    "name": "Tiburtius",
+    "first_name": "Joachim",
+    "start_date_written": "1889-08-11",
+    "end_date_written": "1967-05-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q106274",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1920": {
+    "name": "Johann Heinrich Tieftrunk",
+    "first_name": "Johann",
+    "start_date_written": "1760-05-15",
+    "end_date_written": "1837-10-07",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2814"
+  },
+  "1921": {
+    "name": "Tiele",
+    "first_name": "Cornelis",
+    "start_date_written": "1830-12-16",
+    "end_date_written": "1902-01-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q43631",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q43631"
+  },
+  "1922": {
+    "name": "Tillich",
+    "first_name": "Ernst",
+    "start_date_written": "1910-06-27",
+    "end_date_written": "1985-03-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q326582",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1718"
+  },
+  "1923": {
+    "name": "Tillich",
+    "first_name": "Hannah",
+    "start_date_written": "1896-05-17",
+    "end_date_written": "1988-10-27",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q558631",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q994372"
+  },
+  "1924": {
+    "name": "Johannes Oskar Tillich",
+    "first_name": "Johannes",
+    "start_date_written": "1857",
+    "end_date_written": "1937",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1926": {
+    "name": "Oskar Tillich",
+    "first_name": "Oskar",
+    "start_date_written": "1828",
+    "end_date_written": "1914",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1927": {
+    "name": "Ren\u00e9 Johannes Stefan Tillich",
+    "first_name": "Ren\u00e9",
+    "start_date_written": "1935",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1928": {
+    "name": "Tillich",
+    "first_name": "Paul",
+    "start_date_written": "1886-08-20",
+    "end_date_written": "1965-10-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q150033",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1297"
+  },
+  "1936": {
+    "name": "Timaeus of Locri",
+    "first_name": "\u03a4\u03af\u03bc\u03b1\u03b9\u03bf\u03c2",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3836325",
+    "place_of_death_id": null
+  },
+  "1937": {
+    "name": "Timon of Athens (person)",
+    "first_name": "\u03a4\u03af\u03bc\u03c9\u03bd",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1064853",
+    "place_of_death_id": null
+  },
+  "1938": {
+    "name": "Tindal",
+    "first_name": "Matthew",
+    "start_date_written": "1657",
+    "end_date_written": "1733-08-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q23156",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q34217"
+  },
+  "1939": {
+    "name": "Tittmann",
+    "first_name": "Johann",
+    "start_date_written": "1773-08-01",
+    "end_date_written": "1831-12-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q518368",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q8738"
+  },
+  "1940": {
+    "name": "Titus Livius",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q617",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q617"
+  },
+  "1941": {
+    "name": "Vecellio",
+    "first_name": "Tiziano",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q41065",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q641"
+  },
+  "1942": {
+    "name": "T\u014dj\u014d",
+    "first_name": "Hideki",
+    "start_date_written": "1884-12-30",
+    "end_date_written": "1948-12-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q11677414",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q699579"
+  },
+  "1943": {
+    "name": "Toland",
+    "first_name": "John",
+    "start_date_written": "1912-06-29",
+    "end_date_written": "2004-01-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q936780",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q49198"
+  },
+  "1944": {
+    "name": "Toller",
+    "first_name": "Ernst",
+    "start_date_written": "1893-12-01",
+    "end_date_written": "1939-05-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q995859",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "1945": {
+    "name": "Tolstoy",
+    "first_name": "Lev",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q749556",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q4071563"
+  },
+  "1946": {
+    "name": "T\u00f6nnies",
+    "first_name": "Ferdinand",
+    "start_date_written": "1855-07-26",
+    "end_date_written": "1936-04-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q20784",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1707"
+  },
+  "1947": {
+    "name": "Toscanini",
+    "first_name": "Arturo",
+    "start_date_written": "1867-03-25",
+    "end_date_written": "1957-01-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2683",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q11299"
+  },
+  "1948": {
+    "name": "Toynbee",
+    "first_name": "Arnold",
+    "start_date_written": "1889-04-14",
+    "end_date_written": "1975-10-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q84",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q42462"
+  },
+  "1949": {
+    "name": "Friedrich Traub",
+    "first_name": "Friedrich",
+    "start_date_written": "1860",
+    "end_date_written": "1939",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1950": {
+    "name": "Christoph Friedrich Trautz",
+    "first_name": "Christoph",
+    "start_date_written": "1771",
+    "end_date_written": "1840",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1951": {
+    "name": "von Treitschke",
+    "first_name": "Heinrich",
+    "start_date_written": "1834-09-15",
+    "end_date_written": "1896-04-28",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1731",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1952": {
+    "name": "Trendelenburg",
+    "first_name": "Friedrich",
+    "start_date_written": "1802-11-30",
+    "end_date_written": "1872-01-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q490445",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1953": {
+    "name": "Tretyakov",
+    "first_name": "Sergey",
+    "start_date_written": null,
+    "end_date_written": "1937-09-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q155281",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q649"
+  },
+  "1954": {
+    "name": "Troeltsch",
+    "first_name": "Ernst",
+    "start_date_written": "1865-02-17",
+    "end_date_written": "1923-02-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q760477",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1955": {
+    "name": "Trotha",
+    "first_name": "Carl",
+    "start_date_written": "1907-06-25",
+    "end_date_written": "1952-06-28",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q457303",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1204"
+  },
+  "1956": {
+    "name": "Trotter",
+    "first_name": "John",
+    "start_date_written": "1908-06-14",
+    "end_date_written": "1975-10-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q16565",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q65"
+  },
+  "1957": {
+    "name": "Truman",
+    "first_name": "Harry",
+    "start_date_written": "1884-05-08",
+    "end_date_written": "1972-12-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q572172",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q41819"
+  },
+  "1958": {
+    "name": "Tschackert",
+    "first_name": "Paul",
+    "start_date_written": "1848-01-10",
+    "end_date_written": "1911-07-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q142101",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3033"
+  },
+  "1959": {
+    "name": "Marie Hegel",
+    "first_name": "Marie",
+    "start_date_written": "1791-03-17",
+    "end_date_written": "1855-07-06",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "1960": {
+    "name": "Heinrich Gottlieb Tzschirner",
+    "first_name": "Heinrich",
+    "start_date_written": "1778-11-14",
+    "end_date_written": "1828-02-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q71170",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "1961": {
+    "name": "Paolo Uccello",
+    "first_name": "Paolo",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q52096",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2044"
+  },
+  "1962": {
+    "name": "Friedrich Ueberweg",
+    "first_name": "Friedrich",
+    "start_date_written": "1826-01-22",
+    "end_date_written": "1871-06-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q245495",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q4120832"
+  },
+  "1963": {
+    "name": "Uexk\u00fcll",
+    "first_name": "Jakob",
+    "start_date_written": "1864-09-08",
+    "end_date_written": "1944-07-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1753117",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q173292"
+  },
+  "1964": {
+    "name": "Uhde",
+    "first_name": "Fritz",
+    "start_date_written": "1848-05-22",
+    "end_date_written": "1911-02-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q55378038",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "1965": {
+    "name": "Robert Ulich",
+    "first_name": "Robert",
+    "start_date_written": "1890-04-21",
+    "end_date_written": "1977-06-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q310990",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "1967": {
+    "name": "Ulrich of Strasburg",
+    "first_name": "Ulrich",
+    "start_date_written": "1220",
+    "end_date_written": "1277",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q6602",
+    "place_of_death_id": null
+  },
+  "1968": {
+    "name": "Unruh",
+    "first_name": "Fritz",
+    "start_date_written": "1885-05-10",
+    "end_date_written": "1970-11-28",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3104",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q504031"
+  },
+  "1969": {
+    "name": "Urban IV",
+    "first_name": "Urbanus",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q5489",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3437"
+  },
+  "1971": {
+    "name": "Urner",
+    "first_name": "Hans",
+    "start_date_written": "1901-05-21",
+    "end_date_written": "1986-11-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1799",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1973": {
+    "name": "Karl Hermann Usener",
+    "first_name": "Karl",
+    "start_date_written": "1905",
+    "end_date_written": "1970-10-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q162049",
+    "place_of_death_id": null
+  },
+  "1974": {
+    "name": "Johannes Wtenbogaert",
+    "first_name": "Johannes",
+    "start_date_written": "1557-02-11",
+    "end_date_written": "1644-09-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q803",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q36600"
+  },
+  "1975": {
+    "name": "Vaihinger",
+    "first_name": "Hans",
+    "start_date_written": "1852-09-25",
+    "end_date_written": "1933-12-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q542172",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2814"
+  },
+  "1976": {
+    "name": "Valentin",
+    "first_name": "Veit",
+    "start_date_written": "1885-03-25",
+    "end_date_written": "1947-01-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1794",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q61"
+  },
+  "1977": {
+    "name": "Valla",
+    "first_name": "Lorenzo",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q220",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q220"
+  },
+  "1983": {
+    "name": "Van Eyck",
+    "first_name": "Jan",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q110989",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q12994"
+  },
+  "1984": {
+    "name": "van Gogh",
+    "first_name": "Vincent",
+    "start_date_written": "1853-03-30",
+    "end_date_written": "1890-07-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q9883",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q212406"
+  },
+  "1985": {
+    "name": "Varnhagen",
+    "first_name": "Rahel",
+    "start_date_written": "1771-05-19",
+    "end_date_written": "1833-03-07",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1987": {
+    "name": "Venturini",
+    "first_name": "Karl",
+    "start_date_written": "1768-01-30",
+    "end_date_written": "1848-05-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2773",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q262655"
+  },
+  "1988": {
+    "name": "Vergilius of Salzburg",
+    "first_name": "Virgilius",
+    "start_date_written": "700",
+    "end_date_written": "0784-11-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q27",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q34713"
+  },
+  "1989": {
+    "name": "Andreas Vesalius",
+    "first_name": "Andreas",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1864473",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q144880"
+  },
+  "1990": {
+    "name": "Vico",
+    "first_name": "Giambattista",
+    "start_date_written": "1668-06-23",
+    "end_date_written": "1744-01-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2634",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2634"
+  },
+  "1994": {
+    "name": "Vierkandt",
+    "first_name": "Alfred",
+    "start_date_written": "1867-06-04",
+    "end_date_written": "1953-04-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1055",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "1995": {
+    "name": "Viertel",
+    "first_name": "Berthold",
+    "start_date_written": "1885-06-28",
+    "end_date_written": "1953-09-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "1996": {
+    "name": "Vischer",
+    "first_name": "Friedrich",
+    "start_date_written": "1807-06-30",
+    "end_date_written": "1887-09-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q622",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q430449"
+  },
+  "1997": {
+    "name": "Visser 't Hooft",
+    "first_name": "Willem",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q9920",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q71"
+  },
+  "1999": {
+    "name": "Elisabeth Vitzthum von Eckst\u00e4dt",
+    "first_name": "Elisabeth",
+    "start_date_written": "1870-06-24",
+    "end_date_written": "1961-07-11",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2000": {
+    "name": "Vives",
+    "first_name": "Juan Luis",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q8818",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q12994"
+  },
+  "2001": {
+    "name": "Voet",
+    "first_name": "Gijsbert",
+    "start_date_written": "1589-03-03",
+    "end_date_written": "1676-11-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q9845",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q39297398"
+  },
+  "2006": {
+    "name": "Vollmer",
+    "first_name": "Antje",
+    "start_date_written": "1943-05-31",
+    "end_date_written": "2023-03-15",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q182805",
+    "place_of_death_id": null
+  },
+  "2007": {
+    "name": "Voltaire",
+    "first_name": "Fran\u00e7ois-Marie",
+    "start_date_written": "1694-11-21",
+    "end_date_written": "1778-05-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q90",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "2008": {
+    "name": "von Sydow",
+    "first_name": "Eckart",
+    "start_date_written": "1885-09-05",
+    "end_date_written": "1942-07-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1233520",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2009": {
+    "name": "Vorwerk",
+    "first_name": "Friedrich",
+    "start_date_written": "1893-10-08",
+    "end_date_written": "1969-02-27",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "2011": {
+    "name": "Boris Vysheslavtsev",
+    "first_name": "Boris",
+    "start_date_written": null,
+    "end_date_written": "1954-10-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q649",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q71"
+  },
+  "2013": {
+    "name": "Wilhelm Heinrich Wackenroder",
+    "first_name": "Wilhelm",
+    "start_date_written": "1773-07-13",
+    "end_date_written": "1798-02-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2014": {
+    "name": "Wald",
+    "first_name": "George",
+    "start_date_written": "1906-11-18",
+    "end_date_written": "1997-04-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q60",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q49111"
+  },
+  "2015": {
+    "name": "Walter of St Victor",
+    "first_name": "Walter",
+    "start_date_written": null,
+    "end_date_written": "1180",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2017": {
+    "name": "Weber",
+    "first_name": "Max",
+    "start_date_written": "1864-04-21",
+    "end_date_written": "1920-06-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1729",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2018": {
+    "name": "Rudolf Weckerling",
+    "first_name": "Rudolf",
+    "start_date_written": "1911-05-03",
+    "end_date_written": "2014-01-31",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q656680",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2021": {
+    "name": "Wehowsky",
+    "first_name": "Stephan",
+    "start_date_written": "1950",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2022": {
+    "name": "Weigel",
+    "first_name": "Valentin",
+    "start_date_written": null,
+    "end_date_written": "1588-06-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q8714",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q58006"
+  },
+  "2023": {
+    "name": "Hans Weil",
+    "first_name": "Hans",
+    "start_date_written": "1902-06-11",
+    "end_date_written": "1998-11-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1794",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2211"
+  },
+  "2025": {
+    "name": "Herman Weil",
+    "first_name": "Herman",
+    "start_date_written": "1905",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2026": {
+    "name": "Weinel",
+    "first_name": "Heinrich",
+    "start_date_written": "1874-04-28",
+    "end_date_written": "1936-09-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1669989",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3150"
+  },
+  "2027": {
+    "name": "Weiss",
+    "first_name": "Johannes",
+    "start_date_written": "1863-12-13",
+    "end_date_written": "1914-08-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1707",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2028": {
+    "name": "Wei\u00df",
+    "first_name": "Konrad",
+    "start_date_written": "1907-07-24",
+    "end_date_written": "1979-09-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q994136",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2861"
+  },
+  "2029": {
+    "name": "Weisse",
+    "first_name": "Christian",
+    "start_date_written": "1801-08-10",
+    "end_date_written": "1866-09-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "2030": {
+    "name": "Weissenberg",
+    "first_name": "Joseph",
+    "start_date_written": "1855-08-24",
+    "end_date_written": "1941-03-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q7999449",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q936101"
+  },
+  "2031": {
+    "name": "Weitling",
+    "first_name": "Wilhelm",
+    "start_date_written": "1808-10-05",
+    "end_date_written": "1871-01-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1733",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2032": {
+    "name": "Wellhausen",
+    "first_name": "Julius",
+    "start_date_written": "1844-05-17",
+    "end_date_written": "1918-01-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4062",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3033"
+  },
+  "2033": {
+    "name": "Heinz-Dietrich Wendland",
+    "first_name": null,
+    "start_date_written": "1900-06-22",
+    "end_date_written": "1992-08-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1055"
+  },
+  "2034": {
+    "name": "Karl Georg Wendriner",
+    "first_name": "Karl",
+    "start_date_written": "1885",
+    "end_date_written": "1943",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2035": {
+    "name": "Wendt",
+    "first_name": "Hans",
+    "start_date_written": "1853-06-18",
+    "end_date_written": "1928-01-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1055",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3150"
+  },
+  "2036": {
+    "name": "Werckshagen",
+    "first_name": "Carl",
+    "start_date_written": "1863-08-23",
+    "end_date_written": "1908-08-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q681425",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2037": {
+    "name": "Werdermann",
+    "first_name": "Hermann",
+    "start_date_written": "1888-06-12",
+    "end_date_written": "1954-08-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q702829",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q39785"
+  },
+  "2038": {
+    "name": "Werfel",
+    "first_name": "Franz",
+    "start_date_written": "1890-09-10",
+    "end_date_written": "1945-08-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1085",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q127856"
+  },
+  "2042": {
+    "name": "Wernle",
+    "first_name": "Paul",
+    "start_date_written": "1872-05-01",
+    "end_date_written": "1939-04-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q693454",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q78"
+  },
+  "2044": {
+    "name": "Wertheimer",
+    "first_name": "Max",
+    "start_date_written": "1880-04-15",
+    "end_date_written": "1943-10-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1085",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q744948"
+  },
+  "2045": {
+    "name": "Wesley",
+    "first_name": "John",
+    "start_date_written": null,
+    "end_date_written": "1791-03-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2409258",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q124252"
+  },
+  "2046": {
+    "name": "de Wette",
+    "first_name": "Wilhelm",
+    "start_date_written": "1780-01-12",
+    "end_date_written": "1849-06-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1675832",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q78"
+  },
+  "2051": {
+    "name": "Weyer",
+    "first_name": "Johann",
+    "start_date_written": null,
+    "end_date_written": "1588-02-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q9839",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q181745"
+  },
+  "2053": {
+    "name": "Whitehead",
+    "first_name": "Alfred",
+    "start_date_written": "1861-02-15",
+    "end_date_written": "1947-12-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q736439",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q49111"
+  },
+  "2054": {
+    "name": "Wilhelm Wibbeling",
+    "first_name": "Wilhelm",
+    "start_date_written": "1891-02-17",
+    "end_date_written": "1966-12-09",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2055": {
+    "name": "Wickham",
+    "first_name": "Margret",
+    "start_date_written": "1890",
+    "end_date_written": "1966",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2056": {
+    "name": "Wichern",
+    "first_name": "Johannes",
+    "start_date_written": "1845-09-23",
+    "end_date_written": "1914",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1572",
+    "place_of_death_id": null
+  },
+  "2058": {
+    "name": "Wieland",
+    "first_name": "Christoph",
+    "start_date_written": "1733-09-05",
+    "end_date_written": "1813-01-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q56612225",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3955"
+  },
+  "2059": {
+    "name": "Henry Nelson Wieman",
+    "first_name": "Henry",
+    "start_date_written": "1884",
+    "end_date_written": "1975",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q960231",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1903250"
+  },
+  "2060": {
+    "name": "Wiener",
+    "first_name": "Max",
+    "start_date_written": "1882-04-22",
+    "end_date_written": "1950-06-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q92212",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2061": {
+    "name": "Wiese",
+    "first_name": "Leopold",
+    "start_date_written": "1876-12-02",
+    "end_date_written": "1969-01-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q284604",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q365"
+  },
+  "2062": {
+    "name": "Wiesenthal",
+    "first_name": "Simon",
+    "start_date_written": "1908-12-31",
+    "end_date_written": "2005-09-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q849109",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "2063": {
+    "name": "Wigman",
+    "first_name": "Mary",
+    "start_date_written": "1886-11-13",
+    "end_date_written": "1973-09-18",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1715",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2064": {
+    "name": "Ulrich von Wilamowitz-Moellendorff",
+    "first_name": "Ulrich",
+    "start_date_written": "1848-12-22",
+    "end_date_written": "1931-09-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q955570",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2065": {
+    "name": "Wild",
+    "first_name": "John",
+    "start_date_written": "1904",
+    "end_date_written": "1992",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2066": {
+    "name": "Wilde",
+    "first_name": "Oscar",
+    "start_date_written": "1854-10-16",
+    "end_date_written": "1900-11-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1761",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "2067": {
+    "name": "Wilder",
+    "first_name": "Thornton",
+    "start_date_written": "1897-04-17",
+    "end_date_written": "1975-12-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q43788",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q49145"
+  },
+  "2068": {
+    "name": "Wilhelm",
+    "first_name": "Richard",
+    "start_date_written": "1873-05-10",
+    "end_date_written": "1930-03-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1022",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "2069": {
+    "name": "William I, German Emperor",
+    "first_name": "Wilhelm",
+    "start_date_written": "1797-03-22",
+    "end_date_written": "1888-03-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2070": {
+    "name": "Wilhelm II",
+    "first_name": "Wilhelm",
+    "start_date_written": "1859-01-27",
+    "end_date_written": "1941-06-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q530930",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q559460"
+  },
+  "2071": {
+    "name": "d'Auvergne",
+    "first_name": "William",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q174234",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "2072": {
+    "name": "de Champeaux",
+    "first_name": "William",
+    "start_date_written": "1070",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q272018",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q47135"
+  },
+  "2073": {
+    "name": "William of Conches",
+    "first_name": "Guillaume",
+    "start_date_written": "1080",
+    "end_date_written": "1154",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q326369",
+    "place_of_death_id": null
+  },
+  "2074": {
+    "name": "William of Ockham",
+    "first_name": "William",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2705385",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2075": {
+    "name": "de Saint-Thierry",
+    "first_name": "Guillaume",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3992",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1158272"
+  },
+  "2076": {
+    "name": "William of Ware",
+    "first_name": "William",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q19792",
+    "place_of_death_id": null
+  },
+  "2077": {
+    "name": "Robert Will",
+    "first_name": "Robert",
+    "start_date_written": "1869",
+    "end_date_written": "1959",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2078": {
+    "name": "Williams",
+    "first_name": "Thomas",
+    "start_date_written": "1911-03-26",
+    "end_date_written": "1983-02-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q985648",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2079": {
+    "name": "Paul Wilpert",
+    "first_name": "Paul",
+    "start_date_written": "1906-04-26",
+    "end_date_written": "1967-01-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1726",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q365"
+  },
+  "2080": {
+    "name": "Winckelmann",
+    "first_name": "Frida",
+    "start_date_written": "1873",
+    "end_date_written": "1943-11-04",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": null
+  },
+  "2081": {
+    "name": "Winckler",
+    "first_name": "Hugo",
+    "start_date_written": "1863-07-04",
+    "end_date_written": "1913-04-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q373077",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2082": {
+    "name": "Windelband",
+    "first_name": "Wilhelm",
+    "start_date_written": "1848-05-11",
+    "end_date_written": "1915-10-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1711",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2086": {
+    "name": "Winkler",
+    "first_name": "Gerhard",
+    "start_date_written": "1906-09-12",
+    "end_date_written": "1977-09-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q169492",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3994"
+  },
+  "2087": {
+    "name": "Rudolf Wintermann",
+    "first_name": "Rudolf",
+    "start_date_written": "1886-01-10",
+    "end_date_written": "1970-05-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1209",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2973"
+  },
+  "2088": {
+    "name": "Wissowa",
+    "first_name": "Georg",
+    "start_date_written": "1859-06-17",
+    "end_date_written": "1931-05-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1799",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2814"
+  },
+  "2089": {
+    "name": "Cio\u0142ek",
+    "first_name": null,
+    "start_date_written": "1230",
+    "end_date_written": "1275",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2090": {
+    "name": "Witt",
+    "first_name": "Christian",
+    "start_date_written": "1660",
+    "end_date_written": "1717-04-03",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q15976",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q6986"
+  },
+  "2091": {
+    "name": "Witte",
+    "first_name": "Herman",
+    "start_date_written": "1666",
+    "end_date_written": "1728",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1773",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q38511"
+  },
+  "2092": {
+    "name": "Wittig",
+    "first_name": "Joseph",
+    "start_date_written": "1879-01-22",
+    "end_date_written": "1949-08-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1664820",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q556565"
+  },
+  "2093": {
+    "name": "Wobbermin",
+    "first_name": "Georg",
+    "start_date_written": "1869-10-27",
+    "end_date_written": "1943-10-15",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q393",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2094": {
+    "name": "Wolfers",
+    "first_name": "Arnold",
+    "start_date_written": "1892-06-14",
+    "end_date_written": "1968-07-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q25607",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q142486"
+  },
+  "2095": {
+    "name": "Wolff",
+    "first_name": "Kurt",
+    "start_date_written": "1887-03-03",
+    "end_date_written": "1963-10-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q586",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q622"
+  },
+  "2096": {
+    "name": "Wolff",
+    "first_name": "Christian",
+    "start_date_written": null,
+    "end_date_written": "1754-04-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1799",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2814"
+  },
+  "2097": {
+    "name": "Philipp Wolff-Windegg",
+    "first_name": "Philipp",
+    "start_date_written": "1919-08-06",
+    "end_date_written": "1991-12-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q70",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q78"
+  },
+  "2098": {
+    "name": "W\u00f6lfing",
+    "first_name": "Max",
+    "start_date_written": "1847-09-08",
+    "end_date_written": "1928-12-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q504348",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2099": {
+    "name": "von Woellner",
+    "first_name": "Johann",
+    "start_date_written": "1732-05-19",
+    "end_date_written": "1800-09-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q583555",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q637911"
+  },
+  "2101": {
+    "name": "Worringer",
+    "first_name": "Wilhelm",
+    "start_date_written": "1881-01-13",
+    "end_date_written": "1965-03-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1017",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2102": {
+    "name": "Wrede",
+    "first_name": "Georg",
+    "start_date_written": "1859-05-10",
+    "end_date_written": "1906-11-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q514640",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1799"
+  },
+  "2105": {
+    "name": "Wundt",
+    "first_name": "Wilhelm",
+    "start_date_written": "1832-08-16",
+    "end_date_written": "1920-08-31",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1973682",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "2106": {
+    "name": "Wundt",
+    "first_name": "Wilhelm",
+    "start_date_written": "1832-08-16",
+    "end_date_written": "1920-08-31",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1973682",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "2107": {
+    "name": "W\u00fcnsch",
+    "first_name": "Georg",
+    "start_date_written": "1887-04-29",
+    "end_date_written": "1964-11-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q760488",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2865"
+  },
+  "2108": {
+    "name": "W\u00fcstemann",
+    "first_name": "Adolf",
+    "start_date_written": "1901-12-30",
+    "end_date_written": "1966-01-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2865",
+    "place_of_death_id": null
+  },
+  "2109": {
+    "name": "Wickliffe",
+    "first_name": "John",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2649783",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2333774"
+  },
+  "2110": {
+    "name": "Xenophanes",
+    "first_name": "\u039e\u03b5\u03bd\u03bf\u03c6\u03ac\u03bd\u03b7\u03c2",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1142488",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q13670"
+  },
+  "2111": {
+    "name": "Xenophon",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q13502175",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q103011"
+  },
+  "2112": {
+    "name": "Xerxes I",
+    "first_name": "Xerxes",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q794",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3746183"
+  },
+  "2113": {
+    "name": "Young",
+    "first_name": "Owen",
+    "start_date_written": "1874-10-27",
+    "end_date_written": "1962-07-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3708707",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q487988"
+  },
+  "2114": {
+    "name": "Zabarella",
+    "first_name": "Jacopo",
+    "start_date_written": "1533-09-05",
+    "end_date_written": "1589-10-15",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q617",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q617"
+  },
+  "2115": {
+    "name": "Zanchi",
+    "first_name": "Girolamo",
+    "start_date_written": null,
+    "end_date_written": "1590-11-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q95066",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2116": {
+    "name": "Zoroaster",
+    "first_name": "Zarathustra",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q636188",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q182159"
+  },
+  "2117": {
+    "name": "Zarncke",
+    "first_name": "Lilly",
+    "start_date_written": "1899",
+    "end_date_written": "1989",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2118": {
+    "name": "Zehrer",
+    "first_name": "Hans",
+    "start_date_written": "1899-06-22",
+    "end_date_written": "1966-08-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2119": {
+    "name": "Zeller",
+    "first_name": "Eduard",
+    "start_date_written": "1814-01-22",
+    "end_date_written": "1908-03-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q883840",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "2120": {
+    "name": "Zeno of Verona",
+    "first_name": "Zeno",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q309272",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2028"
+  },
+  "2121": {
+    "name": "Zervos",
+    "first_name": "Christian",
+    "start_date_written": "1889-01-01",
+    "end_date_written": "1970-09-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q643695",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "2122": {
+    "name": "Gregory Zilboorg",
+    "first_name": "Gregory",
+    "start_date_written": "1890-12-25",
+    "end_date_written": "1959-09-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1899",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2123": {
+    "name": "Zimmern",
+    "first_name": "Heinrich",
+    "start_date_written": "1862-07-14",
+    "end_date_written": "1931-02-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q22942",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "2124": {
+    "name": "Zinzendorf",
+    "first_name": "Nikolaus",
+    "start_date_written": "1700-05-26",
+    "end_date_written": "1760-05-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1731",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q165140"
+  },
+  "2125": {
+    "name": "Zola",
+    "first_name": "\u00c9mile",
+    "start_date_written": "1840-04-02",
+    "end_date_written": "1902-09-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3449906",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "2126": {
+    "name": "Zoellner",
+    "first_name": "Wilhelm",
+    "start_date_written": "1860-01-30",
+    "end_date_written": "1937-07-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3846",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1718"
+  },
+  "2127": {
+    "name": "Leopold Zscharnack",
+    "first_name": "Leopold",
+    "start_date_written": "1877-08-22",
+    "end_date_written": "1955-08-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2865"
+  },
+  "2129": {
+    "name": "Zuckmayer",
+    "first_name": "Carl",
+    "start_date_written": "1896-12-27",
+    "end_date_written": "1977-01-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q683933",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64147"
+  },
+  "2131": {
+    "name": "Winternitz",
+    "first_name": "Friderike",
+    "start_date_written": "1882-12-04",
+    "end_date_written": "1971-01-18",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q49169"
+  },
+  "2132": {
+    "name": "Zweig",
+    "first_name": "Stefan",
+    "start_date_written": "1881-11-28",
+    "end_date_written": "1942-02-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q189043"
+  },
+  "2133": {
+    "name": "Zwingli",
+    "first_name": "Ulrich",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q597413",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64589"
+  },
+  "2135": {
+    "name": "Rickert",
+    "first_name": "Heinrich",
+    "start_date_written": "1863-05-25",
+    "end_date_written": "1936-07-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1792",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2137": {
+    "name": "Reuter",
+    "first_name": "Fritz",
+    "start_date_written": "1810-11-07",
+    "end_date_written": "1874-07-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q50986",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q7070"
+  },
+  "2139": {
+    "name": "Philipp Schwartzkopff",
+    "first_name": "Philipp",
+    "start_date_written": "1858-10-21",
+    "end_date_written": "1914-05-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1733",
+    "place_of_death_id": null
+  },
+  "2141": {
+    "name": "von M\u00fcnchhausen",
+    "first_name": "B\u00f6rries",
+    "start_date_written": "1874-03-20",
+    "end_date_written": "1945-03-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3185",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q37607"
+  },
+  "2146": {
+    "name": "Wagner",
+    "first_name": "Richard",
+    "start_date_written": "1813-05-22",
+    "end_date_written": "1883-02-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q641"
+  },
+  "2152": {
+    "name": "Goebel",
+    "first_name": "Karl",
+    "start_date_written": "1855-03-08",
+    "end_date_written": "1932-10-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q537729",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2179": {
+    "name": "Dennert",
+    "first_name": "Eberhard",
+    "start_date_written": "1861-07-31",
+    "end_date_written": "1942-06-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2709095",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q153260"
+  },
+  "2180": {
+    "name": "Zahn",
+    "first_name": "Theodor",
+    "start_date_written": "1838-10-10",
+    "end_date_written": "1933-03-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3132",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3126"
+  },
+  "2181": {
+    "name": "Georg L. Ferdinand von Hanffstengel",
+    "first_name": "Georg",
+    "start_date_written": "1874",
+    "end_date_written": "1938",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2185": {
+    "name": "Johannes Friedrich Karl Gottlieb Meyersieck",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": null,
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2200": {
+    "name": "Bebel",
+    "first_name": "August",
+    "start_date_written": "1840-02-22",
+    "end_date_written": "1913-08-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3621",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q783413"
+  },
+  "2201": {
+    "name": "Singer",
+    "first_name": "Paul",
+    "start_date_written": "1844-01-16",
+    "end_date_written": "1911-01-31",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2202": {
+    "name": "Vandervelde",
+    "first_name": "Emile",
+    "start_date_written": "1866-01-25",
+    "end_date_written": "1938-12-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q208713",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q239"
+  },
+  "2203": {
+    "name": "Zetkin",
+    "first_name": "Clara",
+    "start_date_written": "1857-07-05",
+    "end_date_written": "1933-06-20",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q70981",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q13649455"
+  },
+  "2204": {
+    "name": "Hutter",
+    "first_name": "Leonhard",
+    "start_date_written": null,
+    "end_date_written": "1616-10-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q540835",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q6837"
+  },
+  "2205": {
+    "name": "Beyschlag",
+    "first_name": "Willibald",
+    "start_date_written": "1823-09-05",
+    "end_date_written": "1900-11-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1794",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2814"
+  },
+  "2213": {
+    "name": "Titius",
+    "first_name": "Arthur",
+    "start_date_written": "1864-07-28",
+    "end_date_written": "1936-09-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q745085",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2214": {
+    "name": "Rudolf Smend",
+    "first_name": "Rudolf",
+    "start_date_written": "1851-11-05",
+    "end_date_written": "1913-12-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q181609",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q50886"
+  },
+  "2217": {
+    "name": "J\u00fclicher",
+    "first_name": "Adolf",
+    "start_date_written": "1857-01-26",
+    "end_date_written": "1938-08-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q674988",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3869"
+  },
+  "2244": {
+    "name": "Julius Grill",
+    "first_name": "Julius",
+    "start_date_written": "1840-04-10",
+    "end_date_written": "1930-09-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q81811",
+    "place_of_death_id": null
+  },
+  "2245": {
+    "name": "Paul von Wurster",
+    "first_name": "Paul",
+    "start_date_written": "1860-12-06",
+    "end_date_written": "1923-01-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1422630",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "2246": {
+    "name": "Storm",
+    "first_name": "Theodor",
+    "start_date_written": "1817-09-14",
+    "end_date_written": "1888-07-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q21159",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q631638"
+  },
+  "2248": {
+    "name": "Raabe",
+    "first_name": "Wilhelm",
+    "start_date_written": "1831-09-08",
+    "end_date_written": "1910-11-15",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q58757",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2773"
+  },
+  "2253": {
+    "name": "Lepsius",
+    "first_name": "Johannes",
+    "start_date_written": "1858-12-15",
+    "end_date_written": "1926-02-03",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2255": {
+    "name": "Heine",
+    "first_name": "Bernhard",
+    "start_date_written": "1864",
+    "end_date_written": "1928",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2268": {
+    "name": "Valentinus",
+    "first_name": "Valentin",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q179528",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q644636"
+  },
+  "2269": {
+    "name": "Steuernagel",
+    "first_name": "Carl",
+    "start_date_written": "1869-02-17",
+    "end_date_written": "1958-03-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q425877",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q4098"
+  },
+  "2270": {
+    "name": "Weiss",
+    "first_name": "Bernhard",
+    "start_date_written": "1827-06-20",
+    "end_date_written": "1918-01-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4120832",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2273": {
+    "name": "Zahn",
+    "first_name": "Ernst",
+    "start_date_written": "1867-01-24",
+    "end_date_written": "1952-02-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q72",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q14573"
+  },
+  "2281": {
+    "name": "von Weizs\u00e4cker",
+    "first_name": "Karl",
+    "start_date_written": "1822-12-11",
+    "end_date_written": "1899-08-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q294783",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "2283": {
+    "name": "Hendrik Anthonie van Bakel",
+    "first_name": "Hendrik",
+    "start_date_written": "1874-09-26",
+    "end_date_written": "1948-06-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q727",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q727"
+  },
+  "2287": {
+    "name": "Schubart",
+    "first_name": "Friedrich",
+    "start_date_written": "1847-06-05",
+    "end_date_written": "1918-03-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q50808652",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q155981"
+  },
+  "2288": {
+    "name": "Hartmann",
+    "first_name": "Richard",
+    "start_date_written": "1881-06-08",
+    "end_date_written": "1965-02-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q632397",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2289": {
+    "name": "Mackensen",
+    "first_name": "Fritz",
+    "start_date_written": "1866-04-08",
+    "end_date_written": "1953-05-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q503423",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q24879"
+  },
+  "2290": {
+    "name": "Macrina the Younger",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q48338",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q170532"
+  },
+  "2291": {
+    "name": "Firmilian",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": "268",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": "http://www.wikidata.org/entity/Q134287"
+  },
+  "2292": {
+    "name": "Malchion",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2293": {
+    "name": "Z\u00e4nker",
+    "first_name": "Otto",
+    "start_date_written": "1876-06-29",
+    "end_date_written": "1960-01-31",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q11340",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2112"
+  },
+  "2294": {
+    "name": "Stein",
+    "first_name": "Hermann",
+    "start_date_written": "1854-09-13",
+    "end_date_written": "1927-05-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q700416",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q627838"
+  },
+  "2295": {
+    "name": "Adolf Wild von Hohenborn",
+    "first_name": "Adolf",
+    "start_date_written": "1860-07-08",
+    "end_date_written": "1925-10-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2865",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1584966"
+  },
+  "2297": {
+    "name": "Jaur\u00e8s",
+    "first_name": "Jean",
+    "start_date_written": "1859-09-03",
+    "end_date_written": "1914-07-31",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q188776",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "2298": {
+    "name": "Hermann Bertheau",
+    "first_name": "Hermann",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2299": {
+    "name": "Kittel",
+    "first_name": "Rudolf",
+    "start_date_written": "1853-03-28",
+    "end_date_written": "1929-10-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q81423",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "2302": {
+    "name": "Bunge",
+    "first_name": "Gustav",
+    "start_date_written": null,
+    "end_date_written": "1920-11-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q13972",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q78"
+  },
+  "2303": {
+    "name": "Damaschke",
+    "first_name": "Adolf",
+    "start_date_written": "1865-11-24",
+    "end_date_written": "1935-07-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2308": {
+    "name": "Kinzel",
+    "first_name": "Eberhard",
+    "start_date_written": "1897-10-18",
+    "end_date_written": "1945-05-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q692390",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q551408"
+  },
+  "2309": {
+    "name": "Kappes",
+    "first_name": "Heinz",
+    "start_date_written": "1893-11-30",
+    "end_date_written": "1988-05-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q534257",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "2311": {
+    "name": "Schultz",
+    "first_name": "Bruno",
+    "start_date_written": "1894-04-09",
+    "end_date_written": "1987-10-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2312": {
+    "name": "Jahn",
+    "first_name": "Georg",
+    "start_date_written": "1885-02-28",
+    "end_date_written": "1962-05-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q56036"
+  },
+  "2313": {
+    "name": "Spamer",
+    "first_name": "Adolf",
+    "start_date_written": "1883-04-10",
+    "end_date_written": "1953-06-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1720",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1731"
+  },
+  "2314": {
+    "name": "Gumplowicz",
+    "first_name": "Ludwig",
+    "start_date_written": "1838-03-09",
+    "end_date_written": "1909-08-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q31487",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q13298"
+  },
+  "2316": {
+    "name": "Lederer",
+    "first_name": "Emil",
+    "start_date_written": "1882-07-22",
+    "end_date_written": "1939-05-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q43453",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2317": {
+    "name": "Vleugels",
+    "first_name": "Wilhelm",
+    "start_date_written": "1893-10-17",
+    "end_date_written": "1942-03-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q543639",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q586"
+  },
+  "2318": {
+    "name": "Meusel",
+    "first_name": "Alfred",
+    "start_date_written": "1896-05-19",
+    "end_date_written": "1960-09-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1707",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q56037"
+  },
+  "2319": {
+    "name": "Leonhard",
+    "first_name": "Franz",
+    "start_date_written": "1870-09-01",
+    "end_date_written": "1950-07-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4024",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3869"
+  },
+  "2322": {
+    "name": "von Gronau",
+    "first_name": "Hans",
+    "start_date_written": "1850-12-06",
+    "end_date_written": "1940-02-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q582023",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1711"
+  },
+  "2323": {
+    "name": "Kluck",
+    "first_name": "Alexander",
+    "start_date_written": "1846-05-20",
+    "end_date_written": "1934-10-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2742",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2335": {
+    "name": "Felden",
+    "first_name": "Emil",
+    "start_date_written": "1874-05-07",
+    "end_date_written": "1959-12-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q22752",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q24879"
+  },
+  "2338": {
+    "name": "Broni\u0161",
+    "first_name": "Gotthelf",
+    "start_date_written": "1868-06-03",
+    "end_date_written": "1937-01-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q15118355",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q693628"
+  },
+  "2343": {
+    "name": "Jan Brachmann",
+    "first_name": "Jan",
+    "start_date_written": null,
+    "end_date_written": "1631",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q106274",
+    "place_of_death_id": null
+  },
+  "2344": {
+    "name": "Karl Schornbaum",
+    "first_name": "Karl",
+    "start_date_written": "1875-03-07",
+    "end_date_written": "1953-01-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q516330",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2090"
+  },
+  "2347": {
+    "name": "Weber",
+    "first_name": "Hans",
+    "start_date_written": "1882-03-08",
+    "end_date_written": "1950-06-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2758",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q586"
+  },
+  "2349": {
+    "name": "Behrens",
+    "first_name": "Johann",
+    "start_date_written": "1889-09-05",
+    "end_date_written": "1979-03-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q509338",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q884936"
+  },
+  "2350": {
+    "name": "Erich D\u00fcrr",
+    "first_name": "Erich",
+    "start_date_written": "1889",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2358": {
+    "name": "Natascha Stepun",
+    "first_name": "Natascha",
+    "start_date_written": null,
+    "end_date_written": "1961",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2359": {
+    "name": "Fondaminsky",
+    "first_name": "Elia",
+    "start_date_written": "1880-02-17",
+    "end_date_written": "1942-11-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q649",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q7341"
+  },
+  "2365": {
+    "name": "M\u00fcller",
+    "first_name": "Karl",
+    "start_date_written": "1852-09-03",
+    "end_date_written": "1940-02-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q82382",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "2366": {
+    "name": "Quistorp",
+    "first_name": "Johann",
+    "start_date_written": "1584-08-18",
+    "end_date_written": "1648-05-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2861",
+    "place_of_death_id": null
+  },
+  "2367": {
+    "name": "Hollatz",
+    "first_name": "David",
+    "start_date_written": "1648",
+    "end_date_written": "1713-04-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q106268",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q988639"
+  },
+  "2368": {
+    "name": "Hans Gelderblom",
+    "first_name": "Hans",
+    "start_date_written": "1879-03-18",
+    "end_date_written": "1966-09-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1368652",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3846"
+  },
+  "2371": {
+    "name": "Goedela von Keyserling",
+    "first_name": null,
+    "start_date_written": "1896-03-04",
+    "end_date_written": "1981-06-12",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q59974",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2973"
+  },
+  "2372": {
+    "name": "Lilly von Mallinckrodt-Schnitzler",
+    "first_name": "Lilly",
+    "start_date_written": "1889-06-25",
+    "end_date_written": "1981-06-26",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q365",
+    "place_of_death_id": null
+  },
+  "2376": {
+    "name": "Holzapfel",
+    "first_name": null,
+    "start_date_written": "1849-07-14",
+    "end_date_written": "1919-05-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q26344",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "2382": {
+    "name": "Heldmann",
+    "first_name": "August",
+    "start_date_written": "1834",
+    "end_date_written": "1919",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2384": {
+    "name": "Hans Mislin",
+    "first_name": "Hans",
+    "start_date_written": "1907-05-24",
+    "end_date_written": "1993-03-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q78",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q68224"
+  },
+  "2386": {
+    "name": "Adickes",
+    "first_name": "Erich",
+    "start_date_written": "1866-06-29",
+    "end_date_written": "1928-07-08",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q445963",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "2389": {
+    "name": "Teniers",
+    "first_name": "David",
+    "start_date_written": "1610-12-15",
+    "end_date_written": "1690-04-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q12892",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q239"
+  },
+  "2391": {
+    "name": "Riezler",
+    "first_name": "Walter",
+    "start_date_written": "1878-10-02",
+    "end_date_written": "1965-01-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1726",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2393": {
+    "name": "Schultz",
+    "first_name": "Franz",
+    "start_date_written": "1877-12-04",
+    "end_date_written": "1950-10-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q161962",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1794"
+  },
+  "2397": {
+    "name": "Weil",
+    "first_name": "Felix",
+    "start_date_written": "1898-02-08",
+    "end_date_written": "1975-09-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1486",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q33518"
+  },
+  "2401": {
+    "name": "Hermelink",
+    "first_name": "Heinrich",
+    "start_date_written": "1877-12-30",
+    "end_date_written": "1958-02-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q127041",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2402": {
+    "name": "H\u00f6lscher",
+    "first_name": "Gustav",
+    "start_date_written": "1877-06-17",
+    "end_date_written": "1955-09-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q492366",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2403": {
+    "name": "Gerda Schairer",
+    "first_name": "Gerda",
+    "start_date_written": "1888-09-28",
+    "end_date_written": "1971",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q25319",
+    "place_of_death_id": null
+  },
+  "2406": {
+    "name": "Hirzel",
+    "first_name": "Stephan",
+    "start_date_written": "1899-05-25",
+    "end_date_written": "1970-02-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": null
+  },
+  "2407": {
+    "name": "Pallenberg",
+    "first_name": "Max",
+    "start_date_written": "1877-12-18",
+    "end_date_written": "1934-06-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q384544"
+  },
+  "2415": {
+    "name": "Kloppenburg",
+    "first_name": "Heinrich",
+    "start_date_written": "1903-05-10",
+    "end_date_written": "1986-02-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q509939",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q24879"
+  },
+  "2417": {
+    "name": "Ernst von Aster",
+    "first_name": "Ernst",
+    "start_date_written": "1880-02-18",
+    "end_date_written": "1948-10-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1754"
+  },
+  "2418": {
+    "name": "Dixelius",
+    "first_name": "Hildur",
+    "start_date_written": "1879-10-14",
+    "end_date_written": "1969-08-19",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q10595631",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2117583"
+  },
+  "2419": {
+    "name": "Erdmann",
+    "first_name": "Carl",
+    "start_date_written": "1898-11-17",
+    "end_date_written": "1945-03-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q13972",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1435"
+  },
+  "2421": {
+    "name": "Georg Gerullis",
+    "first_name": "Georg",
+    "start_date_written": "1888-08-13",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q5647",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1773"
+  },
+  "2422": {
+    "name": "Lina Mayer-Kulenkampff",
+    "first_name": "Lina",
+    "start_date_written": "1886-04-30",
+    "end_date_written": "1971-03-10",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1209",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2865"
+  },
+  "2423": {
+    "name": "Johnson",
+    "first_name": "Alvin",
+    "start_date_written": "1874-12-18",
+    "end_date_written": "1971-06-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2340006",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2426": {
+    "name": "Frey",
+    "first_name": "Dagobert",
+    "start_date_written": "1883",
+    "end_date_written": "1962",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "2427": {
+    "name": "Worringer",
+    "first_name": "Wilhelm",
+    "start_date_written": "1881-01-13",
+    "end_date_written": "1965-03-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1017",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2428": {
+    "name": "Alois Riegl",
+    "first_name": "Alois",
+    "start_date_written": "1858-01-14",
+    "end_date_written": "1905-06-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q41329",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "2429": {
+    "name": "Frankl",
+    "first_name": "Paul",
+    "start_date_written": "1878-04-22",
+    "end_date_written": "1962-01-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1085",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q138518"
+  },
+  "2430": {
+    "name": "Dvo\u0159\u00e1k",
+    "first_name": "Max",
+    "start_date_written": "1874-06-24",
+    "end_date_written": "1921-02-08",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q63855",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1632522"
+  },
+  "2431": {
+    "name": "W\u00f6lfflin",
+    "first_name": "Heinrich",
+    "start_date_written": "1864-06-21",
+    "end_date_written": "1945-07-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q9125",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q72"
+  },
+  "2432": {
+    "name": "Coellen",
+    "first_name": "Ludwig",
+    "start_date_written": "1875",
+    "end_date_written": "1945",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2433": {
+    "name": "Brinckmann",
+    "first_name": "Albert",
+    "start_date_written": "1881-09-04",
+    "end_date_written": "1958-08-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q23968",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q365"
+  },
+  "2434": {
+    "name": "Pinder",
+    "first_name": "Wilhelm",
+    "start_date_written": "1878-06-25",
+    "end_date_written": "1947-05-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2865",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2436": {
+    "name": "Hamburger",
+    "first_name": "Hans",
+    "start_date_written": "1889-08-05",
+    "end_date_written": "1956-08-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q365"
+  },
+  "2441": {
+    "name": "Braun",
+    "first_name": "Otto",
+    "start_date_written": "1872-01-28",
+    "end_date_written": "1955-12-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4120832",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q11935"
+  },
+  "2442": {
+    "name": "Opelt-Stoevesandt",
+    "first_name": "Erika",
+    "start_date_written": "1919-01-16",
+    "end_date_written": "2013-03-03",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3857",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q24879"
+  },
+  "2443": {
+    "name": "Christian Janentzky",
+    "first_name": "Christian",
+    "start_date_written": "1886-01-29",
+    "end_date_written": "1968-08-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2861",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1731"
+  },
+  "2444": {
+    "name": "Horst Thurmann",
+    "first_name": "Horst",
+    "start_date_written": "1911-08-09",
+    "end_date_written": "1999-09-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1718",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q702259"
+  },
+  "2445": {
+    "name": "Konrad Bro\u00dfwitz",
+    "first_name": "Conrad",
+    "start_date_written": "1881-05-15",
+    "end_date_written": "1945-03-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1792",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q151198"
+  },
+  "2447": {
+    "name": "Thurmann",
+    "first_name": "Theodor",
+    "start_date_written": "1882-05-14",
+    "end_date_written": "1955-05-11",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2448": {
+    "name": "Howard Thurman",
+    "first_name": "Howard",
+    "start_date_written": "1899-11-18",
+    "end_date_written": "1981-04-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q163749",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q62"
+  },
+  "2449": {
+    "name": "B\u00e4chtold",
+    "first_name": "Hermann",
+    "start_date_written": "1882-02-03",
+    "end_date_written": "1934-06-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q69182",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q78"
+  },
+  "2450": {
+    "name": "Hoenisch",
+    "first_name": "Ernst",
+    "start_date_written": "1875-12-09",
+    "end_date_written": "1951",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q21065",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q10780"
+  },
+  "2455": {
+    "name": "Walter Spitta",
+    "first_name": "Walter",
+    "start_date_written": "1903-10-05",
+    "end_date_written": "1945-01-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1209",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q988576"
+  },
+  "2458": {
+    "name": "Ernst von H\u00fclsen",
+    "first_name": "Ernst",
+    "start_date_written": "1875-11-28",
+    "end_date_written": "1950-11-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q866381",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3869"
+  },
+  "2460": {
+    "name": "D\u00f6ring",
+    "first_name": "Hans",
+    "start_date_written": "1901-08-31",
+    "end_date_written": "1970-07-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1715",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2090"
+  },
+  "2463": {
+    "name": "Fuchs",
+    "first_name": "Emil",
+    "start_date_written": "1874-05-13",
+    "end_date_written": "1971-02-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q552508",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q56037"
+  },
+  "2464": {
+    "name": "Bargheer",
+    "first_name": "Ernst",
+    "start_date_written": "1892-05-19",
+    "end_date_written": "1974-02-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1562",
+    "place_of_death_id": null
+  },
+  "2465": {
+    "name": "N\u00e4gel",
+    "first_name": "Adolph",
+    "start_date_written": "1875-12-16",
+    "end_date_written": "1939-11-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q383394",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1731"
+  },
+  "2466": {
+    "name": "Seeberg",
+    "first_name": "Margot",
+    "start_date_written": "1892",
+    "end_date_written": "1983",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2467": {
+    "name": "Hochheimer",
+    "first_name": "Wolfgang",
+    "start_date_written": "1906",
+    "end_date_written": "1991",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2468": {
+    "name": "Seeberg",
+    "first_name": "Bengt",
+    "start_date_written": "1914",
+    "end_date_written": "1944",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4098",
+    "place_of_death_id": null
+  },
+  "2469": {
+    "name": "Cordier",
+    "first_name": "Leopold",
+    "start_date_written": "1887-07-14",
+    "end_date_written": "1939-03-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q7052",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3874"
+  },
+  "2471": {
+    "name": "Wolfgang Windelband",
+    "first_name": "Wolfgang",
+    "start_date_written": "1886-08-31",
+    "end_date_written": "1945-11-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q6602",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2474": {
+    "name": "Kirchner",
+    "first_name": "Joachim",
+    "start_date_written": "1890-08-22",
+    "end_date_written": "1978-11-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q74057"
+  },
+  "2475": {
+    "name": "Julius Schwietering",
+    "first_name": "Julius",
+    "start_date_written": "1884-05-25",
+    "end_date_written": "1962-07-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1291805",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1794"
+  },
+  "2477": {
+    "name": "Neumann",
+    "first_name": "Hans",
+    "start_date_written": "1888-11-29",
+    "end_date_written": "1960-11-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "2479": {
+    "name": "Aloys Lammers",
+    "first_name": "Aloys",
+    "start_date_written": "1877-12-22",
+    "end_date_written": "1966-06-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q206197",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q365"
+  },
+  "2480": {
+    "name": "Koehler",
+    "first_name": "Karl",
+    "start_date_written": "1843-08-22",
+    "end_date_written": "1897-08-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q586"
+  },
+  "2481": {
+    "name": "Lennert",
+    "first_name": "Rudolf",
+    "start_date_written": "1904-12-05",
+    "end_date_written": "1988-05-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1726",
+    "place_of_death_id": null
+  },
+  "2483": {
+    "name": "Georg K\u00fcntzel",
+    "first_name": "Georg",
+    "start_date_written": "1870",
+    "end_date_written": "1945",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q52903",
+    "place_of_death_id": null
+  },
+  "2484": {
+    "name": "Emil W. Netter",
+    "first_name": "Emil",
+    "start_date_written": null,
+    "end_date_written": "1936",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2485": {
+    "name": "von Hindenburg",
+    "first_name": "Paul",
+    "start_date_written": "1847-10-02",
+    "end_date_written": "1934-08-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q33050082",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q380082"
+  },
+  "2486": {
+    "name": "Henke",
+    "first_name": "Alfred",
+    "start_date_written": "1868-03-01",
+    "end_date_written": "1946-02-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1630",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q289851"
+  },
+  "2487": {
+    "name": "Sellin",
+    "first_name": "Ernst",
+    "start_date_written": "1867-05-26",
+    "end_date_written": "1946-01-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q20285",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1346930"
+  },
+  "2489": {
+    "name": "Sulzbach",
+    "first_name": "Walter",
+    "start_date_written": "1889-02-21",
+    "end_date_written": "1969-04-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1794",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q66633"
+  },
+  "2494": {
+    "name": "Schultz",
+    "first_name": "Franz",
+    "start_date_written": "1877-12-04",
+    "end_date_written": "1950-10-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q161962",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1794"
+  },
+  "2496": {
+    "name": "Weinstock",
+    "first_name": "Heinrich",
+    "start_date_written": "1889-01-30",
+    "end_date_written": "1960-03-08",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q895714",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q4165"
+  },
+  "2497": {
+    "name": "Severing",
+    "first_name": "Carl",
+    "start_date_written": "1875-06-01",
+    "end_date_written": "1952-07-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3971",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2112"
+  },
+  "2498": {
+    "name": "Alfred Protte",
+    "first_name": "Alfred",
+    "start_date_written": "1902",
+    "end_date_written": "1977",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2499": {
+    "name": "Hans Pflug",
+    "first_name": "Hans",
+    "start_date_written": "1900-03-08",
+    "end_date_written": "1952-09-24",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1721",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q506278"
+  },
+  "2500": {
+    "name": "Georg Wehrung",
+    "first_name": "Georg",
+    "start_date_written": "1880-10-06",
+    "end_date_written": "1959-01-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q22810",
+    "place_of_death_id": null
+  },
+  "2503": {
+    "name": "Walter Platzhoff",
+    "first_name": "Walter",
+    "start_date_written": "1881-09-27",
+    "end_date_written": "1969-08-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q702259",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3802"
+  },
+  "2504": {
+    "name": "Elisabeth Gundolf",
+    "first_name": "Elisabeth",
+    "start_date_written": "1893-11-10",
+    "end_date_written": "1958-02-13",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q147934",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q34217"
+  },
+  "2505": {
+    "name": "Ernst Krieck",
+    "first_name": "Ernst",
+    "start_date_written": "1882-07-06",
+    "end_date_written": "1947-03-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q505468",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q31872"
+  },
+  "2507": {
+    "name": "Gehlen",
+    "first_name": "Arnold",
+    "start_date_written": "1904-01-29",
+    "end_date_written": "1976-01-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1055"
+  },
+  "2510": {
+    "name": "May",
+    "first_name": "Ernst",
+    "start_date_written": "1886-07-27",
+    "end_date_written": "1970-09-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1794",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1055"
+  },
+  "2515": {
+    "name": "Felix Bondi",
+    "first_name": null,
+    "start_date_written": "1860-10-26",
+    "end_date_written": "1934-01-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1731",
+    "place_of_death_id": null
+  },
+  "2516": {
+    "name": "Werner Siebeck",
+    "first_name": "Werner",
+    "start_date_written": "1891",
+    "end_date_written": "1934",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2517": {
+    "name": "Heinz Erich Eisenhuth",
+    "first_name": "Heinz",
+    "start_date_written": "1903-05-08",
+    "end_date_written": "1983-07-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q659113"
+  },
+  "2518": {
+    "name": "Ruprecht",
+    "first_name": "Gustav",
+    "start_date_written": "1860-06-19",
+    "end_date_written": "1950-02-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3033",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3033"
+  },
+  "2520": {
+    "name": "Brinckmann",
+    "first_name": "Albert",
+    "start_date_written": "1881-09-04",
+    "end_date_written": "1958-08-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q23968",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q365"
+  },
+  "2521": {
+    "name": "Fouquet",
+    "first_name": "Jean",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q288",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q288"
+  },
+  "2522": {
+    "name": "Poussin",
+    "first_name": "Nicolas",
+    "start_date_written": null,
+    "end_date_written": "1665-11-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q209770",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q220"
+  },
+  "2523": {
+    "name": "Odysseus",
+    "first_name": "Odysseas",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2524": {
+    "name": "Nausicaa",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2532": {
+    "name": "Philipps",
+    "first_name": "Wilhelm",
+    "start_date_written": "1859-12-11",
+    "end_date_written": "1933-05-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q10941",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q427153"
+  },
+  "2534": {
+    "name": "Adeline von Schimmelmann",
+    "first_name": "Adeline",
+    "start_date_written": "1854-07-19",
+    "end_date_written": "1913-11-18",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q16104",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1055"
+  },
+  "2538": {
+    "name": "Bartels",
+    "first_name": "Johann",
+    "start_date_written": "1857",
+    "end_date_written": "1911",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2539": {
+    "name": "Ohl",
+    "first_name": "Otto",
+    "start_date_written": "1886-07-28",
+    "end_date_written": "1973-02-23",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2100",
+    "place_of_death_id": null
+  },
+  "2543": {
+    "name": "Warneck",
+    "first_name": "Johannes",
+    "start_date_written": "1867-03-04",
+    "end_date_written": "1944-09-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q12045",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q4108"
+  },
+  "2544": {
+    "name": "Spiecker",
+    "first_name": "Johannes",
+    "start_date_written": "1856",
+    "end_date_written": "1920",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q521148",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q153974"
+  },
+  "2546": {
+    "name": "Kuhlo",
+    "first_name": "Johannes",
+    "start_date_written": "1856-10-08",
+    "end_date_written": "1941-05-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q14863",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2112"
+  },
+  "2552": {
+    "name": "Bonaparte",
+    "first_name": "Napol\u00e9on",
+    "start_date_written": "1808-04-20",
+    "end_date_written": "1873-01-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q90",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q122917"
+  },
+  "2557": {
+    "name": "Beth",
+    "first_name": "Karl",
+    "start_date_written": "1872-12-01",
+    "end_date_written": "1959-09-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q698748",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1297"
+  },
+  "2561": {
+    "name": "von Kleist",
+    "first_name": "Bernd",
+    "start_date_written": "1777-10-18",
+    "end_date_written": "1811-11-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4024",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q453692"
+  },
+  "2566": {
+    "name": "Bernhardt",
+    "first_name": "Sarah",
+    "start_date_written": "1844-10-23",
+    "end_date_written": "1923-03-26",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q90",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q197297"
+  },
+  "2569": {
+    "name": "Ruprecht",
+    "first_name": "Wilhelm",
+    "start_date_written": "1858",
+    "end_date_written": "1943",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3033",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3033"
+  },
+  "2570": {
+    "name": "August Dell",
+    "first_name": "August",
+    "start_date_written": "1890-02-08",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2571": {
+    "name": "Misch",
+    "first_name": "Georg",
+    "start_date_written": "1878-04-05",
+    "end_date_written": "1965-06-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3033"
+  },
+  "2573": {
+    "name": "Amitai Etzioni",
+    "first_name": null,
+    "start_date_written": "1929-01-04",
+    "end_date_written": "2023-05-31",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q365",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q61"
+  },
+  "2574": {
+    "name": "Corot",
+    "first_name": "Jean-Baptiste",
+    "start_date_written": "1796-07-16",
+    "end_date_written": "1875-02-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q90",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "2575": {
+    "name": "C\u00e9zanne",
+    "first_name": "Paul",
+    "start_date_written": "1839-01-19",
+    "end_date_written": "1906-10-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q47465",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q47465"
+  },
+  "2576": {
+    "name": "de Maupassant",
+    "first_name": "Guy",
+    "start_date_written": "1850-08-05",
+    "end_date_written": "1893-07-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q629137",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1241308"
+  },
+  "2577": {
+    "name": "McDonald",
+    "first_name": "Josephine",
+    "start_date_written": "1906-06-03",
+    "end_date_written": "1975-04-12",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q38022",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q90"
+  },
+  "2584": {
+    "name": "Marcoussis",
+    "first_name": "Louis",
+    "start_date_written": "1878-11-14",
+    "end_date_written": "1941-10-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q270",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q321502"
+  },
+  "2592": {
+    "name": "Rade",
+    "first_name": "Martin",
+    "start_date_written": "1857-04-04",
+    "end_date_written": "1940-04-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q966908",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1794"
+  },
+  "2599": {
+    "name": "Beinhorn",
+    "first_name": "Elly",
+    "start_date_written": "1907-05-30",
+    "end_date_written": "2007-11-28",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1715",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q506388"
+  },
+  "2600": {
+    "name": "Schneider",
+    "first_name": "Gotthold",
+    "start_date_written": "1899",
+    "end_date_written": "1975",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2795",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q515648"
+  },
+  "2601": {
+    "name": "Veronika Erdmann",
+    "first_name": "Veronika",
+    "start_date_written": "1894-11-02",
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2602": {
+    "name": "Reimann",
+    "first_name": "Hans",
+    "start_date_written": "1889-11-18",
+    "end_date_written": "1969-06-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2079",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q553192"
+  },
+  "2603": {
+    "name": "Brod",
+    "first_name": "Max",
+    "start_date_written": "1884-05-27",
+    "end_date_written": "1968-12-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1085",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q33935"
+  },
+  "2604": {
+    "name": "Ha\u0161ek",
+    "first_name": "Jaroslav",
+    "start_date_written": "1883-04-30",
+    "end_date_written": "1923-01-03",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1085",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1025109"
+  },
+  "2605": {
+    "name": "Shaw",
+    "first_name": "George",
+    "start_date_written": "1856-07-26",
+    "end_date_written": "1950-11-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1761",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q793195"
+  },
+  "2609": {
+    "name": "Ruckteschell",
+    "first_name": "Elisabeth",
+    "start_date_written": "1886",
+    "end_date_written": "1963",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": "http://www.wikidata.org/entity/Q72"
+  },
+  "2611": {
+    "name": "von Falkenhayn",
+    "first_name": "Erich",
+    "start_date_written": "1861-09-11",
+    "end_date_written": "1922-04-08",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q855943",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q319513"
+  },
+  "2614": {
+    "name": "Karsen",
+    "first_name": "Fritz",
+    "start_date_written": "1885-11-11",
+    "end_date_written": "1951-08-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1799",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q43509"
+  },
+  "2615": {
+    "name": "Kornfeld",
+    "first_name": "Paul",
+    "start_date_written": "1889-12-11",
+    "end_date_written": "1942-04-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1085",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q327895"
+  },
+  "2616": {
+    "name": "Litt",
+    "first_name": "Theodor",
+    "start_date_written": "1880-12-27",
+    "end_date_written": "1962-07-16",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1718",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q586"
+  },
+  "2619": {
+    "name": "Rosenbaum",
+    "first_name": "Eduard",
+    "start_date_written": "1887-07-26",
+    "end_date_written": "1979-05-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1055",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q84"
+  },
+  "2622": {
+    "name": "Samuel Louri\u00e9",
+    "first_name": "Samuel",
+    "start_date_written": "1883-12-27",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q6373156",
+    "place_of_death_id": null
+  },
+  "2626": {
+    "name": "Ernst von Dobsch\u00fctz",
+    "first_name": "Ernst",
+    "start_date_written": "1870-10-09",
+    "end_date_written": "1934-05-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2814",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2814"
+  },
+  "2628": {
+    "name": "Adolf Wild von Hohenborn",
+    "first_name": "Adolf",
+    "start_date_written": "1860-07-08",
+    "end_date_written": "1925-10-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2865",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1584966"
+  },
+  "2629": {
+    "name": "Bruno von Mudra",
+    "first_name": "Bruno",
+    "start_date_written": "1851-04-01",
+    "end_date_written": "1931-11-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q165131",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1709"
+  },
+  "2634": {
+    "name": "Klein",
+    "first_name": "Tim",
+    "start_date_written": "1870",
+    "end_date_written": "1944",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2635": {
+    "name": "Gr\u00fcndler",
+    "first_name": "Otto",
+    "start_date_written": "1894-11-07",
+    "end_date_written": "1961",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4120832",
+    "place_of_death_id": null
+  },
+  "2636": {
+    "name": "Friedrich Langenfass",
+    "first_name": "Friedrich",
+    "start_date_written": "1880-07-08",
+    "end_date_written": "1965-02-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q503609",
+    "place_of_death_id": null
+  },
+  "2638": {
+    "name": "Nelson",
+    "first_name": "Rudolf",
+    "start_date_written": "1878-04-04",
+    "end_date_written": "1960-02-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2639": {
+    "name": "Robert Ulich",
+    "first_name": "Robert",
+    "start_date_written": "1890-04-21",
+    "end_date_written": "1977-06-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q310990",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1022"
+  },
+  "2640": {
+    "name": "R\u00fcckert",
+    "first_name": "Hanns",
+    "start_date_written": "1901-09-18",
+    "end_date_written": "1974-01-03",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q16064",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "2641": {
+    "name": "Erich Paul Friedrich Vogelsang",
+    "first_name": "Erich",
+    "start_date_written": "1904-04-20",
+    "end_date_written": "1944-06-25",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q242098",
+    "place_of_death_id": null
+  },
+  "2642": {
+    "name": "Granach",
+    "first_name": "Alexander",
+    "start_date_written": "1890-04-18",
+    "end_date_written": "1945-03-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4107532",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2643": {
+    "name": "W\u00fcrzburger",
+    "first_name": "Karl",
+    "start_date_written": "1891",
+    "end_date_written": "1978",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2647": {
+    "name": "von Brandis",
+    "first_name": "Cordt",
+    "start_date_written": "1888-10-04",
+    "end_date_written": "1972-06-11",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1304172",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q127351"
+  },
+  "2650": {
+    "name": "Kohlmeyer",
+    "first_name": "Ernst",
+    "start_date_written": "1882-03-27",
+    "end_date_written": "1959-03-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q878220",
+    "place_of_death_id": null
+  },
+  "2651": {
+    "name": "Walter Dress",
+    "first_name": "Walter",
+    "start_date_written": "1906",
+    "end_date_written": "1979-02-06",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2652": {
+    "name": "Wedemeyer",
+    "first_name": "Hans",
+    "start_date_written": "1888-07-31",
+    "end_date_written": "1942-08-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1333352",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q914"
+  },
+  "2658": {
+    "name": "Flechtheim",
+    "first_name": "Alfred",
+    "start_date_written": "1878-04-01",
+    "end_date_written": "1937-03-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2742",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q84"
+  },
+  "2661": {
+    "name": "Jordan",
+    "first_name": "Hermann",
+    "start_date_written": "1877-07-09",
+    "end_date_written": "1943-09-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q90",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1305"
+  },
+  "2662": {
+    "name": "Vermeer",
+    "first_name": "Johannes",
+    "start_date_written": null,
+    "end_date_written": "1675-12-15",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q690",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q690"
+  },
+  "2666": {
+    "name": "Forrer",
+    "first_name": "Anita",
+    "start_date_written": "1901",
+    "end_date_written": "1996",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2667": {
+    "name": "Waldeck",
+    "first_name": "Rosie",
+    "start_date_written": "1898-08-24",
+    "end_date_written": "1982-08-29",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2119",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2669": {
+    "name": "Goetz",
+    "first_name": "Curt",
+    "start_date_written": "1888-11-17",
+    "end_date_written": "1960-09-12",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1720",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q67048"
+  },
+  "2673": {
+    "name": "Wassermann",
+    "first_name": "Jakob",
+    "start_date_written": "1873-03-10",
+    "end_date_written": "1934-01-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3075",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q262951"
+  },
+  "2685": {
+    "name": "Bassermann",
+    "first_name": "Albert",
+    "start_date_written": "1867-09-07",
+    "end_date_written": "1952-05-15",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2119",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q72"
+  },
+  "2686": {
+    "name": "Mannheim",
+    "first_name": "Lucie",
+    "start_date_written": "1899-04-30",
+    "end_date_written": "1976-07-28",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q522992"
+  },
+  "2693": {
+    "name": "Heinrich Wolfgang Seidel",
+    "first_name": "Heinrich",
+    "start_date_written": "1876-08-28",
+    "end_date_written": "1945-09-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q61936"
+  },
+  "2697": {
+    "name": "Stolper",
+    "first_name": "Gustav",
+    "start_date_written": "1888-07-25",
+    "end_date_written": "1947-12-08",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q60"
+  },
+  "2699": {
+    "name": "Seidel",
+    "first_name": "Heinrich",
+    "start_date_written": "1842-06-25",
+    "end_date_written": "1906-11-07",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q690219",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2701": {
+    "name": "Hermann",
+    "first_name": "Rudolf",
+    "start_date_written": "1887-10-03",
+    "end_date_written": "1962-06-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q153974",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2702": {
+    "name": "Sturm",
+    "first_name": "Erdmann",
+    "start_date_written": "1937-07-02",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q639241",
+    "place_of_death_id": null
+  },
+  "2708": {
+    "name": "Meyer",
+    "first_name": "Gottfried",
+    "start_date_written": "1855-12-23",
+    "end_date_written": "1933-06-04",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": "http://www.wikidata.org/entity/Q586"
+  },
+  "2713": {
+    "name": "Pfalzgraf",
+    "first_name": "Erich",
+    "start_date_written": "1879-11-25",
+    "end_date_written": "1937-11-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q569692",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q24879"
+  },
+  "2715": {
+    "name": "Hinrichs",
+    "first_name": "Johann",
+    "start_date_written": "1763-10-30",
+    "end_date_written": "1813-09-22",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3489",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2079"
+  },
+  "2718": {
+    "name": "Wilhelm, German Crown Prince",
+    "first_name": "Wilhelm",
+    "start_date_written": "1882-05-06",
+    "end_date_written": "1951-07-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1711",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q494529"
+  },
+  "2725": {
+    "name": "Hermann H\u00f6pker-Aschoff",
+    "first_name": "Hermann",
+    "start_date_written": "1883-01-31",
+    "end_date_written": "1954-01-15",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3971",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1040"
+  },
+  "2726": {
+    "name": "Haas",
+    "first_name": "August",
+    "start_date_written": "1881-07-21",
+    "end_date_written": "1945-03-28",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q11040",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q654141"
+  },
+  "2737": {
+    "name": "Poelchau",
+    "first_name": "Dorothee",
+    "start_date_written": "1902-06-06",
+    "end_date_written": "1977-11-04",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2738": {
+    "name": "Strack",
+    "first_name": "Hermann",
+    "start_date_written": "1848-05-06",
+    "end_date_written": "1922-10-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2739": {
+    "name": "Krebs",
+    "first_name": "Albert",
+    "start_date_written": "1897-10-07",
+    "end_date_written": "1992-12-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1794",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q7044"
+  },
+  "2740": {
+    "name": "Bondy",
+    "first_name": "Curt",
+    "start_date_written": "1894-04-03",
+    "end_date_written": "1972-01-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1055",
+    "place_of_death_id": null
+  },
+  "2743": {
+    "name": "Ecke",
+    "first_name": "Gustav",
+    "start_date_written": "1855",
+    "end_date_written": "1920",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2761": {
+    "name": "Grillparzer",
+    "first_name": "Franz",
+    "start_date_written": "1791-01-15",
+    "end_date_written": "1872-01-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1741"
+  },
+  "2762": {
+    "name": "Adelheid Balke",
+    "first_name": "Adelheid",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2764": {
+    "name": "von Sigwart",
+    "first_name": "Christoph",
+    "start_date_written": "1830-03-28",
+    "end_date_written": "1904-08-04",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3806",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q3806"
+  },
+  "2765": {
+    "name": "Muff",
+    "first_name": "Christian",
+    "start_date_written": "1841-08-14",
+    "end_date_written": "1911-04-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q546754",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1492092"
+  },
+  "2766": {
+    "name": "Loti",
+    "first_name": "Pierre",
+    "start_date_written": "1850-01-14",
+    "end_date_written": "1923-06-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q207587",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q191754"
+  },
+  "2767": {
+    "name": "Engel",
+    "first_name": "Georg",
+    "start_date_written": "1866-10-22",
+    "end_date_written": "1931-10-19",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4098",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2768": {
+    "name": "Auerbach",
+    "first_name": "Berthold",
+    "start_date_written": "1812-02-28",
+    "end_date_written": "1882-02-08",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q17578856",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q39984"
+  },
+  "2769": {
+    "name": "Conrad",
+    "first_name": "Paul",
+    "start_date_written": "1865-04-01",
+    "end_date_written": "1927-09-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q64",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2796": {
+    "name": "Bronshteyn",
+    "first_name": "Lev",
+    "start_date_written": null,
+    "end_date_written": "1940-08-21",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q753652",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q661315"
+  },
+  "2797": {
+    "name": "Verhaeren",
+    "first_name": "Emile",
+    "start_date_written": "1855-05-21",
+    "end_date_written": "1916-11-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q912030",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q30974"
+  },
+  "2825": {
+    "name": "Mengelberg",
+    "first_name": "Nora",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2834": {
+    "name": "Weiss",
+    "first_name": "Bernhard",
+    "start_date_written": "1827-06-20",
+    "end_date_written": "1918-01-14",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q4120832",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2839": {
+    "name": "Friedrich Karl Forberg",
+    "first_name": "Friedrich",
+    "start_date_written": "1770-08-30",
+    "end_date_written": "1848-01-01",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q518356",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q504348"
+  },
+  "2843": {
+    "name": "Hartmann",
+    "first_name": "Martin",
+    "start_date_written": "1851-12-09",
+    "end_date_written": "1918-12-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1799",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2848": {
+    "name": "Hausrath",
+    "first_name": "Adolph",
+    "start_date_written": "1837-01-13",
+    "end_date_written": "1909-08-02",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1040",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2852": {
+    "name": "Jahnke",
+    "first_name": "Richard",
+    "start_date_written": "1868-03-28",
+    "end_date_written": "1933-05-09",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q878458",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q64"
+  },
+  "2853": {
+    "name": "Utrillo",
+    "first_name": "Maurice",
+    "start_date_written": "1883-12-26",
+    "end_date_written": "1955-11-05",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q186115",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q188878"
+  },
+  "2864": {
+    "name": "Dirks",
+    "first_name": "Walter",
+    "start_date_written": "1901-01-08",
+    "end_date_written": "1991-05-30",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1295",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q538724"
+  },
+  "2867": {
+    "name": "Claassen",
+    "first_name": "Eugen",
+    "start_date_written": "1895-02-14",
+    "end_date_written": "1955-04-26",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q72",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1055"
+  },
+  "2868": {
+    "name": "Claassen",
+    "first_name": "Hildegard",
+    "start_date_written": "1897-04-21",
+    "end_date_written": "1988-02-16",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q200122",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1055"
+  },
+  "2869": {
+    "name": "Ria Schmujlow-Claassen",
+    "first_name": "Ria",
+    "start_date_written": "1868-10-12",
+    "end_date_written": "1952-08-11",
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2871": {
+    "name": "Sachs",
+    "first_name": "Hanns",
+    "start_date_written": "1881-01-10",
+    "end_date_written": "1947-01-10",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1741",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q100"
+  },
+  "2872": {
+    "name": "Glatzer",
+    "first_name": "Nahum",
+    "start_date_written": "1903-03-25",
+    "end_date_written": "1990-02-27",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q36036",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q18575"
+  },
+  "2873": {
+    "name": "Dingler",
+    "first_name": "Hugo",
+    "start_date_written": "1881-07-07",
+    "end_date_written": "1954-06-29",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1726",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1726"
+  },
+  "2876": {
+    "name": "Cassirer",
+    "first_name": "Heinz",
+    "start_date_written": "1903-08-09",
+    "end_date_written": "1979-02-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q61936",
+    "place_of_death_id": null
+  },
+  "2877": {
+    "name": "Holm Zerener",
+    "first_name": null,
+    "start_date_written": "1872-09-29",
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1731",
+    "place_of_death_id": null
+  },
+  "2890": {
+    "name": "Bergner",
+    "first_name": "Elisabeth",
+    "start_date_written": "1897-08-22",
+    "end_date_written": "1986-05-12",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q158821",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q84"
+  },
+  "2894": {
+    "name": "Hans Rhotert",
+    "first_name": "Hans",
+    "start_date_written": "1900-09-20",
+    "end_date_written": "1991-02-13",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1715",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q253119"
+  },
+  "2895": {
+    "name": "von den Steinen",
+    "first_name": "Helmut",
+    "start_date_written": "1890-12-06",
+    "end_date_written": "1956",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q3869",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q43048"
+  },
+  "2896": {
+    "name": "Wieschhoff",
+    "first_name": "Heinrich",
+    "start_date_written": "1906-08-01",
+    "end_date_written": "1961-09-18",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q2871",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q219671"
+  },
+  "2897": {
+    "name": "Brandt",
+    "first_name": "Editha",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2906": {
+    "name": "Paul Mezger",
+    "first_name": "Paul",
+    "start_date_written": "1851",
+    "end_date_written": "1913",
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2911": {
+    "name": "Schubert",
+    "first_name": "Hans",
+    "start_date_written": "1859-12-12",
+    "end_date_written": "1931-05-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1731",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2918": {
+    "name": "Schubert",
+    "first_name": "Hans",
+    "start_date_written": "1859-12-12",
+    "end_date_written": "1931-05-06",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1731",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  },
+  "2922": {
+    "name": "Jensen",
+    "first_name": "Adolf",
+    "start_date_written": "1899-01-01",
+    "end_date_written": "1965-05-20",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q1707",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q1888379"
+  },
+  "2923": {
+    "name": "Albert Seekirchner",
+    "first_name": "Albert",
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "male",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2924": {
+    "name": "Goddall",
+    "first_name": null,
+    "start_date_written": null,
+    "end_date_written": null,
+    "gender": "female",
+    "place_of_birth_id": null,
+    "place_of_death_id": null
+  },
+  "2925": {
+    "name": "Weyersberg",
+    "first_name": "Maria",
+    "start_date_written": "1886",
+    "end_date_written": "1987",
+    "gender": "female",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q365",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q6852"
+  },
+  "2926": {
+    "name": "Lutz",
+    "first_name": "Joachim",
+    "start_date_written": "1906-01-12",
+    "end_date_written": "1954-02-17",
+    "gender": "male",
+    "place_of_birth_id": "http://www.wikidata.org/entity/Q132499",
+    "place_of_death_id": "http://www.wikidata.org/entity/Q2966"
+  }
+}
