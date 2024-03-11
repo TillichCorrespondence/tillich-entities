@@ -19,11 +19,25 @@
             {% for x in objects %}
                <person xml:id="{{ x.tillich_id }}">
                   <persName>{{ x.name }}</persName>
-                  {% if x.birth_year %}
-                  <birth><date>{{ x.birth_year }}</date></birth>
+                  {% if x.date_of_birth %}
+                  <birth>
+                     <date>{{ x.date_of_birth }}</date>
+                     {% if x.place_of_birth %}
+                     <settlement>
+                        <placeName>{{ x.place_of_birth|safe }}</placeName>
+                     </settlement>
+                     {% endif %}
+                  </birth>
                   {% endif %}
-                  {% if x.birth_year %}
-                  <death><date>{{ x.death_year }}</date></death>
+                  {% if x.date_of_death %}
+                  <death>
+                     <date>{{ x.date_of_death }}</date>
+                     {% if x.place_of_death %}
+                     <settlement>
+                        <placeName>{{ x.place_of_death|safe }}</placeName>
+                     </settlement>
+                     {% endif %}
+                  </death>
                   {% endif %}
                   {% if x.occupation %}
                   <occupation>{{ x.occupation }}</occupation>

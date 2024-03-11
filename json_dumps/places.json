@@ -4,20 +4,22 @@
     "order": "1.00000000000000000000",
     "name": " Nouvron-Vingré",
     "tillich_id": "tillich_place_id__1",
-    "geonames_url": "https://www.geonames.org/6425113",
+    "geonames_url": "https://sws.geonames.org/6425113/",
     "Working Notes": "Working Notes",
     "latitude": "49.42917",
-    "longitude": "3.19833"
+    "longitude": "3.19833",
+    "wikidata_url": "http://www.wikidata.org/entity/Q283344"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "name": "4 Rue Spriet Tellier, 59370 Mons-en-Barœul, Lille",
     "tillich_id": "tillich_place_id__2",
-    "geonames_url": "https://www.geonames.org/2993207/",
+    "geonames_url": "https://sws.geonames.org/2993207/",
     "Working Notes": "Working Notes",
     "latitude": "50.63333",
-    "longitude": "3.11667"
+    "longitude": "3.11667",
+    "wikidata_url": "http://www.wikidata.org/entity/Q35732297"
   },
   "3": {
     "id": 3,
@@ -27,7 +29,8 @@
     "geonames_url": "",
     "Working Notes": "Working Notes",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "4": {
     "id": 4,
@@ -37,7 +40,8 @@
     "geonames_url": "https://sws.geonames.org/3247449/",
     "Working Notes": "Working Notes",
     "latitude": "50.77664",
-    "longitude": "6.08342"
+    "longitude": "6.08342",
+    "wikidata_url": ""
   },
   "5": {
     "id": 5,
@@ -47,7 +51,8 @@
     "geonames_url": "https://sws.geonames.org/2657832/",
     "Working Notes": "Working Notes",
     "latitude": "57.14369",
-    "longitude": "-2.09814"
+    "longitude": "-2.09814",
+    "wikidata_url": "http://www.wikidata.org/entity/Q36405"
   },
   "6": {
     "id": 6,
@@ -57,7 +62,8 @@
     "geonames_url": "https://sws.geonames.org/3038640/",
     "Working Notes": "Working Notes",
     "latitude": "43.43248",
-    "longitude": "6.85564"
+    "longitude": "6.85564",
+    "wikidata_url": ""
   },
   "7": {
     "id": 7,
@@ -67,7 +73,8 @@
     "geonames_url": "https://sws.geonames.org/6548105/",
     "Working Notes": "Working Notes",
     "latitude": "54.38330",
-    "longitude": "12.43330"
+    "longitude": "12.43330",
+    "wikidata_url": "http://www.wikidata.org/entity/Q402819"
   },
   "8": {
     "id": 8,
@@ -77,7 +84,8 @@
     "geonames_url": "https://sws.geonames.org/3038375/",
     "Working Notes": "Working Notes",
     "latitude": "49.50000",
-    "longitude": "3.50000"
+    "longitude": "3.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3093"
   },
   "9": {
     "id": 9,
@@ -87,7 +95,8 @@
     "geonames_url": "https://sws.geonames.org/3038375/",
     "Working Notes": "Working Notes",
     "latitude": "49.50000",
-    "longitude": "3.50000"
+    "longitude": "3.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3093"
   },
   "10": {
     "id": 10,
@@ -97,7 +106,8 @@
     "geonames_url": "https://sws.geonames.org/3037981/",
     "Working Notes": "Working Notes",
     "latitude": "49.51716",
-    "longitude": "4.50373"
+    "longitude": "4.50373",
+    "wikidata_url": ""
   },
   "11": {
     "id": 11,
@@ -107,7 +117,8 @@
     "geonames_url": "https://sws.geonames.org/2759821/",
     "Working Notes": "Working Notes",
     "latitude": "52.15500",
-    "longitude": "5.38750"
+    "longitude": "5.38750",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33421377"
   },
   "12": {
     "id": 12,
@@ -117,7 +128,8 @@
     "geonames_url": "https://sws.geonames.org/2759794/",
     "Working Notes": "Working Notes",
     "latitude": "52.37403",
-    "longitude": "4.88969"
+    "longitude": "4.88969",
+    "wikidata_url": "http://www.wikidata.org/entity/Q727"
   },
   "13": {
     "id": 13,
@@ -127,7 +139,8 @@
     "geonames_url": "https://sws.geonames.org/3036990/",
     "Working Notes": "Working Notes",
     "latitude": "49.50000",
-    "longitude": "5.00000"
+    "longitude": "5.00000",
+    "wikidata_url": ""
   },
   "14": {
     "id": 14,
@@ -137,7 +150,8 @@
     "geonames_url": "https://sws.geonames.org/3036784/",
     "Working Notes": "Working Notes",
     "latitude": "50.29301",
-    "longitude": "2.78186"
+    "longitude": "2.78186",
+    "wikidata_url": "http://www.wikidata.org/entity/Q131329"
   },
   "15": {
     "id": 15,
@@ -147,7 +161,8 @@
     "geonames_url": "https://sws.geonames.org/2955001/",
     "Working Notes": "Working Notes",
     "latitude": "49.98986",
-    "longitude": "7.86716"
+    "longitude": "7.86716",
+    "wikidata_url": "http://www.wikidata.org/entity/Q317535"
   },
   "16": {
     "id": 16,
@@ -157,7 +172,8 @@
     "geonames_url": "https://sws.geonames.org/2954172/",
     "Working Notes": "Working Notes",
     "latitude": "48.37154",
-    "longitude": "10.89851"
+    "longitude": "10.89851",
+    "wikidata_url": ""
   },
   "17": {
     "id": 17,
@@ -167,7 +183,8 @@
     "geonames_url": "https://sws.geonames.org/3035889/",
     "Working Notes": "Working Notes",
     "latitude": "49.26829",
-    "longitude": "4.83435"
+    "longitude": "4.83435",
+    "wikidata_url": ""
   },
   "18": {
     "id": 18,
@@ -177,7 +194,8 @@
     "geonames_url": "https://sws.geonames.org/2953543/",
     "Working Notes": "Working Notes",
     "latitude": "50.06667",
-    "longitude": "7.03333"
+    "longitude": "7.03333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31896761"
   },
   "19": {
     "id": 19,
@@ -187,7 +205,8 @@
     "geonames_url": "https://sws.geonames.org/2953439/",
     "Working Notes": "Working Notes",
     "latitude": "50.87197",
-    "longitude": "9.70891"
+    "longitude": "9.70891",
+    "wikidata_url": ""
   },
   "20": {
     "id": 20,
@@ -197,7 +216,8 @@
     "geonames_url": "https://sws.geonames.org/2847554/",
     "Working Notes": "Working Notes",
     "latitude": "50.65445",
-    "longitude": "7.21941"
+    "longitude": "7.21941",
+    "wikidata_url": ""
   },
   "21": {
     "id": 21,
@@ -207,7 +227,8 @@
     "geonames_url": "https://sws.geonames.org/2953424/",
     "Working Notes": "Working Notes",
     "latitude": "50.20228",
-    "longitude": "10.07784"
+    "longitude": "10.07784",
+    "wikidata_url": "http://www.wikidata.org/entity/Q118137589"
   },
   "22": {
     "id": 22,
@@ -217,7 +238,8 @@
     "geonames_url": "https://sws.geonames.org/2953418/",
     "Working Notes": "Working Notes",
     "latitude": "51.13431",
-    "longitude": "11.72203"
+    "longitude": "11.72203",
+    "wikidata_url": "http://www.wikidata.org/entity/Q574451"
   },
   "23": {
     "id": 23,
@@ -227,7 +249,8 @@
     "geonames_url": "https://sws.geonames.org/2953371/",
     "Working Notes": "Working Notes",
     "latitude": "47.72947",
-    "longitude": "12.87819"
+    "longitude": "12.87819",
+    "wikidata_url": ""
   },
   "24": {
     "id": 24,
@@ -237,7 +260,8 @@
     "geonames_url": "https://sws.geonames.org/3083158/",
     "Working Notes": "Working Notes",
     "latitude": "52.96487",
-    "longitude": "14.60667"
+    "longitude": "14.60667",
+    "wikidata_url": "http://www.wikidata.org/entity/Q558719"
   },
   "25": {
     "id": 25,
@@ -247,7 +271,8 @@
     "geonames_url": "https://sws.geonames.org/3035340/",
     "Working Notes": "Working Notes",
     "latitude": "48.84168",
-    "longitude": "2.07673"
+    "longitude": "2.07673",
+    "wikidata_url": ""
   },
   "26": {
     "id": 26,
@@ -257,7 +282,8 @@
     "geonames_url": "https://sws.geonames.org/3035104/",
     "Working Notes": "Working Notes",
     "latitude": "50.06226",
-    "longitude": "3.19941"
+    "longitude": "3.19941",
+    "wikidata_url": ""
   },
   "27": {
     "id": 27,
@@ -267,7 +293,8 @@
     "geonames_url": "https://sws.geonames.org/3035088/",
     "Working Notes": "Working Notes",
     "latitude": "50.10379",
-    "longitude": "2.84966"
+    "longitude": "2.84966",
+    "wikidata_url": "http://www.wikidata.org/entity/Q317235"
   },
   "28": {
     "id": 28,
@@ -277,7 +304,8 @@
     "geonames_url": "https://sws.geonames.org/2759429/",
     "Working Notes": "Working Notes",
     "latitude": "52.12417",
-    "longitude": "6.44306"
+    "longitude": "6.44306",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2063712"
   },
   "29": {
     "id": 29,
@@ -287,7 +315,8 @@
     "geonames_url": "https://sws.geonames.org/2952578/",
     "Working Notes": "Working Notes",
     "latitude": "53.70632",
-    "longitude": "13.17928"
+    "longitude": "13.17928",
+    "wikidata_url": ""
   },
   "30": {
     "id": 30,
@@ -297,7 +326,8 @@
     "geonames_url": "https://sws.geonames.org/2952539/",
     "Working Notes": "Working Notes",
     "latitude": "51.27737",
-    "longitude": "7.19802"
+    "longitude": "7.19802",
+    "wikidata_url": "http://www.wikidata.org/entity/Q153974"
   },
   "31": {
     "id": 31,
@@ -307,7 +337,8 @@
     "geonames_url": "https://sws.geonames.org/2661604/",
     "Working Notes": "Working Notes",
     "latitude": "47.55839",
-    "longitude": "7.57327"
+    "longitude": "7.57327",
+    "wikidata_url": "http://www.wikidata.org/entity/Q56447734"
   },
   "32": {
     "id": 32,
@@ -317,7 +348,8 @@
     "geonames_url": "https://sws.geonames.org/2951839/",
     "Working Notes": "Working Notes",
     "latitude": "49.00000",
-    "longitude": "11.50000"
+    "longitude": "11.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q980"
   },
   "33": {
     "id": 33,
@@ -327,7 +359,8 @@
     "geonames_url": "https://sws.geonames.org/2802361/",
     "Working Notes": "Working Notes",
     "latitude": "50.75000",
-    "longitude": "4.50000"
+    "longitude": "4.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31"
   },
   "34": {
     "id": 34,
@@ -337,7 +370,8 @@
     "geonames_url": "https://sws.geonames.org/2951134/",
     "Working Notes": "Working Notes",
     "latitude": "52.14184",
-    "longitude": "12.59272"
+    "longitude": "12.59272",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31909574"
   },
   "35": {
     "id": 35,
@@ -347,7 +381,8 @@
     "geonames_url": "https://sws.geonames.org/7290243/",
     "Working Notes": "Working Notes",
     "latitude": "53.48462",
-    "longitude": "10.22904"
+    "longitude": "10.22904",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1637"
   },
   "36": {
     "id": 36,
@@ -357,7 +392,8 @@
     "geonames_url": "https://sws.geonames.org/11568374/",
     "Working Notes": "Working Notes",
     "latitude": "47.65450",
-    "longitude": "8.67539"
+    "longitude": "8.67539",
+    "wikidata_url": ""
   },
   "37": {
     "id": 37,
@@ -367,7 +403,8 @@
     "geonames_url": "https://sws.geonames.org/2950159/",
     "Working Notes": "Working Notes",
     "latitude": "52.52437",
-    "longitude": "13.41053"
+    "longitude": "13.41053",
+    "wikidata_url": "http://www.wikidata.org/entity/Q64"
   },
   "38": {
     "id": 38,
@@ -377,7 +414,8 @@
     "geonames_url": "https://sws.geonames.org/2924770/",
     "Working Notes": "Working Notes",
     "latitude": "52.47133",
-    "longitude": "13.32813"
+    "longitude": "13.32813",
+    "wikidata_url": "http://www.wikidata.org/entity/Q692390"
   },
   "39": {
     "id": 39,
@@ -387,7 +425,8 @@
     "geonames_url": "https://sws.geonames.org/2924577/",
     "Working Notes": "Working Notes",
     "latitude": "52.45052",
-    "longitude": "13.62463"
+    "longitude": "13.62463",
+    "wikidata_url": "http://www.wikidata.org/entity/Q563528"
   },
   "40": {
     "id": 40,
@@ -397,7 +436,8 @@
     "geonames_url": "https://sws.geonames.org/2911559/",
     "Working Notes": "Working Notes",
     "latitude": "52.49005",
-    "longitude": "13.29602"
+    "longitude": "13.29602",
+    "wikidata_url": "http://www.wikidata.org/entity/Q651009"
   },
   "41": {
     "id": 41,
@@ -407,7 +447,8 @@
     "geonames_url": "https://sws.geonames.org/2878044/",
     "Working Notes": "Working Notes",
     "latitude": "52.39844",
-    "longitude": "13.40637"
+    "longitude": "13.40637",
+    "wikidata_url": "http://www.wikidata.org/entity/Q821101"
   },
   "42": {
     "id": 42,
@@ -417,7 +458,8 @@
     "geonames_url": "https://sws.geonames.org/2878018/",
     "Working Notes": "Working Notes",
     "latitude": "52.43330",
-    "longitude": "13.30762"
+    "longitude": "13.30762",
+    "wikidata_url": "http://www.wikidata.org/entity/Q155211"
   },
   "43": {
     "id": 43,
@@ -427,7 +469,8 @@
     "geonames_url": "https://sws.geonames.org/2864695/",
     "Working Notes": "Working Notes",
     "latitude": "52.47719",
-    "longitude": "13.43126"
+    "longitude": "13.43126",
+    "wikidata_url": "http://www.wikidata.org/entity/Q169492"
   },
   "44": {
     "id": 44,
@@ -437,7 +480,8 @@
     "geonames_url": "https://sws.geonames.org/2950159/",
     "Working Notes": "Working Notes",
     "latitude": "52.52437",
-    "longitude": "13.41053"
+    "longitude": "13.41053",
+    "wikidata_url": "http://www.wikidata.org/entity/Q64"
   },
   "45": {
     "id": 45,
@@ -447,7 +491,8 @@
     "geonames_url": "https://sws.geonames.org/2855598/",
     "Working Notes": "Working Notes",
     "latitude": "52.56926",
-    "longitude": "13.40186"
+    "longitude": "13.40186",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4707648"
   },
   "46": {
     "id": 46,
@@ -457,7 +502,8 @@
     "geonames_url": "https://sws.geonames.org/2836788/",
     "Working Notes": "Working Notes",
     "latitude": "52.46667",
-    "longitude": "13.35000"
+    "longitude": "13.35000",
+    "wikidata_url": ""
   },
   "47": {
     "id": 47,
@@ -467,7 +513,8 @@
     "geonames_url": "https://sws.geonames.org/7290252/",
     "Working Notes": "Working Notes",
     "latitude": "52.55110",
-    "longitude": "13.19921"
+    "longitude": "13.19921",
+    "wikidata_url": "http://www.wikidata.org/entity/Q569827"
   },
   "48": {
     "id": 48,
@@ -477,7 +524,8 @@
     "geonames_url": "https://sws.geonames.org/2823567/",
     "Working Notes": "Working Notes",
     "latitude": "52.40310",
-    "longitude": "13.26014"
+    "longitude": "13.26014",
+    "wikidata_url": ""
   },
   "49": {
     "id": 49,
@@ -487,7 +535,8 @@
     "geonames_url": "https://sws.geonames.org/2823538/",
     "Working Notes": "Working Notes",
     "latitude": "52.46667",
-    "longitude": "13.40000"
+    "longitude": "13.40000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q363830"
   },
   "50": {
     "id": 50,
@@ -497,7 +546,8 @@
     "geonames_url": "https://sws.geonames.org/2814196/",
     "Working Notes": "(Doppelt Siehe 465)",
     "latitude": "52.41915",
-    "longitude": "13.15531"
+    "longitude": "13.15531",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1949"
   },
   "51": {
     "id": 51,
@@ -507,7 +557,8 @@
     "geonames_url": "https://sws.geonames.org/2808473/",
     "Working Notes": "Working Notes",
     "latitude": "52.48333",
-    "longitude": "13.31667"
+    "longitude": "13.31667",
+    "wikidata_url": "http://www.wikidata.org/entity/Q693628"
   },
   "52": {
     "id": 52,
@@ -517,7 +568,8 @@
     "geonames_url": "https://sws.geonames.org/2805059/",
     "Working Notes": "Working Notes",
     "latitude": "52.43333",
-    "longitude": "13.25000"
+    "longitude": "13.25000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q324402"
   },
   "55": {
     "id": 55,
@@ -527,7 +579,8 @@
     "geonames_url": "https://sws.geonames.org/2661552/",
     "Working Notes": "Working Notes",
     "latitude": "46.94809",
-    "longitude": "7.44744"
+    "longitude": "7.44744",
+    "wikidata_url": ""
   },
   "56": {
     "id": 56,
@@ -537,7 +590,8 @@
     "geonames_url": "https://sws.geonames.org/2949998/",
     "Working Notes": "Working Notes",
     "latitude": "49.91602",
-    "longitude": "7.07664"
+    "longitude": "7.07664",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31911076"
   },
   "57": {
     "id": 57,
@@ -547,7 +601,8 @@
     "geonames_url": "https://sws.geonames.org/2953543/",
     "Working Notes": "(Verweis auf Bad Bertrich)",
     "latitude": "50.06667",
-    "longitude": "7.03333"
+    "longitude": "7.03333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31896761"
   },
   "58": {
     "id": 58,
@@ -557,7 +612,8 @@
     "geonames_url": "https://sws.geonames.org/2949766/",
     "Working Notes": "Working Notes",
     "latitude": "52.00697",
-    "longitude": "8.52797"
+    "longitude": "8.52797",
+    "wikidata_url": "http://www.wikidata.org/entity/Q23559794"
   },
   "60": {
     "id": 60,
@@ -567,7 +623,8 @@
     "geonames_url": "https://sws.geonames.org/2949188/",
     "Working Notes": "Working Notes",
     "latitude": "52.02113",
-    "longitude": "8.53500"
+    "longitude": "8.53500",
+    "wikidata_url": ""
   },
   "61": {
     "id": 61,
@@ -577,7 +634,8 @@
     "geonames_url": "https://sws.geonames.org/6446494/",
     "Working Notes": "Working Notes",
     "latitude": "49.44667",
-    "longitude": "3.26139"
+    "longitude": "3.26139",
+    "wikidata_url": "http://www.wikidata.org/entity/Q864733"
   },
   "63": {
     "id": 63,
@@ -587,7 +645,8 @@
     "geonames_url": "https://sws.geonames.org/2948821/",
     "Working Notes": "Working Notes",
     "latitude": "49.96612",
-    "longitude": "7.88476"
+    "longitude": "7.88476",
+    "wikidata_url": "http://www.wikidata.org/entity/Q863777"
   },
   "64": {
     "id": 64,
@@ -597,7 +656,8 @@
     "geonames_url": "https://www.geonames.org/2960858/",
     "Working Notes": "(Bay of Biscay)",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "65": {
     "id": 65,
@@ -607,7 +667,8 @@
     "geonames_url": "https://sws.geonames.org/3032381/",
     "Working Notes": "Working Notes",
     "latitude": "49.76667",
-    "longitude": "4.21667"
+    "longitude": "4.21667",
+    "wikidata_url": ""
   },
   "66": {
     "id": 66,
@@ -617,7 +678,8 @@
     "geonames_url": "https://sws.geonames.org/2781680/",
     "Working Notes": "Working Notes",
     "latitude": "47.15476",
-    "longitude": "9.82255"
+    "longitude": "9.82255",
+    "wikidata_url": "http://www.wikidata.org/entity/Q21881833"
   },
   "67": {
     "id": 67,
@@ -627,7 +689,8 @@
     "geonames_url": "https://www.geonames.org/11919717/",
     "Working Notes": "Working Notes",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "68": {
     "id": 68,
@@ -637,7 +700,8 @@
     "geonames_url": "https://sws.geonames.org/2946447/",
     "Working Notes": "Working Notes",
     "latitude": "50.73438",
-    "longitude": "7.09549"
+    "longitude": "7.09549",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31917795"
   },
   "70": {
     "id": 70,
@@ -647,7 +711,8 @@
     "geonames_url": "https://sws.geonames.org/4930956/",
     "Working Notes": "Working Notes",
     "latitude": "42.35843",
-    "longitude": "-71.05977"
+    "longitude": "-71.05977",
+    "wikidata_url": "http://www.wikidata.org/entity/Q100"
   },
   "72": {
     "id": 72,
@@ -657,7 +722,8 @@
     "geonames_url": "https://sws.geonames.org/3181913/",
     "Working Notes": "Working Notes",
     "latitude": "46.49067",
-    "longitude": "11.33982"
+    "longitude": "11.33982",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49280504"
   },
   "73": {
     "id": 73,
@@ -667,7 +733,8 @@
     "geonames_url": "https://sws.geonames.org/2781503/",
     "Working Notes": "Working Notes",
     "latitude": "47.50311",
-    "longitude": "9.74710"
+    "longitude": "9.74710",
+    "wikidata_url": "http://www.wikidata.org/entity/Q21882134"
   },
   "74": {
     "id": 74,
@@ -677,7 +744,8 @@
     "geonames_url": "https://sws.geonames.org/2944388/",
     "Working Notes": "Working Notes",
     "latitude": "53.07582",
-    "longitude": "8.80717"
+    "longitude": "8.80717",
+    "wikidata_url": "http://www.wikidata.org/entity/Q24879"
   },
   "75": {
     "id": 75,
@@ -687,7 +755,8 @@
     "geonames_url": "https://sws.geonames.org/2944354/",
     "Working Notes": "Working Notes",
     "latitude": "53.48458",
-    "longitude": "9.14306"
+    "longitude": "9.14306",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33426057"
   },
   "76": {
     "id": 76,
@@ -697,7 +766,8 @@
     "geonames_url": "https://sws.geonames.org/2944340/",
     "Working Notes": "Working Notes",
     "latitude": "51.44780",
-    "longitude": "10.04236"
+    "longitude": "10.04236",
+    "wikidata_url": "http://www.wikidata.org/entity/Q824454"
   },
   "77": {
     "id": 77,
@@ -707,7 +777,8 @@
     "geonames_url": "https://sws.geonames.org/3030300/",
     "Working Notes": "Working Notes",
     "latitude": "48.39029",
-    "longitude": "-4.48628"
+    "longitude": "-4.48628",
+    "wikidata_url": "http://www.wikidata.org/entity/Q12193"
   },
   "78": {
     "id": 78,
@@ -717,7 +788,8 @@
     "geonames_url": "https://sws.geonames.org/2800866/",
     "Working Notes": "Working Notes",
     "latitude": "50.85045",
-    "longitude": "4.34878"
+    "longitude": "4.34878",
+    "wikidata_url": "http://www.wikidata.org/entity/Q239"
   },
   "79": {
     "id": 79,
@@ -727,7 +799,8 @@
     "geonames_url": "https://sws.geonames.org/2974294/",
     "Working Notes": "(spezifisch nicht zu finden, Berggipfel in Sommepy-Tahure angegeben)",
     "latitude": "49.25124",
-    "longitude": "4.55834"
+    "longitude": "4.55834",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1221195"
   },
   "80": {
     "id": 80,
@@ -737,7 +810,8 @@
     "geonames_url": "https://sws.geonames.org/3087840/",
     "Working Notes": "Working Notes",
     "latitude": "52.87141",
-    "longitude": "14.38608"
+    "longitude": "14.38608",
+    "wikidata_url": ""
   },
   "81": {
     "id": 81,
@@ -747,7 +821,8 @@
     "geonames_url": "https://sws.geonames.org/3029030/",
     "Working Notes": "Working Notes",
     "latitude": "50.17596",
-    "longitude": "3.23472"
+    "longitude": "3.23472",
+    "wikidata_url": "http://www.wikidata.org/entity/Q181285"
   },
   "82": {
     "id": 82,
@@ -757,7 +832,8 @@
     "geonames_url": "https://sws.geonames.org/4931972/",
     "Working Notes": "Working Notes",
     "latitude": "42.37510",
-    "longitude": "-71.10561"
+    "longitude": "-71.10561",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49111"
   },
   "87": {
     "id": 87,
@@ -767,7 +843,8 @@
     "geonames_url": "https://sws.geonames.org/3028868/",
     "Working Notes": "Working Notes",
     "latitude": "48.67660",
-    "longitude": "-1.85216"
+    "longitude": "-1.85216",
+    "wikidata_url": "http://www.wikidata.org/entity/Q203561"
   },
   "88": {
     "id": 88,
@@ -777,7 +854,8 @@
     "geonames_url": "https://sws.geonames.org/3028205/",
     "Working Notes": "Working Notes",
     "latitude": "50.12490",
-    "longitude": "3.41186"
+    "longitude": "3.41186",
+    "wikidata_url": "http://www.wikidata.org/entity/Q476016"
   },
   "89": {
     "id": 89,
@@ -787,7 +865,8 @@
     "geonames_url": "https://sws.geonames.org/3027699/",
     "Working Notes": "Working Notes",
     "latitude": "47.81386",
-    "longitude": "3.79835"
+    "longitude": "3.79835",
+    "wikidata_url": ""
   },
   "90": {
     "id": 90,
@@ -797,7 +876,8 @@
     "geonames_url": "https://sws.geonames.org/3027258/",
     "Working Notes": "Working Notes",
     "latitude": "49.00000",
-    "longitude": "4.50000"
+    "longitude": "4.50000",
+    "wikidata_url": ""
   },
   "91": {
     "id": 91,
@@ -807,7 +887,8 @@
     "geonames_url": "https://sws.geonames.org/3027028/",
     "Working Notes": "Working Notes",
     "latitude": "49.54083",
-    "longitude": "3.25428"
+    "longitude": "3.25428",
+    "wikidata_url": ""
   },
   "93": {
     "id": 93,
@@ -817,7 +898,8 @@
     "geonames_url": "https://sws.geonames.org/3026827/",
     "Working Notes": "Working Notes",
     "latitude": "49.19461",
-    "longitude": "2.47124"
+    "longitude": "2.47124",
+    "wikidata_url": ""
   },
   "94": {
     "id": 94,
@@ -827,7 +909,8 @@
     "geonames_url": "https://sws.geonames.org/3026613/",
     "Working Notes": "Working Notes",
     "latitude": "49.76850",
-    "longitude": "4.72487"
+    "longitude": "4.72487",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2960786"
   },
   "96": {
     "id": 96,
@@ -837,7 +920,8 @@
     "geonames_url": "https://sws.geonames.org/2940187/",
     "Working Notes": "Working Notes",
     "latitude": "52.51667",
-    "longitude": "13.28333"
+    "longitude": "13.28333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q162049"
   },
   "97": {
     "id": 97,
@@ -847,7 +931,8 @@
     "geonames_url": "https://sws.geonames.org/3025892/",
     "Working Notes": "Working Notes",
     "latitude": "48.11121",
-    "longitude": "5.14134"
+    "longitude": "5.14134",
+    "wikidata_url": "http://www.wikidata.org/entity/Q193880"
   },
   "98": {
     "id": 98,
@@ -857,7 +942,8 @@
     "geonames_url": "https://sws.geonames.org/3025860/",
     "Working Notes": "Working Notes",
     "latitude": "49.61514",
-    "longitude": "3.21857"
+    "longitude": "3.21857",
+    "wikidata_url": "http://www.wikidata.org/entity/Q269833"
   },
   "100": {
     "id": 100,
@@ -867,7 +953,8 @@
     "geonames_url": "https://sws.geonames.org/3025718/",
     "Working Notes": "Chavigny02880",
     "latitude": "49.42560",
-    "longitude": "3.30535"
+    "longitude": "3.30535",
+    "wikidata_url": ""
   },
   "102": {
     "id": 102,
@@ -877,7 +964,8 @@
     "geonames_url": "https://sws.geonames.org/2661180/",
     "Working Notes": "(Vermutlich verschrieben, nicht aufzufinden, nicht doch vielleicht Chexbres gemeint?)",
     "latitude": "46.48208",
-    "longitude": "6.77805"
+    "longitude": "6.77805",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22490557"
   },
   "103": {
     "id": 103,
@@ -887,7 +975,8 @@
     "geonames_url": "https://sws.geonames.org/2940132/",
     "Working Notes": "Working Notes",
     "latitude": "50.83570",
-    "longitude": "12.92922"
+    "longitude": "12.92922",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2795"
   },
   "104": {
     "id": 104,
@@ -897,7 +986,8 @@
     "geonames_url": "https://sws.geonames.org/2661180/",
     "Working Notes": "Working Notes",
     "latitude": "46.48208",
-    "longitude": "6.77805"
+    "longitude": "6.77805",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22490557"
   },
   "105": {
     "id": 105,
@@ -907,7 +997,8 @@
     "geonames_url": "https://sws.geonames.org/4887398/",
     "Working Notes": "Working Notes",
     "latitude": "41.85003",
-    "longitude": "-87.65005"
+    "longitude": "-87.65005",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1297"
   },
   "106": {
     "id": 106,
@@ -917,7 +1008,8 @@
     "geonames_url": "https://sws.geonames.org/2939996/",
     "Working Notes": "Working Notes",
     "latitude": "51.80441",
-    "longitude": "10.33384"
+    "longitude": "10.33384",
+    "wikidata_url": "http://www.wikidata.org/entity/Q15377091"
   },
   "107": {
     "id": 107,
@@ -927,7 +1019,8 @@
     "geonames_url": "https://sws.geonames.org/2939995/",
     "Working Notes": "Working Notes",
     "latitude": "51.80949",
-    "longitude": "10.33821"
+    "longitude": "10.33821",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31933119"
   },
   "108": {
     "id": 108,
@@ -937,7 +1030,8 @@
     "geonames_url": "https://sws.geonames.org/6554341/",
     "Working Notes": "(als Kleinich)",
     "latitude": "49.89478",
-    "longitude": "7.18695"
+    "longitude": "7.18695",
+    "wikidata_url": "http://www.wikidata.org/entity/Q543401"
   },
   "109": {
     "id": 109,
@@ -947,7 +1041,8 @@
     "geonames_url": "https://sws.geonames.org/2886946/",
     "Working Notes": "Working Notes",
     "latitude": "50.35357",
-    "longitude": "7.57883"
+    "longitude": "7.57883",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3104"
   },
   "110": {
     "id": 110,
@@ -957,7 +1052,8 @@
     "geonames_url": "https://sws.geonames.org/2939949/",
     "Working Notes": "Working Notes",
     "latitude": "50.14511",
-    "longitude": "7.16379"
+    "longitude": "7.16379",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31934490"
   },
   "111": {
     "id": 111,
@@ -967,7 +1063,8 @@
     "geonames_url": "https://sws.geonames.org/2939921/",
     "Working Notes": "Working Notes",
     "latitude": "53.16082",
-    "longitude": "7.53085"
+    "longitude": "7.53085",
+    "wikidata_url": ""
   },
   "112": {
     "id": 112,
@@ -977,7 +1074,8 @@
     "geonames_url": "https://sws.geonames.org/3023363/",
     "Working Notes": "Working Notes",
     "latitude": "49.52083",
-    "longitude": "3.32381"
+    "longitude": "3.32381",
+    "wikidata_url": "http://www.wikidata.org/entity/Q34796877"
   },
   "113": {
     "id": 113,
@@ -987,7 +1085,8 @@
     "geonames_url": "https://sws.geonames.org/3022625/",
     "Working Notes": "Working Notes",
     "latitude": "49.48857",
-    "longitude": "3.32416"
+    "longitude": "3.32416",
+    "wikidata_url": ""
   },
   "116": {
     "id": 116,
@@ -997,7 +1096,8 @@
     "geonames_url": "https://sws.geonames.org/3022155/",
     "Working Notes": "Working Notes",
     "latitude": "49.40358",
-    "longitude": "3.32119"
+    "longitude": "3.32119",
+    "wikidata_url": ""
   },
   "117": {
     "id": 117,
@@ -1007,7 +1107,8 @@
     "geonames_url": "https://sws.geonames.org/3022111/",
     "Working Notes": "Working Notes",
     "latitude": "49.41821",
-    "longitude": "3.24584"
+    "longitude": "3.24584",
+    "wikidata_url": ""
   },
   "118": {
     "id": 118,
@@ -1017,7 +1118,8 @@
     "geonames_url": "https://sws.geonames.org/2938913/",
     "Working Notes": "Working Notes",
     "latitude": "49.87167",
-    "longitude": "8.65027"
+    "longitude": "8.65027",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067893"
   },
   "119": {
     "id": 119,
@@ -1027,7 +1129,8 @@
     "geonames_url": "https://sws.geonames.org/2661039/",
     "Working Notes": "Working Notes",
     "latitude": "46.80429",
-    "longitude": "9.83723"
+    "longitude": "9.83723",
+    "wikidata_url": "http://www.wikidata.org/entity/Q56528928"
   },
   "120": {
     "id": 120,
@@ -1037,7 +1140,8 @@
     "geonames_url": "https://sws.geonames.org/3021668/",
     "Working Notes": "Working Notes",
     "latitude": "49.35700",
-    "longitude": "0.06995"
+    "longitude": "0.06995",
+    "wikidata_url": "http://www.wikidata.org/entity/Q209021"
   },
   "121": {
     "id": 121,
@@ -1047,7 +1151,8 @@
     "geonames_url": "https://sws.geonames.org/2747373/",
     "Working Notes": "Working Notes",
     "latitude": "52.07667",
-    "longitude": "4.29861"
+    "longitude": "4.29861",
+    "wikidata_url": "http://www.wikidata.org/entity/Q36600"
   },
   "122": {
     "id": 122,
@@ -1057,7 +1162,8 @@
     "geonames_url": "https://sws.geonames.org/2921044/",
     "Working Notes": "Working Notes",
     "latitude": "51.50000",
-    "longitude": "10.50000"
+    "longitude": "10.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q183"
   },
   "124": {
     "id": 124,
@@ -1067,7 +1173,8 @@
     "geonames_url": "https://sws.geonames.org/6437244/",
     "Working Notes": "(Heutige Erweiterung der damals zerstörten Gemeinde)",
     "latitude": "49.21139",
-    "longitude": "5.47250"
+    "longitude": "5.47250",
+    "wikidata_url": "http://www.wikidata.org/entity/Q669097"
   },
   "125": {
     "id": 125,
@@ -1077,7 +1184,8 @@
     "geonames_url": "https://sws.geonames.org/2651048/",
     "Working Notes": "(Vermutlich England Dover gemeint(Andover Library Verbindung), die Datei wo es vorkommt nicht gefunden)",
     "latitude": "51.12598",
-    "longitude": "1.31257"
+    "longitude": "1.31257",
+    "wikidata_url": "http://www.wikidata.org/entity/Q179224"
   },
   "126": {
     "id": 126,
@@ -1087,7 +1195,8 @@
     "geonames_url": "https://sws.geonames.org/2935022/",
     "Working Notes": "Working Notes",
     "latitude": "51.05089",
-    "longitude": "13.73832"
+    "longitude": "13.73832",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1731"
   },
   "127": {
     "id": 127,
@@ -1097,7 +1206,8 @@
     "geonames_url": "https://sws.geonames.org/12500814/",
     "Working Notes": "Working Notes",
     "latitude": "51.07553",
-    "longitude": "13.76259"
+    "longitude": "13.76259",
+    "wikidata_url": ""
   },
   "128": {
     "id": 128,
@@ -1107,7 +1217,8 @@
     "geonames_url": "https://sws.geonames.org/2623032/",
     "Working Notes": "Working Notes",
     "latitude": "56.00000",
-    "longitude": "10.00000"
+    "longitude": "10.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q35"
   },
   "129": {
     "id": 129,
@@ -1117,7 +1228,8 @@
     "geonames_url": "https://sws.geonames.org/3100226/",
     "Working Notes": "(Bei Johannes Tillich - Erich H. Kontext ist es Dölzig/Neumark ->nun Dolsko)",
     "latitude": "52.90062",
-    "longitude": "14.37630"
+    "longitude": "14.37630",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5289683"
   },
   "130": {
     "id": 130,
@@ -1127,7 +1239,8 @@
     "geonames_url": "https://sws.geonames.org/2934246/",
     "Working Notes": "Working Notes",
     "latitude": "51.22172",
-    "longitude": "6.77616"
+    "longitude": "6.77616",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1718"
   },
   "132": {
     "id": 132,
@@ -1137,7 +1250,8 @@
     "geonames_url": "https://sws.geonames.org/2931574/",
     "Working Notes": "Working Notes",
     "latitude": "50.98070",
-    "longitude": "10.31522"
+    "longitude": "10.31522",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31987608"
   },
   "133": {
     "id": 133,
@@ -1147,7 +1261,8 @@
     "geonames_url": "https://sws.geonames.org/2931276/",
     "Working Notes": "Working Notes",
     "latitude": "51.25083",
-    "longitude": "7.14816"
+    "longitude": "7.14816",
+    "wikidata_url": "http://www.wikidata.org/entity/Q702259"
   },
   "134": {
     "id": 134,
@@ -1157,7 +1272,8 @@
     "geonames_url": "https://sws.geonames.org/3038033/",
     "Working Notes": "Working Notes",
     "latitude": "48.33333",
-    "longitude": "7.43333"
+    "longitude": "7.43333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1142"
   },
   "135": {
     "id": 135,
@@ -1167,7 +1283,8 @@
     "geonames_url": "https://sws.geonames.org/2929670/",
     "Working Notes": "Working Notes",
     "latitude": "50.97870",
-    "longitude": "11.03283"
+    "longitude": "11.03283",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31997476"
   },
   "136": {
     "id": 136,
@@ -1177,7 +1294,8 @@
     "geonames_url": "https://sws.geonames.org/2929567/",
     "Working Notes": "Working Notes",
     "latitude": "49.59099",
-    "longitude": "11.00783"
+    "longitude": "11.00783",
+    "wikidata_url": "http://www.wikidata.org/entity/Q117751880"
   },
   "137": {
     "id": 137,
@@ -1187,7 +1305,8 @@
     "geonames_url": "https://sws.geonames.org/2927442/",
     "Working Notes": "(spezifisch nicht bestimmbar in der Region verordnet)",
     "latitude": "53.33388",
-    "longitude": "13.43500"
+    "longitude": "13.43500",
+    "wikidata_url": "http://www.wikidata.org/entity/Q612214"
   },
   "138": {
     "id": 138,
@@ -1197,7 +1316,8 @@
     "geonames_url": "https://sws.geonames.org/2995825/",
     "Working Notes": "(Mareuil)",
     "latitude": "45.45074",
-    "longitude": "0.45214"
+    "longitude": "0.45214",
+    "wikidata_url": "http://www.wikidata.org/entity/Q35724623"
   },
   "139": {
     "id": 139,
@@ -1207,7 +1327,8 @@
     "geonames_url": "https://sws.geonames.org/3018471/",
     "Working Notes": "Working Notes",
     "latitude": "48.25224",
-    "longitude": "-3.99263"
+    "longitude": "-3.99263",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3389"
   },
   "140": {
     "id": 140,
@@ -1217,7 +1338,8 @@
     "geonames_url": "https://sws.geonames.org/3018993/",
     "Working Notes": "Working Notes",
     "latitude": "50.63244",
-    "longitude": "3.09915"
+    "longitude": "3.09915",
+    "wikidata_url": "http://www.wikidata.org/entity/Q663930"
   },
   "141": {
     "id": 141,
@@ -1227,7 +1349,8 @@
     "geonames_url": "https://sws.geonames.org/3176959/",
     "Working Notes": "Working Notes",
     "latitude": "43.77925",
-    "longitude": "11.24626"
+    "longitude": "11.24626",
+    "wikidata_url": ""
   },
   "142": {
     "id": 142,
@@ -1237,7 +1360,8 @@
     "geonames_url": "https://sws.geonames.org/2831580/",
     "Working Notes": "Working Notes",
     "latitude": "51.17343",
-    "longitude": "7.08450"
+    "longitude": "7.08450",
+    "wikidata_url": ""
   },
   "143": {
     "id": 143,
@@ -1247,7 +1371,8 @@
     "geonames_url": "https://sws.geonames.org/2925533/",
     "Working Notes": "Working Notes",
     "latitude": "50.11552",
-    "longitude": "8.68417"
+    "longitude": "8.68417",
+    "wikidata_url": "http://www.wikidata.org/entity/Q122166308"
   },
   "144": {
     "id": 144,
@@ -1257,7 +1382,8 @@
     "geonames_url": "https://sws.geonames.org/7290401/",
     "Working Notes": "Working Notes",
     "latitude": "50.08309",
-    "longitude": "8.62852"
+    "longitude": "8.62852",
+    "wikidata_url": "http://www.wikidata.org/entity/Q567307"
   },
   "149": {
     "id": 149,
@@ -1267,7 +1393,8 @@
     "geonames_url": "https://sws.geonames.org/2925535/",
     "Working Notes": "Working Notes",
     "latitude": "52.34714",
-    "longitude": "14.55062"
+    "longitude": "14.55062",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4024"
   },
   "160": {
     "id": 160,
@@ -1277,7 +1404,8 @@
     "geonames_url": "https://sws.geonames.org/2845310/",
     "Working Notes": "Working Notes",
     "latitude": "50.15469",
-    "longitude": "8.63306"
+    "longitude": "8.63306",
+    "wikidata_url": ""
   },
   "161": {
     "id": 161,
@@ -1287,7 +1415,8 @@
     "geonames_url": "https://sws.geonames.org/3017382/",
     "Working Notes": "Working Notes",
     "latitude": "46.00000",
-    "longitude": "2.00000"
+    "longitude": "2.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q142"
   },
   "162": {
     "id": 162,
@@ -1297,7 +1426,8 @@
     "geonames_url": "https://sws.geonames.org/12317666/",
     "Working Notes": "Working Notes",
     "latitude": "49.13808",
-    "longitude": "6.79017"
+    "longitude": "6.79017",
+    "wikidata_url": ""
   },
   "163": {
     "id": 163,
@@ -1307,7 +1437,8 @@
     "geonames_url": "https://sws.geonames.org/2713762/",
     "Working Notes": "Unsichere Angabe",
     "latitude": "60.13333",
-    "longitude": "14.38333"
+    "longitude": "14.38333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1317694"
   },
   "164": {
     "id": 164,
@@ -1317,7 +1448,8 @@
     "geonames_url": "https://sws.geonames.org/2925177/",
     "Working Notes": "Working Notes",
     "latitude": "47.99590",
-    "longitude": "7.85222"
+    "longitude": "7.85222",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2833"
   },
   "168": {
     "id": 168,
@@ -1327,7 +1459,8 @@
     "geonames_url": "https://sws.geonames.org/2953458/",
     "Working Notes": "Working Notes",
     "latitude": "52.78730",
-    "longitude": "14.03040"
+    "longitude": "14.03040",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31897099"
   },
   "170": {
     "id": 170,
@@ -1337,7 +1470,8 @@
     "geonames_url": "https://sws.geonames.org/2924577/",
     "Working Notes": "Working Notes",
     "latitude": "52.45052",
-    "longitude": "13.62463"
+    "longitude": "13.62463",
+    "wikidata_url": "http://www.wikidata.org/entity/Q563528"
   },
   "171": {
     "id": 171,
@@ -1347,7 +1481,8 @@
     "geonames_url": "",
     "Working Notes": "Vermutlich nicht die Stadt in Italien sondern ->Tillich in o.O (Westfront) 8. Juni 1916 (siehe tillich_place_id__469 & L00492)Doppelt",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "172": {
     "id": 172,
@@ -1357,7 +1492,8 @@
     "geonames_url": "https://sws.geonames.org/562153/",
     "Working Notes": "Working Notes",
     "latitude": "49.50000",
-    "longitude": "23.00000"
+    "longitude": "23.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q180086"
   },
   "173": {
     "id": 173,
@@ -1367,7 +1503,8 @@
     "geonames_url": "https://sws.geonames.org/2922102/",
     "Working Notes": "Working Notes",
     "latitude": "53.43575",
-    "longitude": "10.37790"
+    "longitude": "10.37790",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32027120"
   },
   "174": {
     "id": 174,
@@ -1377,7 +1514,8 @@
     "geonames_url": "https://sws.geonames.org/3176219/",
     "Working Notes": "Working Notes",
     "latitude": "44.40478",
-    "longitude": "8.94439"
+    "longitude": "8.94439",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33675638"
   },
   "175": {
     "id": 175,
@@ -1387,7 +1525,8 @@
     "geonames_url": "https://sws.geonames.org/2920512/",
     "Working Notes": "Working Notes",
     "latitude": "50.58727",
-    "longitude": "8.67554"
+    "longitude": "8.67554",
+    "wikidata_url": ""
   },
   "177": {
     "id": 177,
@@ -1397,7 +1536,8 @@
     "geonames_url": "https://sws.geonames.org/6458011/",
     "Working Notes": "Working Notes",
     "latitude": "47.09858",
-    "longitude": "9.06247"
+    "longitude": "9.06247",
+    "wikidata_url": ""
   },
   "178": {
     "id": 178,
@@ -1407,7 +1547,8 @@
     "geonames_url": "https://sws.geonames.org/2660594/",
     "Working Notes": "Working Notes",
     "latitude": "47.04057",
-    "longitude": "9.06804"
+    "longitude": "9.06804",
+    "wikidata_url": "http://www.wikidata.org/entity/Q15730054"
   },
   "179": {
     "id": 179,
@@ -1417,7 +1558,8 @@
     "geonames_url": "https://sws.geonames.org/771804/",
     "Working Notes": "Working Notes",
     "latitude": "49.65563",
-    "longitude": "21.16035"
+    "longitude": "21.16035",
+    "wikidata_url": "http://www.wikidata.org/entity/Q947521"
   },
   "180": {
     "id": 180,
@@ -1427,7 +1569,8 @@
     "geonames_url": "https://sws.geonames.org/2918840/",
     "Working Notes": "Working Notes",
     "latitude": "51.90425",
-    "longitude": "10.42766"
+    "longitude": "10.42766",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32038334"
   },
   "181": {
     "id": 181,
@@ -1437,7 +1580,8 @@
     "geonames_url": "https://sws.geonames.org/2917788/",
     "Working Notes": "Working Notes",
     "latitude": "54.09311",
-    "longitude": "13.38786"
+    "longitude": "13.38786",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32041909"
   },
   "182": {
     "id": 182,
@@ -1447,7 +1591,8 @@
     "geonames_url": "https://sws.geonames.org/2925533/",
     "Working Notes": "Working Notes",
     "latitude": "50.11552",
-    "longitude": "8.68417"
+    "longitude": "8.68417",
+    "wikidata_url": "http://www.wikidata.org/entity/Q122166308"
   },
   "183": {
     "id": 183,
@@ -1457,7 +1602,8 @@
     "geonames_url": "https://sws.geonames.org/2914210/",
     "Working Notes": "Working Notes",
     "latitude": "52.48338",
-    "longitude": "13.26586"
+    "longitude": "13.26586",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2874431"
   },
   "184": {
     "id": 184,
@@ -1467,7 +1613,8 @@
     "geonames_url": "https://sws.geonames.org/3014195/",
     "Working Notes": "Working Notes",
     "latitude": "49.90055",
-    "longitude": "3.62801"
+    "longitude": "3.62801",
+    "wikidata_url": "http://www.wikidata.org/entity/Q271093"
   },
   "185": {
     "id": 185,
@@ -1477,7 +1624,8 @@
     "geonames_url": "https://sws.geonames.org/2659383/",
     "Working Notes": "Working Notes",
     "latitude": "46.77644",
-    "longitude": "7.54264"
+    "longitude": "7.54264",
+    "wikidata_url": ""
   },
   "186": {
     "id": 186,
@@ -1487,7 +1635,8 @@
     "geonames_url": "https://sws.geonames.org/2918632/",
     "Working Notes": "Working Notes",
     "latitude": "51.53443",
-    "longitude": "9.93228"
+    "longitude": "9.93228",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3033"
   },
   "187": {
     "id": 187,
@@ -1497,7 +1646,8 @@
     "geonames_url": "https://sws.geonames.org/2913366/",
     "Working Notes": "Working Notes",
     "latitude": "51.90693",
-    "longitude": "8.37853"
+    "longitude": "8.37853",
+    "wikidata_url": "http://www.wikidata.org/entity/Q11042201"
   },
   "188": {
     "id": 188,
@@ -1507,7 +1657,8 @@
     "geonames_url": "https://sws.geonames.org/2911665/",
     "Working Notes": "Working Notes",
     "latitude": "51.89562",
-    "longitude": "11.05622"
+    "longitude": "11.05622",
+    "wikidata_url": ""
   },
   "189": {
     "id": 189,
@@ -1517,7 +1668,8 @@
     "geonames_url": "https://sws.geonames.org/2911522/",
     "Working Notes": "Working Notes",
     "latitude": "51.48158",
-    "longitude": "11.97947"
+    "longitude": "11.97947",
+    "wikidata_url": "http://www.wikidata.org/entity/Q445500"
   },
   "196": {
     "id": 196,
@@ -1527,7 +1679,8 @@
     "geonames_url": "https://sws.geonames.org/2883797/",
     "Working Notes": "(Kröllwitz, Halle)",
     "latitude": "51.50684",
-    "longitude": "11.95128"
+    "longitude": "11.95128",
+    "wikidata_url": ""
   },
   "198": {
     "id": 198,
@@ -1537,7 +1690,8 @@
     "geonames_url": "https://sws.geonames.org/2911298/",
     "Working Notes": "Working Notes",
     "latitude": "53.55073",
-    "longitude": "9.99302"
+    "longitude": "9.99302",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1055"
   },
   "199": {
     "id": 199,
@@ -1547,7 +1701,8 @@
     "geonames_url": "https://sws.geonames.org/2911298/",
     "Working Notes": "(Hamburg Ost Stadtteil)",
     "latitude": "53.55073",
-    "longitude": "9.99302"
+    "longitude": "9.99302",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1055"
   },
   "200": {
     "id": 200,
@@ -1557,7 +1712,8 @@
     "geonames_url": "https://sws.geonames.org/2910831/",
     "Working Notes": "Working Notes",
     "latitude": "52.37052",
-    "longitude": "9.73322"
+    "longitude": "9.73322",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32052205"
   },
   "201": {
     "id": 201,
@@ -1567,7 +1723,8 @@
     "geonames_url": "https://sws.geonames.org/2909965/",
     "Working Notes": "Working Notes",
     "latitude": "51.75619",
-    "longitude": "10.63462"
+    "longitude": "10.63462",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4186"
   },
   "202": {
     "id": 202,
@@ -1577,7 +1734,8 @@
     "geonames_url": "https://sws.geonames.org/2909794/",
     "Working Notes": "Working Notes",
     "latitude": "52.54409",
-    "longitude": "13.23743"
+    "longitude": "13.23743",
+    "wikidata_url": "http://www.wikidata.org/entity/Q266024"
   },
   "203": {
     "id": 203,
@@ -1587,7 +1745,8 @@
     "geonames_url": "https://sws.geonames.org/2907911/",
     "Working Notes": "Working Notes",
     "latitude": "49.40768",
-    "longitude": "8.69079"
+    "longitude": "8.69079",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2966"
   },
   "204": {
     "id": 204,
@@ -1597,7 +1756,8 @@
     "geonames_url": "https://sws.geonames.org/2907669/",
     "Working Notes": "Working Notes",
     "latitude": "49.13995",
-    "longitude": "9.22054"
+    "longitude": "9.22054",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32055580"
   },
   "205": {
     "id": 205,
@@ -1607,7 +1767,8 @@
     "geonames_url": "https://sws.geonames.org/2906837/",
     "Working Notes": "Working Notes",
     "latitude": "51.11667",
-    "longitude": "13.75000"
+    "longitude": "13.75000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q8920"
   },
   "206": {
     "id": 206,
@@ -1617,7 +1778,8 @@
     "geonames_url": "https://sws.geonames.org/2906268/",
     "Working Notes": "Working Notes",
     "latitude": "49.64145",
-    "longitude": "8.63206"
+    "longitude": "8.63206",
+    "wikidata_url": ""
   },
   "207": {
     "id": 207,
@@ -1627,7 +1789,8 @@
     "geonames_url": "https://sws.geonames.org/2833988/",
     "Working Notes": "Working Notes",
     "latitude": "53.95379",
-    "longitude": "14.16852"
+    "longitude": "14.16852",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32296746"
   },
   "208": {
     "id": 208,
@@ -1637,7 +1800,8 @@
     "geonames_url": "https://sws.geonames.org/2953439/",
     "Working Notes": "Working Notes",
     "latitude": "50.87197",
-    "longitude": "9.70891"
+    "longitude": "9.70891",
+    "wikidata_url": ""
   },
   "209": {
     "id": 209,
@@ -1647,7 +1811,8 @@
     "geonames_url": "https://sws.geonames.org/2904789/",
     "Working Notes": "Working Notes",
     "latitude": "52.15077",
-    "longitude": "9.95112"
+    "longitude": "9.95112",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32058340"
   },
   "210": {
     "id": 210,
@@ -1657,7 +1822,8 @@
     "geonames_url": "https://sws.geonames.org/2904719/",
     "Working Notes": "Working Notes",
     "latitude": "51.99461",
-    "longitude": "8.60298"
+    "longitude": "8.60298",
+    "wikidata_url": ""
   },
   "211": {
     "id": 211,
@@ -1667,7 +1833,8 @@
     "geonames_url": "",
     "Working Notes": "Gibt kein Hinterpommern in GN(West Pommern gibts aber Ost Pommern(Hinterpommern) gibts nicht in GeoNames)",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "212": {
     "id": 212,
@@ -1677,7 +1844,8 @@
     "geonames_url": "https://sws.geonames.org/3013258/",
     "Working Notes": "",
     "latitude": "49.92262",
-    "longitude": "4.08259"
+    "longitude": "4.08259",
+    "wikidata_url": "http://www.wikidata.org/entity/Q271090"
   },
   "213": {
     "id": 213,
@@ -1687,7 +1855,8 @@
     "geonames_url": "https://sws.geonames.org/2901588/",
     "Working Notes": "",
     "latitude": "52.67631",
-    "longitude": "13.27775"
+    "longitude": "13.27775",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32059729"
   },
   "215": {
     "id": 215,
@@ -1697,7 +1866,8 @@
     "geonames_url": "https://sws.geonames.org/2899880/",
     "Working Notes": "",
     "latitude": "48.63969",
-    "longitude": "9.01149"
+    "longitude": "9.01149",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32060149"
   },
   "216": {
     "id": 216,
@@ -1707,7 +1877,8 @@
     "geonames_url": "",
     "Working Notes": "Unsicher in welchem Homberg Friedrich Büchsel war (L00268) Homberg Ohm oder Efze? (Unter Umständen Hesse bei Ort angeben)",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "217": {
     "id": 217,
@@ -1717,7 +1888,8 @@
     "geonames_url": "https://sws.geonames.org/2775220/",
     "Working Notes": "Working Notes",
     "latitude": "47.26266",
-    "longitude": "11.39454"
+    "longitude": "11.39454",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32060456"
   },
   "218": {
     "id": 218,
@@ -1727,7 +1899,8 @@
     "geonames_url": "https://sws.geonames.org/2660253/",
     "Working Notes": "",
     "latitude": "46.68387",
-    "longitude": "7.86638"
+    "longitude": "7.86638",
+    "wikidata_url": ""
   },
   "219": {
     "id": 219,
@@ -1737,7 +1910,8 @@
     "geonames_url": "https://sws.geonames.org/3175395/",
     "Working Notes": "",
     "latitude": "42.83333",
-    "longitude": "12.83333"
+    "longitude": "12.83333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q38"
   },
   "220": {
     "id": 220,
@@ -1747,7 +1921,8 @@
     "geonames_url": "https://sws.geonames.org/3166350/",
     "Working Notes": "Doppelung in (407)",
     "latitude": "40.62678",
-    "longitude": "14.37771"
+    "longitude": "14.37771",
+    "wikidata_url": "http://www.wikidata.org/entity/Q30030832"
   },
   "221": {
     "id": 221,
@@ -1757,7 +1932,8 @@
     "geonames_url": "https://sws.geonames.org/2895248/",
     "Working Notes": "Jacobsdorf (Mark) -> Unsicher Relevanz für Mark (284)",
     "latitude": "52.33333",
-    "longitude": "14.35000"
+    "longitude": "14.35000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32062863"
   },
   "223": {
     "id": 223,
@@ -1767,7 +1943,8 @@
     "geonames_url": "https://sws.geonames.org/2895482/",
     "Working Notes": "",
     "latitude": "53.36123",
-    "longitude": "8.25355"
+    "longitude": "8.25355",
+    "wikidata_url": "http://www.wikidata.org/entity/Q835271"
   },
   "224": {
     "id": 224,
@@ -1777,7 +1954,8 @@
     "geonames_url": "https://sws.geonames.org/2895044/",
     "Working Notes": "",
     "latitude": "50.92878",
-    "longitude": "11.58990"
+    "longitude": "11.58990",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32063050"
   },
   "225": {
     "id": 225,
@@ -1787,7 +1965,8 @@
     "geonames_url": "https://sws.geonames.org/281184/",
     "Working Notes": "",
     "latitude": "31.76904",
-    "longitude": "35.21633"
+    "longitude": "35.21633",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1218"
   },
   "227": {
     "id": 227,
@@ -1797,7 +1976,8 @@
     "geonames_url": "https://sws.geonames.org/3011999/",
     "Working Notes": "",
     "latitude": "49.44762",
-    "longitude": "3.31821"
+    "longitude": "3.31821",
+    "wikidata_url": ""
   },
   "230": {
     "id": 230,
@@ -1807,7 +1987,8 @@
     "geonames_url": "https://sws.geonames.org/2893295/",
     "Working Notes": "Working Notes",
     "latitude": "54.95411",
-    "longitude": "8.34171"
+    "longitude": "8.34171",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32063863"
   },
   "233": {
     "id": 233,
@@ -1817,7 +1998,8 @@
     "geonames_url": "https://sws.geonames.org/3209432/",
     "Working Notes": "Karlsbad (Deutschland)",
     "latitude": "48.90617",
-    "longitude": "8.50412"
+    "longitude": "8.50412",
+    "wikidata_url": "http://www.wikidata.org/entity/Q542659"
   },
   "234": {
     "id": 234,
@@ -1827,7 +2009,8 @@
     "geonames_url": "https://sws.geonames.org/2892794/",
     "Working Notes": "",
     "latitude": "49.00937",
-    "longitude": "8.40444"
+    "longitude": "8.40444",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1040"
   },
   "236": {
     "id": 236,
@@ -1837,7 +2020,8 @@
     "geonames_url": "https://sws.geonames.org/2892518/",
     "Working Notes": "",
     "latitude": "51.31667",
-    "longitude": "9.50000"
+    "longitude": "9.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067925"
   },
   "238": {
     "id": 238,
@@ -1847,7 +2031,8 @@
     "geonames_url": "https://sws.geonames.org/2891122/",
     "Working Notes": "Kiel (Deutschland)",
     "latitude": "54.32133",
-    "longitude": "10.13489"
+    "longitude": "10.13489",
+    "wikidata_url": ""
   },
   "239": {
     "id": 239,
@@ -1857,7 +2042,8 @@
     "geonames_url": "https://sws.geonames.org/2886946/",
     "Working Notes": "Working Notes",
     "latitude": "50.35357",
-    "longitude": "7.57883"
+    "longitude": "7.57883",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3104"
   },
   "240": {
     "id": 240,
@@ -1867,7 +2053,8 @@
     "geonames_url": "https://sws.geonames.org/2618425/",
     "Working Notes": "",
     "latitude": "55.67594",
-    "longitude": "12.56553"
+    "longitude": "12.56553",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1748"
   },
   "241": {
     "id": 241,
@@ -1877,7 +2064,8 @@
     "geonames_url": "https://sws.geonames.org/6557968/",
     "Working Notes": "",
     "latitude": "48.83139",
-    "longitude": "9.12234"
+    "longitude": "9.12234",
+    "wikidata_url": "http://www.wikidata.org/entity/Q61663"
   },
   "242": {
     "id": 242,
@@ -1887,7 +2075,8 @@
     "geonames_url": "https://sws.geonames.org/2885392/",
     "Working Notes": "Korsika (Deutschland)",
     "latitude": "49.52004",
-    "longitude": "8.85634"
+    "longitude": "8.85634",
+    "wikidata_url": ""
   },
   "243": {
     "id": 243,
@@ -1897,7 +2086,8 @@
     "geonames_url": "https://sws.geonames.org/3094802/",
     "Working Notes": "(Unklar welches Krakau hier gemeint ist Deutschland, Österreich, Polen?), Datei Referenz nicht gefunden",
     "latitude": "50.06143",
-    "longitude": "19.93658"
+    "longitude": "19.93658",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31487"
   },
   "244": {
     "id": 244,
@@ -1907,7 +2097,8 @@
     "geonames_url": "https://sws.geonames.org/2886242/",
     "Working Notes": "",
     "latitude": "50.93333",
-    "longitude": "6.95000"
+    "longitude": "6.95000",
+    "wikidata_url": ""
   },
   "245": {
     "id": 245,
@@ -1917,7 +2108,8 @@
     "geonames_url": "https://sws.geonames.org/3101675/",
     "Working Notes": "(geonames -> chojna, nicht identisch)Wiki: Der Kreis Königsberg Nm., bis ins 19. Jahrhundert auch Königsberger Kreis genannt, war ein preußischer Landkreis in der Neumark in der Provinz Brandenburg, der bis 1946 bestand",
     "latitude": "52.96389",
-    "longitude": "14.42797"
+    "longitude": "14.42797",
+    "wikidata_url": "http://www.wikidata.org/entity/Q954157"
   },
   "246": {
     "id": 246,
@@ -1927,7 +2119,8 @@
     "geonames_url": "https://sws.geonames.org/2953418/",
     "Working Notes": "(Bad Kösen -> Eisenacher Konferenz)",
     "latitude": "51.13431",
-    "longitude": "11.72203"
+    "longitude": "11.72203",
+    "wikidata_url": "http://www.wikidata.org/entity/Q574451"
   },
   "247": {
     "id": 247,
@@ -1937,7 +2130,8 @@
     "geonames_url": "https://sws.geonames.org/2885071/",
     "Working Notes": "",
     "latitude": "51.10395",
-    "longitude": "13.62940"
+    "longitude": "13.62940",
+    "wikidata_url": ""
   },
   "248": {
     "id": 248,
@@ -1947,7 +2141,8 @@
     "geonames_url": "https://sws.geonames.org/3009461/",
     "Working Notes": "",
     "latitude": "49.44869",
-    "longitude": "3.42642"
+    "longitude": "3.42642",
+    "wikidata_url": ""
   },
   "249": {
     "id": 249,
@@ -1957,7 +2152,8 @@
     "geonames_url": "https://sws.geonames.org/3035888/",
     "Working Notes": "(Wälder Autry angegeben, nicht ganz sicher) -> Siehe (Bahnhof) Autry https://www.verdun14-18.de/tag/saalburg-lager/",
     "latitude": "49.27197",
-    "longitude": "4.81416"
+    "longitude": "4.81416",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49325814"
   },
   "250": {
     "id": 250,
@@ -1967,7 +2163,8 @@
     "geonames_url": "https://sws.geonames.org/3035888/",
     "Working Notes": "Wälder Autry angegeben, nicht ganz sicher -> Siehe Autry, Saalburg Lager -> https://www.verdun14-18.de/bahnhof-autry-und-saalburg-lager/",
     "latitude": "49.27197",
-    "longitude": "4.81416"
+    "longitude": "4.81416",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49325814"
   },
   "251": {
     "id": 251,
@@ -1977,7 +2174,8 @@
     "geonames_url": "https://sws.geonames.org/3175239/",
     "Working Notes": "",
     "latitude": "43.97590",
-    "longitude": "8.15823"
+    "longitude": "8.15823",
+    "wikidata_url": "http://www.wikidata.org/entity/Q30026464"
   },
   "252": {
     "id": 252,
@@ -1987,7 +2185,8 @@
     "geonames_url": "https://sws.geonames.org/2773069/",
     "Working Notes": "",
     "latitude": "47.12575",
-    "longitude": "10.56679"
+    "longitude": "10.56679",
+    "wikidata_url": "http://www.wikidata.org/entity/Q665605"
   },
   "253": {
     "id": 253,
@@ -1997,7 +2196,8 @@
     "geonames_url": "https://sws.geonames.org/3004513/",
     "Working Notes": "",
     "latitude": "48.36053",
-    "longitude": "-4.77086"
+    "longitude": "-4.77086",
+    "wikidata_url": "http://www.wikidata.org/entity/Q326149"
   },
   "254": {
     "id": 254,
@@ -2007,7 +2207,8 @@
     "geonames_url": "https://sws.geonames.org/3003796/",
     "Working Notes": "",
     "latitude": "49.49346",
-    "longitude": "0.10785"
+    "longitude": "0.10785",
+    "wikidata_url": "http://www.wikidata.org/entity/Q42810"
   },
   "255": {
     "id": 255,
@@ -2017,7 +2218,8 @@
     "geonames_url": "https://sws.geonames.org/3014161/",
     "Working Notes": "Guny genommen -> Mont Guny nicht verfügbar (Weltkriegkkontext: tillich__1914-12-27-tillich-p-an-familie_227)",
     "latitude": "49.51905",
-    "longitude": "3.26905"
+    "longitude": "3.26905",
+    "wikidata_url": ""
   },
   "256": {
     "id": 256,
@@ -2027,7 +2229,8 @@
     "geonames_url": "https://sws.geonames.org/7522158/",
     "Working Notes": "",
     "latitude": "48.63603",
-    "longitude": "-1.51139"
+    "longitude": "-1.51139",
+    "wikidata_url": "http://www.wikidata.org/entity/Q20892"
   },
   "257": {
     "id": 257,
@@ -2037,7 +2240,8 @@
     "geonames_url": "https://sws.geonames.org/3003045/",
     "Working Notes": "",
     "latitude": "47.34630",
-    "longitude": "-3.15583"
+    "longitude": "-3.15583",
+    "wikidata_url": "http://www.wikidata.org/entity/Q128745"
   },
   "258": {
     "id": 258,
@@ -2047,7 +2251,8 @@
     "geonames_url": "https://sws.geonames.org/2972208/",
     "Working Notes": "Schloss Chateau nördlich von Tournon-Saint-Pierre",
     "latitude": "46.73928",
-    "longitude": "0.95268"
+    "longitude": "0.95268",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1170614"
   },
   "259": {
     "id": 259,
@@ -2057,7 +2262,8 @@
     "geonames_url": "",
     "Working Notes": "\"<!--Quartier o. ä. in Chemnitz?-->\" Kommentar von AB in tillich__1907-tillich-p-an-fritz-a-hatte-ich_81",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "260": {
     "id": 260,
@@ -2067,7 +2273,8 @@
     "geonames_url": "https://sws.geonames.org/2879139/",
     "Working Notes": "",
     "latitude": "51.33962",
-    "longitude": "12.37129"
+    "longitude": "12.37129",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2079"
   },
   "261": {
     "id": 261,
@@ -2077,7 +2284,8 @@
     "geonames_url": "https://sws.geonames.org/2999029/",
     "Working Notes": "Leuilly-sous-Coucy02380",
     "latitude": "49.47845",
-    "longitude": "3.35879"
+    "longitude": "3.35879",
+    "wikidata_url": ""
   },
   "263": {
     "id": 263,
@@ -2087,7 +2295,8 @@
     "geonames_url": "https://sws.geonames.org/2999022/",
     "Working Notes": "",
     "latitude": "49.43036",
-    "longitude": "3.33726"
+    "longitude": "3.33726",
+    "wikidata_url": "http://www.wikidata.org/entity/Q846041"
   },
   "266": {
     "id": 266,
@@ -2097,7 +2306,8 @@
     "geonames_url": "https://sws.geonames.org/2998324/",
     "Working Notes": "Working Notes",
     "latitude": "50.63297",
-    "longitude": "3.05858"
+    "longitude": "3.05858",
+    "wikidata_url": "http://www.wikidata.org/entity/Q648"
   },
   "267": {
     "id": 267,
@@ -2107,7 +2317,8 @@
     "geonames_url": "https://sws.geonames.org/2998160/",
     "Working Notes": "",
     "latitude": "49.30704",
-    "longitude": "4.65971"
+    "longitude": "4.65971",
+    "wikidata_url": ""
   },
   "268": {
     "id": 268,
@@ -2117,7 +2328,8 @@
     "geonames_url": "https://sws.geonames.org/2267057/",
     "Working Notes": "",
     "latitude": "38.71667",
-    "longitude": "-9.13333"
+    "longitude": "-9.13333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q597"
   },
   "269": {
     "id": 269,
@@ -2127,7 +2339,8 @@
     "geonames_url": "https://sws.geonames.org/2644210/",
     "Working Notes": "Liverpool (United Kingdom, England)",
     "latitude": "53.41058",
-    "longitude": "-2.97794"
+    "longitude": "-2.97794",
+    "wikidata_url": "http://www.wikidata.org/entity/Q24826"
   },
   "270": {
     "id": 270,
@@ -2137,7 +2350,8 @@
     "geonames_url": "https://sws.geonames.org/2876215/",
     "Working Notes": "",
     "latitude": "54.58313",
-    "longitude": "13.61067"
+    "longitude": "13.61067",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32101560"
   },
   "271": {
     "id": 271,
@@ -2147,7 +2361,8 @@
     "geonames_url": "https://sws.geonames.org/2643743/",
     "Working Notes": "",
     "latitude": "51.50853",
-    "longitude": "-0.12574"
+    "longitude": "-0.12574",
+    "wikidata_url": "http://www.wikidata.org/entity/Q84"
   },
   "272": {
     "id": 272,
@@ -2157,7 +2372,8 @@
     "geonames_url": "https://sws.geonames.org/2659836/",
     "Working Notes": "Lugano (Switzerland)",
     "latitude": "46.01008",
-    "longitude": "8.96004"
+    "longitude": "8.96004",
+    "wikidata_url": "http://www.wikidata.org/entity/Q7024"
   },
   "273": {
     "id": 273,
@@ -2167,7 +2383,8 @@
     "geonames_url": "https://sws.geonames.org/3117814/",
     "Working Notes": "Lugo (Spanien)",
     "latitude": "43.00992",
-    "longitude": "-7.55602"
+    "longitude": "-7.55602",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31917885"
   },
   "274": {
     "id": 274,
@@ -2177,7 +2394,8 @@
     "geonames_url": "https://sws.geonames.org/2875601/",
     "Working Notes": "",
     "latitude": "53.86893",
-    "longitude": "10.68729"
+    "longitude": "10.68729",
+    "wikidata_url": ""
   },
   "275": {
     "id": 275,
@@ -2187,7 +2405,8 @@
     "geonames_url": "https://sws.geonames.org/2874545/",
     "Working Notes": "",
     "latitude": "52.12773",
-    "longitude": "11.62916"
+    "longitude": "11.62916",
+    "wikidata_url": ""
   },
   "276": {
     "id": 276,
@@ -2197,7 +2416,8 @@
     "geonames_url": "https://sws.geonames.org/2873960/",
     "Working Notes": "",
     "latitude": "50.67828",
-    "longitude": "10.85779"
+    "longitude": "10.85779",
+    "wikidata_url": ""
   },
   "277": {
     "id": 277,
@@ -2207,7 +2427,8 @@
     "geonames_url": "https://sws.geonames.org/2873891/",
     "Working Notes": "",
     "latitude": "49.48910",
-    "longitude": "8.46694"
+    "longitude": "8.46694",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2119"
   },
   "278": {
     "id": 278,
@@ -2217,7 +2438,8 @@
     "geonames_url": "https://sws.geonames.org/2659766/",
     "Working Notes": "",
     "latitude": "46.85441",
-    "longitude": "7.89966"
+    "longitude": "7.89966",
+    "wikidata_url": "http://www.wikidata.org/entity/Q67493"
   },
   "279": {
     "id": 279,
@@ -2227,7 +2449,8 @@
     "geonames_url": "https://sws.geonames.org/2873759/",
     "Working Notes": "",
     "latitude": "50.80904",
-    "longitude": "8.77069"
+    "longitude": "8.77069",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32121710"
   },
   "284": {
     "id": 284,
@@ -2237,7 +2460,8 @@
     "geonames_url": "https://sws.geonames.org/2873444/",
     "Working Notes": "unsichere GeoNamesAnagabe, Ansatz(L00196): https://gedbas.genealogy.net/person/show/1426800944",
     "latitude": "51.68304",
-    "longitude": "7.85279"
+    "longitude": "7.85279",
+    "wikidata_url": ""
   },
   "285": {
     "id": 285,
@@ -2247,7 +2471,8 @@
     "geonames_url": "",
     "Working Notes": "(mgl. Maranuit, 05350 Arvieux, Frankreich -> https://maps.app.goo.gl/ehYHTEpYXsPXLHqb6)",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "286": {
     "id": 286,
@@ -2257,7 +2482,8 @@
     "geonames_url": "",
     "Working Notes": "Maranuit, 05350 Arvieux, Frankreich -> https://maps.app.goo.gl/ehYHTEpYXsPXLHqb6",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "287": {
     "id": 287,
@@ -2267,7 +2493,8 @@
     "geonames_url": "https://sws.geonames.org/3092151/",
     "Working Notes": "",
     "latitude": "51.66796",
-    "longitude": "17.59808"
+    "longitude": "17.59808",
+    "wikidata_url": "http://www.wikidata.org/entity/Q735089"
   },
   "288": {
     "id": 288,
@@ -2277,7 +2504,8 @@
     "geonames_url": "https://sws.geonames.org/2872567/",
     "Working Notes": "Mecklenburg Westpommern",
     "latitude": "53.83333",
-    "longitude": "12.50000"
+    "longitude": "12.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1196"
   },
   "289": {
     "id": 289,
@@ -2287,7 +2515,8 @@
     "geonames_url": "https://sws.geonames.org/12319349/",
     "Working Notes": "Working Notes",
     "latitude": "43.52543",
-    "longitude": "6.28306"
+    "longitude": "6.28306",
+    "wikidata_url": ""
   },
   "291": {
     "id": 291,
@@ -2297,7 +2526,8 @@
     "geonames_url": "https://sws.geonames.org/99237/",
     "Working Notes": "Als Iraq angegeben",
     "latitude": "33.00000",
-    "longitude": "44.00000"
+    "longitude": "44.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q796"
   },
   "292": {
     "id": 292,
@@ -2307,7 +2537,8 @@
     "geonames_url": "https://sws.geonames.org/2994160/",
     "Working Notes": "",
     "latitude": "49.11911",
-    "longitude": "6.17269"
+    "longitude": "6.17269",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22690"
   },
   "293": {
     "id": 293,
@@ -2317,7 +2548,8 @@
     "geonames_url": "https://sws.geonames.org/3091961/",
     "Working Notes": "",
     "latitude": "53.92921",
-    "longitude": "14.45097"
+    "longitude": "14.45097",
+    "wikidata_url": "http://www.wikidata.org/entity/Q148615"
   },
   "297": {
     "id": 297,
@@ -2327,7 +2559,8 @@
     "geonames_url": "https://sws.geonames.org/3091435/",
     "Working Notes": "",
     "latitude": "52.85769",
-    "longitude": "14.39297"
+    "longitude": "14.39297",
+    "wikidata_url": "http://www.wikidata.org/entity/Q988602"
   },
   "298": {
     "id": 298,
@@ -2337,7 +2570,8 @@
     "geonames_url": "https://sws.geonames.org/2993207/",
     "Working Notes": "",
     "latitude": "50.63333",
-    "longitude": "3.11667"
+    "longitude": "3.11667",
+    "wikidata_url": "http://www.wikidata.org/entity/Q35732297"
   },
   "299": {
     "id": 299,
@@ -2347,7 +2581,8 @@
     "geonames_url": "https://sws.geonames.org/3029374/",
     "Working Notes": "",
     "latitude": "48.89250",
-    "longitude": "2.34440"
+    "longitude": "2.34440",
+    "wikidata_url": "http://www.wikidata.org/entity/Q186115"
   },
   "300": {
     "id": 300,
@@ -2357,7 +2592,8 @@
     "geonames_url": "https://sws.geonames.org/3011999/",
     "Working Notes": "Montécouvé 02880 Juvigny Frankreich -> https://www.google.com/maps/place/Montécouvé,+02880+Juvigny,+Frankreich/@49.4596905,3.298654,15z/data=!3m1!4b1!4m6!3m5!1s0x47e85ce01d996091:0x260af13f800baa91!8m2!3d49.459691!4d3.298654!16s%2Fg%2F1tg67f7l?entry=ttu",
     "latitude": "49.44762",
-    "longitude": "3.31821"
+    "longitude": "3.31821",
+    "wikidata_url": ""
   },
   "302": {
     "id": 302,
@@ -2367,7 +2603,8 @@
     "geonames_url": "https://sws.geonames.org/7533525/",
     "Working Notes": "",
     "latitude": "52.86010",
-    "longitude": "14.40070"
+    "longitude": "14.40070",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33694693"
   },
   "303": {
     "id": 303,
@@ -2377,7 +2614,8 @@
     "geonames_url": "https://sws.geonames.org/6453592/",
     "Working Notes": "",
     "latitude": "49.31000",
-    "longitude": "4.78389"
+    "longitude": "4.78389",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1084909"
   },
   "304": {
     "id": 304,
@@ -2387,7 +2625,8 @@
     "geonames_url": "https://sws.geonames.org/2916161/",
     "Working Notes": "Working Notes",
     "latitude": "52.43781",
-    "longitude": "13.64981"
+    "longitude": "13.64981",
+    "wikidata_url": "http://www.wikidata.org/entity/Q694789"
   },
   "305": {
     "id": 305,
@@ -2397,7 +2636,8 @@
     "geonames_url": "https://sws.geonames.org/2867996/",
     "Working Notes": "Mühlhausen (Thüring.)",
     "latitude": "51.20896",
-    "longitude": "10.45275"
+    "longitude": "10.45275",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32664001"
   },
   "306": {
     "id": 306,
@@ -2407,7 +2647,8 @@
     "geonames_url": "https://sws.geonames.org/2867714/",
     "Working Notes": "",
     "latitude": "48.13743",
-    "longitude": "11.57549"
+    "longitude": "11.57549",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32664319"
   },
   "307": {
     "id": 307,
@@ -2417,7 +2658,8 @@
     "geonames_url": "https://sws.geonames.org/2867543/",
     "Working Notes": "",
     "latitude": "51.96236",
-    "longitude": "7.62571"
+    "longitude": "7.62571",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33158887"
   },
   "308": {
     "id": 308,
@@ -2427,7 +2669,8 @@
     "geonames_url": "https://sws.geonames.org/6614363/",
     "Working Notes": "",
     "latitude": "48.22361",
-    "longitude": "3.22306"
+    "longitude": "3.22306",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1173964"
   },
   "309": {
     "id": 309,
@@ -2437,7 +2680,8 @@
     "geonames_url": "https://sws.geonames.org/2790471/",
     "Working Notes": "",
     "latitude": "50.46690",
-    "longitude": "4.86746"
+    "longitude": "4.86746",
+    "wikidata_url": "http://www.wikidata.org/entity/Q51389725"
   },
   "310": {
     "id": 310,
@@ -2447,7 +2691,8 @@
     "geonames_url": "https://sws.geonames.org/2790471/",
     "Working Notes": "",
     "latitude": "50.46690",
-    "longitude": "4.86746"
+    "longitude": "4.86746",
+    "wikidata_url": "http://www.wikidata.org/entity/Q51389725"
   },
   "311": {
     "id": 311,
@@ -2457,7 +2702,8 @@
     "geonames_url": "https://sws.geonames.org/2866906/",
     "Working Notes": "Naumburg (Saale) -> 1 Wk. Denkmal",
     "latitude": "51.14987",
-    "longitude": "11.80979"
+    "longitude": "11.80979",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32174717"
   },
   "312": {
     "id": 312,
@@ -2467,7 +2713,8 @@
     "geonames_url": "https://sws.geonames.org/2864276/",
     "Working Notes": "Neuruppin",
     "latitude": "52.92815",
-    "longitude": "12.80311"
+    "longitude": "12.80311",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32183911"
   },
   "314": {
     "id": 314,
@@ -2477,7 +2724,8 @@
     "geonames_url": "https://sws.geonames.org/2866049/",
     "Working Notes": "(Brief betrifft Johanna Tillich, Neudamm (am großen Bruch, Deutschland)wegen Johannes Ortsnähe in Dölzig, wahrscheinlicher als Dębno(Neudamm) in Polen",
     "latitude": "52.02932",
-    "longitude": "11.09422"
+    "longitude": "11.09422",
+    "wikidata_url": "http://www.wikidata.org/entity/Q110531038"
   },
   "317": {
     "id": 317,
@@ -2487,7 +2735,8 @@
     "geonames_url": "https://sws.geonames.org/2864694/",
     "Working Notes": "Neukölln(Berlin District)",
     "latitude": "52.48333",
-    "longitude": "13.45000"
+    "longitude": "13.45000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4071168"
   },
   "318": {
     "id": 318,
@@ -2497,7 +2746,8 @@
     "geonames_url": "https://sws.geonames.org/2863758/",
     "Working Notes": "",
     "latitude": "51.30929",
-    "longitude": "7.09051"
+    "longitude": "7.09051",
+    "wikidata_url": ""
   },
   "319": {
     "id": 319,
@@ -2507,7 +2757,8 @@
     "geonames_url": "https://sws.geonames.org/5128581/",
     "Working Notes": "",
     "latitude": "40.71427",
-    "longitude": "-74.00597"
+    "longitude": "-74.00597",
+    "wikidata_url": "http://www.wikidata.org/entity/Q60"
   },
   "321": {
     "id": 321,
@@ -2517,7 +2768,8 @@
     "geonames_url": "https://sws.geonames.org/2750053/",
     "Working Notes": "Nijmegen (Niederlande)",
     "latitude": "51.84250",
-    "longitude": "5.85278"
+    "longitude": "5.85278",
+    "wikidata_url": "http://www.wikidata.org/entity/Q13188714"
   },
   "322": {
     "id": 322,
@@ -2527,7 +2779,8 @@
     "geonames_url": "https://sws.geonames.org/6616998/",
     "Working Notes": "(L00411)(Gibt viele Nogents, könnte neben bloß \"Nogent\"(kleine Stadt) als solchen auch \"Nogent-sur-Marne\"(große Stadt) gemeint sein weil dort weil es befindet sich dort -> evangelische Institut Biblique Nogent-sur-Marne)",
     "latitude": "48.02940",
-    "longitude": "5.34590"
+    "longitude": "5.34590",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1325342"
   },
   "323": {
     "id": 323,
@@ -2537,7 +2790,8 @@
     "geonames_url": "https://sws.geonames.org/11071624/",
     "Working Notes": "(GeoNames: Nord Frankreich - womöglich Hauts-de-France ein guter Verweis)",
     "latitude": "49.61232",
-    "longitude": "2.65594"
+    "longitude": "2.65594",
+    "wikidata_url": "http://www.wikidata.org/entity/Q18677767"
   },
   "324": {
     "id": 324,
@@ -2547,7 +2801,8 @@
     "geonames_url": "https://sws.geonames.org/3144096/",
     "Working Notes": "",
     "latitude": "62.00000",
-    "longitude": "10.00000"
+    "longitude": "10.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q20"
   },
   "325": {
     "id": 325,
@@ -2557,7 +2812,8 @@
     "geonames_url": "https://sws.geonames.org/2989951/",
     "Working Notes": "Working Notes",
     "latitude": "49.42826",
-    "longitude": "3.20000"
+    "longitude": "3.20000",
+    "wikidata_url": ""
   },
   "327": {
     "id": 327,
@@ -2567,7 +2823,8 @@
     "geonames_url": "https://sws.geonames.org/2861650/",
     "Working Notes": "",
     "latitude": "49.45421",
-    "longitude": "11.07752"
+    "longitude": "11.07752",
+    "wikidata_url": "http://www.wikidata.org/entity/Q116874675"
   },
   "328": {
     "id": 328,
@@ -2577,7 +2834,8 @@
     "geonames_url": "",
     "Working Notes": "Ohne Ort Platzhalter",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "329": {
     "id": 329,
@@ -2587,7 +2845,8 @@
     "geonames_url": "https://sws.geonames.org/2858101/",
     "Working Notes": "Möglicher verweis ->(Alte Personeregister auf Excel(Emmerich Kurt): Odenwaldschule Oberhambach)",
     "latitude": "49.61667",
-    "longitude": "8.83333"
+    "longitude": "8.83333",
+    "wikidata_url": ""
   },
   "330": {
     "id": 330,
@@ -2597,7 +2856,8 @@
     "geonames_url": "https://sws.geonames.org/3220975/",
     "Working Notes": "",
     "latitude": "50.08861",
-    "longitude": "8.78250"
+    "longitude": "8.78250",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3042"
   },
   "331": {
     "id": 331,
@@ -2607,7 +2867,8 @@
     "geonames_url": "https://sws.geonames.org/2989603/",
     "Working Notes": "(L00498)Wahrscheinlich nicht Olizy (Reims) -> sondern Olizy-sur-Chiers (Verdun)-> https://www.verdun14-18.de/tag/olizy/",
     "latitude": "49.55670",
-    "longitude": "5.22190"
+    "longitude": "5.22190",
+    "wikidata_url": "http://www.wikidata.org/entity/Q981623"
   },
   "332": {
     "id": 332,
@@ -2617,7 +2878,8 @@
     "geonames_url": "https://sws.geonames.org/3171874/",
     "Working Notes": "",
     "latitude": "42.71924",
-    "longitude": "12.11249"
+    "longitude": "12.11249",
+    "wikidata_url": ""
   },
   "333": {
     "id": 333,
@@ -2627,7 +2889,8 @@
     "geonames_url": "https://sws.geonames.org/2856883/",
     "Working Notes": "",
     "latitude": "52.27264",
-    "longitude": "8.04980"
+    "longitude": "8.04980",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33158934"
   },
   "334": {
     "id": 334,
@@ -2637,7 +2900,8 @@
     "geonames_url": "https://sws.geonames.org/6542680/",
     "Working Notes": "",
     "latitude": "46.30651",
-    "longitude": "10.73757"
+    "longitude": "10.73757",
+    "wikidata_url": "http://www.wikidata.org/entity/Q297133"
   },
   "335": {
     "id": 335,
@@ -2647,7 +2911,8 @@
     "geonames_url": "https://sws.geonames.org/2856304/",
     "Working Notes": "",
     "latitude": "53.33333",
-    "longitude": "7.50000"
+    "longitude": "7.50000",
+    "wikidata_url": ""
   },
   "336": {
     "id": 336,
@@ -2657,7 +2922,8 @@
     "geonames_url": "https://sws.geonames.org/772636/",
     "Working Notes": "",
     "latitude": "54.00000",
-    "longitude": "21.00000"
+    "longitude": "21.00000",
+    "wikidata_url": ""
   },
   "342": {
     "id": 342,
@@ -2667,7 +2933,8 @@
     "geonames_url": "https://sws.geonames.org/6454768/",
     "Working Notes": "(Vorsicht! Datei nicht gefunden; gibt mehrere im Namen, aber die kleine Gemeinde macht Sinn im Weltkriegskontext)",
     "latitude": "49.81320",
-    "longitude": "2.95190"
+    "longitude": "2.95190",
+    "wikidata_url": "http://www.wikidata.org/entity/Q490478"
   },
   "343": {
     "id": 343,
@@ -2677,7 +2944,8 @@
     "geonames_url": "https://sws.geonames.org/2988507/",
     "Working Notes": "",
     "latitude": "48.85341",
-    "longitude": "2.34880"
+    "longitude": "2.34880",
+    "wikidata_url": ""
   },
   "344": {
     "id": 344,
@@ -2687,7 +2955,8 @@
     "geonames_url": "https://sws.geonames.org/2988421/",
     "Working Notes": "Pasly02200 (Aisne)",
     "latitude": "49.40167",
-    "longitude": "3.29631"
+    "longitude": "3.29631",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1020383"
   },
   "346": {
     "id": 346,
@@ -2697,7 +2966,8 @@
     "geonames_url": "https://sws.geonames.org/2842700/",
     "Working Notes": "(geoNames Verweise auf die Saale) https://de.wikipedia.org/wiki/Peißnitzinsel",
     "latitude": "51.95410",
-    "longitude": "11.91432"
+    "longitude": "11.91432",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1678"
   },
   "347": {
     "id": 347,
@@ -2707,7 +2977,8 @@
     "geonames_url": "https://sws.geonames.org/2769121/",
     "Working Notes": "",
     "latitude": "48.20000",
-    "longitude": "16.30000"
+    "longitude": "16.30000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q690335"
   },
   "348": {
     "id": 348,
@@ -2717,7 +2988,8 @@
     "geonames_url": "https://sws.geonames.org/2768905/",
     "Working Notes": "",
     "latitude": "46.96667",
-    "longitude": "10.55000"
+    "longitude": "10.55000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q21881863"
   },
   "349": {
     "id": 349,
@@ -2727,7 +2999,8 @@
     "geonames_url": "https://sws.geonames.org/2609906/",
     "Working Notes": "(Russisch: Baltiysk)",
     "latitude": "54.65455",
-    "longitude": "19.90929"
+    "longitude": "19.90929",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5660"
   },
   "350": {
     "id": 350,
@@ -2737,7 +3010,8 @@
     "geonames_url": "https://sws.geonames.org/2661545/",
     "Working Notes": "",
     "latitude": "46.38235",
-    "longitude": "9.90806"
+    "longitude": "9.90806",
+    "wikidata_url": "http://www.wikidata.org/entity/Q15132"
   },
   "351": {
     "id": 351,
@@ -2747,7 +3021,8 @@
     "geonames_url": "https://sws.geonames.org/798544/",
     "Working Notes": "",
     "latitude": "52.00000",
-    "longitude": "20.00000"
+    "longitude": "20.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q36"
   },
   "352": {
     "id": 352,
@@ -2757,7 +3032,8 @@
     "geonames_url": "https://sws.geonames.org/3090679/",
     "Working Notes": "Polnisch: Nowa Wieś Przywidzka",
     "latitude": "54.33333",
-    "longitude": "18.73333"
+    "longitude": "18.73333",
+    "wikidata_url": ""
   },
   "353": {
     "id": 353,
@@ -2767,7 +3043,8 @@
     "geonames_url": "https://sws.geonames.org/2986108/",
     "Working Notes": "Pont-Saint-Mard02380",
     "latitude": "49.50000",
-    "longitude": "3.28333"
+    "longitude": "3.28333",
+    "wikidata_url": ""
   },
   "355": {
     "id": 355,
@@ -2777,7 +3054,8 @@
     "geonames_url": "https://sws.geonames.org/2985947/",
     "Working Notes": "Porto-Vecchio (Corsica)",
     "latitude": "41.59101",
-    "longitude": "9.27947"
+    "longitude": "9.27947",
+    "wikidata_url": "http://www.wikidata.org/entity/Q241567"
   },
   "356": {
     "id": 356,
@@ -2787,7 +3065,8 @@
     "geonames_url": "https://sws.geonames.org/2852458/",
     "Working Notes": "Potsdam (Brandenburg)",
     "latitude": "52.39886",
-    "longitude": "13.06566"
+    "longitude": "13.06566",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1711"
   },
   "357": {
     "id": 357,
@@ -2797,7 +3076,8 @@
     "geonames_url": "",
     "Working Notes": "(In GeoNames nicht geschichtlich verordnet)",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "358": {
     "id": 358,
@@ -2807,7 +3087,8 @@
     "geonames_url": "https://sws.geonames.org/3087839/",
     "Working Notes": "",
     "latitude": "53.63711",
-    "longitude": "16.61493"
+    "longitude": "16.61493",
+    "wikidata_url": ""
   },
   "359": {
     "id": 359,
@@ -2817,7 +3098,8 @@
     "geonames_url": "https://sws.geonames.org/2987928/",
     "Working Notes": "",
     "latitude": "49.93218",
-    "longitude": "2.93630"
+    "longitude": "2.93630",
+    "wikidata_url": ""
   },
   "360": {
     "id": 360,
@@ -2827,7 +3109,8 @@
     "geonames_url": "https://sws.geonames.org/6551148/",
     "Working Notes": "",
     "latitude": "51.79000",
-    "longitude": "11.16200"
+    "longitude": "11.16200",
+    "wikidata_url": "http://www.wikidata.org/entity/Q40623"
   },
   "361": {
     "id": 361,
@@ -2837,7 +3120,8 @@
     "geonames_url": "https://sws.geonames.org/2984741/",
     "Working Notes": "",
     "latitude": "47.48368",
-    "longitude": "-3.11986"
+    "longitude": "-3.11986",
+    "wikidata_url": "http://www.wikidata.org/entity/Q128783"
   },
   "362": {
     "id": 362,
@@ -2847,7 +3131,8 @@
     "geonames_url": "https://sws.geonames.org/2850213/",
     "Working Notes": "Working Notes",
     "latitude": "52.60659",
-    "longitude": "12.33696"
+    "longitude": "12.33696",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32247316"
   },
   "363": {
     "id": 363,
@@ -2857,7 +3142,8 @@
     "geonames_url": "https://sws.geonames.org/2984363/",
     "Working Notes": "Kriegseinsatz Tillichs, Wahrscheinlich dieses Raucourt",
     "latitude": "48.92632",
-    "longitude": "6.21866"
+    "longitude": "6.21866",
+    "wikidata_url": ""
   },
   "364": {
     "id": 364,
@@ -2867,7 +3153,8 @@
     "geonames_url": "https://sws.geonames.org/2984192/",
     "Working Notes": "Working Notes",
     "latitude": "47.65165",
-    "longitude": "-2.08421"
+    "longitude": "-2.08421",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49272226"
   },
   "365": {
     "id": 365,
@@ -2877,7 +3164,8 @@
     "geonames_url": "https://sws.geonames.org/2983891/",
     "Working Notes": "Working Notes",
     "latitude": "49.50979",
-    "longitude": "4.36740"
+    "longitude": "4.36740",
+    "wikidata_url": "http://www.wikidata.org/entity/Q209790"
   },
   "366": {
     "id": 366,
@@ -2887,7 +3175,8 @@
     "geonames_url": "https://sws.geonames.org/3220989/",
     "Working Notes": "Rheingau-Taunus-Kreis",
     "latitude": "50.16889",
-    "longitude": "8.07472"
+    "longitude": "8.07472",
+    "wikidata_url": "http://www.wikidata.org/entity/Q7907"
   },
   "367": {
     "id": 367,
@@ -2897,7 +3186,8 @@
     "geonames_url": "https://sws.geonames.org/12503568/",
     "Working Notes": "",
     "latitude": "52.47472",
-    "longitude": "13.44709"
+    "longitude": "13.44709",
+    "wikidata_url": ""
   },
   "369": {
     "id": 369,
@@ -2907,7 +3197,8 @@
     "geonames_url": "https://sws.geonames.org/3169070/",
     "Working Notes": "",
     "latitude": "41.89193",
-    "longitude": "12.51133"
+    "longitude": "12.51133",
+    "wikidata_url": "http://www.wikidata.org/entity/Q220"
   },
   "370": {
     "id": 370,
@@ -2917,7 +3208,8 @@
     "geonames_url": "https://sws.geonames.org/2844588/",
     "Working Notes": "",
     "latitude": "54.08870",
-    "longitude": "12.14049"
+    "longitude": "12.14049",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32265522"
   },
   "372": {
     "id": 372,
@@ -2927,7 +3219,8 @@
     "geonames_url": "https://sws.geonames.org/2844434/",
     "Working Notes": "",
     "latitude": "50.99556",
-    "longitude": "9.72838"
+    "longitude": "9.72838",
+    "wikidata_url": ""
   },
   "373": {
     "id": 373,
@@ -2937,7 +3230,8 @@
     "geonames_url": "https://sws.geonames.org/2982652/",
     "Working Notes": "Working Notes",
     "latitude": "49.44313",
-    "longitude": "1.09932"
+    "longitude": "1.09932",
+    "wikidata_url": "http://www.wikidata.org/entity/Q30974"
   },
   "374": {
     "id": 374,
@@ -2947,7 +3241,8 @@
     "geonames_url": "https://sws.geonames.org/2843258/",
     "Working Notes": "Working Notes",
     "latitude": "50.89296",
-    "longitude": "10.36573"
+    "longitude": "10.36573",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32269123"
   },
   "375": {
     "id": 375,
@@ -2957,7 +3252,8 @@
     "geonames_url": "https://sws.geonames.org/2956883/",
     "Working Notes": "Alt Ruppin",
     "latitude": "52.94833",
-    "longitude": "12.84800"
+    "longitude": "12.84800",
+    "wikidata_url": "http://www.wikidata.org/entity/Q433253"
   },
   "376": {
     "id": 376,
@@ -2967,7 +3263,8 @@
     "geonames_url": "https://sws.geonames.org/2017370/",
     "Working Notes": "",
     "latitude": "60.00000",
-    "longitude": "100.00000"
+    "longitude": "100.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q159"
   },
   "378": {
     "id": 378,
@@ -2977,7 +3274,8 @@
     "geonames_url": "https://sws.geonames.org/2843395/",
     "Working Notes": "",
     "latitude": "49.97890",
-    "longitude": "7.92442"
+    "longitude": "7.92442",
+    "wikidata_url": ""
   },
   "380": {
     "id": 380,
@@ -2987,7 +3285,8 @@
     "geonames_url": "https://sws.geonames.org/2843325/",
     "Working Notes": "",
     "latitude": "54.41667",
-    "longitude": "13.40000"
+    "longitude": "13.40000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3237"
   },
   "381": {
     "id": 381,
@@ -2997,7 +3296,8 @@
     "geonames_url": "https://sws.geonames.org/7286991/",
     "Working Notes": "",
     "latitude": "47.30432",
-    "longitude": "8.54691"
+    "longitude": "8.54691",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22369988"
   },
   "382": {
     "id": 382,
@@ -3007,7 +3307,8 @@
     "geonames_url": "https://sws.geonames.org/2842647/",
     "Working Notes": "",
     "latitude": "49.23262",
-    "longitude": "7.00982"
+    "longitude": "7.00982",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1724"
   },
   "383": {
     "id": 383,
@@ -3017,7 +3318,8 @@
     "geonames_url": "https://sws.geonames.org/2842566/",
     "Working Notes": "",
     "latitude": "51.00000",
-    "longitude": "13.25000"
+    "longitude": "13.25000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1202"
   },
   "384": {
     "id": 384,
@@ -3027,7 +3329,8 @@
     "geonames_url": "https://sws.geonames.org/2978640/",
     "Working Notes": "",
     "latitude": "48.64738",
-    "longitude": "-2.00877"
+    "longitude": "-2.00877",
+    "wikidata_url": ""
   },
   "386": {
     "id": 386,
@@ -3037,7 +3340,8 @@
     "geonames_url": "https://sws.geonames.org/2977295/",
     "Working Notes": "",
     "latitude": "49.84889",
-    "longitude": "3.28757"
+    "longitude": "3.28757",
+    "wikidata_url": ""
   },
   "387": {
     "id": 387,
@@ -3047,7 +3351,8 @@
     "geonames_url": "https://sws.geonames.org/2766824/",
     "Working Notes": "",
     "latitude": "47.79941",
-    "longitude": "13.04399"
+    "longitude": "13.04399",
+    "wikidata_url": ""
   },
   "388": {
     "id": 388,
@@ -3057,7 +3362,8 @@
     "geonames_url": "https://sws.geonames.org/6538728/",
     "Working Notes": "",
     "latitude": "41.08021",
-    "longitude": "14.25653"
+    "longitude": "14.25653",
+    "wikidata_url": "http://www.wikidata.org/entity/Q58894"
   },
   "389": {
     "id": 389,
@@ -3067,7 +3373,8 @@
     "geonames_url": "https://sws.geonames.org/2841333/",
     "Working Notes": "",
     "latitude": "54.51570",
-    "longitude": "13.64451"
+    "longitude": "13.64451",
+    "wikidata_url": ""
   },
   "391": {
     "id": 391,
@@ -3077,7 +3384,8 @@
     "geonames_url": "https://sws.geonames.org/3098968/",
     "Working Notes": "(L00160)Es gibt mehrere Schildberg, ich weis nicht welches gemeint sein könnte",
     "latitude": "52.94864",
-    "longitude": "14.78931"
+    "longitude": "14.78931",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5580461"
   },
   "392": {
     "id": 392,
@@ -3087,7 +3395,8 @@
     "geonames_url": "https://sws.geonames.org/2838632/",
     "Working Notes": "",
     "latitude": "54.20000",
-    "longitude": "9.75000"
+    "longitude": "9.75000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1194"
   },
   "393": {
     "id": 393,
@@ -3097,7 +3406,8 @@
     "geonames_url": "https://sws.geonames.org/2824481/",
     "Working Notes": "",
     "latitude": "48.00000",
-    "longitude": "9.00000"
+    "longitude": "9.00000",
+    "wikidata_url": ""
   },
   "394": {
     "id": 394,
@@ -3107,7 +3417,8 @@
     "geonames_url": "https://sws.geonames.org/2834688/",
     "Working Notes": "",
     "latitude": "48.00000",
-    "longitude": "8.25000"
+    "longitude": "8.25000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4204"
   },
   "395": {
     "id": 395,
@@ -3117,7 +3428,8 @@
     "geonames_url": "https://sws.geonames.org/2887177/",
     "Working Notes": "womöglich Schwarzwalddorf Kniebis",
     "latitude": "48.46702",
-    "longitude": "8.30343"
+    "longitude": "8.30343",
+    "wikidata_url": ""
   },
   "396": {
     "id": 396,
@@ -3127,7 +3439,8 @@
     "geonames_url": "https://sws.geonames.org/2661886/",
     "Working Notes": "",
     "latitude": "62.00000",
-    "longitude": "15.00000"
+    "longitude": "15.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q34"
   },
   "397": {
     "id": 397,
@@ -3137,7 +3450,8 @@
     "geonames_url": "https://sws.geonames.org/2658434/",
     "Working Notes": "",
     "latitude": "47.00016",
-    "longitude": "8.01427"
+    "longitude": "8.01427",
+    "wikidata_url": "http://www.wikidata.org/entity/Q39"
   },
   "398": {
     "id": 398,
@@ -3147,7 +3461,8 @@
     "geonames_url": "https://sws.geonames.org/3083158/",
     "Working Notes": "(L00526)(L01079)Vermutlich das Bad Schönfließ(Trzcińsko Zdrój, Polen) hier gemeint ist. Aus nähe zu Berlin im Text abgegeben; Johannes Tillich -> altes PR\"1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark)\"",
     "latitude": "52.96487",
-    "longitude": "14.60667"
+    "longitude": "14.60667",
+    "wikidata_url": "http://www.wikidata.org/entity/Q558719"
   },
   "399": {
     "id": 399,
@@ -3157,7 +3472,8 @@
     "geonames_url": "https://sws.geonames.org/2975349/",
     "Working Notes": "Sedan (Frankreich) (tillich__1915-05-28-tillich-p-an-tillich-j_246)",
     "latitude": "49.70187",
-    "longitude": "4.94028"
+    "longitude": "4.94028",
+    "wikidata_url": "http://www.wikidata.org/entity/Q184371"
   },
   "400": {
     "id": 400,
@@ -3167,7 +3483,8 @@
     "geonames_url": "https://sws.geonames.org/3166548/",
     "Working Notes": "",
     "latitude": "43.31822",
-    "longitude": "11.33064"
+    "longitude": "11.33064",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49280771"
   },
   "401": {
     "id": 401,
@@ -3177,7 +3494,8 @@
     "geonames_url": "https://sws.geonames.org/2658641/",
     "Working Notes": "",
     "latitude": "46.42886",
-    "longitude": "9.76364"
+    "longitude": "9.76364",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22624696"
   },
   "403": {
     "id": 403,
@@ -3187,7 +3505,8 @@
     "geonames_url": "https://sws.geonames.org/2831708/",
     "Working Notes": "Soest(Deutschland)",
     "latitude": "51.57558",
-    "longitude": "8.10619"
+    "longitude": "8.10619",
+    "wikidata_url": ""
   },
   "404": {
     "id": 404,
@@ -3197,7 +3516,8 @@
     "geonames_url": "https://sws.geonames.org/2974389/",
     "Working Notes": "",
     "latitude": "49.38167",
-    "longitude": "3.32361"
+    "longitude": "3.32361",
+    "wikidata_url": "http://www.wikidata.org/entity/Q167152"
   },
   "405": {
     "id": 405,
@@ -3207,7 +3527,8 @@
     "geonames_url": "https://sws.geonames.org/2831580/",
     "Working Notes": "",
     "latitude": "51.17343",
-    "longitude": "7.08450"
+    "longitude": "7.08450",
+    "wikidata_url": ""
   },
   "406": {
     "id": 406,
@@ -3217,7 +3538,8 @@
     "geonames_url": "https://sws.geonames.org/2974304/",
     "Working Notes": "",
     "latitude": "49.93141",
-    "longitude": "2.27639"
+    "longitude": "2.27639",
+    "wikidata_url": "http://www.wikidata.org/entity/Q12770"
   },
   "407": {
     "id": 407,
@@ -3227,7 +3549,8 @@
     "geonames_url": "https://sws.geonames.org/3166350/",
     "Working Notes": "Doppelung in (220)",
     "latitude": "40.62678",
-    "longitude": "14.37771"
+    "longitude": "14.37771",
+    "wikidata_url": "http://www.wikidata.org/entity/Q30030832"
   },
   "408": {
     "id": 408,
@@ -3237,7 +3560,8 @@
     "geonames_url": "https://sws.geonames.org/2830534/",
     "Working Notes": "",
     "latitude": "53.77012",
-    "longitude": "7.69481"
+    "longitude": "7.69481",
+    "wikidata_url": ""
   },
   "409": {
     "id": 409,
@@ -3247,7 +3571,8 @@
     "geonames_url": "https://sws.geonames.org/7873670/",
     "Working Notes": "",
     "latitude": "47.08257",
-    "longitude": "10.22347"
+    "longitude": "10.22347",
+    "wikidata_url": "http://www.wikidata.org/entity/Q659996"
   },
   "410": {
     "id": 410,
@@ -3257,7 +3582,8 @@
     "geonames_url": "https://sws.geonames.org/2981060/",
     "Working Notes": "Saint-Clément(Frankreich), \"tillich__1918-08-20-backhaus-a-an-tillich-p_360\"",
     "latitude": "48.21724",
-    "longitude": "3.29609"
+    "longitude": "3.29609",
+    "wikidata_url": ""
   },
   "411": {
     "id": 411,
@@ -3267,7 +3593,8 @@
     "geonames_url": "https://sws.geonames.org/6944296/",
     "Working Notes": "",
     "latitude": "53.55700",
-    "longitude": "9.96400"
+    "longitude": "9.96400",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1556"
   },
   "413": {
     "id": 413,
@@ -3277,7 +3604,8 @@
     "geonames_url": "https://sws.geonames.org/3084812/",
     "Working Notes": "Heute: Starosiedle (alte PR -> \"Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben\")",
     "latitude": "51.85782",
-    "longitude": "14.82112"
+    "longitude": "14.82112",
+    "wikidata_url": "http://www.wikidata.org/entity/Q150033"
   },
   "414": {
     "id": 414,
@@ -3287,7 +3615,8 @@
     "geonames_url": "https://sws.geonames.org/2827552/",
     "Working Notes": "",
     "latitude": "53.59220",
-    "longitude": "9.92870"
+    "longitude": "9.92870",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1621"
   },
   "415": {
     "id": 415,
@@ -3297,7 +3626,8 @@
     "geonames_url": "https://sws.geonames.org/2827479/",
     "Working Notes": "Stendal(verm. Deutschland) (tillich__1905-07-31-winkler-t-an-tillich-p_35)",
     "latitude": "52.60690",
-    "longitude": "11.85867"
+    "longitude": "11.85867",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49278247"
   },
   "416": {
     "id": 416,
@@ -3307,7 +3637,8 @@
     "geonames_url": "https://sws.geonames.org/3083829/",
     "Working Notes": "Stettin (Szczecin, Polen)",
     "latitude": "53.42894",
-    "longitude": "14.55302"
+    "longitude": "14.55302",
+    "wikidata_url": "http://www.wikidata.org/entity/Q393"
   },
   "417": {
     "id": 417,
@@ -3317,7 +3648,8 @@
     "geonames_url": "https://sws.geonames.org/2673722/",
     "Working Notes": "",
     "latitude": "59.50000",
-    "longitude": "18.00000"
+    "longitude": "18.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q104231"
   },
   "418": {
     "id": 418,
@@ -3327,7 +3659,8 @@
     "geonames_url": "https://sws.geonames.org/2826178/",
     "Working Notes": "Straßburg (Deutschland)",
     "latitude": "49.55239",
-    "longitude": "8.85112"
+    "longitude": "8.85112",
+    "wikidata_url": ""
   },
   "419": {
     "id": 419,
@@ -3337,7 +3670,8 @@
     "geonames_url": "https://sws.geonames.org/2825543/",
     "Working Notes": "",
     "latitude": "54.57325",
-    "longitude": "13.65974"
+    "longitude": "13.65974",
+    "wikidata_url": ""
   },
   "420": {
     "id": 420,
@@ -3347,7 +3681,8 @@
     "geonames_url": "https://sws.geonames.org/2825297/",
     "Working Notes": "",
     "latitude": "48.78232",
-    "longitude": "9.17702"
+    "longitude": "9.17702",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32749678"
   },
   "423": {
     "id": 423,
@@ -3357,7 +3692,8 @@
     "geonames_url": "https://sws.geonames.org/3166437/",
     "Working Notes": "",
     "latitude": "46.52715",
-    "longitude": "10.58905"
+    "longitude": "10.58905",
+    "wikidata_url": "http://www.wikidata.org/entity/Q536016"
   },
   "424": {
     "id": 424,
@@ -3367,7 +3703,8 @@
     "geonames_url": "https://sws.geonames.org/3083955/",
     "Working Notes": "",
     "latitude": "53.91053",
-    "longitude": "14.24712"
+    "longitude": "14.24712",
+    "wikidata_url": "http://www.wikidata.org/entity/Q41599"
   },
   "425": {
     "id": 425,
@@ -3377,7 +3714,8 @@
     "geonames_url": "https://sws.geonames.org/2824454/",
     "Working Notes": "",
     "latitude": "54.91823",
-    "longitude": "8.33113"
+    "longitude": "8.33113",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3107"
   },
   "426": {
     "id": 426,
@@ -3387,7 +3725,8 @@
     "geonames_url": "https://sws.geonames.org/2523082/",
     "Working Notes": "",
     "latitude": "37.08805",
-    "longitude": "15.27924"
+    "longitude": "15.27924",
+    "wikidata_url": "http://www.wikidata.org/entity/Q16277"
   },
   "427": {
     "id": 427,
@@ -3397,7 +3736,8 @@
     "geonames_url": "https://sws.geonames.org/6426130/",
     "Working Notes": "",
     "latitude": "49.93056",
-    "longitude": "4.48639"
+    "longitude": "4.48639",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1419211"
   },
   "428": {
     "id": 428,
@@ -3407,7 +3747,8 @@
     "geonames_url": "https://sws.geonames.org/12318197/",
     "Working Notes": "Tancourt02200",
     "latitude": "49.41740",
-    "longitude": "3.26977"
+    "longitude": "3.26977",
+    "wikidata_url": ""
   },
   "430": {
     "id": 430,
@@ -3417,7 +3758,8 @@
     "geonames_url": "https://sws.geonames.org/6537773/",
     "Working Notes": "",
     "latitude": "37.85206",
-    "longitude": "15.28699"
+    "longitude": "15.28699",
+    "wikidata_url": "http://www.wikidata.org/entity/Q199952"
   },
   "431": {
     "id": 431,
@@ -3427,7 +3769,8 @@
     "geonames_url": "https://sws.geonames.org/757026/",
     "Working Notes": "",
     "latitude": "50.01381",
-    "longitude": "20.98698"
+    "longitude": "20.98698",
+    "wikidata_url": "http://www.wikidata.org/entity/Q106281"
   },
   "432": {
     "id": 432,
@@ -3437,7 +3780,8 @@
     "geonames_url": "https://sws.geonames.org/6425259/",
     "Working Notes": "Tartiers02290",
     "latitude": "49.43306",
-    "longitude": "3.23889"
+    "longitude": "3.23889",
+    "wikidata_url": "http://www.wikidata.org/entity/Q871168"
   },
   "434": {
     "id": 434,
@@ -3447,7 +3791,8 @@
     "geonames_url": "https://sws.geonames.org/6550643/",
     "Working Notes": "",
     "latitude": "52.39760",
-    "longitude": "13.25227"
+    "longitude": "13.25227",
+    "wikidata_url": "http://www.wikidata.org/entity/Q572512"
   },
   "435": {
     "id": 435,
@@ -3457,7 +3802,8 @@
     "geonames_url": "https://sws.geonames.org/2973146/",
     "Working Notes": "",
     "latitude": "49.65607",
-    "longitude": "3.30107"
+    "longitude": "3.30107",
+    "wikidata_url": "http://www.wikidata.org/entity/Q378973"
   },
   "436": {
     "id": 436,
@@ -3467,7 +3813,8 @@
     "geonames_url": "https://sws.geonames.org/6425262/",
     "Working Notes": "",
     "latitude": "49.44722",
-    "longitude": "3.36833"
+    "longitude": "3.36833",
+    "wikidata_url": "http://www.wikidata.org/entity/Q770806"
   },
   "437": {
     "id": 437,
@@ -3477,7 +3824,8 @@
     "geonames_url": "https://sws.geonames.org/2822542/",
     "Working Notes": "",
     "latitude": "50.91667",
-    "longitude": "11.00000"
+    "longitude": "11.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1205"
   },
   "438": {
     "id": 438,
@@ -3487,7 +3835,8 @@
     "geonames_url": "https://sws.geonames.org/2763586/",
     "Working Notes": "",
     "latitude": "47.25000",
-    "longitude": "11.33333"
+    "longitude": "11.33333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q42880"
   },
   "439": {
     "id": 439,
@@ -3497,7 +3846,8 @@
     "geonames_url": "https://sws.geonames.org/6551134/",
     "Working Notes": "",
     "latitude": "51.55820",
-    "longitude": "12.96990"
+    "longitude": "12.96990",
+    "wikidata_url": "http://www.wikidata.org/entity/Q12062"
   },
   "440": {
     "id": 440,
@@ -3507,7 +3857,8 @@
     "geonames_url": "https://sws.geonames.org/7530813/",
     "Working Notes": "",
     "latitude": "53.01449",
-    "longitude": "18.60145"
+    "longitude": "18.60145",
+    "wikidata_url": "http://www.wikidata.org/entity/Q650180"
   },
   "441": {
     "id": 441,
@@ -3517,7 +3868,8 @@
     "geonames_url": "https://sws.geonames.org/2821690/",
     "Working Notes": "",
     "latitude": "49.95076",
-    "longitude": "7.11562"
+    "longitude": "7.11562",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33507259"
   },
   "442": {
     "id": 442,
@@ -3527,7 +3879,8 @@
     "geonames_url": "https://sws.geonames.org/2821164/",
     "Working Notes": "",
     "latitude": "49.75565",
-    "longitude": "6.63935"
+    "longitude": "6.63935",
+    "wikidata_url": ""
   },
   "443": {
     "id": 443,
@@ -3537,7 +3890,8 @@
     "geonames_url": "https://sws.geonames.org/2820956/",
     "Working Notes": "",
     "latitude": "51.51638",
-    "longitude": "11.95978"
+    "longitude": "11.95978",
+    "wikidata_url": ""
   },
   "445": {
     "id": 445,
@@ -3547,7 +3901,8 @@
     "geonames_url": "https://sws.geonames.org/2971555/",
     "Working Notes": "",
     "latitude": "49.36595",
-    "longitude": "0.08004"
+    "longitude": "0.08004",
+    "wikidata_url": ""
   },
   "448": {
     "id": 448,
@@ -3557,7 +3912,8 @@
     "geonames_url": "https://sws.geonames.org/2820860/",
     "Working Notes": "",
     "latitude": "48.52266",
-    "longitude": "9.05222"
+    "longitude": "9.05222",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32751737"
   },
   "451": {
     "id": 451,
@@ -3567,7 +3923,8 @@
     "geonames_url": "https://sws.geonames.org/2820620/",
     "Working Notes": "",
     "latitude": "51.98638",
-    "longitude": "8.62984"
+    "longitude": "8.62984",
+    "wikidata_url": ""
   },
   "452": {
     "id": 452,
@@ -3577,7 +3934,8 @@
     "geonames_url": "https://sws.geonames.org/2820256/",
     "Working Notes": "Ulm (nicht Neu-Ulm)",
     "latitude": "48.39841",
-    "longitude": "9.99155"
+    "longitude": "9.99155",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3012"
   },
   "454": {
     "id": 454,
@@ -3587,7 +3945,8 @@
     "geonames_url": "https://sws.geonames.org/2971041/",
     "Working Notes": "",
     "latitude": "50.35909",
-    "longitude": "3.52506"
+    "longitude": "3.52506",
+    "wikidata_url": "http://www.wikidata.org/entity/Q163795"
   },
   "455": {
     "id": 455,
@@ -3597,7 +3956,8 @@
     "geonames_url": "https://sws.geonames.org/2970311/",
     "Working Notes": "Working Notes",
     "latitude": "49.92206",
-    "longitude": "2.54953"
+    "longitude": "2.54953",
+    "wikidata_url": "http://www.wikidata.org/entity/Q935707"
   },
   "456": {
     "id": 456,
@@ -3607,7 +3967,8 @@
     "geonames_url": "https://sws.geonames.org/6426152/",
     "Working Notes": "Working Notes",
     "latitude": "49.30000",
-    "longitude": "4.78333"
+    "longitude": "4.78333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1147107"
   },
   "457": {
     "id": 457,
@@ -3617,7 +3978,8 @@
     "geonames_url": "https://sws.geonames.org/2970327/",
     "Working Notes": "Working Notes",
     "latitude": "49.41405",
-    "longitude": "3.27964"
+    "longitude": "3.27964",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49369925"
   },
   "459": {
     "id": 459,
@@ -3627,7 +3989,8 @@
     "geonames_url": "https://sws.geonames.org/2969958/",
     "Working Notes": "",
     "latitude": "49.15964",
-    "longitude": "5.38290"
+    "longitude": "5.38290",
+    "wikidata_url": "http://www.wikidata.org/entity/Q154748"
   },
   "460": {
     "id": 460,
@@ -3637,7 +4000,8 @@
     "geonames_url": "https://sws.geonames.org/2970327/",
     "Working Notes": "(Als GeoNames Link Vauxrezis angeben, liegt nördlich in der Region)Villers la Fosse02200 (genau ->https://maps.app.goo.gl/aWtAUqLXTWupA7aU9)",
     "latitude": "49.41405",
-    "longitude": "3.27964"
+    "longitude": "3.27964",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49369925"
   },
   "462": {
     "id": 462,
@@ -3647,7 +4011,8 @@
     "geonames_url": "https://sws.geonames.org/2658112/",
     "Working Notes": "",
     "latitude": "46.29370",
-    "longitude": "7.88149"
+    "longitude": "7.88149",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22426822"
   },
   "463": {
     "id": 463,
@@ -3657,7 +4022,8 @@
     "geonames_url": "https://sws.geonames.org/2967603/",
     "Working Notes": "",
     "latitude": "49.39791",
-    "longitude": "4.70120"
+    "longitude": "4.70120",
+    "wikidata_url": "http://www.wikidata.org/entity/Q209821"
   },
   "464": {
     "id": 464,
@@ -3667,7 +4033,8 @@
     "geonames_url": "https://sws.geonames.org/2969480/",
     "Working Notes": "",
     "latitude": "49.45969",
-    "longitude": "3.22826"
+    "longitude": "3.22826",
+    "wikidata_url": ""
   },
   "465": {
     "id": 465,
@@ -3677,7 +4044,8 @@
     "geonames_url": "https://sws.geonames.org/2814196/",
     "Working Notes": "Siehe tillich_place_id__50(Es gibt eine Zugstation die heist Berlin Wannsee, aber hier ist wohl generell Wannsee in Berlin gemeint)",
     "latitude": "52.41915",
-    "longitude": "13.15531"
+    "longitude": "13.15531",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1949"
   },
   "466": {
     "id": 466,
@@ -3687,7 +4055,8 @@
     "geonames_url": "https://sws.geonames.org/756135/",
     "Working Notes": "",
     "latitude": "52.22977",
-    "longitude": "21.01178"
+    "longitude": "21.01178",
+    "wikidata_url": "http://www.wikidata.org/entity/Q270"
   },
   "467": {
     "id": 467,
@@ -3697,7 +4066,8 @@
     "geonames_url": "https://sws.geonames.org/3207492/",
     "Working Notes": "Wartburg (Burg in Deutschland)",
     "latitude": "50.96605",
-    "longitude": "10.30646"
+    "longitude": "10.30646",
+    "wikidata_url": "http://www.wikidata.org/entity/Q151545"
   },
   "468": {
     "id": 468,
@@ -3707,7 +4077,8 @@
     "geonames_url": "https://sws.geonames.org/6453605/",
     "Working Notes": "",
     "latitude": "49.63278",
-    "longitude": "4.35667"
+    "longitude": "4.35667",
+    "wikidata_url": "http://www.wikidata.org/entity/Q930958"
   },
   "469": {
     "id": 469,
@@ -3717,7 +4088,8 @@
     "geonames_url": "",
     "Working Notes": "Vermutlich Tillichs Position im Krieg an der Westfront gemeint, das wäre Umgebung Aisne, zugehörige referenzdatei nicht gefunden (siehe tillich_place_id__171 & L00492) Doppelt",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "470": {
     "id": 470,
@@ -3727,7 +4099,8 @@
     "geonames_url": "https://sws.geonames.org/2761367/",
     "Working Notes": "",
     "latitude": "48.20820",
-    "longitude": "16.37169"
+    "longitude": "16.37169",
+    "wikidata_url": ""
   },
   "471": {
     "id": 471,
@@ -3737,7 +4110,8 @@
     "geonames_url": "https://sws.geonames.org/2809346/",
     "Working Notes": "",
     "latitude": "50.08258",
-    "longitude": "8.24932"
+    "longitude": "8.24932",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1721"
   },
   "472": {
     "id": 472,
@@ -3747,7 +4121,8 @@
     "geonames_url": "https://sws.geonames.org/2807590/",
     "Working Notes": "",
     "latitude": "50.83140",
-    "longitude": "9.77148"
+    "longitude": "9.77148",
+    "wikidata_url": ""
   },
   "473": {
     "id": 473,
@@ -3757,7 +4132,8 @@
     "geonames_url": "https://sws.geonames.org/2807244/",
     "Working Notes": "",
     "latitude": "52.32127",
-    "longitude": "8.36978"
+    "longitude": "8.36978",
+    "wikidata_url": ""
   },
   "474": {
     "id": 474,
@@ -3767,7 +4143,8 @@
     "geonames_url": "https://sws.geonames.org/6552711/",
     "Working Notes": "(Hanffstengel schreibt Worpswede immer als Worpswerde)",
     "latitude": "53.21930",
-    "longitude": "8.93450"
+    "longitude": "8.93450",
+    "wikidata_url": "http://www.wikidata.org/entity/Q269174"
   },
   "475": {
     "id": 475,
@@ -3777,7 +4154,8 @@
     "geonames_url": "https://sws.geonames.org/2805753/",
     "Working Notes": "",
     "latitude": "51.25627",
-    "longitude": "7.14816"
+    "longitude": "7.14816",
+    "wikidata_url": ""
   },
   "476": {
     "id": 476,
@@ -3787,7 +4165,8 @@
     "geonames_url": "https://sws.geonames.org/2953481/",
     "Working Notes": "Working Notes",
     "latitude": "48.50000",
-    "longitude": "9.00000"
+    "longitude": "9.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q985"
   },
   "477": {
     "id": 477,
@@ -3797,7 +4176,8 @@
     "geonames_url": "https://sws.geonames.org/2795100/",
     "Working Notes": "",
     "latitude": "50.85114",
-    "longitude": "2.88569"
+    "longitude": "2.88569",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31824036"
   },
   "478": {
     "id": 478,
@@ -3807,7 +4187,8 @@
     "geonames_url": "https://sws.geonames.org/2805059/",
     "Working Notes": "Zehlendorf (Berlin)",
     "latitude": "52.43333",
-    "longitude": "13.25000"
+    "longitude": "13.25000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q324402"
   },
   "479": {
     "id": 479,
@@ -3817,7 +4198,8 @@
     "geonames_url": "https://sws.geonames.org/2804693/",
     "Working Notes": "",
     "latitude": "50.77640",
-    "longitude": "13.38339"
+    "longitude": "13.38339",
+    "wikidata_url": ""
   },
   "480": {
     "id": 480,
@@ -3827,7 +4209,8 @@
     "geonames_url": "https://sws.geonames.org/2657896/",
     "Working Notes": "Working Notes",
     "latitude": "47.36667",
-    "longitude": "8.55000"
+    "longitude": "8.55000",
+    "wikidata_url": ""
   },
   "485": {
     "id": 485,
@@ -3837,7 +4220,8 @@
     "geonames_url": "",
     "Working Notes": "Platzhalter in TEI Dateien",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "486": {
     "id": 486,
@@ -3847,7 +4231,8 @@
     "geonames_url": "https://sws.geonames.org/3020095/",
     "Working Notes": "Épagny02290",
     "latitude": "49.46119",
-    "longitude": "3.24048"
+    "longitude": "3.24048",
+    "wikidata_url": ""
   },
   "488": {
     "id": 488,
@@ -3857,7 +4242,8 @@
     "geonames_url": "https://sws.geonames.org/3083955/",
     "Working Notes": "",
     "latitude": "53.91053",
-    "longitude": "14.24712"
+    "longitude": "14.24712",
+    "wikidata_url": "http://www.wikidata.org/entity/Q41599"
   },
   "490": {
     "id": 490,
@@ -3867,7 +4253,8 @@
     "geonames_url": "https://sws.geonames.org/2933895/",
     "Working Notes": "Working Notes",
     "latitude": "49.82112",
-    "longitude": "8.64527"
+    "longitude": "8.64527",
+    "wikidata_url": ""
   },
   "494": {
     "id": 494,
@@ -3877,7 +4264,8 @@
     "geonames_url": "https://sws.geonames.org/2844434/",
     "Working Notes": "Working Notes",
     "latitude": "50.99556",
-    "longitude": "9.72838"
+    "longitude": "9.72838",
+    "wikidata_url": ""
   },
   "497": {
     "id": 497,
@@ -3887,7 +4275,8 @@
     "geonames_url": "https://sws.geonames.org/2658813/",
     "Working Notes": "Working Notes",
     "latitude": "46.49937",
-    "longitude": "9.84327"
+    "longitude": "9.84327",
+    "wikidata_url": ""
   },
   "498": {
     "id": 498,
@@ -3897,7 +4286,8 @@
     "geonames_url": "https://sws.geonames.org/2837731/",
     "Working Notes": "Working Notes",
     "latitude": "50.89190",
-    "longitude": "14.23261"
+    "longitude": "14.23261",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2246488"
   },
   "499": {
     "id": 499,
@@ -3907,7 +4297,8 @@
     "geonames_url": "https://sws.geonames.org/764529/",
     "Working Notes": "Working Notes",
     "latitude": "52.44461",
-    "longitude": "20.69695"
+    "longitude": "20.69695",
+    "wikidata_url": "http://www.wikidata.org/entity/Q995207"
   },
   "500": {
     "id": 500,
@@ -3917,7 +4308,8 @@
     "geonames_url": "http://www.geonames.org/2810371/westerfelde.html",
     "Working Notes": "Working Notes",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "501": {
     "id": 501,
@@ -3927,7 +4319,8 @@
     "geonames_url": "https://sws.geonames.org/6436026/",
     "Working Notes": "Working Notes",
     "latitude": "49.25194",
-    "longitude": "4.55750"
+    "longitude": "4.55750",
+    "wikidata_url": ""
   },
   "502": {
     "id": 502,
@@ -3937,7 +4330,8 @@
     "geonames_url": "https://sws.geonames.org/6436035/",
     "Working Notes": "Working Notes",
     "latitude": "49.18361",
-    "longitude": "4.54361"
+    "longitude": "4.54361",
+    "wikidata_url": ""
   },
   "503": {
     "id": 503,
@@ -3947,7 +4341,8 @@
     "geonames_url": "http://www.geonames.org/6269131/england.html",
     "Working Notes": "Working Notes",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "504": {
     "id": 504,
@@ -3957,7 +4352,8 @@
     "geonames_url": "https://sws.geonames.org/2940187/",
     "Working Notes": "Working Notes",
     "latitude": "52.51667",
-    "longitude": "13.28333"
+    "longitude": "13.28333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q162049"
   },
   "505": {
     "id": 505,
@@ -3967,7 +4363,8 @@
     "geonames_url": "https://sws.geonames.org/6620083/",
     "Working Notes": "Working Notes",
     "latitude": "48.45969",
-    "longitude": "-5.08615"
+    "longitude": "-5.08615",
+    "wikidata_url": ""
   },
   "506": {
     "id": 506,
@@ -3977,7 +4374,8 @@
     "geonames_url": "https://sws.geonames.org/3081368/",
     "Working Notes": "Working Notes",
     "latitude": "51.10000",
-    "longitude": "17.03333"
+    "longitude": "17.03333",
+    "wikidata_url": ""
   },
   "507": {
     "id": 507,
@@ -3987,7 +4385,8 @@
     "geonames_url": "https://sws.geonames.org/2821480/",
     "Working Notes": "Working Notes",
     "latitude": "53.96304",
-    "longitude": "10.87090"
+    "longitude": "10.87090",
+    "wikidata_url": "http://www.wikidata.org/entity/Q321792"
   },
   "508": {
     "id": 508,
@@ -3997,7 +4396,8 @@
     "geonames_url": "https://sws.geonames.org/2862596/",
     "Working Notes": "Working Notes",
     "latitude": "53.99306",
-    "longitude": "10.82093"
+    "longitude": "10.82093",
+    "wikidata_url": ""
   },
   "511": {
     "id": 511,
@@ -4007,7 +4407,8 @@
     "geonames_url": "https://sws.geonames.org/2844988/",
     "Working Notes": "Working Notes",
     "latitude": "47.85637",
-    "longitude": "12.12247"
+    "longitude": "12.12247",
+    "wikidata_url": ""
   },
   "512": {
     "id": 512,
@@ -4017,7 +4418,8 @@
     "geonames_url": "https://sws.geonames.org/3164603/",
     "Working Notes": "Working Notes",
     "latitude": "45.43713",
-    "longitude": "12.33265"
+    "longitude": "12.33265",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33723961"
   },
   "513": {
     "id": 513,
@@ -4027,7 +4429,8 @@
     "geonames_url": "https://sws.geonames.org/2803095/",
     "Working Notes": "Working Notes",
     "latitude": "50.16667",
-    "longitude": "5.50000"
+    "longitude": "5.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q151985"
   },
   "514": {
     "id": 514,
@@ -4037,7 +4440,8 @@
     "geonames_url": "https://sws.geonames.org/2916161/",
     "Working Notes": "Working Notes",
     "latitude": "52.43781",
-    "longitude": "13.64981"
+    "longitude": "13.64981",
+    "wikidata_url": "http://www.wikidata.org/entity/Q694789"
   },
   "515": {
     "id": 515,
@@ -4047,7 +4451,8 @@
     "geonames_url": "https://sws.geonames.org/554234/",
     "Working Notes": "Working Notes",
     "latitude": "54.70649",
-    "longitude": "20.51095"
+    "longitude": "20.51095",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1829"
   },
   "516": {
     "id": 516,
@@ -4057,7 +4462,8 @@
     "geonames_url": "https://sws.geonames.org/2751773/",
     "Working Notes": "Working Notes",
     "latitude": "52.15833",
-    "longitude": "4.49306"
+    "longitude": "4.49306",
+    "wikidata_url": "http://www.wikidata.org/entity/Q43631"
   },
   "517": {
     "id": 517,
@@ -4067,7 +4473,8 @@
     "geonames_url": "https://sws.geonames.org/2856189/",
     "Working Notes": "Working Notes",
     "latitude": "54.37846",
-    "longitude": "13.69394"
+    "longitude": "13.69394",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32211140"
   },
   "519": {
     "id": 519,
@@ -4077,7 +4484,8 @@
     "geonames_url": "https://sws.geonames.org/6612952/",
     "Working Notes": "Working Notes",
     "latitude": "49.25500",
-    "longitude": "4.76250"
+    "longitude": "4.76250",
+    "wikidata_url": "http://www.wikidata.org/entity/Q473084"
   },
   "520": {
     "id": 520,
@@ -4087,7 +4495,8 @@
     "geonames_url": "https://sws.geonames.org/2745912/",
     "Working Notes": "Working Notes",
     "latitude": "52.09083",
-    "longitude": "5.12222"
+    "longitude": "5.12222",
+    "wikidata_url": "http://www.wikidata.org/entity/Q39297398"
   },
   "521": {
     "id": 521,
@@ -4097,7 +4506,8 @@
     "geonames_url": "https://sws.geonames.org/2747891/",
     "Working Notes": "Working Notes",
     "latitude": "51.92250",
-    "longitude": "4.47917"
+    "longitude": "4.47917",
+    "wikidata_url": "http://www.wikidata.org/entity/Q34370"
   },
   "522": {
     "id": 522,
@@ -4107,7 +4517,8 @@
     "geonames_url": "https://sws.geonames.org/2747599/",
     "Working Notes": "Working Notes",
     "latitude": "52.10461",
-    "longitude": "4.27557"
+    "longitude": "4.27557",
+    "wikidata_url": "http://www.wikidata.org/entity/Q837211"
   },
   "523": {
     "id": 523,
@@ -4117,7 +4528,8 @@
     "geonames_url": "https://sws.geonames.org/2757345/",
     "Working Notes": "Working Notes",
     "latitude": "52.00667",
-    "longitude": "4.35556"
+    "longitude": "4.35556",
+    "wikidata_url": "http://www.wikidata.org/entity/Q690"
   },
   "524": {
     "id": 524,
@@ -4127,7 +4539,8 @@
     "geonames_url": "https://sws.geonames.org/2820086/",
     "Working Notes": "Working Notes",
     "latitude": "51.56861",
-    "longitude": "7.71750"
+    "longitude": "7.71750",
+    "wikidata_url": "http://www.wikidata.org/entity/Q6163"
   },
   "525": {
     "id": 525,
@@ -4137,7 +4550,8 @@
     "geonames_url": "https://sws.geonames.org/2745340/",
     "Working Notes": "Working Notes",
     "latitude": "52.49500",
-    "longitude": "5.07083"
+    "longitude": "5.07083",
+    "wikidata_url": "http://www.wikidata.org/entity/Q903595"
   },
   "526": {
     "id": 526,
@@ -4147,7 +4561,8 @@
     "geonames_url": "https://sws.geonames.org/2759661/",
     "Working Notes": "Working Notes",
     "latitude": "51.98000",
-    "longitude": "5.91111"
+    "longitude": "5.91111",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1310"
   },
   "527": {
     "id": 527,
@@ -4157,7 +4572,8 @@
     "geonames_url": "https://sws.geonames.org/2755251/",
     "Working Notes": "Working Notes",
     "latitude": "53.21917",
-    "longitude": "6.56667"
+    "longitude": "6.56667",
+    "wikidata_url": "http://www.wikidata.org/entity/Q749"
   },
   "528": {
     "id": 528,
@@ -4167,7 +4583,8 @@
     "geonames_url": "https://sws.geonames.org/2753361/",
     "Working Notes": "Working Notes",
     "latitude": "52.82762",
-    "longitude": "5.24814"
+    "longitude": "5.24814",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4121"
   },
   "529": {
     "id": 529,
@@ -4177,7 +4594,8 @@
     "geonames_url": "https://sws.geonames.org/2953458/",
     "Working Notes": "Working Notes",
     "latitude": "52.78730",
-    "longitude": "14.03040"
+    "longitude": "14.03040",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31897099"
   },
   "530": {
     "id": 530,
@@ -4187,7 +4605,8 @@
     "geonames_url": "https://sws.geonames.org/2935517/",
     "Working Notes": "Working Notes",
     "latitude": "51.51494",
-    "longitude": "7.46600"
+    "longitude": "7.46600",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31971850"
   },
   "531": {
     "id": 531,
@@ -4197,7 +4616,8 @@
     "geonames_url": "https://sws.geonames.org/2950159/",
     "Working Notes": "Working Notes",
     "latitude": "52.52437",
-    "longitude": "13.41053"
+    "longitude": "13.41053",
+    "wikidata_url": "http://www.wikidata.org/entity/Q64"
   },
   "532": {
     "id": 532,
@@ -4207,7 +4627,8 @@
     "geonames_url": "https://sws.geonames.org/2887560/",
     "Working Notes": "Working Notes",
     "latitude": "54.58655",
-    "longitude": "13.10559"
+    "longitude": "13.10559",
+    "wikidata_url": ""
   },
   "533": {
     "id": 533,
@@ -4217,7 +4638,8 @@
     "geonames_url": "https://sws.geonames.org/2885777/",
     "Working Notes": "Working Notes",
     "latitude": "47.55567",
-    "longitude": "12.97802"
+    "longitude": "12.97802",
+    "wikidata_url": "http://www.wikidata.org/entity/Q156715"
   },
   "534": {
     "id": 534,
@@ -4227,7 +4649,8 @@
     "geonames_url": "https://sws.geonames.org/2950881/",
     "Working Notes": "Working Notes",
     "latitude": "47.63236",
-    "longitude": "13.00187"
+    "longitude": "13.00187",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31910292"
   },
   "535": {
     "id": 535,
@@ -4237,7 +4660,8 @@
     "geonames_url": "https://sws.geonames.org/2904885/",
     "Working Notes": "Working Notes",
     "latitude": "54.53919",
-    "longitude": "13.09910"
+    "longitude": "13.09910",
+    "wikidata_url": ""
   },
   "538": {
     "id": 538,
@@ -4247,7 +4671,8 @@
     "geonames_url": "https://sws.geonames.org/762423/",
     "Working Notes": "Working Notes",
     "latitude": "52.08140",
-    "longitude": "21.02397"
+    "longitude": "21.02397",
+    "wikidata_url": "http://www.wikidata.org/entity/Q741876"
   },
   "539": {
     "id": 539,
@@ -4257,7 +4682,8 @@
     "geonames_url": "https://sws.geonames.org/2953395/",
     "Working Notes": "Working Notes",
     "latitude": "50.36463",
-    "longitude": "8.73859"
+    "longitude": "8.73859",
+    "wikidata_url": ""
   },
   "540": {
     "id": 540,
@@ -4267,7 +4693,8 @@
     "geonames_url": "https://sws.geonames.org/2911007/",
     "Working Notes": "Working Notes",
     "latitude": "50.13423",
-    "longitude": "8.91418"
+    "longitude": "8.91418",
+    "wikidata_url": ""
   },
   "541": {
     "id": 541,
@@ -4277,7 +4704,8 @@
     "geonames_url": "",
     "Working Notes": "Working Notes",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "542": {
     "id": 542,
@@ -4287,7 +4715,8 @@
     "geonames_url": "https://sws.geonames.org/2661881/",
     "Working Notes": "Working Notes",
     "latitude": "47.39254",
-    "longitude": "8.04422"
+    "longitude": "8.04422",
+    "wikidata_url": "http://www.wikidata.org/entity/Q14274"
   },
   "543": {
     "id": 543,
@@ -4297,7 +4726,8 @@
     "geonames_url": "https://sws.geonames.org/2812482/",
     "Working Notes": "Working Notes",
     "latitude": "50.98030",
-    "longitude": "11.32903"
+    "longitude": "11.32903",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067990"
   },
   "545": {
     "id": 545,
@@ -4307,7 +4737,8 @@
     "geonames_url": "https://sws.geonames.org/3082637/",
     "Working Notes": "Working Notes",
     "latitude": "53.27466",
-    "longitude": "15.46257"
+    "longitude": "15.46257",
+    "wikidata_url": "http://www.wikidata.org/entity/Q7968275"
   },
   "546": {
     "id": 546,
@@ -4317,7 +4748,8 @@
     "geonames_url": "https://sws.geonames.org/2927896/",
     "Working Notes": "Working Notes",
     "latitude": "53.26711",
-    "longitude": "14.00542"
+    "longitude": "14.00542",
+    "wikidata_url": ""
   },
   "548": {
     "id": 548,
@@ -4327,7 +4759,8 @@
     "geonames_url": "https://sws.geonames.org/3099434/",
     "Working Notes": "Working Notes",
     "latitude": "54.35227",
-    "longitude": "18.64912"
+    "longitude": "18.64912",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1792"
   },
   "549": {
     "id": 549,
@@ -4337,7 +4770,8 @@
     "geonames_url": "https://sws.geonames.org/2866930/",
     "Working Notes": "Working Notes",
     "latitude": "52.60701",
-    "longitude": "12.87374"
+    "longitude": "12.87374",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32174574"
   },
   "551": {
     "id": 551,
@@ -4347,7 +4781,8 @@
     "geonames_url": "https://sws.geonames.org/2948503/",
     "Working Notes": "Working Notes",
     "latitude": "52.69106",
-    "longitude": "13.27833"
+    "longitude": "13.27833",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31914245"
   },
   "553": {
     "id": 553,
@@ -4357,7 +4792,8 @@
     "geonames_url": "https://sws.geonames.org/3100640/",
     "Working Notes": "Darłówko (Polen)",
     "latitude": "54.43518",
-    "longitude": "16.37731"
+    "longitude": "16.37731",
+    "wikidata_url": "http://www.wikidata.org/entity/Q336454"
   },
   "554": {
     "id": 554,
@@ -4367,7 +4803,8 @@
     "geonames_url": "https://sws.geonames.org/4140963/",
     "Working Notes": "Working Notes",
     "latitude": "38.89511",
-    "longitude": "-77.03637"
+    "longitude": "-77.03637",
+    "wikidata_url": "http://www.wikidata.org/entity/Q61"
   },
   "555": {
     "id": 555,
@@ -4377,7 +4814,8 @@
     "geonames_url": "https://sws.geonames.org/2829901/",
     "Working Notes": "Working Notes",
     "latitude": "53.59337",
-    "longitude": "9.47629"
+    "longitude": "9.47629",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32747857"
   },
   "556": {
     "id": 556,
@@ -4387,7 +4825,8 @@
     "geonames_url": "https://sws.geonames.org/2872155/",
     "Working Notes": "Working Notes",
     "latitude": "51.16158",
-    "longitude": "13.47370"
+    "longitude": "13.47370",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32638348"
   },
   "557": {
     "id": 557,
@@ -4397,7 +4836,8 @@
     "geonames_url": "https://sws.geonames.org/2867613/",
     "Working Notes": "Working Notes",
     "latitude": "51.41505",
-    "longitude": "9.65046"
+    "longitude": "9.65046",
+    "wikidata_url": "http://www.wikidata.org/entity/Q165380"
   },
   "558": {
     "id": 558,
@@ -4407,7 +4847,8 @@
     "geonames_url": "https://sws.geonames.org/2881509/",
     "Working Notes": "Working Notes",
     "latitude": "48.04819",
-    "longitude": "10.88282"
+    "longitude": "10.88282",
+    "wikidata_url": ""
   },
   "559": {
     "id": 559,
@@ -4417,7 +4858,8 @@
     "geonames_url": "https://sws.geonames.org/2877106/",
     "Working Notes": "Working Notes",
     "latitude": "52.68481",
-    "longitude": "11.91244"
+    "longitude": "11.91244",
+    "wikidata_url": "http://www.wikidata.org/entity/Q648578"
   },
   "561": {
     "id": 561,
@@ -4427,7 +4869,8 @@
     "geonames_url": "https://sws.geonames.org/2953528/",
     "Working Notes": "",
     "latitude": "54.10712",
-    "longitude": "11.90051"
+    "longitude": "11.90051",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31896916"
   },
   "562": {
     "id": 562,
@@ -4437,7 +4880,8 @@
     "geonames_url": "https://sws.geonames.org/2874255/",
     "Working Notes": "",
     "latitude": "50.05802",
-    "longitude": "10.28801"
+    "longitude": "10.28801",
+    "wikidata_url": ""
   },
   "563": {
     "id": 563,
@@ -4447,7 +4891,8 @@
     "geonames_url": "https://sws.geonames.org/3092472/",
     "Working Notes": "",
     "latitude": "54.03591",
-    "longitude": "19.02660"
+    "longitude": "19.02660",
+    "wikidata_url": "http://www.wikidata.org/entity/Q146820"
   },
   "564": {
     "id": 564,
@@ -4457,7 +4902,8 @@
     "geonames_url": "https://sws.geonames.org/11777214/",
     "Working Notes": "",
     "latitude": "50.40195",
-    "longitude": "7.25174"
+    "longitude": "7.25174",
+    "wikidata_url": ""
   },
   "565": {
     "id": 565,
@@ -4467,7 +4913,8 @@
     "geonames_url": "https://sws.geonames.org/2884482/",
     "Working Notes": "",
     "latitude": "51.85363",
-    "longitude": "9.96481"
+    "longitude": "9.96481",
+    "wikidata_url": "http://www.wikidata.org/entity/Q503423"
   },
   "566": {
     "id": 566,
@@ -4477,7 +4924,8 @@
     "geonames_url": "https://sws.geonames.org/2924713/",
     "Working Notes": "(Friedersdorf-Storkow, L00891)",
     "latitude": "52.29476",
-    "longitude": "13.78894"
+    "longitude": "13.78894",
+    "wikidata_url": ""
   },
   "567": {
     "id": 567,
@@ -4487,7 +4935,8 @@
     "geonames_url": "https://sws.geonames.org/2917737/",
     "Working Notes": "",
     "latitude": "50.65778",
-    "longitude": "12.19918"
+    "longitude": "12.19918",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32041969"
   },
   "569": {
     "id": 569,
@@ -4497,7 +4946,8 @@
     "geonames_url": "https://sws.geonames.org/2921232/",
     "Working Notes": "",
     "latitude": "50.88029",
-    "longitude": "12.08187"
+    "longitude": "12.08187",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32029631"
   },
   "570": {
     "id": 570,
@@ -4507,7 +4957,8 @@
     "geonames_url": "https://sws.geonames.org/2781520/",
     "Working Notes": "",
     "latitude": "48.25628",
-    "longitude": "13.04343"
+    "longitude": "13.04343",
+    "wikidata_url": "http://www.wikidata.org/entity/Q21880244"
   },
   "571": {
     "id": 571,
@@ -4517,7 +4968,8 @@
     "geonames_url": "https://sws.geonames.org/2987421/",
     "Working Notes": "",
     "latitude": "48.76771",
-    "longitude": "7.25820"
+    "longitude": "7.25820",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22160"
   },
   "572": {
     "id": 572,
@@ -4527,7 +4979,8 @@
     "geonames_url": "https://sws.geonames.org/2948066/",
     "Working Notes": "",
     "latitude": "53.55698",
-    "longitude": "9.80590"
+    "longitude": "9.80590",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1607"
   },
   "574": {
     "id": 574,
@@ -4537,7 +4990,8 @@
     "geonames_url": "https://sws.geonames.org/2911296/",
     "Working Notes": "",
     "latitude": "53.55000",
-    "longitude": "9.93333"
+    "longitude": "9.93333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1630"
   },
   "575": {
     "id": 575,
@@ -4547,7 +5001,8 @@
     "geonames_url": "https://sws.geonames.org/2898917/",
     "Working Notes": "",
     "latitude": "53.55406",
-    "longitude": "10.08989"
+    "longitude": "10.08989",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1572"
   },
   "576": {
     "id": 576,
@@ -4557,7 +5012,8 @@
     "geonames_url": "https://sws.geonames.org/2807748/",
     "Working Notes": "",
     "latitude": "53.59628",
-    "longitude": "10.01785"
+    "longitude": "10.01785",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1148"
   },
   "577": {
     "id": 577,
@@ -4567,7 +5023,8 @@
     "geonames_url": "https://sws.geonames.org/2857650/",
     "Working Notes": "",
     "latitude": "53.62594",
-    "longitude": "10.03145"
+    "longitude": "10.03145",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1157"
   },
   "578": {
     "id": 578,
@@ -4577,7 +5034,8 @@
     "geonames_url": "https://sws.geonames.org/2890473/",
     "Working Notes": "",
     "latitude": "48.64683",
-    "longitude": "9.45378"
+    "longitude": "9.45378",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32065270"
   },
   "579": {
     "id": 579,
@@ -4587,7 +5045,8 @@
     "geonames_url": "https://sws.geonames.org/2931217/",
     "Working Notes": "",
     "latitude": "53.23191",
-    "longitude": "11.41804"
+    "longitude": "11.41804",
+    "wikidata_url": ""
   },
   "580": {
     "id": 580,
@@ -4597,7 +5056,8 @@
     "geonames_url": "https://sws.geonames.org/2808741/",
     "Working Notes": "",
     "latitude": "52.37217",
-    "longitude": "12.50533"
+    "longitude": "12.50533",
+    "wikidata_url": ""
   },
   "581": {
     "id": 581,
@@ -4607,7 +5067,8 @@
     "geonames_url": "https://sws.geonames.org/2945356/",
     "Working Notes": "",
     "latitude": "52.45905",
-    "longitude": "13.01582"
+    "longitude": "13.01582",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1208"
   },
   "582": {
     "id": 582,
@@ -4617,7 +5078,8 @@
     "geonames_url": "https://sws.geonames.org/6254930/",
     "Working Notes": "",
     "latitude": "31.92157",
-    "longitude": "35.20329"
+    "longitude": "35.20329",
+    "wikidata_url": "http://www.wikidata.org/entity/Q219060"
   },
   "583": {
     "id": 583,
@@ -4627,7 +5089,8 @@
     "geonames_url": "https://sws.geonames.org/2896514/",
     "Working Notes": "",
     "latitude": "50.68322",
-    "longitude": "10.91858"
+    "longitude": "10.91858",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32062217"
   },
   "584": {
     "id": 584,
@@ -4637,7 +5100,8 @@
     "geonames_url": "https://sws.geonames.org/2953533/",
     "Working Notes": "",
     "latitude": "48.80480",
-    "longitude": "9.21450"
+    "longitude": "9.21450",
+    "wikidata_url": "http://www.wikidata.org/entity/Q656982"
   },
   "585": {
     "id": 585,
@@ -4647,7 +5111,8 @@
     "geonames_url": "https://sws.geonames.org/3369157/",
     "Working Notes": "",
     "latitude": "-33.92584",
-    "longitude": "18.42322"
+    "longitude": "18.42322",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5465"
   },
   "586": {
     "id": 586,
@@ -4657,7 +5122,8 @@
     "geonames_url": "https://sws.geonames.org/1850147/",
     "Working Notes": "",
     "latitude": "35.68950",
-    "longitude": "139.69171"
+    "longitude": "139.69171",
+    "wikidata_url": "http://www.wikidata.org/entity/Q7473516"
   },
   "587": {
     "id": 587,
@@ -4667,7 +5133,8 @@
     "geonames_url": "https://sws.geonames.org/2871039/",
     "Working Notes": "",
     "latitude": "52.28953",
-    "longitude": "8.91455"
+    "longitude": "8.91455",
+    "wikidata_url": ""
   },
   "588": {
     "id": 588,
@@ -4677,7 +5144,8 @@
     "geonames_url": "https://sws.geonames.org/11862087/",
     "Working Notes": "",
     "latitude": "50.04338",
-    "longitude": "7.13676"
+    "longitude": "7.13676",
+    "wikidata_url": ""
   },
   "589": {
     "id": 589,
@@ -4687,7 +5155,8 @@
     "geonames_url": "https://sws.geonames.org/2941826/",
     "Working Notes": "",
     "latitude": "50.05448",
-    "longitude": "7.13730"
+    "longitude": "7.13730",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31924899"
   },
   "590": {
     "id": 590,
@@ -4697,7 +5166,8 @@
     "geonames_url": "https://sws.geonames.org/2955585/",
     "Working Notes": "(müsste herausfinden welches Arkona hier gemeint ist)",
     "latitude": "54.67960",
-    "longitude": "13.43274"
+    "longitude": "13.43274",
+    "wikidata_url": "http://www.wikidata.org/entity/Q4110"
   },
   "591": {
     "id": 591,
@@ -4707,7 +5177,8 @@
     "geonames_url": "https://sws.geonames.org/3220857/",
     "Working Notes": "",
     "latitude": "49.01315",
-    "longitude": "12.11190"
+    "longitude": "12.11190",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067968"
   },
   "592": {
     "id": 592,
@@ -4717,7 +5188,8 @@
     "geonames_url": "https://sws.geonames.org/2855328/",
     "Working Notes": "",
     "latitude": "48.56650",
-    "longitude": "13.43122"
+    "longitude": "13.43122",
+    "wikidata_url": "http://www.wikidata.org/entity/Q120753915"
   },
   "594": {
     "id": 594,
@@ -4727,7 +5199,8 @@
     "geonames_url": "https://sws.geonames.org/3084840/",
     "Working Notes": "Stargard (Polen)",
     "latitude": "53.33672",
-    "longitude": "15.04990"
+    "longitude": "15.04990",
+    "wikidata_url": "http://www.wikidata.org/entity/Q106268"
   },
   "595": {
     "id": 595,
@@ -4737,7 +5210,8 @@
     "geonames_url": "https://sws.geonames.org/3088171/",
     "Working Notes": "(VORSICHT Bahnpost zwischen Berlin und Posen (Polen)->Endziel genommen)",
     "latitude": "52.40692",
-    "longitude": "16.92993"
+    "longitude": "16.92993",
+    "wikidata_url": "http://www.wikidata.org/entity/Q268"
   },
   "596": {
     "id": 596,
@@ -4747,7 +5221,8 @@
     "geonames_url": "https://sws.geonames.org/2853292/",
     "Working Notes": "",
     "latitude": "50.49730",
-    "longitude": "12.13782"
+    "longitude": "12.13782",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32227563"
   },
   "597": {
     "id": 597,
@@ -4757,7 +5232,8 @@
     "geonames_url": "https://sws.geonames.org/2918752/",
     "Working Notes": "",
     "latitude": "50.94823",
-    "longitude": "10.70193"
+    "longitude": "10.70193",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32038418"
   },
   "599": {
     "id": 599,
@@ -4767,7 +5243,8 @@
     "geonames_url": "https://sws.geonames.org/2912719/",
     "Working Notes": "",
     "latitude": "51.50910",
-    "longitude": "10.65900"
+    "longitude": "10.65900",
+    "wikidata_url": ""
   },
   "600": {
     "id": 600,
@@ -4777,7 +5254,8 @@
     "geonames_url": "https://sws.geonames.org/2944885/",
     "Working Notes": "",
     "latitude": "52.58866",
-    "longitude": "12.92662"
+    "longitude": "12.92662",
+    "wikidata_url": ""
   },
   "602": {
     "id": 602,
@@ -4787,7 +5265,8 @@
     "geonames_url": "https://sws.geonames.org/2908644/",
     "Working Notes": "",
     "latitude": "52.83088",
-    "longitude": "12.07552"
+    "longitude": "12.07552",
+    "wikidata_url": ""
   },
   "603": {
     "id": 603,
@@ -4797,7 +5276,8 @@
     "geonames_url": "https://sws.geonames.org/2953403/",
     "Working Notes": "",
     "latitude": "51.89588",
-    "longitude": "8.98313"
+    "longitude": "8.98313",
+    "wikidata_url": "http://www.wikidata.org/entity/Q798730"
   },
   "604": {
     "id": 604,
@@ -4807,7 +5287,8 @@
     "geonames_url": "https://sws.geonames.org/2650225/",
     "Working Notes": "(United Kingdom vermutlich und nicht USA)",
     "latitude": "55.95206",
-    "longitude": "-3.19648"
+    "longitude": "-3.19648",
+    "wikidata_url": "http://www.wikidata.org/entity/Q23436"
   },
   "605": {
     "id": 605,
@@ -4817,7 +5298,8 @@
     "geonames_url": "https://sws.geonames.org/2834497/",
     "Working Notes": "",
     "latitude": "51.44714",
-    "longitude": "13.39138"
+    "longitude": "13.39138",
+    "wikidata_url": ""
   },
   "606": {
     "id": 606,
@@ -4827,7 +5309,8 @@
     "geonames_url": "https://sws.geonames.org/2956426/",
     "Working Notes": "",
     "latitude": "47.99668",
-    "longitude": "11.12716"
+    "longitude": "11.12716",
+    "wikidata_url": "http://www.wikidata.org/entity/Q265336"
   },
   "607": {
     "id": 607,
@@ -4837,7 +5320,8 @@
     "geonames_url": "https://sws.geonames.org/2945055/",
     "Working Notes": "",
     "latitude": "51.72651",
-    "longitude": "10.61090"
+    "longitude": "10.61090",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31920437"
   },
   "608": {
     "id": 608,
@@ -4847,7 +5331,8 @@
     "geonames_url": "https://sws.geonames.org/2956054/",
     "Working Notes": "",
     "latitude": "52.50341",
-    "longitude": "13.38158"
+    "longitude": "13.38158",
+    "wikidata_url": "http://www.wikidata.org/entity/Q695244"
   },
   "609": {
     "id": 609,
@@ -4857,7 +5342,8 @@
     "geonames_url": "https://sws.geonames.org/2958049/",
     "Working Notes": "",
     "latitude": "52.43151",
-    "longitude": "13.84051"
+    "longitude": "13.84051",
+    "wikidata_url": "http://www.wikidata.org/entity/Q110249085"
   },
   "610": {
     "id": 610,
@@ -4867,7 +5353,8 @@
     "geonames_url": "https://sws.geonames.org/2928810/",
     "Working Notes": "",
     "latitude": "51.45657",
-    "longitude": "7.01228"
+    "longitude": "7.01228",
+    "wikidata_url": ""
   },
   "613": {
     "id": 613,
@@ -4877,7 +5364,8 @@
     "geonames_url": "https://sws.geonames.org/7303020/",
     "Working Notes": "",
     "latitude": "51.86610",
-    "longitude": "12.64973"
+    "longitude": "12.64973",
+    "wikidata_url": ""
   },
   "614": {
     "id": 614,
@@ -4887,7 +5375,8 @@
     "geonames_url": "https://sws.geonames.org/2953455/",
     "Working Notes": "(Bad Godesberg)",
     "latitude": "50.68457",
-    "longitude": "7.15393"
+    "longitude": "7.15393",
+    "wikidata_url": "http://www.wikidata.org/entity/Q153260"
   },
   "615": {
     "id": 615,
@@ -4897,7 +5386,8 @@
     "geonames_url": "https://sws.geonames.org/2839605/",
     "Working Notes": "",
     "latitude": "52.67550",
-    "longitude": "10.08243"
+    "longitude": "10.08243",
+    "wikidata_url": ""
   },
   "616": {
     "id": 616,
@@ -4907,7 +5397,8 @@
     "geonames_url": "https://sws.geonames.org/3101629/",
     "Working Notes": "",
     "latitude": "53.91667",
-    "longitude": "14.28333"
+    "longitude": "14.28333",
+    "wikidata_url": ""
   },
   "617": {
     "id": 617,
@@ -4917,7 +5408,8 @@
     "geonames_url": "https://sws.geonames.org/2894814/",
     "Working Notes": "",
     "latitude": "50.43254",
-    "longitude": "12.71140"
+    "longitude": "12.71140",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32063218"
   },
   "618": {
     "id": 618,
@@ -4927,7 +5419,8 @@
     "geonames_url": "https://sws.geonames.org/2846261/",
     "Working Notes": "",
     "latitude": "51.05007",
-    "longitude": "12.79754"
+    "longitude": "12.79754",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32261100"
   },
   "619": {
     "id": 619,
@@ -4937,7 +5430,8 @@
     "geonames_url": "https://sws.geonames.org/3095057/",
     "Working Notes": "",
     "latitude": "52.58713",
-    "longitude": "14.64953"
+    "longitude": "14.64953",
+    "wikidata_url": "http://www.wikidata.org/entity/Q156837"
   },
   "620": {
     "id": 620,
@@ -4947,7 +5441,8 @@
     "geonames_url": "",
     "Working Notes": "Vgl. L00184: Eine Tante reiste von dort nach Interlaken",
     "latitude": null,
-    "longitude": null
+    "longitude": null,
+    "wikidata_url": ""
   },
   "621": {
     "id": 621,
@@ -4957,7 +5452,8 @@
     "geonames_url": "https://sws.geonames.org/2862539/",
     "Working Notes": "",
     "latitude": "51.44164",
-    "longitude": "11.39832"
+    "longitude": "11.39832",
+    "wikidata_url": "http://www.wikidata.org/entity/Q372342"
   },
   "622": {
     "id": 622,
@@ -4967,7 +5463,8 @@
     "geonames_url": "https://sws.geonames.org/2908032/",
     "Working Notes": "",
     "latitude": "54.19579",
-    "longitude": "9.09880"
+    "longitude": "9.09880",
+    "wikidata_url": ""
   },
   "623": {
     "id": 623,
@@ -4977,7 +5474,8 @@
     "geonames_url": "https://sws.geonames.org/2807184/",
     "Working Notes": "",
     "latitude": "51.34103",
-    "longitude": "9.85540"
+    "longitude": "9.85540",
+    "wikidata_url": ""
   },
   "624": {
     "id": 624,
@@ -4987,7 +5485,8 @@
     "geonames_url": "https://sws.geonames.org/2659792/",
     "Working Notes": "",
     "latitude": "46.01175",
-    "longitude": "8.70754"
+    "longitude": "8.70754",
+    "wikidata_url": "http://www.wikidata.org/entity/Q14379"
   },
   "625": {
     "id": 625,
@@ -4997,7 +5496,8 @@
     "geonames_url": "https://sws.geonames.org/3103476/",
     "Working Notes": "",
     "latitude": "50.69075",
-    "longitude": "16.62300"
+    "longitude": "16.62300",
+    "wikidata_url": "http://www.wikidata.org/entity/Q857331"
   },
   "626": {
     "id": 626,
@@ -5007,7 +5507,8 @@
     "geonames_url": "https://sws.geonames.org/734077/",
     "Working Notes": "",
     "latitude": "40.64361",
-    "longitude": "22.93086"
+    "longitude": "22.93086",
+    "wikidata_url": "http://www.wikidata.org/entity/Q17151"
   },
   "627": {
     "id": 627,
@@ -5017,6 +5518,7 @@
     "geonames_url": "https://sws.geonames.org/2872192/",
     "Working Notes": "",
     "latitude": "51.70921",
-    "longitude": "11.29375"
+    "longitude": "11.29375",
+    "wikidata_url": "http://www.wikidata.org/entity/Q876084"
   }
 }
