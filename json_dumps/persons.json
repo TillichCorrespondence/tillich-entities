@@ -52504,5 +52504,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "2927": {
+    "id": 2927,
+    "order": "2922.00000000000000000000",
+    "name": "Kiefer",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2927",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Wird in L00236 als Repetent bezeichnet",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "2928": {
+    "id": 2928,
+    "order": "2923.00000000000000000000",
+    "name": "",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2928",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
