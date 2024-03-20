@@ -16826,7 +16826,24 @@
                   <persName>Kiefer</persName>
                </person>
                <person xml:id="tillich_person_id__2928">
-                  <persName/>
+                  <persName>von Luschan, Felix</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117319813</idno>
+               </person>
+               <person xml:id="tillich_person_id__2929">
+                  <persName>von Bode, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119034921</idno>
+               </person>
+               <person xml:id="tillich_person_id__2930">
+                  <persName>Ankermann, Bernhard</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117661813</idno>
+               </person>
+               <person xml:id="tillich_person_id__2931">
+                  <persName>Graebner, Fritz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117551163</idno>
+               </person>
+               <person xml:id="tillich_person_id__2932">
+                  <persName>Schmidt, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118608959</idno>
                </person>
             </listPerson>
          </div>
