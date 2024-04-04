@@ -52612,5 +52612,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "2933": {
+    "id": 2933,
+    "order": "2928.00000000000000000000",
+    "name": "Scheler, Märit",
+    "surname": "Scheler (geb. Furtwängler)",
+    "forename": "Märit",
+    "from_to": "1891-1971",
+    "occupation": "Tochter Adolf Furtwänglers, Gattin Max Schelers (1923 gesch.)",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/117195197",
+    "tillich_id": "tillich_person_id__2933",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "2934": {
+    "id": 2934,
+    "order": "2929.00000000000000000000",
+    "name": "Scheler, Maria",
+    "surname": "Scheler (geb. Scheu)",
+    "forename": "Maria",
+    "from_to": "1892-1969",
+    "occupation": "Soziologin, seit 1924 Gattin Max Schelers",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/140544836",
+    "tillich_id": "tillich_person_id__2934",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

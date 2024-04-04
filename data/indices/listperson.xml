@@ -16845,6 +16845,16 @@
                   <persName>Schmidt, Wilhelm</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118608959</idno>
                </person>
+               <person xml:id="tillich_person_id__2933">
+                  <persName>Scheler, Märit</persName>
+                  <occupation>Tochter Adolf Furtwänglers, Gattin Max Schelers (1923 gesch.)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117195197</idno>
+               </person>
+               <person xml:id="tillich_person_id__2934">
+                  <persName>Scheler, Maria</persName>
+                  <occupation>Soziologin, seit 1924 Gattin Max Schelers</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140544836</idno>
+               </person>
             </listPerson>
          </div>
       </body>
