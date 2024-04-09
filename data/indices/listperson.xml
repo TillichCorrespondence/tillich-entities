@@ -2758,6 +2758,7 @@
                <person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
                   <occupation>Tochter von Paul Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
                <person xml:id="tillich_person_id__571">
                   <persName>Farris, Madeleine</persName>
@@ -16854,6 +16855,31 @@
                   <persName>Scheler, Maria</persName>
                   <occupation>Soziologin, seit 1924 Gattin Max Schelers</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/140544836</idno>
+               </person>
+               <person xml:id="tillich_person_id__2935">
+                  <persName>Paul, Bruno</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118739557</idno>
+               </person>
+               <person xml:id="tillich_person_id__2936">
+                  <persName>Erdmann, Eduard</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118685104</idno>
+               </person>
+               <person xml:id="tillich_person_id__2937">
+                  <persName>Erdmann, Irene</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116530804</idno>
+               </person>
+               <person xml:id="tillich_person_id__2938">
+                  <persName>Ferrara, Francesca</persName>
+                  <birth>
+                     <date>1985</date>
+                  </birth>
+                  <occupation>Philosophin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1154497305</idno>
+               </person>
+               <person xml:id="tillich_person_id__2939">
+                  <persName>Schüz, Peter</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1029992940</idno>
                </person>
             </listPerson>
          </div>
