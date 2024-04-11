@@ -16881,6 +16881,14 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1029992940</idno>
                </person>
+               <person xml:id="tillich_person_id__2940">
+                  <persName>???, (Großtante)</persName>
+                  <note type="bio"><p>Unbekannte Großtante Paul Tillichs aus Berlin.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2941">
+                  <persName>???, (Großonkel)</persName>
+                  <note type="bio"><p>Unbekannter Großonkel Paul Tillichs aus Berlin.</p></note>
+               </person>
             </listPerson>
          </div>
       </body>

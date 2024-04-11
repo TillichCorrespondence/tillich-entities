@@ -52738,5 +52738,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "2940": {
+    "id": 2940,
+    "order": "2935.00000000000000000000",
+    "name": "???, (Großtante)",
+    "surname": "???",
+    "forename": "(Großtante",
+    "from_to": "",
+    "occupation": "",
+    "bio": "Unbekannte Großtante Paul Tillichs aus Berlin.",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2940",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "2941": {
+    "id": 2941,
+    "order": "2936.00000000000000000000",
+    "name": "???, (Großonkel)",
+    "surname": "???",
+    "forename": "(Großonkel)",
+    "from_to": "",
+    "occupation": "",
+    "bio": "Unbekannter Großonkel Paul Tillichs aus Berlin.",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2941",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
