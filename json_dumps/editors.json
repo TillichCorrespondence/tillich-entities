@@ -1,0 +1,116 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Alma Ament",
+    "orcid_url": "https://orcid.org/0009-0002-5479-2296"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Andreas Burri",
+    "orcid_url": "https://orcid.org/0000-0002-8410-4290"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Emil Lusser",
+    "orcid_url": "https://orcid.org/0000-0001-5007-7397"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Friedrich Schumann",
+    "orcid_url": "https://orcid.org/0000-0002-8408-8657"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Gerrit Mauritz",
+    "orcid_url": "https://orcid.org/0000-0002-0440-4008"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Jonas Epple",
+    "orcid_url": "https://orcid.org/0009-0005-1475-7324"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Julian Jöri",
+    "orcid_url": "https://orcid.org/0009-0003-2985-2151"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Leopld Potyka",
+    "orcid_url": "https://orcid.org/0009-0008-9645-8839"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Leopold Potyka",
+    "orcid_url": "https://orcid.org/0009-0008-9645-8839"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Niklas von Hülsen",
+    "orcid_url": "https://orcid.org/0009-0007-2445-9093"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Paul Schömann",
+    "orcid_url": "https://orcid.org/0009-0003-9642-5125"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Sebastian Kueffner",
+    "orcid_url": "https://orcid.org/0009-0006-5231-3094"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "name": "Harald Hauri",
+    "orcid_url": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "name": "Johannes Heider",
+    "orcid_url": ""
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "name": "Friedrich Wilhelm Graf",
+    "orcid_url": ""
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "Christian Danz",
+    "orcid_url": "https://orcid.org/0000-0003-4096-603X"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Thomas Scheiwiller",
+    "orcid_url": "https://orcid.org/0000-0003-4671-1839"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Fotios Komotoglou",
+    "orcid_url": ""
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "",
+    "orcid_url": ""
+  }
+}
