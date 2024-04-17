@@ -5520,5 +5520,16 @@
     "latitude": "51.70921",
     "longitude": "11.29375",
     "wikidata_url": "http://www.wikidata.org/entity/Q876084"
+  },
+  "628": {
+    "id": 628,
+    "order": "622.00000000000000000000",
+    "name": "Hofgeismar",
+    "tillich_id": "tillich_place_id__628",
+    "geonames_url": "https://sws.geonames.org/2902559/",
+    "Working Notes": "",
+    "latitude": "51.49607",
+    "longitude": "9.38500",
+    "wikidata_url": ""
   }
 }
