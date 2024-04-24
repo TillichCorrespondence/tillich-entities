@@ -16918,6 +16918,10 @@
                   <occupation>Romanist und Mediävist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
                </person>
+               <person xml:id="tillich_person_id__2949">
+                  <persName>v. W.</persName>
+                  <occupation>Unklare Lesart</occupation>
+               </person>
             </listPerson>
          </div>
       </body>

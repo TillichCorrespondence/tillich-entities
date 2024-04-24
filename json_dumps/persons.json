@@ -52900,5 +52900,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "2949": {
+    "id": 2949,
+    "order": "2944.00000000000000000000",
+    "name": "v. W.",
+    "surname": "???",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "Unklare Lesart",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__2949",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
