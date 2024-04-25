@@ -16922,6 +16922,12 @@
                   <persName>v. W.</persName>
                   <occupation>Unklare Lesart</occupation>
                </person>
+               <person xml:id="tillich_person_id__2950">
+                  <persName>Jantzen, Hans</persName>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118711849</idno>
+                  <note type="bio"><p>Lehrte ab 1931 in Frankfurt am Main.</p></note>
+               </person>
             </listPerson>
          </div>
       </body>

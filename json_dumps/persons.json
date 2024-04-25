@@ -52918,5 +52918,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "2950": {
+    "id": 2950,
+    "order": "2945.00000000000000000000",
+    "name": "Jantzen, Hans",
+    "surname": "Jantzen",
+    "forename": "Hans",
+    "from_to": "1881-1967",
+    "occupation": "Kunsthistoriker",
+    "bio": "Lehrte ab 1931 in Frankfurt am Main.",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/118711849",
+    "tillich_id": "tillich_person_id__2950",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
