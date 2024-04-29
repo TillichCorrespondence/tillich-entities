@@ -16918,15 +16918,20 @@
                   <occupation>Romanist und Mediävist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
                </person>
-               <person xml:id="tillich_person_id__2949">
-                  <persName>v. W.</persName>
-                  <occupation>Unklare Lesart</occupation>
-               </person>
                <person xml:id="tillich_person_id__2950">
                   <persName>Jantzen, Hans</persName>
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118711849</idno>
                   <note type="bio"><p>Lehrte ab 1931 in Frankfurt am Main.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2951">
+                  <persName>Heimann, Elisabeth</persName>
+                  <occupation>Medizinerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2953">
+                  <persName>Löwenfeld, Erwin</persName>
+                  <occupation>Anwalt</occupation>
+                  <note type="bio"><p>Bruder von Günther Löwenfeld.</p></note>
                </person>
             </listPerson>
          </div>
