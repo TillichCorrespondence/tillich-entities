@@ -3830,6 +3830,11 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2902559/</idno>
                </place>
+               <place xml:id="tillich_place_id__629">
+                  <placeName>Lindau</placeName>
+                  <idno type="geonames">https://sws.geonames.org/2877550/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q153969</idno>
+               </place>
             </listPlace>
          </div>
       </body>

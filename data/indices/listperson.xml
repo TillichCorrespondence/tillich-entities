@@ -5236,7 +5236,7 @@
                </person>
                <person xml:id="tillich_person_id__1255">
                   <persName>Mannheim, Karl</persName>
-                  <occupation>Soziologe und Philosoph österreichisch-ungarischer Herkunft, jüdischer Religion</occupation>
+                  <occupation>Ungarischer Soziologe, Gründungsfigur der Wissenssoziologie.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118577190</idno>
                   <note type="bio"><p>1911-1916 Studium der Philosophie und Literaturwissenschaft in Budapest, 1918 Promotion zum Dr. phil. 1917/1918 war M. Mitglied im Sonntagskreis um György Lukács und Béla Balázs. 1919 erhielt er zunächst einen Lehrauftrag für Philosophie in Budapest, musste aber im selben Jahr nach der Niederschlagung der ungarischen Räterepublik zunächst nach Wien und anschließend 1920 nach Deutschland emigrieren, wo er schließlich in Heidelberg unterkam und sich 1926 bei Alfred Weber für das Fach Soziologie habilitieren konnte. Bis 1930 lehrte er sodann an der Heidelberger Universität, bevor er 1930-1933 Professor der Soziologie und Nationalökonomie in Frankfurt/Main wurde. 1933 Emigration über die Niederlande nach Großbritannien, wo er über die Universität London u. a. 1933-1945 als außerplanmäßiger Lecturer an der London School of Economics lehren konnte. M. war seit 1921 mit der Psychologin Julia, geb. Károlyné Júlia Láng (1893-1955) verheiratet.</p></note>
                </person>
@@ -16932,6 +16932,32 @@
                   <persName>Löwenfeld, Erwin</persName>
                   <occupation>Anwalt</occupation>
                   <note type="bio"><p>Bruder von Günther Löwenfeld.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2954">
+                  <persName>Gerloff, Wilhelm</persName>
+                  <occupation>Volkswirt, Finanzwissenschaftler, Universitätsrektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116588373</idno>
+               </person>
+               <person xml:id="tillich_person_id__2955">
+                  <persName>Zurhellen-Pfleiderer, Else</persName>
+                  <occupation>Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11702676X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2956">
+                  <persName>Berber, Fritz</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118655698</idno>
+               </person>
+               <person xml:id="tillich_person_id__2957">
+                  <persName>Niebuhr, H. Richard</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119066998</idno>
+               </person>
+               <person xml:id="tillich_person_id__2958">
+                  <persName>Goma</persName>
+               </person>
+               <person xml:id="tillich_person_id__2959">
+                  <persName>???, Eva</persName>
                </person>
             </listPerson>
          </div>

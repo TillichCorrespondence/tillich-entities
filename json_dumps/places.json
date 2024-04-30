@@ -5531,5 +5531,16 @@
     "latitude": "51.49607",
     "longitude": "9.38500",
     "wikidata_url": ""
+  },
+  "629": {
+    "id": 629,
+    "order": "623.00000000000000000000",
+    "name": "Lindau",
+    "tillich_id": "tillich_place_id__629",
+    "geonames_url": "http://www.geonames.org/2877550",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q153969"
   }
 }
