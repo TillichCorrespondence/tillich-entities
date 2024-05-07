@@ -74,20 +74,20 @@
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "name": "Harald Hauri",
-    "orcid_url": ""
+    "name": "Harald Haury",
+    "orcid_url": "https://orcid.org/0009-0008-3689-759X"
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
     "name": "Johannes Heider",
-    "orcid_url": ""
+    "orcid_url": "https://orcid.org/0009-0007-4965-1495"
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
     "name": "Friedrich Wilhelm Graf",
-    "orcid_url": ""
+    "orcid_url": "https://orcid.org/0009-0008-1033-0819"
   },
   "16": {
     "id": 16,
@@ -104,7 +104,7 @@
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "name": "Fotios Komotoglou",
+    "name": "",
     "orcid_url": ""
   },
   "19": {
