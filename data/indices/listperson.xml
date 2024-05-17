@@ -1188,7 +1188,7 @@
                      </settlement>
                   </death>
                   <occupation>Deutscher SPD-Politiker</occupation>
-                  <idno type="gnd">https://explore.gnd.network/gnd/118651935?term=Bahr&amp;rows=25&amp;pos=11</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/118651935</idno>
                </person>
                <person xml:id="tillich_person_id__120">
                   <persName>Bahrdt, Karl Friedrich</persName>
@@ -6301,7 +6301,7 @@
                      </settlement>
                   </death>
                   <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
-                  <idno type="gnd">https://explore.gnd.network/gnd/118749196</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/118749196</idno>
                </person>
                <person xml:id="tillich_person_id__1563">
                   <persName>Ratramnus</persName>
