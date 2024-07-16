@@ -16962,6 +16962,17 @@
                <person xml:id="tillich_person_id__2960">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__2961">
+                  <persName>Koinbitz</persName>
+                  <note type="bio"><p>erwähnt in Herrmann Schafft 05. Oktober 1914</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2962">
+                  <persName>Wolff</persName>
+                  <occupation>gestorben 1914</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2963">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>
