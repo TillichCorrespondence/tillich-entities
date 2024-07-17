@@ -3039,6 +3039,7 @@
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
+                  <note type="bio"><p>Manchmal Wumming genannt</p></note>
                </person>
                <person xml:id="tillich_person_id__645">
                   <persName>Fröbe-Kapteyn, Olga</persName>
@@ -16972,6 +16973,16 @@
                </person>
                <person xml:id="tillich_person_id__2963">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2964">
+                  <persName>Kinzl Oberstleutnant</persName>
+               </person>
+               <person xml:id="tillich_person_id__2965">
+                  <persName>General von Dreßler</persName>
+               </person>
+               <person xml:id="tillich_person_id__2966">
+                  <persName>von Gronau</persName>
+                  <occupation>kommandant</occupation>
                </person>
             </listPerson>
          </div>
