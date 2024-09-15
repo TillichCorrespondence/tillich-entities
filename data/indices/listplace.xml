@@ -3835,6 +3835,17 @@
                   <idno type="geonames">https://sws.geonames.org/2877550/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q153969</idno>
                </place>
+               <place xml:id="tillich_place_id__630">
+                  <placeName>Princeton</placeName>
+                  <location type="coords">
+                     <geo>40.34872 -74.65905</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5102922/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q138518</idno>
+               </place>
+               <place xml:id="tillich_place_id__631">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

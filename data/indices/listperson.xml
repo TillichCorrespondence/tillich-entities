@@ -16984,6 +16984,19 @@
                   <persName>von Gronau</persName>
                   <occupation>kommandant</occupation>
                </person>
+               <person xml:id="tillich_person_id__2967">
+                  <persName>???, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__2968">
+                  <persName>Eißfeldt, O</persName>
+               </person>
+               <person xml:id="tillich_person_id__2969">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2970">
+                  <persName>Buchdruckerei Hubert &amp; Co. (Göttingen)</persName>
+                  <note type="bio"><p>Buchdruckerei</p></note>
+               </person>
             </listPerson>
          </div>
       </body>

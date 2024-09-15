@@ -5542,5 +5542,27 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q153969"
+  },
+  "630": {
+    "id": 630,
+    "order": "624.00000000000000000000",
+    "name": "Princeton",
+    "tillich_id": "tillich_place_id__630",
+    "geonames_url": "https://sws.geonames.org/5102922/",
+    "Working Notes": "",
+    "latitude": "40.34872",
+    "longitude": "-74.65905",
+    "wikidata_url": "http://www.wikidata.org/entity/Q138518"
+  },
+  "631": {
+    "id": 631,
+    "order": "625.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__631",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
