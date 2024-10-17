@@ -15540,6 +15540,12 @@
                </person>
                <person xml:id="tillich_person_id__2707">
                   <persName>Fritz, Eckehardt</persName>
+                  <birth>
+                     <date>1914</date>
+                  </birth>
+                  <death>
+                     <date>1946</date>
+                  </death>
                   <note type="bio"><p>Er war der Sohn von Alfred Fritz und Johanna Fritz. Außerdem war er der Bruder von Paul Tillichs Patentochter Gisela Walker, geborene Fritz.</p></note>
                </person>
                <person xml:id="tillich_person_id__2708">
