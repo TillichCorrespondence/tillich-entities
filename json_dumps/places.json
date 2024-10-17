@@ -3775,7 +3775,7 @@
   "432": {
     "id": 432,
     "order": "432.00000000000000000000",
-    "name": "Tartiers02290",
+    "name": "Tartiers",
     "tillich_id": "tillich_place_id__432",
     "geonames_url": "https://sws.geonames.org/6425259/",
     "Working Notes": "Tartiers02290",
@@ -5564,5 +5564,82 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "632": {
+    "id": 632,
+    "order": "626.00000000000000000000",
+    "name": "Hirschberg in Schlesien",
+    "tillich_id": "tillich_place_id__632",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "633": {
+    "id": 633,
+    "order": "627.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__633",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "634": {
+    "id": 634,
+    "order": "628.00000000000000000000",
+    "name": "Pleskau",
+    "tillich_id": "tillich_place_id__634",
+    "geonames_url": "https://sws.geonames.org/504341/",
+    "Working Notes": "",
+    "latitude": "57.81404",
+    "longitude": "28.34493",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2214"
+  },
+  "635": {
+    "id": 635,
+    "order": "629.00000000000000000000",
+    "name": "Petersburg",
+    "tillich_id": "tillich_place_id__635",
+    "geonames_url": "https://sws.geonames.org/498817/",
+    "Working Notes": "",
+    "latitude": "59.93863",
+    "longitude": "30.31413",
+    "wikidata_url": "http://www.wikidata.org/entity/Q656"
+  },
+  "636": {
+    "id": 636,
+    "order": "630.00000000000000000000",
+    "name": "Ratzeburg",
+    "tillich_id": "tillich_place_id__636",
+    "geonames_url": "https://sws.geonames.org/2850132/",
+    "Working Notes": "",
+    "latitude": "53.69965",
+    "longitude": "10.77256",
+    "wikidata_url": ""
+  },
+  "637": {
+    "id": 637,
+    "order": "631.00000000000000000000",
+    "name": "Völklingen",
+    "tillich_id": "tillich_place_id__637",
+    "geonames_url": "https://sws.geonames.org/2816630/",
+    "Working Notes": "",
+    "latitude": "49.25162",
+    "longitude": "6.85873",
+    "wikidata_url": ""
+  },
+  "639": {
+    "id": 639,
+    "order": "632.00000000000000000000",
+    "name": "Wernigerode",
+    "tillich_id": "tillich_place_id__639",
+    "geonames_url": "https://sws.geonames.org/2810808/",
+    "Working Notes": "",
+    "latitude": "51.83652",
+    "longitude": "10.78216",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32753806"
   }
 }

@@ -193,7 +193,7 @@
                   </death>
                   <occupation>Deutscher Musik- und Sozialphilosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118500775</idno>
-                  <note type="bio"><p>Studium in Frankfurt am Main (Promotion 1924) sowie 1925-1928 bei Alban Berg und Eduard Steuermann in Wien. Habilitierte sich 1931 in Frankfurt am Main bei Paul Tillich. Seit 1934 Aufenthalt in Oxford, 1938 Emigration in die USA, dort u.a. Mitarbeiter des Instituts für Sozialforschung sowie insb. Arbeitsgemeinschaft mit Marx Horkheimer, in deren Rahmen die Dialektik der Aufklärung (1944) entstand. Remigration nach Deutschland 1949, Professor an der Goethe-Universität Frankfurt am Main sowie dem Institut für Sozialforschung.</p></note>
+                  <note type="bio"><p>Studium in Frankfurt am Main (Promotion 1924) sowie 1925-1928 bei Alban Berg und Eduard Steuermann in Wien. Habilitierte sich 1931 in Frankfurt am Main bei Paul Tillich. Seit 1934 Aufenthalt in Oxford, 1938 Emigration in die USA, dort u.a. Mitarbeiter des Instituts für Sozialforschung sowie insb. Arbeitsgemeinschaft mit Marx Horkheimer, in deren Rahmen die Dialektik der Aufklärung (1944) entstand. Rückkehr nach Deutschland 1949, Professor an der Goethe-Universität Frankfurt am Main sowie dem Institut für Sozialforschung.</p></note>
                </person>
                <person xml:id="tillich_person_id__16">
                   <persName>Adriani, Bruno</persName>
@@ -5718,6 +5718,7 @@
                </person>
                <person xml:id="tillich_person_id__1394">
                   <persName>Nietzsche, Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118587943</idno>
                </person>
                <person xml:id="tillich_person_id__1395">
                   <persName>Nikias</persName>
@@ -8514,6 +8515,12 @@
                </person>
                <person xml:id="tillich_person_id__1929">
                   <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <birth>
+                     <date>1860</date>
+                  </birth>
+                  <death>
+                     <date>1903</date>
+                  </death>
                   <occupation>Mutter</occupation>
                </person>
                <person xml:id="tillich_person_id__1930">
@@ -12310,7 +12317,7 @@
                </person>
                <person xml:id="tillich_person_id__2324">
                   <persName>Ahrens, ???</persName>
-                  <occupation>Hauptmann;</occupation>
+                  <occupation>Hauptmann; Generalstäbler</occupation>
                   <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2325">
@@ -12985,6 +12992,7 @@
                </person>
                <person xml:id="tillich_person_id__2409">
                   <persName>Königs, ???</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2410">
                   <persName>Wagner, ???</persName>
@@ -16991,11 +16999,77 @@
                   <persName>Eißfeldt, O</persName>
                </person>
                <person xml:id="tillich_person_id__2969">
-                  <persName/>
+                  <persName>Lenz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2970">
                   <persName>Buchdruckerei Hubert &amp; Co. (Göttingen)</persName>
                   <note type="bio"><p>Buchdruckerei</p></note>
+               </person>
+               <person xml:id="tillich_person_id__2971">
+                  <persName>Mennike, Carl</persName>
+                  <occupation>Soziologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2972">
+                  <persName>Heidtmann, ???</persName>
+                  <occupation>Pastor</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2973">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2974">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2975">
+                  <persName/>
+               </person>
+               <person xml:id="None">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__2977">
+                  <persName>Owen Thomas</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/140812075</idno>
+               </person>
+               <person xml:id="tillich_person_id__2978">
+                  <persName>Dr. Dietrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__2979">
+                  <persName>Zoroaster</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118636227</idno>
+               </person>
+               <person xml:id="tillich_person_id__2980">
+                  <persName>¿¿¿</persName>
+               </person>
+               <person xml:id="tillich_person_id__2981">
+                  <persName>Margaret Mead</persName>
+                  <occupation>Anthropologin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118579789</idno>
+               </person>
+               <person xml:id="tillich_person_id__2982">
+                  <persName>Pelagius</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118592432</idno>
+               </person>
+               <person xml:id="tillich_person_id__2983">
+                  <persName>Wilbur Marshall Urban</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/12445108X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2984">
+                  <persName>Leucippus</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119217805</idno>
+               </person>
+               <person xml:id="tillich_person_id__2985">
+                  <persName>Lear</persName>
+                  <occupation>Engl. König nach Shakespeare</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11857048X</idno>
+               </person>
+               <person xml:id="tillich_person_id__2986">
+                  <persName>Hamlet</persName>
+                  <occupation>Shakespeare</occupation>
+               </person>
+               <person xml:id="tillich_person_id__2987">
+                  <persName>Paul Lee</persName>
+                  <occupation>Philosoph</occupation>
                </person>
             </listPerson>
          </div>

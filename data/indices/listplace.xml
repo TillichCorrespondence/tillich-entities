@@ -2624,7 +2624,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q106281</idno>
                </place>
                <place xml:id="tillich_place_id__432">
-                  <placeName>Tartiers02290</placeName>
+                  <placeName>Tartiers</placeName>
                   <location type="coords">
                      <geo>49.43306 3.23889</geo>
                   </location>
@@ -3845,6 +3845,50 @@
                </place>
                <place xml:id="tillich_place_id__631">
                   <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__632">
+                  <placeName>Hirschberg in Schlesien</placeName>
+               </place>
+               <place xml:id="tillich_place_id__633">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__634">
+                  <placeName>Pleskau</placeName>
+                  <location type="coords">
+                     <geo>57.81404 28.34493</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/504341/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2214</idno>
+               </place>
+               <place xml:id="tillich_place_id__635">
+                  <placeName>Petersburg</placeName>
+                  <location type="coords">
+                     <geo>59.93863 30.31413</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/498817/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q656</idno>
+               </place>
+               <place xml:id="tillich_place_id__636">
+                  <placeName>Ratzeburg</placeName>
+                  <location type="coords">
+                     <geo>53.69965 10.77256</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2850132/</idno>
+               </place>
+               <place xml:id="tillich_place_id__637">
+                  <placeName>Völklingen</placeName>
+                  <location type="coords">
+                     <geo>49.25162 6.85873</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2816630/</idno>
+               </place>
+               <place xml:id="tillich_place_id__639">
+                  <placeName>Wernigerode</placeName>
+                  <location type="coords">
+                     <geo>51.83652 10.78216</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2810808/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32753806</idno>
                </place>
             </listPlace>
          </div>
