@@ -17077,6 +17077,21 @@
                   <persName>Paul Lee</persName>
                   <occupation>Philosoph</occupation>
                </person>
+               <person xml:id="tillich_person_id__2988">
+                  <persName>André Malraux</persName>
+                  <occupation>frz. Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118576844</idno>
+               </person>
+               <person xml:id="tillich_person_id__2989">
+                  <persName>Jacques Maritain</persName>
+                  <occupation>frz. Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118731033</idno>
+               </person>
+               <person xml:id="tillich_person_id__2990">
+                  <persName>Jean Cocteau</persName>
+                  <occupation>frz. Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118521349</idno>
+               </person>
             </listPerson>
          </div>
       </body>
