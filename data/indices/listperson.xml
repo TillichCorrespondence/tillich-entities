@@ -17092,6 +17092,44 @@
                   <occupation>frz. Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118521349</idno>
                </person>
+               <person xml:id="tillich_person_id__2991">
+                  <persName>Amos N. Wilder</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119167689</idno>
+               </person>
+               <person xml:id="tillich_person_id__2992">
+                  <persName>William Ward Watkin</persName>
+               </person>
+               <person xml:id="tillich_person_id__2993">
+                  <persName>Fred Eastman</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1186182997</idno>
+               </person>
+               <person xml:id="tillich_person_id__2994">
+                  <persName>Albert Edward Bailey</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1185808914</idno>
+               </person>
+               <person xml:id="tillich_person_id__2995">
+                  <persName>Pitirim Sorokin</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118798081</idno>
+               </person>
+               <person xml:id="tillich_person_id__2996">
+                  <persName>Lewis Mumford</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118735209</idno>
+               </person>
+               <person xml:id="tillich_person_id__2997">
+                  <persName>Lewis Joseph Sherrill</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1055386807</idno>
+               </person>
+               <person xml:id="tillich_person_id__2998">
+                  <persName>James Dick Smart</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1147194653</idno>
+               </person>
+               <person xml:id="tillich_person_id__2999">
+                  <persName>George F. Thomas</persName>
+               </person>
+               <person xml:id="tillich_person_id__3000">
+                  <persName>Paul Ramsey</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119050838</idno>
+               </person>
             </listPerson>
          </div>
       </body>
