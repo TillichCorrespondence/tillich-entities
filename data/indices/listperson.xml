@@ -17020,10 +17020,18 @@
                   <occupation>Pastor</occupation>
                </person>
                <person xml:id="tillich_person_id__2973">
-                  <persName/>
+                  <persName>???, Hildebrand</persName>
                </person>
                <person xml:id="tillich_person_id__2974">
-                  <persName/>
+                  <persName>???, Kunibert</persName>
+                  <birth>
+                     <date>590</date>
+                  </birth>
+                  <death>
+                     <date>663</date>
+                  </death>
+                  <occupation>Heiliger, Bischof von Köln</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/137311699</idno>
                </person>
                <person xml:id="tillich_person_id__2975">
                   <persName/>

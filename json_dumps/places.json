@@ -1311,7 +1311,7 @@
   "138": {
     "id": 138,
     "order": "138.00000000000000000000",
-    "name": "Ferme de Mareuille",
+    "name": "Farm de Mareuil",
     "tillich_id": "tillich_place_id__138",
     "geonames_url": "https://sws.geonames.org/2995825/",
     "Working Notes": "(Mareuil)",
@@ -1476,10 +1476,10 @@
   "171": {
     "id": 171,
     "order": "171.00000000000000000000",
-    "name": "Front",
+    "name": "Ostfront",
     "tillich_id": "tillich_place_id__171",
     "geonames_url": "",
-    "Working Notes": "Vermutlich nicht die Stadt in Italien sondern ->Tillich in o.O (Westfront) 8. Juni 1916 (siehe tillich_place_id__469 & L00492)Doppelt",
+    "Working Notes": "",
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
@@ -4226,7 +4226,7 @@
   "486": {
     "id": 486,
     "order": "486.00000000000000000000",
-    "name": "Épagny02290",
+    "name": "Épagny",
     "tillich_id": "tillich_place_id__486",
     "geonames_url": "https://sws.geonames.org/3020095/",
     "Working Notes": "Épagny02290",

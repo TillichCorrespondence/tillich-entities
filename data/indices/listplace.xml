@@ -928,7 +928,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q612214</idno>
                </place>
                <place xml:id="tillich_place_id__138">
-                  <placeName>Ferme de Mareuille</placeName>
+                  <placeName>Farm de Mareuil</placeName>
                   <location type="coords">
                      <geo>45.45074 0.45214</geo>
                   </location>
@@ -1044,7 +1044,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
                </place>
                <place xml:id="tillich_place_id__171">
-                  <placeName>Front</placeName>
+                  <placeName>Ostfront</placeName>
                </place>
                <place xml:id="tillich_place_id__172">
                   <placeName>Galizien</placeName>
@@ -2931,7 +2931,7 @@
                   <placeName>Platzhalter in</placeName>
                </place>
                <place xml:id="tillich_place_id__486">
-                  <placeName>Épagny02290</placeName>
+                  <placeName>Épagny</placeName>
                   <location type="coords">
                      <geo>49.46119 3.24048</geo>
                   </location>
