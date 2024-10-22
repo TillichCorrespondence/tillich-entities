@@ -17138,6 +17138,18 @@
                   <persName>Paul Ramsey</persName>
                   <idno type="gnd">https://d-nb.info/gnd/119050838</idno>
                </person>
+               <person xml:id="tillich_person_id__3001">
+                  <persName>José Ortega y Gasset</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118590308</idno>
+               </person>
+               <person xml:id="tillich_person_id__3002">
+                  <persName>Liston Pope</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/130097543</idno>
+               </person>
+               <person xml:id="tillich_person_id__3003">
+                  <persName>Joseph A. Schumpeter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118611682</idno>
+               </person>
             </listPerson>
          </div>
       </body>

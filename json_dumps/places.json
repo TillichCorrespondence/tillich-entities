@@ -882,7 +882,7 @@
   "91": {
     "id": 91,
     "order": "91.00000000000000000000",
-    "name": "Champs02670",
+    "name": "Champs",
     "tillich_id": "tillich_place_id__91",
     "geonames_url": "https://sws.geonames.org/3027028/",
     "Working Notes": "Working Notes",
@@ -948,7 +948,7 @@
   "100": {
     "id": 100,
     "order": "100.00000000000000000000",
-    "name": "Chavigny02880",
+    "name": "Chavigny",
     "tillich_id": "tillich_place_id__100",
     "geonames_url": "https://sws.geonames.org/3025718/",
     "Working Notes": "Chavigny02880",
@@ -2279,7 +2279,7 @@
   "261": {
     "id": 261,
     "order": "261.00000000000000000000",
-    "name": "Leuilly-sous-Coucy02380",
+    "name": "Leuilly-sous-Coucy",
     "tillich_id": "tillich_place_id__261",
     "geonames_url": "https://sws.geonames.org/2999029/",
     "Working Notes": "Leuilly-sous-Coucy02380",
@@ -3134,17 +3134,6 @@
     "longitude": "12.33696",
     "wikidata_url": "http://www.wikidata.org/entity/Q32247316"
   },
-  "363": {
-    "id": 363,
-    "order": "363.00000000000000000000",
-    "name": "Raucourt",
-    "tillich_id": "tillich_place_id__363",
-    "geonames_url": "https://sws.geonames.org/2984363/",
-    "Working Notes": "Kriegseinsatz Tillichs, Wahrscheinlich dieses Raucourt",
-    "latitude": "48.92632",
-    "longitude": "6.21866",
-    "wikidata_url": ""
-  },
   "364": {
     "id": 364,
     "order": "364.00000000000000000000",
@@ -3742,7 +3731,7 @@
   "428": {
     "id": 428,
     "order": "428.00000000000000000000",
-    "name": "Tancourt02200",
+    "name": "Tancourt",
     "tillich_id": "tillich_place_id__428",
     "geonames_url": "https://sws.geonames.org/12318197/",
     "Working Notes": "Tancourt02200",
@@ -3973,7 +3962,7 @@
   "457": {
     "id": 457,
     "order": "457.00000000000000000000",
-    "name": "Vauxrezis02200",
+    "name": "Vauxrezis",
     "tillich_id": "tillich_place_id__457",
     "geonames_url": "https://sws.geonames.org/2970327/",
     "Working Notes": "Working Notes",
@@ -3995,7 +3984,7 @@
   "460": {
     "id": 460,
     "order": "460.00000000000000000000",
-    "name": "Villers la Fosse02200",
+    "name": "Villers la Fosse",
     "tillich_id": "tillich_place_id__460",
     "geonames_url": "https://sws.geonames.org/2970327/",
     "Working Notes": "(Als GeoNames Link Vauxrezis angeben, liegt nördlich in der Region)Villers la Fosse02200 (genau ->https://maps.app.goo.gl/aWtAUqLXTWupA7aU9)",

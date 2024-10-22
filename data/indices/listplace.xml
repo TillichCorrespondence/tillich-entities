@@ -624,7 +624,7 @@
                   <idno type="geonames">https://sws.geonames.org/3027258/</idno>
                </place>
                <place xml:id="tillich_place_id__91">
-                  <placeName>Champs02670</placeName>
+                  <placeName>Champs</placeName>
                   <location type="coords">
                      <geo>49.54083 3.25428</geo>
                   </location>
@@ -670,7 +670,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q269833</idno>
                </place>
                <place xml:id="tillich_place_id__100">
-                  <placeName>Chavigny02880</placeName>
+                  <placeName>Chavigny</placeName>
                   <location type="coords">
                      <geo>49.42560 3.30535</geo>
                   </location>
@@ -1592,7 +1592,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2079</idno>
                </place>
                <place xml:id="tillich_place_id__261">
-                  <placeName>Leuilly-sous-Coucy02380</placeName>
+                  <placeName>Leuilly-sous-Coucy</placeName>
                   <location type="coords">
                      <geo>49.47845 3.35879</geo>
                   </location>
@@ -2176,13 +2176,6 @@
                   <idno type="geonames">https://sws.geonames.org/2850213/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32247316</idno>
                </place>
-               <place xml:id="tillich_place_id__363">
-                  <placeName>Raucourt</placeName>
-                  <location type="coords">
-                     <geo>48.92632 6.21866</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2984363/</idno>
-               </place>
                <place xml:id="tillich_place_id__364">
                   <placeName>Redon, Ille-et-Vilaine</placeName>
                   <location type="coords">
@@ -2601,7 +2594,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1419211</idno>
                </place>
                <place xml:id="tillich_place_id__428">
-                  <placeName>Tancourt02200</placeName>
+                  <placeName>Tancourt</placeName>
                   <location type="coords">
                      <geo>49.41740 3.26977</geo>
                   </location>
@@ -2764,7 +2757,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1147107</idno>
                </place>
                <place xml:id="tillich_place_id__457">
-                  <placeName>Vauxrezis02200</placeName>
+                  <placeName>Vauxrezis</placeName>
                   <location type="coords">
                      <geo>49.41405 3.27964</geo>
                   </location>
@@ -2780,7 +2773,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q154748</idno>
                </place>
                <place xml:id="tillich_place_id__460">
-                  <placeName>Villers la Fosse02200</placeName>
+                  <placeName>Villers la Fosse</placeName>
                   <location type="coords">
                      <geo>49.41405 3.27964</geo>
                   </location>
