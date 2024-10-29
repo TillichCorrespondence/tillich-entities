@@ -2113,7 +2113,7 @@
                   <idno type="geonames">https://sws.geonames.org/3090679/</idno>
                </place>
                <place xml:id="tillich_place_id__353">
-                  <placeName>Pont-Saint-Mard02380</placeName>
+                  <placeName>Pont-Saint-Mard</placeName>
                   <location type="coords">
                      <geo>49.50000 3.28333</geo>
                   </location>
@@ -3882,6 +3882,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2810808/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32753806</idno>
+               </place>
+               <place xml:id="tillich_place_id__640">
+                  <placeName>Bagneux</placeName>
+                  <location type="coords">
+                     <geo>49.45715 3.27786</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3035408/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q864623</idno>
                </place>
             </listPlace>
          </div>

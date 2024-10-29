@@ -2469,7 +2469,7 @@
     "name": "Marnuit",
     "tillich_id": "tillich_place_id__285",
     "geonames_url": "",
-    "Working Notes": "(mgl. Maranuit, 05350 Arvieux, Frankreich -> https://maps.app.goo.gl/ehYHTEpYXsPXLHqb6)",
+    "Working Notes": "Das ist es auf jeden Fall nicht, weil in der nähe von Monaco.(mgl. Maranuit, 05350 Arvieux, Frankreich -> https://maps.app.goo.gl/ehYHTEpYXsPXLHqb6)",
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
@@ -2480,7 +2480,7 @@
     "name": "Marnuit-Ferme",
     "tillich_id": "tillich_place_id__286",
     "geonames_url": "",
-    "Working Notes": "Maranuit, 05350 Arvieux, Frankreich -> https://maps.app.goo.gl/ehYHTEpYXsPXLHqb6",
+    "Working Notes": "Das ist es auf jeden Fall nicht, weil in der nähe von Monaco. Maranuit, 05350 Arvieux, Frankreich -> https://maps.app.goo.gl/ehYHTEpYXsPXLHqb6",
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
@@ -3038,7 +3038,7 @@
   "353": {
     "id": 353,
     "order": "353.00000000000000000000",
-    "name": "Pont-Saint-Mard02380",
+    "name": "Pont-Saint-Mard",
     "tillich_id": "tillich_place_id__353",
     "geonames_url": "https://sws.geonames.org/2986108/",
     "Working Notes": "Pont-Saint-Mard02380",
@@ -5630,5 +5630,16 @@
     "latitude": "51.83652",
     "longitude": "10.78216",
     "wikidata_url": "http://www.wikidata.org/entity/Q32753806"
+  },
+  "640": {
+    "id": 640,
+    "order": "633.00000000000000000000",
+    "name": "Bagneux",
+    "tillich_id": "tillich_place_id__640",
+    "geonames_url": "https://www.geonames.org/3035408/",
+    "Working Notes": "",
+    "latitude": "49.45715",
+    "longitude": "3.27786",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q864623"
   }
 }
