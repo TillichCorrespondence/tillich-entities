@@ -17159,6 +17159,16 @@
                <person xml:id="tillich_person_id__3006">
                   <persName>??? Dogander</persName>
                </person>
+               <person xml:id="tillich_person_id__3007">
+                  <persName>Muthchen</persName>
+               </person>
+               <person xml:id="tillich_person_id__3008">
+                  <persName>Jacob van Ruisdael</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118604082</idno>
+               </person>
+               <person xml:id="tillich_person_id__3009">
+                  <persName>Flockchen</persName>
+               </person>
             </listPerson>
          </div>
       </body>
