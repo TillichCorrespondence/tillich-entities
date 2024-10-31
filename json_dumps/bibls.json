@@ -1706,7 +1706,7 @@
   "218": {
     "id": 218,
     "order": "215.00000000000000000000",
-    "name": "Gunkel, Hermann/Zscharnack, Leopold, Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie. 2. Auflage. Tübingen, Mohr 1927.",
+    "name": "Gunkel, Hermann/Zscharnack, Leopold (Hg.), Die Religion in Geschichte und Gegenwart. Handwörterbuch für Theologie, 6 Bde., 2. Auflage. Tübingen, Mohr 1927-1932.",
     "working_note": "",
     "tillich_id": "tillich_work_id__218",
     "zotero": "NY5UZ9CG"
@@ -2230,5 +2230,13 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__286",
     "zotero": "JAKRCEZL"
+  },
+  "287": {
+    "id": 287,
+    "order": "283.00000000000000000000",
+    "name": "Homer. Odyssee, übersetzt von Anton Weiher, Berlin/Boston 2014.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__287",
+    "zotero": ""
   }
 }
