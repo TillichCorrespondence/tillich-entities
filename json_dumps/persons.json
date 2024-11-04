@@ -53980,5 +53980,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3011": {
+    "id": 3011,
+    "order": "3006.00000000000000000000",
+    "name": "Elisabeth I. von England",
+    "surname": "Tudor",
+    "forename": "Elisabeth",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/118529870",
+    "tillich_id": "tillich_person_id__3011",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

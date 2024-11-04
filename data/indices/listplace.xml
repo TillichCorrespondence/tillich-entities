@@ -3891,6 +3891,21 @@
                   <idno type="geonames">https://sws.geonames.org/3035408/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q864623</idno>
                </place>
+               <place xml:id="tillich_place_id__641">
+                  <placeName>Belle-Île</placeName>
+                  <idno type="geonames">https://sws.geonames.org/3033682/</idno>
+               </place>
+               <place xml:id="tillich_place_id__642">
+                  <placeName>Serbien</placeName>
+                  <location type="coords">
+                     <geo>44.81892 20.45998</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6290252/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q403</idno>
+               </place>
+               <place xml:id="tillich_place_id__643">
+                  <placeName/>
+               </place>
             </listPlace>
          </div>
       </body>

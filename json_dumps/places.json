@@ -5641,5 +5641,38 @@
     "latitude": "49.45715",
     "longitude": "3.27786",
     "wikidata_url": "https://www.wikidata.org/wiki/Q864623"
+  },
+  "641": {
+    "id": 641,
+    "order": "634.00000000000000000000",
+    "name": "Belle-Île",
+    "tillich_id": "tillich_place_id__641",
+    "geonames_url": "http://www.geonames.org/3033682",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "642": {
+    "id": 642,
+    "order": "635.00000000000000000000",
+    "name": "Serbien",
+    "tillich_id": "tillich_place_id__642",
+    "geonames_url": "https://www.geonames.org/6290252/",
+    "Working Notes": "",
+    "latitude": "44.81892",
+    "longitude": "20.45998",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q403"
+  },
+  "643": {
+    "id": 643,
+    "order": "636.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__643",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

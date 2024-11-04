@@ -17173,6 +17173,10 @@
                   <persName>Schwartzkopff, ???</persName>
                   <occupation>Neffe des Oberpräsidenten Philipp Schwartzkopff.</occupation>
                </person>
+               <person xml:id="tillich_person_id__3011">
+                  <persName>Elisabeth I. von England</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
+               </person>
             </listPerson>
          </div>
       </body>
