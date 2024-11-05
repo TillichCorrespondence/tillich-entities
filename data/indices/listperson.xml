@@ -11526,7 +11526,7 @@
                   <persName>Weißenborng, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2224">
-                  <persName>Dürselen , Paul Rudolf</persName>
+                  <persName>Dürselen, Paul Rudolf</persName>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2225">
@@ -17176,6 +17176,27 @@
                <person xml:id="tillich_person_id__3011">
                   <persName>Elisabeth I. von England</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118529870</idno>
+               </person>
+               <person xml:id="tillich_person_id__3012">
+                  <persName>Lisbeth</persName>
+               </person>
+               <person xml:id="tillich_person_id__3013">
+                  <persName>???, Anna</persName>
+                  <note type="bio"><p>Hat eine Schwester namens Rike Vgl. L00059</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3014">
+                  <persName>???, Rike</persName>
+                  <note type="bio"><p>Hat eine Schwester namens Anna Vgl. L00059</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3015">
+                  <persName>Blahr, Marie</persName>
+               </person>
+               <person xml:id="tillich_person_id__3016">
+                  <persName>K¿¿¿</persName>
+               </person>
+               <person xml:id="tillich_person_id__3017">
+                  <persName>Braun, ???</persName>
+                  <occupation>Pastor</occupation>
                </person>
             </listPerson>
          </div>
