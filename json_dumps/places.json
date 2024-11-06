@@ -5674,5 +5674,38 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "644": {
+    "id": 644,
+    "order": "637.00000000000000000000",
+    "name": "Bailly",
+    "tillich_id": "tillich_place_id__644",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "645": {
+    "id": 645,
+    "order": "638.00000000000000000000",
+    "name": "Vailly",
+    "tillich_id": "tillich_place_id__645",
+    "geonames_url": "https://www.geonames.org/2971169",
+    "Working Notes": "",
+    "latitude": "49.40834",
+    "longitude": "3.51631",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q589513"
+  },
+  "646": {
+    "id": 646,
+    "order": "639.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__646",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
