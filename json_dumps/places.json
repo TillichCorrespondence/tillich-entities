@@ -5707,5 +5707,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "647": {
+    "id": 647,
+    "order": "640.00000000000000000000",
+    "name": "Honfleur",
+    "tillich_id": "tillich_place_id__647",
+    "geonames_url": "https://sws.geonames.org/3013173/",
+    "Working Notes": "",
+    "latitude": "49.41985",
+    "longitude": "0.23294",
+    "wikidata_url": "http://www.wikidata.org/entity/Q231720"
   }
 }

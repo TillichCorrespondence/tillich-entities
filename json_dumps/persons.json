@@ -54106,5 +54106,23 @@
     "working_note": "Wird als erkrankter Pastor, der von Tillichs Vater vertreten wurde in L00061 erwähnt.",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3018": {
+    "id": 3018,
+    "order": "3013.00000000000000000000",
+    "name": "Otto, ???",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3018",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Wird als Frl. Otto in L00076 erwähnt.",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
