@@ -8466,7 +8466,7 @@
                <person xml:id="tillich_person_id__1924">
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
-                     <date>1857</date>
+                     <date>1857-06-03</date>
                   </birth>
                   <death>
                      <date>1937</date>
@@ -10305,20 +10305,13 @@
                </person>
                <person xml:id="tillich_person_id__2085">
                   <persName>Winkler, Toni</persName>
+                  <birth>
+                     <date>????-06-03</date>
+                  </birth>
                   <note type="bio"><p>Sie war die Pflegemutter der Tillich-Kinder.</p></note>
                </person>
                <person xml:id="tillich_person_id__2086">
                   <persName>Winkler, Gerhard</persName>
-                  <birth>
-                     <date>1906-09-12</date>
-                     <settlement>
-                        <placeName>Berlin</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1977-09-25</date>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118816543</idno>
                </person>
                <person xml:id="tillich_person_id__2087">
                   <persName>Wintermann, Rudolf</persName>
