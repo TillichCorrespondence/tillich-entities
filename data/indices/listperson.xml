@@ -16240,8 +16240,8 @@
                   <note type="bio"><p>Er war ein Vetter von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2829">
-                  <persName>Mahling, ???</persName>
-                  <occupation>Professor;</occupation>
+                  <persName>Mahling, Friedrich</persName>
+                  <occupation>Professor; Dekan</occupation>
                </person>
                <person xml:id="tillich_person_id__2830">
                   <persName>Kleedehe, ???</persName>
@@ -17193,6 +17193,9 @@
                </person>
                <person xml:id="tillich_person_id__3018">
                   <persName>Otto, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3019">
+                  <persName>???, Engelhardt</persName>
                </person>
             </listPerson>
          </div>

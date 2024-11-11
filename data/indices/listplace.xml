@@ -3928,6 +3928,23 @@
                   <idno type="geonames">https://sws.geonames.org/3013173/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q231720</idno>
                </place>
+               <place xml:id="tillich_place_id__649">
+                  <placeName/>
+                  <idno type="geonames">49.17028</idno>
+               </place>
+               <place xml:id="tillich_place_id__650">
+                  <placeName/>
+                  <location type="coords">
+                     <geo>49.17028 4.71631</geo>
+                  </location>
+               </place>
+               <place xml:id="tillich_place_id__651">
+                  <placeName>Minaucourt-le-Mesnil-lès-Hurlus</placeName>
+                  <location type="coords">
+                     <geo>49.17028 4.71631</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2993821/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

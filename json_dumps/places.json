@@ -5718,5 +5718,38 @@
     "latitude": "49.41985",
     "longitude": "0.23294",
     "wikidata_url": "http://www.wikidata.org/entity/Q231720"
+  },
+  "649": {
+    "id": 649,
+    "order": "642.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__649",
+    "geonames_url": "49.17028",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "650": {
+    "id": 650,
+    "order": "643.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__650",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": "49.17028",
+    "longitude": "4.71631",
+    "wikidata_url": ""
+  },
+  "651": {
+    "id": 651,
+    "order": "644.00000000000000000000",
+    "name": "Minaucourt-le-Mesnil-lès-Hurlus",
+    "tillich_id": "tillich_place_id__651",
+    "geonames_url": "https://www.geonames.org/2993821/",
+    "Working Notes": "",
+    "latitude": "49.17028",
+    "longitude": "4.71631",
+    "wikidata_url": ""
   }
 }
