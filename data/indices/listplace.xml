@@ -1990,12 +1990,11 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3042</idno>
                </place>
                <place xml:id="tillich_place_id__331">
-                  <placeName>Olizy</placeName>
+                  <placeName>Olizy-Primat</placeName>
                   <location type="coords">
-                     <geo>49.55670 5.22190</geo>
+                     <geo>49.34700 4.77620</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2989603/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q981623</idno>
+                  <idno type="geonames">https://sws.geonames.org/6615808/</idno>
                </place>
                <place xml:id="tillich_place_id__332">
                   <placeName>Orvieto</placeName>
@@ -3944,6 +3943,23 @@
                      <geo>49.17028 4.71631</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2993821/</idno>
+               </place>
+               <place xml:id="tillich_place_id__652">
+                  <placeName>Brécy-Brières</placeName>
+                  <location type="coords">
+                     <geo>49.32280 4.76712</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3030424/</idno>
+               </place>
+               <place xml:id="tillich_place_id__653">
+                  <placeName/>
+               </place>
+               <place xml:id="tillich_place_id__654">
+                  <placeName>Les Rosiers</placeName>
+                  <location type="coords">
+                     <geo>49.28364 4.74695</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/11186155/</idno>
                </place>
             </listPlace>
          </div>

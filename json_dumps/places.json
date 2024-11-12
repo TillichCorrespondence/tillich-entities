@@ -2862,13 +2862,13 @@
   "331": {
     "id": 331,
     "order": "331.00000000000000000000",
-    "name": "Olizy",
+    "name": "Olizy-Primat",
     "tillich_id": "tillich_place_id__331",
-    "geonames_url": "https://sws.geonames.org/2989603/",
-    "Working Notes": "(L00498)Wahrscheinlich nicht Olizy (Reims) -> sondern Olizy-sur-Chiers (Verdun)-> https://www.verdun14-18.de/tag/olizy/",
-    "latitude": "49.55670",
-    "longitude": "5.22190",
-    "wikidata_url": "http://www.wikidata.org/entity/Q981623"
+    "geonames_url": "https://www.geonames.org/6615808",
+    "Working Notes": "",
+    "latitude": "49.34700",
+    "longitude": "4.77620",
+    "wikidata_url": ""
   },
   "332": {
     "id": 332,
@@ -5750,6 +5750,39 @@
     "Working Notes": "",
     "latitude": "49.17028",
     "longitude": "4.71631",
+    "wikidata_url": ""
+  },
+  "652": {
+    "id": 652,
+    "order": "645.00000000000000000000",
+    "name": "Brécy-Brières",
+    "tillich_id": "tillich_place_id__652",
+    "geonames_url": "https://www.geonames.org/3030424",
+    "Working Notes": "",
+    "latitude": "49.32280",
+    "longitude": "4.76712",
+    "wikidata_url": ""
+  },
+  "653": {
+    "id": 653,
+    "order": "646.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__653",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "654": {
+    "id": 654,
+    "order": "647.00000000000000000000",
+    "name": "Les Rosiers",
+    "tillich_id": "tillich_place_id__654",
+    "geonames_url": "https://www.geonames.org/11186155",
+    "Working Notes": "Château des Rosiers",
+    "latitude": "49.28364",
+    "longitude": "4.74695",
     "wikidata_url": ""
   }
 }
