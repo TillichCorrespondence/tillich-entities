@@ -5784,5 +5784,27 @@
     "latitude": "49.28364",
     "longitude": "4.74695",
     "wikidata_url": ""
+  },
+  "655": {
+    "id": 655,
+    "order": "648.00000000000000000000",
+    "name": "Lépron-les-Vallées",
+    "tillich_id": "tillich_place_id__655",
+    "geonames_url": "https://www.geonames.org/3002492",
+    "Working Notes": "Ort auf Telegramm (L00475)",
+    "latitude": "49.75998",
+    "longitude": "4.45393",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q949216"
+  },
+  "656": {
+    "id": 656,
+    "order": "649.00000000000000000000",
+    "name": "Versailles",
+    "tillich_id": "tillich_place_id__656",
+    "geonames_url": "http://www.geonames.org/2969679",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

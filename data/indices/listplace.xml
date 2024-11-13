@@ -3961,6 +3961,18 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/11186155/</idno>
                </place>
+               <place xml:id="tillich_place_id__655">
+                  <placeName>Lépron-les-Vallées</placeName>
+                  <location type="coords">
+                     <geo>49.75998 4.45393</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3002492/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q949216</idno>
+               </place>
+               <place xml:id="tillich_place_id__656">
+                  <placeName>Versailles</placeName>
+                  <idno type="geonames">https://sws.geonames.org/2969679/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

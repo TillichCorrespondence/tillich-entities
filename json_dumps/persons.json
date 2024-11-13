@@ -46051,7 +46051,7 @@
     "forename": "Ulli",
     "from_to": "",
     "occupation": "Künstler;",
-    "bio": "Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.",
+    "bio": "Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie \"From Time to Time\" mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.",
     "legacy_id": "P02565",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__2560",
@@ -54212,6 +54212,24 @@
     "date_of_birth": "",
     "date_of_death": "",
     "working_note": "Tillichs Erstchangierter, erwähnt in L00110.",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3024": {
+    "id": 3024,
+    "order": "3019.00000000000000000000",
+    "name": "Lothar das Kind",
+    "surname": "???",
+    "forename": "Lothar",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3024",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Erwähnt in L00915, Tillich an Hannah vom 29.09.1926",
     "place_of_birth": "",
     "place_of_death": ""
   }

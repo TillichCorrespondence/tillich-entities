@@ -14409,7 +14409,7 @@
                <person xml:id="tillich_person_id__2560">
                   <persName>???, Ulli</persName>
                   <occupation>Künstler;</occupation>
-                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
+                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie "From Time to Time" mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2561">
                   <persName>Kleist, Heinrich von</persName>
@@ -17208,6 +17208,9 @@
                </person>
                <person xml:id="tillich_person_id__3023">
                   <persName>X</persName>
+               </person>
+               <person xml:id="tillich_person_id__3024">
+                  <persName>Lothar das Kind</persName>
                </person>
             </listPerson>
          </div>
