@@ -17212,6 +17212,37 @@
                <person xml:id="tillich_person_id__3024">
                   <persName>Lothar das Kind</persName>
                </person>
+               <person xml:id="tillich_person_id__3025">
+                  <persName>Maler Engers</persName>
+               </person>
+               <person xml:id="tillich_person_id__3026">
+                  <persName>Cimabue</persName>
+                  <occupation>Maler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119138883</idno>
+               </person>
+               <person xml:id="tillich_person_id__3027">
+                  <persName>Giovanni Bellini</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118508679</idno>
+               </person>
+               <person xml:id="tillich_person_id__3028">
+                  <persName>Piero</persName>
+               </person>
+               <person xml:id="tillich_person_id__3029">
+                  <persName>Martini, Simone</persName>
+                  <occupation>Maler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118731394</idno>
+               </person>
+               <person xml:id="tillich_person_id__3030">
+                  <persName>Whittier</persName>
+               </person>
+               <person xml:id="tillich_person_id__3031">
+                  <persName>Amantine Aurore Lucile Dupin de Francueil (pseud. George Sand)</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118605348</idno>
+               </person>
+               <person xml:id="tillich_person_id__3032">
+                  <persName>del Giocondo, Lisa</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119218011</idno>
+               </person>
             </listPerson>
          </div>
       </body>
