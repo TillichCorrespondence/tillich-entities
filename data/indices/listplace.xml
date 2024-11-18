@@ -3973,6 +3973,13 @@
                   <placeName>Versailles</placeName>
                   <idno type="geonames">https://sws.geonames.org/2969679/</idno>
                </place>
+               <place xml:id="tillich_place_id__657">
+                  <placeName>Elmau</placeName>
+                  <location type="coords">
+                     <geo>47.45998 11.17985</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2930871/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
