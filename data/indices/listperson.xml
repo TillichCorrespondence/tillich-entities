@@ -4645,7 +4645,7 @@
                </person>
                <person xml:id="tillich_person_id__1099">
                   <persName>Kroner, Richard</persName>
-                  <occupation>deutscher Philosoph und Theologe</occupation>
+                  <occupation>deutscher Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__1100">
                   <persName>Kroner, Alice</persName>
@@ -17242,6 +17242,13 @@
                <person xml:id="tillich_person_id__3032">
                   <persName>del Giocondo, Lisa</persName>
                   <idno type="gnd">https://d-nb.info/gnd/119218011</idno>
+               </person>
+               <person xml:id="tillich_person_id__3033">
+                  <persName>Lux</persName>
+               </person>
+               <person xml:id="tillich_person_id__3034">
+                  <persName>Manet, Edouard</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11857700X</idno>
                </person>
             </listPerson>
          </div>
