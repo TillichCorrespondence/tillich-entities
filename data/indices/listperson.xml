@@ -1555,7 +1555,7 @@
                   <persName>Bienert, Erwin</persName>
                </person>
                <person xml:id="tillich_person_id__219">
-                  <persName>Billström, Jacob</persName>
+                  <persName>Billström, Jakob</persName>
                </person>
                <person xml:id="tillich_person_id__220">
                   <persName>Binder, Hermine</persName>
@@ -17250,6 +17250,13 @@
                <person xml:id="tillich_person_id__3034">
                   <persName>Manet, Edouard</persName>
                   <idno type="gnd">https://d-nb.info/gnd/11857700X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3035">
+                  <persName>Siegfried, Anna</persName>
+                  <birth>
+                     <date>1892</date>
+                  </birth>
+                  <occupation>Gattin des Theologen Theodor Siegfried</occupation>
                </person>
             </listPerson>
          </div>

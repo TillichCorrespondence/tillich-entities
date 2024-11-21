@@ -3980,6 +3980,10 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2930871/</idno>
                </place>
+               <place xml:id="tillich_place_id__658">
+                  <placeName>Nordhausen</placeName>
+                  <idno type="geonames">https://sws.geonames.org/2861982/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

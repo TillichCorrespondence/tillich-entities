@@ -5817,5 +5817,16 @@
     "latitude": "47.45998",
     "longitude": "11.17985",
     "wikidata_url": ""
+  },
+  "658": {
+    "id": 658,
+    "order": "651.00000000000000000000",
+    "name": "Nordhausen",
+    "tillich_id": "tillich_place_id__658",
+    "geonames_url": "http://www.geonames.org/2861982",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
