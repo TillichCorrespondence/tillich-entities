@@ -54430,5 +54430,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3036": {
+    "id": 3036,
+    "order": "3031.00000000000000000000",
+    "name": "Wilson, Woodrow",
+    "surname": "Wilson",
+    "forename": "Woodrow",
+    "from_to": "1856-1924",
+    "occupation": "Präsident der Vereinigten Staaten von Amerika von 1913 bis 1921.",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118643401",
+    "tillich_id": "tillich_person_id__3036",
+    "date_of_birth": "1856-12-28",
+    "date_of_death": "1924-02-03",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

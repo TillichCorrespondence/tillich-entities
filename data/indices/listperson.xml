@@ -17258,6 +17258,17 @@
                   </birth>
                   <occupation>Gattin des Theologen Theodor Siegfried</occupation>
                </person>
+               <person xml:id="tillich_person_id__3036">
+                  <persName>Wilson, Woodrow</persName>
+                  <birth>
+                     <date>1856-12-28</date>
+                  </birth>
+                  <death>
+                     <date>1924-02-03</date>
+                  </death>
+                  <occupation>Präsident der Vereinigten Staaten von Amerika von 1913 bis 1921.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118643401</idno>
+               </person>
             </listPerson>
          </div>
       </body>
