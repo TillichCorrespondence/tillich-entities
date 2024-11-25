@@ -17269,6 +17269,12 @@
                   <occupation>Präsident der Vereinigten Staaten von Amerika von 1913 bis 1921.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118643401</idno>
                </person>
+               <person xml:id="tillich_person_id__3037">
+                  <persName>???, Manzel</persName>
+               </person>
+               <person xml:id="tillich_person_id__3038">
+                  <persName>???, Schmul</persName>
+               </person>
             </listPerson>
          </div>
       </body>

@@ -54448,5 +54448,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3037": {
+    "id": 3037,
+    "order": "3032.00000000000000000000",
+    "name": "???, Manzel",
+    "surname": "???",
+    "forename": "Manzel",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3037",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Erwähnt in L00773",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3038": {
+    "id": 3038,
+    "order": "3033.00000000000000000000",
+    "name": "???, Schmul",
+    "surname": "???",
+    "forename": "Schmul",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3038",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Erwähnt in L00773",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
