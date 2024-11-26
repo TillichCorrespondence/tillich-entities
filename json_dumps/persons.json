@@ -54484,5 +54484,41 @@
     "working_note": "Erwähnt in L00773",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3039": {
+    "id": 3039,
+    "order": "3034.00000000000000000000",
+    "name": "Mariechen",
+    "surname": "???",
+    "forename": "Marie",
+    "from_to": "",
+    "occupation": "Meint evtl. Marie Luise Werner, die Schwester Hannah Tillichs.",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3039",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3040": {
+    "id": 3040,
+    "order": "3035.00000000000000000000",
+    "name": "Cramer, ???",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3040",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Studienkollege von Tillich vgl. L00162",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
