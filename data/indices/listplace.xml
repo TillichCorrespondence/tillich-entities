@@ -654,12 +654,12 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q162049</idno>
                </place>
                <place xml:id="tillich_place_id__97">
-                  <placeName>Chaumont</placeName>
+                  <placeName>Chaumont-devant-Damvillers</placeName>
                   <location type="coords">
-                     <geo>48.11121 5.14134</geo>
+                     <geo>49.30730 5.42654</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3025892/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q193880</idno>
+                  <idno type="geonames">https://sws.geonames.org/3025883/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q724031</idno>
                </place>
                <place xml:id="tillich_place_id__98">
                   <placeName>Chauny</placeName>

@@ -17282,6 +17282,12 @@
                <person xml:id="tillich_person_id__3040">
                   <persName>Cramer, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__3041">
+                  <persName>Frau Theobald</persName>
+               </person>
+               <person xml:id="tillich_person_id__3042">
+                  <persName>Emily</persName>
+               </person>
             </listPerson>
          </div>
       </body>

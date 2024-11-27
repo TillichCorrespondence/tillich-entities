@@ -926,13 +926,13 @@
   "97": {
     "id": 97,
     "order": "97.00000000000000000000",
-    "name": "Chaumont",
+    "name": "Chaumont-devant-Damvillers",
     "tillich_id": "tillich_place_id__97",
-    "geonames_url": "https://sws.geonames.org/3025892/",
+    "geonames_url": "https://www.geonames.org/3025883",
     "Working Notes": "Working Notes",
-    "latitude": "48.11121",
-    "longitude": "5.14134",
-    "wikidata_url": "http://www.wikidata.org/entity/Q193880"
+    "latitude": "49.30730",
+    "longitude": "5.42654",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q724031"
   },
   "98": {
     "id": 98,
