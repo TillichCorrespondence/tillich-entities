@@ -1838,7 +1838,9 @@
                   <occupation>Dominikaner, Schriftsteller, Übersetzer</occupation>
                </person>
                <person xml:id="tillich_person_id__295">
-                  <persName>Brueghel, Pieter</persName>
+                  <persName>Brueghel, Pieter (der Ältere)</persName>
+                  <occupation>Maler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118674013</idno>
                </person>
                <person xml:id="tillich_person_id__296">
                   <persName>Bruhn, Wilhelm</persName>
@@ -13072,6 +13074,7 @@
                </person>
                <person xml:id="tillich_person_id__2420">
                   <persName>Herrmann, Heinrich</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2421">
                   <persName>Gerullis, Georg</persName>
@@ -16560,6 +16563,7 @@
                         <placeName>Dresden</placeName>
                      </settlement>
                   </birth>
+                  <occupation>Bibliothekar (Verwalter der Sächsischen Landesbibliothek bzw. Staats- und Universitätsbibliothek Dresden)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11759637X</idno>
                </person>
                <person xml:id="tillich_person_id__2878">
@@ -17287,6 +17291,9 @@
                </person>
                <person xml:id="tillich_person_id__3042">
                   <persName>Emily</persName>
+               </person>
+               <person xml:id="tillich_person_id__3043">
+                  <persName/>
                </person>
             </listPerson>
          </div>
