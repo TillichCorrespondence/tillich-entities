@@ -3984,6 +3984,22 @@
                   <placeName>Nordhausen</placeName>
                   <idno type="geonames">https://sws.geonames.org/2861982/</idno>
                </place>
+               <place xml:id="tillich_place_id__659">
+                  <placeName>Arosa</placeName>
+                  <location type="coords">
+                     <geo>46.77793 9.67621</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661712/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q56435851</idno>
+               </place>
+               <place xml:id="tillich_place_id__660">
+                  <placeName>Ascona</placeName>
+                  <location type="coords">
+                     <geo>46.15451 8.77327</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661698/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q22456277</idno>
+               </place>
             </listPlace>
          </div>
       </body>

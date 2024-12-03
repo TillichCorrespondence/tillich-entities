@@ -5828,5 +5828,27 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "659": {
+    "id": 659,
+    "order": "652.00000000000000000000",
+    "name": "Arosa",
+    "tillich_id": "tillich_place_id__659",
+    "geonames_url": "https://sws.geonames.org/2661712/",
+    "Working Notes": "",
+    "latitude": "46.77793",
+    "longitude": "9.67621",
+    "wikidata_url": "http://www.wikidata.org/entity/Q56435851"
+  },
+  "660": {
+    "id": 660,
+    "order": "653.00000000000000000000",
+    "name": "Ascona",
+    "tillich_id": "tillich_place_id__660",
+    "geonames_url": "https://sws.geonames.org/2661698/",
+    "Working Notes": "(Askona geschrieben von Tillich in L00971)",
+    "latitude": "46.15451",
+    "longitude": "8.77327",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22456277"
   }
 }

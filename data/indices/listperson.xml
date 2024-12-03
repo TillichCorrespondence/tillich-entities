@@ -2492,6 +2492,7 @@
                </person>
                <person xml:id="tillich_person_id__490">
                   <persName>Driesch, Hans</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118527479</idno>
                </person>
                <person xml:id="tillich_person_id__491">
                   <persName>Dru, Alexander</persName>
@@ -17292,8 +17293,34 @@
                <person xml:id="tillich_person_id__3042">
                   <persName>Emily</persName>
                </person>
-               <person xml:id="tillich_person_id__3043">
-                  <persName/>
+               <person xml:id="tillich_person_id__3044">
+                  <persName>Frau Weinhagen</persName>
+               </person>
+               <person xml:id="tillich_person_id__3045">
+                  <persName>Herr Weinhagen</persName>
+               </person>
+               <person xml:id="tillich_person_id__3046">
+                  <persName>Frau Dr. Herzberg</persName>
+                  <occupation>Berichterstatterin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3047">
+                  <persName>Herr Gideon</persName>
+               </person>
+               <person xml:id="tillich_person_id__3048">
+                  <persName>Frau Gideon</persName>
+               </person>
+               <person xml:id="tillich_person_id__3049">
+                  <persName>Driesch, Margarete</persName>
+                  <occupation>Schriftstellerin, Reiseberichterstatterin, Frau des Philosophen Hans Driesch</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11622309X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3050">
+                  <persName>Herr Donath</persName>
+               </person>
+               <person xml:id="tillich_person_id__3051">
+                  <persName>Bener, Gustav</persName>
+                  <occupation>Bauingenieur, 1918-1936 Direktor der Rhätischen Bahn</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1070137324</idno>
                </person>
             </listPerson>
          </div>
