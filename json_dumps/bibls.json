@@ -2274,26 +2274,26 @@
   "293": {
     "id": 293,
     "order": "288.00000000000000000000",
-    "name": "",
+    "name": "Rickert, Heinrich, Der Gegenstand der Erkenntnis. Einführung in die Tranzendentalphilosophie, 3. völlig umgearbeitete und erweiterte Auflage, Tübingen 1915",
     "working_note": "",
     "tillich_id": "tillich_work_id__293",
-    "zotero": ""
+    "zotero": "8TCXNFE2"
   },
   "294": {
     "id": 294,
     "order": "289.00000000000000000000",
-    "name": "",
+    "name": "Grisebach, Eberhard, Die Grenzen des Erziehers und seine Verantwortung, Halle 1924.",
     "working_note": "",
     "tillich_id": "tillich_work_id__294",
-    "zotero": ""
+    "zotero": "VQ4Z2EDV"
   },
   "295": {
     "id": 295,
     "order": "290.00000000000000000000",
-    "name": "",
+    "name": "Grisebach, Eberhard, Gegenwart. Eine kritische Ethik, Halle 1928.",
     "working_note": "",
     "tillich_id": "tillich_work_id__295",
-    "zotero": ""
+    "zotero": "H667WU44"
   },
   "296": {
     "id": 296,
@@ -2302,5 +2302,29 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__296",
     "zotero": ""
+  },
+  "297": {
+    "id": 297,
+    "order": "292.00000000000000000000",
+    "name": "Zahn, Theodor. Einleitung in das Neue Testament, Bd. 1. Leipzig 1897.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__297",
+    "zotero": "A82EIMUY"
+  },
+  "298": {
+    "id": 298,
+    "order": "293.00000000000000000000",
+    "name": "Zahn, Theodor. Einleitung in das Neue Testament, Bd. 2. Leipzig 1897.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__298",
+    "zotero": "QNMM37ZA"
+  },
+  "299": {
+    "id": 299,
+    "order": "294.00000000000000000000",
+    "name": "Theodor von Häring, Das christliche Leben (Ethik), Calw 1907.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__299",
+    "zotero": "RATTCBW8"
   }
 }
