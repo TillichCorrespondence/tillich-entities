@@ -54700,5 +54700,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3052": {
+    "id": 3052,
+    "order": "3047.00000000000000000000",
+    "name": "???, Heinie",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3052",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Vgl. L00187",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
