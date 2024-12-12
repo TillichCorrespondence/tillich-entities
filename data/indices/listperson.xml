@@ -17335,6 +17335,16 @@
                <person xml:id="tillich_person_id__3055">
                   <persName>Mimi</persName>
                </person>
+               <person xml:id="tillich_person_id__3056">
+                  <persName>John, Peter H.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3057">
+                  <persName>Walltraut</persName>
+                  <note type="bio"><p>Weiblich</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3058">
+                  <persName>Dagma</persName>
+               </person>
             </listPerson>
          </div>
       </body>
