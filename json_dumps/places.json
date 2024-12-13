@@ -5850,5 +5850,16 @@
     "latitude": "46.15451",
     "longitude": "8.77327",
     "wikidata_url": "http://www.wikidata.org/entity/Q22456277"
+  },
+  "661": {
+    "id": 661,
+    "order": "654.00000000000000000000",
+    "name": "Tegernsee",
+    "tillich_id": "tillich_place_id__661",
+    "geonames_url": "https://www.geonames.org/2823680",
+    "Working Notes": "",
+    "latitude": "47.71667",
+    "longitude": "11.73333",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q253971"
   }
 }

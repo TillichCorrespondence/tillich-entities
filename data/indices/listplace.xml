@@ -4000,6 +4000,14 @@
                   <idno type="geonames">https://sws.geonames.org/2661698/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q22456277</idno>
                </place>
+               <place xml:id="tillich_place_id__661">
+                  <placeName>Tegernsee</placeName>
+                  <location type="coords">
+                     <geo>47.71667 11.73333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2823680/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q253971</idno>
+               </place>
             </listPlace>
          </div>
       </body>
