@@ -17345,6 +17345,16 @@
                <person xml:id="tillich_person_id__3058">
                   <persName>Dagma</persName>
                </person>
+               <person xml:id="tillich_person_id__3059">
+                  <persName>Louis Verneuil</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116654635</idno>
+               </person>
+               <person xml:id="tillich_person_id__3060">
+                  <persName>Schmidt, Fr.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3061">
+                  <persName>Korte, K</persName>
+               </person>
             </listPerson>
          </div>
       </body>

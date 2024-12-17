@@ -5861,5 +5861,27 @@
     "latitude": "47.71667",
     "longitude": "11.73333",
     "wikidata_url": "https://www.wikidata.org/wiki/Q253971"
+  },
+  "662": {
+    "id": 662,
+    "order": "655.00000000000000000000",
+    "name": "Berneuchen",
+    "tillich_id": "tillich_place_id__662",
+    "geonames_url": "https://sws.geonames.org/3103812/",
+    "Working Notes": "barnowko, L00994 (\"Berneuchen Tagung\" wo Tillich war muss nicht in Berneuchen selbst stattgefunden haben erste mal 1927, danach wo anders\"",
+    "latitude": "52.78454",
+    "longitude": "14.76665",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2908798"
+  },
+  "663": {
+    "id": 663,
+    "order": "656.00000000000000000000",
+    "name": "Porta Westfalica",
+    "tillich_id": "tillich_place_id__663",
+    "geonames_url": "https://sws.geonames.org/2852577/",
+    "Working Notes": "",
+    "latitude": "52.22961",
+    "longitude": "8.91612",
+    "wikidata_url": "http://www.wikidata.org/entity/Q451010"
   }
 }

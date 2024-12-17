@@ -4008,6 +4008,22 @@
                   <idno type="geonames">https://sws.geonames.org/2823680/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q253971</idno>
                </place>
+               <place xml:id="tillich_place_id__662">
+                  <placeName>Berneuchen</placeName>
+                  <location type="coords">
+                     <geo>52.78454 14.76665</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3103812/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2908798</idno>
+               </place>
+               <place xml:id="tillich_place_id__663">
+                  <placeName>Porta Westfalica</placeName>
+                  <location type="coords">
+                     <geo>52.22961 8.91612</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2852577/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q451010</idno>
+               </place>
             </listPlace>
          </div>
       </body>
