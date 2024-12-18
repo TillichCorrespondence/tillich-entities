@@ -4206,6 +4206,7 @@
                </person>
                <person xml:id="tillich_person_id__969">
                   <persName>James, William</persName>
+                  <note type="bio"><p>William James was an American philosopher and psychologist, and the first educator to offer a psychology course in the United States. James is considered to be a leading thinker of the late 19th century, one of the most influential philosophers of the United States, and the "Father of American psychology."</p></note>
                </person>
                <person xml:id="tillich_person_id__970">
                   <persName>Jannensch, Erika</persName>
@@ -6274,6 +6275,7 @@
                </person>
                <person xml:id="tillich_person_id__1556">
                   <persName>Randall, John</persName>
+                  <note type="bio"><p>Professor at Columbia University</p></note>
                </person>
                <person xml:id="tillich_person_id__1557">
                   <persName>Ranke, Leopold von</persName>
@@ -17354,6 +17356,12 @@
                </person>
                <person xml:id="tillich_person_id__3061">
                   <persName>Korte, K</persName>
+               </person>
+               <person xml:id="tillich_person_id__3062">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3063">
+                  <persName>Plato</persName>
                </person>
             </listPerson>
          </div>

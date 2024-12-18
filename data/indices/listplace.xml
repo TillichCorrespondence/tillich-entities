@@ -4024,6 +4024,14 @@
                   <idno type="geonames">https://sws.geonames.org/2852577/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q451010</idno>
                </place>
+               <place xml:id="tillich_place_id__664">
+                  <placeName>Capua</placeName>
+                  <location type="coords">
+                     <geo>41.10519 14.21269</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3180601/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q58477</idno>
+               </place>
             </listPlace>
          </div>
       </body>

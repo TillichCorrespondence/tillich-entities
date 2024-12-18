@@ -5883,5 +5883,16 @@
     "latitude": "52.22961",
     "longitude": "8.91612",
     "wikidata_url": "http://www.wikidata.org/entity/Q451010"
+  },
+  "664": {
+    "id": 664,
+    "order": "657.00000000000000000000",
+    "name": "Capua",
+    "tillich_id": "tillich_place_id__664",
+    "geonames_url": "https://www.geonames.org/3180601",
+    "Working Notes": "",
+    "latitude": "41.10519",
+    "longitude": "14.21269",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q58477"
   }
 }
