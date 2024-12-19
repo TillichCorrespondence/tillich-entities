@@ -5894,5 +5894,27 @@
     "latitude": "41.10519",
     "longitude": "14.21269",
     "wikidata_url": "https://www.wikidata.org/wiki/Q58477"
+  },
+  "665": {
+    "id": 665,
+    "order": "658.00000000000000000000",
+    "name": "Egypt",
+    "tillich_id": "tillich_place_id__665",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "666": {
+    "id": 666,
+    "order": "659.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__666",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
