@@ -5916,5 +5916,27 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "667": {
+    "id": 667,
+    "order": "660.00000000000000000000",
+    "name": "Celle",
+    "tillich_id": "tillich_place_id__667",
+    "geonames_url": "https://www.geonames.org/2940213",
+    "Working Notes": "",
+    "latitude": "52.62264",
+    "longitude": "10.08047",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3933"
+  },
+  "668": {
+    "id": 668,
+    "order": "661.00000000000000000000",
+    "name": "Union Theological Seminary",
+    "tillich_id": "tillich_place_id__668",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

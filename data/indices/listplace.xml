@@ -4038,6 +4038,17 @@
                <place xml:id="tillich_place_id__666">
                   <placeName/>
                </place>
+               <place xml:id="tillich_place_id__667">
+                  <placeName>Celle</placeName>
+                  <location type="coords">
+                     <geo>52.62264 10.08047</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2940213/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3933</idno>
+               </place>
+               <place xml:id="tillich_place_id__668">
+                  <placeName>Union Theological Seminary</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

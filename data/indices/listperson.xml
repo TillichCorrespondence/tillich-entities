@@ -15420,7 +15420,8 @@
                   <note type="bio"><p>Sie war die Tochter von Arthur und Annie Jacker.</p></note>
                </person>
                <person xml:id="tillich_person_id__2691">
-                  <persName>???, (Großmama)</persName>
+                  <persName>Jacker, (Großmama)</persName>
+                  <note type="bio"><p>Entweder die Mutter oder Schwiegermutter von Arthur Jacker</p></note>
                </person>
                <person xml:id="tillich_person_id__2692">
                   <persName>???, Liese</persName>
@@ -16446,7 +16447,7 @@
                   <persName>Albrecht, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2866">
-                  <persName>Schloss, ???</persName>
+                  <persName>Schlosser, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2867">
                   <persName>Claassen, Eugen</persName>
@@ -17365,6 +17366,14 @@
                </person>
                <person xml:id="tillich_person_id__3064">
                   <persName>Dostoievsky, Fyodor</persName>
+               </person>
+               <person xml:id="tillich_person_id__3065">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3066">
+                  <persName>Goldstein, Moritz</persName>
+                  <occupation>Gerichtsberichterstatter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118540548</idno>
                </person>
             </listPerson>
          </div>
