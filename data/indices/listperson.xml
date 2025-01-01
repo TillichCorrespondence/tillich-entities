@@ -17376,6 +17376,10 @@
                   <occupation>Gerichtsberichterstatter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118540548</idno>
                </person>
+               <person xml:id="tillich_person_id__3068">
+                  <persName>Prof. Monz</persName>
+                  <occupation>Klinikleiter</occupation>
+               </person>
             </listPerson>
          </div>
       </body>

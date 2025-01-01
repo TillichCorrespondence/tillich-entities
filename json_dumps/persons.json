@@ -54970,5 +54970,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3068": {
+    "id": 3068,
+    "order": "3062.00000000000000000000",
+    "name": "Prof. Monz",
+    "surname": "Monz",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "Klinikleiter",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3068",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "\"Der Vater(von Paul Tillich) war bei dem hiesigen Klinikleiter, Prof. Monz\" (aus Weil?)",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

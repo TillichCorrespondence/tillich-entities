@@ -2777,7 +2777,7 @@
     "name": "Nogent",
     "tillich_id": "tillich_place_id__322",
     "geonames_url": "https://sws.geonames.org/6616998/",
-    "Working Notes": "(L00411)(Gibt viele Nogents, könnte neben bloß \"Nogent\"(kleine Stadt) als solchen auch \"Nogent-sur-Marne\"(große Stadt) gemeint sein weil dort weil es befindet sich dort -> evangelische Institut Biblique Nogent-sur-Marne)",
+    "Working Notes": "(L00411)(Gibt viele Nogents, könnte neben bloß \"Nogent\"(kleine Stadt) als solchen auch \"Nogent-sur-Marne\"(große Stadt) gemeint sein, weil es befindet sich dort -> evangelische Institut Biblique Nogent-sur-Marne)",
     "latitude": "48.02940",
     "longitude": "5.34590",
     "wikidata_url": "http://www.wikidata.org/entity/Q1325342"
@@ -5938,5 +5938,27 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "669": {
+    "id": 669,
+    "order": "662.00000000000000000000",
+    "name": "Weil",
+    "tillich_id": "tillich_place_id__669",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "670": {
+    "id": 670,
+    "order": "663.00000000000000000000",
+    "name": "Freistatt",
+    "tillich_id": "tillich_place_id__670",
+    "geonames_url": "https://sws.geonames.org/6547422/",
+    "Working Notes": "",
+    "latitude": "52.65383",
+    "longitude": "8.63907",
+    "wikidata_url": "http://www.wikidata.org/entity/Q501882"
   }
 }

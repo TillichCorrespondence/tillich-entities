@@ -4049,6 +4049,17 @@
                <place xml:id="tillich_place_id__668">
                   <placeName>Union Theological Seminary</placeName>
                </place>
+               <place xml:id="tillich_place_id__669">
+                  <placeName>Weil</placeName>
+               </place>
+               <place xml:id="tillich_place_id__670">
+                  <placeName>Freistatt</placeName>
+                  <location type="coords">
+                     <geo>52.65383 8.63907</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6547422/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q501882</idno>
+               </place>
             </listPlace>
          </div>
       </body>
