@@ -5960,5 +5960,27 @@
     "latitude": "52.65383",
     "longitude": "8.63907",
     "wikidata_url": "http://www.wikidata.org/entity/Q501882"
+  },
+  "671": {
+    "id": 671,
+    "order": "664.00000000000000000000",
+    "name": "Bernau",
+    "tillich_id": "tillich_place_id__671",
+    "geonames_url": "",
+    "Working Notes": "Ist das Berneuchen? Von Tillich an Hannah vermutlich 1925",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "672": {
+    "id": 672,
+    "order": "665.00000000000000000000",
+    "name": "Athens",
+    "tillich_id": "tillich_place_id__672",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

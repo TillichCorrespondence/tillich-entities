@@ -17380,6 +17380,15 @@
                   <persName>Prof. Monz</persName>
                   <occupation>Klinikleiter</occupation>
                </person>
+               <person xml:id="tillich_person_id__3069">
+                  <persName>Dossir</persName>
+               </person>
+               <person xml:id="tillich_person_id__3070">
+                  <persName>Wierkandt</persName>
+               </person>
+               <person xml:id="tillich_person_id__3071">
+                  <persName>Pfarrer Janßen</persName>
+               </person>
             </listPerson>
          </div>
       </body>

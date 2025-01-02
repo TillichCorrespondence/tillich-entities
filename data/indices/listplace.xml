@@ -4060,6 +4060,12 @@
                   <idno type="geonames">https://sws.geonames.org/6547422/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q501882</idno>
                </place>
+               <place xml:id="tillich_place_id__671">
+                  <placeName>Bernau</placeName>
+               </place>
+               <place xml:id="tillich_place_id__672">
+                  <placeName>Athens</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
