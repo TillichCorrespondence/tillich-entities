@@ -17389,6 +17389,44 @@
                <person xml:id="tillich_person_id__3071">
                   <persName>Pfarrer Janßen</persName>
                </person>
+               <person xml:id="tillich_person_id__3072">
+                  <persName>Copernicus</persName>
+               </person>
+               <person xml:id="tillich_person_id__3073">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3074">
+                  <persName>Lamarck, Jean-Baptiste</persName>
+               </person>
+               <person xml:id="tillich_person_id__3075">
+                  <persName>Planck, Max</persName>
+               </person>
+               <person xml:id="tillich_person_id__3076">
+                  <persName>von Weizsäcker, Carl Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__3077">
+                  <persName>Russell, Gilbert</persName>
+               </person>
+               <person xml:id="tillich_person_id__3078">
+                  <persName>Cole, William Graham</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/105166308</idno>
+               </person>
+               <person xml:id="tillich_person_id__3079">
+                  <persName>Bailey, Derrick Sherwin</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1074702379</idno>
+               </person>
+               <person xml:id="tillich_person_id__3080">
+                  <persName>Tawney, Richard H.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118801465</idno>
+               </person>
+               <person xml:id="tillich_person_id__3081">
+                  <persName>Hutchison, John Alexander</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/136288448</idno>
+               </person>
+               <person xml:id="tillich_person_id__3082">
+                  <persName>Bennett, John C.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1055387706</idno>
+               </person>
             </listPerson>
          </div>
       </body>
