@@ -17427,6 +17427,30 @@
                   <persName>Bennett, John C.</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1055387706</idno>
                </person>
+               <person xml:id="tillich_person_id__3083">
+                  <persName>Bürkle, Horst</persName>
+                  <birth>
+                     <date>09.06.1925</date>
+                  </birth>
+                  <death>
+                     <date>24.04.2015</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__3084">
+                  <persName>Steen, Jan</persName>
+               </person>
+               <person xml:id="tillich_person_id__3085">
+                  <persName>Ostade, Adriaen van</persName>
+               </person>
+               <person xml:id="tillich_person_id__3086">
+                  <persName>Watteau, Jean-Antoine</persName>
+               </person>
+               <person xml:id="tillich_person_id__3087">
+                  <persName>Bronzino, Agnolo</persName>
+               </person>
+               <person xml:id="tillich_person_id__3088">
+                  <persName>Titian</persName>
+               </person>
             </listPerson>
          </div>
       </body>
