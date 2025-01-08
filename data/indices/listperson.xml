@@ -17451,6 +17451,47 @@
                <person xml:id="tillich_person_id__3088">
                   <persName>Titian</persName>
                </person>
+               <person xml:id="tillich_person_id__3089">
+                  <persName>El Greco</persName>
+               </person>
+               <person xml:id="tillich_person_id__3090">
+                  <persName>Goya</persName>
+               </person>
+               <person xml:id="tillich_person_id__3092">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3093">
+                  <persName>Léger, Fernand</persName>
+               </person>
+               <person xml:id="tillich_person_id__3094">
+                  <persName>Rouault, Georges</persName>
+               </person>
+               <person xml:id="tillich_person_id__3095">
+                  <persName>de Chirico, Giorgio</persName>
+               </person>
+               <person xml:id="tillich_person_id__3096">
+                  <persName>Moore, Henry</persName>
+               </person>
+               <person xml:id="tillich_person_id__3098">
+                  <persName>della Francesca, Piero</persName>
+               </person>
+               <person xml:id="tillich_person_id__3099">
+                  <persName>Masaccio</persName>
+               </person>
+               <person xml:id="tillich_person_id__3100">
+                  <persName>Raphael</persName>
+               </person>
+               <person xml:id="tillich_person_id__3101">
+                  <persName>Sutherland, Graham Vivian</persName>
+               </person>
+               <person xml:id="tillich_person_id__3102">
+                  <persName>Earl Scott</persName>
+               </person>
+               <person xml:id="tillich_person_id__3103">
+                  <persName>Happich, Carl</persName>
+                  <occupation>Psychotherapeut; Internist; Mitbegründer der Berneuchener Bewegung</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/143871439</idno>
+               </person>
             </listPerson>
          </div>
       </body>

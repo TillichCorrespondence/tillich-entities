@@ -6015,5 +6015,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "676": {
+    "id": 676,
+    "order": "669.00000000000000000000",
+    "name": "Metropolitan Museum of Art, New York",
+    "tillich_id": "tillich_place_id__676",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
