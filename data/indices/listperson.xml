@@ -13461,7 +13461,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/127774904</idno>
                </person>
                <person xml:id="tillich_person_id__2451">
-                  <persName>Pange, Johann</persName>
+                  <persName>Plenge, Johann Max Emanuel</persName>
+                  <occupation>Nationalökonom; Soziologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118594966</idno>
+                  <note type="bio"><p>Er war ein Schüler Karl Büchers und lehrte an der WWU Münster.</p></note>
                </person>
                <person xml:id="tillich_person_id__2452">
                   <persName>Schröer, Eduard</persName>
@@ -15803,11 +15806,6 @@
                   <occupation>Herausgeber;</occupation>
                   <note type="bio"><p>Er war Herausgeber der sogenannten "Wege".</p></note>
                </person>
-               <person xml:id="tillich_person_id__2747">
-                  <persName>Plenge, Johannes</persName>
-                  <occupation>Nationalökonom; Soziologe;</occupation>
-                  <note type="bio"><p>Er war ein Schüler Karl Büchers und lehrte an der WWU Münster.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2748">
                   <persName>Foerster, Erich</persName>
                   <occupation>Pfarrer; Jurist;</occupation>
@@ -17491,6 +17489,24 @@
                   <persName>Happich, Carl</persName>
                   <occupation>Psychotherapeut; Internist; Mitbegründer der Berneuchener Bewegung</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/143871439</idno>
+               </person>
+               <person xml:id="tillich_person_id__3104">
+                  <persName>Frau Levi</persName>
+               </person>
+               <person xml:id="tillich_person_id__3105">
+                  <persName>Herr Stensbeck</persName>
+               </person>
+               <person xml:id="tillich_person_id__3106">
+                  <persName>Frau Eberth</persName>
+               </person>
+               <person xml:id="tillich_person_id__3107">
+                  <persName>Pavlov</persName>
+               </person>
+               <person xml:id="tillich_person_id__3108">
+                  <persName>(unclear)Luther</persName>
+               </person>
+               <person xml:id="tillich_person_id__3109">
+                  <persName>Read, Herbert</persName>
                </person>
             </listPerson>
          </div>
