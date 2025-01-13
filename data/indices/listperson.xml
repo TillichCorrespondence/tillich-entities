@@ -17508,6 +17508,12 @@
                <person xml:id="tillich_person_id__3109">
                   <persName>Read, Herbert</persName>
                </person>
+               <person xml:id="tillich_person_id__3110">
+                  <persName>Onesimus</persName>
+               </person>
+               <person xml:id="tillich_person_id__3111">
+                  <persName>Philemon</persName>
+               </person>
             </listPerson>
          </div>
       </body>

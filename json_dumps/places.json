@@ -6026,5 +6026,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "677": {
+    "id": 677,
+    "order": "670.00000000000000000000",
+    "name": "Berlin-Moabit",
+    "tillich_id": "tillich_place_id__677",
+    "geonames_url": "https://sws.geonames.org/2870310/",
+    "Working Notes": "",
+    "latitude": "52.52635",
+    "longitude": "13.33903",
+    "wikidata_url": "http://www.wikidata.org/entity/Q699800"
   }
 }

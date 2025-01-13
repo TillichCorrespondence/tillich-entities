@@ -4082,6 +4082,14 @@
                <place xml:id="tillich_place_id__676">
                   <placeName>Metropolitan Museum of Art, New York</placeName>
                </place>
+               <place xml:id="tillich_place_id__677">
+                  <placeName>Berlin-Moabit</placeName>
+                  <location type="coords">
+                     <geo>52.52635 13.33903</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2870310/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q699800</idno>
+               </place>
             </listPlace>
          </div>
       </body>
