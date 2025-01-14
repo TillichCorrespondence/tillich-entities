@@ -6341,7 +6341,7 @@
                </person>
                <person xml:id="tillich_person_id__1570">
                   <persName>Reichl, Otto</persName>
-                  <occupation>Erwähnt als: "gemeinsamen Verleger" zu Tillch, von Goedela Gräfin Keyserling-Bismarck in "1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P."</occupation>
+                  <occupation>Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1571">
                   <persName>Reichwein, Adolf</persName>
@@ -7081,6 +7081,9 @@
                </person>
                <person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
+                  <birth>
+                     <date>16.06.1893</date>
+                  </birth>
                   <occupation>Schwester</occupation>
                   <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
@@ -17513,6 +17516,9 @@
                </person>
                <person xml:id="tillich_person_id__3111">
                   <persName>Philemon</persName>
+               </person>
+               <person xml:id="tillich_person_id__3112">
+                  <persName>Edwin Knopf</persName>
                </person>
             </listPerson>
          </div>
