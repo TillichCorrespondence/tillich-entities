@@ -761,7 +761,7 @@
   "76": {
     "id": 76,
     "order": "76.00000000000000000000",
-    "name": "Bremke vor Göttingen",
+    "name": "Bremke (Gleichen)",
     "tillich_id": "tillich_place_id__76",
     "geonames_url": "https://sws.geonames.org/2944340/",
     "Working Notes": "Working Notes",
@@ -1377,7 +1377,7 @@
   "144": {
     "id": 144,
     "order": "144.00000000000000000000",
-    "name": "Niederrad",
+    "name": "Frankfurt (Main)-Niederrad",
     "tillich_id": "tillich_place_id__144",
     "geonames_url": "https://sws.geonames.org/7290401/",
     "Working Notes": "Working Notes",
@@ -1399,7 +1399,7 @@
   "160": {
     "id": 160,
     "order": "160.00000000000000000000",
-    "name": "Frankfurt/Main/Römerstadt",
+    "name": "Frankfurt (Main)-Römerstadt",
     "tillich_id": "tillich_place_id__160",
     "geonames_url": "https://sws.geonames.org/2845310/",
     "Working Notes": "Working Notes",

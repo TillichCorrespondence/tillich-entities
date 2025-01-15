@@ -539,7 +539,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33426057</idno>
                </place>
                <place xml:id="tillich_place_id__76">
-                  <placeName>Bremke vor Göttingen</placeName>
+                  <placeName>Bremke (Gleichen)</placeName>
                   <location type="coords">
                      <geo>51.44780 10.04236</geo>
                   </location>
@@ -974,7 +974,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q122166308</idno>
                </place>
                <place xml:id="tillich_place_id__144">
-                  <placeName>Niederrad</placeName>
+                  <placeName>Frankfurt (Main)-Niederrad</placeName>
                   <location type="coords">
                      <geo>50.08309 8.62852</geo>
                   </location>
@@ -990,7 +990,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4024</idno>
                </place>
                <place xml:id="tillich_place_id__160">
-                  <placeName>Frankfurt/Main/Römerstadt</placeName>
+                  <placeName>Frankfurt (Main)-Römerstadt</placeName>
                   <location type="coords">
                      <geo>50.15469 8.63306</geo>
                   </location>
