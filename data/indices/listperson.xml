@@ -9378,9 +9378,6 @@
                <person xml:id="tillich_person_id__2004">
                   <persName>Vogtbang, Erich</persName>
                </person>
-               <person xml:id="tillich_person_id__2005">
-                  <persName>Volckmar, F.</persName>
-               </person>
                <person xml:id="tillich_person_id__2006">
                   <persName>Vollmer, Antje</persName>
                   <birth>
@@ -13658,10 +13655,18 @@
                   <note type="bio"><p>Er war Mitglied der DVP und wirkte ab 1926 als Ministerialrat im preußischen Unterrichtsministerium. Er war auch als Honorarprofessor für die Universität Berlin tätig.</p></note>
                </person>
                <person xml:id="tillich_person_id__2472">
-                  <persName>Frentzel, ???</persName>
+                  <persName>Volckmar-Frentzel, Theodor</persName>
+                  <occupation>Buchhändler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117488356</idno>
+                  <note type="bio"><p>Theodor Volckmar-Frentzel (ehemals Theodor Frentzel) war ab 1930 Konzernchef des renommierten Zwischenbuchhändlers F. Volckmar. Am 20. Dezember 1932 ließ er sich gemäß Adoptionsvertrag von Hans Volckmar adoptieren und führte seither den Doppelnamen Volckmar-Frentzel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2473">
-                  <persName>Starkloff, ???</persName>
+                  <persName>Starkloff, Johannes</persName>
+                  <birth>
+                     <date>1894</date>
+                  </birth>
+                  <occupation>Jurist; Zwischenbuchhändler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/125942303</idno>
                </person>
                <person xml:id="tillich_person_id__2474">
                   <persName>Kirchner, Joachim</persName>
@@ -17519,6 +17524,27 @@
                </person>
                <person xml:id="tillich_person_id__3112">
                   <persName>Edwin Knopf</persName>
+               </person>
+               <person xml:id="tillich_person_id__3113">
+                  <persName>Heymann, Walther</persName>
+               </person>
+               <person xml:id="tillich_person_id__3114">
+                  <persName>Heymann, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__3115">
+                  <persName>Stietenkron</persName>
+               </person>
+               <person xml:id="tillich_person_id__3116">
+                  <persName>Frau Menkel</persName>
+               </person>
+               <person xml:id="tillich_person_id__3117">
+                  <persName>Holldank</persName>
+               </person>
+               <person xml:id="tillich_person_id__3118">
+                  <persName>Frau Wiechert</persName>
+               </person>
+               <person xml:id="tillich_person_id__3119">
+                  <persName>Wolfgang</persName>
                </person>
             </listPerson>
          </div>
