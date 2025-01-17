@@ -4013,6 +4013,8 @@
                </person>
                <person xml:id="tillich_person_id__910">
                   <persName>Hitler, Adolf</persName>
+                  <occupation>Diktator; Parteiführer der NSDAP von 1921-1945</occupation>
+                  <note type="bio"><p>Adolf Hitler war ein deutscher Politiker und Diktator, der als Führer der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) von 1933 bis 1945 das Deutsche Reich regierte. Er war maßgeblich verantwortlich für den Zweiten Weltkrieg und den Holocaust.</p></note>
                </person>
                <person xml:id="tillich_person_id__911">
                   <persName>Hobbes, Thomas</persName>
@@ -6398,7 +6400,7 @@
                   <persName>Reuter, Hermann</persName>
                </person>
                <person xml:id="tillich_person_id__1588">
-                  <persName>Reutern von, Ilsemargot</persName>
+                  <persName>Reutern, Ilsemargot von</persName>
                </person>
                <person xml:id="tillich_person_id__1589">
                   <persName>Révész, Géza</persName>
@@ -17545,6 +17547,20 @@
                </person>
                <person xml:id="tillich_person_id__3119">
                   <persName>Wolfgang</persName>
+               </person>
+               <person xml:id="tillich_person_id__3120">
+                  <persName>Joël, Karl</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117148199</idno>
+               </person>
+               <person xml:id="tillich_person_id__3121">
+                  <persName>Kaufmann, Erich</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118560719</idno>
+               </person>
+               <person xml:id="tillich_person_id__3122">
+                  <persName>Kühnemann, Eugen</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116589817</idno>
                </person>
             </listPerson>
          </div>
