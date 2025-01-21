@@ -3239,6 +3239,8 @@
                </person>
                <person xml:id="tillich_person_id__694">
                   <persName>Gogarten, Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118540394</idno>
+                  <note type="bio"><p>Systematischer Theologe</p></note>
                </person>
                <person xml:id="tillich_person_id__695">
                   <persName>Gogol, Nikolai Wassiljewitsch</persName>
@@ -5314,6 +5316,8 @@
                </person>
                <person xml:id="tillich_person_id__1275">
                   <persName>Marx, Karl</persName>
+                  <occupation>Ökonom</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118578537</idno>
                </person>
                <person xml:id="tillich_person_id__1276">
                   <persName>Matisse, Henri</persName>
@@ -6377,6 +6381,8 @@
                </person>
                <person xml:id="tillich_person_id__1580">
                   <persName>Rembrandt van Rijn</persName>
+                  <occupation>Künstler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11859964X</idno>
                </person>
                <person xml:id="tillich_person_id__1581">
                   <persName>Renan, Ernest</persName>
