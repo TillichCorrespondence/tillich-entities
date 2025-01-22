@@ -17568,6 +17568,16 @@
                   <persName>Kühnemann, Eugen</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116589817</idno>
                </person>
+               <person xml:id="tillich_person_id__3123">
+                  <persName>???, Hannes</persName>
+                  <note type="bio"><p>Wohnt in Biel (Schweiz) und ist mit den Tillichs befreundet.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3124">
+                  <persName>Herr Ament</persName>
+               </person>
+               <person xml:id="tillich_person_id__3125">
+                  <persName>Delliehausen</persName>
+               </person>
             </listPerson>
          </div>
       </body>

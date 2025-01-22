@@ -6037,5 +6037,16 @@
     "latitude": "52.52635",
     "longitude": "13.33903",
     "wikidata_url": "http://www.wikidata.org/entity/Q699800"
+  },
+  "678": {
+    "id": 678,
+    "order": "671.00000000000000000000",
+    "name": "Biel",
+    "tillich_id": "tillich_place_id__678",
+    "geonames_url": "https://www.geonames.org/2661513/biel-bienne.html",
+    "Working Notes": "",
+    "latitude": "47.13713",
+    "longitude": "7.24608",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1034"
   }
 }
