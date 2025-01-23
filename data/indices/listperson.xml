@@ -12560,9 +12560,6 @@
                <person xml:id="tillich_person_id__2360">
                   <persName>Schwarz, Hermann</persName>
                </person>
-               <person xml:id="tillich_person_id__2361">
-                  <persName>???, Elis</persName>
-               </person>
                <person xml:id="tillich_person_id__2362">
                   <persName>???, Lydia</persName>
                </person>
@@ -14460,7 +14457,10 @@
                   <persName>???, Walter</persName>
                </person>
                <person xml:id="tillich_person_id__2564">
-                  <persName>Kallen, ???</persName>
+                  <persName>Kallen, Elisabeth W.</persName>
+                  <occupation>Künstlerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127697055</idno>
+                  <note type="bio"><p>Tillich widmete ihr 1926 sein Buch "Die religiöse Lage der Gegenwart".</p></note>
                </person>
                <person xml:id="tillich_person_id__2565">
                   <persName>Große, (Fräulein)</persName>
