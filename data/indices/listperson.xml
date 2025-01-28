@@ -13539,7 +13539,6 @@
                   <death>
                      <date>1970</date>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/130453005</idno>
                </person>
                <person xml:id="tillich_person_id__2461">
                   <persName>Döring, (Frau)</persName>
@@ -16715,7 +16714,7 @@
                   <note type="bio"><p>Hierbei handelt es sich evtl. um Lily und Fritz Pincus sowie Claire und Günther Löwenfeld.</p></note>
                </person>
                <person xml:id="tillich_person_id__2901">
-                  <persName>Kube, ???</persName>
+                  <persName>Kule, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2902">
                   <persName>???, Erich August Wilhelm</persName>
@@ -17577,6 +17576,21 @@
                </person>
                <person xml:id="tillich_person_id__3125">
                   <persName>Delliehausen</persName>
+               </person>
+               <person xml:id="tillich_person_id__3126">
+                  <persName>Obolensky, D.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3127">
+                  <persName>Ahrend, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3128">
+                  <persName>Wedermann, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3129">
+                  <persName>Lütgert, Ruth</persName>
+                  <birth>
+                     <date>1906-15-12</date>
+                  </birth>
                </person>
             </listPerson>
          </div>
