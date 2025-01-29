@@ -17592,6 +17592,24 @@
                      <date>1906-15-12</date>
                   </birth>
                </person>
+               <person xml:id="tillich_person_id__3130">
+                  <persName>Zollfelder, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3131">
+                  <persName>Zucker, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3132">
+                  <persName>Hebrote, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3133">
+                  <persName>Happel, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3134">
+                  <persName>Arend, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3135">
+                  <persName>Saathapf, ???</persName>
+               </person>
             </listPerson>
          </div>
       </body>
