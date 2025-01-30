@@ -18,3 +18,16 @@ for x in doc.any_xpath(".//tei:place[@xml:id]"):
     else:
         x.getparent().remove(x)
 doc.tree_to_file(listplace_file)
+
+doc = TeiReader(listperson_file)
+no_match = set()
+for x in doc.any_xpath(".//tei:person//tei:placeName"):
+    label = x.text
+    try:
+        key = lookup_dict[label.strip()]
+        print(key)
+    except KeyError:
+        no_match.add(label)
+        continue
+    x.attrib["key"] = key
+doc.tree_to_file(listperson_file)
