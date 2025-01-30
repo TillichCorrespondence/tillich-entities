@@ -26,7 +26,9 @@ for x in tqdm(items):
         print(e, update_url)
         continue
     try:
-        update_object["wikidata_url"] = geonames_to_wikidata(x["geonames_url"])["wikidata"]
+        update_object["wikidata_url"] = geonames_to_wikidata(x["geonames_url"])[
+            "wikidata"
+        ]
     except (KeyError, IndexError):
         pass
     update_object["latitude"] = gn_object["latitude"]
