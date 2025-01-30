@@ -111,17 +111,6 @@
                </person>
                <person xml:id="tillich_person_id__10">
                   <persName>Adler, Ada</persName>
-                  <birth>
-                     <date>1878-02-18</date>
-                  </birth>
-                  <death>
-                     <date>1946-12-28</date>
-                     <settlement>
-                        <placeName key="#tillich_place_id__240">Kopenhagen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Dänische Klassische Philologin und Bibliothekarin</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116007877</idno>
                </person>
                <person xml:id="tillich_person_id__11">
                   <persName>Adler, Alfred</persName>
@@ -3762,6 +3751,7 @@
                </person>
                <person xml:id="tillich_person_id__841">
                   <persName>Heidegger, Martin</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118547798</idno>
                </person>
                <person xml:id="tillich_person_id__842">
                   <persName>Heiden, Konrad</persName>
@@ -17609,6 +17599,24 @@
                </person>
                <person xml:id="tillich_person_id__3135">
                   <persName>Saathapf, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3136">
+                  <persName>Tarke, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3137">
+                  <persName>Schümer, Georg</persName>
+                  <occupation>Lehrer, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1025827090</idno>
+               </person>
+               <person xml:id="tillich_person_id__3138">
+                  <persName>Haller, Hermann</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11640728X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3139">
+                  <persName>Hanno</persName>
+               </person>
+               <person xml:id="tillich_person_id__3140">
+                  <persName>Muschi</persName>
                </person>
             </listPerson>
          </div>

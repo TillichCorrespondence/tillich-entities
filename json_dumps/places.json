@@ -563,7 +563,7 @@
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "name": "Berlin-Zehlendorf-West",
+    "name": "Berlin-Zehlendorf",
     "tillich_id": "tillich_place_id__52",
     "geonames_url": "https://sws.geonames.org/2805059/",
     "Working Notes": "Working Notes",
@@ -4167,17 +4167,6 @@
     "latitude": "50.85114",
     "longitude": "2.88569",
     "wikidata_url": "http://www.wikidata.org/entity/Q31824036"
-  },
-  "478": {
-    "id": 478,
-    "order": "478.00000000000000000000",
-    "name": "Zehlendorf-Mitte",
-    "tillich_id": "tillich_place_id__478",
-    "geonames_url": "https://sws.geonames.org/2805059/",
-    "Working Notes": "Zehlendorf (Berlin)",
-    "latitude": "52.43333",
-    "longitude": "13.25000",
-    "wikidata_url": "http://www.wikidata.org/entity/Q324402"
   },
   "479": {
     "id": 479,
