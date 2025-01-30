@@ -55,13 +55,13 @@
                   <birth>
                      <date>1902-02-14</date>
                      <settlement>
-                        <placeName>Krakau</placeName>
+                        <placeName key="#tillich_place_id__243">Krakau</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1982-01-27</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11850035X</idno>
@@ -71,7 +71,7 @@
                   <birth>
                      <date>1492-09-07</date>
                      <settlement>
-                        <placeName>Ossana</placeName>
+                        <placeName key="#tillich_place_id__334">Ossana</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -98,7 +98,7 @@
                   <birth>
                      <date>1876-01-05</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -117,7 +117,7 @@
                   <death>
                      <date>1946-12-28</date>
                      <settlement>
-                        <placeName>Kopenhagen</placeName>
+                        <placeName key="#tillich_place_id__240">Kopenhagen</placeName>
                      </settlement>
                   </death>
                   <occupation>Dänische Klassische Philologin und Bibliothekarin</occupation>
@@ -134,7 +134,7 @@
                   <death>
                      <date>1937-05-28</date>
                      <settlement>
-                        <placeName>Aberdeen</placeName>
+                        <placeName key="#tillich_place_id__5">Aberdeen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118500686</idno>
@@ -144,13 +144,13 @@
                   <birth>
                      <date>1873-01-15</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1937-06-28</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118500716</idno>
@@ -160,13 +160,13 @@
                   <birth>
                      <date>1888-10-14</date>
                      <settlement>
-                        <placeName>Karlsbad</placeName>
+                        <placeName key="#tillich_place_id__233">Karlsbad</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1968-12-27</date>
                      <settlement>
-                        <placeName>London</placeName>
+                        <placeName key="#tillich_place_id__271">London</placeName>
                      </settlement>
                   </death>
                   <occupation>Deutscher Kunsthistoriker und Literaturwissenschaftler</occupation>
@@ -182,13 +182,13 @@
                   <birth>
                      <date>1903-09-11</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1969-08-06</date>
                      <settlement>
-                        <placeName>Visp</placeName>
+                        <placeName key="#tillich_place_id__462">Visp</placeName>
                      </settlement>
                   </death>
                   <occupation>Deutscher Musik- und Sozialphilosoph</occupation>
@@ -217,7 +217,7 @@
                   <birth>
                      <date>1604</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -243,7 +243,7 @@
                   <birth>
                      <date>1888-03-14</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -331,7 +331,7 @@
                   <death>
                      <date>1390-07-08</date>
                      <settlement>
-                        <placeName>Halberstadt</placeName>
+                        <placeName key="#tillich_place_id__188">Halberstadt</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118878646</idno>
@@ -347,7 +347,7 @@
                   <death>
                      <date>1280-11-15</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118637649</idno>
@@ -411,7 +411,7 @@
                   <death>
                      <date>1245-08-21</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118648004</idno>
@@ -467,7 +467,7 @@
                   <death>
                      <date>1975-02-18</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
                   <occupation>apl. Prof. für Religionsphilosophie an der Joh. Wolfg. Goethe Universität in Frankfurt a.M.</occupation>
@@ -484,7 +484,7 @@
                   <death>
                      <date>1966-05-18</date>
                      <settlement>
-                        <placeName>Erlangen</placeName>
+                        <placeName key="#tillich_place_id__136">Erlangen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
@@ -563,13 +563,13 @@
                   <birth>
                      <date>1483-12-03</date>
                      <settlement>
-                        <placeName>Torgau</placeName>
+                        <placeName key="#tillich_place_id__439">Torgau</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1565-05-14</date>
                      <settlement>
-                        <placeName>Eisenach</placeName>
+                        <placeName key="#tillich_place_id__132">Eisenach</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118645056</idno>
@@ -625,13 +625,13 @@
                   <birth>
                      <date>1902-07-12</date>
                      <settlement>
-                        <placeName>Breslau</placeName>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1992-12-17</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
                   <occupation>Literat, Geburtsname Stern, Ehemann von Hannah Arendt</occupation>
@@ -660,13 +660,13 @@
                   <birth>
                      <date>1624-12-25</date>
                      <settlement>
-                        <placeName>Breslau</placeName>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1677-07-09</date>
                      <settlement>
-                        <placeName>Breslau</placeName>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118503111</idno>
@@ -743,7 +743,7 @@
                   <birth>
                      <date>1845-12-29</date>
                      <settlement>
-                        <placeName>Jena</placeName>
+                        <placeName key="#tillich_place_id__224">Jena</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -892,7 +892,7 @@
                   <death>
                      <date>1621-05-11</date>
                      <settlement>
-                        <placeName>Celle</placeName>
+                        <placeName key="#tillich_place_id__667">Celle</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118504134</idno>
@@ -933,7 +933,7 @@
                   <death>
                      <date>1935-11-22</date>
                      <settlement>
-                        <placeName>Darmstadt</placeName>
+                        <placeName key="#tillich_place_id__118">Darmstadt</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118504231</idno>
@@ -1019,7 +1019,7 @@
                   <death>
                      <date>1973-09-28</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118650963</idno>
@@ -1089,13 +1089,13 @@
                   <birth>
                      <date>1765-03-27</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1841-05-23</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118505378</idno>
@@ -1105,7 +1105,7 @@
                   <birth>
                      <date>1880-12-11</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -1122,13 +1122,13 @@
                   <birth>
                      <date>1685-03-21</date>
                      <settlement>
-                        <placeName>Eisenach</placeName>
+                        <placeName key="#tillich_place_id__132">Eisenach</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1750-07-28</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11850553X</idno>
@@ -1184,7 +1184,7 @@
                   <death>
                      <date>2015-08-20</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Deutscher SPD-Politiker</occupation>
@@ -1545,7 +1545,7 @@
                   <death>
                      <date>1965-08-18</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <occupation>Dresdner Kunstsammlerin und Mäzenatin</occupation>
@@ -2826,13 +2826,13 @@
                   <birth>
                      <date>1796-07-18</date>
                      <settlement>
-                        <placeName>Jena</placeName>
+                        <placeName key="#tillich_place_id__224">Jena</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1879-08-08</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118687018</idno>
@@ -2848,7 +2848,7 @@
                   <death>
                      <date>1814-01-29</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118532847</idno>
@@ -3196,7 +3196,7 @@
                   <birth>
                      <date>1880-07-02</date>
                      <settlement>
-                        <placeName>Rostock</placeName>
+                        <placeName key="#tillich_place_id__370">Rostock</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -3224,7 +3224,7 @@
                   <death>
                      <date>1954-03-20</date>
                      <settlement>
-                        <placeName>Zürich</placeName>
+                        <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </death>
                   <occupation>Deutschbaltischer Dichter</occupation>
@@ -3655,7 +3655,7 @@
                   <birth>
                      <date>1842-02-23</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -3746,13 +3746,13 @@
                   <birth>
                      <date>1770-08-27</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1831-11-14</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
@@ -3930,7 +3930,7 @@
                   <death>
                      <date>1922-01-02</date>
                      <settlement>
-                        <placeName>Marburg</placeName>
+                        <placeName key="#tillich_place_id__279">Marburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Deutscher Theologe</occupation>
@@ -3988,7 +3988,7 @@
                   <death>
                      <date>1972-07-17</date>
                      <settlement>
-                        <placeName>Göttingen</placeName>
+                        <placeName key="#tillich_place_id__186">Göttingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Systematischer Theologe</occupation>
@@ -4939,7 +4939,7 @@
                   <birth>
                      <date>1875-03-02</date>
                      <settlement>
-                        <placeName>Düsseldorf</placeName>
+                        <placeName key="#tillich_place_id__130">Düsseldorf</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -4990,7 +4990,7 @@
                   <death>
                      <date>1914-09-17</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <occupation>Philosoph; Psychologe</occupation>
@@ -6505,13 +6505,13 @@
                   <birth>
                      <date>1882-02-11</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1955-09-06</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <occupation>Diplomat und Philosoph</occupation>
@@ -6803,13 +6803,13 @@
                   <birth>
                      <date>1861-12-22</date>
                      <settlement>
-                        <placeName>Clausthal</placeName>
+                        <placeName key="#tillich_place_id__106">Clausthal</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1936-02-18</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Evangelischer Theologe</occupation>
@@ -6907,7 +6907,7 @@
                   <death>
                      <date>1938-05-19</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Evangelischer Theologe</occupation>
@@ -7336,7 +7336,7 @@
                   <birth>
                      <date>1897-05-24</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -7391,7 +7391,7 @@
                   <death>
                      <date>1734-05-14</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118752561</idno>
@@ -7441,7 +7441,7 @@
                   <death>
                      <date>1938-04-25</date>
                      <settlement>
-                        <placeName>Wernigerode</placeName>
+                        <placeName key="#tillich_place_id__639">Wernigerode</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118616692</idno>
@@ -7460,7 +7460,7 @@
                   <death>
                      <date>1954-06-01</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118752758</idno>
@@ -7513,13 +7513,13 @@
                   <birth>
                      <date>1761-07-25</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1826-07-05</date>
                      <settlement>
-                        <placeName>Göttingen</placeName>
+                        <placeName key="#tillich_place_id__186">Göttingen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/100276318</idno>
@@ -7535,7 +7535,7 @@
                   <death>
                      <date>1979-08-01</date>
                      <settlement>
-                        <placeName>Erlangen</placeName>
+                        <placeName key="#tillich_place_id__136">Erlangen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/123703816</idno>
@@ -7594,7 +7594,7 @@
                   <death>
                      <date>1928-10-08</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Konsistorialpräsident in Berlin von 1904–1925</occupation>
@@ -7605,7 +7605,7 @@
                   <birth>
                      <date>1899-07-17</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -7625,7 +7625,7 @@
                   <death>
                      <date>1954-01-09</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117272736</idno>
@@ -7644,7 +7644,7 @@
                   <death>
                      <date>1965-02-23</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
@@ -7656,13 +7656,13 @@
                   <birth>
                      <date>1907-07-28</date>
                      <settlement>
-                        <placeName>Wiesbaden</placeName>
+                        <placeName key="#tillich_place_id__471">Wiesbaden</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1989-07-27</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
                   <occupation>deutscher Politikwissenschaftler und Journalist</occupation>
@@ -7699,7 +7699,7 @@
                   <death>
                      <date>1856-06-25</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118618261</idno>
@@ -7714,7 +7714,7 @@
                   <birth>
                      <date>1835-12-11</date>
                      <settlement>
-                        <placeName>Halberstadt</placeName>
+                        <placeName key="#tillich_place_id__188">Halberstadt</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -7730,7 +7730,7 @@
                   <birth>
                      <date>1877</date>
                      <settlement>
-                        <placeName>Elberfeld</placeName>
+                        <placeName key="#tillich_place_id__133">Elberfeld</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -7770,13 +7770,13 @@
                   <birth>
                      <date>1882-08-09</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1977-07-04</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
                   <occupation>deutscher Mediziner und Theologe</occupation>
@@ -7787,7 +7787,7 @@
                   <birth>
                      <date>1890-11-22</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -7813,13 +7813,13 @@
                   <birth>
                      <date>1746-09-10</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1805-01-18</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/104285931</idno>
@@ -7851,7 +7851,7 @@
                   <death>
                      <date>1966-11-19</date>
                      <settlement>
-                        <placeName>Erlangen</placeName>
+                        <placeName key="#tillich_place_id__136">Erlangen</placeName>
                      </settlement>
                   </death>
                   <occupation>Neutestamentler und Politiker (DNVP, CSVD, CSU)</occupation>
@@ -7920,13 +7920,13 @@
                   <birth>
                      <date>1849-01-22</date>
                      <settlement>
-                        <placeName>Stockholm</placeName>
+                        <placeName key="#tillich_place_id__417">Stockholm</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1912-05-14</date>
                      <settlement>
-                        <placeName>Stockholm</placeName>
+                        <placeName key="#tillich_place_id__417">Stockholm</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118619314</idno>
@@ -7942,7 +7942,7 @@
                   <death>
                      <date>1617-09-25</date>
                      <settlement>
-                        <placeName>Lissabon</placeName>
+                        <placeName key="#tillich_place_id__268">Lissabon</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118619799</idno>
@@ -7958,7 +7958,7 @@
                   <death>
                      <date>1996-05-06</date>
                      <settlement>
-                        <placeName>Brüssel</placeName>
+                        <placeName key="#tillich_place_id__78">Brüssel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118619896</idno>
@@ -7991,13 +7991,13 @@
                   <birth>
                      <date>1707-09-03</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1767-03-22</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118814834</idno>
@@ -8052,13 +8052,13 @@
                   <birth>
                      <date>1923-02-25</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1987-03-21</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Religionssoziologe, Philosoph und Judaist</occupation>
@@ -8098,13 +8098,13 @@
                   <birth>
                      <date>1734-01-09</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1804-12-09</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/104359676</idno>
@@ -8182,7 +8182,7 @@
                   <death>
                      <date>1807-08-15</date>
                      <settlement>
-                        <placeName>Kopenhagen</placeName>
+                        <placeName key="#tillich_place_id__240">Kopenhagen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118756532</idno>
@@ -8196,7 +8196,7 @@
                   <birth>
                      <date>1891-05-20</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -8271,7 +8271,7 @@
                   <death>
                      <date>1986-03-05</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
                   <occupation>deutscher evangelischer Theologe</occupation>
@@ -8350,13 +8350,13 @@
                   <birth>
                      <date>1655-01-01</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1728-09-23</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11862220X</idno>
@@ -8369,7 +8369,7 @@
                   <death>
                      <date>1961</date>
                      <settlement>
-                        <placeName>Lissabon</placeName>
+                        <placeName key="#tillich_place_id__268">Lissabon</placeName>
                      </settlement>
                   </death>
                   <occupation>Schriftstellerin; Journalistin;</occupation>
@@ -8399,7 +8399,7 @@
                   <death>
                      <date>1974-08-21</date>
                      <settlement>
-                        <placeName>Basel</placeName>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118622439</idno>
@@ -8431,7 +8431,7 @@
                   <death>
                      <date>1837</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117377201</idno>
@@ -8457,7 +8457,7 @@
                   <death>
                      <date>1985-03-16</date>
                      <settlement>
-                        <placeName>Düsseldorf</placeName>
+                        <placeName key="#tillich_place_id__130">Düsseldorf</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/128547227</idno>
@@ -8592,7 +8592,7 @@
                   <death>
                      <date>1831</date>
                      <settlement>
-                        <placeName>Meißen</placeName>
+                        <placeName key="#tillich_place_id__556">Meißen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117401501</idno>
@@ -8624,7 +8624,7 @@
                   <death>
                      <date>1576-08-27</date>
                      <settlement>
-                        <placeName>Venedig</placeName>
+                        <placeName key="#tillich_place_id__512">Venedig</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118622994</idno>
@@ -8695,7 +8695,7 @@
                   <death>
                      <date>1936-04-09</date>
                      <settlement>
-                        <placeName>Kiel</placeName>
+                        <placeName key="#tillich_place_id__238">Kiel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118623095</idno>
@@ -8748,13 +8748,13 @@
                   <birth>
                      <date>1834-09-15</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1896-04-28</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118623761</idno>
@@ -8770,7 +8770,7 @@
                   <death>
                      <date>1872-01-24</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11862380X</idno>
@@ -8796,7 +8796,7 @@
                   <death>
                      <date>1923-02-01</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
@@ -8849,7 +8849,7 @@
                   <death>
                      <date>1911-07-07</date>
                      <settlement>
-                        <placeName>Göttingen</placeName>
+                        <placeName key="#tillich_place_id__186">Göttingen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117431192</idno>
@@ -8875,7 +8875,7 @@
                   <death>
                      <date>1828-02-17</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117440280</idno>
@@ -8930,7 +8930,7 @@
                   <death>
                      <date>1911-02-25</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118816632</idno>
@@ -8969,7 +8969,7 @@
                   <birth>
                      <date>1885-05-10</date>
                      <settlement>
-                        <placeName>Koblenz</placeName>
+                        <placeName key="#tillich_place_id__239">Koblenz</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9020,7 +9020,7 @@
                   <death>
                      <date>1970-10-30</date>
                      <settlement>
-                        <placeName>Marburg</placeName>
+                        <placeName key="#tillich_place_id__279">Marburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker</occupation>
@@ -9032,7 +9032,7 @@
                   <birth>
                      <date>1557-02-11</date>
                      <settlement>
-                        <placeName>Utrecht</placeName>
+                        <placeName key="#tillich_place_id__520">Utrecht</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9051,7 +9051,7 @@
                   <death>
                      <date>1933-12-17</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118625810</idno>
@@ -9061,7 +9061,7 @@
                   <birth>
                      <date>1885-03-25</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9077,13 +9077,13 @@
                   <birth>
                      <date>1407</date>
                      <settlement>
-                        <placeName>Rom</placeName>
+                        <placeName key="#tillich_place_id__369">Rom</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1457-08-01</date>
                      <settlement>
-                        <placeName>Rom</placeName>
+                        <placeName key="#tillich_place_id__369">Rom</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118626000</idno>
@@ -9115,13 +9115,13 @@
                   <birth>
                      <date>1880-11-01</date>
                      <settlement>
-                        <placeName>Delft</placeName>
+                        <placeName key="#tillich_place_id__523">Delft</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1975-01-23</date>
                      <settlement>
-                        <placeName>Rotterdam</placeName>
+                        <placeName key="#tillich_place_id__521">Rotterdam</placeName>
                      </settlement>
                   </death>
                   <occupation>Niederländischer Bankier</occupation>
@@ -9168,13 +9168,13 @@
                   <birth>
                      <date>1771-05-26</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1833-03-07</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118626175</idno>
@@ -9210,7 +9210,7 @@
                   <death>
                      <date>0784</date>
                      <settlement>
-                        <placeName>Salzburg</placeName>
+                        <placeName key="#tillich_place_id__387">Salzburg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118804723</idno>
@@ -9220,7 +9220,7 @@
                   <birth>
                      <date>1514-12-31</date>
                      <settlement>
-                        <placeName>Brüssel</placeName>
+                        <placeName key="#tillich_place_id__78">Brüssel</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9262,13 +9262,13 @@
                   <birth>
                      <date>1867-06-04</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1953-04-24</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118804472</idno>
@@ -9278,13 +9278,13 @@
                   <birth>
                      <date>1885-06-28</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1953-09-24</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
                   <occupation>in Österreich geborener, in Deutschland, den USA und Großbritannien arbeitender jüdischer Schriftsteller, Dramaturg, Essayist, Übersetzer und Film- und Theaterregisseur</occupation>
@@ -9333,7 +9333,7 @@
                   <birth>
                      <date>1870-06-24</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9371,7 +9371,7 @@
                   <death>
                      <date>1676-11-01</date>
                      <settlement>
-                        <placeName>Utrecht</placeName>
+                        <placeName key="#tillich_place_id__520">Utrecht</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11890261X</idno>
@@ -9404,13 +9404,13 @@
                   <birth>
                      <date>1694-11-21</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1778-05-30</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118627813</idno>
@@ -9437,7 +9437,7 @@
                   <death>
                      <date>1969-02-27</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
                   <occupation>Evangelisches Verlagswerk Stuttgart</occupation>
@@ -9466,13 +9466,13 @@
                   <birth>
                      <date>1773-07-13</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1798-02-13</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118628097</idno>
@@ -9510,13 +9510,13 @@
                   <birth>
                      <date>1864-04-21</date>
                      <settlement>
-                        <placeName>Erfurt</placeName>
+                        <placeName key="#tillich_place_id__135">Erfurt</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1920-06-14</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118629743</idno>
@@ -9532,7 +9532,7 @@
                   <death>
                      <date>2014-01-31</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117178136</idno>
@@ -9545,7 +9545,7 @@
                   <birth>
                      <date>1883-08-03</date>
                      <settlement>
-                        <placeName>Rostock</placeName>
+                        <placeName key="#tillich_place_id__370">Rostock</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9562,7 +9562,7 @@
                   <birth>
                      <date>1950</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/120541963</idno>
@@ -9585,7 +9585,7 @@
                   <birth>
                      <date>1902-06-11</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9602,7 +9602,7 @@
                   <birth>
                      <date>1894-09-10</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9628,7 +9628,7 @@
                   <death>
                      <date>1936-09-29</date>
                      <settlement>
-                        <placeName>Jena</placeName>
+                        <placeName key="#tillich_place_id__224">Jena</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117263052</idno>
@@ -9638,7 +9638,7 @@
                   <birth>
                      <date>1863-12-13</date>
                      <settlement>
-                        <placeName>Kiel</placeName>
+                        <placeName key="#tillich_place_id__238">Kiel</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -9657,7 +9657,7 @@
                   <death>
                      <date>1979-09-27</date>
                      <settlement>
-                        <placeName>Rostock</placeName>
+                        <placeName key="#tillich_place_id__370">Rostock</placeName>
                      </settlement>
                   </death>
                   <occupation>Evangelischer Theologe (Neues Testament und Kirchengeschichte)</occupation>
@@ -9669,13 +9669,13 @@
                   <birth>
                      <date>1801-08-10</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1866-09-19</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118766481</idno>
@@ -9738,13 +9738,13 @@
                   <birth>
                      <date>1853-06-18</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1928-01-19</date>
                      <settlement>
-                        <placeName>Jena</placeName>
+                        <placeName key="#tillich_place_id__224">Jena</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117285625</idno>
@@ -9760,7 +9760,7 @@
                   <death>
                      <date>1908</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/127519742</idno>
@@ -9819,7 +9819,7 @@
                   <death>
                      <date>1939-04-12</date>
                      <settlement>
-                        <placeName>Basel</placeName>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118806750</idno>
@@ -9851,7 +9851,7 @@
                   <death>
                      <date>1791-03-02</date>
                      <settlement>
-                        <placeName>London</placeName>
+                        <placeName key="#tillich_place_id__271">London</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118631713</idno>
@@ -9867,7 +9867,7 @@
                   <death>
                      <date>1849-06-16</date>
                      <settlement>
-                        <placeName>Basel</placeName>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118631977</idno>
@@ -9979,7 +9979,7 @@
                   <death>
                      <date>1813-01-20</date>
                      <settlement>
-                        <placeName>Weimar</placeName>
+                        <placeName key="#tillich_place_id__543">Weimar</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118632477</idno>
@@ -10015,7 +10015,7 @@
                   <death>
                      <date>1969-01-11</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118632604</idno>
@@ -10031,7 +10031,7 @@
                   <death>
                      <date>2005-09-20</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
                   <occupation>Österreichisch-jüdischer Überlebender des Holocaust sowie Architekt, Publizist und Schriftsteller</occupation>
@@ -10042,13 +10042,13 @@
                   <birth>
                      <date>1886-11-13</date>
                      <settlement>
-                        <placeName>Hannover</placeName>
+                        <placeName key="#tillich_place_id__200">Hannover</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1973-09-18</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118807242</idno>
@@ -10064,7 +10064,7 @@
                   <death>
                      <date>1931-09-25</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11877171X</idno>
@@ -10090,7 +10090,7 @@
                   <death>
                      <date>1900-11-30</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118632779</idno>
@@ -10110,13 +10110,13 @@
                   <birth>
                      <date>1873-05-10</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1930-03-01</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118771876</idno>
@@ -10126,13 +10126,13 @@
                   <birth>
                      <date>1797-03-22</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1888-03-09</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118632884</idno>
@@ -10142,7 +10142,7 @@
                   <birth>
                      <date>1859-01-27</date>
                      <settlement>
-                        <placeName>Potsdam</placeName>
+                        <placeName key="#tillich_place_id__356">Potsdam</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -10197,7 +10197,7 @@
                   <death>
                      <date>1347</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118633015</idno>
@@ -10269,13 +10269,13 @@
                   <birth>
                      <date>1873-07-03</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1943-11-04</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Winkelmann oder Winckelmann?</occupation>
@@ -10289,7 +10289,7 @@
                   <death>
                      <date>1913-04-19</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117399825</idno>
@@ -10299,7 +10299,7 @@
                   <birth>
                      <date>1848-05-11</date>
                      <settlement>
-                        <placeName>Potsdam</placeName>
+                        <placeName key="#tillich_place_id__356">Potsdam</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -10332,13 +10332,13 @@
                   <birth>
                      <date>1886-01-10</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1970-05-27</date>
                      <settlement>
-                        <placeName>Darmstadt</placeName>
+                        <placeName key="#tillich_place_id__118">Darmstadt</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1119119871</idno>
@@ -10348,13 +10348,13 @@
                   <birth>
                      <date>1859-06-17</date>
                      <settlement>
-                        <placeName>Breslau</placeName>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1931-05-11</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117413755</idno>
@@ -10383,7 +10383,7 @@
                   <death>
                      <date>1716</date>
                      <settlement>
-                        <placeName>Gotha</placeName>
+                        <placeName key="#tillich_place_id__597">Gotha</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/104206829</idno>
@@ -10422,13 +10422,13 @@
                   <birth>
                      <date>1869-10-27</date>
                      <settlement>
-                        <placeName>Stettin</placeName>
+                        <placeName key="#tillich_place_id__416">Stettin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1943-10-15</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118769707</idno>
@@ -10453,7 +10453,7 @@
                   <birth>
                      <date>1887-03-03</date>
                      <settlement>
-                        <placeName>Bonn</placeName>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -10470,13 +10470,13 @@
                   <birth>
                      <date>1679-01-24</date>
                      <settlement>
-                        <placeName>Breslau</placeName>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1754-04-09</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118634771</idno>
@@ -10486,13 +10486,13 @@
                   <birth>
                      <date>1919-08-06</date>
                      <settlement>
-                        <placeName>Bern</placeName>
+                        <placeName key="#tillich_place_id__55">Bern</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1991-12-20</date>
                      <settlement>
-                        <placeName>Basel</placeName>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </death>
                   <occupation>Redaktion, Antaeus. Zeitschrift für eine freie Welt</occupation>
@@ -10532,13 +10532,13 @@
                   <birth>
                      <date>1881-01-13</date>
                      <settlement>
-                        <placeName>Aachen</placeName>
+                        <placeName key="#tillich_place_id__4">Aachen</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1965-03-29</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118807900</idno>
@@ -10554,7 +10554,7 @@
                   <death>
                      <date>1906-11-23</date>
                      <settlement>
-                        <placeName>Breslau</placeName>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118807951</idno>
@@ -10603,13 +10603,13 @@
                   <birth>
                      <date>1887-04-29</date>
                      <settlement>
-                        <placeName>Augsburg</placeName>
+                        <placeName key="#tillich_place_id__16">Augsburg</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1964-11-22</date>
                      <settlement>
-                        <placeName>Marburg</placeName>
+                        <placeName key="#tillich_place_id__279">Marburg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118635441</idno>
@@ -10619,13 +10619,13 @@
                   <birth>
                      <date>1901</date>
                      <settlement>
-                        <placeName>Kassel</placeName>
+                        <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1966</date>
                      <settlement>
-                        <placeName>Kassel</placeName>
+                        <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </death>
                   <occupation>Landesbischof Hessen</occupation>
@@ -10735,13 +10735,13 @@
                   <birth>
                      <date>1899-06-22</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1966-08-23</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11877235X</idno>
@@ -10757,7 +10757,7 @@
                   <death>
                      <date>1908-03-19</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118636383</idno>
@@ -10780,7 +10780,7 @@
                   <death>
                      <date>1970</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunstsammler und -kritiker</occupation>
@@ -10814,7 +10814,7 @@
                   <death>
                      <date>1931-02-17</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11880846X</idno>
@@ -10824,7 +10824,7 @@
                   <birth>
                      <date>1700-05-26</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -10840,13 +10840,13 @@
                   <birth>
                      <date>1840-04-02</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1902-09-28</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118637223</idno>
@@ -10872,13 +10872,13 @@
                   <birth>
                      <date>1877-08-22</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1955-08-19</date>
                      <settlement>
-                        <placeName>Kassel</placeName>
+                        <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe (Kirchengeschichte)</occupation>
@@ -10901,7 +10901,7 @@
                   <death>
                      <date>1977-01-18</date>
                      <settlement>
-                        <placeName>Visp</placeName>
+                        <placeName key="#tillich_place_id__462">Visp</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118637304</idno>
@@ -10917,7 +10917,7 @@
                   <death>
                      <date>1972-04</date>
                      <settlement>
-                        <placeName>Marburg</placeName>
+                        <placeName key="#tillich_place_id__279">Marburg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/127949062</idno>
@@ -10927,7 +10927,7 @@
                   <birth>
                      <date>1882-12-04</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -10943,7 +10943,7 @@
                   <birth>
                      <date>1881-11-28</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -10979,7 +10979,7 @@
                   <birth>
                      <date>1853-05-25</date>
                      <settlement>
-                        <placeName>Danzig</placeName>
+                        <placeName key="#tillich_place_id__548">Danzig</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -11007,7 +11007,7 @@
                   <death>
                      <date>1874-07-12</date>
                      <settlement>
-                        <placeName>Eisenach</placeName>
+                        <placeName key="#tillich_place_id__132">Eisenach</placeName>
                      </settlement>
                   </death>
                   <occupation>Schriftsteller;</occupation>
@@ -11041,7 +11041,7 @@
                   <birth>
                      <date>1874-03-20</date>
                      <settlement>
-                        <placeName>Hildesheim</placeName>
+                        <placeName key="#tillich_place_id__209">Hildesheim</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -11072,13 +11072,13 @@
                   <birth>
                      <date>1813-05-22</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1883-02-13</date>
                      <settlement>
-                        <placeName>Venedig</placeName>
+                        <placeName key="#tillich_place_id__512">Venedig</placeName>
                      </settlement>
                   </death>
                   <occupation>Komponist;</occupation>
@@ -11114,7 +11114,7 @@
                   <death>
                      <date>1932-10-09</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <occupation>Geheimrat;</occupation>
@@ -11250,7 +11250,7 @@
                   <death>
                      <date>1933-03-05</date>
                      <settlement>
-                        <placeName>Erlangen</placeName>
+                        <placeName key="#tillich_place_id__136">Erlangen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118991787</idno>
@@ -11364,13 +11364,13 @@
                   <birth>
                      <date>1844-01-16</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1911-01-31</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117630373</idno>
@@ -11418,7 +11418,7 @@
                   <death>
                      <date>1616-10-23</date>
                      <settlement>
-                        <placeName>Wittenberg</placeName>
+                        <placeName key="#tillich_place_id__613">Wittenberg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118950037</idno>
@@ -11428,13 +11428,13 @@
                   <birth>
                      <date>1823-09-05</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1900-11-25</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119133431</idno>
@@ -11473,7 +11473,7 @@
                   <death>
                      <date>1936-09-07</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117401110</idno>
@@ -11629,7 +11629,7 @@
                   <death>
                      <date>1923-01-04</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe;</occupation>
@@ -11689,7 +11689,7 @@
                   <birth>
                      <date>1858-12-15</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -11710,13 +11710,13 @@
                   <birth>
                      <date>1864</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1928</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <occupation>Ohrenarzt;</occupation>
@@ -11775,7 +11775,7 @@
                   <death>
                      <date>1958-03-06</date>
                      <settlement>
-                        <placeName>Greifswald</placeName>
+                        <placeName key="#tillich_place_id__181">Greifswald</placeName>
                      </settlement>
                   </death>
                   <occupation>Professor;</occupation>
@@ -11807,7 +11807,7 @@
                   <birth>
                      <date>1867-01-24</date>
                      <settlement>
-                        <placeName>Zürich</placeName>
+                        <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -11859,7 +11859,7 @@
                   <death>
                      <date>1899-08-13</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe;</occupation>
@@ -11939,7 +11939,7 @@
                   <death>
                      <date>1953-05-12</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
                   <occupation>Maler;</occupation>
@@ -11975,7 +11975,7 @@
                   <death>
                      <date>1960-01-31</date>
                      <settlement>
-                        <placeName>Bielefeld</placeName>
+                        <placeName key="#tillich_place_id__60">Bielefeld</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116948434</idno>
@@ -12002,7 +12002,7 @@
                   <birth>
                      <date>1860-06-08</date>
                      <settlement>
-                        <placeName>Kassel</placeName>
+                        <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12029,7 +12029,7 @@
                   <death>
                      <date>1914</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <occupation>Historiker; Politiker;</occupation>
@@ -12051,7 +12051,7 @@
                   <death>
                      <date>1929-10-20</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe;</occupation>
@@ -12076,7 +12076,7 @@
                   <death>
                      <date>1920-11-05</date>
                      <settlement>
-                        <placeName>Basel</placeName>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117156078</idno>
@@ -12086,13 +12086,13 @@
                   <birth>
                      <date>1865-11-24</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1935-07-30</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11906121X</idno>
@@ -12155,7 +12155,7 @@
                   <death>
                      <date>1988-05-01</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
                   <occupation>Pfarrer; Übersetzer;</occupation>
@@ -12171,7 +12171,7 @@
                   <birth>
                      <date>1894-04-09</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12186,7 +12186,7 @@
                   <birth>
                      <date>1885-02-28</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12206,7 +12206,7 @@
                   <death>
                      <date>1953-06-29</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </death>
                   <occupation>Germanist; Volkskundler;</occupation>
@@ -12217,7 +12217,7 @@
                   <birth>
                      <date>1838-03-09</date>
                      <settlement>
-                        <placeName>Krakau</placeName>
+                        <placeName key="#tillich_place_id__243">Krakau</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12282,7 +12282,7 @@
                   <death>
                      <date>1950-07-20</date>
                      <settlement>
-                        <placeName>Marburg</placeName>
+                        <placeName key="#tillich_place_id__279">Marburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Jurist;</occupation>
@@ -12446,7 +12446,7 @@
                   <death>
                      <date>1953-01-18</date>
                      <settlement>
-                        <placeName>Nürnberg</placeName>
+                        <placeName key="#tillich_place_id__327">Nürnberg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116922923</idno>
@@ -12469,7 +12469,7 @@
                   <death>
                      <date>1950-06-13</date>
                      <settlement>
-                        <placeName>Bonn</placeName>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117163228</idno>
@@ -12584,7 +12584,7 @@
                   <death>
                      <date>1940-02-10</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe;</occupation>
@@ -12596,7 +12596,7 @@
                   <birth>
                      <date>1584-08-18</date>
                      <settlement>
-                        <placeName>Rostock</placeName>
+                        <placeName key="#tillich_place_id__370">Rostock</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12653,7 +12653,7 @@
                   <death>
                      <date>1981-06-12</date>
                      <settlement>
-                        <placeName>Darmstadt</placeName>
+                        <placeName key="#tillich_place_id__118">Darmstadt</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/106015850</idno>
@@ -12664,7 +12664,7 @@
                   <birth>
                      <date>1889-06-25</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12704,7 +12704,7 @@
                   <death>
                      <date>1919-05-29</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Pastor;</occupation>
@@ -12754,7 +12754,7 @@
                   <birth>
                      <date>1907-05-24</date>
                      <settlement>
-                        <placeName>Basel</placeName>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12781,7 +12781,7 @@
                   <death>
                      <date>1928-07-08</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11600780X</idno>
@@ -12803,7 +12803,7 @@
                   <death>
                      <date>1690-04-25</date>
                      <settlement>
-                        <placeName>Brüssel</placeName>
+                        <placeName key="#tillich_place_id__78">Brüssel</placeName>
                      </settlement>
                   </death>
                   <occupation>Maler;</occupation>
@@ -12818,13 +12818,13 @@
                   <birth>
                      <date>1878-10-02</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1965-01-23</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116546662</idno>
@@ -12843,7 +12843,7 @@
                   <death>
                      <date>1950-10-06</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
@@ -12960,13 +12960,13 @@
                   <birth>
                      <date>1899-07-25</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1970-02-18</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Architekt;</occupation>
@@ -12978,13 +12978,13 @@
                   <birth>
                      <date>1877-12-18</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1934-06-26</date>
                      <settlement>
-                        <placeName>Karlsbad</placeName>
+                        <placeName key="#tillich_place_id__233">Karlsbad</placeName>
                      </settlement>
                   </death>
                   <occupation>Schauspieler;</occupation>
@@ -13026,7 +13026,7 @@
                   <death>
                      <date>1986-02-18</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe;</occupation>
@@ -13041,7 +13041,7 @@
                   <birth>
                      <date>1880-02-18</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13105,13 +13105,13 @@
                   <birth>
                      <date>1886-04-30</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1971-03-10</date>
                      <settlement>
-                        <placeName>Kassel</placeName>
+                        <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </death>
                   <occupation>Historikerin; Pädagogin; Schulleiterin;</occupation>
@@ -13144,13 +13144,13 @@
                   <birth>
                      <date>1883-04-23</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1962-05-13</date>
                      <settlement>
-                        <placeName>Stuttgart</placeName>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker;</occupation>
@@ -13162,13 +13162,13 @@
                   <birth>
                      <date>1881-01-13</date>
                      <settlement>
-                        <placeName>Aachen</placeName>
+                        <placeName key="#tillich_place_id__4">Aachen</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1965-03-29</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker;</occupation>
@@ -13186,7 +13186,7 @@
                   <death>
                      <date>1905</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker; Professor</occupation>
@@ -13240,7 +13240,7 @@
                   <death>
                      <date>1945-07-19</date>
                      <settlement>
-                        <placeName>Zürich</placeName>
+                        <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker;</occupation>
@@ -13270,7 +13270,7 @@
                   <death>
                      <date>1958-08-10</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker; Kunstkritiker;</occupation>
@@ -13282,13 +13282,13 @@
                   <birth>
                      <date>1878-06-25</date>
                      <settlement>
-                        <placeName>Kassel</placeName>
+                        <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1947-05-13</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker;</occupation>
@@ -13303,13 +13303,13 @@
                   <birth>
                      <date>1889-08-05</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1956-08-04</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
                   <occupation>Mathematiker;</occupation>
@@ -13364,7 +13364,7 @@
                   <death>
                      <date>2013-03-03</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
                   <occupation>Pädagogin;</occupation>
@@ -13376,13 +13376,13 @@
                   <birth>
                      <date>1886-01-29</date>
                      <settlement>
-                        <placeName>Rostock</placeName>
+                        <placeName key="#tillich_place_id__370">Rostock</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1968-08-27</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </death>
                   <occupation>Literaturwissenschaftler; Bibliotheksdirektor;</occupation>
@@ -13394,13 +13394,13 @@
                   <birth>
                      <date>1911-08-09</date>
                      <settlement>
-                        <placeName>Düsseldorf</placeName>
+                        <placeName key="#tillich_place_id__130">Düsseldorf</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1999-09-23</date>
                      <settlement>
-                        <placeName>Elberfeld</placeName>
+                        <placeName key="#tillich_place_id__133">Elberfeld</placeName>
                      </settlement>
                   </death>
                   <occupation>Pfarrer; politischer Aktivist;</occupation>
@@ -13455,7 +13455,7 @@
                   <death>
                      <date>1934-06-04</date>
                      <settlement>
-                        <placeName>Basel</placeName>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118651692</idno>
@@ -13489,7 +13489,7 @@
                   <birth>
                      <date>1903-10-05</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13519,7 +13519,7 @@
                   <death>
                      <date>1950-11-01</date>
                      <settlement>
-                        <placeName>Marburg</placeName>
+                        <placeName key="#tillich_place_id__279">Marburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Universitätskurator;</occupation>
@@ -13557,7 +13557,7 @@
                   <death>
                      <date>1971-02-13</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118536567</idno>
@@ -13583,7 +13583,7 @@
                   <death>
                      <date>1939</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </death>
                   <occupation>Rektor;</occupation>
@@ -13616,7 +13616,7 @@
                   <birth>
                      <date>1914-02-04</date>
                      <settlement>
-                        <placeName>Greifswald</placeName>
+                        <placeName key="#tillich_place_id__181">Greifswald</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13645,13 +13645,13 @@
                   <birth>
                      <date>1886-08-31</date>
                      <settlement>
-                        <placeName>Straßburg</placeName>
+                        <placeName key="#tillich_place_id__418">Straßburg</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1945-02-03</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Honorarprofessor; Ministerialrat;</occupation>
@@ -13677,7 +13677,7 @@
                   <birth>
                      <date>1890-08-22</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13699,7 +13699,7 @@
                   <death>
                      <date>1962-07-21</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795805</idno>
@@ -13716,13 +13716,13 @@
                   <birth>
                      <date>1888-11-29</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1960</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/124249701</idno>
@@ -13741,7 +13741,7 @@
                   <death>
                      <date>1966-06-24</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
                   <occupation>Staatssekretär im Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung (1925-1933)</occupation>
@@ -13752,13 +13752,13 @@
                   <birth>
                      <date>1843-08-22</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1897-08-05</date>
                      <settlement>
-                        <placeName>Bonn</placeName>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
                   <occupation>Buchhändler; Barsortimenter;</occupation>
@@ -13770,7 +13770,7 @@
                   <birth>
                      <date>1904-12-05</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13797,13 +13797,13 @@
                   <birth>
                      <date>1888</date>
                      <settlement>
-                        <placeName>Straßburg</placeName>
+                        <placeName key="#tillich_place_id__418">Straßburg</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1936</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/127837035</idno>
@@ -13829,7 +13829,7 @@
                   <birth>
                      <date>1868-03-01</date>
                      <settlement>
-                        <placeName>Altona</placeName>
+                        <placeName key="#tillich_place_id__574">Altona</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13863,7 +13863,7 @@
                   <birth>
                      <date>1889-02-21</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13899,7 +13899,7 @@
                   <death>
                      <date>1950-10-06</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
@@ -13933,7 +13933,7 @@
                   <death>
                      <date>1952-07-23</date>
                      <settlement>
-                        <placeName>Bielefeld</placeName>
+                        <placeName key="#tillich_place_id__60">Bielefeld</placeName>
                      </settlement>
                   </death>
                   <occupation>Politiker;</occupation>
@@ -13957,7 +13957,7 @@
                   <birth>
                      <date>1900</date>
                      <settlement>
-                        <placeName>Wiesbaden</placeName>
+                        <placeName key="#tillich_place_id__471">Wiesbaden</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13977,7 +13977,7 @@
                   <death>
                      <date>1959-01-20</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Evangelischer Theologe;</occupation>
@@ -13996,7 +13996,7 @@
                   <birth>
                      <date>1881-09-27</date>
                      <settlement>
-                        <placeName>Elberfeld</placeName>
+                        <placeName key="#tillich_place_id__133">Elberfeld</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14045,13 +14045,13 @@
                   <birth>
                      <date>1904-01-29</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1976-01-30</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11853808X</idno>
@@ -14067,13 +14067,13 @@
                   <birth>
                      <date>1886-07-27</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1970-09-11</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Architekt;</occupation>
@@ -14114,7 +14114,7 @@
                   <death>
                      <date>1934-09-10</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/138019673</idno>
@@ -14124,7 +14124,7 @@
                   <birth>
                      <date>1903-05-08</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14157,7 +14157,7 @@
                   <death>
                      <date>1958-08-10</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker;</occupation>
@@ -14252,7 +14252,7 @@
                   <death>
                      <date>1913-11-18</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/126705798</idno>
@@ -14374,7 +14374,7 @@
                   <birth>
                      <date>1808-04-20</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14469,13 +14469,13 @@
                   <birth>
                      <date>1844-10-22</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1923-03-26</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118509896</idno>
@@ -14511,13 +14511,13 @@
                   <birth>
                      <date>1878-04-05</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1965-06-10</date>
                      <settlement>
-                        <placeName>Göttingen</placeName>
+                        <placeName key="#tillich_place_id__186">Göttingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Philosoph;</occupation>
@@ -14531,7 +14531,7 @@
                   <birth>
                      <date>1929-01-04</date>
                      <settlement>
-                        <placeName>Köln</placeName>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14547,13 +14547,13 @@
                   <birth>
                      <date>1796-07-16</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1875-02-22</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118522256</idno>
@@ -14579,7 +14579,7 @@
                   <death>
                      <date>1893-07-06</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118579207</idno>
@@ -14595,7 +14595,7 @@
                   <death>
                      <date>1975-04-12</date>
                      <settlement>
-                        <placeName>Paris</placeName>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118506099</idno>
@@ -14624,7 +14624,7 @@
                   <birth>
                      <date>1883</date>
                      <settlement>
-                        <placeName>Krakau</placeName>
+                        <placeName key="#tillich_place_id__243">Krakau</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14670,7 +14670,7 @@
                   <death>
                      <date>1940-04-09</date>
                      <settlement>
-                        <placeName>Frankfurt am Main</placeName>
+                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
                   <occupation>Evangelischer Theologe;</occupation>
@@ -14700,7 +14700,7 @@
                   <birth>
                      <date>1907-05-30</date>
                      <settlement>
-                        <placeName>Hannover</placeName>
+                        <placeName key="#tillich_place_id__200">Hannover</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14716,7 +14716,7 @@
                   <birth>
                      <date>1899-06-29</date>
                      <settlement>
-                        <placeName>Chemnitz</placeName>
+                        <placeName key="#tillich_place_id__103">Chemnitz</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14743,7 +14743,7 @@
                   <birth>
                      <date>1889-11-18</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14819,7 +14819,7 @@
                   <death>
                      <date>1963</date>
                      <settlement>
-                        <placeName>Zürich</placeName>
+                        <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </death>
                   <occupation>Malerin;</occupation>
@@ -14844,7 +14844,7 @@
                   <birth>
                      <date>1885-11-11</date>
                      <settlement>
-                        <placeName>Breslau</placeName>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14878,13 +14878,13 @@
                   <birth>
                      <date>1880-12-27</date>
                      <settlement>
-                        <placeName>Düsseldorf</placeName>
+                        <placeName key="#tillich_place_id__130">Düsseldorf</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1962-07-16</date>
                      <settlement>
-                        <placeName>Bonn</placeName>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
                   <occupation>Kulturphilosoph; Sozialphilosoph;</occupation>
@@ -14901,13 +14901,13 @@
                   <birth>
                      <date>1887-07-26</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1979-05-22</date>
                      <settlement>
-                        <placeName>London</placeName>
+                        <placeName key="#tillich_place_id__271">London</placeName>
                      </settlement>
                   </death>
                   <occupation>Wirtschaftswissenschaftler; Bibliotheksdirektor;</occupation>
@@ -14946,13 +14946,13 @@
                   <birth>
                      <date>1870-10-09</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1934-05-20</date>
                      <settlement>
-                        <placeName>Halle (Saale)</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
                   <occupation>Dekan;</occupation>
@@ -14967,7 +14967,7 @@
                   <birth>
                      <date>1860-06-08</date>
                      <settlement>
-                        <placeName>Kassel</placeName>
+                        <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15051,7 +15051,7 @@
                   <birth>
                      <date>1878-04-08</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15233,7 +15233,7 @@
                   <death>
                      <date>1937-03-09</date>
                      <settlement>
-                        <placeName>London</placeName>
+                        <placeName key="#tillich_place_id__271">London</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118952714</idno>
@@ -15290,7 +15290,7 @@
                   <birth>
                      <date>1898-07-24</date>
                      <settlement>
-                        <placeName>Mannheim</placeName>
+                        <placeName key="#tillich_place_id__277">Mannheim</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15387,13 +15387,13 @@
                   <birth>
                      <date>1867-09-07</date>
                      <settlement>
-                        <placeName>Mannheim</placeName>
+                        <placeName key="#tillich_place_id__277">Mannheim</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1952-05-15</date>
                      <settlement>
-                        <placeName>Zürich</placeName>
+                        <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118653407</idno>
@@ -15403,13 +15403,13 @@
                   <birth>
                      <date>1899-04-30</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1976-07-28</date>
                      <settlement>
-                        <placeName>Braunlage</placeName>
+                        <placeName key="#tillich_place_id__607">Braunlage</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118730665</idno>
@@ -15450,7 +15450,7 @@
                   <birth>
                      <date>1876-08-28</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15473,7 +15473,7 @@
                   <birth>
                      <date>1888-07-25</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15519,7 +15519,7 @@
                   <death>
                      <date>1962-06-10</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119063689</idno>
@@ -15551,7 +15551,7 @@
                   <death>
                      <date>1929-01-06</date>
                      <settlement>
-                        <placeName>Gera</placeName>
+                        <placeName key="#tillich_place_id__569">Gera</placeName>
                      </settlement>
                   </death>
                   <occupation>Pfarrer; Theologe;</occupation>
@@ -15578,7 +15578,7 @@
                   <death>
                      <date>1933-06-04</date>
                      <settlement>
-                        <placeName>Bonn</placeName>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
                   <occupation>Rechtswissenschaftler; Kurator der Universität Halle;</occupation>
@@ -15609,7 +15609,7 @@
                   <death>
                      <date>1937-11-29</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
                   <occupation>Divisionspfarrer;</occupation>
@@ -15629,7 +15629,7 @@
                   <death>
                      <date>1813-09-08</date>
                      <settlement>
-                        <placeName>Leipzig</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
                   <occupation>Buchhändler; Verleger;</occupation>
@@ -15647,7 +15647,7 @@
                   <birth>
                      <date>1882-05-06</date>
                      <settlement>
-                        <placeName>Potsdam</placeName>
+                        <placeName key="#tillich_place_id__356">Potsdam</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15752,13 +15752,13 @@
                   <birth>
                      <date>1848-05-06</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1922-10-05</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119402734</idno>
@@ -15779,7 +15779,7 @@
                   <birth>
                      <date>1894-04-03</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15800,7 +15800,7 @@
                   <birth>
                      <date>1855-01-08</date>
                      <settlement>
-                        <placeName>Erfurt</placeName>
+                        <placeName key="#tillich_place_id__135">Erfurt</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15878,13 +15878,13 @@
                   <birth>
                      <date>1791-01-15</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1872-01-21</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
                   <occupation>Schriftsteller;</occupation>
@@ -15906,7 +15906,7 @@
                   <birth>
                      <date>1830-03-28</date>
                      <settlement>
-                        <placeName>Tübingen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15951,13 +15951,13 @@
                   <birth>
                      <date>1866-10-29</date>
                      <settlement>
-                        <placeName>Greifswald</placeName>
+                        <placeName key="#tillich_place_id__181">Greifswald</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1931-10-19</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Schriftsteller; Dramatiker;</occupation>
@@ -15985,13 +15985,13 @@
                   <birth>
                      <date>1865-04-01</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1927-09-09</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe;</occupation>
@@ -16067,7 +16067,7 @@
                   <birth>
                      <date>1885-06-16</date>
                      <settlement>
-                        <placeName>Bonn</placeName>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </birth>
                   <occupation>Religionslehrer; Pfarrer;</occupation>
@@ -16133,7 +16133,7 @@
                   <death>
                      <date>1916-11-27</date>
                      <settlement>
-                        <placeName>Rouen</placeName>
+                        <placeName key="#tillich_place_id__373">Rouen</placeName>
                      </settlement>
                   </death>
                   <occupation>Schriftsteller; Dramatiker;</occupation>
@@ -16174,7 +16174,7 @@
                   <birth>
                      <date>1844-04-08</date>
                      <settlement>
-                        <placeName>Bremen</placeName>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16325,13 +16325,13 @@
                   <birth>
                      <date>1851-12-09</date>
                      <settlement>
-                        <placeName>Breslau</placeName>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1918-12-05</date>
                      <settlement>
-                        <placeName>Berlin</placeName>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
                   <occupation>Orientalist;</occupation>
@@ -16354,7 +16354,7 @@
                   <birth>
                      <date>1837-01-13</date>
                      <settlement>
-                        <placeName>Karlsruhe</placeName>
+                        <placeName key="#tillich_place_id__234">Karlsruhe</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16468,13 +16468,13 @@
                   <birth>
                      <date>1895-02-14</date>
                      <settlement>
-                        <placeName>Zürich</placeName>
+                        <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1955-04-26</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Verleger;</occupation>
@@ -16491,7 +16491,7 @@
                   <death>
                      <date>1988-02-16</date>
                      <settlement>
-                        <placeName>Hamburg</placeName>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistorikerin; Verlegerin;</occupation>
@@ -16515,7 +16515,7 @@
                   <birth>
                      <date>1881-01-10</date>
                      <settlement>
-                        <placeName>Wien</placeName>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16544,13 +16544,13 @@
                   <birth>
                      <date>1881-07-07</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1954-06-29</date>
                      <settlement>
-                        <placeName>München</placeName>
+                        <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11852576X</idno>
@@ -16578,7 +16578,7 @@
                   <birth>
                      <date>1872-09-29</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </birth>
                   <occupation>Bibliothekar (Verwalter der Sächsischen Landesbibliothek bzw. Staats- und Universitätsbibliothek Dresden)</occupation>
@@ -16633,7 +16633,7 @@
                   <death>
                      <date>1986-05-12</date>
                      <settlement>
-                        <placeName>London</placeName>
+                        <placeName key="#tillich_place_id__271">London</placeName>
                      </settlement>
                   </death>
                   <occupation>Schauspielerin;</occupation>
@@ -16655,7 +16655,7 @@
                   <birth>
                      <date>1900-09-20</date>
                      <settlement>
-                        <placeName>Hannover</placeName>
+                        <placeName key="#tillich_place_id__200">Hannover</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16672,7 +16672,7 @@
                   <birth>
                      <date>1890-12-06</date>
                      <settlement>
-                        <placeName>Marburg</placeName>
+                        <placeName key="#tillich_place_id__279">Marburg</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16739,7 +16739,7 @@
                   <death>
                      <date>1913</date>
                      <settlement>
-                        <placeName>Basel</placeName>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117012432</idno>
@@ -16761,7 +16761,7 @@
                   <birth>
                      <date>1859-12-12</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16796,7 +16796,7 @@
                   <birth>
                      <date>1859-12-12</date>
                      <settlement>
-                        <placeName>Dresden</placeName>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </birth>
                   <death>

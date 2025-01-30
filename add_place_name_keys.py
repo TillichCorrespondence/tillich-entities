@@ -29,5 +29,9 @@ for x in doc.any_xpath(".//tei:person//tei:placeName"):
     except KeyError:
         no_match.add(label)
         continue
-    x.attrib["key"] = key
+    x.attrib["key"] = f"#{key}"
 doc.tree_to_file(listperson_file)
+
+with open("places_no_match.txt", "w", encoding="utf-8") as f:
+    for x in no_match:
+        f.write(f"{x}\n")
