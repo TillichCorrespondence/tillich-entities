@@ -27,6 +27,8 @@ jobs:
       - name: convert to TEI/XML
         run: |
           python make_xml.py
+      - name: Add place keys to listperson
+        run: python add_place_name_keys.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
