@@ -3835,14 +3835,8 @@
                   <idno type="geonames">https://sws.geonames.org/5102922/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q138518</idno>
                </place>
-               <place xml:id="tillich_place_id__631">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__632">
                   <placeName>Hirschberg in Schlesien</placeName>
-               </place>
-               <place xml:id="tillich_place_id__633">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__634">
                   <placeName>Pleskau</placeName>
@@ -3902,9 +3896,6 @@
                   <idno type="geonames">https://sws.geonames.org/6290252/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q403</idno>
                </place>
-               <place xml:id="tillich_place_id__643">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__644">
                   <placeName>Bailly</placeName>
                </place>
@@ -3916,9 +3907,6 @@
                   <idno type="geonames">https://sws.geonames.org/2971169/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q589513</idno>
                </place>
-               <place xml:id="tillich_place_id__646">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__647">
                   <placeName>Honfleur</placeName>
                   <location type="coords">
@@ -3926,16 +3914,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3013173/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q231720</idno>
-               </place>
-               <place xml:id="tillich_place_id__649">
-                  <placeName/>
-                  <idno type="geonames">49.17028</idno>
-               </place>
-               <place xml:id="tillich_place_id__650">
-                  <placeName/>
-                  <location type="coords">
-                     <geo>49.17028 4.71631</geo>
-                  </location>
                </place>
                <place xml:id="tillich_place_id__651">
                   <placeName>Minaucourt-le-Mesnil-lès-Hurlus</placeName>
@@ -3950,9 +3928,6 @@
                      <geo>49.32280 4.76712</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3030424/</idno>
-               </place>
-               <place xml:id="tillich_place_id__653">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__654">
                   <placeName>Les Rosiers</placeName>
@@ -4034,9 +4009,6 @@
                </place>
                <place xml:id="tillich_place_id__665">
                   <placeName>Egypt</placeName>
-               </place>
-               <place xml:id="tillich_place_id__666">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__667">
                   <placeName>Celle</placeName>
