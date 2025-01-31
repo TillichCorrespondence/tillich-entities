@@ -110,7 +110,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/11850066X</idno>
                </person>
                <person xml:id="tillich_person_id__10">
-                  <persName>Adler, Ada</persName>
+                  <persName>Adler, Adelaide</persName>
+                  <birth>
+                     <date>1905</date>
+                  </birth>
+                  <note type="bio"><p>geb. Bamberger; Studentin von Paul Tillich. Verheiratet mit Hans-Otto Adler. 1938 Emigration nach Frankreich. Ihr gemeinsamer Sohn Pierre (geb. 1927) überlebte den Holocaust als Weisenkind.</p></note>
                </person>
                <person xml:id="tillich_person_id__11">
                   <persName>Adler, Alfred</persName>
@@ -17617,6 +17621,11 @@
                </person>
                <person xml:id="tillich_person_id__3140">
                   <persName>Muschi</persName>
+               </person>
+               <person xml:id="tillich_person_id__3141">
+                  <persName>Adler, Hans-Otto</persName>
+                  <occupation>Kaufmann</occupation>
+                  <note type="bio"><p>Hans Adler war Ehemann von Adelaide Adler, einer Studentin und Korrespondenzpartnerin Tillichs.</p></note>
                </person>
             </listPerson>
          </div>
