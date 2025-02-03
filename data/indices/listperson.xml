@@ -6491,9 +6491,6 @@
                <person xml:id="tillich_person_id__1608">
                   <persName>Riesman, David</persName>
                </person>
-               <person xml:id="tillich_person_id__1609">
-                  <persName>Riezler, Kurt</persName>
-               </person>
                <person xml:id="tillich_person_id__1610">
                   <persName>Riezler, Kurt</persName>
                   <birth>
@@ -17626,6 +17623,39 @@
                   <persName>Adler, Hans-Otto</persName>
                   <occupation>Kaufmann</occupation>
                   <note type="bio"><p>Hans Adler war Ehemann von Adelaide Adler, einer Studentin und Korrespondenzpartnerin Tillichs.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3142">
+                  <persName>Sternefeld, Ruth</persName>
+                  <occupation>Kinderärztin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3143">
+                  <persName>Mendelsohn, Erich</persName>
+                  <occupation>Architekt (Erbaute Mendelsohn-Haus)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11858071X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3144">
+                  <persName>Lösch</persName>
+               </person>
+               <person xml:id="tillich_person_id__3145">
+                  <persName>Riezler, Heinrich</persName>
+                  <death>
+                     <date>1889</date>
+                  </death>
+                  <occupation>Kaufmann</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139198830</idno>
+               </person>
+               <person xml:id="tillich_person_id__3146">
+                  <persName>Riezler, Emanuel</persName>
+                  <occupation>Generalmajor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/126472548</idno>
+               </person>
+               <person xml:id="tillich_person_id__3149">
+                  <persName>Riezler, Maria</persName>
+                  <occupation>Tochter von Käthe und Kurt Riezler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123784827X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3150">
+                  <persName>Ritthausen</persName>
                </person>
             </listPerson>
          </div>
