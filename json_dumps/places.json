@@ -4316,10 +4316,10 @@
     "order": "500.00000000000000000000",
     "name": "England",
     "tillich_id": "tillich_place_id__503",
-    "geonames_url": "http://www.geonames.org/6269131/england.html",
+    "geonames_url": "http://www.geonames.org/6269131/",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null,
+    "latitude": "52.16045",
+    "longitude": "-0.70312",
     "wikidata_url": ""
   },
   "504": {
@@ -4556,7 +4556,7 @@
   "528": {
     "id": 528,
     "order": "524.00000000000000000000",
-    "name": "Zuiderzee",
+    "name": "Zuidersee",
     "tillich_id": "tillich_place_id__528",
     "geonames_url": "https://sws.geonames.org/2753361/",
     "Working Notes": "Working Notes",
@@ -5977,7 +5977,7 @@
     "order": "666.00000000000000000000",
     "name": "Crissier",
     "tillich_id": "tillich_place_id__673",
-    "geonames_url": "https://www.geonames.org/7285594/crissier.html",
+    "geonames_url": "https://www.geonames.org/7285594",
     "Working Notes": "",
     "latitude": "46.55847",
     "longitude": "6.57736",
@@ -6037,5 +6037,38 @@
     "latitude": "47.13713",
     "longitude": "7.24608",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1034"
+  },
+  "679": {
+    "id": 679,
+    "order": "672.00000000000000000000",
+    "name": "Großalmerode",
+    "tillich_id": "tillich_place_id__679",
+    "geonames_url": "https://sws.geonames.org/2917053/",
+    "Working Notes": "",
+    "latitude": "51.25858",
+    "longitude": "9.78450",
+    "wikidata_url": ""
+  },
+  "681": {
+    "id": 681,
+    "order": "673.00000000000000000000",
+    "name": "Soldin (Myślibórz)",
+    "tillich_id": "tillich_place_id__681",
+    "geonames_url": "https://www.geonames.org/3091253",
+    "Working Notes": "",
+    "latitude": "52.92382",
+    "longitude": "14.86785",
+    "wikidata_url": ""
+  },
+  "682": {
+    "id": 682,
+    "order": "674.00000000000000000000",
+    "name": "Niederlande",
+    "tillich_id": "tillich_place_id__682",
+    "geonames_url": "https://www.geonames.org/2750405/",
+    "Working Notes": "",
+    "latitude": "52.25000",
+    "longitude": "5.75000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q55"
   }
 }

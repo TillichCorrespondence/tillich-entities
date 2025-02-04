@@ -2063,6 +2063,14 @@
                </person>
                <person xml:id="tillich_person_id__363">
                   <persName>Cassirer, Ernst</persName>
+                  <birth>
+                     <date>1874-07-28</date>
+                  </birth>
+                  <death>
+                     <date>1945-04-13</date>
+                  </death>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118519522</idno>
                </person>
                <person xml:id="tillich_person_id__364">
                   <persName>Cassirer, Paul</persName>
@@ -5451,6 +5459,7 @@
                </person>
                <person xml:id="tillich_person_id__1314">
                   <persName>Messer, August</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11691405X</idno>
                </person>
                <person xml:id="tillich_person_id__1315">
                   <persName>Metrodoros von Lampsakos</persName>
@@ -13771,7 +13780,7 @@
                </person>
                <person xml:id="tillich_person_id__2482">
                   <persName>Riedel, Margarete</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1279754710</idno>
+                  <occupation>Musikerin (Cembalo) des Quartetts "Spieleinung Berlin", gemeinsam mit Hans Krüger (Flöte), Heinz Stopka (Flöte) und Georg Seegers (Bass).</occupation>
                </person>
                <person xml:id="tillich_person_id__2483">
                   <persName>Küntzel, Georg</persName>
@@ -15628,7 +15637,7 @@
                </person>
                <person xml:id="tillich_person_id__2716">
                   <persName>Riedel, ???</persName>
-                  <note type="bio"><p>Er hatte einen Doktortitel.</p></note>
+                  <occupation>Arzt</occupation>
                </person>
                <person xml:id="tillich_person_id__2717">
                   <persName>Harder, Braut</persName>
@@ -16545,9 +16554,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11852576X</idno>
-               </person>
-               <person xml:id="tillich_person_id__2874">
-                  <persName>Messer, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2875">
                   <persName>Weinberg, Heinz</persName>
@@ -17656,6 +17662,10 @@
                </person>
                <person xml:id="tillich_person_id__3150">
                   <persName>Ritthausen</persName>
+               </person>
+               <person xml:id="tillich_person_id__3151">
+                  <persName>Fischer, Martin</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118533444</idno>
                </person>
             </listPerson>
          </div>

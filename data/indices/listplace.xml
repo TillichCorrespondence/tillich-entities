@@ -2986,6 +2986,9 @@
                </place>
                <place xml:id="tillich_place_id__503">
                   <placeName>England</placeName>
+                  <location type="coords">
+                     <geo>52.16045 -0.70312</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/6269131/</idno>
                </place>
                <place xml:id="tillich_place_id__504">
@@ -3153,7 +3156,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q749</idno>
                </place>
                <place xml:id="tillich_place_id__528">
-                  <placeName>Zuiderzee</placeName>
+                  <placeName>Zuidersee</placeName>
                   <location type="coords">
                      <geo>52.82762 5.24814</geo>
                   </location>
@@ -4061,6 +4064,28 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2661513/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1034</idno>
+               </place>
+               <place xml:id="tillich_place_id__679">
+                  <placeName>Großalmerode</placeName>
+                  <location type="coords">
+                     <geo>51.25858 9.78450</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2917053/</idno>
+               </place>
+               <place xml:id="tillich_place_id__681">
+                  <placeName>Soldin (Myślibórz)</placeName>
+                  <location type="coords">
+                     <geo>52.92382 14.86785</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3091253/</idno>
+               </place>
+               <place xml:id="tillich_place_id__682">
+                  <placeName>Niederlande</placeName>
+                  <location type="coords">
+                     <geo>52.25000 5.75000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2750405/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q55</idno>
                </place>
             </listPlace>
          </div>
