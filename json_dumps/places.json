@@ -6070,5 +6070,16 @@
     "latitude": "52.25000",
     "longitude": "5.75000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55"
+  },
+  "683": {
+    "id": 683,
+    "order": "675.00000000000000000000",
+    "name": "Simbabwe",
+    "tillich_id": "tillich_place_id__683",
+    "geonames_url": "https://www.geonames.org/878675",
+    "Working Notes": "",
+    "latitude": "-19.00000",
+    "longitude": "29.75000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q954"
   }
 }

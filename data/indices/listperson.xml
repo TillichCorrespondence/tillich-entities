@@ -17667,6 +17667,19 @@
                   <persName>Fischer, Martin</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118533444</idno>
                </person>
+               <person xml:id="tillich_person_id__3152">
+                  <persName>Wiethorn, H.</persName>
+                  <occupation>Pensionsinhaber auf Spiekeroog</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3153">
+                  <persName>Sternberger, Ilse</persName>
+                  <death>
+                     <date>1992-06-04</date>
+                  </death>
+                  <occupation>Journalistin; Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1049748891</idno>
+                  <note type="bio"><p>geborene Rothschild</p></note>
+               </person>
             </listPerson>
          </div>
       </body>

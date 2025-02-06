@@ -56320,5 +56320,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3152": {
+    "id": 3152,
+    "order": "3144.00000000000000000000",
+    "name": "Wiethorn, H.",
+    "surname": "Wiethorn",
+    "forename": "H.",
+    "from_to": "",
+    "occupation": "Pensionsinhaber auf Spiekeroog",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3152",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3153": {
+    "id": 3153,
+    "order": "3145.00000000000000000000",
+    "name": "Sternberger, Ilse",
+    "surname": "Sternberger",
+    "forename": "Ilse",
+    "from_to": "1900-1992",
+    "occupation": "Journalistin; Schriftstellerin",
+    "bio": "geborene Rothschild",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/1049748891",
+    "tillich_id": "tillich_person_id__3153",
+    "date_of_birth": "",
+    "date_of_death": "1992-06-04",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
