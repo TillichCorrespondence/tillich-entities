@@ -6081,5 +6081,38 @@
     "latitude": "-19.00000",
     "longitude": "29.75000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q954"
+  },
+  "684": {
+    "id": 684,
+    "order": "676.00000000000000000000",
+    "name": "Vereinigte Staaten von Amerika",
+    "tillich_id": "tillich_place_id__684",
+    "geonames_url": "https://www.geonames.org/6252001",
+    "Working Notes": "",
+    "latitude": "39.76000",
+    "longitude": "-98.50000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30"
+  },
+  "685": {
+    "id": 685,
+    "order": "677.00000000000000000000",
+    "name": "Spanien",
+    "tillich_id": "tillich_place_id__685",
+    "geonames_url": "https://www.geonames.org/2510769",
+    "Working Notes": "",
+    "latitude": "40.00000",
+    "longitude": "-4.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q29"
+  },
+  "686": {
+    "id": 686,
+    "order": "678.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__686",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

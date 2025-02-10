@@ -4095,7 +4095,23 @@
                   <idno type="geonames">https://sws.geonames.org/878675/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q954</idno>
                </place>
-            </listPlace>
+               <place xml:id="tillich_place_id__684">
+                  <placeName>Vereinigte Staaten von Amerika</placeName>
+                  <location type="coords">
+                     <geo>39.76000 -98.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6252001/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q30</idno>
+               </place>
+               <place xml:id="tillich_place_id__685">
+                  <placeName>Spanien</placeName>
+                  <location type="coords">
+                     <geo>40.00000 -4.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2510769/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q29</idno>
+               </place>
+               </listPlace>
          </div>
       </body>
    </text>

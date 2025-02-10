@@ -17680,6 +17680,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/1049748891</idno>
                   <note type="bio"><p>geborene Rothschild</p></note>
                </person>
+               <person xml:id="tillich_person_id__3154">
+                  <persName>Schmitz, Elisabeth</persName>
+                  <occupation>Pädagogin, Mitglied der Bekennenden Kirche</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133266451</idno>
+               </person>
             </listPerson>
          </div>
       </body>

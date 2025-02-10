@@ -56356,5 +56356,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3154": {
+    "id": 3154,
+    "order": "3146.00000000000000000000",
+    "name": "Schmitz, Elisabeth",
+    "surname": "Schmitz",
+    "forename": "Elisabeth",
+    "from_to": "1893-1977",
+    "occupation": "Pädagogin, Mitglied der Bekennenden Kirche",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/133266451",
+    "tillich_id": "tillich_person_id__3154",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "Hanau",
+    "place_of_death": "Offenbach a. M."
   }
 }
