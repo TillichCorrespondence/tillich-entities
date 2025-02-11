@@ -3876,6 +3876,7 @@
                </person>
                <person xml:id="tillich_person_id__875">
                   <persName>Hennig, Hilde</persName>
+                  <occupation>Leiterin des Rochlitzer Kindheims</occupation>
                </person>
                <person xml:id="tillich_person_id__876">
                   <persName>Henoch</persName>
@@ -6300,6 +6301,7 @@
                </person>
                <person xml:id="tillich_person_id__1560">
                   <persName>Rathenau, Walter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118598430</idno>
                </person>
                <person xml:id="tillich_person_id__1561">
                   <persName>Rathenau, Gerhart Wolfgang</persName>
@@ -17684,6 +17686,18 @@
                   <persName>Schmitz, Elisabeth</persName>
                   <occupation>Pädagogin, Mitglied der Bekennenden Kirche</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/133266451</idno>
+               </person>
+               <person xml:id="tillich_person_id__3155">
+                  <persName>Abetz, Otto</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116003375</idno>
+               </person>
+               <person xml:id="tillich_person_id__3156">
+                  <persName>Greene, Graham</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11854179X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3157">
+                  <persName>Auden, Wystan H.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118650963</idno>
                </person>
             </listPerson>
          </div>
