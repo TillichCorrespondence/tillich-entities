@@ -3027,9 +3027,9 @@
   "352": {
     "id": 352,
     "order": "352.00000000000000000000",
-    "name": "Polen-Neuendorf",
+    "name": "Wisełka",
     "tillich_id": "tillich_place_id__352",
-    "geonames_url": "https://sws.geonames.org/3090679/",
+    "geonames_url": "https://sws.geonames.org/3081878/",
     "Working Notes": "Polnisch: Nowa Wieś Przywidzka",
     "latitude": "54.33333",
     "longitude": "18.73333",
@@ -6114,5 +6114,27 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "687": {
+    "id": 687,
+    "order": "679.00000000000000000000",
+    "name": "Schönebeck (Elbe)",
+    "tillich_id": "tillich_place_id__687",
+    "geonames_url": "https://www.geonames.org/6550951",
+    "Working Notes": "",
+    "latitude": "52.01830",
+    "longitude": "11.72400",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16020"
+  },
+  "688": {
+    "id": 688,
+    "order": "680.00000000000000000000",
+    "name": "Han-lès-Juvigny",
+    "tillich_id": "tillich_place_id__688",
+    "geonames_url": "https://www.geonames.org/6437033",
+    "Working Notes": "",
+    "latitude": "49.48111",
+    "longitude": "5.33222",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1161089"
   }
 }

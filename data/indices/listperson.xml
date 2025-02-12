@@ -5214,6 +5214,7 @@
                </person>
                <person xml:id="tillich_person_id__1245">
                   <persName>Manasse-Morris, Rudolf</persName>
+                  <occupation>Jurist</occupation>
                </person>
                <person xml:id="tillich_person_id__1246">
                   <persName>Mandel, Hermann</persName>
@@ -17698,6 +17699,23 @@
                <person xml:id="tillich_person_id__3157">
                   <persName>Auden, Wystan H.</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118650963</idno>
+               </person>
+               <person xml:id="tillich_person_id__3158">
+                  <persName>Sommer, René</persName>
+                  <occupation>Präsident der Eisenbahndirektion Magdeburg</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3159">
+                  <persName>Rosenthal, ??? v.</persName>
+                  <occupation>Oberstleutnant der Reserve</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3160">
+                  <persName>Rosenthal, ??? v.</persName>
+                  <occupation>Ehefrau von Oberstleutnant v. Rosenthal</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3161">
+                  <persName>Sattelmacher, Paul</persName>
+                  <occupation>Richter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1284103706</idno>
                </person>
             </listPerson>
          </div>

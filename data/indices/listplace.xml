@@ -2105,11 +2105,11 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q36</idno>
                </place>
                <place xml:id="tillich_place_id__352">
-                  <placeName>Polen-Neuendorf</placeName>
+                  <placeName>Wisełka</placeName>
                   <location type="coords">
                      <geo>54.33333 18.73333</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3090679/</idno>
+                  <idno type="geonames">https://sws.geonames.org/3081878/</idno>
                </place>
                <place xml:id="tillich_place_id__353">
                   <placeName>Pont-Saint-Mard</placeName>
@@ -4111,7 +4111,23 @@
                   <idno type="geonames">https://sws.geonames.org/2510769/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q29</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__687">
+                  <placeName>Schönebeck (Elbe)</placeName>
+                  <location type="coords">
+                     <geo>52.01830 11.72400</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6550951/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q16020</idno>
+               </place>
+               <place xml:id="tillich_place_id__688">
+                  <placeName>Han-lès-Juvigny</placeName>
+                  <location type="coords">
+                     <geo>49.48111 5.33222</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6437033/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1161089</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>
