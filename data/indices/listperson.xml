@@ -17714,8 +17714,17 @@
                </person>
                <person xml:id="tillich_person_id__3161">
                   <persName>Sattelmacher, Paul</persName>
-                  <occupation>Richter</occupation>
+                  <occupation>Jurist; Richter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1284103706</idno>
+                  <note type="bio"><p>von 1909 bis 1919 Landrichter in Halle. Ab 1919 im preußischen Justizministerium angestellt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3162">
+                  <persName>Berg, ???</persName>
+                  <note type="bio"><p>Wahrscheinlich ein Leutnant der Reserve (Infanterie-Regiment 64)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3163">
+                  <persName>Meyer, ???</persName>
+                  <note type="bio"><p>Wahrscheinlich ein Leutnant der Reserve (Infanterie-Regiment 64)</p></note>
                </person>
             </listPerson>
          </div>

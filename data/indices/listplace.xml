@@ -4127,6 +4127,14 @@
                   <idno type="geonames">https://sws.geonames.org/6437033/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1161089</idno>
                </place>
+               <place xml:id="tillich_place_id__689">
+                  <placeName>Belle-Île-en-Mer</placeName>
+                  <location type="coords">
+                     <geo>47.33306 -3.18700</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3033682/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q815838</idno>
+               </place>
             </listPlace>
          </div>
       </body>

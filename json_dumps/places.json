@@ -6136,5 +6136,16 @@
     "latitude": "49.48111",
     "longitude": "5.33222",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1161089"
+  },
+  "689": {
+    "id": 689,
+    "order": "681.00000000000000000000",
+    "name": "Belle-Île-en-Mer",
+    "tillich_id": "tillich_place_id__689",
+    "geonames_url": "https://www.geonames.org/3033682",
+    "Working Notes": "",
+    "latitude": "47.33306",
+    "longitude": "-3.18700",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q815838"
   }
 }
