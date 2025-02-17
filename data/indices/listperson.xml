@@ -16292,7 +16292,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
                </person>
                <person xml:id="tillich_person_id__2835">
-                  <persName>Grassmann, ???</persName>
+                  <persName>Gressmann, Hugo</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116832541</idno>
                </person>
                <person xml:id="tillich_person_id__2836">
                   <persName>Beissmann, ???</persName>
@@ -17725,6 +17726,10 @@
                <person xml:id="tillich_person_id__3163">
                   <persName>Meyer, ???</persName>
                   <note type="bio"><p>Wahrscheinlich ein Leutnant der Reserve (Infanterie-Regiment 64)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3164">
+                  <persName>Beard, Charles Austin</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118657747</idno>
                </person>
             </listPerson>
          </div>
