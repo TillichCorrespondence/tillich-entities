@@ -2353,7 +2353,7 @@
     "tillich_id": "tillich_person_id__131",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": null,
+    "working_note": "Spitzname ist Häfele.",
     "place_of_birth": null,
     "place_of_death": null
   },
@@ -15331,7 +15331,7 @@
     "tillich_id": "tillich_person_id__853",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": null,
+    "working_note": "Spitzname Menzel",
     "place_of_birth": null,
     "place_of_death": null
   },
@@ -39361,7 +39361,7 @@
     "tillich_id": "tillich_person_id__2190",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "Vgl. 1907. Tillich, P. an Fritz, A. (So schwer...); (Verzicht auf Recht) Ist eventuell Eberhard Röhricht",
+    "working_note": "Alle Einträge wurden durch tillich_person_id__1635 ersetzt. Vgl. 1907. Tillich, P. an Fritz, A. (So schwer...); (Verzicht auf Recht) Ist eventuell Eberhard Röhricht",
     "place_of_birth": null,
     "place_of_death": null
   },
@@ -39451,7 +39451,7 @@
     "tillich_id": "tillich_person_id__2195",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "Vgl. 1907.04.21. Schubert, D. an Tillich, P.; 1907. Tillich, P. an Fritz, A. (Fast wage); 1908.08. Tillich, P. an Büchsel, F.",
+    "working_note": "Alle durch tillich_person_id__131 ersetzt. Vgl. 1907.04.21. Schubert, D. an Tillich, P.; 1907. Tillich, P. an Fritz, A. (Fast wage); 1908.08. Tillich, P. an Büchsel, F.",
     "place_of_birth": null,
     "place_of_death": null
   },
@@ -41053,7 +41053,7 @@
     "tillich_id": "tillich_person_id__2284",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "Name schwer leserlich. Er könnte auch \"Menzel\" lauten. Vgl. 1908.08. Tillich, P an Büchsel, F.",
+    "working_note": "Ist Menzel -> Gerhard Heinzelmann. Wurde ersetzt. Name schwer leserlich. Er könnte auch \"Menzel\" lauten. Vgl. 1908.08. Tillich, P an Büchsel, F.",
     "place_of_birth": null,
     "place_of_death": null
   },
