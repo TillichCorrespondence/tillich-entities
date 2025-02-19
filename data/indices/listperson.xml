@@ -11218,7 +11218,6 @@
                </person>
                <person xml:id="tillich_person_id__2176">
                   <persName>Heine, ???</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2177">
                   <persName>Sessow, ???</persName>
@@ -17730,6 +17729,24 @@
                <person xml:id="tillich_person_id__3164">
                   <persName>Beard, Charles Austin</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118657747</idno>
+               </person>
+               <person xml:id="tillich_person_id__3165">
+                  <persName>???, Ingelein</persName>
+               </person>
+               <person xml:id="tillich_person_id__3166">
+                  <persName>Heine, Pastor</persName>
+               </person>
+               <person xml:id="tillich_person_id__3167">
+                  <persName>Cousin von Paul Merrem</persName>
+               </person>
+               <person xml:id="tillich_person_id__3168">
+                  <persName>???, Roland</persName>
+               </person>
+               <person xml:id="tillich_person_id__3169">
+                  <persName>???, Foeke</persName>
+               </person>
+               <person xml:id="tillich_person_id__3170">
+                  <persName>Troll, Onkel</persName>
                </person>
             </listPerson>
          </div>
