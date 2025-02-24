@@ -15734,6 +15734,7 @@
                </person>
                <person xml:id="tillich_person_id__2735">
                   <persName>Albers, August</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116275480</idno>
                </person>
                <person xml:id="tillich_person_id__2736">
                   <persName>Wiechel, ???</persName>
@@ -17765,6 +17766,9 @@
                </person>
                <person xml:id="tillich_person_id__3176">
                   <persName>???, Mutter</persName>
+               </person>
+               <person xml:id="tillich_person_id__3177">
+                  <persName>Wegener, ???</persName>
                </person>
             </listPerson>
          </div>

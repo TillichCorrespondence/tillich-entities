@@ -49005,7 +49005,7 @@
     "occupation": "",
     "bio": "",
     "legacy_id": "",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/116275480",
     "tillich_id": "tillich_person_id__2735",
     "date_of_birth": null,
     "date_of_death": null,
@@ -56768,6 +56768,24 @@
     "date_of_birth": "",
     "date_of_death": "",
     "working_note": "Sie war die Mutter von Maria Hirsch",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3177": {
+    "id": 3177,
+    "order": "3169.00000000000000000000",
+    "name": "Wegener, ???",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3177",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Mutter von Richard Wegener",
     "place_of_birth": "",
     "place_of_death": ""
   }
