@@ -1916,10 +1916,10 @@
   "220": {
     "id": 220,
     "order": "220.00000000000000000000",
-    "name": "Italien-Sorrento",
+    "name": "Sorrent",
     "tillich_id": "tillich_place_id__220",
     "geonames_url": "https://sws.geonames.org/3166350/",
-    "Working Notes": "Doppelung in (407)",
+    "Working Notes": "",
     "latitude": "40.62678",
     "longitude": "14.37771",
     "wikidata_url": "http://www.wikidata.org/entity/Q30030832"
@@ -3529,17 +3529,6 @@
     "latitude": "49.93141",
     "longitude": "2.27639",
     "wikidata_url": "http://www.wikidata.org/entity/Q12770"
-  },
-  "407": {
-    "id": 407,
-    "order": "407.00000000000000000000",
-    "name": "Sorrent-Italien",
-    "tillich_id": "tillich_place_id__407",
-    "geonames_url": "https://sws.geonames.org/3166350/",
-    "Working Notes": "Doppelung in (220)",
-    "latitude": "40.62678",
-    "longitude": "14.37771",
-    "wikidata_url": "http://www.wikidata.org/entity/Q30030832"
   },
   "408": {
     "id": 408,

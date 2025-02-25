@@ -6644,6 +6644,7 @@
                </person>
                <person xml:id="tillich_person_id__1648">
                   <persName>Rosenzweig, Franz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118602802</idno>
                </person>
                <person xml:id="tillich_person_id__1649">
                   <persName>Rothacker, Erich</persName>
@@ -17769,6 +17770,12 @@
                </person>
                <person xml:id="tillich_person_id__3177">
                   <persName>Wegener, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3178">
+                  <persName>Leese, Helene</persName>
+               </person>
+               <person xml:id="tillich_person_id__3179">
+                  <persName>Leese, Ernst</persName>
                </person>
             </listPerson>
          </div>

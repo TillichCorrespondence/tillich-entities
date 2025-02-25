@@ -1340,7 +1340,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q38</idno>
                </place>
                <place xml:id="tillich_place_id__220">
-                  <placeName>Italien-Sorrento</placeName>
+                  <placeName>Sorrent</placeName>
                   <location type="coords">
                      <geo>40.62678 14.37771</geo>
                   </location>
@@ -2451,14 +2451,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2974304/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q12770</idno>
-               </place>
-               <place xml:id="tillich_place_id__407">
-                  <placeName>Sorrent-Italien</placeName>
-                  <location type="coords">
-                     <geo>40.62678 14.37771</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3166350/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q30030832</idno>
                </place>
                <place xml:id="tillich_place_id__408">
                   <placeName>Spiekeroog</placeName>
