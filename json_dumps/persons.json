@@ -56824,5 +56824,41 @@
     "working_note": "Vater von Kurt Leese",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3180": {
+    "id": 3180,
+    "order": "3172.00000000000000000000",
+    "name": "Weiß, Otto",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3180",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3181": {
+    "id": 3181,
+    "order": "3173.00000000000000000000",
+    "name": "???, Karin",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3181",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Freundin von Erika Jannensch",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
