@@ -16374,7 +16374,7 @@
                   <persName>Eike, D.</persName>
                </person>
                <person xml:id="tillich_person_id__2850">
-                  <persName>Sydow, Minchen</persName>
+                  <persName>Sydow, Minchen von</persName>
                   <note type="bio"><p>Sie war die Tochter von Eckhart von Sydow.</p></note>
                </person>
                <person xml:id="tillich_person_id__2851">
@@ -17782,6 +17782,15 @@
                </person>
                <person xml:id="tillich_person_id__3181">
                   <persName>???, Karin</persName>
+               </person>
+               <person xml:id="tillich_person_id__3182">
+                  <persName>???, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3183">
+                  <persName>???, Lisbeth</persName>
+               </person>
+               <person xml:id="tillich_person_id__3184">
+                  <persName>???, Emma</persName>
                </person>
             </listPerson>
          </div>
