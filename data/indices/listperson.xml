@@ -12918,24 +12918,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
                   <note type="bio"><p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p></note>
                </person>
-               <person xml:id="tillich_person_id__2402">
-                  <persName>Hölscher, Gustav</persName>
-                  <birth>
-                     <date>1877-06-17</date>
-                     <settlement>
-                        <placeName>Norden (Landkreis Aurich)</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1955-09-16</date>
-                     <settlement>
-                        <placeName>Heidelberg</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Theologe;</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/116927461</idno>
-                  <note type="bio"><p>Er hat sich auf die alttestamentliche Forschung spezialisiert.</p></note>
-               </person>
                <person xml:id="tillich_person_id__2403">
                   <persName>Schairer, Gerda</persName>
                   <birth>
@@ -17801,6 +17783,12 @@
                </person>
                <person xml:id="tillich_person_id__3187">
                   <persName>Niemeyer, Max</persName>
+               </person>
+               <person xml:id="tillich_person_id__3188">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3189">
+                  <persName>Hafemann, Walter</persName>
                </person>
             </listPerson>
          </div>
