@@ -2856,7 +2856,6 @@
                </person>
                <person xml:id="tillich_person_id__590">
                   <persName>Fiedler, Bianca</persName>
-                  <occupation>Tante</occupation>
                </person>
                <person xml:id="tillich_person_id__591">
                   <persName>Fischer, Ernst Hugo</persName>
@@ -16018,9 +16017,6 @@
                <person xml:id="tillich_person_id__2777">
                   <persName/>
                </person>
-               <person xml:id="tillich_person_id__2778">
-                  <persName>M., Nora</persName>
-               </person>
                <person xml:id="tillich_person_id__2779">
                   <persName/>
                </person>
@@ -16235,6 +16231,7 @@
                <person xml:id="tillich_person_id__2825">
                   <persName>Mengelberg, Nora</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116881666</idno>
+                  <note type="bio"><p>Nora Mengelberg war eine Freundin von Hannah Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2826">
                   <persName>Tanl, Wilhelm</persName>
@@ -17785,10 +17782,20 @@
                   <persName>Niemeyer, Max</persName>
                </person>
                <person xml:id="tillich_person_id__3188">
-                  <persName/>
+                  <persName>Mann, ???</persName>
+                  <note type="bio"><p>Schmied auf der Insel Hiddensee in Kloster, bei dem Tillich 1921 unterkam.</p></note>
                </person>
                <person xml:id="tillich_person_id__3189">
                   <persName>Hafemann, Walter</persName>
+               </person>
+               <person xml:id="tillich_person_id__3190">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3191">
+                  <persName>Paula</persName>
+               </person>
+               <person xml:id="tillich_person_id__3192">
+                  <persName>Emmie, ???</persName>
                </person>
             </listPerson>
          </div>
