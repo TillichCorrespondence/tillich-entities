@@ -3042,6 +3042,12 @@
                </person>
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
+                  <birth>
+                     <date>1889</date>
+                  </birth>
+                  <death>
+                     <date>1920-01-05</date>
+                  </death>
                   <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                   <note type="bio"><p>Manchmal Wumming genannt</p></note>
                </person>
@@ -17797,6 +17803,10 @@
                </person>
                <person xml:id="tillich_person_id__3192">
                   <persName>Emmie, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3193">
+                  <persName>Gottschow, Frau</persName>
+                  <note type="bio"><p>Wohl eine Verwandte von Hannah Tillichs erstem Ehemann Albert Gottschow.</p></note>
                </person>
             </listPerson>
          </div>

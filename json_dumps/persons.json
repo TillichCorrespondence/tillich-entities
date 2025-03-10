@@ -11567,8 +11567,8 @@
     "legacy_id": "P00644",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__644",
-    "date_of_birth": null,
-    "date_of_death": null,
+    "date_of_birth": "1889",
+    "date_of_death": "1920-01-05",
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null
@@ -57020,6 +57020,24 @@
     "date_of_birth": "",
     "date_of_death": "",
     "working_note": "Bekannte aus Tillichs Jugend.",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3193": {
+    "id": 3193,
+    "order": "3185.00000000000000000000",
+    "name": "Gottschow, Frau",
+    "surname": "Gottschow",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "",
+    "bio": "Wohl eine Verwandte von Hannah Tillichs erstem Ehemann Albert Gottschow.",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3193",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Erwähnt in L00685",
     "place_of_birth": "",
     "place_of_death": ""
   }
