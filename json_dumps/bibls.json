@@ -2334,5 +2334,21 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__300",
     "zotero": "A592FW36"
+  },
+  "301": {
+    "id": 301,
+    "order": "296.00000000000000000000",
+    "name": "Cassirer, Ernst. Substanzbegriff und Funktionsbegriff. Untersuchungen über die Grundfragender Erkenntniskritik.Berlin: Cassirer, 1910",
+    "working_note": "Zotero wird noch eingetragen",
+    "tillich_id": "tillich_work_id__301",
+    "zotero": ""
+  },
+  "302": {
+    "id": 302,
+    "order": "297.00000000000000000000",
+    "name": "Tillich, Paul (Vortrag). Die gegenwärtige Krisis der Kultur und Religion",
+    "working_note": "\"[...]Auf Einladung von Sydows sprach Tillich hier am 20. Oktober\n1922, einem Samstag, über „Die gegenwärtige Krisis der Kultur und Religion“.\"\n(aus: Graf. Ein unbekannter Systementwurf Paul Tillichs, Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden, Boston 2020)",
+    "tillich_id": "tillich_work_id__302",
+    "zotero": ""
   }
 }
