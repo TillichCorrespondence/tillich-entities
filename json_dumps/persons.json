@@ -57094,5 +57094,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3197": {
+    "id": 3197,
+    "order": "3189.00000000000000000000",
+    "name": "Burkhardt, Hanna",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3197",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3198": {
+    "id": 3198,
+    "order": "3190.00000000000000000000",
+    "name": "Burkhardt, Mutter",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3198",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
