@@ -2341,7 +2341,7 @@
     "name": "Cassirer, Ernst. Substanzbegriff und Funktionsbegriff. Untersuchungen über die Grundfragender Erkenntniskritik.Berlin: Cassirer, 1910",
     "working_note": "Zotero wird noch eingetragen",
     "tillich_id": "tillich_work_id__301",
-    "zotero": ""
+    "zotero": "Fehlt bisweilen"
   },
   "302": {
     "id": 302,
@@ -2349,6 +2349,14 @@
     "name": "Tillich, Paul (Vortrag). Die gegenwärtige Krisis der Kultur und Religion",
     "working_note": "\"[...]Auf Einladung von Sydows sprach Tillich hier am 20. Oktober\n1922, einem Samstag, über „Die gegenwärtige Krisis der Kultur und Religion“.\"\n(aus: Graf. Ein unbekannter Systementwurf Paul Tillichs, Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden, Boston 2020)",
     "tillich_id": "tillich_work_id__302",
-    "zotero": ""
+    "zotero": "Fehlt bisweilen"
+  },
+  "303": {
+    "id": 303,
+    "order": "298.00000000000000000000",
+    "name": "Stern, William: Über Psychologie der individuellen Differenzen (Ideen zu einer „DifferentiellenPsychologie“),Schriftender Gesellschaft für psychologische Forschung, Heft 12, Leipzig: Verlag von Johann Ambrosius Barth, 1900",
+    "working_note": "Siehe auch in: Graf. Ein unbekannter Systementwurf Paul Tillichs, Zur Entstehungsgeschichte von Tillichs Das System der Wissenschaften nach Gegenständen und Methoden, Boston 2020, S. 97",
+    "tillich_id": "tillich_work_id__303",
+    "zotero": "Fehlt bisweilen"
   }
 }
