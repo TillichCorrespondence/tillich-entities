@@ -5681,6 +5681,7 @@
                </person>
                <person xml:id="tillich_person_id__1376">
                   <persName>Natorp, Paul</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118586548</idno>
                </person>
                <person xml:id="tillich_person_id__1377">
                   <persName>Naumann, Friedrich</persName>
@@ -17838,6 +17839,9 @@
                   <persName>Barth, Johann Ambrosius</persName>
                   <occupation>Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/120704072X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3200">
+                  <persName>Heß, Mina</persName>
                </person>
             </listPerson>
          </div>
