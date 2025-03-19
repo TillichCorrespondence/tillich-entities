@@ -17843,6 +17843,13 @@
                <person xml:id="tillich_person_id__3200">
                   <persName>Heß, Mina</persName>
                </person>
+               <person xml:id="tillich_person_id__3201">
+                  <persName>???, Hans Jürgen</persName>
+               </person>
+               <person xml:id="tillich_person_id__3202">
+                  <persName>Molnár, Ferenc</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118734598</idno>
+               </person>
             </listPerson>
          </div>
       </body>

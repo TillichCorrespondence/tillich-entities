@@ -57166,5 +57166,41 @@
     "working_note": "Unsichere Lesart",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3201": {
+    "id": 3201,
+    "order": "3193.00000000000000000000",
+    "name": "???, Hans Jürgen",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3201",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3202": {
+    "id": 3202,
+    "order": "3194.00000000000000000000",
+    "name": "Molnár, Ferenc",
+    "surname": "Molnár",
+    "forename": "Ferenc",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/118734598",
+    "tillich_id": "tillich_person_id__3202",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

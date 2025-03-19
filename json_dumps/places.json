@@ -2752,7 +2752,7 @@
   "319": {
     "id": 319,
     "order": "319.00000000000000000000",
-    "name": "New York",
+    "name": "New York City",
     "tillich_id": "tillich_place_id__319",
     "geonames_url": "https://sws.geonames.org/5128581/",
     "Working Notes": "",
@@ -6136,5 +6136,16 @@
     "latitude": "47.33306",
     "longitude": "-3.18700",
     "wikidata_url": "https://www.wikidata.org/wiki/Q815838"
+  },
+  "690": {
+    "id": 690,
+    "order": "682.00000000000000000000",
+    "name": "Athen",
+    "tillich_id": "tillich_place_id__690",
+    "geonames_url": "https://sws.geonames.org/264371/",
+    "Working Notes": "",
+    "latitude": "37.98376",
+    "longitude": "23.72784",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1524"
   }
 }
