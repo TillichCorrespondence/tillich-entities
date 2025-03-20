@@ -6147,5 +6147,16 @@
     "latitude": "37.98376",
     "longitude": "23.72784",
     "wikidata_url": "http://www.wikidata.org/entity/Q1524"
+  },
+  "691": {
+    "id": 691,
+    "order": "683.00000000000000000000",
+    "name": "Wenningstedt",
+    "tillich_id": "tillich_place_id__691",
+    "geonames_url": "https://sws.geonames.org/2811062/",
+    "Working Notes": "",
+    "latitude": "54.93577",
+    "longitude": "8.32995",
+    "wikidata_url": ""
   }
 }
