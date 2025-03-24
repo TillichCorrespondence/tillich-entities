@@ -57202,5 +57202,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3203": {
+    "id": 3203,
+    "order": "3195.00000000000000000000",
+    "name": "Gadamer, Johannes",
+    "surname": "Gadamer",
+    "forename": "Johannes",
+    "from_to": "1867-1928",
+    "occupation": "Apotheker",
+    "bio": "Hat bei Ruprecht Verlag Lehrbuch zu Toxikologie gemacht.",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118901044",
+    "tillich_id": "tillich_person_id__3203",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

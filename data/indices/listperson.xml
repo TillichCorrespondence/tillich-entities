@@ -17850,6 +17850,12 @@
                   <persName>Molnár, Ferenc</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118734598</idno>
                </person>
+               <person xml:id="tillich_person_id__3203">
+                  <persName>Gadamer, Johannes</persName>
+                  <occupation>Apotheker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118901044</idno>
+                  <note type="bio"><p>Hat bei Ruprecht Verlag Lehrbuch zu Toxikologie gemacht.</p></note>
+               </person>
             </listPerson>
          </div>
       </body>
