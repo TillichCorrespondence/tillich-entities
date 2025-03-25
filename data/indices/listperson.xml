@@ -16210,8 +16210,15 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2814">
-                  <persName>Ziegler, ???</persName>
+                  <persName>Ziegler, Leopold</persName>
+                  <birth>
+                     <date>1881-04-30</date>
+                  </birth>
+                  <death>
+                     <date>1958-11-02</date>
+                  </death>
                   <occupation>Philosoph;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118636782</idno>
                </person>
                <person xml:id="tillich_person_id__2815">
                   <persName/>
@@ -17855,6 +17862,13 @@
                   <occupation>Apotheker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118901044</idno>
                   <note type="bio"><p>Hat bei Ruprecht Verlag Lehrbuch zu Toxikologie gemacht.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3204">
+                  <persName>Wever, Grete</persName>
+                  <occupation>Schwester von Gertrud von Sydow</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3205">
+                  <persName/>
                </person>
             </listPerson>
          </div>
