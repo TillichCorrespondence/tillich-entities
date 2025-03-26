@@ -4142,6 +4142,38 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2811062/</idno>
                </place>
+               <place xml:id="tillich_place_id__692">
+                  <placeName>Buffalo</placeName>
+                  <location type="coords">
+                     <geo>42.88645 -78.87837</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5110629/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q40435</idno>
+               </place>
+               <place xml:id="tillich_place_id__693">
+                  <placeName>Toledo</placeName>
+                  <location type="coords">
+                     <geo>41.66394 -83.55521</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5174035/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49239</idno>
+               </place>
+               <place xml:id="tillich_place_id__694">
+                  <placeName>Oberlin, Ohio</placeName>
+                  <location type="coords">
+                     <geo>41.29394 -82.21738</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5165445/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q988384</idno>
+               </place>
+               <place xml:id="tillich_place_id__695">
+                  <placeName>Indiana</placeName>
+                  <location type="coords">
+                     <geo>40.00032 -86.25027</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4921868/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1415</idno>
+               </place>
             </listPlace>
          </div>
       </body>

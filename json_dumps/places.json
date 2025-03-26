@@ -6158,5 +6158,49 @@
     "latitude": "54.93577",
     "longitude": "8.32995",
     "wikidata_url": ""
+  },
+  "692": {
+    "id": 692,
+    "order": "684.00000000000000000000",
+    "name": "Buffalo",
+    "tillich_id": "tillich_place_id__692",
+    "geonames_url": "https://sws.geonames.org/5110629/",
+    "Working Notes": "",
+    "latitude": "42.88645",
+    "longitude": "-78.87837",
+    "wikidata_url": "http://www.wikidata.org/entity/Q40435"
+  },
+  "693": {
+    "id": 693,
+    "order": "685.00000000000000000000",
+    "name": "Toledo",
+    "tillich_id": "tillich_place_id__693",
+    "geonames_url": "https://sws.geonames.org/5174035/",
+    "Working Notes": "",
+    "latitude": "41.66394",
+    "longitude": "-83.55521",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49239"
+  },
+  "694": {
+    "id": 694,
+    "order": "686.00000000000000000000",
+    "name": "Oberlin, Ohio",
+    "tillich_id": "tillich_place_id__694",
+    "geonames_url": "https://sws.geonames.org/5165445/",
+    "Working Notes": "",
+    "latitude": "41.29394",
+    "longitude": "-82.21738",
+    "wikidata_url": "http://www.wikidata.org/entity/Q988384"
+  },
+  "695": {
+    "id": 695,
+    "order": "687.00000000000000000000",
+    "name": "Indiana",
+    "tillich_id": "tillich_place_id__695",
+    "geonames_url": "https://sws.geonames.org/4921868/",
+    "Working Notes": "",
+    "latitude": "40.00032",
+    "longitude": "-86.25027",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1415"
   }
 }
