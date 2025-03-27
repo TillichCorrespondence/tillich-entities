@@ -16044,9 +16044,6 @@
                <person xml:id="tillich_person_id__2781">
                   <persName>Hamsun, Knut</persName>
                </person>
-               <person xml:id="tillich_person_id__2782">
-                  <persName>???, Rudolf</persName>
-               </person>
                <person xml:id="tillich_person_id__2783">
                   <persName>Held, Käthe</persName>
                </person>
@@ -16242,6 +16239,7 @@
                </person>
                <person xml:id="tillich_person_id__2821">
                   <persName>Immow, Gertrud</persName>
+                  <note type="bio"><p>Freundin von Alfred Fritz.</p></note>
                </person>
                <person xml:id="tillich_person_id__2822">
                   <persName>Brahms, Johannes</persName>
@@ -17871,6 +17869,16 @@
                </person>
                <person xml:id="tillich_person_id__3205">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3206">
+                  <persName>Weinrich, Prof.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3207">
+                  <persName>Weidenrich, Prof.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3208">
+                  <persName>Seeberger, Hans-Jürgen</persName>
+                  <occupation>Neffe von Paul Tillich</occupation>
                </person>
             </listPerson>
          </div>

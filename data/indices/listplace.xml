@@ -4174,6 +4174,14 @@
                   <idno type="geonames">https://sws.geonames.org/4921868/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1415</idno>
                </place>
+               <place xml:id="tillich_place_id__696">
+                  <placeName>Cleveland, Ohio</placeName>
+                  <location type="coords">
+                     <geo>41.49950 -81.69541</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5150529/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q37320</idno>
+               </place>
             </listPlace>
          </div>
       </body>

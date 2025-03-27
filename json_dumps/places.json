@@ -6202,5 +6202,16 @@
     "latitude": "40.00032",
     "longitude": "-86.25027",
     "wikidata_url": "http://www.wikidata.org/entity/Q1415"
+  },
+  "696": {
+    "id": 696,
+    "order": "688.00000000000000000000",
+    "name": "Cleveland, Ohio",
+    "tillich_id": "tillich_place_id__696",
+    "geonames_url": "https://sws.geonames.org/5150529/",
+    "Working Notes": "",
+    "latitude": "41.49950",
+    "longitude": "-81.69541",
+    "wikidata_url": "http://www.wikidata.org/entity/Q37320"
   }
 }
