@@ -4182,6 +4182,22 @@
                   <idno type="geonames">https://sws.geonames.org/5150529/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q37320</idno>
                </place>
+               <place xml:id="tillich_place_id__697">
+                  <placeName>Gananoque, Ontario</placeName>
+                  <location type="coords">
+                     <geo>44.33342 -76.16607</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5959326/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1208051</idno>
+               </place>
+               <place xml:id="tillich_place_id__698">
+                  <placeName>Canada</placeName>
+                  <location type="coords">
+                     <geo>60.10867 -113.64258</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6251999/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q16</idno>
+               </place>
             </listPlace>
          </div>
       </body>

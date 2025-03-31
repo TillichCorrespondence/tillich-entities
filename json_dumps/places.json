@@ -6213,5 +6213,27 @@
     "latitude": "41.49950",
     "longitude": "-81.69541",
     "wikidata_url": "http://www.wikidata.org/entity/Q37320"
+  },
+  "697": {
+    "id": 697,
+    "order": "689.00000000000000000000",
+    "name": "Gananoque, Ontario",
+    "tillich_id": "tillich_place_id__697",
+    "geonames_url": "https://sws.geonames.org/5959326/",
+    "Working Notes": "",
+    "latitude": "44.33342",
+    "longitude": "-76.16607",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1208051"
+  },
+  "698": {
+    "id": 698,
+    "order": "690.00000000000000000000",
+    "name": "Canada",
+    "tillich_id": "tillich_place_id__698",
+    "geonames_url": "https://sws.geonames.org/6251999/",
+    "Working Notes": "",
+    "latitude": "60.10867",
+    "longitude": "-113.64258",
+    "wikidata_url": "http://www.wikidata.org/entity/Q16"
   }
 }
