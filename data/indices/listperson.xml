@@ -8928,7 +8928,7 @@
                   <death>
                      <date>1944-07-25</date>
                      <settlement>
-                        <placeName>Capri</placeName>
+                        <placeName key="#tillich_place_id__700">Capri</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118763407</idno>
@@ -17057,9 +17057,6 @@
                <person xml:id="tillich_person_id__2975">
                   <persName/>
                </person>
-               <person xml:id="None">
-                  <persName/>
-               </person>
                <person xml:id="tillich_person_id__2977">
                   <persName>Owen Thomas</persName>
                   <occupation>Theologe</occupation>
@@ -17879,6 +17876,24 @@
                <person xml:id="tillich_person_id__3208">
                   <persName>Seeberger, Hans-Jürgen</persName>
                   <occupation>Neffe von Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3209">
+                  <persName>Pratt, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3210">
+                  <persName>???, Günther</persName>
+               </person>
+               <person xml:id="tillich_person_id__3211">
+                  <persName>Schube, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3212">
+                  <persName>Frau Griebel</persName>
+               </person>
+               <person xml:id="tillich_person_id__3213">
+                  <persName>Kallinikow, Josef</persName>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1020175931</idno>
+                  <note type="bio"><p>Russischer Schriftsteller hat den Roman "Frauen und Mönche" (1928) geschrieben.</p></note>
                </person>
             </listPerson>
          </div>

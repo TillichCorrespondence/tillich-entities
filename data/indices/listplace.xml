@@ -469,7 +469,11 @@
                </place>
                <place xml:id="tillich_place_id__64">
                   <placeName>Biskaya</placeName>
+                  <location type="coords">
+                     <geo>44.95119 -4.40826</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2960858/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q41573</idno>
                </place>
                <place xml:id="tillich_place_id__65">
                   <placeName>Blanchefosse-et-Bay</placeName>
@@ -2960,6 +2964,9 @@
                </place>
                <place xml:id="tillich_place_id__500">
                   <placeName>Westerfelde</placeName>
+                  <location type="coords">
+                     <geo>51.70218 7.51430</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/2810371/</idno>
                </place>
                <place xml:id="tillich_place_id__501">
@@ -3873,6 +3880,9 @@
                </place>
                <place xml:id="tillich_place_id__641">
                   <placeName>Belle-Île</placeName>
+                  <location type="coords">
+                     <geo>47.33306 -3.18700</geo>
+                  </location>
                   <idno type="geonames">https://sws.geonames.org/3033682/</idno>
                </place>
                <place xml:id="tillich_place_id__642">
@@ -4197,6 +4207,68 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6251999/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q16</idno>
+               </place>
+               <place xml:id="tillich_place_id__699">
+                  <placeName>Chilmark (Massachusetts)</placeName>
+                  <location type="coords">
+                     <geo>41.34317 -70.74475</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4933082/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2302305</idno>
+               </place>
+               <place xml:id="tillich_place_id__700">
+                  <placeName>Capri</placeName>
+                  <location type="coords">
+                     <geo>40.55073 14.24263</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3180630/</idno>
+               </place>
+               <place xml:id="tillich_place_id__701">
+                  <placeName>Sibirien</placeName>
+                  <location type="coords">
+                     <geo>60.00000 100.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2016590/</idno>
+               </place>
+               <place xml:id="tillich_place_id__702">
+                  <placeName>Polchow</placeName>
+                  <location type="coords">
+                     <geo>53.49583 14.48025</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3089016/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2742362</idno>
+               </place>
+               <place xml:id="tillich_place_id__703">
+                  <placeName>Alabama</placeName>
+                  <location type="coords">
+                     <geo>32.75041 -86.75026</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4829764/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q173</idno>
+               </place>
+               <place xml:id="tillich_place_id__704">
+                  <placeName>Montgomery, Alabama</placeName>
+                  <location type="coords">
+                     <geo>32.36681 -86.29997</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4076784/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q29364</idno>
+               </place>
+               <place xml:id="tillich_place_id__705">
+                  <placeName>New Orleans, Louisiana</placeName>
+                  <location type="coords">
+                     <geo>29.95465 -90.07507</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4335045/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q34404</idno>
+               </place>
+               <place xml:id="tillich_place_id__706">
+                  <placeName>Miami Beach, Florida</placeName>
+                  <location type="coords">
+                     <geo>25.79065 -80.13005</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4164143/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q201516</idno>
                </place>
             </listPlace>
          </div>
