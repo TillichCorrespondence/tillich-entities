@@ -16,7 +16,7 @@
       <body>
          <div type="index_persons">
             <listPerson xml:id="listperson">
-            {% for x in objects %}
+            {% for x in objects %}{% if x.tillich_id %}
                <person xml:id="{{ x.tillich_id }}">
                   <persName>{{ x.name }}</persName>
                   {% if x.date_of_birth %}
@@ -49,7 +49,7 @@
                   <note type="bio"><p>{{ x.bio }}</p></note>
                   {% endif %}
                </person>
-            {% endfor %}
+            {% endif %}{% endfor %}
             </listPerson>
          </div>
       </body>
