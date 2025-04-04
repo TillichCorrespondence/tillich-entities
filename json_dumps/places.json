@@ -655,9 +655,9 @@
     "tillich_id": "tillich_place_id__64",
     "geonames_url": "https://www.geonames.org/2960858/",
     "Working Notes": "(Bay of Biscay)",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
+    "latitude": "44.95119",
+    "longitude": "-4.40826",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q41573"
   },
   "65": {
     "id": 65,
@@ -4274,8 +4274,8 @@
     "tillich_id": "tillich_place_id__500",
     "geonames_url": "http://www.geonames.org/2810371/westerfelde.html",
     "Working Notes": "Working Notes",
-    "latitude": null,
-    "longitude": null,
+    "latitude": "51.70218",
+    "longitude": "7.51430",
     "wikidata_url": ""
   },
   "501": {
@@ -5627,8 +5627,8 @@
     "tillich_id": "tillich_place_id__641",
     "geonames_url": "http://www.geonames.org/3033682",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
+    "latitude": "47.33306",
+    "longitude": "-3.18700",
     "wikidata_url": ""
   },
   "642": {
@@ -5702,7 +5702,7 @@
     "order": "642.00000000000000000000",
     "name": "",
     "tillich_id": "tillich_place_id__649",
-    "geonames_url": "49.17028",
+    "geonames_url": "",
     "Working Notes": "",
     "latitude": null,
     "longitude": null,
@@ -6235,5 +6235,93 @@
     "latitude": "60.10867",
     "longitude": "-113.64258",
     "wikidata_url": "http://www.wikidata.org/entity/Q16"
+  },
+  "699": {
+    "id": 699,
+    "order": "691.00000000000000000000",
+    "name": "Chilmark (Massachusetts)",
+    "tillich_id": "tillich_place_id__699",
+    "geonames_url": "https://sws.geonames.org/4933082/",
+    "Working Notes": "",
+    "latitude": "41.34317",
+    "longitude": "-70.74475",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2302305"
+  },
+  "700": {
+    "id": 700,
+    "order": "692.00000000000000000000",
+    "name": "Capri",
+    "tillich_id": "tillich_place_id__700",
+    "geonames_url": "https://sws.geonames.org/3180630/",
+    "Working Notes": "",
+    "latitude": "40.55073",
+    "longitude": "14.24263",
+    "wikidata_url": ""
+  },
+  "701": {
+    "id": 701,
+    "order": "693.00000000000000000000",
+    "name": "Sibirien",
+    "tillich_id": "tillich_place_id__701",
+    "geonames_url": "https://sws.geonames.org/2016590/",
+    "Working Notes": "",
+    "latitude": "60.00000",
+    "longitude": "100.00000",
+    "wikidata_url": ""
+  },
+  "702": {
+    "id": 702,
+    "order": "694.00000000000000000000",
+    "name": "Polchow",
+    "tillich_id": "tillich_place_id__702",
+    "geonames_url": "https://sws.geonames.org/3089016/",
+    "Working Notes": "",
+    "latitude": "53.49583",
+    "longitude": "14.48025",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2742362"
+  },
+  "703": {
+    "id": 703,
+    "order": "695.00000000000000000000",
+    "name": "Alabama",
+    "tillich_id": "tillich_place_id__703",
+    "geonames_url": "https://sws.geonames.org/4829764/",
+    "Working Notes": "",
+    "latitude": "32.75041",
+    "longitude": "-86.75026",
+    "wikidata_url": "http://www.wikidata.org/entity/Q173"
+  },
+  "704": {
+    "id": 704,
+    "order": "696.00000000000000000000",
+    "name": "Montgomery, Alabama",
+    "tillich_id": "tillich_place_id__704",
+    "geonames_url": "https://sws.geonames.org/4076784/",
+    "Working Notes": "",
+    "latitude": "32.36681",
+    "longitude": "-86.29997",
+    "wikidata_url": "http://www.wikidata.org/entity/Q29364"
+  },
+  "705": {
+    "id": 705,
+    "order": "697.00000000000000000000",
+    "name": "New Orleans, Louisiana",
+    "tillich_id": "tillich_place_id__705",
+    "geonames_url": "https://sws.geonames.org/4335045/",
+    "Working Notes": "",
+    "latitude": "29.95465",
+    "longitude": "-90.07507",
+    "wikidata_url": "http://www.wikidata.org/entity/Q34404"
+  },
+  "706": {
+    "id": 706,
+    "order": "698.00000000000000000000",
+    "name": "Miami Beach, Florida",
+    "tillich_id": "tillich_place_id__706",
+    "geonames_url": "https://sws.geonames.org/4164143/",
+    "Working Notes": "",
+    "latitude": "25.79065",
+    "longitude": "-80.13005",
+    "wikidata_url": "http://www.wikidata.org/entity/Q201516"
   }
 }
