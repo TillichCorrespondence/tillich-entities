@@ -17895,6 +17895,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/1020175931</idno>
                   <note type="bio"><p>Russischer Schriftsteller hat den Roman "Frauen und Mönche" (1928) geschrieben.</p></note>
                </person>
+               <person xml:id="tillich_person_id__3216">
+                  <persName>Schoen, Ernst</persName>
+                  <occupation>Schriftsteller, Übersetzer, Komponist, Rundfunkjournalist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/12229386X</idno>
+               </person>
             </listPerson>
          </div>
       </body>

@@ -57400,5 +57400,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3216": {
+    "id": 3216,
+    "order": "3208.00000000000000000000",
+    "name": "Schoen, Ernst",
+    "surname": "Schoen",
+    "forename": "Ernst",
+    "from_to": "1894-1960",
+    "occupation": "Schriftsteller, Übersetzer, Komponist, Rundfunkjournalist",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/12229386X",
+    "tillich_id": "tillich_person_id__3216",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Gibt nur einen Brief zur Zeit von ihm an Familie Tillich",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
