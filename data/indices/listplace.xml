@@ -4270,7 +4270,15 @@
                   <idno type="geonames">https://sws.geonames.org/4164143/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q201516</idno>
                </place>
-            </listPlace>
+               <place xml:id="tillich_place_id__707">
+                  <placeName>Genf</placeName>
+                  <location type="coords">
+                     <geo>46.20222 6.14569</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2660646/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q30343751</idno>
+               </place>
+               </listPlace>
          </div>
       </body>
    </text>

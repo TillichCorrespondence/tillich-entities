@@ -766,9 +766,6 @@
                   <persName>Apollos</persName>
                   <idno type="gnd">https://d-nb.info/gnd/124204961</idno>
                </person>
-               <person xml:id="tillich_person_id__72">
-                  <persName>Appelius, Hildegard</persName>
-               </person>
                <person xml:id="tillich_person_id__73">
                   <persName>Apuleius</persName>
                   <birth>
@@ -9331,7 +9328,7 @@
                   <death>
                      <date>1985-07-04</date>
                      <settlement>
-                        <placeName>Genf</placeName>
+                        <placeName key="#tillich_place_id__707">Genf</placeName>
                      </settlement>
                   </death>
                   <occupation>Reformierter Theologe</occupation>
@@ -16193,14 +16190,11 @@
                   <persName>Ignatius von Loyola</persName>
                </person>
                <person xml:id="tillich_person_id__2809">
-                  <persName>Apelius, Hildegard</persName>
+                  <persName>Appelius, Hildegard</persName>
                   <note type="bio"><p>Sie war eine geborene Erbslöb und die Frau von Carl Richard Wegener.</p></note>
                </person>
                <person xml:id="tillich_person_id__2810">
                   <persName>Dox</persName>
-               </person>
-               <person xml:id="tillich_person_id__2811">
-                  <persName>???, Alfred</persName>
                </person>
                <person xml:id="tillich_person_id__2812">
                   <persName>Fricke, Uli</persName>
@@ -17899,6 +17893,19 @@
                   <persName>Schoen, Ernst</persName>
                   <occupation>Schriftsteller, Übersetzer, Komponist, Rundfunkjournalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12229386X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3217">
+                  <persName>Herr Bate, ???</persName>
+                  <occupation>Vertreter der National Broadcasting Company</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3218">
+                  <persName>Martini, Frl.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3219">
+                  <persName>Krebel-Wila, Frl.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3220">
+                  <persName>Sonntag, Frl. von</persName>
                </person>
             </listPerson>
          </div>

@@ -6323,5 +6323,27 @@
     "latitude": "25.79065",
     "longitude": "-80.13005",
     "wikidata_url": "http://www.wikidata.org/entity/Q201516"
+  },
+  "707": {
+    "id": 707,
+    "order": "699.00000000000000000000",
+    "name": "Genf",
+    "tillich_id": "tillich_place_id__707",
+    "geonames_url": "https://sws.geonames.org/2660646/",
+    "Working Notes": "Genève, Geneva",
+    "latitude": "46.20222",
+    "longitude": "6.14569",
+    "wikidata_url": "http://www.wikidata.org/entity/Q30343751"
+  },
+  "708": {
+    "id": 708,
+    "order": "700.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__708",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
