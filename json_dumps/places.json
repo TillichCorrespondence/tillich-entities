@@ -6345,5 +6345,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "709": {
+    "id": 709,
+    "order": "701.00000000000000000000",
+    "name": "Norwich Vermont",
+    "tillich_id": "tillich_place_id__709",
+    "geonames_url": "https://sws.geonames.org/5239319/",
+    "Working Notes": "Norwich (Vermont)",
+    "latitude": "43.71535",
+    "longitude": "-72.30787",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1510465"
   }
 }

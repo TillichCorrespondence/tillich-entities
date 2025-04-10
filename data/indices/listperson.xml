@@ -17891,8 +17891,9 @@
                </person>
                <person xml:id="tillich_person_id__3216">
                   <persName>Schoen, Ernst</persName>
-                  <occupation>Schriftsteller, Übersetzer, Komponist, Rundfunkjournalist</occupation>
+                  <occupation>Schriftsteller, Übersetzer, Komponist, Rundfunkjournalist,</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12229386X</idno>
+                  <note type="bio"><p>Wurde Freund von Walter Benjamin studierte in Bern und heiratete 1926 seine Frau Johanna geb. Liman.</p></note>
                </person>
                <person xml:id="tillich_person_id__3217">
                   <persName>Herr Bate, ???</persName>
@@ -17906,6 +17907,13 @@
                </person>
                <person xml:id="tillich_person_id__3220">
                   <persName>Sonntag, Frl. von</persName>
+               </person>
+               <person xml:id="tillich_person_id__3221">
+                  <persName>Frau Bernstein, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3222">
+                  <persName>Schoen, Johanna</persName>
+                  <note type="bio"><p>Die Geb. Liman nahm nach dem Tod von ihrem Ehemann Ernst Schoen wieder ihren Muttername Gräfin Rogendorf von Mollenburg auf.</p></note>
                </person>
             </listPerson>
          </div>

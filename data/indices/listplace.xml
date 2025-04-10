@@ -4278,7 +4278,15 @@
                   <idno type="geonames">https://sws.geonames.org/2660646/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q30343751</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__709">
+                  <placeName>Norwich Vermont</placeName>
+                  <location type="coords">
+                     <geo>43.71535 -72.30787</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5239319/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1510465</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>
