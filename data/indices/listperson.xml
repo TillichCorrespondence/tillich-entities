@@ -2388,6 +2388,8 @@
                </person>
                <person xml:id="tillich_person_id__457">
                   <persName>Dewey, John</persName>
+                  <occupation>Philosoph, Pädagoge, Psychologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118525069</idno>
                </person>
                <person xml:id="tillich_person_id__458">
                   <persName>Dibelius, Martin</persName>
@@ -17914,6 +17916,14 @@
                <person xml:id="tillich_person_id__3222">
                   <persName>Schoen, Johanna</persName>
                   <note type="bio"><p>Die Geb. Liman nahm nach dem Tod von ihrem Ehemann Ernst Schoen wieder ihren Muttername Gräfin Rogendorf von Mollenburg auf.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3223">
+                  <persName>Krieck, Ernst</persName>
+                  <occupation>NSDAP Mitglied; als "Erziehungswissenschaftler" angestellt.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3224">
+                  <persName>Dietrich, Otto</persName>
+                  <occupation>Pressechef der NSDAP</occupation>
                </person>
             </listPerson>
          </div>
