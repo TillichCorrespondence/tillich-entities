@@ -3131,6 +3131,7 @@
                <person xml:id="tillich_person_id__668">
                   <persName>George, Stefan</persName>
                   <occupation>Schriftsteller, Verleger</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11853856X</idno>
                </person>
                <person xml:id="tillich_person_id__669">
                   <persName>Georgi, Yvonne</persName>
@@ -9975,6 +9976,7 @@
                      <date>1914</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117335487</idno>
+                  <note type="bio"><p>Er ist der Sohn (auch Johannes genannt) von Johann Hinrich Wichern(1808-1881) und studierte Theologie in Halle.</p></note>
                </person>
                <person xml:id="tillich_person_id__2057">
                   <persName>Wieck, Fred</persName>
@@ -17924,6 +17926,14 @@
                <person xml:id="tillich_person_id__3224">
                   <persName>Dietrich, Otto</persName>
                   <occupation>Pressechef der NSDAP</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3225">
+                  <persName>Teubner</persName>
+               </person>
+               <person xml:id="tillich_person_id__3226">
+                  <persName>Wichern, Johann Hinrich</persName>
+                  <occupation>Missionar, Theologe, Pädagoge</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11863223X</idno>
                </person>
             </listPerson>
          </div>
