@@ -4286,6 +4286,14 @@
                   <idno type="geonames">https://sws.geonames.org/5239319/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1510465</idno>
                </place>
+               <place xml:id="tillich_place_id__710">
+                  <placeName>Japan</placeName>
+                  <location type="coords">
+                     <geo>35.68536 139.75309</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/1861060/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q17</idno>
+               </place>
             </listPlace>
          </div>
       </body>

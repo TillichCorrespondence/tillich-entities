@@ -13712,21 +13712,21 @@
                <person xml:id="tillich_person_id__2477">
                   <persName>Naumann, Hans</persName>
                   <birth>
-                     <date>1888-11-29</date>
+                     <date>1886-05-13</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__470">Wien</placeName>
+                        <placeName>Görlitz</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1960</date>
+                     <date>1951-09-25</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/124249701</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/119108291</idno>
                </person>
                <person xml:id="tillich_person_id__2478">
-                  <persName>Melissandros, ???</persName>
+                  <persName>Melissandros</persName>
                </person>
                <person xml:id="tillich_person_id__2479">
                   <persName>Lammers, Aloys</persName>
@@ -17934,6 +17934,10 @@
                   <persName>Wichern, Johann Hinrich</persName>
                   <occupation>Missionar, Theologe, Pädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11863223X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3227">
+                  <persName>Gottschow, Johannes</persName>
+                  <note type="bio"><p>Kind von Hannah und Albert Gottschow, das im Juni 1922 geboren wurde und kurz nach der Geburt starb.</p></note>
                </person>
             </listPerson>
          </div>

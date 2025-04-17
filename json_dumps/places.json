@@ -6077,7 +6077,7 @@
     "name": "Vereinigte Staaten von Amerika",
     "tillich_id": "tillich_place_id__684",
     "geonames_url": "https://www.geonames.org/6252001",
-    "Working Notes": "",
+    "Working Notes": "USA",
     "latitude": "39.76000",
     "longitude": "-98.50000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q30"
@@ -6356,5 +6356,16 @@
     "latitude": "43.71535",
     "longitude": "-72.30787",
     "wikidata_url": "http://www.wikidata.org/entity/Q1510465"
+  },
+  "710": {
+    "id": 710,
+    "order": "702.00000000000000000000",
+    "name": "Japan",
+    "tillich_id": "tillich_place_id__710",
+    "geonames_url": "https://sws.geonames.org/1861060/",
+    "Working Notes": "",
+    "latitude": "35.68536",
+    "longitude": "139.75309",
+    "wikidata_url": "http://www.wikidata.org/entity/Q17"
   }
 }
