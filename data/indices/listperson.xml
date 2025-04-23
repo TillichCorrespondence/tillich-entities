@@ -2275,6 +2275,7 @@
                </person>
                <person xml:id="tillich_person_id__425">
                   <persName>Dante Alighieri</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118523708</idno>
                </person>
                <person xml:id="tillich_person_id__426">
                   <persName>Danzig, David</persName>
@@ -2542,6 +2543,7 @@
                <person xml:id="tillich_person_id__505">
                   <persName>Ebbinghaus, Julius</persName>
                   <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116319437</idno>
                </person>
                <person xml:id="tillich_person_id__506">
                   <persName>Ebbinghaus, Hermann</persName>
@@ -3711,6 +3713,7 @@
                </person>
                <person xml:id="tillich_person_id__827">
                   <persName>Hauptmann, Gerhart</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118546937</idno>
                </person>
                <person xml:id="tillich_person_id__828">
                   <persName>Hausenstein, Wilhelm</persName>
@@ -16225,6 +16228,7 @@
                </person>
                <person xml:id="tillich_person_id__2817">
                   <persName>Tovote, Heinz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117421243</idno>
                </person>
                <person xml:id="tillich_person_id__2818">
                   <persName>Schillbach, ???</persName>
