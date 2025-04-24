@@ -4294,6 +4294,37 @@
                   <idno type="geonames">https://sws.geonames.org/1861060/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q17</idno>
                </place>
+               <place xml:id="tillich_place_id__711">
+                  <placeName>Vorpommern</placeName>
+                  <location type="coords">
+                     <geo>53.47447 14.09641</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12077123/</idno>
+               </place>
+               <place xml:id="tillich_place_id__712">
+                  <placeName>Stralsund</placeName>
+                  <location type="coords">
+                     <geo>54.30911 13.08180</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2826287/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4065</idno>
+               </place>
+               <place xml:id="tillich_place_id__713">
+                  <placeName>Møn</placeName>
+                  <location type="coords">
+                     <geo>55.00000 12.33333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2616780/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q666502</idno>
+               </place>
+               <place xml:id="tillich_place_id__714">
+                  <placeName>Neuguinea</placeName>
+                  <location type="coords">
+                     <geo>-5.00000 140.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2082514/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q40285</idno>
+               </place>
             </listPlace>
          </div>
       </body>

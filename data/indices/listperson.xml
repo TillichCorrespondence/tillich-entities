@@ -8563,7 +8563,7 @@
                </person>
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
-                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs.</p></note>
+                  <note type="bio"><p>Sie war die erste Frau Paul Tillichs (geb. Wever). Die Scheidung erfolgte im November 1921.</p></note>
                </person>
                <person xml:id="tillich_person_id__1932">
                   <persName>Tillich, Mary</persName>
@@ -12953,7 +12953,7 @@
                   <note type="bio"><p>Sie war die Mutter von Eckart von Sydow und eine geborene von Wedel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2405">
-                  <persName>Sydow, Helene Antonie Mathilde Kathinka von</persName>
+                  <persName>Sydow, Helene</persName>
                   <note type="bio"><p>Sie war die Schwester von Eckart von Sydow.</p></note>
                </person>
                <person xml:id="tillich_person_id__2406">
@@ -16838,7 +16838,7 @@
                </person>
                <person xml:id="tillich_person_id__2924">
                   <persName>Mannsfeld, Elisabeth</persName>
-                  <occupation>Wissenschaftlicher Zeichnerin</occupation>
+                  <occupation>Wissenschaftliche Zeichnerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/126266506</idno>
                </person>
                <person xml:id="tillich_person_id__2925">
@@ -17939,6 +17939,36 @@
                <person xml:id="tillich_person_id__3227">
                   <persName>Gottschow, Johannes</persName>
                   <note type="bio"><p>Kind von Hannah und Albert Gottschow, das im Juni 1922 geboren wurde und kurz nach der Geburt starb.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3228">
+                  <persName>Rühle, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3229">
+                  <persName>Sydow, Hans Kurt von</persName>
+                  <occupation>Vater Eckart von Sydows</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3230">
+                  <persName>Sydow-Wedel, Margarethe von</persName>
+                  <occupation>Tante (väterlicherseits) Eckarts von Sydow</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3231">
+                  <persName>Wedel, Felix von</persName>
+                  <occupation>Onkel (väterlicherseits angeheiratet) Eckarts von Sydow, Gatte der Margarethe von Sydow</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3232">
+                  <persName>Sydow, Elisabeth von</persName>
+                  <birth>
+                     <date>1861</date>
+                  </birth>
+                  <occupation>Tante (väterlicherseits) Eckarts von Sydow</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3233">
+                  <persName>Sydow, Annamaria von (verh. von der Osten)</persName>
+                  <occupation>Tante (väterlicherseits) Eckarts von Sydow</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3234">
+                  <persName>Osten, Oscar von der</persName>
+                  <occupation>Onkel (väterlicherseits angeheiratet) Eckarts von Sydow, Gatte der Annamaria von Sydow</occupation>
                </person>
             </listPerson>
          </div>

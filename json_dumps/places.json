@@ -6367,5 +6367,49 @@
     "latitude": "35.68536",
     "longitude": "139.75309",
     "wikidata_url": "http://www.wikidata.org/entity/Q17"
+  },
+  "711": {
+    "id": 711,
+    "order": "703.00000000000000000000",
+    "name": "Vorpommern",
+    "tillich_id": "tillich_place_id__711",
+    "geonames_url": "https://www.geonames.org/12077123/",
+    "Working Notes": "",
+    "latitude": "53.47447",
+    "longitude": "14.09641",
+    "wikidata_url": ""
+  },
+  "712": {
+    "id": 712,
+    "order": "704.00000000000000000000",
+    "name": "Stralsund",
+    "tillich_id": "tillich_place_id__712",
+    "geonames_url": "https://www.geonames.org/2826287/",
+    "Working Notes": "",
+    "latitude": "54.30911",
+    "longitude": "13.08180",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4065"
+  },
+  "713": {
+    "id": 713,
+    "order": "705.00000000000000000000",
+    "name": "Møn",
+    "tillich_id": "tillich_place_id__713",
+    "geonames_url": "https://www.geonames.org/2616780/",
+    "Working Notes": "",
+    "latitude": "55.00000",
+    "longitude": "12.33333",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q666502"
+  },
+  "714": {
+    "id": 714,
+    "order": "706.00000000000000000000",
+    "name": "Neuguinea",
+    "tillich_id": "tillich_place_id__714",
+    "geonames_url": "https://sws.geonames.org/2082514/",
+    "Working Notes": "New Guinea",
+    "latitude": "-5.00000",
+    "longitude": "140.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q40285"
   }
 }
