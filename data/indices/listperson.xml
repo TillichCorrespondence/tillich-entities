@@ -17970,6 +17970,12 @@
                   <persName>Osten, Oscar von der</persName>
                   <occupation>Onkel (väterlicherseits angeheiratet) Eckarts von Sydow, Gatte der Annamaria von Sydow</occupation>
                </person>
+               <person xml:id="tillich_person_id__3235">
+                  <persName>Goldberg, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3236">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>
