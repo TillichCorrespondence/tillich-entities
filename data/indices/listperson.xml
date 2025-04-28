@@ -3282,7 +3282,7 @@
                   <persName>Gorgias</persName>
                </person>
                <person xml:id="tillich_person_id__704">
-                  <persName>Gottschick,, Johannes F.</persName>
+                  <persName>Gottschick, Johannes F.</persName>
                </person>
                <person xml:id="tillich_person_id__705">
                   <persName>Gottschow, Albert</persName>
@@ -3329,6 +3329,7 @@
                <person xml:id="tillich_person_id__718">
                   <persName>Grimme, Adolf</persName>
                   <occupation>Deutscher Kulturpolitiker SPD in der Spätphase der Weimarer Republik und der frühen Bundesrepublik, erster niedersächsischer Kultusminister und Generaldirektor des Nordwestdeutschen Rundfunks (NWDR)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118697811</idno>
                </person>
                <person xml:id="tillich_person_id__719">
                   <persName>Grisebach, Eberhard</persName>
@@ -16198,7 +16199,7 @@
                </person>
                <person xml:id="tillich_person_id__2809">
                   <persName>Appelius, Hildegard</persName>
-                  <note type="bio"><p>Sie war eine geborene Erbslöb und die Frau von Carl Richard Wegener.</p></note>
+                  <note type="bio"><p>geb. Erbslöh und Frau von Carl Richard Wegener.</p></note>
                </person>
                <person xml:id="tillich_person_id__2810">
                   <persName>Dox</persName>
@@ -17685,9 +17686,7 @@
                   <note type="bio"><p>geborene Rothschild</p></note>
                </person>
                <person xml:id="tillich_person_id__3154">
-                  <persName>Schmitz, Elisabeth</persName>
-                  <occupation>Pädagogin, Mitglied der Bekennenden Kirche</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/133266451</idno>
+                  <persName>Hanau, Elisabeth</persName>
                </person>
                <person xml:id="tillich_person_id__3155">
                   <persName>Abetz, Otto</persName>
@@ -17938,7 +17937,7 @@
                </person>
                <person xml:id="tillich_person_id__3227">
                   <persName>Gottschow, Johannes</persName>
-                  <note type="bio"><p>Kind von Hannah und Albert Gottschow, das im Juni 1922 geboren wurde und kurz nach der Geburt starb.</p></note>
+                  <note type="bio"><p>Kind von Hannah und Albert Gottschow, das im Juni 1922 geboren wurde und kurz nach der Geburt an einer Hirnhautentzündung starb.</p></note>
                </person>
                <person xml:id="tillich_person_id__3228">
                   <persName>Rühle, ???</persName>
@@ -17974,7 +17973,22 @@
                   <persName>Goldberg, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3236">
-                  <persName/>
+                  <persName>Jäckh, Ernst</persName>
+                  <occupation>Journalist, Geschäftsführer des Deutschen Werkbundes, Publizist, und Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118711253</idno>
+               </person>
+               <person xml:id="tillich_person_id__3237">
+                  <persName>Heuss, Theodor</persName>
+                  <occupation>Journalist, Publizist, Politikwissenschaftler, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118550578</idno>
+               </person>
+               <person xml:id="tillich_person_id__3238">
+                  <persName>Zöchl, Fräulein</persName>
+               </person>
+               <person xml:id="tillich_person_id__3239">
+                  <persName>Erbslöh, Adolf</persName>
+                  <occupation>Künstler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118530712</idno>
                </person>
             </listPerson>
          </div>

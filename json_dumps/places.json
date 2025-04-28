@@ -6411,5 +6411,38 @@
     "latitude": "-5.00000",
     "longitude": "140.00000",
     "wikidata_url": "http://www.wikidata.org/entity/Q40285"
+  },
+  "715": {
+    "id": 715,
+    "order": "707.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__715",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "716": {
+    "id": 716,
+    "order": "708.00000000000000000000",
+    "name": "Dändorf",
+    "tillich_id": "tillich_place_id__716",
+    "geonames_url": "https://www.geonames.org/2939065/",
+    "Working Notes": "",
+    "latitude": "54.27319",
+    "longitude": "12.37249",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1269720"
+  },
+  "717": {
+    "id": 717,
+    "order": "709.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__717",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
