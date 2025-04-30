@@ -4333,7 +4333,27 @@
                   <idno type="geonames">https://sws.geonames.org/2939065/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1269720</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__718">
+                  <placeName>Havana, Cuba</placeName>
+                  <location type="coords">
+                     <geo>23.13302 -82.38304</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3553478/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1563</idno>
+               </place>
+               <place xml:id="tillich_place_id__719">
+                  <placeName>Key West, Florida</placeName>
+                  <location type="coords">
+                     <geo>42.44889 -90.68402</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4863424/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6398104</idno>
+               </place>
+               <place xml:id="tillich_place_id__720">
+                  <placeName>Miami, Florida</placeName>
+                  <idno type="geonames">https://sws.geonames.org/4164138/</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>

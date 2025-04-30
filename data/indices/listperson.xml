@@ -17990,6 +17990,12 @@
                   <occupation>Künstler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118530712</idno>
                </person>
+               <person xml:id="tillich_person_id__3240">
+                  <persName>???, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__3241">
+                  <persName>???, Peter</persName>
+               </person>
             </listPerson>
          </div>
       </body>

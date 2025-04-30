@@ -6444,5 +6444,38 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "718": {
+    "id": 718,
+    "order": "710.00000000000000000000",
+    "name": "Havana, Cuba",
+    "tillich_id": "tillich_place_id__718",
+    "geonames_url": "https://sws.geonames.org/3553478/",
+    "Working Notes": "",
+    "latitude": "23.13302",
+    "longitude": "-82.38304",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1563"
+  },
+  "719": {
+    "id": 719,
+    "order": "711.00000000000000000000",
+    "name": "Key West, Florida",
+    "tillich_id": "tillich_place_id__719",
+    "geonames_url": "https://sws.geonames.org/4863424/",
+    "Working Notes": "",
+    "latitude": "42.44889",
+    "longitude": "-90.68402",
+    "wikidata_url": "http://www.wikidata.org/entity/Q6398104"
+  },
+  "720": {
+    "id": 720,
+    "order": "712.00000000000000000000",
+    "name": "Miami, Florida",
+    "tillich_id": "tillich_place_id__720",
+    "geonames_url": "http://www.geonames.org/4164138/",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
