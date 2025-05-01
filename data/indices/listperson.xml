@@ -17996,6 +17996,11 @@
                <person xml:id="tillich_person_id__3241">
                   <persName>???, Peter</persName>
                </person>
+               <person xml:id="tillich_person_id__3242">
+                  <persName>Stuckart, Wilhelm</persName>
+                  <occupation>Jurist, Staatssekretär, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/128611189</idno>
+               </person>
             </listPerson>
          </div>
       </body>

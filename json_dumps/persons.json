@@ -57814,5 +57814,23 @@
     "working_note": "Erwähnt im Brieffragment von M. Kandeler an Tillich, L00042, Gatte von M. Kandeler?",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3242": {
+    "id": 3242,
+    "order": "3234.00000000000000000000",
+    "name": "Stuckart, Wilhelm",
+    "surname": "Stuckart",
+    "forename": "Wilhelm",
+    "from_to": "1902-1953",
+    "occupation": "Jurist, Staatssekretär, Politiker",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/128611189",
+    "tillich_id": "tillich_person_id__3242",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
