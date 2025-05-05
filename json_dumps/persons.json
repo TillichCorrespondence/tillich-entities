@@ -57832,5 +57832,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3243": {
+    "id": 3243,
+    "order": "3235.00000000000000000000",
+    "name": "Schulz, Herr",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3243",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3244": {
+    "id": 3244,
+    "order": "3236.00000000000000000000",
+    "name": "Fell",
+    "surname": "Hanna",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3244",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

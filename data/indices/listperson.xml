@@ -18001,6 +18001,12 @@
                   <occupation>Jurist, Staatssekretär, Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128611189</idno>
                </person>
+               <person xml:id="tillich_person_id__3243">
+                  <persName>Schulz, Herr</persName>
+               </person>
+               <person xml:id="tillich_person_id__3244">
+                  <persName>Fell</persName>
+               </person>
             </listPerson>
          </div>
       </body>
