@@ -6477,5 +6477,71 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "721": {
+    "id": 721,
+    "order": "713.00000000000000000000",
+    "name": "Ronco sopra Ascona",
+    "tillich_id": "tillich_place_id__721",
+    "geonames_url": "https://www.geonames.org/2658980/",
+    "Working Notes": "",
+    "latitude": "46.14624",
+    "longitude": "8.72793",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q68336"
+  },
+  "722": {
+    "id": 722,
+    "order": "714.00000000000000000000",
+    "name": "Tivoli",
+    "tillich_id": "tillich_place_id__722",
+    "geonames_url": "https://www.geonames.org/3165624/",
+    "Working Notes": "",
+    "latitude": "41.95952",
+    "longitude": "12.80160",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q159605"
+  },
+  "723": {
+    "id": 723,
+    "order": "715.00000000000000000000",
+    "name": "Ägypten",
+    "tillich_id": "tillich_place_id__723",
+    "geonames_url": "https://www.geonames.org/357994/",
+    "Working Notes": "",
+    "latitude": "27.00000",
+    "longitude": "30.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11336592"
+  },
+  "725": {
+    "id": 725,
+    "order": "717.00000000000000000000",
+    "name": "Syrien",
+    "tillich_id": "tillich_place_id__725",
+    "geonames_url": "https://www.geonames.org/163843",
+    "Working Notes": "",
+    "latitude": "35.00000",
+    "longitude": "38.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q858"
+  },
+  "726": {
+    "id": 726,
+    "order": "718.00000000000000000000",
+    "name": "Connecticut",
+    "tillich_id": "tillich_place_id__726",
+    "geonames_url": "https://sws.geonames.org/4831725/",
+    "Working Notes": "",
+    "latitude": "41.66704",
+    "longitude": "-72.66648",
+    "wikidata_url": "http://www.wikidata.org/entity/Q779"
+  },
+  "727": {
+    "id": 727,
+    "order": "719.00000000000000000000",
+    "name": "Maine, USA",
+    "tillich_id": "tillich_place_id__727",
+    "geonames_url": "https://sws.geonames.org/4971068/",
+    "Working Notes": "",
+    "latitude": "45.50032",
+    "longitude": "-69.24977",
+    "wikidata_url": "http://www.wikidata.org/entity/Q724"
   }
 }

@@ -18007,6 +18007,37 @@
                <person xml:id="tillich_person_id__3244">
                   <persName>Fell</persName>
                </person>
+               <person xml:id="tillich_person_id__3245">
+                  <persName>Stietencron</persName>
+                  <note type="bio"><p>Sohn von Fides Stietencron (geb. Goesch) und Georg Eduard Stietencron</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3246">
+                  <persName>Stietencron</persName>
+                  <note type="bio"><p>Sohn von Fides Stietencron (geb. Goesch) und Georg Eduard Stietencron</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3247">
+                  <persName>Netter, Ida</persName>
+                  <note type="bio"><p>Frau von Emil Wolfgang Netter, verwit. Koch, geb. Kahn</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3248">
+                  <persName>Mayer, Margarete</persName>
+                  <note type="bio"><p>Tochter von Ida Netter und Otto Hermann Koch (geb. Koch)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3249">
+                  <persName>Stietencron</persName>
+                  <note type="bio"><p>Tochter von Fides Stietencron (geb. Goesch) und Georg Eduard Stietencron</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3250">
+                  <persName>Jacobi, Eugen</persName>
+                  <occupation>Metallindustrieller, Unternehmer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/138716390</idno>
+               </person>
+               <person xml:id="tillich_person_id__3251">
+                  <persName>Krüger, Frau</persName>
+               </person>
+               <person xml:id="tillich_person_id__3252">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>

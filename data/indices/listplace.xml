@@ -4353,6 +4353,54 @@
                   <placeName>Miami, Florida</placeName>
                   <idno type="geonames">https://sws.geonames.org/4164138/</idno>
                </place>
+               <place xml:id="tillich_place_id__721">
+                  <placeName>Ronco sopra Ascona</placeName>
+                  <location type="coords">
+                     <geo>46.14624 8.72793</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2658980/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q68336</idno>
+               </place>
+               <place xml:id="tillich_place_id__722">
+                  <placeName>Tivoli</placeName>
+                  <location type="coords">
+                     <geo>41.95952 12.80160</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3165624/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q159605</idno>
+               </place>
+               <place xml:id="tillich_place_id__723">
+                  <placeName>Ägypten</placeName>
+                  <location type="coords">
+                     <geo>27.00000 30.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/357994/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q11336592</idno>
+               </place>
+               <place xml:id="tillich_place_id__725">
+                  <placeName>Syrien</placeName>
+                  <location type="coords">
+                     <geo>35.00000 38.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/163843/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q858</idno>
+               </place>
+               <place xml:id="tillich_place_id__726">
+                  <placeName>Connecticut</placeName>
+                  <location type="coords">
+                     <geo>41.66704 -72.66648</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4831725/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q779</idno>
+               </place>
+               <place xml:id="tillich_place_id__727">
+                  <placeName>Maine, USA</placeName>
+                  <location type="coords">
+                     <geo>45.50032 -69.24977</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4971068/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q724</idno>
+               </place>
             </listPlace>
          </div>
       </body>
