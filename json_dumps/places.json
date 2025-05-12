@@ -6543,5 +6543,60 @@
     "latitude": "45.50032",
     "longitude": "-69.24977",
     "wikidata_url": "http://www.wikidata.org/entity/Q724"
+  },
+  "728": {
+    "id": 728,
+    "order": "720.00000000000000000000",
+    "name": "Sizilien",
+    "tillich_id": "tillich_place_id__728",
+    "geonames_url": "https://www.geonames.org/2523118",
+    "Working Notes": "",
+    "latitude": "37.62304",
+    "longitude": "13.93457",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1460"
+  },
+  "729": {
+    "id": 729,
+    "order": "721.00000000000000000000",
+    "name": "Martha's Vineyard Island",
+    "tillich_id": "tillich_place_id__729",
+    "geonames_url": "https://www.geonames.org/4943231/",
+    "Working Notes": "",
+    "latitude": "41.41678",
+    "longitude": "-70.61614",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49148"
+  },
+  "730": {
+    "id": 730,
+    "order": "722.00000000000000000000",
+    "name": "Vermont",
+    "tillich_id": "tillich_place_id__730",
+    "geonames_url": "https://sws.geonames.org/5242283/",
+    "Working Notes": "",
+    "latitude": "44.00034",
+    "longitude": "-72.74983",
+    "wikidata_url": "http://www.wikidata.org/entity/Q16551"
+  },
+  "731": {
+    "id": 731,
+    "order": "723.00000000000000000000",
+    "name": "Ann Arbor",
+    "tillich_id": "tillich_place_id__731",
+    "geonames_url": "https://sws.geonames.org/4984247/",
+    "Working Notes": "",
+    "latitude": "42.27756",
+    "longitude": "-83.74088",
+    "wikidata_url": "http://www.wikidata.org/entity/Q485172"
+  },
+  "732": {
+    "id": 732,
+    "order": "724.00000000000000000000",
+    "name": "Benoit",
+    "tillich_id": "tillich_place_id__732",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

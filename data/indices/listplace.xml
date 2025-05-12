@@ -4401,6 +4401,41 @@
                   <idno type="geonames">https://sws.geonames.org/4971068/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q724</idno>
                </place>
+               <place xml:id="tillich_place_id__728">
+                  <placeName>Sizilien</placeName>
+                  <location type="coords">
+                     <geo>37.62304 13.93457</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2523118/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1460</idno>
+               </place>
+               <place xml:id="tillich_place_id__729">
+                  <placeName>Martha's Vineyard Island</placeName>
+                  <location type="coords">
+                     <geo>41.41678 -70.61614</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4943231/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49148</idno>
+               </place>
+               <place xml:id="tillich_place_id__730">
+                  <placeName>Vermont</placeName>
+                  <location type="coords">
+                     <geo>44.00034 -72.74983</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5242283/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q16551</idno>
+               </place>
+               <place xml:id="tillich_place_id__731">
+                  <placeName>Ann Arbor</placeName>
+                  <location type="coords">
+                     <geo>42.27756 -83.74088</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4984247/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q485172</idno>
+               </place>
+               <place xml:id="tillich_place_id__732">
+                  <placeName>Benoit</placeName>
+               </place>
             </listPlace>
          </div>
       </body>
