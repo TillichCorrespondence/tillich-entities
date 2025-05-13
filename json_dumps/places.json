@@ -6598,5 +6598,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "733": {
+    "id": 733,
+    "order": "725.00000000000000000000",
+    "name": "Herrenwyk bei Lübeck",
+    "tillich_id": "tillich_place_id__733",
+    "geonames_url": "https://www.geonames.org/2905725/",
+    "Working Notes": "",
+    "latitude": "53.89955",
+    "longitude": "10.79345",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1614166"
   }
 }

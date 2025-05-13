@@ -4436,6 +4436,14 @@
                <place xml:id="tillich_place_id__732">
                   <placeName>Benoit</placeName>
                </place>
+               <place xml:id="tillich_place_id__733">
+                  <placeName>Herrenwyk bei Lübeck</placeName>
+                  <location type="coords">
+                     <geo>53.89955 10.79345</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2905725/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1614166</idno>
+               </place>
             </listPlace>
          </div>
       </body>
