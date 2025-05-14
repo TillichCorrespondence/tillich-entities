@@ -5944,11 +5944,11 @@
     "order": "664.00000000000000000000",
     "name": "Bernau",
     "tillich_id": "tillich_place_id__671",
-    "geonames_url": "",
-    "Working Notes": "Kann das Berneuchen sein? Von Tillich an Hannah vermutlich 1925 über seinen Vater der vom Krankenhaus ins Krankenhaus von Freistatt überwiesen werden soll; es gibt einige Bernau könnte auch Bernov sein... https://www.geonames.org/3079469/",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
+    "geonames_url": "https://sws.geonames.org/2950096/",
+    "Working Notes": "",
+    "latitude": "52.67982",
+    "longitude": "13.58708",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31910953"
   },
   "672": {
     "id": 672,
@@ -6609,5 +6609,82 @@
     "latitude": "53.89955",
     "longitude": "10.79345",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1614166"
+  },
+  "734": {
+    "id": 734,
+    "order": "726.00000000000000000000",
+    "name": "St. Louis",
+    "tillich_id": "tillich_place_id__734",
+    "geonames_url": "https://sws.geonames.org/4407066/",
+    "Working Notes": "",
+    "latitude": "38.62727",
+    "longitude": "-90.19789",
+    "wikidata_url": "http://www.wikidata.org/entity/Q38022"
+  },
+  "735": {
+    "id": 735,
+    "order": "727.00000000000000000000",
+    "name": "Nervi",
+    "tillich_id": "tillich_place_id__735",
+    "geonames_url": "https://www.geonames.org/3172300/",
+    "Working Notes": "",
+    "latitude": "44.38333",
+    "longitude": "9.03333",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q963477"
+  },
+  "736": {
+    "id": 736,
+    "order": "728.00000000000000000000",
+    "name": "Europa",
+    "tillich_id": "tillich_place_id__736",
+    "geonames_url": "https://www.geonames.org/6255148/",
+    "Working Notes": "",
+    "latitude": "48.69096",
+    "longitude": "9.14062",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q46"
+  },
+  "737": {
+    "id": 737,
+    "order": "729.00000000000000000000",
+    "name": "Brannenburg",
+    "tillich_id": "tillich_place_id__737",
+    "geonames_url": "https://www.geonames.org/2945164",
+    "Working Notes": "",
+    "latitude": "47.74099",
+    "longitude": "12.10693",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q533000"
+  },
+  "738": {
+    "id": 738,
+    "order": "730.00000000000000000000",
+    "name": "China",
+    "tillich_id": "tillich_place_id__738",
+    "geonames_url": "https://sws.geonames.org/1814991/",
+    "Working Notes": "",
+    "latitude": "35.00000",
+    "longitude": "105.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q148"
+  },
+  "739": {
+    "id": 739,
+    "order": "731.00000000000000000000",
+    "name": "Hartford, Connecticut",
+    "tillich_id": "tillich_place_id__739",
+    "geonames_url": "https://sws.geonames.org/4835797/",
+    "Working Notes": "",
+    "latitude": "41.76371",
+    "longitude": "-72.68509",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33486"
+  },
+  "740": {
+    "id": 740,
+    "order": "732.00000000000000000000",
+    "name": "Storkow",
+    "tillich_id": "tillich_place_id__740",
+    "geonames_url": "https://www.geonames.org/2826403",
+    "Working Notes": "",
+    "latitude": "52.25662",
+    "longitude": "13.93337",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q586991"
   }
 }

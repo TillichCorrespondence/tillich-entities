@@ -17352,7 +17352,7 @@
                   <occupation>Dr.</occupation>
                </person>
                <person xml:id="tillich_person_id__3055">
-                  <persName>Mimi</persName>
+                  <persName>Schönemann, Mimi</persName>
                </person>
                <person xml:id="tillich_person_id__3056">
                   <persName>John, Peter H.</persName>
@@ -18037,6 +18037,38 @@
                </person>
                <person xml:id="tillich_person_id__3252">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3253">
+                  <persName>Vess</persName>
+               </person>
+               <person xml:id="tillich_person_id__3254">
+                  <persName>Rotary</persName>
+               </person>
+               <person xml:id="tillich_person_id__3255">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3256">
+                  <persName>Saeb, Frau</persName>
+               </person>
+               <person xml:id="tillich_person_id__3257">
+                  <persName>Schwarzbeck, Studienrat</persName>
+                  <occupation>Lehrer für Deutsch</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3258">
+                  <persName>Giffert, Mac</persName>
+               </person>
+               <person xml:id="tillich_person_id__3259">
+                  <persName>Zitzke, Studienrat</persName>
+                  <death>
+                     <date>vor dem 02.01.1934</date>
+                  </death>
+                  <occupation>Lehrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3260">
+                  <persName>???, Ilse</persName>
+               </person>
+               <person xml:id="tillich_person_id__3261">
+                  <persName>Buchholtz, Pfarrer</persName>
                </person>
             </listPerson>
          </div>

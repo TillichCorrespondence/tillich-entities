@@ -4031,6 +4031,11 @@
                </place>
                <place xml:id="tillich_place_id__671">
                   <placeName>Bernau</placeName>
+                  <location type="coords">
+                     <geo>52.67982 13.58708</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2950096/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31910953</idno>
                </place>
                <place xml:id="tillich_place_id__672">
                   <placeName>Athens</placeName>
@@ -4443,6 +4448,62 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2905725/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1614166</idno>
+               </place>
+               <place xml:id="tillich_place_id__734">
+                  <placeName>St. Louis</placeName>
+                  <location type="coords">
+                     <geo>38.62727 -90.19789</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4407066/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q38022</idno>
+               </place>
+               <place xml:id="tillich_place_id__735">
+                  <placeName>Nervi</placeName>
+                  <location type="coords">
+                     <geo>44.38333 9.03333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3172300/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q963477</idno>
+               </place>
+               <place xml:id="tillich_place_id__736">
+                  <placeName>Europa</placeName>
+                  <location type="coords">
+                     <geo>48.69096 9.14062</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6255148/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q46</idno>
+               </place>
+               <place xml:id="tillich_place_id__737">
+                  <placeName>Brannenburg</placeName>
+                  <location type="coords">
+                     <geo>47.74099 12.10693</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2945164/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q533000</idno>
+               </place>
+               <place xml:id="tillich_place_id__738">
+                  <placeName>China</placeName>
+                  <location type="coords">
+                     <geo>35.00000 105.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/1814991/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148</idno>
+               </place>
+               <place xml:id="tillich_place_id__739">
+                  <placeName>Hartford, Connecticut</placeName>
+                  <location type="coords">
+                     <geo>41.76371 -72.68509</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4835797/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33486</idno>
+               </place>
+               <place xml:id="tillich_place_id__740">
+                  <placeName>Storkow</placeName>
+                  <location type="coords">
+                     <geo>52.25662 13.93337</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2826403/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q586991</idno>
                </place>
             </listPlace>
          </div>
