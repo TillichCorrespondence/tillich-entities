@@ -4002,7 +4002,7 @@
                   <death>
                      <date>1972-07-17</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__186">Göttingen</placeName>
+                        <placeName key="#tillich_place_id__743">Göttingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Systematischer Theologe</occupation>
@@ -7537,7 +7537,7 @@
                   <death>
                      <date>1826-07-05</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__186">Göttingen</placeName>
+                        <placeName key="#tillich_place_id__743">Göttingen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/100276318</idno>
@@ -8867,7 +8867,7 @@
                   <death>
                      <date>1911-07-07</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__186">Göttingen</placeName>
+                        <placeName key="#tillich_place_id__743">Göttingen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117431192</idno>
@@ -14519,7 +14519,7 @@
                   <death>
                      <date>1965-06-10</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__186">Göttingen</placeName>
+                        <placeName key="#tillich_place_id__743">Göttingen</placeName>
                      </settlement>
                   </death>
                   <occupation>Philosoph;</occupation>
@@ -18069,6 +18069,59 @@
                </person>
                <person xml:id="tillich_person_id__3261">
                   <persName>Buchholtz, Pfarrer</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3262">
+                  <persName>Göring, Hermann</persName>
+                  <birth>
+                     <date>1893.01.12</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__511">Rosenheim</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1946.10.15</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__327">Nürnberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker, Offizier, Jagdflieger, Nationalsozialist, Hauptmann, Abgeordneter, Minister</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118540157</idno>
+                  <note type="bio"><p>deutscher nationalsozialistischer Politiker und Kriegsverbrecher</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3263">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3264">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3265">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3266">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3267">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3268">
+                  <persName>Murrow, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3269">
+                  <persName>Schneider, Herbert</persName>
+                  <birth>
+                     <date>1892-03-16</date>
+                  </birth>
+                  <death>
+                     <date>1984-10-15</date>
+                  </death>
+                  <occupation>Philosoph, Religionswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/104183616</idno>
+               </person>
+               <person xml:id="tillich_person_id__3270">
+                  <persName>Case, Shirley Jackson</persName>
+                  <occupation>Theologe, Kirchenhistoriker, Dekan der Divinity School der Universität Chicago</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1055380620</idno>
                </person>
             </listPerson>
          </div>

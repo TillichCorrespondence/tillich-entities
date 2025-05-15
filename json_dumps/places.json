@@ -5977,11 +5977,11 @@
     "order": "667.00000000000000000000",
     "name": "Wilhelmshöhe",
     "tillich_id": "tillich_place_id__674",
-    "geonames_url": "",
+    "geonames_url": "https://sws.geonames.org/3207202/",
     "Working Notes": "https://sws.geonames.org/3207202 -> Unklar welche hier gemeint ist, Paul wünscht Hannah gutes Wetter, vermutlich ist sie dann dort hingefahren also als Urlaubsziel würde sich Bergpark Wilhelmshöhe anbieten, der in Kassel liegt.",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
+    "latitude": "51.31667",
+    "longitude": "9.41667",
+    "wikidata_url": "http://www.wikidata.org/entity/Q687186"
   },
   "675": {
     "id": 675,
@@ -6686,5 +6686,38 @@
     "latitude": "52.25662",
     "longitude": "13.93337",
     "wikidata_url": "https://www.wikidata.org/wiki/Q586991"
+  },
+  "741": {
+    "id": 741,
+    "order": "733.00000000000000000000",
+    "name": "Sankt Margarethen",
+    "tillich_id": "tillich_place_id__741",
+    "geonames_url": "https://www.geonames.org/2841524",
+    "Working Notes": "",
+    "latitude": "47.72579",
+    "longitude": "12.09610",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1226031"
+  },
+  "742": {
+    "id": 742,
+    "order": "734.00000000000000000000",
+    "name": "Oberbayern",
+    "tillich_id": "tillich_place_id__742",
+    "geonames_url": "https://www.geonames.org/2861322",
+    "Working Notes": "",
+    "latitude": "48.00000",
+    "longitude": "11.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q10562"
+  },
+  "743": {
+    "id": 743,
+    "order": "735.00000000000000000000",
+    "name": "Göttingen",
+    "tillich_id": "tillich_place_id__743",
+    "geonames_url": "https://www.geonames.org/2918634",
+    "Working Notes": "",
+    "latitude": "48.47332",
+    "longitude": "10.08047",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2709421"
   }
 }

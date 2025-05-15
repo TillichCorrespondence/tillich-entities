@@ -4049,6 +4049,11 @@
                </place>
                <place xml:id="tillich_place_id__674">
                   <placeName>Wilhelmshöhe</placeName>
+                  <location type="coords">
+                     <geo>51.31667 9.41667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3207202/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q687186</idno>
                </place>
                <place xml:id="tillich_place_id__675">
                   <placeName>Rotenburg</placeName>
@@ -4504,6 +4509,30 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2826403/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q586991</idno>
+               </place>
+               <place xml:id="tillich_place_id__741">
+                  <placeName>Sankt Margarethen</placeName>
+                  <location type="coords">
+                     <geo>47.72579 12.09610</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2841524/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1226031</idno>
+               </place>
+               <place xml:id="tillich_place_id__742">
+                  <placeName>Oberbayern</placeName>
+                  <location type="coords">
+                     <geo>48.00000 11.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2861322/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q10562</idno>
+               </place>
+               <place xml:id="tillich_place_id__743">
+                  <placeName>Göttingen</placeName>
+                  <location type="coords">
+                     <geo>48.47332 10.08047</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2918634/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2709421</idno>
                </place>
             </listPlace>
          </div>
