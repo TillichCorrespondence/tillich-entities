@@ -18123,6 +18123,22 @@
                   <occupation>Theologe, Kirchenhistoriker, Dekan der Divinity School der Universität Chicago</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1055380620</idno>
                </person>
+               <person xml:id="tillich_person_id__3271">
+                  <persName>Paulus, Dr.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3272">
+                  <persName>Pratt, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3273">
+                  <persName>Colm, Hanna</persName>
+                  <occupation>Psychologin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3274">
+                  <persName>Bewer, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3275">
+                  <persName>Loeb, ???</persName>
+               </person>
             </listPerson>
          </div>
       </body>

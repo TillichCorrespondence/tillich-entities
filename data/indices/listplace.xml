@@ -4534,6 +4534,61 @@
                   <idno type="geonames">https://sws.geonames.org/2918634/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2709421</idno>
                </place>
+               <place xml:id="tillich_place_id__744">
+                  <placeName>Langenau</placeName>
+                  <location type="coords">
+                     <geo>48.49616 10.11849</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2881259/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q559520</idno>
+               </place>
+               <place xml:id="tillich_place_id__745">
+                  <placeName>Theodor-Heuss-Platz</placeName>
+                  <location type="coords">
+                     <geo>52.50940 13.27280</geo>
+                  </location>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q565056</idno>
+               </place>
+               <place xml:id="tillich_place_id__746">
+                  <placeName>Pommern</placeName>
+                  <location type="coords">
+                     <geo>53.66667 15.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3088388/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q104520</idno>
+               </place>
+               <place xml:id="tillich_place_id__747">
+                  <placeName>Philadelphia (PA)</placeName>
+                  <location type="coords">
+                     <geo>39.95238 -75.16362</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4560349/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1345</idno>
+               </place>
+               <place xml:id="tillich_place_id__748">
+                  <placeName>Philadelphia (NY)</placeName>
+                  <location type="coords">
+                     <geo>44.15450 -75.70882</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5131095/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5406013</idno>
+               </place>
+               <place xml:id="tillich_place_id__749">
+                  <placeName>Clayton (NY)</placeName>
+                  <location type="coords">
+                     <geo>44.23949 -76.08578</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5112870/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3460910</idno>
+               </place>
+               <place xml:id="tillich_place_id__750">
+                  <placeName>Thousand Islands</placeName>
+                  <location type="coords">
+                     <geo>44.33338 -75.99968</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5140907/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1050549</idno>
+               </place>
             </listPlace>
          </div>
       </body>

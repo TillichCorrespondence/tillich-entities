@@ -6719,5 +6719,82 @@
     "latitude": "48.47332",
     "longitude": "10.08047",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2709421"
+  },
+  "744": {
+    "id": 744,
+    "order": "736.00000000000000000000",
+    "name": "Langenau",
+    "tillich_id": "tillich_place_id__744",
+    "geonames_url": "https://www.geonames.org/2881259/",
+    "Working Notes": "",
+    "latitude": "48.49616",
+    "longitude": "10.11849",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q559520"
+  },
+  "745": {
+    "id": 745,
+    "order": "737.00000000000000000000",
+    "name": "Theodor-Heuss-Platz",
+    "tillich_id": "tillich_place_id__745",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": "52.50940",
+    "longitude": "13.27280",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q565056"
+  },
+  "746": {
+    "id": 746,
+    "order": "738.00000000000000000000",
+    "name": "Pommern",
+    "tillich_id": "tillich_place_id__746",
+    "geonames_url": "https://www.geonames.org/3088388",
+    "Working Notes": "",
+    "latitude": "53.66667",
+    "longitude": "15.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104520"
+  },
+  "747": {
+    "id": 747,
+    "order": "739.00000000000000000000",
+    "name": "Philadelphia (PA)",
+    "tillich_id": "tillich_place_id__747",
+    "geonames_url": "https://www.geonames.org/4560349/",
+    "Working Notes": "",
+    "latitude": "39.95238",
+    "longitude": "-75.16362",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1345"
+  },
+  "748": {
+    "id": 748,
+    "order": "740.00000000000000000000",
+    "name": "Philadelphia (NY)",
+    "tillich_id": "tillich_place_id__748",
+    "geonames_url": "https://www.geonames.org/5131095/",
+    "Working Notes": "",
+    "latitude": "44.15450",
+    "longitude": "-75.70882",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5406013"
+  },
+  "749": {
+    "id": 749,
+    "order": "741.00000000000000000000",
+    "name": "Clayton (NY)",
+    "tillich_id": "tillich_place_id__749",
+    "geonames_url": "https://www.geonames.org/5112870/",
+    "Working Notes": "",
+    "latitude": "44.23949",
+    "longitude": "-76.08578",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3460910"
+  },
+  "750": {
+    "id": 750,
+    "order": "742.00000000000000000000",
+    "name": "Thousand Islands",
+    "tillich_id": "tillich_place_id__750",
+    "geonames_url": "https://www.geonames.org/5140907/",
+    "Working Notes": "Urlaubsort der Tillichs Juni–Juli 1934",
+    "latitude": "44.33338",
+    "longitude": "-75.99968",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1050549"
   }
 }
