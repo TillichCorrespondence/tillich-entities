@@ -4075,6 +4075,7 @@
                </person>
                <person xml:id="tillich_person_id__924">
                   <persName>Holldack, Felix</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11752865X</idno>
                </person>
                <person xml:id="tillich_person_id__925">
                   <persName>Holtzmann, Heinrich Julius</persName>
@@ -16606,7 +16607,9 @@
                   <persName>Schubert, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2883">
-                  <persName>???, Aée</persName>
+                  <persName>Aé, Karl</persName>
+                  <occupation>Pfarrer, Publizist, Superintendent (Dresden-Land)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/120276585</idno>
                </person>
                <person xml:id="tillich_person_id__2884">
                   <persName>???, Käthe</persName>
@@ -17541,13 +17544,11 @@
                   <persName>Heymann, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__3115">
-                  <persName>Stietenkron</persName>
+                  <persName>Stietencron, Georg Eduard von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/126451079</idno>
                </person>
                <person xml:id="tillich_person_id__3116">
                   <persName>Frau Menkel</persName>
-               </person>
-               <person xml:id="tillich_person_id__3117">
-                  <persName>Holldank</persName>
                </person>
                <person xml:id="tillich_person_id__3118">
                   <persName>Frau Wiechert</persName>
@@ -18138,6 +18139,15 @@
                </person>
                <person xml:id="tillich_person_id__3275">
                   <persName>Loeb, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3276">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3277">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3278">
+                  <persName>Klepper, ???</persName>
                </person>
             </listPerson>
          </div>
