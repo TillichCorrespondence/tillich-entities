@@ -4589,6 +4589,22 @@
                   <idno type="geonames">https://sws.geonames.org/5140907/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1050549</idno>
                </place>
+               <place xml:id="tillich_place_id__751">
+                  <placeName>Istanbul</placeName>
+                  <location type="coords">
+                     <geo>41.01384 28.94966</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/745044/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q406</idno>
+               </place>
+               <place xml:id="tillich_place_id__752">
+                  <placeName>Colorado, USA</placeName>
+                  <location type="coords">
+                     <geo>29.98578 -97.13415</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4682620/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5148681</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -6796,5 +6796,27 @@
     "latitude": "44.33338",
     "longitude": "-75.99968",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1050549"
+  },
+  "751": {
+    "id": 751,
+    "order": "743.00000000000000000000",
+    "name": "Istanbul",
+    "tillich_id": "tillich_place_id__751",
+    "geonames_url": "https://sws.geonames.org/745044/",
+    "Working Notes": "Konstantinopel",
+    "latitude": "41.01384",
+    "longitude": "28.94966",
+    "wikidata_url": "http://www.wikidata.org/entity/Q406"
+  },
+  "752": {
+    "id": 752,
+    "order": "744.00000000000000000000",
+    "name": "Colorado, USA",
+    "tillich_id": "tillich_place_id__752",
+    "geonames_url": "https://sws.geonames.org/4682620/",
+    "Working Notes": "",
+    "latitude": "29.98578",
+    "longitude": "-97.13415",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5148681"
   }
 }
