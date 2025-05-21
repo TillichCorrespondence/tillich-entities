@@ -3016,9 +3016,6 @@
                   <persName>Friess, Horace</persName>
                   <occupation>Philosoph, Columbia University New York</occupation>
                </person>
-               <person xml:id="tillich_person_id__639">
-                  <persName>Friess, Horace</persName>
-               </person>
                <person xml:id="tillich_person_id__640">
                   <persName>Frischeisen-Köhler, Max</persName>
                </person>
@@ -18161,6 +18158,21 @@
                </person>
                <person xml:id="tillich_person_id__3282">
                   <persName>Häfner</persName>
+               </person>
+               <person xml:id="tillich_person_id__3283">
+                  <persName>Ulich-Bei, Else</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/12864799X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3284">
+                  <persName>Bolman, Frederick de Wolfe Jr.</persName>
+                  <birth>
+                     <date>1912-06-30</date>
+                  </birth>
+                  <occupation>Theologe, Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1089599463</idno>
+               </person>
+               <person xml:id="tillich_person_id__3285">
+                  <persName>Karolus</persName>
                </person>
             </listPerson>
          </div>
