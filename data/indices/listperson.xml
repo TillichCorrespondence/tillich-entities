@@ -18137,12 +18137,6 @@
                <person xml:id="tillich_person_id__3275">
                   <persName>Loeb, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__3276">
-                  <persName/>
-               </person>
-               <person xml:id="tillich_person_id__3277">
-                  <persName/>
-               </person>
                <person xml:id="tillich_person_id__3278">
                   <persName>Klepper, ???</persName>
                </person>
@@ -18171,8 +18165,111 @@
                   <occupation>Theologe, Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1089599463</idno>
                </person>
-               <person xml:id="tillich_person_id__3285">
-                  <persName>Karolus</persName>
+               <person xml:id="tillich_person_id__3286">
+                  <persName>Rice, Otis R.</persName>
+                  <occupation>Universitätskaplan, Krankenhausseelsorger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3287">
+                  <persName>Radó, Sándor</persName>
+                  <occupation>Psychoanalytiker, Psychater</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119352311</idno>
+               </person>
+               <person xml:id="tillich_person_id__3288">
+                  <persName>Riezler, Edith</persName>
+                  <occupation>Gesangslehrerin, Mezzo-Sopranistin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3289">
+                  <persName>Palgi, Prof.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3290">
+                  <persName>Jacobsohn, Edith</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117047295</idno>
+               </person>
+               <person xml:id="tillich_person_id__3291">
+                  <persName>Jacobsohn, Siegfried</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118556371</idno>
+               </person>
+               <person xml:id="tillich_person_id__3292">
+                  <persName>Kühn, Johannes</persName>
+                  <occupation>Historiker, 1928-1945 Professor für Geschichte an der TH Dresden</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116588187</idno>
+               </person>
+               <person xml:id="tillich_person_id__3293">
+                  <persName>Valentiner, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3294">
+                  <persName>Delekat, Friedrich</persName>
+                  <occupation>Evangelischer Theologe, Professor für Religionswissenschaft</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118671340</idno>
+               </person>
+               <person xml:id="tillich_person_id__3295">
+                  <persName>Finkelstein, Maurice</persName>
+               </person>
+               <person xml:id="tillich_person_id__3296">
+                  <persName>Boesler, Felix</persName>
+                  <occupation>Wirtschaftswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/12894630X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3297">
+                  <persName>Gehrig, Hans</persName>
+                  <occupation>Volkswirt, Wirtschaftswissenschaftler, Professor für Nationalökonomie und Statistik</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116493968</idno>
+               </person>
+               <person xml:id="tillich_person_id__3298">
+                  <persName>Luchtenberg, Paul</persName>
+                  <occupation>Professor für Philosophie, Pädagogik und Psychologie; später Kultusminister von NRW</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118729330</idno>
+               </person>
+               <person xml:id="tillich_person_id__3299">
+                  <persName>Beste, Theodor</persName>
+                  <occupation>Professor für Privatwirtschaftslehre</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118662600</idno>
+               </person>
+               <person xml:id="tillich_person_id__3300">
+                  <persName>Stenzel, Julius</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118798685</idno>
+               </person>
+               <person xml:id="tillich_person_id__3301">
+                  <persName>Stenzel, Bertha</persName>
+                  <occupation>Philosophin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/101684304</idno>
+               </person>
+               <person xml:id="tillich_person_id__3302">
+                  <persName>Seligson, Gerda M.</persName>
+                  <occupation>Klassische Philologin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127303405</idno>
+               </person>
+               <person xml:id="tillich_person_id__3303">
+                  <persName>Frankl, Elsa</persName>
+                  <occupation>Künstlerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3304">
+                  <persName>Dobrowen, Issay</persName>
+                  <occupation>Dirigent, Komponist, Pianist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/103815651</idno>
+               </person>
+               <person xml:id="tillich_person_id__3305">
+                  <persName>Dobrowen, Maria</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/123715296</idno>
+               </person>
+               <person xml:id="tillich_person_id__3306">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3307">
+                  <persName>Belyi, Andrej</persName>
+                  <occupation>Dichter, Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118508806</idno>
+               </person>
+               <person xml:id="tillich_person_id__3308">
+                  <persName>Rosen, Eric von</persName>
+                  <occupation>Ethnologe, Graf</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123942039</idno>
+               </person>
+               <person xml:id="tillich_person_id__3309">
+                  <persName>Aaron, Paul</persName>
+                  <occupation>Musiker; Cembalist; Pianist; Komponist; Regisseur; Dirigent; Lehrer; Übersetzer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123819652</idno>
                </person>
             </listPerson>
          </div>

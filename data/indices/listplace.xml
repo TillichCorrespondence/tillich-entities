@@ -4605,7 +4605,51 @@
                   <idno type="geonames">https://sws.geonames.org/4682620/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q5148681</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__754">
+                  <placeName>Detroit, USA</placeName>
+                  <location type="coords">
+                     <geo>42.33143 -83.04575</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4990729/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q12439</idno>
+               </place>
+               <place xml:id="tillich_place_id__755">
+                  <placeName>Michigan, USA</placeName>
+                  <idno type="geonames">https://sws.geonames.org/5001836/</idno>
+               </place>
+               <place xml:id="tillich_place_id__756">
+                  <placeName>Blankenstein (Rosenthal am Rennsteig)</placeName>
+                  <location type="coords">
+                     <geo>50.40212 11.69892</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6550429/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q59775093</idno>
+               </place>
+               <place xml:id="tillich_place_id__757">
+                  <placeName>Oslo</placeName>
+                  <location type="coords">
+                     <geo>59.91273 10.74609</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3143244/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q585</idno>
+               </place>
+               <place xml:id="tillich_place_id__758">
+                  <placeName>Oslo-Bygdoy</placeName>
+                  <location type="coords">
+                     <geo>59.90861 10.67972</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3159586/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q375754</idno>
+               </place>
+               <place xml:id="tillich_place_id__759">
+                  <placeName>Bärenburg</placeName>
+                  <location type="coords">
+                     <geo>50.79487 13.71240</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2882337/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1019085</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>

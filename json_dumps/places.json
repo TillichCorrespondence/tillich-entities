@@ -6829,5 +6829,71 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "754": {
+    "id": 754,
+    "order": "746.00000000000000000000",
+    "name": "Detroit, USA",
+    "tillich_id": "tillich_place_id__754",
+    "geonames_url": "https://sws.geonames.org/4990729/",
+    "Working Notes": "",
+    "latitude": "42.33143",
+    "longitude": "-83.04575",
+    "wikidata_url": "http://www.wikidata.org/entity/Q12439"
+  },
+  "755": {
+    "id": 755,
+    "order": "747.00000000000000000000",
+    "name": "Michigan, USA",
+    "tillich_id": "tillich_place_id__755",
+    "geonames_url": "http://www.geonames.org/5001836/",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "756": {
+    "id": 756,
+    "order": "748.00000000000000000000",
+    "name": "Blankenstein (Rosenthal am Rennsteig)",
+    "tillich_id": "tillich_place_id__756",
+    "geonames_url": "https://www.geonames.org/6550429/",
+    "Working Notes": "",
+    "latitude": "50.40212",
+    "longitude": "11.69892",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q59775093"
+  },
+  "757": {
+    "id": 757,
+    "order": "749.00000000000000000000",
+    "name": "Oslo",
+    "tillich_id": "tillich_place_id__757",
+    "geonames_url": "https://www.geonames.org/3143244/",
+    "Working Notes": "",
+    "latitude": "59.91273",
+    "longitude": "10.74609",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q585"
+  },
+  "758": {
+    "id": 758,
+    "order": "750.00000000000000000000",
+    "name": "Oslo-Bygdoy",
+    "tillich_id": "tillich_place_id__758",
+    "geonames_url": "https://www.geonames.org/3159586/",
+    "Working Notes": "",
+    "latitude": "59.90861",
+    "longitude": "10.67972",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q375754"
+  },
+  "759": {
+    "id": 759,
+    "order": "751.00000000000000000000",
+    "name": "Bärenburg",
+    "tillich_id": "tillich_place_id__759",
+    "geonames_url": "https://www.geonames.org/2882337/",
+    "Working Notes": "",
+    "latitude": "50.79487",
+    "longitude": "13.71240",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1019085"
   }
 }
