@@ -2380,6 +2380,7 @@
                </person>
                <person xml:id="tillich_person_id__454">
                   <persName>Dessoir, Max</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118524933</idno>
                </person>
                <person xml:id="tillich_person_id__455">
                   <persName>Detert, Eva</persName>
@@ -17392,7 +17393,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118540548</idno>
                </person>
                <person xml:id="tillich_person_id__3068">
-                  <persName>Prof. Monz</persName>
+                  <persName>Prof. Monz / Menz / Merz (?)</persName>
                   <occupation>Klinikleiter</occupation>
                </person>
                <person xml:id="tillich_person_id__3069">
@@ -17402,7 +17403,9 @@
                   <persName>Wierkandt</persName>
                </person>
                <person xml:id="tillich_person_id__3071">
-                  <persName>Pfarrer Janßen</persName>
+                  <persName>Janßen, Enno</persName>
+                  <occupation>Pfarrer</occupation>
+                  <note type="bio"><p>1921-1933 Pastor der Bodelschwinghschen Anstalt Bethel in Freistatt.</p></note>
                </person>
                <person xml:id="tillich_person_id__3072">
                   <persName>Copernicus</persName>
@@ -18270,6 +18273,15 @@
                   <persName>Aaron, Paul</persName>
                   <occupation>Musiker; Cembalist; Pianist; Komponist; Regisseur; Dirigent; Lehrer; Übersetzer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/123819652</idno>
+               </person>
+               <person xml:id="tillich_person_id__3310">
+                  <persName>Seeberger, Waltraut</persName>
+               </person>
+               <person xml:id="tillich_person_id__3311">
+                  <persName>Seeberger, Adelhard</persName>
+               </person>
+               <person xml:id="tillich_person_id__3312">
+                  <persName>Weil, ???</persName>
                </person>
             </listPerson>
          </div>
