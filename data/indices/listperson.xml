@@ -18283,6 +18283,19 @@
                <person xml:id="tillich_person_id__3312">
                   <persName>Weil, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__3313">
+                  <persName>Weil, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3314">
+                  <persName>Heller-Falke, Gertrud</persName>
+                  <occupation>Tänzerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1024113027</idno>
+               </person>
+               <person xml:id="tillich_person_id__3315">
+                  <persName>Falke, Gustav</persName>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118685929</idno>
+               </person>
             </listPerson>
          </div>
       </body>
