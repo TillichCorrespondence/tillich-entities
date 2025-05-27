@@ -17541,7 +17541,7 @@
                   <persName>Heymann, Walther</persName>
                </person>
                <person xml:id="tillich_person_id__3114">
-                  <persName>Heymann, Hans</persName>
+                  <persName>Herr Heymann</persName>
                </person>
                <person xml:id="tillich_person_id__3115">
                   <persName>Stietencron, Georg Eduard von</persName>
@@ -18295,6 +18295,24 @@
                   <persName>Falke, Gustav</persName>
                   <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118685929</idno>
+               </person>
+               <person xml:id="tillich_person_id__3317">
+                  <persName>Sommerfeld, Helene</persName>
+               </person>
+               <person xml:id="tillich_person_id__3318">
+                  <persName>Anita</persName>
+                  <occupation>Nicht ermittelt.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3319">
+                  <persName>Katholischer Studentenpfarrer</persName>
+                  <occupation>Nicht ermittelt.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3320">
+                  <persName>???, Käthe</persName>
+               </person>
+               <person xml:id="tillich_person_id__3321">
+                  <persName>???, Hans</persName>
+                  <note type="bio"><p>Nicht ermittelt.</p></note>
                </person>
             </listPerson>
          </div>
