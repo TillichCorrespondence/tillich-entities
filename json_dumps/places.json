@@ -6906,5 +6906,82 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "761": {
+    "id": 761,
+    "order": "753.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__761",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "762": {
+    "id": 762,
+    "order": "754.00000000000000000000",
+    "name": "Giessen",
+    "tillich_id": "tillich_place_id__762",
+    "geonames_url": "https://sws.geonames.org/2920512/",
+    "Working Notes": "Gießen",
+    "latitude": "50.58727",
+    "longitude": "8.67554",
+    "wikidata_url": ""
+  },
+  "763": {
+    "id": 763,
+    "order": "755.00000000000000000000",
+    "name": "Golf von Mexico",
+    "tillich_id": "tillich_place_id__763",
+    "geonames_url": "https://www.geonames.org/3523271/",
+    "Working Notes": "",
+    "latitude": "25.00000",
+    "longitude": "90.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12630"
+  },
+  "764": {
+    "id": 764,
+    "order": "756.00000000000000000000",
+    "name": "Florida",
+    "tillich_id": "tillich_place_id__764",
+    "geonames_url": "https://www.geonames.org/4155751/",
+    "Working Notes": "",
+    "latitude": "28.75054",
+    "longitude": "-82.50010",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q812"
+  },
+  "765": {
+    "id": 765,
+    "order": "757.00000000000000000000",
+    "name": "Nordafrika",
+    "tillich_id": "tillich_place_id__765",
+    "geonames_url": "https://www.geonames.org/7729887/",
+    "Working Notes": "",
+    "latitude": "32.95337",
+    "longitude": "9.97559",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27381"
+  },
+  "766": {
+    "id": 766,
+    "order": "758.00000000000000000000",
+    "name": "Moskau",
+    "tillich_id": "tillich_place_id__766",
+    "geonames_url": "https://www.geonames.org/524901",
+    "Working Notes": "",
+    "latitude": "55.75222",
+    "longitude": "37.61556",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q649"
+  },
+  "767": {
+    "id": 767,
+    "order": "759.00000000000000000000",
+    "name": "Yale University",
+    "tillich_id": "tillich_place_id__767",
+    "geonames_url": "https://www.geonames.org/4846179",
+    "Working Notes": "",
+    "latitude": "41.31121",
+    "longitude": "72.92649",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49112"
   }
 }

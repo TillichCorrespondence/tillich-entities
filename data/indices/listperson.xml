@@ -2971,6 +2971,7 @@
                </person>
                <person xml:id="tillich_person_id__624">
                   <persName>Frick, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119055201</idno>
                </person>
                <person xml:id="tillich_person_id__625">
                   <persName>Frick, Ernst</persName>
@@ -7655,7 +7656,7 @@
                   <birth>
                      <date>1884-02-19</date>
                      <settlement>
-                        <placeName>Moskau</placeName>
+                        <placeName key="#tillich_place_id__766">Moskau</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12565,7 +12566,7 @@
                   <birth>
                      <date>1880</date>
                      <settlement>
-                        <placeName>Moskau</placeName>
+                        <placeName key="#tillich_place_id__766">Moskau</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -18313,6 +18314,14 @@
                <person xml:id="tillich_person_id__3321">
                   <persName>???, Hans</persName>
                   <note type="bio"><p>Nicht ermittelt.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3322">
+                  <persName>???, Steuer</persName>
+               </person>
+               <person xml:id="tillich_person_id__3323">
+                  <persName>von Sachsen-Weimar-Eisenach, Augusta</persName>
+                  <occupation>Kaiserin von Deutschland, Frau Kaiser Wilhelms I</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118651102</idno>
                </person>
             </listPerson>
          </div>

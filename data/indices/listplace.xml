@@ -4649,7 +4649,54 @@
                   <idno type="geonames">https://sws.geonames.org/2882337/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1019085</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__762">
+                  <placeName>Giessen</placeName>
+                  <location type="coords">
+                     <geo>50.58727 8.67554</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+               </place>
+               <place xml:id="tillich_place_id__763">
+                  <placeName>Golf von Mexico</placeName>
+                  <location type="coords">
+                     <geo>25.00000 90.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3523271/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q12630</idno>
+               </place>
+               <place xml:id="tillich_place_id__764">
+                  <placeName>Florida</placeName>
+                  <location type="coords">
+                     <geo>28.75054 -82.50010</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4155751/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q812</idno>
+               </place>
+               <place xml:id="tillich_place_id__765">
+                  <placeName>Nordafrika</placeName>
+                  <location type="coords">
+                     <geo>32.95337 9.97559</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7729887/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q27381</idno>
+               </place>
+               <place xml:id="tillich_place_id__766">
+                  <placeName>Moskau</placeName>
+                  <location type="coords">
+                     <geo>55.75222 37.61556</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/524901/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q649</idno>
+               </place>
+               <place xml:id="tillich_place_id__767">
+                  <placeName>Yale University</placeName>
+                  <location type="coords">
+                     <geo>41.31121 72.92649</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4846179/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49112</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>
