@@ -59182,5 +59182,23 @@
     "working_note": "War in den sogenannten Kulturkampf mit Otto von Bismarck verwickelt. (L10164)",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3324": {
+    "id": 3324,
+    "order": "3315.00000000000000000000",
+    "name": "Stevens, D. H.",
+    "surname": "Stevens",
+    "forename": "D. H.",
+    "from_to": "",
+    "occupation": "Direktor Humanities Rockefeller Foundation",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3324",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

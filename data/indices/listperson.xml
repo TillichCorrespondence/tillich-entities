@@ -18323,6 +18323,10 @@
                   <occupation>Kaiserin von Deutschland, Frau Kaiser Wilhelms I</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118651102</idno>
                </person>
+               <person xml:id="tillich_person_id__3324">
+                  <persName>Stevens, D. H.</persName>
+                  <occupation>Direktor Humanities Rockefeller Foundation</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
