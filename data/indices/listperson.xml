@@ -8577,6 +8577,13 @@
                </person>
                <person xml:id="tillich_person_id__1935">
                   <persName>Tillich, Wolf</persName>
+                  <birth>
+                     <date>1919-07-19</date>
+                  </birth>
+                  <death>
+                     <date>1919-07-28</date>
+                  </death>
+                  <note type="bio"><p>Sohn von Paul Tillich und Greti</p></note>
                </person>
                <person xml:id="tillich_person_id__1936">
                   <persName>Timaios</persName>
@@ -18324,8 +18331,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/118651102</idno>
                </person>
                <person xml:id="tillich_person_id__3324">
-                  <persName>Stevens, D. H.</persName>
-                  <occupation>Direktor Humanities Rockefeller Foundation</occupation>
+                  <persName>Stevens, David H.</persName>
+                  <occupation>Professor für englische Literatur, Direktor für Humanities der Rockefeller Foundation 1932-1949</occupation>
                </person>
             </listPerson>
          </div>
