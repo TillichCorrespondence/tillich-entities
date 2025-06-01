@@ -2175,6 +2175,7 @@
                </person>
                <person xml:id="tillich_person_id__396">
                   <persName>Comte, Auguste</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118521748</idno>
                </person>
                <person xml:id="tillich_person_id__397">
                   <persName>Condillac, Étienne Bonnot de</persName>
@@ -18333,6 +18334,33 @@
                <person xml:id="tillich_person_id__3324">
                   <persName>Stevens, David H.</persName>
                   <occupation>Professor für englische Literatur, Direktor für Humanities der Rockefeller Foundation 1932-1949</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3325">
+                  <persName>Rosenstock Huessy, Hans</persName>
+                  <occupation>Sohn von Eugen Rosenstock Huessy; Psychiater</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139267115</idno>
+               </person>
+               <person xml:id="tillich_person_id__3326">
+                  <persName>Rosenstock, Carl Theodor</persName>
+                  <occupation>Vater von Eugen Rosenstock-Huessy; Bankier Handelsrichter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139266828</idno>
+               </person>
+               <person xml:id="tillich_person_id__3327">
+                  <persName>Hamburger, Katharina</persName>
+                  <occupation>Sängerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/141222727</idno>
+                  <note type="bio"><p>Ist geborene Rosenstock und Schwester von Eugen Rosenstock-Huessy.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3328">
+                  <persName>Hamburger, Käte</persName>
+                  <occupation>Literaturwissenschaftlerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3329">
+                  <persName>Rosenstock, Paula</persName>
+               </person>
+               <person xml:id="tillich_person_id__3330">
+                  <persName>Laertes, ???</persName>
+                  <occupation>Figur aus der griechischen Mythologie und Vater von Odysseus.</occupation>
                </person>
             </listPerson>
          </div>
