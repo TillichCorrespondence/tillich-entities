@@ -18362,6 +18362,62 @@
                   <persName>Laertes, ???</persName>
                   <occupation>Figur aus der griechischen Mythologie und Vater von Odysseus.</occupation>
                </person>
+               <person xml:id="tillich_person_id__3331">
+                  <persName>Werner, Prof</persName>
+               </person>
+               <person xml:id="tillich_person_id__3332">
+                  <persName>Marck, Claudia</persName>
+                  <note type="bio"><p>Tochter von Siegfried Marck und Claire Marck (geb. Rosenstock)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3333">
+                  <persName>Balduf, Emery Winfield</persName>
+                  <occupation>Professor, Philosoph, Übersetzer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3334">
+                  <persName>Streit, Clarence Kirshman</persName>
+                  <occupation>Journalist</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3335">
+                  <persName>Tufts, James Hayden</persName>
+                  <occupation>Philosoph, Professor für Philosophie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119065746</idno>
+               </person>
+               <person xml:id="tillich_person_id__3336">
+                  <persName>Ross, Collin</persName>
+               </person>
+               <person xml:id="tillich_person_id__3337">
+                  <persName>Baurichter, Kurt</persName>
+                  <occupation>Politiker, Volkswirt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/131994328</idno>
+               </person>
+               <person xml:id="tillich_person_id__3338">
+                  <persName>Hirsch, Marie</persName>
+                  <occupation>Volkswirtin, Sozialarbeiterin (?)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1016960859</idno>
+               </person>
+               <person xml:id="tillich_person_id__3339">
+                  <persName>Frankel, Hilde</persName>
+                  <occupation>Sekretärin v. Paul Tillich</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3340">
+                  <persName>Laozi</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118569678</idno>
+               </person>
+               <person xml:id="tillich_person_id__3341">
+                  <persName>???, Cyril</persName>
+               </person>
+               <person xml:id="tillich_person_id__3342">
+                  <persName>Morris, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3343">
+                  <persName>Nabholz, Johannes</persName>
+               </person>
+               <person xml:id="tillich_person_id__3344">
+                  <persName>Schmidt, Expeditus</persName>
+                  <occupation>Schriftsteller; Lektor; Redakteur; Theaterkritiker; Literarhistoriker; Theaterwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117499455</idno>
+               </person>
             </listPerson>
          </div>
       </body>

@@ -4696,6 +4696,62 @@
                   <idno type="geonames">https://sws.geonames.org/4846179/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49112</idno>
                </place>
+               <place xml:id="tillich_place_id__768">
+                  <placeName>San Francisco</placeName>
+                  <location type="coords">
+                     <geo>37.77493 -122.41942</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5391959/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q62</idno>
+               </place>
+               <place xml:id="tillich_place_id__769">
+                  <placeName>East Hampton (NY)</placeName>
+                  <location type="coords">
+                     <geo>40.96343 -72.18480</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5115871/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3826265</idno>
+               </place>
+               <place xml:id="tillich_place_id__770">
+                  <placeName>New Haven (CT)</placeName>
+                  <location type="coords">
+                     <geo>41.30815 -72.92816</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4839366/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49145</idno>
+               </place>
+               <place xml:id="tillich_place_id__772">
+                  <placeName>Indien</placeName>
+                  <location type="coords">
+                     <geo>22.00000 79.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/1269750/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q668</idno>
+               </place>
+               <place xml:id="tillich_place_id__773">
+                  <placeName>Newark (NJ)</placeName>
+                  <location type="coords">
+                     <geo>40.73566 -74.17237</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5101798/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q25395</idno>
+               </place>
+               <place xml:id="tillich_place_id__774">
+                  <placeName>Atlantic City (NJ)</placeName>
+                  <location type="coords">
+                     <geo>39.36415 -74.42306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4500546/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q139564</idno>
+               </place>
+               <place xml:id="tillich_place_id__775">
+                  <placeName>Trenton (NJ)</placeName>
+                  <location type="coords">
+                     <geo>40.21705 -74.74294</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5105496/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q25330</idno>
+               </place>
             </listPlace>
          </div>
       </body>

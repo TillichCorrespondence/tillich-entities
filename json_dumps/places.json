@@ -6983,5 +6983,82 @@
     "latitude": "41.31121",
     "longitude": "72.92649",
     "wikidata_url": "https://www.wikidata.org/wiki/Q49112"
+  },
+  "768": {
+    "id": 768,
+    "order": "760.00000000000000000000",
+    "name": "San Francisco",
+    "tillich_id": "tillich_place_id__768",
+    "geonames_url": "https://sws.geonames.org/5391959/",
+    "Working Notes": "",
+    "latitude": "37.77493",
+    "longitude": "-122.41942",
+    "wikidata_url": "http://www.wikidata.org/entity/Q62"
+  },
+  "769": {
+    "id": 769,
+    "order": "761.00000000000000000000",
+    "name": "East Hampton (NY)",
+    "tillich_id": "tillich_place_id__769",
+    "geonames_url": "https://www.geonames.org/5115871/",
+    "Working Notes": "",
+    "latitude": "40.96343",
+    "longitude": "-72.18480",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3826265"
+  },
+  "770": {
+    "id": 770,
+    "order": "762.00000000000000000000",
+    "name": "New Haven (CT)",
+    "tillich_id": "tillich_place_id__770",
+    "geonames_url": "https://www.geonames.org/4839366/",
+    "Working Notes": "",
+    "latitude": "41.30815",
+    "longitude": "-72.92816",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49145"
+  },
+  "772": {
+    "id": 772,
+    "order": "763.00000000000000000000",
+    "name": "Indien",
+    "tillich_id": "tillich_place_id__772",
+    "geonames_url": "https://sws.geonames.org/1269750/",
+    "Working Notes": "",
+    "latitude": "22.00000",
+    "longitude": "79.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q668"
+  },
+  "773": {
+    "id": 773,
+    "order": "764.00000000000000000000",
+    "name": "Newark (NJ)",
+    "tillich_id": "tillich_place_id__773",
+    "geonames_url": "https://www.geonames.org/5101798/",
+    "Working Notes": "",
+    "latitude": "40.73566",
+    "longitude": "-74.17237",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25395"
+  },
+  "774": {
+    "id": 774,
+    "order": "765.00000000000000000000",
+    "name": "Atlantic City (NJ)",
+    "tillich_id": "tillich_place_id__774",
+    "geonames_url": "https://www.geonames.org/4500546/",
+    "Working Notes": "",
+    "latitude": "39.36415",
+    "longitude": "-74.42306",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q139564"
+  },
+  "775": {
+    "id": 775,
+    "order": "766.00000000000000000000",
+    "name": "Trenton (NJ)",
+    "tillich_id": "tillich_place_id__775",
+    "geonames_url": "https://www.geonames.org/5105496/",
+    "Working Notes": "",
+    "latitude": "40.21705",
+    "longitude": "-74.74294",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25330"
   }
 }
