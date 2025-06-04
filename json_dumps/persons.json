@@ -59560,5 +59560,41 @@
     "working_note": "Gibts auf gewissen antiquarien Seiten auch als Schmidt, P. Expeditus.",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3345": {
+    "id": 3345,
+    "order": "3336.00000000000000000000",
+    "name": "Schurz, Carl",
+    "surname": "Schurz",
+    "forename": "Carl",
+    "from_to": "1829-1906",
+    "occupation": "Politiker; Revolutionär; Publizist; Rechtsanwalt; Botschafter",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/118611720",
+    "tillich_id": "tillich_person_id__3345",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Es gibt eine Carl Schurz Foundation die in L10164 erwähnt wird.",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3346": {
+    "id": 3346,
+    "order": "3337.00000000000000000000",
+    "name": "Augustin, Heinrich Wilhelm",
+    "surname": "Augustin",
+    "forename": "Heinrich Wilhelm",
+    "from_to": "1878-1938",
+    "occupation": "Buchdrucker",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/127794913",
+    "tillich_id": "tillich_person_id__3346",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

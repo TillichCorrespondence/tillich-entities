@@ -18418,6 +18418,16 @@
                   <occupation>Schriftsteller; Lektor; Redakteur; Theaterkritiker; Literarhistoriker; Theaterwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117499455</idno>
                </person>
+               <person xml:id="tillich_person_id__3345">
+                  <persName>Schurz, Carl</persName>
+                  <occupation>Politiker; Revolutionär; Publizist; Rechtsanwalt; Botschafter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118611720</idno>
+               </person>
+               <person xml:id="tillich_person_id__3346">
+                  <persName>Augustin, Heinrich Wilhelm</persName>
+                  <occupation>Buchdrucker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127794913</idno>
+               </person>
             </listPerson>
          </div>
       </body>

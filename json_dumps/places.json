@@ -7060,5 +7060,38 @@
     "latitude": "40.21705",
     "longitude": "-74.74294",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25330"
+  },
+  "776": {
+    "id": 776,
+    "order": "767.00000000000000000000",
+    "name": "Österreich",
+    "tillich_id": "tillich_place_id__776",
+    "geonames_url": "https://www.geonames.org/2782113/",
+    "Working Notes": "",
+    "latitude": "47.33333",
+    "longitude": "13.33333",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q40"
+  },
+  "777": {
+    "id": 777,
+    "order": "768.00000000000000000000",
+    "name": "Glückstadt",
+    "tillich_id": "tillich_place_id__777",
+    "geonames_url": "https://www.geonames.org/2919763/",
+    "Working Notes": "",
+    "latitude": "53.78893",
+    "longitude": "9.42576",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q377277"
+  },
+  "778": {
+    "id": 778,
+    "order": "769.00000000000000000000",
+    "name": "Talladega, Alabama",
+    "tillich_id": "tillich_place_id__778",
+    "geonames_url": "https://sws.geonames.org/4092788/",
+    "Working Notes": "",
+    "latitude": "33.43594",
+    "longitude": "-86.10580",
+    "wikidata_url": "http://www.wikidata.org/entity/Q79975"
   }
 }
