@@ -18428,6 +18428,23 @@
                   <occupation>Buchdrucker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127794913</idno>
                </person>
+               <person xml:id="tillich_person_id__3347">
+                  <persName>Whitten, Richard Bobb</persName>
+               </person>
+               <person xml:id="tillich_person_id__3348">
+                  <persName>Laun, Mann?</persName>
+               </person>
+               <person xml:id="tillich_person_id__3349">
+                  <persName>Werner, Frau</persName>
+               </person>
+               <person xml:id="tillich_person_id__3350">
+                  <persName>Musil, Robert</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118585916</idno>
+               </person>
+               <person xml:id="tillich_person_id__3351">
+                  <persName>The National City Bank of New York</persName>
+                  <occupation>Institution;</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
