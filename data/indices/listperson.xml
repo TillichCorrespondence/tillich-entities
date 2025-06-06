@@ -18445,6 +18445,32 @@
                   <persName>The National City Bank of New York</persName>
                   <occupation>Institution;</occupation>
                </person>
+               <person xml:id="tillich_person_id__3352">
+                  <persName>Watson, Mary</persName>
+                  <occupation>Director des Bureau of Occupations, Inc. New York</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3353">
+                  <persName>Plaut, Margaret</persName>
+                  <occupation>freiwillige Sozailarbeiterin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3354">
+                  <persName>Müller-Munk, Gertrud</persName>
+                  <occupation>Malerin, Restauratorin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1062726049</idno>
+               </person>
+               <person xml:id="tillich_person_id__3355">
+                  <persName>Schindler, Annie</persName>
+               </person>
+               <person xml:id="tillich_person_id__3356">
+                  <persName>Schindler, Walther</persName>
+               </person>
+               <person xml:id="tillich_person_id__3357">
+                  <persName>Mausolff, Alfred</persName>
+                  <occupation>Architekt</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3358">
+                  <persName>Gutsch Nauman, Nimi Jeanne</persName>
+               </person>
             </listPerson>
          </div>
       </body>

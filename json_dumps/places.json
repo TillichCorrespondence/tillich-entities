@@ -7093,5 +7093,27 @@
     "latitude": "33.43594",
     "longitude": "-86.10580",
     "wikidata_url": "http://www.wikidata.org/entity/Q79975"
+  },
+  "779": {
+    "id": 779,
+    "order": "770.00000000000000000000",
+    "name": "New York-Brooklyn",
+    "tillich_id": "tillich_place_id__779",
+    "geonames_url": "https://www.geonames.org/5110302/",
+    "Working Notes": "",
+    "latitude": "40.65010",
+    "longitude": "-73.94958",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q18419"
+  },
+  "780": {
+    "id": 780,
+    "order": "771.00000000000000000000",
+    "name": "New Canaan (CT)",
+    "tillich_id": "tillich_place_id__780",
+    "geonames_url": "https://www.geonames.org/4839319/",
+    "Working Notes": "",
+    "latitude": "41.14676",
+    "longitude": "-73.49484",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q754951"
   }
 }

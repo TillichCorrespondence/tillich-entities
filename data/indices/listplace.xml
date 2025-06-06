@@ -4776,6 +4776,22 @@
                   <idno type="geonames">https://sws.geonames.org/4092788/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q79975</idno>
                </place>
+               <place xml:id="tillich_place_id__779">
+                  <placeName>New York-Brooklyn</placeName>
+                  <location type="coords">
+                     <geo>40.65010 -73.94958</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5110302/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q18419</idno>
+               </place>
+               <place xml:id="tillich_place_id__780">
+                  <placeName>New Canaan (CT)</placeName>
+                  <location type="coords">
+                     <geo>41.14676 -73.49484</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4839319/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q754951</idno>
+               </place>
             </listPlace>
          </div>
       </body>
