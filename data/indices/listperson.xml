@@ -5122,6 +5122,8 @@
                </person>
                <person xml:id="tillich_person_id__1220">
                   <persName>Ludwig, Emil</persName>
+                  <occupation>Schriftsteller; Übersetzer; Auslandskorrespondent; Biograf; Jurist; Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118780778</idno>
                </person>
                <person xml:id="tillich_person_id__1221">
                   <persName>Lukács, Georg</persName>
@@ -6181,6 +6183,8 @@
                </person>
                <person xml:id="tillich_person_id__1519">
                   <persName>Pol, Heinz</persName>
+                  <occupation>Journalist; Schriftsteller; Filmkritiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/101223749</idno>
                </person>
                <person xml:id="tillich_person_id__1520">
                   <persName>Pollock, Carlota</persName>
@@ -6874,6 +6878,8 @@
                </person>
                <person xml:id="tillich_person_id__1703">
                   <persName>Scheler, Max</persName>
+                  <occupation>Philosoph; Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118606964</idno>
                </person>
                <person xml:id="tillich_person_id__1704">
                   <persName>Schelling, Caroline</persName>
@@ -18470,6 +18476,11 @@
                </person>
                <person xml:id="tillich_person_id__3358">
                   <persName>Gutsch Nauman, Nimi Jeanne</persName>
+               </person>
+               <person xml:id="tillich_person_id__3359">
+                  <persName>Hulse, Wilfred C.</persName>
+                  <occupation>Kinderarzt; Publizist; Chairman "Aufbau" Zeitschrift</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117056197</idno>
                </person>
             </listPerson>
          </div>
