@@ -7115,5 +7115,181 @@
     "latitude": "41.14676",
     "longitude": "-73.49484",
     "wikidata_url": "https://www.wikidata.org/wiki/Q754951"
+  },
+  "781": {
+    "id": 781,
+    "order": "772.00000000000000000000",
+    "name": "Chicago",
+    "tillich_id": "tillich_place_id__781",
+    "geonames_url": "https://www.geonames.org/4887398/",
+    "Working Notes": "",
+    "latitude": "41.85003",
+    "longitude": "-87.65005",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1297"
+  },
+  "782": {
+    "id": 782,
+    "order": "773.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__782",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "783": {
+    "id": 783,
+    "order": "774.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__783",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "784": {
+    "id": 784,
+    "order": "775.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__784",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "787": {
+    "id": 787,
+    "order": "777.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__787",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "788": {
+    "id": 788,
+    "order": "778.00000000000000000000",
+    "name": "Oxford",
+    "tillich_id": "tillich_place_id__788",
+    "geonames_url": "https://www.geonames.org/2640729/",
+    "Working Notes": "",
+    "latitude": "51.75222",
+    "longitude": "-1.25596",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q34217"
+  },
+  "789": {
+    "id": 789,
+    "order": "779.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__789",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "790": {
+    "id": 790,
+    "order": "780.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__790",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "792": {
+    "id": 792,
+    "order": "781.00000000000000000000",
+    "name": "St. Augustine",
+    "tillich_id": "tillich_place_id__792",
+    "geonames_url": "https://www.geonames.org/4170894/",
+    "Working Notes": "",
+    "latitude": "29.89469",
+    "longitude": "-81.31452",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q487988"
+  },
+  "793": {
+    "id": 793,
+    "order": "782.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__793",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "794": {
+    "id": 794,
+    "order": "783.00000000000000000000",
+    "name": "Palm Beach",
+    "tillich_id": "tillich_place_id__794",
+    "geonames_url": "https://www.geonames.org/4167505/",
+    "Working Notes": "",
+    "latitude": "26.70562",
+    "longitude": "-80.03643",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q695411"
+  },
+  "795": {
+    "id": 795,
+    "order": "784.00000000000000000000",
+    "name": "Milwaukee",
+    "tillich_id": "tillich_place_id__795",
+    "geonames_url": "https://www.geonames.org/5263045/",
+    "Working Notes": "",
+    "latitude": "43.03890",
+    "longitude": "87.90647",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q37836"
+  },
+  "796": {
+    "id": 796,
+    "order": "785.00000000000000000000",
+    "name": "Wisconsin",
+    "tillich_id": "tillich_place_id__796",
+    "geonames_url": "https://www.geonames.org/5279468/",
+    "Working Notes": "",
+    "latitude": "44.50024",
+    "longitude": "-90.00041",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1537"
+  },
+  "797": {
+    "id": 797,
+    "order": "786.00000000000000000000",
+    "name": "Saint Louis",
+    "tillich_id": "tillich_place_id__797",
+    "geonames_url": "https://www.geonames.org/4407084/",
+    "Working Notes": "",
+    "latitude": "38.62727",
+    "longitude": "-90.19789",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q38022"
+  },
+  "798": {
+    "id": 798,
+    "order": "787.00000000000000000000",
+    "name": "Missouri",
+    "tillich_id": "tillich_place_id__798",
+    "geonames_url": "https://www.geonames.org/4398678/",
+    "Working Notes": "",
+    "latitude": "38.25031",
+    "longitude": "-92.50046",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1581"
+  },
+  "799": {
+    "id": 799,
+    "order": "788.00000000000000000000",
+    "name": "Bethanien",
+    "tillich_id": "tillich_place_id__799",
+    "geonames_url": "https://www.geonames.org/7522240/",
+    "Working Notes": "",
+    "latitude": "52.50378",
+    "longitude": "13.42433",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q831173"
   }
 }

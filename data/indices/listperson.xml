@@ -8608,7 +8608,7 @@
                   <death>
                      <date>1733</date>
                      <settlement>
-                        <placeName>Oxford</placeName>
+                        <placeName key="#tillich_place_id__788">Oxford</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/124938167</idno>
@@ -14029,7 +14029,7 @@
                   <death>
                      <date>1958-02-13</date>
                      <settlement>
-                        <placeName>Oxford</placeName>
+                        <placeName key="#tillich_place_id__788">Oxford</placeName>
                      </settlement>
                   </death>
                   <occupation>Nationalökonomin; Schriftstellerin;</occupation>
@@ -18481,6 +18481,80 @@
                   <persName>Hulse, Wilfred C.</persName>
                   <occupation>Kinderarzt; Publizist; Chairman "Aufbau" Zeitschrift</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117056197</idno>
+               </person>
+               <person xml:id="tillich_person_id__3360">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3361">
+                  <persName>Ravel, Maurice</persName>
+                  <occupation>Komponist, Pianist, Dirigent</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3362">
+                  <persName>Rossini, Gioachino</persName>
+                  <occupation>Komponist</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3363">
+                  <persName>Bach, Johann Sebastian</persName>
+                  <occupation>Komponist, Violinist, Organist</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3364">
+                  <persName>Schumann, Robert</persName>
+                  <occupation>Komponist, Musikkritiker, Dirigent</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3365">
+                  <persName>Haydn, Joseph</persName>
+                  <occupation>Komponist</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3366">
+                  <persName>Toscanini, Arturo</persName>
+                  <occupation>Dirigent</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3367">
+                  <persName>Sophokles</persName>
+                  <occupation>Dichter</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3368">
+                  <persName>Parmenides von Elea</persName>
+                  <occupation>Philosoph, Vorsokratiker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3369">
+                  <persName>Dionysos</persName>
+                  <occupation>Griechischer Gott des Weines, der Freude, der Trauben, der Fruchtbarkeit, des Wahnsinns und der Ekstase</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3370">
+                  <persName>Roosevelt, Theodore</persName>
+                  <occupation>26. Präsident der Vereinigten Staaten von Amerika</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3371">
+                  <persName>Reinhart</persName>
+               </person>
+               <person xml:id="tillich_person_id__3372">
+                  <persName>Rüzler</persName>
+               </person>
+               <person xml:id="tillich_person_id__3373">
+                  <persName>Otto</persName>
+               </person>
+               <person xml:id="tillich_person_id__3374">
+                  <persName>Brown, William Adam</persName>
+                  <occupation>Chairman des Federal Council of American Churches</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3375">
+                  <persName>Sevenich, Maria</persName>
+               </person>
+               <person xml:id="tillich_person_id__3376">
+                  <persName>Pauck</persName>
+               </person>
+               <person xml:id="tillich_person_id__3377">
+                  <persName>Case</persName>
+               </person>
+               <person xml:id="tillich_person_id__3378">
+                  <persName>Schneider</persName>
+               </person>
+               <person xml:id="tillich_person_id__3379">
+                  <persName>Professor Fack</persName>
+               </person>
+               <person xml:id="tillich_person_id__3380">
+                  <persName>Dr. Haberger</persName>
                </person>
             </listPerson>
          </div>
