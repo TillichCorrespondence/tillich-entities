@@ -5846,7 +5846,7 @@
     "name": "Berneuchen",
     "tillich_id": "tillich_place_id__662",
     "geonames_url": "https://sws.geonames.org/3103812/",
-    "Working Notes": "barnowko, L00994 (\"Berneuchen Tagung\" wo Tillich war muss nicht in Berneuchen selbst stattgefunden haben erste mal 1927, danach wo anders\"",
+    "Working Notes": "barnowko, L00994 (\"Berneuchen Tagung\" wo Tillich war muss nicht in Berneuchen selbst stattgefunden haben erste mal 1927, danach wo anders)",
     "latitude": "52.78454",
     "longitude": "14.76665",
     "wikidata_url": "http://www.wikidata.org/entity/Q2908798"
@@ -7291,5 +7291,16 @@
     "latitude": "52.50378",
     "longitude": "13.42433",
     "wikidata_url": "https://www.wikidata.org/wiki/Q831173"
+  },
+  "800": {
+    "id": 800,
+    "order": "789.00000000000000000000",
+    "name": "Patmos",
+    "tillich_id": "tillich_place_id__800",
+    "geonames_url": "https://sws.geonames.org/255687/",
+    "Working Notes": "",
+    "latitude": "37.33199",
+    "longitude": "26.54803",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q190053"
   }
 }

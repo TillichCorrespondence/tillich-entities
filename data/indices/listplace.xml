@@ -4864,6 +4864,14 @@
                   <idno type="geonames">https://sws.geonames.org/7522240/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q831173</idno>
                </place>
+               <place xml:id="tillich_place_id__800">
+                  <placeName>Patmos</placeName>
+                  <location type="coords">
+                     <geo>37.33199 26.54803</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/255687/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q190053</idno>
+               </place>
             </listPlace>
          </div>
       </body>
