@@ -2251,6 +2251,8 @@
                </person>
                <person xml:id="tillich_person_id__417">
                   <persName>Cusanus, Nikolaus</persName>
+                  <occupation>Katholischer Theologe; Bischof; Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118588095</idno>
                </person>
                <person xml:id="tillich_person_id__418">
                   <persName>Cyprian</persName>
@@ -2648,7 +2650,8 @@
                   <persName>Epikur</persName>
                </person>
                <person xml:id="tillich_person_id__536">
-                  <persName>Erasmus von Rotterdam</persName>
+                  <persName>Desiderius da Rotterdam, Erasmus</persName>
+                  <occupation>Theologe; Humanist; Pädagoge; Philologe; Schriftsteller; Priester</occupation>
                </person>
                <person xml:id="tillich_person_id__537">
                   <persName>Erben, Walter</persName>
@@ -4439,6 +4442,8 @@
                </person>
                <person xml:id="tillich_person_id__1032">
                   <persName>Katte, Hans Hermann von</persName>
+                  <occupation>Offizier</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11856062X</idno>
                </person>
                <person xml:id="tillich_person_id__1033">
                   <persName>Kattenbusch, Ferdinand</persName>
@@ -18555,6 +18560,29 @@
                </person>
                <person xml:id="tillich_person_id__3380">
                   <persName>Dr. Haberger</persName>
+               </person>
+               <person xml:id="tillich_person_id__3381">
+                  <persName>Oertly, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3382">
+                  <persName>Fife, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3383">
+                  <persName>Blanchard, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3384">
+                  <persName>Stoudt, John Joseph</persName>
+                  <note type="bio"><p>Philosoph, freier Autor, 1965–70 Professor für Philosophie</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3385">
+                  <persName>Stern, Margaret</persName>
+               </person>
+               <person xml:id="tillich_person_id__3386">
+                  <persName>Bouwman</persName>
+                  <occupation>Reverent</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3388">
+                  <persName>Wendriner</persName>
                </person>
             </listPerson>
          </div>

@@ -4872,6 +4872,114 @@
                   <idno type="geonames">https://sws.geonames.org/255687/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q190053</idno>
                </place>
+               <place xml:id="tillich_place_id__801">
+                  <placeName>Türkei</placeName>
+                  <location type="coords">
+                     <geo>39.00000 35.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/298795/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q43</idno>
+               </place>
+               <place xml:id="tillich_place_id__802">
+                  <placeName>Knoxville, Tennessee</placeName>
+                  <location type="coords">
+                     <geo>35.96064 -83.92074</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4634946/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q185582</idno>
+               </place>
+               <place xml:id="tillich_place_id__803">
+                  <placeName>Chiappa</placeName>
+                  <location type="coords">
+                     <geo>43.95143 8.10705</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3178865/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q18459742</idno>
+               </place>
+               <place xml:id="tillich_place_id__804">
+                  <placeName>Kentucky</placeName>
+                  <location type="coords">
+                     <geo>38.20042 -84.87762</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6254925/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1603</idno>
+               </place>
+               <place xml:id="tillich_place_id__805">
+                  <placeName>Tennessee</placeName>
+                  <location type="coords">
+                     <geo>35.75035 -86.25027</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4662168/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1509</idno>
+               </place>
+               <place xml:id="tillich_place_id__806">
+                  <placeName>Indianapolis, Indiana</placeName>
+                  <location type="coords">
+                     <geo>39.76838 -86.15804</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4259418/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6346</idno>
+               </place>
+               <place xml:id="tillich_place_id__807">
+                  <placeName>Cincinnati</placeName>
+                  <location type="coords">
+                     <geo>39.12711 -84.51439</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4508722/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q43196</idno>
+               </place>
+               <place xml:id="tillich_place_id__808">
+                  <placeName>Louisville</placeName>
+                  <location type="coords">
+                     <geo>38.25424 -85.75941</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4299276/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q43668</idno>
+               </place>
+               <place xml:id="tillich_place_id__809">
+                  <placeName>Chattanooga</placeName>
+                  <idno type="geonames">https://sws.geonames.org/4612862/</idno>
+               </place>
+               <place xml:id="tillich_place_id__810">
+                  <placeName>Birmingham, USA</placeName>
+                  <location type="coords">
+                     <geo>42.54670 -83.21132</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4986172/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q593324</idno>
+               </place>
+               <place xml:id="tillich_place_id__811">
+                  <placeName>Blue Bell (PA)</placeName>
+                  <location type="coords">
+                     <geo>40.15233 -75.26629</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5180961/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q885631</idno>
+               </place>
+               <place xml:id="tillich_place_id__812">
+                  <placeName>Lansing</placeName>
+                  <location type="coords">
+                     <geo>42.73253 -84.55553</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4998830/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q28237</idno>
+               </place>
+               <place xml:id="tillich_place_id__813">
+                  <placeName>Bolzano</placeName>
+                  <location type="coords">
+                     <geo>46.49067 11.33982</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3181913/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6526</idno>
+               </place>
+               <place xml:id="tillich_place_id__814">
+                  <placeName>Cortina</placeName>
+                  <location type="coords">
+                     <geo>46.53690 12.13903</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3177952/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q41158</idno>
+               </place>
             </listPlace>
          </div>
       </body>

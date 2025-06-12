@@ -7302,5 +7302,159 @@
     "latitude": "37.33199",
     "longitude": "26.54803",
     "wikidata_url": "https://www.wikidata.org/wiki/Q190053"
+  },
+  "801": {
+    "id": 801,
+    "order": "790.00000000000000000000",
+    "name": "Türkei",
+    "tillich_id": "tillich_place_id__801",
+    "geonames_url": "https://www.geonames.org/298795/",
+    "Working Notes": "",
+    "latitude": "39.00000",
+    "longitude": "35.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q43"
+  },
+  "802": {
+    "id": 802,
+    "order": "791.00000000000000000000",
+    "name": "Knoxville, Tennessee",
+    "tillich_id": "tillich_place_id__802",
+    "geonames_url": "https://sws.geonames.org/4634946/",
+    "Working Notes": "",
+    "latitude": "35.96064",
+    "longitude": "-83.92074",
+    "wikidata_url": "http://www.wikidata.org/entity/Q185582"
+  },
+  "803": {
+    "id": 803,
+    "order": "792.00000000000000000000",
+    "name": "Chiappa",
+    "tillich_id": "tillich_place_id__803",
+    "geonames_url": "https://sws.geonames.org/3178865/",
+    "Working Notes": "",
+    "latitude": "43.95143",
+    "longitude": "8.10705",
+    "wikidata_url": "http://www.wikidata.org/entity/Q18459742"
+  },
+  "804": {
+    "id": 804,
+    "order": "793.00000000000000000000",
+    "name": "Kentucky",
+    "tillich_id": "tillich_place_id__804",
+    "geonames_url": "https://sws.geonames.org/6254925/",
+    "Working Notes": "",
+    "latitude": "38.20042",
+    "longitude": "-84.87762",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1603"
+  },
+  "805": {
+    "id": 805,
+    "order": "794.00000000000000000000",
+    "name": "Tennessee",
+    "tillich_id": "tillich_place_id__805",
+    "geonames_url": "https://sws.geonames.org/4662168/",
+    "Working Notes": "",
+    "latitude": "35.75035",
+    "longitude": "-86.25027",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1509"
+  },
+  "806": {
+    "id": 806,
+    "order": "795.00000000000000000000",
+    "name": "Indianapolis, Indiana",
+    "tillich_id": "tillich_place_id__806",
+    "geonames_url": "https://sws.geonames.org/4259418/",
+    "Working Notes": "",
+    "latitude": "39.76838",
+    "longitude": "-86.15804",
+    "wikidata_url": "http://www.wikidata.org/entity/Q6346"
+  },
+  "807": {
+    "id": 807,
+    "order": "796.00000000000000000000",
+    "name": "Cincinnati",
+    "tillich_id": "tillich_place_id__807",
+    "geonames_url": "https://sws.geonames.org/4508722/",
+    "Working Notes": "",
+    "latitude": "39.12711",
+    "longitude": "-84.51439",
+    "wikidata_url": "http://www.wikidata.org/entity/Q43196"
+  },
+  "808": {
+    "id": 808,
+    "order": "797.00000000000000000000",
+    "name": "Louisville",
+    "tillich_id": "tillich_place_id__808",
+    "geonames_url": "https://sws.geonames.org/4299276/",
+    "Working Notes": "",
+    "latitude": "38.25424",
+    "longitude": "-85.75941",
+    "wikidata_url": "http://www.wikidata.org/entity/Q43668"
+  },
+  "809": {
+    "id": 809,
+    "order": "798.00000000000000000000",
+    "name": "Chattanooga",
+    "tillich_id": "tillich_place_id__809",
+    "geonames_url": "http://www.geonames.org/4612862/",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "810": {
+    "id": 810,
+    "order": "799.00000000000000000000",
+    "name": "Birmingham, USA",
+    "tillich_id": "tillich_place_id__810",
+    "geonames_url": "https://sws.geonames.org/4986172/",
+    "Working Notes": "",
+    "latitude": "42.54670",
+    "longitude": "-83.21132",
+    "wikidata_url": "http://www.wikidata.org/entity/Q593324"
+  },
+  "811": {
+    "id": 811,
+    "order": "800.00000000000000000000",
+    "name": "Blue Bell (PA)",
+    "tillich_id": "tillich_place_id__811",
+    "geonames_url": "https://www.geonames.org/5180961/",
+    "Working Notes": "",
+    "latitude": "40.15233",
+    "longitude": "-75.26629",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q885631"
+  },
+  "812": {
+    "id": 812,
+    "order": "801.00000000000000000000",
+    "name": "Lansing",
+    "tillich_id": "tillich_place_id__812",
+    "geonames_url": "https://www.geonames.org/4998830/",
+    "Working Notes": "",
+    "latitude": "42.73253",
+    "longitude": "-84.55553",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28237"
+  },
+  "813": {
+    "id": 813,
+    "order": "802.00000000000000000000",
+    "name": "Bolzano",
+    "tillich_id": "tillich_place_id__813",
+    "geonames_url": "https://www.geonames.org/3181913/",
+    "Working Notes": "",
+    "latitude": "46.49067",
+    "longitude": "11.33982",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6526"
+  },
+  "814": {
+    "id": 814,
+    "order": "803.00000000000000000000",
+    "name": "Cortina",
+    "tillich_id": "tillich_place_id__814",
+    "geonames_url": "https://www.geonames.org/3177952",
+    "Working Notes": "",
+    "latitude": "46.53690",
+    "longitude": "12.13903",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q41158"
   }
 }
