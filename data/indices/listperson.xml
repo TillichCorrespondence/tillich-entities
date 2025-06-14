@@ -18584,6 +18584,25 @@
                <person xml:id="tillich_person_id__3388">
                   <persName>Wendriner</persName>
                </person>
+               <person xml:id="tillich_person_id__3389">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3390">
+                  <persName>Friedländer, Lia</persName>
+                  <occupation>Physiotherapeutin, Künstlerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1242291210</idno>
+               </person>
+               <person xml:id="tillich_person_id__3391">
+                  <persName>Mindlin, Dorothee</persName>
+               </person>
+               <person xml:id="tillich_person_id__3392">
+                  <persName>Mindlin, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__3393">
+                  <persName>Malaparte, Curzio</persName>
+                  <occupation>ital. Schriftsteller, Journalist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118781383</idno>
+               </person>
             </listPerson>
          </div>
       </body>

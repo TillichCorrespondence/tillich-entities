@@ -7456,5 +7456,16 @@
     "latitude": "46.53690",
     "longitude": "12.13903",
     "wikidata_url": "https://www.wikidata.org/wiki/Q41158"
+  },
+  "815": {
+    "id": 815,
+    "order": "804.00000000000000000000",
+    "name": "Berkeley (CA)",
+    "tillich_id": "tillich_place_id__815",
+    "geonames_url": "https://www.geonames.org/5327684/",
+    "Working Notes": "",
+    "latitude": "37.87159",
+    "longitude": "-122.27275",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q484678"
   }
 }

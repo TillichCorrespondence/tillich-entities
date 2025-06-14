@@ -4980,6 +4980,14 @@
                   <idno type="geonames">https://sws.geonames.org/3177952/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q41158</idno>
                </place>
+               <place xml:id="tillich_place_id__815">
+                  <placeName>Berkeley (CA)</placeName>
+                  <location type="coords">
+                     <geo>37.87159 -122.27275</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5327684/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q484678</idno>
+               </place>
             </listPlace>
          </div>
       </body>
