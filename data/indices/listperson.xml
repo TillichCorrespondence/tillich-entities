@@ -18603,6 +18603,27 @@
                   <occupation>ital. Schriftsteller, Journalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118781383</idno>
                </person>
+               <person xml:id="tillich_person_id__3394">
+                  <persName>Ball, Erna D.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3395">
+                  <persName>Bergmann, Martha</persName>
+               </person>
+               <person xml:id="tillich_person_id__3396">
+                  <persName>Gundelfinger, Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__3397">
+                  <persName>Heimann, Eduard</persName>
+               </person>
+               <person xml:id="tillich_person_id__3398">
+                  <persName>Koppell, Gabriele</persName>
+               </person>
+               <person xml:id="tillich_person_id__3399">
+                  <persName>Kronstein, Heinrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__3400">
+                  <persName>Stolper, Toni</persName>
+               </person>
             </listPerson>
          </div>
       </body>
