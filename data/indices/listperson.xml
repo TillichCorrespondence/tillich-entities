@@ -18624,6 +18624,39 @@
                <person xml:id="tillich_person_id__3400">
                   <persName>Stolper, Toni</persName>
                </person>
+               <person xml:id="tillich_person_id__3401">
+                  <persName>Kleiber, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3402">
+                  <persName>Haussig, Frieda</persName>
+                  <death>
+                     <date>1935</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__3403">
+                  <persName>Hromádka, Josef Lukl</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118553933</idno>
+               </person>
+               <person xml:id="tillich_person_id__3404">
+                  <persName>Fisher, Geoffrey Francis</persName>
+                  <occupation>1945–1961 Erzbischof von Canterbury, Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119199246</idno>
+               </person>
+               <person xml:id="tillich_person_id__3405">
+                  <persName>Katz, Rudolf</persName>
+                  <occupation>Jurist, Politiker, Journalist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/124417620</idno>
+               </person>
+               <person xml:id="tillich_person_id__3406">
+                  <persName>Marshall, John</persName>
+                  <occupation>Stv. Direktor des Bereichs Humanities der Rockefeller Foundation</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116792817</idno>
+               </person>
+               <person xml:id="tillich_person_id__3407">
+                  <persName>Marck, Ilse</persName>
+                  <occupation>Journalistin</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
