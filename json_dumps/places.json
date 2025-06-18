@@ -7478,5 +7478,27 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "817": {
+    "id": 817,
+    "order": "806.00000000000000000000",
+    "name": "Beuggen",
+    "tillich_id": "tillich_place_id__817",
+    "geonames_url": "https://sws.geonames.org/2949606/",
+    "Working Notes": "",
+    "latitude": "47.58030",
+    "longitude": "7.80458",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q112180357"
+  },
+  "818": {
+    "id": 818,
+    "order": "807.00000000000000000000",
+    "name": "Holland",
+    "tillich_id": "tillich_place_id__818",
+    "geonames_url": "https://sws.geonames.org/2750405/",
+    "Working Notes": "",
+    "latitude": "52.25000",
+    "longitude": "5.75000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q55"
   }
 }

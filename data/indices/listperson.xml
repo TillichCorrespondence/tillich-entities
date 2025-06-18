@@ -18368,6 +18368,7 @@
                </person>
                <person xml:id="tillich_person_id__3329">
                   <persName>Rosenstock, Paula</persName>
+                  <occupation>Mutter von Huessy, Anna Margaretha (Margrit)</occupation>
                </person>
                <person xml:id="tillich_person_id__3330">
                   <persName>Laertes, ???</persName>
@@ -18656,6 +18657,76 @@
                <person xml:id="tillich_person_id__3407">
                   <persName>Marck, Ilse</persName>
                   <occupation>Journalistin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3408">
+                  <persName>Fuchs, Emil</persName>
+                  <occupation>Theologe, Mitglied der Religiösen Gesellschaft der Freunde (Quäker)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3409">
+                  <persName>Minde, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__3410">
+                  <persName>Zeller, Eugen</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1032335246</idno>
+               </person>
+               <person xml:id="tillich_person_id__3411">
+                  <persName>Russel, Dean</persName>
+               </person>
+               <person xml:id="tillich_person_id__3412">
+                  <persName>???, Anke</persName>
+               </person>
+               <person xml:id="tillich_person_id__3413">
+                  <persName>Lord-Bischof von Southmark</persName>
+               </person>
+               <person xml:id="tillich_person_id__3414">
+                  <persName>Brown, Adam</persName>
+               </person>
+               <person xml:id="tillich_person_id__3415">
+                  <persName>Oldhorn, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3416">
+                  <persName>Matt, John</persName>
+               </person>
+               <person xml:id="tillich_person_id__3417">
+                  <persName>Erzbischof Tumble von New York</persName>
+               </person>
+               <person xml:id="tillich_person_id__3418">
+                  <persName>Fossdick, Dorothe</persName>
+               </person>
+               <person xml:id="tillich_person_id__3419">
+                  <persName>von Ansen, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3420">
+                  <persName>Baille, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3421">
+                  <persName>Erzbischof von Canterbury</persName>
+               </person>
+               <person xml:id="tillich_person_id__3422">
+                  <persName>Mrs. Coffin</persName>
+               </person>
+               <person xml:id="tillich_person_id__3423">
+                  <persName>Lady Moberly</persName>
+               </person>
+               <person xml:id="tillich_person_id__3424">
+                  <persName>Maharenz</persName>
+               </person>
+               <person xml:id="tillich_person_id__3425">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3426">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3427">
+                  <persName>Steffens, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3428">
+                  <persName>Fell</persName>
+               </person>
+               <person xml:id="tillich_person_id__3429">
+                  <persName>Rosenstock-Huessy, Margrit</persName>
+                  <occupation>Ehefrau von Eugen Rosenstock-Huessy</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116625228</idno>
                </person>
             </listPerson>
          </div>
