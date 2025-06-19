@@ -17598,7 +17598,7 @@
                   <persName>Herr Ament</persName>
                </person>
                <person xml:id="tillich_person_id__3125">
-                  <persName>Delliehausen</persName>
+                  <persName>Delliehausen, Georg</persName>
                </person>
                <person xml:id="tillich_person_id__3126">
                   <persName>Obolensky, D.</persName>
@@ -18727,6 +18727,12 @@
                   <persName>Rosenstock-Huessy, Margrit</persName>
                   <occupation>Ehefrau von Eugen Rosenstock-Huessy</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116625228</idno>
+               </person>
+               <person xml:id="tillich_person_id__3430">
+                  <persName>Plathner</persName>
+               </person>
+               <person xml:id="tillich_person_id__3431">
+                  <persName>De Paal, Andor</persName>
                </person>
             </listPerson>
          </div>
