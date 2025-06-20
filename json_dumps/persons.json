@@ -61108,5 +61108,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3432": {
+    "id": 3432,
+    "order": "3422.00000000000000000000",
+    "name": "Misch, Gerda",
+    "surname": "Misch (geb. Ascher)",
+    "forename": "Gerda",
+    "from_to": "1901–",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3432",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Erwähnt in L10899, Ehefrau von Carl Misch (ID: 1332)",
+    "place_of_birth": "Danzig",
+    "place_of_death": ""
   }
 }
