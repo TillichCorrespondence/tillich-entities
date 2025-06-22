@@ -4506,6 +4506,7 @@
                </person>
                <person xml:id="tillich_person_id__1050">
                   <persName>Kilger, Albert</persName>
+                  <occupation>Soldat</occupation>
                </person>
                <person xml:id="tillich_person_id__1051">
                   <persName>Kimball, Robert</persName>
@@ -11323,7 +11324,7 @@
                   <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2186">
-                  <persName>Ebers, ???</persName>
+                  <persName>Ebers, R.</persName>
                   <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2187">
@@ -18736,6 +18737,37 @@
                </person>
                <person xml:id="tillich_person_id__3432">
                   <persName>Misch, Gerda</persName>
+               </person>
+               <person xml:id="tillich_person_id__3433">
+                  <persName>Dewitz, Toni</persName>
+                  <note type="bio"><p>Wahrscheinich Tante von Erich Harder. Gestorben an einem Herzleiden in Beetz.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3434">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3435">
+                  <persName>Karthesius</persName>
+               </person>
+               <person xml:id="tillich_person_id__3436">
+                  <persName>Muth</persName>
+                  <occupation>Frau von Amtsgerichtsrat Muth</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3437">
+                  <persName>Gutsch</persName>
+               </person>
+               <person xml:id="tillich_person_id__3438">
+                  <persName>Mendelssohn, Frau von</persName>
+               </person>
+               <person xml:id="tillich_person_id__3439">
+                  <persName>Dernburg, Bernhard</persName>
+                  <occupation>Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118677861</idno>
+               </person>
+               <person xml:id="tillich_person_id__3440">
+                  <persName>Cohn, Fräulein</persName>
+               </person>
+               <person xml:id="tillich_person_id__3441">
+                  <persName>Sachse</persName>
                </person>
             </listPerson>
          </div>

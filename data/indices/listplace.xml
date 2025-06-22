@@ -5004,6 +5004,14 @@
                   <idno type="geonames">https://sws.geonames.org/2750405/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q55</idno>
                </place>
+               <place xml:id="tillich_place_id__819">
+                  <placeName>Beetz</placeName>
+                  <location type="coords">
+                     <geo>52.81246 13.01013</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2951523/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q14947347</idno>
+               </place>
             </listPlace>
          </div>
       </body>
