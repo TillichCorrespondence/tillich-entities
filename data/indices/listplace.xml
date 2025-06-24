@@ -5012,6 +5012,46 @@
                   <idno type="geonames">https://sws.geonames.org/2951523/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q14947347</idno>
                </place>
+               <place xml:id="tillich_place_id__821">
+                  <placeName>Tampa, Florida</placeName>
+                  <location type="coords">
+                     <geo>27.94752 -82.45843</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4174757/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49255</idno>
+               </place>
+               <place xml:id="tillich_place_id__822">
+                  <placeName>Silver Springs, Florida</placeName>
+                  <location type="coords">
+                     <geo>29.10442 -82.02064</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4173007/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2368142</idno>
+               </place>
+               <place xml:id="tillich_place_id__823">
+                  <placeName>Charleston, South Carolina</placeName>
+                  <location type="coords">
+                     <geo>32.77632 -79.93275</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4574324/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q47716</idno>
+               </place>
+               <place xml:id="tillich_place_id__824">
+                  <placeName>Jacksonville, Florida</placeName>
+                  <location type="coords">
+                     <geo>30.33218 -81.65565</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4160021/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q16568</idno>
+               </place>
+               <place xml:id="tillich_place_id__825">
+                  <placeName>Ravenna</placeName>
+                  <location type="coords">
+                     <geo>44.41344 12.20121</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3169561/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49280740</idno>
+               </place>
             </listPlace>
          </div>
       </body>

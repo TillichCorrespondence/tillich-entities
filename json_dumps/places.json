@@ -7511,5 +7511,60 @@
     "latitude": "52.81246",
     "longitude": "13.01013",
     "wikidata_url": "http://www.wikidata.org/entity/Q14947347"
+  },
+  "821": {
+    "id": 821,
+    "order": "809.00000000000000000000",
+    "name": "Tampa, Florida",
+    "tillich_id": "tillich_place_id__821",
+    "geonames_url": "https://sws.geonames.org/4174757/",
+    "Working Notes": "",
+    "latitude": "27.94752",
+    "longitude": "-82.45843",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49255"
+  },
+  "822": {
+    "id": 822,
+    "order": "810.00000000000000000000",
+    "name": "Silver Springs, Florida",
+    "tillich_id": "tillich_place_id__822",
+    "geonames_url": "https://sws.geonames.org/4173007/",
+    "Working Notes": "",
+    "latitude": "29.10442",
+    "longitude": "-82.02064",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2368142"
+  },
+  "823": {
+    "id": 823,
+    "order": "811.00000000000000000000",
+    "name": "Charleston, South Carolina",
+    "tillich_id": "tillich_place_id__823",
+    "geonames_url": "https://sws.geonames.org/4574324/",
+    "Working Notes": "",
+    "latitude": "32.77632",
+    "longitude": "-79.93275",
+    "wikidata_url": "http://www.wikidata.org/entity/Q47716"
+  },
+  "824": {
+    "id": 824,
+    "order": "812.00000000000000000000",
+    "name": "Jacksonville, Florida",
+    "tillich_id": "tillich_place_id__824",
+    "geonames_url": "https://sws.geonames.org/4160021/",
+    "Working Notes": "",
+    "latitude": "30.33218",
+    "longitude": "-81.65565",
+    "wikidata_url": "http://www.wikidata.org/entity/Q16568"
+  },
+  "825": {
+    "id": 825,
+    "order": "813.00000000000000000000",
+    "name": "Ravenna",
+    "tillich_id": "tillich_place_id__825",
+    "geonames_url": "https://sws.geonames.org/3169561/",
+    "Working Notes": "",
+    "latitude": "44.41344",
+    "longitude": "12.20121",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49280740"
   }
 }
