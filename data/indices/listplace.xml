@@ -5052,6 +5052,14 @@
                   <idno type="geonames">https://sws.geonames.org/3169561/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49280740</idno>
                </place>
+               <place xml:id="tillich_place_id__826">
+                  <placeName>Dahlem</placeName>
+                  <location type="coords">
+                     <geo>52.45810 13.28702</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2939440/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q700541</idno>
+               </place>
             </listPlace>
          </div>
       </body>

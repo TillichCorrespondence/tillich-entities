@@ -7566,5 +7566,16 @@
     "latitude": "44.41344",
     "longitude": "12.20121",
     "wikidata_url": "http://www.wikidata.org/entity/Q49280740"
+  },
+  "826": {
+    "id": 826,
+    "order": "814.00000000000000000000",
+    "name": "Dahlem",
+    "tillich_id": "tillich_place_id__826",
+    "geonames_url": "https://www.geonames.org/2939440/",
+    "Working Notes": "",
+    "latitude": "52.45810",
+    "longitude": "13.28702",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q700541"
   }
 }

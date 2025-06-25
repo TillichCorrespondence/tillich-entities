@@ -18776,6 +18776,17 @@
                <person xml:id="tillich_person_id__3444">
                   <persName>Seeberger, Ernst</persName>
                </person>
+               <person xml:id="tillich_person_id__3445">
+                  <persName>Wessel, Horst</persName>
+                  <occupation>Deutscher Paramilitär der SA, der nach seiner Ermordung durch ein KPD-Mitglied zum Märtyrer der Nationalsozialisten stilisiert wurde.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3446">
+                  <persName>Mendel, Gregor</persName>
+                  <occupation>Augustinerpriester, Entdecker der nach ihm benannten "Mendelschen Regeln" der Vererbung.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3447">
+                  <persName>Smidt, Udo</persName>
+               </person>
             </listPerson>
          </div>
       </body>
