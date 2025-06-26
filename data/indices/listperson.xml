@@ -18787,6 +18787,22 @@
                <person xml:id="tillich_person_id__3447">
                   <persName>Smidt, Udo</persName>
                </person>
+               <person xml:id="tillich_person_id__3448">
+                  <persName>Polgi, Herr</persName>
+               </person>
+               <person xml:id="tillich_person_id__3449">
+                  <persName>Polgi, Frau</persName>
+               </person>
+               <person xml:id="tillich_person_id__3450">
+                  <persName>Pauck, Olga</persName>
+               </person>
+               <person xml:id="tillich_person_id__3451">
+                  <persName>Farmer, Else</persName>
+                  <occupation>Kinderärztin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3452">
+                  <persName>Langstadt, Hans</persName>
+               </person>
             </listPerson>
          </div>
       </body>

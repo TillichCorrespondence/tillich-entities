@@ -5060,6 +5060,30 @@
                   <idno type="geonames">https://sws.geonames.org/2939440/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q700541</idno>
                </place>
+               <place xml:id="tillich_place_id__827">
+                  <placeName>Baltimore, USA</placeName>
+                  <location type="coords">
+                     <geo>39.29038 -76.61219</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4347778/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5092</idno>
+               </place>
+               <place xml:id="tillich_place_id__828">
+                  <placeName>Great Neck (NY)</placeName>
+                  <location type="coords">
+                     <geo>40.80066 -73.72846</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5119218/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1378786</idno>
+               </place>
+               <place xml:id="tillich_place_id__829">
+                  <placeName>Albion (MI)</placeName>
+                  <location type="coords">
+                     <geo>42.24310 -84.75303</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4983905/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2327553</idno>
+               </place>
             </listPlace>
          </div>
       </body>

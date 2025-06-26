@@ -7577,5 +7577,38 @@
     "latitude": "52.45810",
     "longitude": "13.28702",
     "wikidata_url": "https://www.wikidata.org/wiki/Q700541"
+  },
+  "827": {
+    "id": 827,
+    "order": "815.00000000000000000000",
+    "name": "Baltimore, USA",
+    "tillich_id": "tillich_place_id__827",
+    "geonames_url": "https://sws.geonames.org/4347778/",
+    "Working Notes": "",
+    "latitude": "39.29038",
+    "longitude": "-76.61219",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5092"
+  },
+  "828": {
+    "id": 828,
+    "order": "816.00000000000000000000",
+    "name": "Great Neck (NY)",
+    "tillich_id": "tillich_place_id__828",
+    "geonames_url": "https://www.geonames.org/5119218/",
+    "Working Notes": "",
+    "latitude": "40.80066",
+    "longitude": "-73.72846",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1378786"
+  },
+  "829": {
+    "id": 829,
+    "order": "817.00000000000000000000",
+    "name": "Albion (MI)",
+    "tillich_id": "tillich_place_id__829",
+    "geonames_url": "https://www.geonames.org/4983905/",
+    "Working Notes": "",
+    "latitude": "42.24310",
+    "longitude": "-84.75303",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2327553"
   }
 }
