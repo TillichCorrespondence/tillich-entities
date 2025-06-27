@@ -5084,6 +5084,14 @@
                   <idno type="geonames">https://sws.geonames.org/4983905/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2327553</idno>
                </place>
+               <place xml:id="tillich_place_id__830">
+                  <placeName>Evanston (IL)</placeName>
+                  <location type="coords">
+                     <geo>42.04114 -87.69006</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4891382/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q462799</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -7610,5 +7610,16 @@
     "latitude": "42.24310",
     "longitude": "-84.75303",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2327553"
+  },
+  "830": {
+    "id": 830,
+    "order": "818.00000000000000000000",
+    "name": "Evanston (IL)",
+    "tillich_id": "tillich_place_id__830",
+    "geonames_url": "https://www.geonames.org/4891382/",
+    "Working Notes": "",
+    "latitude": "42.04114",
+    "longitude": "-87.69006",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q462799"
   }
 }

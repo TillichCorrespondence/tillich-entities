@@ -18803,6 +18803,63 @@
                <person xml:id="tillich_person_id__3452">
                   <persName>Langstadt, Hans</persName>
                </person>
+               <person xml:id="tillich_person_id__3453">
+                  <persName>Sawitz, Toni</persName>
+               </person>
+               <person xml:id="tillich_person_id__3454">
+                  <persName>Sawitz, Willi G.</persName>
+                  <occupation>Tropenmediziner</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3455">
+                  <persName>Barry, Iris</persName>
+                  <occupation>Filmkritikerin, Kuratorin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/105338310X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3456">
+                  <persName>Crowther, Jr., Francis Bosley</persName>
+                  <occupation>Filmkritiker, Redakteur</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1189709473</idno>
+               </person>
+               <person xml:id="tillich_person_id__3457">
+                  <persName>Kirchwey, Mary Frederika "Freda"</persName>
+                  <occupation>Journalistin, Publizistin, 1933–1955 Hg. der "Nation"</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116187387</idno>
+               </person>
+               <person xml:id="tillich_person_id__3458">
+                  <persName>Gordon, John King</persName>
+                  <occupation>Theologe, Hochschullehrer, kanadischer Minister, Herausgeber der "Nation"</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1076995993</idno>
+               </person>
+               <person xml:id="tillich_person_id__3459">
+                  <persName>Marshall, Margaret Alice</persName>
+                  <occupation>Journalistin, Herausgeberin der Literaturabteilung der Nation</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3460">
+                  <persName>Jarrell, Randall</persName>
+                  <occupation>Schriftsteller, Literaturkritiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118776010</idno>
+               </person>
+               <person xml:id="tillich_person_id__3461">
+                  <persName>Spiero, Heinrich</persName>
+                  <occupation>Schriftsteller, Literaturhistoriker, Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117490067</idno>
+               </person>
+               <person xml:id="tillich_person_id__3462">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3463">
+                  <persName>Spiero, Olga</persName>
+                  <occupation>Lehrerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117189189</idno>
+               </person>
+               <person xml:id="tillich_person_id__3464">
+                  <persName>Bell, George Kennedy Allen</persName>
+                  <occupation>anglikanischer Theologe, Bischof von Chichester</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118655124</idno>
+               </person>
+               <person xml:id="tillich_person_id__3465">
+                  <persName>Leiper, ???</persName>
+               </person>
             </listPerson>
          </div>
       </body>
