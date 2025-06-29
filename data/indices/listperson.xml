@@ -18860,6 +18860,19 @@
                <person xml:id="tillich_person_id__3465">
                   <persName>Leiper, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__3466">
+                  <persName>Muilenberg, ???</persName>
+                  <occupation>Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3467">
+                  <persName>Tillich, Herrmann</persName>
+                  <death>
+                     <date>1936?</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__3468">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>

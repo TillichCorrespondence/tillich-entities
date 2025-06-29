@@ -7621,5 +7621,16 @@
     "latitude": "42.04114",
     "longitude": "-87.69006",
     "wikidata_url": "https://www.wikidata.org/wiki/Q462799"
+  },
+  "831": {
+    "id": 831,
+    "order": "819.00000000000000000000",
+    "name": "Carmel (CA)",
+    "tillich_id": "tillich_place_id__831",
+    "geonames_url": "https://www.geonames.org/5334320/",
+    "Working Notes": "",
+    "latitude": "36.55524",
+    "longitude": "-121.92329",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q625458"
   }
 }

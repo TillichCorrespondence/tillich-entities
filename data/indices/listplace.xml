@@ -5092,6 +5092,14 @@
                   <idno type="geonames">https://sws.geonames.org/4891382/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q462799</idno>
                </place>
+               <place xml:id="tillich_place_id__831">
+                  <placeName>Carmel (CA)</placeName>
+                  <location type="coords">
+                     <geo>36.55524 -121.92329</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5334320/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q625458</idno>
+               </place>
             </listPlace>
          </div>
       </body>
