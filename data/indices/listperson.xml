@@ -4622,6 +4622,7 @@
                <person xml:id="tillich_person_id__1084">
                   <persName>Kotschnig, Walter</persName>
                   <occupation>Politikwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11634430X</idno>
                   <note type="bio"><p>1920-1924 Studium der Politikwissenschaft in Graz und Kiel, wo er promoviert wurde. 1924 heiratete er die Psychologin Elined Prys (1895-1983), mit der er drei Kinder hatte. 1925-1934 arbeitete K. beim International Student Service in Genf, 1934-1935 beim Völkerbund. 1936 emigrierte die Familie in die USA, wo K. zunächst Gastprofessuren an verschiedenen Hochschulen innehatte und ab 1944 in verschiedenen Funktionen für das US-Außenministerium arbeitete. In diesem Rahmen nahm er auch beratenden Funktionen für die sich etablierenden Vereinten Nationen wahr.</p></note>
                </person>
                <person xml:id="tillich_person_id__1085">
@@ -18872,6 +18873,18 @@
                </person>
                <person xml:id="tillich_person_id__3468">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3469">
+                  <persName>Prys Kotschnig, Elined</persName>
+                  <occupation>Psychologin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3470">
+                  <persName>Elkisch, Paula</persName>
+                  <occupation>Psychologin, Psychoanalytikerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1216263612</idno>
+               </person>
+               <person xml:id="tillich_person_id__3471">
+                  <persName>???, Franziska</persName>
                </person>
             </listPerson>
          </div>

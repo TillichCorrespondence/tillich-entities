@@ -5100,6 +5100,38 @@
                   <idno type="geonames">https://sws.geonames.org/5334320/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q625458</idno>
                </place>
+               <place xml:id="tillich_place_id__832">
+                  <placeName>Columbia, USA</placeName>
+                  <location type="coords">
+                     <geo>38.95171 -92.33407</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4381982/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q59670</idno>
+               </place>
+               <place xml:id="tillich_place_id__833">
+                  <placeName>Savannah, USA</placeName>
+                  <location type="coords">
+                     <geo>35.22480 -88.24920</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4656006/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1877325</idno>
+               </place>
+               <place xml:id="tillich_place_id__834">
+                  <placeName>Tallahassee</placeName>
+                  <location type="coords">
+                     <geo>30.43826 -84.28073</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4174715/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q37043</idno>
+               </place>
+               <place xml:id="tillich_place_id__835">
+                  <placeName>New London (CT)</placeName>
+                  <location type="coords">
+                     <geo>41.35565 -72.09952</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4839416/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49146</idno>
+               </place>
             </listPlace>
          </div>
       </body>
