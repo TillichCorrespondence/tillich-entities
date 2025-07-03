@@ -5132,6 +5132,30 @@
                   <idno type="geonames">https://sws.geonames.org/4839416/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49146</idno>
                </place>
+               <place xml:id="tillich_place_id__836">
+                  <placeName>Turin</placeName>
+                  <location type="coords">
+                     <geo>45.07049 7.68682</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3165524/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q495</idno>
+               </place>
+               <place xml:id="tillich_place_id__837">
+                  <placeName>Mont Blanc</placeName>
+                  <location type="coords">
+                     <geo>45.83300 6.86400</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3181986/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q583</idno>
+               </place>
+               <place xml:id="tillich_place_id__838">
+                  <placeName>Alpen</placeName>
+                  <location type="coords">
+                     <geo>46.41667 10.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661786/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1286</idno>
+               </place>
             </listPlace>
          </div>
       </body>

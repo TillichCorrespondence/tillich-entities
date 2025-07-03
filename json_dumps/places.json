@@ -7676,5 +7676,38 @@
     "latitude": "41.35565",
     "longitude": "-72.09952",
     "wikidata_url": "https://www.wikidata.org/wiki/Q49146"
+  },
+  "836": {
+    "id": 836,
+    "order": "824.00000000000000000000",
+    "name": "Turin",
+    "tillich_id": "tillich_place_id__836",
+    "geonames_url": "https://www.geonames.org/3165524/",
+    "Working Notes": "",
+    "latitude": "45.07049",
+    "longitude": "7.68682",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q495"
+  },
+  "837": {
+    "id": 837,
+    "order": "825.00000000000000000000",
+    "name": "Mont Blanc",
+    "tillich_id": "tillich_place_id__837",
+    "geonames_url": "https://www.geonames.org/3181986/",
+    "Working Notes": "",
+    "latitude": "45.83300",
+    "longitude": "6.86400",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q583"
+  },
+  "838": {
+    "id": 838,
+    "order": "826.00000000000000000000",
+    "name": "Alpen",
+    "tillich_id": "tillich_place_id__838",
+    "geonames_url": "https://www.geonames.org/2661786/",
+    "Working Notes": "",
+    "latitude": "46.41667",
+    "longitude": "10.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1286"
   }
 }
