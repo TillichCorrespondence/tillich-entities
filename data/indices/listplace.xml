@@ -5156,6 +5156,38 @@
                   <idno type="geonames">https://sws.geonames.org/2661786/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1286</idno>
                </place>
+               <place xml:id="tillich_place_id__839">
+                  <placeName>Verona</placeName>
+                  <location type="coords">
+                     <geo>45.43854 10.99380</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3164527/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2028</idno>
+               </place>
+               <place xml:id="tillich_place_id__840">
+                  <placeName>Brenner</placeName>
+                  <location type="coords">
+                     <geo>47.00528 11.50836</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2781423/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q375769</idno>
+               </place>
+               <place xml:id="tillich_place_id__841">
+                  <placeName>Aosta</placeName>
+                  <location type="coords">
+                     <geo>45.73764 7.31722</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3182997/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3367</idno>
+               </place>
+               <place xml:id="tillich_place_id__842">
+                  <placeName>Rue Scribe (Paris)</placeName>
+                  <location type="coords">
+                     <geo>48.87108 2.33025</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/13100051/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3450046</idno>
+               </place>
             </listPlace>
          </div>
       </body>

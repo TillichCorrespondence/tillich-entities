@@ -672,7 +672,7 @@
                   <birth>
                      <date>1033</date>
                      <settlement>
-                        <placeName>Aosta</placeName>
+                        <placeName key="#tillich_place_id__841">Aosta</placeName>
                      </settlement>
                   </birth>
                   <death>

@@ -7709,5 +7709,49 @@
     "latitude": "46.41667",
     "longitude": "10.00000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1286"
+  },
+  "839": {
+    "id": 839,
+    "order": "827.00000000000000000000",
+    "name": "Verona",
+    "tillich_id": "tillich_place_id__839",
+    "geonames_url": "https://www.geonames.org/3164527/",
+    "Working Notes": "",
+    "latitude": "45.43854",
+    "longitude": "10.99380",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2028"
+  },
+  "840": {
+    "id": 840,
+    "order": "828.00000000000000000000",
+    "name": "Brenner",
+    "tillich_id": "tillich_place_id__840",
+    "geonames_url": "https://www.geonames.org/2781423/",
+    "Working Notes": "",
+    "latitude": "47.00528",
+    "longitude": "11.50836",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q375769"
+  },
+  "841": {
+    "id": 841,
+    "order": "829.00000000000000000000",
+    "name": "Aosta",
+    "tillich_id": "tillich_place_id__841",
+    "geonames_url": "https://www.geonames.org/3182997/",
+    "Working Notes": "",
+    "latitude": "45.73764",
+    "longitude": "7.31722",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3367"
+  },
+  "842": {
+    "id": 842,
+    "order": "830.00000000000000000000",
+    "name": "Rue Scribe (Paris)",
+    "tillich_id": "tillich_place_id__842",
+    "geonames_url": "https://www.geonames.org/13100051/",
+    "Working Notes": "",
+    "latitude": "48.87108",
+    "longitude": "2.33025",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3450046"
   }
 }
