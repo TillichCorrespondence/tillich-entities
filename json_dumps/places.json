@@ -7753,5 +7753,27 @@
     "latitude": "48.87108",
     "longitude": "2.33025",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3450046"
+  },
+  "843": {
+    "id": 843,
+    "order": "831.00000000000000000000",
+    "name": "Heist-aan-Zee",
+    "tillich_id": "tillich_place_id__843",
+    "geonames_url": "https://www.geonames.org/2796157/",
+    "Working Notes": "",
+    "latitude": "51.33867",
+    "longitude": "3.23882",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2974907"
+  },
+  "844": {
+    "id": 844,
+    "order": "832.00000000000000000000",
+    "name": "Zeebrugge",
+    "tillich_id": "tillich_place_id__844",
+    "geonames_url": "https://www.geonames.org/2783307/",
+    "Working Notes": "",
+    "latitude": "51.32901",
+    "longitude": "3.18188",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q184383"
   }
 }
