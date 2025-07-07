@@ -7775,5 +7775,16 @@
     "latitude": "51.32901",
     "longitude": "3.18188",
     "wikidata_url": "https://www.wikidata.org/wiki/Q184383"
+  },
+  "845": {
+    "id": 845,
+    "order": "833.00000000000000000000",
+    "name": "Hanover New Hampshire",
+    "tillich_id": "tillich_place_id__845",
+    "geonames_url": "https://sws.geonames.org/5087168/",
+    "Working Notes": "Hanover N. H. (Im Brief)",
+    "latitude": "43.70229",
+    "longitude": "-72.28954",
+    "wikidata_url": "http://www.wikidata.org/entity/Q131908"
   }
 }

@@ -5204,6 +5204,14 @@
                   <idno type="geonames">https://sws.geonames.org/2783307/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q184383</idno>
                </place>
+               <place xml:id="tillich_place_id__845">
+                  <placeName>Hanover New Hampshire</placeName>
+                  <location type="coords">
+                     <geo>43.70229 -72.28954</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5087168/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q131908</idno>
+               </place>
             </listPlace>
          </div>
       </body>
