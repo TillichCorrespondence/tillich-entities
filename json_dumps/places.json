@@ -7786,5 +7786,93 @@
     "latitude": "43.70229",
     "longitude": "-72.28954",
     "wikidata_url": "http://www.wikidata.org/entity/Q131908"
+  },
+  "846": {
+    "id": 846,
+    "order": "834.00000000000000000000",
+    "name": "Val d'Aosta",
+    "tillich_id": "tillich_place_id__846",
+    "geonames_url": "https://www.geonames.org/3164857/",
+    "Working Notes": "",
+    "latitude": "45.75000",
+    "longitude": "7.25000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1222"
+  },
+  "847": {
+    "id": 847,
+    "order": "835.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__847",
+    "geonames_url": "https://www.geonames.org/3178905/",
+    "Working Notes": "",
+    "latitude": "45.74991",
+    "longitude": "7.61668",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q34966"
+  },
+  "848": {
+    "id": 848,
+    "order": "836.00000000000000000000",
+    "name": "Kalifornien",
+    "tillich_id": "tillich_place_id__848",
+    "geonames_url": "https://www.geonames.org/5332921/",
+    "Working Notes": "",
+    "latitude": "37.25022",
+    "longitude": "-119.75126",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q99"
+  },
+  "849": {
+    "id": 849,
+    "order": "837.00000000000000000000",
+    "name": "Kanada",
+    "tillich_id": "tillich_place_id__849",
+    "geonames_url": "https://www.geonames.org/6251999/",
+    "Working Notes": "",
+    "latitude": "60.10867",
+    "longitude": "-113.64258",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16"
+  },
+  "850": {
+    "id": 850,
+    "order": "838.00000000000000000000",
+    "name": "Cannes",
+    "tillich_id": "tillich_place_id__850",
+    "geonames_url": "https://www.geonames.org/3028808/",
+    "Working Notes": "",
+    "latitude": "43.55135",
+    "longitude": "7.01275",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q39984"
+  },
+  "851": {
+    "id": 851,
+    "order": "839.00000000000000000000",
+    "name": "Pacific Palisades",
+    "tillich_id": "tillich_place_id__851",
+    "geonames_url": "https://www.geonames.org/5380378/",
+    "Working Notes": "",
+    "latitude": "34.04806",
+    "longitude": "-118.52647",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1370207"
+  },
+  "852": {
+    "id": 852,
+    "order": "840.00000000000000000000",
+    "name": "Rehoboth Beach",
+    "tillich_id": "tillich_place_id__852",
+    "geonames_url": "https://www.geonames.org/4144284/",
+    "Working Notes": "",
+    "latitude": "38.72095",
+    "longitude": "-75.07601",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q755106"
+  },
+  "853": {
+    "id": 853,
+    "order": "841.00000000000000000000",
+    "name": "Long Beach",
+    "tillich_id": "tillich_place_id__853",
+    "geonames_url": "https://www.geonames.org/5367929/",
+    "Working Notes": "",
+    "latitude": "33.76696",
+    "longitude": "-118.18923",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16739"
   }
 }

@@ -5212,6 +5212,62 @@
                   <idno type="geonames">https://sws.geonames.org/5087168/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q131908</idno>
                </place>
+               <place xml:id="tillich_place_id__846">
+                  <placeName>Val d'Aosta</placeName>
+                  <location type="coords">
+                     <geo>45.75000 7.25000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3164857/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1222</idno>
+               </place>
+               <place xml:id="tillich_place_id__848">
+                  <placeName>Kalifornien</placeName>
+                  <location type="coords">
+                     <geo>37.25022 -119.75126</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5332921/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q99</idno>
+               </place>
+               <place xml:id="tillich_place_id__849">
+                  <placeName>Kanada</placeName>
+                  <location type="coords">
+                     <geo>60.10867 -113.64258</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6251999/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q16</idno>
+               </place>
+               <place xml:id="tillich_place_id__850">
+                  <placeName>Cannes</placeName>
+                  <location type="coords">
+                     <geo>43.55135 7.01275</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3028808/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q39984</idno>
+               </place>
+               <place xml:id="tillich_place_id__851">
+                  <placeName>Pacific Palisades</placeName>
+                  <location type="coords">
+                     <geo>34.04806 -118.52647</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5380378/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1370207</idno>
+               </place>
+               <place xml:id="tillich_place_id__852">
+                  <placeName>Rehoboth Beach</placeName>
+                  <location type="coords">
+                     <geo>38.72095 -75.07601</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4144284/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q755106</idno>
+               </place>
+               <place xml:id="tillich_place_id__853">
+                  <placeName>Long Beach</placeName>
+                  <location type="coords">
+                     <geo>33.76696 -118.18923</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5367929/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q16739</idno>
+               </place>
             </listPlace>
          </div>
       </body>

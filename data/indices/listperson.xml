@@ -16054,7 +16054,7 @@
                   <death>
                      <date>1882-02-08</date>
                      <settlement>
-                        <placeName>Cannes</placeName>
+                        <placeName key="#tillich_place_id__850">Cannes</placeName>
                      </settlement>
                   </death>
                   <occupation>Schrifsteller;</occupation>
@@ -19019,6 +19019,32 @@
                </person>
                <person xml:id="tillich_person_id__3478">
                   <persName>Corbeck, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3479">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3480">
+                  <persName>Judith</persName>
+               </person>
+               <person xml:id="tillich_person_id__3481">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3482">
+                  <persName>Laski, Harold</persName>
+                  <birth>
+                     <date>1893-06-30</date>
+                     <settlement>
+                        <placeName>Manchester</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-03-24</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__271">London</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politikwissenschaftler, Ökonom, Autor und Dozent.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119192616</idno>
                </person>
             </listPerson>
          </div>
