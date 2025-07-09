@@ -19046,6 +19046,79 @@
                   <occupation>Politikwissenschaftler, Ökonom, Autor und Dozent.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119192616</idno>
                </person>
+               <person xml:id="tillich_person_id__3483">
+                  <persName>Feuchtwanger, Leo</persName>
+                  <birth>
+                     <date>1884-07-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-12-21</date>
+                     <settlement>
+                        <placeName>Los Angeles</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118532715</idno>
+               </person>
+               <person xml:id="tillich_person_id__3484">
+                  <persName>Kortner, Fritz</persName>
+                  <birth>
+                     <date>1892-05-12</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1970-07-22</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schauspieler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118565591</idno>
+               </person>
+               <person xml:id="tillich_person_id__3485">
+                  <persName>Chaplin, Charlie</persName>
+                  <birth>
+                     <date>1889-04-16</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__271">London</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1977-12-25</date>
+                     <settlement>
+                        <placeName>Corsier-sur-Vevey</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118520113</idno>
+               </person>
+               <person xml:id="tillich_person_id__3486">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3487">
+                  <persName>Bab, Mrs.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3488">
+                  <persName>Dieterle, Wilhelm</persName>
+                  <birth>
+                     <date>1893-07-15</date>
+                     <settlement>
+                        <placeName>Ludwigshafen am Rhein</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-12-09</date>
+                     <settlement>
+                        <placeName>Ottobrunn</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Filmregisseur</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119118432</idno>
+               </person>
             </listPerson>
          </div>
       </body>

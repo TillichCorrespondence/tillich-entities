@@ -7874,5 +7874,16 @@
     "latitude": "33.76696",
     "longitude": "-118.18923",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16739"
+  },
+  "854": {
+    "id": 854,
+    "order": "842.00000000000000000000",
+    "name": "Bar Harbor",
+    "tillich_id": "tillich_place_id__854",
+    "geonames_url": "https://www.geonames.org/4957320/",
+    "Working Notes": "",
+    "latitude": "44.38758",
+    "longitude": "-68.20390",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1672375"
   }
 }

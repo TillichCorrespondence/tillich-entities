@@ -5268,6 +5268,14 @@
                   <idno type="geonames">https://sws.geonames.org/5367929/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q16739</idno>
                </place>
+               <place xml:id="tillich_place_id__854">
+                  <placeName>Bar Harbor</placeName>
+                  <location type="coords">
+                     <geo>44.38758 -68.20390</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4957320/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1672375</idno>
+               </place>
             </listPlace>
          </div>
       </body>
