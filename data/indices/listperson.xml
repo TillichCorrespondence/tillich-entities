@@ -9684,7 +9684,7 @@
                      </settlement>
                   </death>
                   <occupation>Künstler, Sammler, Erfinder</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/142038636</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/129036005</idno>
                </person>
                <person xml:id="tillich_person_id__2024">
                   <persName>Weil, Paul</persName>
@@ -19118,6 +19118,35 @@
                   </death>
                   <occupation>Filmregisseur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119118432</idno>
+               </person>
+               <person xml:id="tillich_person_id__3489">
+                  <persName>Curtz, Ernst F.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3490">
+                  <persName>Hofman, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3491">
+                  <persName>Dayton, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3492">
+                  <persName>Venedey, Hans</persName>
+                  <occupation>Jurist, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1047561689</idno>
+               </person>
+               <person xml:id="tillich_person_id__3493">
+                  <persName>Menzel, Hans</persName>
+                  <occupation>Verwaltungsjurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133606953</idno>
+               </person>
+               <person xml:id="tillich_person_id__3494">
+                  <persName>Amelunxen, Wilhelm Rudolf Konrad</persName>
+                  <occupation>Jurist, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118648764</idno>
+               </person>
+               <person xml:id="tillich_person_id__3495">
+                  <persName>Lewinski, Erich</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119270293</idno>
                </person>
             </listPerson>
          </div>
