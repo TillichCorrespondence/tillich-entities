@@ -19148,6 +19148,9 @@
                   <occupation>Jurist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119270293</idno>
                </person>
+               <person xml:id="tillich_person_id__3496">
+                  <persName>Estelle</persName>
+               </person>
             </listPerson>
          </div>
       </body>
