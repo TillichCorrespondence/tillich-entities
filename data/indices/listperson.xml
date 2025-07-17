@@ -14443,7 +14443,7 @@
                   <occupation>Pfarrer;</occupation>
                </person>
                <person xml:id="tillich_person_id__2552">
-                  <persName>Napoleon III., ???</persName>
+                  <persName>Napoleon III., Louis</persName>
                   <birth>
                      <date>1808-04-20</date>
                      <settlement>
@@ -19150,6 +19150,73 @@
                </person>
                <person xml:id="tillich_person_id__3496">
                   <persName>Estelle</persName>
+               </person>
+               <person xml:id="tillich_person_id__3497">
+                  <persName>Victor Adolf Theophil von Podbielski</persName>
+                  <birth>
+                     <date>1844-02-26</date>
+                     <settlement>
+                        <placeName>Frankfurt (Oder)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1916-01-21</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>preussischer  Staats- und Landwirtschaftsminister</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116247479</idno>
+               </person>
+               <person xml:id="tillich_person_id__3498">
+                  <persName>Ludendorff, Erich</persName>
+                  <birth>
+                     <date>1865-04-09</date>
+                     <settlement>
+                        <placeName>Schwersenz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1937-12-20</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118574841</idno>
+                  <note type="bio"><p>deutscher General und Politiker</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3499">
+                  <persName>Poincaré, Raymond</persName>
+                  <birth>
+                     <date>1860-08-20</date>
+                     <settlement>
+                        <placeName>Bar-le-Duc</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1934-15-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118792652</idno>
+               </person>
+               <person xml:id="tillich_person_id__3500">
+                  <persName>Jaeger, Hans</persName>
+                  <birth>
+                     <date>1899-02-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1975-10-12</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__271">London</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Publizist</occupation>
                </person>
             </listPerson>
          </div>

@@ -7885,5 +7885,38 @@
     "latitude": "44.38758",
     "longitude": "-68.20390",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1672375"
+  },
+  "855": {
+    "id": 855,
+    "order": "843.00000000000000000000",
+    "name": "Theale",
+    "tillich_id": "tillich_place_id__855",
+    "geonames_url": "https://www.geonames.org/7301526/",
+    "Working Notes": "",
+    "latitude": "51.43611",
+    "longitude": "-1.07377",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2519746"
+  },
+  "856": {
+    "id": 856,
+    "order": "844.00000000000000000000",
+    "name": "Berkshire",
+    "tillich_id": "tillich_place_id__856",
+    "geonames_url": "https://www.geonames.org/2655856/",
+    "Working Notes": "",
+    "latitude": "51.50000",
+    "longitude": "-1.25000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q67284726"
+  },
+  "857": {
+    "id": 857,
+    "order": "845.00000000000000000000",
+    "name": "Ruhrgebiet",
+    "tillich_id": "tillich_place_id__857",
+    "geonames_url": "https://www.geonames.org/2843198/",
+    "Working Notes": "",
+    "latitude": "51.41667",
+    "longitude": "7.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q151993"
   }
 }
