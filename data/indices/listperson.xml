@@ -19218,6 +19218,23 @@
                   </death>
                   <occupation>Publizist</occupation>
                </person>
+               <person xml:id="tillich_person_id__3501">
+                  <persName>Bülow, Bernhard von</persName>
+                  <birth>
+                     <date>1849-05-03</date>
+                     <settlement>
+                        <placeName>Klein Flottbek</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1929-10-29</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__369">Rom</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118517023</idno>
+               </person>
             </listPerson>
          </div>
       </body>

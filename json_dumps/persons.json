@@ -62332,5 +62332,23 @@
     "working_note": "https://de.wikipedia.org/wiki/Hans_Jaeger_(Publizist)",
     "place_of_birth": "Berlin",
     "place_of_death": "London"
+  },
+  "3501": {
+    "id": 3501,
+    "order": "3490.00000000000000000000",
+    "name": "Bülow, Bernhard von",
+    "surname": "Bülow",
+    "forename": "Bernhard von",
+    "from_to": "",
+    "occupation": "Politiker",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118517023",
+    "tillich_id": "tillich_person_id__3501",
+    "date_of_birth": "1849-05-03",
+    "date_of_death": "1929-10-29",
+    "working_note": "",
+    "place_of_birth": "Klein Flottbek",
+    "place_of_death": "Rom"
   }
 }
