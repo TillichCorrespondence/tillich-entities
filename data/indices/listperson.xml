@@ -6488,6 +6488,7 @@
                </person>
                <person xml:id="tillich_person_id__1588">
                   <persName>Reutern, Ilsemargot von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1139790323</idno>
                </person>
                <person xml:id="tillich_person_id__1589">
                   <persName>Révész, Géza</persName>
@@ -19234,6 +19235,36 @@
                   </death>
                   <occupation>Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118517023</idno>
+               </person>
+               <person xml:id="tillich_person_id__3502">
+                  <persName>???, Gabby</persName>
+               </person>
+               <person xml:id="tillich_person_id__3503">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3504">
+                  <persName>Loeb, Else</persName>
+               </person>
+               <person xml:id="tillich_person_id__3505">
+                  <persName>Boschritz</persName>
+               </person>
+               <person xml:id="tillich_person_id__3506">
+                  <persName>Seeberger (?), Michael</persName>
+               </person>
+               <person xml:id="tillich_person_id__3507">
+                  <persName>???, ??? (s. working note)</persName>
+               </person>
+               <person xml:id="tillich_person_id__3508">
+                  <persName>Wegscheider, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3509">
+                  <persName>Tillich, Franz</persName>
+                  <occupation>Arzt</occupation>
+                  <note type="bio"><p>Vermutl. Cousin von Johannes Oskar Tillich und Vater von Ernst Tillich.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3510">
+                  <persName>Reutern, Gerhard von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1115210149</idno>
                </person>
             </listPerson>
          </div>

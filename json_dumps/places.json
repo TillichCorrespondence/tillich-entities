@@ -7918,5 +7918,16 @@
     "latitude": "51.41667",
     "longitude": "7.00000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q151993"
+  },
+  "858": {
+    "id": 858,
+    "order": "846.00000000000000000000",
+    "name": "Agrigent",
+    "tillich_id": "tillich_place_id__858",
+    "geonames_url": "https://sws.geonames.org/2525764/",
+    "Working Notes": "",
+    "latitude": "37.31065",
+    "longitude": "13.57661",
+    "wikidata_url": "http://www.wikidata.org/entity/Q13678"
   }
 }
