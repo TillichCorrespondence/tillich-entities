@@ -7929,5 +7929,16 @@
     "latitude": "37.31065",
     "longitude": "13.57661",
     "wikidata_url": "http://www.wikidata.org/entity/Q13678"
+  },
+  "859": {
+    "id": 859,
+    "order": "847.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__859",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
