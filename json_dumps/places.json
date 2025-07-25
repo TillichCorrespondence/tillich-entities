@@ -7940,5 +7940,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "860": {
+    "id": 860,
+    "order": "848.00000000000000000000",
+    "name": "Oakland (CA)",
+    "tillich_id": "tillich_place_id__860",
+    "geonames_url": "https://www.geonames.org/5378538/",
+    "Working Notes": "",
+    "latitude": "37.80437",
+    "longitude": "-122.27080",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q17042"
   }
 }

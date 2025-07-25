@@ -5847,7 +5847,9 @@
                   <persName>Norman, Dorothy</persName>
                </person>
                <person xml:id="tillich_person_id__1407">
-                  <persName>Novalis</persName>
+                  <persName>Hardenberg (Novalis), Friedrich von</persName>
+                  <occupation>Schriftsteller, Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
                </person>
                <person xml:id="tillich_person_id__1408">
                   <persName>Numenius von Apameia</persName>
@@ -8591,7 +8593,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
                </person>
                <person xml:id="tillich_person_id__1927">
-                  <persName>Tillich, René</persName>
+                  <persName>Tillich, René Johannes Stefan</persName>
                   <birth>
                      <date>1935</date>
                   </birth>
@@ -19265,6 +19267,22 @@
                <person xml:id="tillich_person_id__3510">
                   <persName>Reutern, Gerhard von</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1115210149</idno>
+               </person>
+               <person xml:id="tillich_person_id__3511">
+                  <persName>Konrad, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3512">
+                  <persName>Denison, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3513">
+                  <persName>Neumeyer, Eva Maria</persName>
+                  <occupation>Kunsthistorikerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/106660462</idno>
+               </person>
+               <person xml:id="tillich_person_id__3514">
+                  <persName>Neumeyer, Alfred</persName>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11698399X</idno>
                </person>
             </listPerson>
          </div>
