@@ -7951,5 +7951,49 @@
     "latitude": "37.80437",
     "longitude": "-122.27080",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17042"
+  },
+  "861": {
+    "id": 861,
+    "order": "849.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__861",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "862": {
+    "id": 862,
+    "order": "850.00000000000000000000",
+    "name": "Gloucester",
+    "tillich_id": "tillich_place_id__862",
+    "geonames_url": "https://www.geonames.org/4937829/",
+    "Working Notes": "",
+    "latitude": "42.61405",
+    "longitude": "-70.66313",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49156"
+  },
+  "863": {
+    "id": 863,
+    "order": "851.00000000000000000000",
+    "name": "Ostküste",
+    "tillich_id": "tillich_place_id__863",
+    "geonames_url": "https://www.geonames.org/12212303/",
+    "Working Notes": "East Coast",
+    "latitude": "37.02332",
+    "longitude": "-77.36954",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4268"
+  },
+  "864": {
+    "id": 864,
+    "order": "852.00000000000000000000",
+    "name": "Latein-Amerika",
+    "tillich_id": "tillich_place_id__864",
+    "geonames_url": "https://www.geonames.org/7730009/",
+    "Working Notes": "",
+    "latitude": "-8.05923",
+    "longitude": "-72.59766",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12585"
   }
 }

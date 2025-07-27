@@ -19284,6 +19284,62 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11698399X</idno>
                </person>
+               <person xml:id="tillich_person_id__3515">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3516">
+                  <persName>Willits, Joseph Henry</persName>
+                  <birth>
+                     <date>1889</date>
+                  </birth>
+                  <death>
+                     <date>1979</date>
+                  </death>
+                  <occupation>Professor in University of Pennsylvania, Philadelpha</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3517">
+                  <persName>Pickett, Clarance E.</persName>
+                  <birth>
+                     <date>1884-10-19</date>
+                     <settlement>
+                        <placeName>Cissna Park</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-03-17</date>
+                     <settlement>
+                        <placeName>Boise</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3518">
+                  <persName>Bracken, Brendan</persName>
+                  <birth>
+                     <date>1901-02-15</date>
+                  </birth>
+                  <death>
+                     <date>1958-08-08</date>
+                  </death>
+                  <occupation>britischer Staatsmann</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3519">
+                  <persName>Stresemann, Gustav</persName>
+                  <birth>
+                     <date>1878-05-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1929-10-03</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker und Staatsmann</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118619268</idno>
+               </person>
             </listPerson>
          </div>
       </body>

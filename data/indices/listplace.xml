@@ -5316,6 +5316,30 @@
                   <idno type="geonames">https://sws.geonames.org/5378538/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q17042</idno>
                </place>
+               <place xml:id="tillich_place_id__862">
+                  <placeName>Gloucester</placeName>
+                  <location type="coords">
+                     <geo>42.61405 -70.66313</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4937829/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49156</idno>
+               </place>
+               <place xml:id="tillich_place_id__863">
+                  <placeName>Ostküste</placeName>
+                  <location type="coords">
+                     <geo>37.02332 -77.36954</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12212303/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4268</idno>
+               </place>
+               <place xml:id="tillich_place_id__864">
+                  <placeName>Latein-Amerika</placeName>
+                  <location type="coords">
+                     <geo>-8.05923 -72.59766</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7730009/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q12585</idno>
+               </place>
             </listPlace>
          </div>
       </body>
