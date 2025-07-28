@@ -19340,6 +19340,9 @@
                   <occupation>Politiker und Staatsmann</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118619268</idno>
                </person>
+               <person xml:id="tillich_person_id__3520">
+                  <persName>Hirsch, Alexander</persName>
+               </person>
             </listPerson>
          </div>
       </body>
