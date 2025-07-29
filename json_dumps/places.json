@@ -7995,5 +7995,93 @@
     "latitude": "-8.05923",
     "longitude": "-72.59766",
     "wikidata_url": "https://www.wikidata.org/wiki/Q12585"
+  },
+  "865": {
+    "id": 865,
+    "order": "853.00000000000000000000",
+    "name": "New York",
+    "tillich_id": "tillich_place_id__865",
+    "geonames_url": "https://www.geonames.org/5128638/",
+    "Working Notes": "",
+    "latitude": "43.00035",
+    "longitude": "-75.49990",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1384"
+  },
+  "866": {
+    "id": 866,
+    "order": "854.00000000000000000000",
+    "name": "East Orange (NJ)",
+    "tillich_id": "tillich_place_id__866",
+    "geonames_url": "https://www.geonames.org/5097441/",
+    "Working Notes": "",
+    "latitude": "40.76732",
+    "longitude": "-74.20487",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q988515"
+  },
+  "867": {
+    "id": 867,
+    "order": "855.00000000000000000000",
+    "name": "New Jersey",
+    "tillich_id": "tillich_place_id__867",
+    "geonames_url": "https://www.geonames.org/5101760/",
+    "Working Notes": "Bundesstaat",
+    "latitude": "40.16706",
+    "longitude": "-74.49987",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1408"
+  },
+  "868": {
+    "id": 868,
+    "order": "856.00000000000000000000",
+    "name": "Crownsville (MD)",
+    "tillich_id": "tillich_place_id__868",
+    "geonames_url": "https://www.geonames.org/4352618/",
+    "Working Notes": "",
+    "latitude": "39.02844",
+    "longitude": "-76.60135",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q754492"
+  },
+  "869": {
+    "id": 869,
+    "order": "857.00000000000000000000",
+    "name": "Maryland",
+    "tillich_id": "tillich_place_id__869",
+    "geonames_url": "https://www.geonames.org/4361885/",
+    "Working Notes": "Bundesstaat",
+    "latitude": "39.00039",
+    "longitude": "-76.74997",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1391"
+  },
+  "870": {
+    "id": 870,
+    "order": "858.00000000000000000000",
+    "name": "Annapolis (MD)",
+    "tillich_id": "tillich_place_id__870",
+    "geonames_url": "https://www.geonames.org/4347242/",
+    "Working Notes": "",
+    "latitude": "38.97859",
+    "longitude": "-76.49184",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28271"
+  },
+  "871": {
+    "id": 871,
+    "order": "859.00000000000000000000",
+    "name": "Schwäbisch Hall",
+    "tillich_id": "tillich_place_id__871",
+    "geonames_url": "https://www.geonames.org/2835481/",
+    "Working Notes": "",
+    "latitude": "49.11127",
+    "longitude": "9.73908",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q14910"
+  },
+  "872": {
+    "id": 872,
+    "order": "860.00000000000000000000",
+    "name": "Munster",
+    "tillich_id": "tillich_place_id__872",
+    "geonames_url": "https://www.geonames.org/2867542/",
+    "Working Notes": "",
+    "latitude": "52.98569",
+    "longitude": "10.08756",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q506599"
   }
 }

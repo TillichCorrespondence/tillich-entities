@@ -5340,6 +5340,70 @@
                   <idno type="geonames">https://sws.geonames.org/7730009/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q12585</idno>
                </place>
+               <place xml:id="tillich_place_id__865">
+                  <placeName>New York</placeName>
+                  <location type="coords">
+                     <geo>43.00035 -75.49990</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5128638/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1384</idno>
+               </place>
+               <place xml:id="tillich_place_id__866">
+                  <placeName>East Orange (NJ)</placeName>
+                  <location type="coords">
+                     <geo>40.76732 -74.20487</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5097441/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q988515</idno>
+               </place>
+               <place xml:id="tillich_place_id__867">
+                  <placeName>New Jersey</placeName>
+                  <location type="coords">
+                     <geo>40.16706 -74.49987</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5101760/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1408</idno>
+               </place>
+               <place xml:id="tillich_place_id__868">
+                  <placeName>Crownsville (MD)</placeName>
+                  <location type="coords">
+                     <geo>39.02844 -76.60135</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4352618/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q754492</idno>
+               </place>
+               <place xml:id="tillich_place_id__869">
+                  <placeName>Maryland</placeName>
+                  <location type="coords">
+                     <geo>39.00039 -76.74997</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4361885/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1391</idno>
+               </place>
+               <place xml:id="tillich_place_id__870">
+                  <placeName>Annapolis (MD)</placeName>
+                  <location type="coords">
+                     <geo>38.97859 -76.49184</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4347242/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q28271</idno>
+               </place>
+               <place xml:id="tillich_place_id__871">
+                  <placeName>Schwäbisch Hall</placeName>
+                  <location type="coords">
+                     <geo>49.11127 9.73908</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2835481/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q14910</idno>
+               </place>
+               <place xml:id="tillich_place_id__872">
+                  <placeName>Munster</placeName>
+                  <location type="coords">
+                     <geo>52.98569 10.08756</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2867542/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q506599</idno>
+               </place>
             </listPlace>
          </div>
       </body>

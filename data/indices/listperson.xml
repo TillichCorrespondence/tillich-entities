@@ -6692,9 +6692,11 @@
                </person>
                <person xml:id="tillich_person_id__1639">
                   <persName>Roosevelt, Eleanor</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118642022</idno>
                </person>
                <person xml:id="tillich_person_id__1640">
                   <persName>Roosevelt, Franklin D.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118602551</idno>
                </person>
                <person xml:id="tillich_person_id__1641">
                   <persName>Ropers, Margret</persName>
@@ -15950,6 +15952,7 @@
                </person>
                <person xml:id="tillich_person_id__2759">
                   <persName>Ottmer, Johanne</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117171328</idno>
                   <note type="bio"><p>Sie war eine geborene Otto und die Schwester von Rudolf Otto. 1899 heiratete sie Ernst Ottmer, der jedoch bereits 1904 verstarb. Seitdem lebte sie überwiegend bei ihrem Bruder und kümmerte sich um seinen Haushalt.</p></note>
                </person>
                <person xml:id="tillich_person_id__2760">
@@ -18641,6 +18644,7 @@
                <person xml:id="tillich_person_id__3370">
                   <persName>Roosevelt, Theodore</persName>
                   <occupation>26. Präsident der Vereinigten Staaten von Amerika</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118749633</idno>
                </person>
                <person xml:id="tillich_person_id__3371">
                   <persName>Reinhart</persName>
@@ -19342,6 +19346,43 @@
                </person>
                <person xml:id="tillich_person_id__3520">
                   <persName>Hirsch, Alexander</persName>
+               </person>
+               <person xml:id="tillich_person_id__3521">
+                  <persName>Lawson, Evald Benjamin</persName>
+                  <occupation>evangelischer Theologe, Präsident d. Upsala College 1938–1965</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3522">
+                  <persName>Meyer, Hans</persName>
+                  <occupation>Arzt</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3523">
+                  <persName>Meyer, Hilda</persName>
+                  <note type="bio"><p>Ehefrau von Hans Meyer (3522)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3524">
+                  <persName>Meyer, George</persName>
+                  <note type="bio"><p>Sohn von Hans und Hilda Meyer (3522, 3523)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3525">
+                  <persName>Meyer, Eve</persName>
+                  <note type="bio"><p>Tochter von Hans und Hilda Meyer (3522, 3523)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3526">
+                  <persName>Ottmer, Grete</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117171298</idno>
+                  <note type="bio"><p>Tochter v. Johanne Ottmer (ID: 2759), Nichte v. Rudolf Otto (ID: 1438)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3527">
+                  <persName>Fritz, Wilfried</persName>
+               </person>
+               <person xml:id="tillich_person_id__3528">
+                  <persName>Fritz, Helmut</persName>
+               </person>
+               <person xml:id="tillich_person_id__3529">
+                  <persName>???, Annemarie</persName>
+               </person>
+               <person xml:id="tillich_person_id__3530">
+                  <persName>???, Emil</persName>
                </person>
             </listPerson>
          </div>
