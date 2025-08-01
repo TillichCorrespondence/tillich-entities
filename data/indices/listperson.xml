@@ -19041,7 +19041,7 @@
                   <birth>
                      <date>1893-06-30</date>
                      <settlement>
-                        <placeName>Manchester</placeName>
+                        <placeName key="#tillich_place_id__874">Manchester</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -19383,6 +19383,27 @@
                </person>
                <person xml:id="tillich_person_id__3530">
                   <persName>???, Emil</persName>
+               </person>
+               <person xml:id="tillich_person_id__3531">
+                  <persName>Bick</persName>
+               </person>
+               <person xml:id="tillich_person_id__3532">
+                  <persName>Kruck</persName>
+               </person>
+               <person xml:id="tillich_person_id__3533">
+                  <persName>Garga</persName>
+               </person>
+               <person xml:id="tillich_person_id__3534">
+                  <persName>McMillan &amp; Co</persName>
+               </person>
+               <person xml:id="tillich_person_id__3535">
+                  <persName>von Schleswig-Holstein-Sonderburg-Augustenburg VA, Auguste Viktoria Friederike Luise Feodora Jenny</persName>
+                  <occupation>Deutsche Kaiserin, Frau von Wilhelm II.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118651129</idno>
+               </person>
+               <person xml:id="tillich_person_id__3536">
+                  <persName>Boller, Elly</persName>
+                  <note type="bio"><p>Schwester von Salome Boller</p></note>
                </person>
             </listPerson>
          </div>

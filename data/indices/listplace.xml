@@ -5404,6 +5404,22 @@
                   <idno type="geonames">https://sws.geonames.org/2867542/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q506599</idno>
                </place>
+               <place xml:id="tillich_place_id__874">
+                  <placeName>Manchester</placeName>
+                  <location type="coords">
+                     <geo>53.48095 -2.23743</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2643123/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q18125</idno>
+               </place>
+               <place xml:id="tillich_place_id__875">
+                  <placeName>Küsnacht</placeName>
+                  <location type="coords">
+                     <geo>47.31805 8.58401</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2660089/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q69216</idno>
+               </place>
             </listPlace>
          </div>
       </body>

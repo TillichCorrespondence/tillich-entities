@@ -8083,5 +8083,27 @@
     "latitude": "52.98569",
     "longitude": "10.08756",
     "wikidata_url": "https://www.wikidata.org/wiki/Q506599"
+  },
+  "874": {
+    "id": 874,
+    "order": "861.00000000000000000000",
+    "name": "Manchester",
+    "tillich_id": "tillich_place_id__874",
+    "geonames_url": "https://www.geonames.org/2643123/",
+    "Working Notes": "",
+    "latitude": "53.48095",
+    "longitude": "-2.23743",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q18125"
+  },
+  "875": {
+    "id": 875,
+    "order": "862.00000000000000000000",
+    "name": "Küsnacht",
+    "tillich_id": "tillich_place_id__875",
+    "geonames_url": "https://www.geonames.org/2660089/",
+    "Working Notes": "",
+    "latitude": "47.31805",
+    "longitude": "8.58401",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q69216"
   }
 }
