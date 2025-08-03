@@ -19405,6 +19405,83 @@
                   <persName>Boller, Elly</persName>
                   <note type="bio"><p>Schwester von Salome Boller</p></note>
                </person>
+               <person xml:id="tillich_person_id__3537">
+                  <persName>Waldman, Morris</persName>
+                  <birth>
+                     <date>1879-05-01</date>
+                     <settlement>
+                        <placeName>Bardejov, Slowakei</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1963-09-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__865">New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Amerikanischer Rabbi, Sozialarbeiter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117119342</idno>
+               </person>
+               <person xml:id="tillich_person_id__3538">
+                  <persName>MacIver, Robert M.</persName>
+                  <birth>
+                     <date>1882-04-17</date>
+                     <settlement>
+                        <placeName>Stornoway, Schottland</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1970-06-15</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__865">New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politologe, Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/124559042</idno>
+               </person>
+               <person xml:id="tillich_person_id__3539">
+                  <persName>Landis, Benson Y.</persName>
+                  <birth>
+                     <date>1897</date>
+                  </birth>
+                  <death>
+                     <date>1966</date>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1280672870</idno>
+               </person>
+               <person xml:id="tillich_person_id__3540">
+                  <persName>Jessup, Philip Caryl</persName>
+                  <birth>
+                     <date>1897-01-05</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__865">New York</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1986-01-31</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__865">New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Jurist, Diplomat, Völkerrechtler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118776177</idno>
+               </person>
+               <person xml:id="tillich_person_id__3541">
+                  <persName>Duggan, Stephen P.</persName>
+                  <birth>
+                     <date>1870-12-20</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__865">New York</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-08-18</date>
+                     <settlement>
+                        <placeName>Stamford, Conneticut</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Bildungsforscher</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
