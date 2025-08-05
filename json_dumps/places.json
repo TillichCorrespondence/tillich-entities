@@ -8105,5 +8105,27 @@
     "latitude": "47.31805",
     "longitude": "8.58401",
     "wikidata_url": "https://www.wikidata.org/wiki/Q69216"
+  },
+  "876": {
+    "id": 876,
+    "order": "863.00000000000000000000",
+    "name": "Harlech",
+    "tillich_id": "tillich_place_id__876",
+    "geonames_url": "https://www.geonames.org/2647471/",
+    "Working Notes": "",
+    "latitude": "52.85941",
+    "longitude": "-4.10831",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1024935"
+  },
+  "877": {
+    "id": 877,
+    "order": "864.00000000000000000000",
+    "name": "Wales",
+    "tillich_id": "tillich_place_id__877",
+    "geonames_url": "https://www.geonames.org/2634895/",
+    "Working Notes": "",
+    "latitude": "52.50000",
+    "longitude": "-3.50000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25"
   }
 }

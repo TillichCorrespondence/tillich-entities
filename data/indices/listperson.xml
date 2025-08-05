@@ -1514,7 +1514,8 @@
                   <persName>Beyer, Hermann Wolfgang</persName>
                </person>
                <person xml:id="tillich_person_id__212">
-                  <persName>Beyer, Oscar</persName>
+                  <persName>Beyer, Oskar</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116159626</idno>
                </person>
                <person xml:id="tillich_person_id__213">
                   <persName>Beza, Theodor</persName>
@@ -3608,7 +3609,6 @@
                </person>
                <person xml:id="tillich_person_id__788">
                   <persName>Hanffstengel, Gottfried von</persName>
-                  <occupation>Theologe, Jugendfreund</occupation>
                </person>
                <person xml:id="tillich_person_id__789">
                   <persName>Hanna, Charles B.</persName>
@@ -6351,6 +6351,9 @@
                </person>
                <person xml:id="tillich_person_id__1552">
                   <persName>Ragué, Heinrich Samuel von</persName>
+                  <death>
+                     <date>1963</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__1553">
                   <persName>Raimundus Lullus</persName>
@@ -6508,6 +6511,7 @@
                <person xml:id="tillich_person_id__1592">
                   <persName>Rhein, Ernst</persName>
                   <occupation>Vater von Christoph Rhein, Mitstudent von Tillich</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1108562272</idno>
                </person>
                <person xml:id="tillich_person_id__1593">
                   <persName>Rheindorf, Kurt</persName>
@@ -11183,6 +11187,9 @@
                </person>
                <person xml:id="tillich_person_id__2147">
                   <persName>Vethake, Hans</persName>
+                  <death>
+                     <date>1968</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2148">
                   <persName>Schlemm, ???</persName>
@@ -11226,7 +11233,7 @@
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2155">
-                  <persName>Voget, Hans</persName>
+                  <persName>Voget, Johannes</persName>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2156">
@@ -11375,7 +11382,7 @@
                   <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2185">
-                  <persName>Meyersieck, Joh.</persName>
+                  <persName>Meyersieck, Johannes</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
                   <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
@@ -11637,7 +11644,10 @@
                   <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2226">
-                  <persName>???, Anton von</persName>
+                  <persName>Senden, Anton van</persName>
+                  <death>
+                     <date>1918</date>
+                  </death>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2227">
@@ -11661,7 +11671,7 @@
                   <note type="bio"><p>Sie war die Mutter von G. v. Hanffstengel.</p></note>
                </person>
                <person xml:id="tillich_person_id__2233">
-                  <persName>Engelmann, ???</persName>
+                  <persName>Engelmann, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__2234">
                   <persName>Heintze, Hans Karl Ludwig Theodor</persName>
@@ -17468,7 +17478,10 @@
                   <persName>Schmidt, Fr.</persName>
                </person>
                <person xml:id="tillich_person_id__3061">
-                  <persName>Korte, K</persName>
+                  <persName>Korte, Konrad</persName>
+                  <death>
+                     <date>1958</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__3062">
                   <persName/>
@@ -19481,6 +19494,23 @@
                      </settlement>
                   </death>
                   <occupation>Bildungsforscher</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3542">
+                  <persName>Schuster, Nikolaus</persName>
+               </person>
+               <person xml:id="tillich_person_id__3543">
+                  <persName>Voget, Hermann</persName>
+               </person>
+               <person xml:id="tillich_person_id__3544">
+                  <persName>Beyer, Margarete</persName>
+                  <note type="bio"><p>Ehefrau von Oskar Beyer, Schwester von Günther Löwenfeld.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3545">
+                  <persName>1. Adjutant</persName>
+               </person>
+               <person xml:id="tillich_person_id__3546">
+                  <persName>Löwenfeld, Peter</persName>
+                  <note type="bio"><p>Sohn von Claire und Günther Löwenfeld.</p></note>
                </person>
             </listPerson>
          </div>
