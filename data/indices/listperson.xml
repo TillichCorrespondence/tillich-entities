@@ -16843,7 +16843,7 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2908">
-                  <persName>Meinhof, ???</persName>
+                  <persName>Meinhof, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2909">
                   <persName/>
@@ -19511,6 +19511,11 @@
                <person xml:id="tillich_person_id__3546">
                   <persName>Löwenfeld, Peter</persName>
                   <note type="bio"><p>Sohn von Claire und Günther Löwenfeld.</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3547">
+                  <persName>Meinhof, Johannes</persName>
+                  <occupation>Pfarrer, Superintendent (Halle)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127299947</idno>
                </person>
             </listPerson>
          </div>

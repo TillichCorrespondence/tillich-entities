@@ -23251,7 +23251,7 @@
     "tillich_id": "tillich_person_id__1295",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": null,
+    "working_note": "T07, H07, Br09",
     "place_of_birth": null,
     "place_of_death": null
   },
@@ -36571,7 +36571,7 @@
     "tillich_id": "tillich_person_id__2037",
     "date_of_birth": "1888-06-12",
     "date_of_death": "1954",
-    "working_note": null,
+    "working_note": "H07, S08",
     "place_of_birth": "",
     "place_of_death": "Bad Soden am Taunus"
   },
@@ -51950,9 +51950,9 @@
   "2908": {
     "id": 2908,
     "order": "2903.00000000000000000000",
-    "name": "Meinhof, ???",
+    "name": "Meinhof, Hans",
     "surname": "Meinhof",
-    "forename": "???",
+    "forename": "Hans",
     "from_to": "",
     "occupation": "",
     "bio": "",
@@ -51961,7 +51961,7 @@
     "tillich_id": "tillich_person_id__2908",
     "date_of_birth": null,
     "date_of_death": null,
-    "working_note": "Bruder von Heinrich Meinhof.",
+    "working_note": "T07, H07, Br09, Bruder von Heinrich Meinhof.",
     "place_of_birth": null,
     "place_of_death": null
   },
@@ -63158,6 +63158,24 @@
     "date_of_birth": "",
     "date_of_death": "",
     "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3547": {
+    "id": 3547,
+    "order": "3536.00000000000000000000",
+    "name": "Meinhof, Johannes",
+    "surname": "",
+    "forename": "",
+    "from_to": "1859-1947",
+    "occupation": "Pfarrer, Superintendent (Halle)",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/127299947",
+    "tillich_id": "tillich_person_id__3547",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Gd78, E79, L80, H81, Vater von Hans und Heinrich.",
     "place_of_birth": "",
     "place_of_death": ""
   }
