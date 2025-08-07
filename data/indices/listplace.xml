@@ -5436,6 +5436,38 @@
                   <idno type="geonames">https://sws.geonames.org/2634895/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q25</idno>
                </place>
+               <place xml:id="tillich_place_id__878">
+                  <placeName>Estes Park (CO)</placeName>
+                  <location type="coords">
+                     <geo>40.37721 -105.52167</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5576882/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1010533</idno>
+               </place>
+               <place xml:id="tillich_place_id__879">
+                  <placeName>Hiroshima</placeName>
+                  <location type="coords">
+                     <geo>34.40000 132.45000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/1862415/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q34664</idno>
+               </place>
+               <place xml:id="tillich_place_id__880">
+                  <placeName>Manomet (MA)</placeName>
+                  <location type="coords">
+                     <geo>41.91872 -70.56614</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4943007/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6751254</idno>
+               </place>
+               <place xml:id="tillich_place_id__881">
+                  <placeName>Wellesley (MA)</placeName>
+                  <location type="coords">
+                     <geo>42.29649 -71.29256</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4954738/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q533317</idno>
+               </place>
             </listPlace>
          </div>
       </body>

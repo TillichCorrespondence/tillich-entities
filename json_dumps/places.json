@@ -8127,5 +8127,49 @@
     "latitude": "52.50000",
     "longitude": "-3.50000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q25"
+  },
+  "878": {
+    "id": 878,
+    "order": "865.00000000000000000000",
+    "name": "Estes Park (CO)",
+    "tillich_id": "tillich_place_id__878",
+    "geonames_url": "https://www.geonames.org/5576882/",
+    "Working Notes": "",
+    "latitude": "40.37721",
+    "longitude": "-105.52167",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1010533"
+  },
+  "879": {
+    "id": 879,
+    "order": "866.00000000000000000000",
+    "name": "Hiroshima",
+    "tillich_id": "tillich_place_id__879",
+    "geonames_url": "https://www.geonames.org/1862415/",
+    "Working Notes": "",
+    "latitude": "34.40000",
+    "longitude": "132.45000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q34664"
+  },
+  "880": {
+    "id": 880,
+    "order": "867.00000000000000000000",
+    "name": "Manomet (MA)",
+    "tillich_id": "tillich_place_id__880",
+    "geonames_url": "https://www.geonames.org/4943007/",
+    "Working Notes": "",
+    "latitude": "41.91872",
+    "longitude": "-70.56614",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6751254"
+  },
+  "881": {
+    "id": 881,
+    "order": "868.00000000000000000000",
+    "name": "Wellesley (MA)",
+    "tillich_id": "tillich_place_id__881",
+    "geonames_url": "https://www.geonames.org/4954738/",
+    "Working Notes": "",
+    "latitude": "42.29649",
+    "longitude": "-71.29256",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q533317"
   }
 }

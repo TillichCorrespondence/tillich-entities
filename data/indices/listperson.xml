@@ -11230,10 +11230,16 @@
                </person>
                <person xml:id="tillich_person_id__2154">
                   <persName>Stosch, Martin</persName>
+                  <death>
+                     <date>1964</date>
+                  </death>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2155">
                   <persName>Voget, Johannes</persName>
+                  <death>
+                     <date>1965</date>
+                  </death>
                   <note type="bio"><p>Er war ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2156">
@@ -11274,7 +11280,10 @@
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2165">
-                  <persName>Heermann, ???</persName>
+                  <persName>Heermann, Adolf</persName>
+                  <death>
+                     <date>1985</date>
+                  </death>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2166">
@@ -11290,7 +11299,10 @@
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2169">
-                  <persName>Struckmaier, ???</persName>
+                  <persName>Struckmeier, Georg</persName>
+                  <death>
+                     <date>1974</date>
+                  </death>
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2170">
@@ -11547,7 +11559,10 @@
                   <note type="bio"><p>Er stand vermutlich im Kontakt mit der Wingolfsverbindung in Stuttgart.</p></note>
                </person>
                <person xml:id="tillich_person_id__2207">
-                  <persName>Auel, ???</persName>
+                  <persName>Auel, Friedrich Wilhelm</persName>
+                  <death>
+                     <date>1974</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2208">
                   <persName>Kremer, ???</persName>
@@ -12143,6 +12158,9 @@
                </person>
                <person xml:id="tillich_person_id__2298">
                   <persName>Bertheau, Hermann</persName>
+                  <death>
+                     <date>1913</date>
+                  </death>
                   <occupation>Mediziner;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1143870417</idno>
                </person>
@@ -12473,7 +12491,10 @@
                   <persName>Schetelig, O.</persName>
                </person>
                <person xml:id="tillich_person_id__2334">
-                  <persName>Mensching, ???</persName>
+                  <persName>Mensching, Wilhelm</persName>
+                  <death>
+                     <date>1933</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2335">
                   <persName>Felden, ???</persName>
@@ -12741,7 +12762,10 @@
                   <note type="bio"><p>Er war befreundet mit Hermann Schafft.</p></note>
                </person>
                <person xml:id="tillich_person_id__2369">
-                  <persName>Gottschalk, M.</persName>
+                  <persName>Gottschalk, Martin</persName>
+                  <death>
+                     <date>1966</date>
+                  </death>
                   <note type="bio"><p>Er war ein Hallenser Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2370">
@@ -12825,7 +12849,10 @@
                   <note type="bio"><p>Er war ein Göttinger Wingolfit.</p></note>
                </person>
                <person xml:id="tillich_person_id__2379">
-                  <persName>Bublitz, ???</persName>
+                  <persName>Bublitz, Siegfried</persName>
+                  <death>
+                     <date>1965</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2380">
                   <persName>Kilger, Johannes</persName>
@@ -14289,11 +14316,17 @@
                   <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2526">
-                  <persName>Weik, ???</persName>
+                  <persName>Weik, Friedrich</persName>
+                  <death>
+                     <date>1974</date>
+                  </death>
                   <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2527">
-                  <persName>Hanker, ???</persName>
+                  <persName>Hanke, Johannes</persName>
+                  <death>
+                     <date>1958</date>
+                  </death>
                   <note type="bio"><p>Er war vermutlich ein Studienkollege von Paul Tillich.</p></note>
                </person>
                <person xml:id="tillich_person_id__2528">
@@ -16237,7 +16270,10 @@
                   <persName>(Steuerrat), Tillich</persName>
                </person>
                <person xml:id="tillich_person_id__2800">
-                  <persName>Mohn, ???</persName>
+                  <persName>Mohn, Hans</persName>
+                  <death>
+                     <date>1970</date>
+                  </death>
                   <note type="bio"><p>Er war der Leibfux von Hans Balke.</p></note>
                </person>
                <person xml:id="tillich_person_id__2801">
@@ -19516,6 +19552,22 @@
                   <persName>Meinhof, Johannes</persName>
                   <occupation>Pfarrer, Superintendent (Halle)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127299947</idno>
+               </person>
+               <person xml:id="tillich_person_id__3548">
+                  <persName>Thermann, Oskar</persName>
+               </person>
+               <person xml:id="tillich_person_id__3549">
+                  <persName>Hartshorne, Marion Holmes</persName>
+                  <occupation>Professor für Philosophie und Religion</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1156969530</idno>
+               </person>
+               <person xml:id="tillich_person_id__3550">
+                  <persName>Vlastos, Gregory</persName>
+                  <occupation>Philosoph, Professor für Philosophie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11923758X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3551">
+                  <persName>Wymann, ???</persName>
                </person>
             </listPerson>
          </div>
