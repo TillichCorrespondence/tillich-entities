@@ -63250,5 +63250,23 @@
     "working_note": "Erwähnt in L10965",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3552": {
+    "id": 3552,
+    "order": "3541.00000000000000000000",
+    "name": "Frebold, Georg",
+    "surname": "Frebold",
+    "forename": "Georg",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/11674703X",
+    "tillich_id": "tillich_person_id__3552",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

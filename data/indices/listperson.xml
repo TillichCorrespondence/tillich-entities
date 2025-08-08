@@ -19569,6 +19569,10 @@
                <person xml:id="tillich_person_id__3551">
                   <persName>Wymann, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__3552">
+                  <persName>Frebold, Georg</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11674703X</idno>
+               </person>
             </listPerson>
          </div>
       </body>
