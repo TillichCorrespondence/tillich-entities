@@ -8171,5 +8171,27 @@
     "latitude": "42.29649",
     "longitude": "-71.29256",
     "wikidata_url": "https://www.wikidata.org/wiki/Q533317"
+  },
+  "882": {
+    "id": 882,
+    "order": "869.00000000000000000000",
+    "name": "Shanghai",
+    "tillich_id": "tillich_place_id__882",
+    "geonames_url": "https://www.geonames.org/1796236/",
+    "Working Notes": "",
+    "latitude": "31.22436",
+    "longitude": "121.46917",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8686"
+  },
+  "883": {
+    "id": 883,
+    "order": "870.00000000000000000000",
+    "name": "Qingdao",
+    "tillich_id": "tillich_place_id__883",
+    "geonames_url": "https://www.geonames.org/1797929/",
+    "Working Notes": "",
+    "latitude": "36.06690",
+    "longitude": "120.38270",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q170322"
   }
 }
