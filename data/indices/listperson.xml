@@ -11616,7 +11616,7 @@
                   <persName>Ritter, Rudi</persName>
                </person>
                <person xml:id="tillich_person_id__2216">
-                  <persName>Jarcke, ???</persName>
+                  <persName>Jarcke, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2217">
                   <persName>Jülicher, Adolf</persName>
@@ -11725,7 +11725,10 @@
                   <occupation>Pfarrer;</occupation>
                </person>
                <person xml:id="tillich_person_id__2243">
-                  <persName>Hessig, O.</persName>
+                  <persName>Hessig, Otto</persName>
+                  <death>
+                     <date>1945</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2244">
                   <persName>Grill, Julius</persName>
@@ -19572,6 +19575,30 @@
                <person xml:id="tillich_person_id__3552">
                   <persName>Frebold, Georg</persName>
                   <idno type="gnd">https://d-nb.info/gnd/11674703X</idno>
+               </person>
+               <person xml:id="tillich_person_id__3553">
+                  <persName>Kuhle, Fritz</persName>
+                  <death>
+                     <date>1965</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__3554">
+                  <persName>Meinhold, Johannes</persName>
+               </person>
+               <person xml:id="tillich_person_id__3555">
+                  <persName>Raab, Ernst</persName>
+                  <death>
+                     <date>1917</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__3556">
+                  <persName>Lucius, Eduard</persName>
+                  <death>
+                     <date>1951</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__3557">
+                  <persName>Zülch, Edwart</persName>
                </person>
             </listPerson>
          </div>
