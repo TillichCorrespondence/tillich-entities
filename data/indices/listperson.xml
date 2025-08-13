@@ -16921,9 +16921,15 @@
                </person>
                <person xml:id="tillich_person_id__2916">
                   <persName>Vethake, Wilhelm</persName>
+                  <death>
+                     <date>1917</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2917">
-                  <persName>Vethake, Bruder</persName>
+                  <persName>Vethake, Fritz</persName>
+                  <death>
+                     <date>1953</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2918">
                   <persName>Hans von Schubert</persName>
@@ -19599,6 +19605,27 @@
                </person>
                <person xml:id="tillich_person_id__3557">
                   <persName>Zülch, Edwart</persName>
+               </person>
+               <person xml:id="tillich_person_id__3558">
+                  <persName>Burgdorf, Martin</persName>
+                  <death>
+                     <date>1964</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__3559">
+                  <persName>Fränzel, Walter</persName>
+               </person>
+               <person xml:id="tillich_person_id__3560">
+                  <persName>Jahn, Heinrich</persName>
+                  <death>
+                     <date>1963</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__3561">
+                  <persName>Boye, Johannes</persName>
+                  <death>
+                     <date>1944</date>
+                  </death>
                </person>
             </listPerson>
          </div>
