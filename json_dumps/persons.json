@@ -39422,9 +39422,9 @@
   "2196": {
     "id": 2196,
     "order": "2196.00000000000000000000",
-    "name": "???, Käte",
+    "name": "???, Käthe",
     "surname": "???",
-    "forename": "Käte",
+    "forename": "Käthe",
     "from_to": "",
     "occupation": "",
     "bio": "Sie wird als eine Tante von Paul Tillich bezeichnet.",
@@ -56432,8 +56432,8 @@
   "3166": {
     "id": 3166,
     "order": "3158.00000000000000000000",
-    "name": "Heine, Pastor",
-    "surname": "",
+    "name": "Heine, Ernst Albert",
+    "surname": "Heine",
     "forename": "",
     "from_to": "",
     "occupation": "",
@@ -63430,5 +63430,23 @@
     "working_note": "R05,E06",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3562": {
+    "id": 3562,
+    "order": "3551.00000000000000000000",
+    "name": "Ebers, Paul Friedrich",
+    "surname": "",
+    "forename": "",
+    "from_to": "*17.07.1849 in Eichwerder bei Stettin. † 18.03.1912 in Bredow",
+    "occupation": "zuletzt Pfarrer in Bredow",
+    "bio": "* 17.07.1849 in Eichwerder bei Stettin. † 18.03.1912 in Bredow. Gymnasium Pyritz. Universitäten Halle, Würzburg, Berlin, Greifswald und Erlangen. Ordiniert am 26.11.1876. 1876 Hilfsprediger. 1877 Pfarrer in Königswalde, Kirchenkreis Sternberg I. 1877 Oberpfarrer in Driesen, Kirchenkreis Friedeberg. Emeritiert am 01.01.1905. 1906 Hilfsprediger. 1910 Pfarrer in Bredow bis 1912. Sein Vorgänger war Adolf Julius Müller. Sein Nachfolger war Max Karl Hermann Ziegel. Am 07.05.1910 wird ihm die Aufsicht über die Schule in Bredow übertragen. Vater: Pfarrer Friedrich Ludwig Ebers, Mutter: Marie Friederike Johanna Giebe. Ehefrau: Anna Mittendorf, verh. am 21.08.1879 in Berlin. Quelle: Evangelisches Pfarrerbuch S. 173.",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3562",
+    "date_of_birth": "1849-07-17",
+    "date_of_death": "1912-03-18",
+    "working_note": "",
+    "place_of_birth": "Eichwerder bei Stettin",
+    "place_of_death": "Bredow"
   }
 }
