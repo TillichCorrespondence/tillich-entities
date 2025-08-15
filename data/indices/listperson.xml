@@ -11652,6 +11652,7 @@
                </person>
                <person xml:id="tillich_person_id__2224">
                   <persName>Dürselen, Paul Rudolf</persName>
+                  <occupation>Lic. theolog., erster Pfarrer der Gnadenkirche in Berlin</occupation>
                   <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__2225">
@@ -16482,7 +16483,21 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2847">
-                  <persName>Jordan, Julius</persName>
+                  <persName>Jordan, Julius Adolf Albert</persName>
+                  <birth>
+                     <date>1868_02_11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__307">Münster</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1928_12_03</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__613">Wittenberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer, Konsistorialrat, Konservator</occupation>
+                  <note type="bio"><p>D. Julius Jordan, geb. am 11.02.1868 in Münster i. W., Sohn des Div.-Pf. Jordan, 1893 Insp. am Tholuckschen Convikt in Halle, 1896 Hilfspred. in Hörde i. W., 1897 Pf.-Verw. in Werther, 1897 Pf. in Warendorf, 1909 Direktor des Pred.-Seminars in Soest, von 1912-1924 Direktor am Evangelischen Predigerseminar in Wittenberg, gest. am 03.12.1928 in Wittenberg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2848">
                   <persName>Hausrath, Adolf</persName>
@@ -17926,6 +17941,7 @@
                </person>
                <person xml:id="tillich_person_id__3166">
                   <persName>Heine, Ernst Albert</persName>
+                  <occupation>Pfarrer in Zeestow (von 1907-1934)</occupation>
                </person>
                <person xml:id="tillich_person_id__3167">
                   <persName>Cousin von Paul Merrem</persName>

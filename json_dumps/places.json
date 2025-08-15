@@ -8193,5 +8193,27 @@
     "latitude": "36.06690",
     "longitude": "120.38270",
     "wikidata_url": "https://www.wikidata.org/wiki/Q170322"
+  },
+  "885": {
+    "id": 885,
+    "order": "871.00000000000000000000",
+    "name": "Zeestow",
+    "tillich_id": "tillich_place_id__885",
+    "geonames_url": "https://sws.geonames.org/2805086/",
+    "Working Notes": "",
+    "latitude": "52.57301",
+    "longitude": "12.95923",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q55816264"
+  },
+  "886": {
+    "id": 886,
+    "order": "872.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__886",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
