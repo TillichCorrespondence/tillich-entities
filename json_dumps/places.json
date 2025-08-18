@@ -8215,5 +8215,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "887": {
+    "id": 887,
+    "order": "873.00000000000000000000",
+    "name": "Gelnhausen",
+    "tillich_id": "tillich_place_id__887",
+    "geonames_url": "https://sws.geonames.org/2921473/",
+    "Working Notes": "",
+    "latitude": "50.20164",
+    "longitude": "9.18742",
+    "wikidata_url": ""
   }
 }
