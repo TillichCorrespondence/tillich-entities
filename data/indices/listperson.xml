@@ -19683,6 +19683,43 @@
                <person xml:id="tillich_person_id__3569">
                   <persName>Ernst Friedrich Christian, Müsebeck</persName>
                </person>
+               <person xml:id="tillich_person_id__3570">
+                  <persName>Lienau, Robert</persName>
+               </person>
+               <person xml:id="tillich_person_id__3571">
+                  <persName>???, ???</persName>
+                  <note type="bio"><p>Schwiegermutter von Karl Ludwig Schmidt</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3572">
+                  <persName>???, ???</persName>
+                  <note type="bio"><p>Frau von Karl Ludwig Schmidt</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3573">
+                  <persName>Stöcker, ???</persName>
+                  <note type="bio"><p>Schwester von Lydia Stöcker</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3574">
+                  <persName>Adam, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3575">
+                  <persName>Radbruch, Anselm</persName>
+                  <note type="bio"><p>Sohn von Gustav Radbruch</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3576">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3577">
+                  <persName>Bahr, Anna-Margareta</persName>
+               </person>
+               <person xml:id="tillich_person_id__3578">
+                  <persName>von Gerlach, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3579">
+                  <persName>???, J</persName>
+               </person>
+               <person xml:id="tillich_person_id__3580">
+                  <persName>???, A</persName>
+               </person>
             </listPerson>
          </div>
       </body>

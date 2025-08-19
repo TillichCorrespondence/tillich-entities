@@ -5499,6 +5499,30 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2921473/</idno>
                </place>
+               <place xml:id="tillich_place_id__888">
+                  <placeName>Teupitz</placeName>
+                  <location type="coords">
+                     <geo>52.12967 13.61960</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2823256/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33506211</idno>
+               </place>
+               <place xml:id="tillich_place_id__889">
+                  <placeName>Berlin, Steglitz</placeName>
+                  <location type="coords">
+                     <geo>52.45606 13.33200</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2829109/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q700211</idno>
+               </place>
+               <place xml:id="tillich_place_id__890">
+                  <placeName>Wernburg bei Pößneck</placeName>
+                  <location type="coords">
+                     <geo>50.69358 11.59229</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2852512/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32701724</idno>
+               </place>
             </listPlace>
          </div>
       </body>

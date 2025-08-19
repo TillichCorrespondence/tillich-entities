@@ -8226,5 +8226,38 @@
     "latitude": "50.20164",
     "longitude": "9.18742",
     "wikidata_url": ""
+  },
+  "888": {
+    "id": 888,
+    "order": "874.00000000000000000000",
+    "name": "Teupitz",
+    "tillich_id": "tillich_place_id__888",
+    "geonames_url": "https://sws.geonames.org/2823256/",
+    "Working Notes": "",
+    "latitude": "52.12967",
+    "longitude": "13.61960",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33506211"
+  },
+  "889": {
+    "id": 889,
+    "order": "875.00000000000000000000",
+    "name": "Berlin, Steglitz",
+    "tillich_id": "tillich_place_id__889",
+    "geonames_url": "https://sws.geonames.org/2829109/",
+    "Working Notes": "",
+    "latitude": "52.45606",
+    "longitude": "13.33200",
+    "wikidata_url": "http://www.wikidata.org/entity/Q700211"
+  },
+  "890": {
+    "id": 890,
+    "order": "876.00000000000000000000",
+    "name": "Wernburg bei Pößneck",
+    "tillich_id": "tillich_place_id__890",
+    "geonames_url": "https://sws.geonames.org/2852512/",
+    "Working Notes": "",
+    "latitude": "50.69358",
+    "longitude": "11.59229",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32701724"
   }
 }
