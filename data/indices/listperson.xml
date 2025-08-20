@@ -19720,6 +19720,31 @@
                <person xml:id="tillich_person_id__3580">
                   <persName>???, A</persName>
                </person>
+               <person xml:id="tillich_person_id__3581">
+                  <persName>Seeliger</persName>
+               </person>
+               <person xml:id="tillich_person_id__3582">
+                  <persName>Deborah</persName>
+                  <occupation>Richterin und Prophetin aus dem Richterbuch des Tanach</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1108794203</idno>
+               </person>
+               <person xml:id="tillich_person_id__3583">
+                  <persName>Liliencron, Detlev von</persName>
+                  <birth>
+                     <date>1844-06-03</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__238">Kiel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1909-07-22</date>
+                     <settlement>
+                        <placeName>Alt-Rahlstedt</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Lyriker, Prosa- und Bühnenautor.</occupation>
+                  <idno type="gnd">https://portal.dnb.de/opac/showNextRecord?currentResultId=nid%3D118572954%26any&amp;currentPosition=0</idno>
+               </person>
             </listPerson>
          </div>
       </body>

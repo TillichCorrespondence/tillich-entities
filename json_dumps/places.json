@@ -8259,5 +8259,27 @@
     "latitude": "50.69358",
     "longitude": "11.59229",
     "wikidata_url": "http://www.wikidata.org/entity/Q32701724"
+  },
+  "891": {
+    "id": 891,
+    "order": "877.00000000000000000000",
+    "name": "Klosterdorf",
+    "tillich_id": "tillich_place_id__891",
+    "geonames_url": "https://www.geonames.org/6551078/oberbarnim.html",
+    "Working Notes": "Klosterdorf bei geonames nicht gefunden, Ortsteil der Gemeinde Oberbarnim",
+    "latitude": "52.59245",
+    "longitude": "13.95898",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q65620245"
+  },
+  "892": {
+    "id": 892,
+    "order": "878.00000000000000000000",
+    "name": "Israel",
+    "tillich_id": "tillich_place_id__892",
+    "geonames_url": "https://www.geonames.org/294640/",
+    "Working Notes": "",
+    "latitude": "31.50000",
+    "longitude": "34.75000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q801"
   }
 }
