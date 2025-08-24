@@ -19745,6 +19745,28 @@
                   <occupation>Deutscher Lyriker, Prosa- und Bühnenautor.</occupation>
                   <idno type="gnd">https://portal.dnb.de/opac/showNextRecord?currentResultId=nid%3D118572954%26any&amp;currentPosition=0</idno>
                </person>
+               <person xml:id="tillich_person_id__3584">
+                  <persName>Radbruch, Lydia</persName>
+                  <birth>
+                     <date>1888</date>
+                     <settlement>
+                        <placeName>Krakeln</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1974</date>
+                     <settlement>
+                        <placeName>Müllheim</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/116321962</idno>
+               </person>
+               <person xml:id="tillich_person_id__3585">
+                  <persName>Kikutsch, Yuichi</persName>
+               </person>
+               <person xml:id="tillich_person_id__3586">
+                  <persName>Trommershausen, Alfred</persName>
+               </person>
             </listPerson>
          </div>
       </body>
