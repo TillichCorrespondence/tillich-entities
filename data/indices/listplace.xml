@@ -5539,6 +5539,99 @@
                   <idno type="geonames">https://sws.geonames.org/294640/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q801</idno>
                </place>
+               <place xml:id="tillich_place_id__893">
+                  <placeName>Darfeld i. Westf.</placeName>
+               </place>
+               <place xml:id="tillich_place_id__894">
+                  <placeName>Papua</placeName>
+                  <location type="coords">
+                     <geo>-2.59026 139.41564</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/1643012/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5095</idno>
+               </place>
+               <place xml:id="tillich_place_id__895">
+                  <placeName>Einbeck</placeName>
+                  <location type="coords">
+                     <geo>51.82018 9.86961</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2931804/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31987379</idno>
+               </place>
+               <place xml:id="tillich_place_id__896">
+                  <placeName>Rittberg</placeName>
+                  <location type="coords">
+                     <geo>50.93225 7.30385</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2846421/</idno>
+               </place>
+               <place xml:id="tillich_place_id__897">
+                  <placeName>Müritz</placeName>
+                  <location type="coords">
+                     <geo>54.26257 12.26838</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2867458/</idno>
+               </place>
+               <place xml:id="tillich_place_id__898">
+                  <placeName>Ostsee</placeName>
+                  <idno type="geonames">https://sws.geonames.org/2633321/</idno>
+               </place>
+               <place xml:id="tillich_place_id__899">
+                  <placeName>Amiens</placeName>
+                  <location type="coords">
+                     <geo>49.90000 2.30000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3037854/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q41604</idno>
+               </place>
+               <place xml:id="tillich_place_id__900">
+                  <placeName>Aisne-Marne</placeName>
+                  <location type="coords">
+                     <geo>49.50000 3.50000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3038375/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3093</idno>
+               </place>
+               <place xml:id="tillich_place_id__901">
+                  <placeName>Ribnitz</placeName>
+                  <location type="coords">
+                     <geo>54.24356 12.42322</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3210688/</idno>
+               </place>
+               <place xml:id="tillich_place_id__902">
+                  <placeName>Königswinter</placeName>
+                  <location type="coords">
+                     <geo>50.67734 7.19245</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2885734/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33453943</idno>
+               </place>
+               <place xml:id="tillich_place_id__903">
+                  <placeName>Schlüchtern</placeName>
+                  <location type="coords">
+                     <geo>50.34891 9.52532</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2838201/</idno>
+               </place>
+               <place xml:id="tillich_place_id__904">
+                  <placeName>Taunus</placeName>
+               </place>
+               <place xml:id="tillich_place_id__906">
+                  <placeName>Sannerz</placeName>
+                  <location type="coords">
+                     <geo>50.32267 9.59330</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2841450/</idno>
+               </place>
+               <place xml:id="tillich_place_id__907">
+                  <placeName>Habertshof</placeName>
+                  <location type="coords">
+                     <geo>49.29255 11.59212</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2912991/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q91644664</idno>
+               </place>
             </listPlace>
          </div>
       </body>

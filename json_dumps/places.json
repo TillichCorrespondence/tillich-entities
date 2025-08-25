@@ -8281,5 +8281,170 @@
     "latitude": "31.50000",
     "longitude": "34.75000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q801"
+  },
+  "893": {
+    "id": 893,
+    "order": "879.00000000000000000000",
+    "name": "Darfeld i. Westf.",
+    "tillich_id": "tillich_place_id__893",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "894": {
+    "id": 894,
+    "order": "880.00000000000000000000",
+    "name": "Papua",
+    "tillich_id": "tillich_place_id__894",
+    "geonames_url": "https://sws.geonames.org/1643012/",
+    "Working Notes": "",
+    "latitude": "-2.59026",
+    "longitude": "139.41564",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5095"
+  },
+  "895": {
+    "id": 895,
+    "order": "881.00000000000000000000",
+    "name": "Einbeck",
+    "tillich_id": "tillich_place_id__895",
+    "geonames_url": "https://sws.geonames.org/2931804/",
+    "Working Notes": "",
+    "latitude": "51.82018",
+    "longitude": "9.86961",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31987379"
+  },
+  "896": {
+    "id": 896,
+    "order": "882.00000000000000000000",
+    "name": "Rittberg",
+    "tillich_id": "tillich_place_id__896",
+    "geonames_url": "https://sws.geonames.org/2846421/",
+    "Working Notes": "",
+    "latitude": "50.93225",
+    "longitude": "7.30385",
+    "wikidata_url": ""
+  },
+  "897": {
+    "id": 897,
+    "order": "883.00000000000000000000",
+    "name": "Müritz",
+    "tillich_id": "tillich_place_id__897",
+    "geonames_url": "https://sws.geonames.org/2867458/",
+    "Working Notes": "",
+    "latitude": "54.26257",
+    "longitude": "12.26838",
+    "wikidata_url": ""
+  },
+  "898": {
+    "id": 898,
+    "order": "884.00000000000000000000",
+    "name": "Ostsee",
+    "tillich_id": "tillich_place_id__898",
+    "geonames_url": "https://www.geonames.org/2633321",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "899": {
+    "id": 899,
+    "order": "885.00000000000000000000",
+    "name": "Amiens",
+    "tillich_id": "tillich_place_id__899",
+    "geonames_url": "https://sws.geonames.org/3037854/",
+    "Working Notes": "",
+    "latitude": "49.90000",
+    "longitude": "2.30000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q41604"
+  },
+  "900": {
+    "id": 900,
+    "order": "886.00000000000000000000",
+    "name": "Aisne-Marne",
+    "tillich_id": "tillich_place_id__900",
+    "geonames_url": "https://sws.geonames.org/3038375/",
+    "Working Notes": "",
+    "latitude": "49.50000",
+    "longitude": "3.50000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3093"
+  },
+  "901": {
+    "id": 901,
+    "order": "887.00000000000000000000",
+    "name": "Ribnitz",
+    "tillich_id": "tillich_place_id__901",
+    "geonames_url": "https://sws.geonames.org/3210688/",
+    "Working Notes": "",
+    "latitude": "54.24356",
+    "longitude": "12.42322",
+    "wikidata_url": ""
+  },
+  "902": {
+    "id": 902,
+    "order": "888.00000000000000000000",
+    "name": "Königswinter",
+    "tillich_id": "tillich_place_id__902",
+    "geonames_url": "https://sws.geonames.org/2885734/",
+    "Working Notes": "",
+    "latitude": "50.67734",
+    "longitude": "7.19245",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33453943"
+  },
+  "903": {
+    "id": 903,
+    "order": "889.00000000000000000000",
+    "name": "Schlüchtern",
+    "tillich_id": "tillich_place_id__903",
+    "geonames_url": "https://sws.geonames.org/2838201/",
+    "Working Notes": "",
+    "latitude": "50.34891",
+    "longitude": "9.52532",
+    "wikidata_url": ""
+  },
+  "904": {
+    "id": 904,
+    "order": "890.00000000000000000000",
+    "name": "Taunus",
+    "tillich_id": "tillich_place_id__904",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "905": {
+    "id": 905,
+    "order": "891.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__905",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "906": {
+    "id": 906,
+    "order": "892.00000000000000000000",
+    "name": "Sannerz",
+    "tillich_id": "tillich_place_id__906",
+    "geonames_url": "https://sws.geonames.org/2841450/",
+    "Working Notes": "",
+    "latitude": "50.32267",
+    "longitude": "9.59330",
+    "wikidata_url": ""
+  },
+  "907": {
+    "id": 907,
+    "order": "893.00000000000000000000",
+    "name": "Habertshof",
+    "tillich_id": "tillich_place_id__907",
+    "geonames_url": "https://sws.geonames.org/2912991/",
+    "Working Notes": "",
+    "latitude": "49.29255",
+    "longitude": "11.59212",
+    "wikidata_url": "http://www.wikidata.org/entity/Q91644664"
   }
 }
