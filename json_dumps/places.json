@@ -8446,5 +8446,27 @@
     "latitude": "49.29255",
     "longitude": "11.59212",
     "wikidata_url": "http://www.wikidata.org/entity/Q91644664"
+  },
+  "939": {
+    "id": 939,
+    "order": "894.00000000000000000000",
+    "name": "Westeuropa",
+    "tillich_id": "tillich_place_id__939",
+    "geonames_url": "https://www.geonames.org/9408659/",
+    "Working Notes": "",
+    "latitude": "50.21909",
+    "longitude": "7.42676",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27496"
+  },
+  "940": {
+    "id": 940,
+    "order": "895.00000000000000000000",
+    "name": "Texas (TX)",
+    "tillich_id": "tillich_place_id__940",
+    "geonames_url": "https://www.geonames.org/4736286/",
+    "Working Notes": "",
+    "latitude": "31.25044",
+    "longitude": "-99.25061",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1439"
   }
 }

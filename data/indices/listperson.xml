@@ -5563,6 +5563,7 @@
                <person xml:id="tillich_person_id__1323">
                   <persName>Meyer, Gerhard Emil Otto</persName>
                   <occupation>Ökonom</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1017513562</idno>
                   <note type="bio"><p>1921-1925 Studium der Nationalökonomie in Halle, Tübingen, Rostock und Kiel, 1925 Diplom-Volkswirt. Nach kurzer Lehrtätigkeit 1925 wurde M. Mitarbeiter Wassily Leontiefs am Institut für Weltwirtschaft in Kiel und dort 1930 von Adolf  Löwe promoviert. 1932 folgte er Löwe als Assistent an das Frankfurter Institut für Sozialforschung nach. 1933 Heirat mit Julia Feinberg (geb. 1908), die in Frankfurt studiert hatte und im späteren US-amerikanischen Exil an der University of Chicago Chemie lehren sollte. Zunächst jedoch gemeinsame Emigration nach Paris (1933) und bald darauf nach Manchester (1935). 1937 folgte die Emigration in die USA, wo M. bis zu seinem Tod an der University of Chicago lehrte (1937-1942 Instructor, 1942-1946 Assistant Professor,  1946-1965 Associate Professor, 1965-1973 Professor of Social Science).</p></note>
                </person>
                <person xml:id="tillich_person_id__1324">
@@ -20011,6 +20012,16 @@
                </person>
                <person xml:id="tillich_person_id__3663">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3696">
+                  <persName>Duke, Doris</persName>
+                  <occupation>Unternehmerin, Mäzenin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1020166215</idno>
+               </person>
+               <person xml:id="tillich_person_id__3697">
+                  <persName>Marschak, Samuil Jakowlewitsch</persName>
+                  <occupation>russ. Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118782088</idno>
                </person>
             </listPerson>
          </div>
