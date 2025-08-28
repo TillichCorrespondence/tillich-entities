@@ -65302,5 +65302,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3698": {
+    "id": 3698,
+    "order": "3655.00000000000000000000",
+    "name": "Fackenthal, Frank D.",
+    "surname": "Fackenthal",
+    "forename": "Frank D.",
+    "from_to": "1883-1968",
+    "occupation": "Universitätsadministrator",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3698",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "https://en.wikipedia.org/wiki/Frank_D._Fackenthal",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3699": {
+    "id": 3699,
+    "order": "3656.00000000000000000000",
+    "name": "Butler, Nicholas Murray",
+    "surname": "Butler",
+    "forename": "Nicholas Murray",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/117185302",
+    "tillich_id": "tillich_person_id__3699",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

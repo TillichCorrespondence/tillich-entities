@@ -20023,6 +20023,14 @@
                   <occupation>russ. Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118782088</idno>
                </person>
+               <person xml:id="tillich_person_id__3698">
+                  <persName>Fackenthal, Frank D.</persName>
+                  <occupation>Universitätsadministrator</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3699">
+                  <persName>Butler, Nicholas Murray</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117185302</idno>
+               </person>
             </listPerson>
          </div>
       </body>
