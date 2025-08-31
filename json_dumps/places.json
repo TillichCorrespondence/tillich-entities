@@ -8468,5 +8468,16 @@
     "latitude": "31.25044",
     "longitude": "-99.25061",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1439"
+  },
+  "941": {
+    "id": 941,
+    "order": "896.00000000000000000000",
+    "name": "Quebec",
+    "tillich_id": "tillich_place_id__941",
+    "geonames_url": "https://www.geonames.org/6325494/quebec.html",
+    "Working Notes": "",
+    "latitude": "46.81228",
+    "longitude": "-71.21454",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q176"
   }
 }

@@ -5648,6 +5648,14 @@
                   <idno type="geonames">https://sws.geonames.org/4736286/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1439</idno>
                </place>
+               <place xml:id="tillich_place_id__941">
+                  <placeName>Quebec</placeName>
+                  <location type="coords">
+                     <geo>46.81228 -71.21454</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6325494/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q176</idno>
+               </place>
             </listPlace>
          </div>
       </body>

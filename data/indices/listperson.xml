@@ -19692,7 +19692,7 @@
                   <note type="bio"><p>Schwiegermutter von Karl Ludwig Schmidt</p></note>
                </person>
                <person xml:id="tillich_person_id__3572">
-                  <persName>???, ???</persName>
+                  <persName>Schmidt, Frau</persName>
                   <note type="bio"><p>Frau von Karl Ludwig Schmidt</p></note>
                </person>
                <person xml:id="tillich_person_id__3573">
@@ -20030,6 +20030,18 @@
                <person xml:id="tillich_person_id__3699">
                   <persName>Butler, Nicholas Murray</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117185302</idno>
+               </person>
+               <person xml:id="tillich_person_id__3700">
+                  <persName>Crolly</persName>
+               </person>
+               <person xml:id="tillich_person_id__3701">
+                  <persName>Schmitz</persName>
+               </person>
+               <person xml:id="tillich_person_id__3702">
+                  <persName>Kroner-Bornhausen</persName>
+               </person>
+               <person xml:id="tillich_person_id__3703">
+                  <persName>Schmidt, Martin</persName>
                </person>
             </listPerson>
          </div>
