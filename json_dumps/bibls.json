@@ -2554,9 +2554,89 @@
   "330": {
     "id": 330,
     "order": "323.00000000000000000000",
-    "name": "",
+    "name": "Nast. „Auch ein Appell an die Philister“. Wingolfs-Blätter 36 (1906/07), Nr. 13, S. 108.",
     "working_note": "",
     "tillich_id": "tillich_work_id__330",
     "zotero": "BXEJLXW5"
+  },
+  "331": {
+    "id": 331,
+    "order": "324.00000000000000000000",
+    "name": "„Recht und Geltung des kirchlichen Bekenntnisses“. Düsseldorfer General-Anzeiger, Nr. 94, 1. Beilage, 5. April 1907, S. 3.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__331",
+    "zotero": "J3CYSYUL"
+  },
+  "332": {
+    "id": 332,
+    "order": "325.00000000000000000000",
+    "name": "Kähler, Martin. „Rede bei Ertheilung des Bandes. 1856“. Aus dem Wingolf. Als Manuscript gedruckt, Druck von C. L. Pfeil, 1860, S. 176–84.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__332",
+    "zotero": "JIWYVY8L"
+  },
+  "333": {
+    "id": 333,
+    "order": "326.00000000000000000000",
+    "name": "Fichte, Johann Gottlieb. System der Sittenlehre (1812); Transzendentale Logik; Staatslehre oder über das Verhältnis des Urstaates zum Vernunftreiche. F. Meiner, 1912. Philosophische Bibliothek.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__333",
+    "zotero": "3EIVQ463"
+  },
+  "334": {
+    "id": 334,
+    "order": "327.00000000000000000000",
+    "name": "„Wöchentliches Verzeichnis der erschienenen und der vorbereiteten Neuigkeiten des deutschen Buchhandels“. Wöchentliches Verzeichnis der erschienenen und der vorbereiteten Neuigkeiten des deutschen Buchhandels, Bd. 71, Nr. 20, Mai 1912, S. 637.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__334",
+    "zotero": "NC7BYNUZ"
+  },
+  "335": {
+    "id": 335,
+    "order": "328.00000000000000000000",
+    "name": "Medicus, Fritz. „Zum 150. Geburtstag Fichtes“. Der Reichsbote, 116. Aufl., 19. Mai 1912, S. 2–3.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__335",
+    "zotero": "2Q8J72BF"
+  },
+  "336": {
+    "id": 336,
+    "order": "329.00000000000000000000",
+    "name": "Witte, Hermann. „Denken ist leicht…“. Wingolfs-Blätter 36 (1906/07), Nr. 21, August 1907, S. 191–93.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__336",
+    "zotero": "LWBQJ8AW"
+  },
+  "337": {
+    "id": 337,
+    "order": "330.00000000000000000000",
+    "name": "van der Smissen, Carl H. A. Kurzgefaßte Geschichte und Glaubenslehre der Altevangelischen Taufgesinnten oder Mennoniten. Selbstverlag, 1895.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__337",
+    "zotero": "H2WMBBPV"
+  },
+  "338": {
+    "id": 338,
+    "order": "331.00000000000000000000",
+    "name": "„Personal-Anzeiger“. Wingolfs-Blätter 36 (1906/07), Nr. 20, S. 190.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__338",
+    "zotero": "IGEC7W4W"
+  },
+  "339": {
+    "id": 339,
+    "order": "332.00000000000000000000",
+    "name": "„Personal-Anzeiger“. Wingolfs-Blätter 36 (1906/07), Nr. 22, S. 214.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__339",
+    "zotero": "PR4PQH4J"
+  },
+  "340": {
+    "id": 340,
+    "order": "333.00000000000000000000",
+    "name": "W",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__340",
+    "zotero": ""
   }
 }
