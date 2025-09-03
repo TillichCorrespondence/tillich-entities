@@ -12044,9 +12044,9 @@
   "673": {
     "id": 673,
     "order": "673.00000000000000000000",
-    "name": "Gerich, ???",
+    "name": "Gerich, August",
     "surname": "Gerich",
-    "forename": "???",
+    "forename": "August",
     "from_to": "",
     "occupation": "Er war Paul Tillichs Leibbursch.",
     "bio": "",
@@ -65408,6 +65408,24 @@
     "date_of_birth": "",
     "date_of_death": "",
     "working_note": "Sohn von Karl Ludwig Schmidt",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3705": {
+    "id": 3705,
+    "order": "3661.00000000000000000000",
+    "name": "Hanaus",
+    "surname": "Hanau",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3705",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "nicht ermittelt. Lebten 1926 in Stettin. L01258.",
     "place_of_birth": "",
     "place_of_death": ""
   }

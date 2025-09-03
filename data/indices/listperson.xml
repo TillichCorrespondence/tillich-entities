@@ -3187,7 +3187,7 @@
                   <note type="bio"><p>Paul Gerhardt (12. März 1607 – 27. Mai 1676) war einer der bedeutendsten lutherischen Liederdichter des Barocks und Verfasser von rund 134 geistlichen Gesängen, darunter „Befiehl du deine Wege“, „Geh aus, mein Herz, und suche Freud“ und das Passionslied „O Haupt voll Blut und Wunden“. Nach dem Theologiestudium in Wittenberg wirkte er ab 1651 als Propst in Mittenwalde, wurde 1657 Diakon an der Berliner Nikolaikirche, verweigerte 1666 aus Gewissensgründen das vom reformierten Kurfürsten verlangte Revers und verlor dadurch sein Amt. 1668 übernahm er das Archidiakonat in Lübben, wo er bis zu seinem Tod blieb. Gerhardts Lieder verbinden dogmatische Klarheit mit persönlicher Frömmigkeit und prägen bis heute das evangelische Kirchenliedgut weit über Deutschland hinaus.</p></note>
                </person>
                <person xml:id="tillich_person_id__673">
-                  <persName>Gerich, ???</persName>
+                  <persName>Gerich, August</persName>
                   <occupation>Er war Paul Tillichs Leibbursch.</occupation>
                </person>
                <person xml:id="tillich_person_id__674">
@@ -20042,6 +20042,9 @@
                </person>
                <person xml:id="tillich_person_id__3703">
                   <persName>Schmidt, Martin</persName>
+               </person>
+               <person xml:id="tillich_person_id__3705">
+                  <persName>Hanaus</persName>
                </person>
             </listPerson>
          </div>
