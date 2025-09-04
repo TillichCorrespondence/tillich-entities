@@ -736,14 +736,6 @@
                   <idno type="geonames">https://sws.geonames.org/6554341/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q543401</idno>
                </place>
-               <place xml:id="tillich_place_id__109">
-                  <placeName>Coblenz(Koblenz)</placeName>
-                  <location type="coords">
-                     <geo>50.35357 7.57883</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2886946/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q3104</idno>
-               </place>
                <place xml:id="tillich_place_id__110">
                   <placeName>Cochem</placeName>
                   <location type="coords">
@@ -1929,7 +1921,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q60</idno>
                </place>
                <place xml:id="tillich_place_id__321">
-                  <placeName>Nimwegen</placeName>
+                  <placeName>Nijmegen</placeName>
                   <location type="coords">
                      <geo>51.84250 5.85278</geo>
                   </location>

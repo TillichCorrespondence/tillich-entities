@@ -1033,17 +1033,6 @@
     "longitude": "7.18695",
     "wikidata_url": "http://www.wikidata.org/entity/Q543401"
   },
-  "109": {
-    "id": 109,
-    "order": "109.00000000000000000000",
-    "name": "Coblenz(Koblenz)",
-    "tillich_id": "tillich_place_id__109",
-    "geonames_url": "https://sws.geonames.org/2886946/",
-    "Working Notes": "Working Notes",
-    "latitude": "50.35357",
-    "longitude": "7.57883",
-    "wikidata_url": "http://www.wikidata.org/entity/Q3104"
-  },
   "110": {
     "id": 110,
     "order": "110.00000000000000000000",
@@ -2763,7 +2752,7 @@
   "321": {
     "id": 321,
     "order": "321.00000000000000000000",
-    "name": "Nimwegen",
+    "name": "Nijmegen",
     "tillich_id": "tillich_place_id__321",
     "geonames_url": "https://sws.geonames.org/2750053/",
     "Working Notes": "Nijmegen (Niederlande)",

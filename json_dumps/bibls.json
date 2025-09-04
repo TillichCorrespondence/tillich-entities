@@ -2634,9 +2634,17 @@
   "340": {
     "id": 340,
     "order": "333.00000000000000000000",
-    "name": "W",
+    "name": "Christliche Welt 1905. Bd. 19, 1905. Universitätsbibliothek der Ludwig-Maximilians-Universität München (DE-19).",
     "working_note": "",
     "tillich_id": "tillich_work_id__340",
+    "zotero": "FCBFDKY8"
+  },
+  "341": {
+    "id": 341,
+    "order": "334.00000000000000000000",
+    "name": "s",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__341",
     "zotero": ""
   }
 }

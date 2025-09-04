@@ -1861,6 +1861,7 @@
                </person>
                <person xml:id="tillich_person_id__301">
                   <persName>Brunner, Peter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118516175</idno>
                   <note type="bio"><p>Emil Brunner (23. Dezember 1889 – 6. April 1966) war ein Schweizer reformierter Theologe, der ab 1924 als Professor in Zürich mit einer „missionarischen Theologie“ zwischen subjektivem Religionsgefühl und dogmatischer Objektivierung vermitteln wollte. In kritischer Kooperation und späterem Gegensatz zu Karl Barth betonte er den „Anknüpfungspunkt“ des göttlichen Wortes im trotz Sünde verantwortlichen Menschen (imago Dei) und entfaltete daraus einen dialogischen Personalismus (Der Mittler, 1927; Der Mensch im Widerspruch, 1937; Dogmatik, 3 Bde. 1946–60). International wirksam durch Gastvorlesungen und Lehrtätigkeit in Japan, blieb er für die Ethik (Das Gebot und die Ordnungen, 1932) und das ökumenische Gespräch prägend, auch wenn sich um ihn keine Schule bildete.</p></note>
                </person>
                <person xml:id="tillich_person_id__302">
@@ -7416,9 +7417,6 @@
                <person xml:id="tillich_person_id__1826">
                   <persName>Spengler, Oswald</persName>
                </person>
-               <person xml:id="tillich_person_id__1827">
-                  <persName>Spiecker, Johannes</persName>
-               </person>
                <person xml:id="tillich_person_id__1828">
                   <persName>Spiegelberg, H.</persName>
                </person>
@@ -11095,8 +11093,7 @@
                   <note type="bio"><p>Er spezialisierte sich auf den Neukantianismus.</p></note>
                </person>
                <person xml:id="tillich_person_id__2136">
-                  <persName>Kaumann, E.</persName>
-                  <note type="bio"><p>Er war ein Studienkollege von Paul Tillich in Tübingen.</p></note>
+                  <persName>Kaumann, Edwin</persName>
                </person>
                <person xml:id="tillich_person_id__2137">
                   <persName>Reuter, Fritz</persName>
@@ -11417,7 +11414,7 @@
                   <note type="bio"><p>Er war Professor für Chemie an einer Berliner Hochschule.</p></note>
                </person>
                <person xml:id="tillich_person_id__2189">
-                  <persName>Scheurich, ???</persName>
+                  <persName>Scheurich, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2190">
                   <persName>Spatz, ???</persName>
@@ -11808,7 +11805,7 @@
                   <persName>Zimmermann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2252">
-                  <persName>Kunsemüller, ???</persName>
+                  <persName>Kunsemüller, Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__2253">
                   <persName>Lepsius, Johannes</persName>
@@ -14442,19 +14439,6 @@
                </person>
                <person xml:id="tillich_person_id__2544">
                   <persName>Spicker, ???</persName>
-                  <birth>
-                     <date>1856</date>
-                     <settlement>
-                        <placeName>Boppard</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1920</date>
-                     <settlement>
-                        <placeName>Barmen</placeName>
-                     </settlement>
-                  </death>
-                  <occupation>Missionsinspektor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1028222882</idno>
                </person>
                <person xml:id="tillich_person_id__2545">
@@ -20045,6 +20029,39 @@
                </person>
                <person xml:id="tillich_person_id__3705">
                   <persName>Hanaus</persName>
+               </person>
+               <person xml:id="tillich_person_id__3706">
+                  <persName>Spiecker, Johannes</persName>
+                  <birth>
+                     <date>29. März 1856</date>
+                     <settlement>
+                        <placeName>Boppard</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>19. Januar 1920</date>
+                     <settlement>
+                        <placeName>Barmen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher evangelischer Missionar und Missionsinspektor der Rheinischen Missionsgesellschaft</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1028222882</idno>
+               </person>
+               <person xml:id="tillich_person_id__3709">
+                  <persName>Birmele, Heinrich</persName>
+                  <occupation>Erstchargierte des geschäftsführenden Straßburger Wingolfs</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3710">
+                  <persName>Heppe, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3711">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3712">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3713">
+                  <persName>Kolfhaus, Adolf</persName>
                </person>
             </listPerson>
          </div>
