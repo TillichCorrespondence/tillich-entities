@@ -12080,20 +12080,28 @@
                   <note type="bio"><p>Sie war eine geweihte Jungfrau und die ältere Schwester von Basilius dem Großen, Gregor von Nyssa und Peter von Sebaste. Sie war eine ähnlich herausragende geistliche Persönlichkeit wie ihre Brüder, deren Lebensweg sie stark beeinflusste.</p></note>
                </person>
                <person xml:id="tillich_person_id__2291">
-                  <persName>Firmilian von Caesarea, ???</persName>
+                  <persName>Firmilian</persName>
                   <death>
-                     <date>0268</date>
+                     <date>268</date>
+                     <settlement>
+                        <placeName>Tarsos</placeName>
+                     </settlement>
                   </death>
+                  <occupation>Bischof von Caesarea (heute Kayseri) in Kappadokien (Kleinasien)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/102393559</idno>
                </person>
                <person xml:id="tillich_person_id__2292">
-                  <persName>Malchion, ???</persName>
+                  <persName>Malchion</persName>
+                  <occupation>Kirchenvater und Presbyter von Antiochien während der Herrschaft der Kaiser Claudius II. und Aurelian.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/100175171</idno>
                </person>
                <person xml:id="tillich_person_id__2293">
                   <persName>Zänker, Otto</persName>
                   <birth>
                      <date>1876-06-29</date>
+                     <settlement>
+                        <placeName>Sprockhövel-Herzkamp</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date>1960-01-31</date>
@@ -20062,6 +20070,18 @@
                </person>
                <person xml:id="tillich_person_id__3713">
                   <persName>Kolfhaus, Adolf</persName>
+               </person>
+               <person xml:id="tillich_person_id__3714">
+                  <persName>Zänker, Luise (geb. Bansa)</persName>
+                  <birth>
+                     <date>1884-01-21</date>
+                     <settlement>
+                        <placeName>Frankfurt/Main</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1961</date>
+                  </death>
                </person>
             </listPerson>
          </div>
