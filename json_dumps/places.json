@@ -8468,5 +8468,49 @@
     "latitude": "46.81228",
     "longitude": "-71.21454",
     "wikidata_url": "https://www.wikidata.org/wiki/Q176"
+  },
+  "942": {
+    "id": 942,
+    "order": "897.00000000000000000000",
+    "name": "Los Angeles (CA)",
+    "tillich_id": "tillich_place_id__942",
+    "geonames_url": "https://www.geonames.org/5368361/",
+    "Working Notes": "",
+    "latitude": "34.05223",
+    "longitude": "-118.24368",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q65"
+  },
+  "943": {
+    "id": 943,
+    "order": "898.00000000000000000000",
+    "name": "Alexandria (VA)",
+    "tillich_id": "tillich_place_id__943",
+    "geonames_url": "https://www.geonames.org/4744091/",
+    "Working Notes": "",
+    "latitude": "38.80484",
+    "longitude": "-77.04692",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q88"
+  },
+  "944": {
+    "id": 944,
+    "order": "899.00000000000000000000",
+    "name": "Virginia",
+    "tillich_id": "tillich_place_id__944",
+    "geonames_url": "https://www.geonames.org/6254928/",
+    "Working Notes": "",
+    "latitude": "37.54812",
+    "longitude": "-77.44675",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1370"
+  },
+  "945": {
+    "id": 945,
+    "order": "900.00000000000000000000",
+    "name": "North Carolina",
+    "tillich_id": "tillich_place_id__945",
+    "geonames_url": "https://www.geonames.org/4482348/",
+    "Working Notes": "",
+    "latitude": "35.50069",
+    "longitude": "-80.00032",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1454"
   }
 }

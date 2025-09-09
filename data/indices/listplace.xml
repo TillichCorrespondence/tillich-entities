@@ -5648,6 +5648,38 @@
                   <idno type="geonames">https://sws.geonames.org/6325494/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q176</idno>
                </place>
+               <place xml:id="tillich_place_id__942">
+                  <placeName>Los Angeles (CA)</placeName>
+                  <location type="coords">
+                     <geo>34.05223 -118.24368</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5368361/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q65</idno>
+               </place>
+               <place xml:id="tillich_place_id__943">
+                  <placeName>Alexandria (VA)</placeName>
+                  <location type="coords">
+                     <geo>38.80484 -77.04692</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4744091/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q88</idno>
+               </place>
+               <place xml:id="tillich_place_id__944">
+                  <placeName>Virginia</placeName>
+                  <location type="coords">
+                     <geo>37.54812 -77.44675</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6254928/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1370</idno>
+               </place>
+               <place xml:id="tillich_place_id__945">
+                  <placeName>North Carolina</placeName>
+                  <location type="coords">
+                     <geo>35.50069 -80.00032</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4482348/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1454</idno>
+               </place>
             </listPlace>
          </div>
       </body>

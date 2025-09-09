@@ -20083,6 +20083,22 @@
                      <date>1961</date>
                   </death>
                </person>
+               <person xml:id="tillich_person_id__3715">
+                  <persName>Lotte</persName>
+               </person>
+               <person xml:id="tillich_person_id__3716">
+                  <persName>Schlesinger, Paul "Sling"</persName>
+                  <occupation>Gerichtsreporter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/107857189</idno>
+               </person>
+               <person xml:id="tillich_person_id__3717">
+                  <persName>Alfons</persName>
+               </person>
+               <person xml:id="tillich_person_id__3718">
+                  <persName>Mollegen, Albert T., Sr.</persName>
+                  <occupation>amerikanischer evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1147239010</idno>
+               </person>
             </listPerson>
          </div>
       </body>
