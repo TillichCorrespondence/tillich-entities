@@ -11629,8 +11629,18 @@
                   <note type="bio"><p>Er hat sich auf die neutestamentliche und kirchengeschichtliche Forschung spezialisiert.</p></note>
                </person>
                <person xml:id="tillich_person_id__2218">
-                  <persName>Landmann, F.</persName>
-                  <note type="bio"><p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p></note>
+                  <persName>Sandmann, Fritz</persName>
+                  <birth>
+                     <date>1885</date>
+                     <settlement>
+                        <placeName>Wald-Michelbach</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1961</date>
+                  </death>
+                  <occupation>Oberstudiendirektor in Bad Homburg v.d. Höhe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/172844169</idno>
                </person>
                <person xml:id="tillich_person_id__2219">
                   <persName>Fanerod, Jeanne</persName>
