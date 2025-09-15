@@ -8512,5 +8512,38 @@
     "latitude": "35.50069",
     "longitude": "-80.00032",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1454"
+  },
+  "946": {
+    "id": 946,
+    "order": "901.00000000000000000000",
+    "name": "Poughkeepsie",
+    "tillich_id": "tillich_place_id__946",
+    "geonames_url": "https://www.geonames.org/5132143/poughkeepsie.html",
+    "Working Notes": "",
+    "latitude": "41.70037",
+    "longitude": "-73.92097",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1002445"
+  },
+  "979": {
+    "id": 979,
+    "order": "902.00000000000000000000",
+    "name": "Richmond (Surrey)",
+    "tillich_id": "tillich_place_id__979",
+    "geonames_url": "https://www.geonames.org/2639389/",
+    "Working Notes": "",
+    "latitude": "51.46171",
+    "longitude": "-0.30633",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2500974"
+  },
+  "980": {
+    "id": 980,
+    "order": "903.00000000000000000000",
+    "name": "Bloomfield (NJ)",
+    "tillich_id": "tillich_place_id__980",
+    "geonames_url": "https://www.geonames.org/5095779/",
+    "Working Notes": "",
+    "latitude": "40.80677",
+    "longitude": "-74.18542",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q648622"
   }
 }

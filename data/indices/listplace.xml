@@ -5680,6 +5680,30 @@
                   <idno type="geonames">https://sws.geonames.org/4482348/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1454</idno>
                </place>
+               <place xml:id="tillich_place_id__946">
+                  <placeName>Poughkeepsie</placeName>
+                  <location type="coords">
+                     <geo>41.70037 -73.92097</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5132143/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1002445</idno>
+               </place>
+               <place xml:id="tillich_place_id__979">
+                  <placeName>Richmond (Surrey)</placeName>
+                  <location type="coords">
+                     <geo>51.46171 -0.30633</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2639389/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2500974</idno>
+               </place>
+               <place xml:id="tillich_place_id__980">
+                  <placeName>Bloomfield (NJ)</placeName>
+                  <location type="coords">
+                     <geo>40.80677 -74.18542</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5095779/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q648622</idno>
+               </place>
             </listPlace>
          </div>
       </body>

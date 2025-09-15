@@ -65608,5 +65608,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3751": {
+    "id": 3751,
+    "order": "3673.00000000000000000000",
+    "name": "Bonthius, Robert Harold",
+    "surname": "Bonthius",
+    "forename": "Robert Harold",
+    "from_to": "1918–2011",
+    "occupation": "Kaplan, Professor für Theologie",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3751",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
