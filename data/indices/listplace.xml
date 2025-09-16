@@ -5704,6 +5704,22 @@
                   <idno type="geonames">https://sws.geonames.org/5095779/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q648622</idno>
                </place>
+               <place xml:id="tillich_place_id__981">
+                  <placeName>Graubünden</placeName>
+                  <location type="coords">
+                     <geo>46.65870 9.62296</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2660522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q23013985</idno>
+               </place>
+               <place xml:id="tillich_place_id__982">
+                  <placeName>Mitteleuropa</placeName>
+                  <location type="coords">
+                     <geo>50.28762 15.19030</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12217848/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q27509</idno>
+               </place>
             </listPlace>
          </div>
       </body>

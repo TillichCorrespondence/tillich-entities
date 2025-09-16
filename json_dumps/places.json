@@ -8545,5 +8545,27 @@
     "latitude": "40.80677",
     "longitude": "-74.18542",
     "wikidata_url": "https://www.wikidata.org/wiki/Q648622"
+  },
+  "981": {
+    "id": 981,
+    "order": "904.00000000000000000000",
+    "name": "Graubünden",
+    "tillich_id": "tillich_place_id__981",
+    "geonames_url": "https://www.geonames.org/2660522/",
+    "Working Notes": "",
+    "latitude": "46.65870",
+    "longitude": "9.62296",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q23013985"
+  },
+  "982": {
+    "id": 982,
+    "order": "905.00000000000000000000",
+    "name": "Mitteleuropa",
+    "tillich_id": "tillich_place_id__982",
+    "geonames_url": "https://www.geonames.org/12217848/",
+    "Working Notes": "",
+    "latitude": "50.28762",
+    "longitude": "15.19030",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27509"
   }
 }

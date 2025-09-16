@@ -2390,6 +2390,7 @@
                <person xml:id="tillich_person_id__450">
                   <persName>Demuth, Fritz</persName>
                   <occupation>Ministerialbeamter und Wirtschaftspolitiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116070277</idno>
                   <note type="bio"><p>Studium der Rechts- und Staatswissenschaften in Freiburg/Br., München, Berlin und Jena, 1893 wurde er promoviert. Ab 1902 Arbeit als Syndikus in der Industrie- und Handelskammer Berlin. 1918-1920 arbeitete er im Reichsdienst, u. a. als Leiter der Industrieabteilung des Reichsschatzministeriums. Danach kehrte er zurück zur Handelskammer. Er war Mitglied der DDP und emigrierte 1933 in die Schweiz, wo er die Notgemeinschaft deutscher Wissenschaftler im Ausland mitbegründete, deren Zentrale seit 1936 in London lag. D. wurde so zu einer Zentralfigur des deutschen politischen Exils in Großbritannien. Ab 1939 knüpfte er Verbindungen zur Labour Party. Später arbeitete er im Bereich politischer Umschulung deutscher Kriegsgefangener.</p></note>
                </person>
                <person xml:id="tillich_person_id__451">
@@ -14567,9 +14568,9 @@
                   <persName>???, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2560">
-                  <persName>???, Ulli</persName>
-                  <occupation>Künstler;</occupation>
-                  <note type="bio"><p>Er war ein Freund von Hannah Tillich, der in ihrer Autobiographie "From Time to Time" mehrfach erwähnt wird. Er dürfte um 1930/31 in Venedig Selbstmord begangen haben. Er war auch mit Paul Tillich in den 20ern eng befreundet.</p></note>
+                  <persName>Fricke, Uli</persName>
+                  <occupation>Künstler</occupation>
+                  <note type="bio"><p>Uli Fricke war seit etwa 1918 ein Freund von Hannah Tillich, der in ihrer Autobiographie "From Time to Time" mehrfach erwähnt wird und in den 1920ern auch mit Paul Tillich eng befreundet war. Er hat am 3. November 1930 in Venedig Selbstmord begangen.</p></note>
                </person>
                <person xml:id="tillich_person_id__2561">
                   <persName>Kleist, Heinrich von</persName>
@@ -20031,9 +20032,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/1020166215</idno>
                </person>
                <person xml:id="tillich_person_id__3697">
-                  <persName>Marschak, Samuil Jakowlewitsch</persName>
-                  <occupation>russ. Schriftsteller</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/118782088</idno>
+                  <persName>Marschak, Jacob</persName>
+                  <occupation>Ökonom, Professor für Wirtschaftswissenschaften</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119344521</idno>
                </person>
                <person xml:id="tillich_person_id__3698">
                   <persName>Fackenthal, Frank D.</persName>
@@ -20122,6 +20123,50 @@
                <person xml:id="tillich_person_id__3751">
                   <persName>Bonthius, Robert Harold</persName>
                   <occupation>Kaplan, Professor für Theologie</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3752">
+                  <persName>Dirks, John Edward</persName>
+                  <occupation>Pfarrer, Professor für Philosophie und Theologie</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1186666137</idno>
+               </person>
+               <person xml:id="tillich_person_id__3753">
+                  <persName>Baker, Richard Terrill</persName>
+                  <occupation>Journalist, Professor für Journalismus</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1218083379</idno>
+               </person>
+               <person xml:id="tillich_person_id__3754">
+                  <persName>Weissman, Fred S.</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117302511</idno>
+               </person>
+               <person xml:id="tillich_person_id__3756">
+                  <persName>Meter, Barbara</persName>
+                  <occupation>Regisseurin, Tochter von Elisabeth Meter (Plaut)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1144910536</idno>
+               </person>
+               <person xml:id="tillich_person_id__3758">
+                  <persName>Franc, Dora</persName>
+               </person>
+               <person xml:id="tillich_person_id__3759">
+                  <persName>Gürster, Eugen</persName>
+                  <birth>
+                     <date>1895-06-23</date>
+                     <settlement>
+                        <placeName>Fürth</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1980-05-01</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>deutscher Dramaturg, Literaturwissenschaftler, Schriftsteller und Diplomat.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116916664</idno>
+               </person>
+               <person xml:id="tillich_person_id__3760">
+                  <persName>Delmar, Rose</persName>
+                  <occupation>Opernsängerin</occupation>
                </person>
             </listPerson>
          </div>
