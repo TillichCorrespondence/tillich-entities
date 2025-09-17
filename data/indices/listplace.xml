@@ -5720,6 +5720,14 @@
                   <idno type="geonames">https://sws.geonames.org/12217848/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q27509</idno>
                </place>
+               <place xml:id="tillich_place_id__983">
+                  <placeName>Boulogne-sur-Mer</placeName>
+                  <location type="coords">
+                     <geo>50.72485 1.61373</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3031133/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q81997</idno>
+               </place>
             </listPlace>
          </div>
       </body>

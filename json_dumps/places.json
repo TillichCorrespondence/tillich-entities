@@ -8567,5 +8567,16 @@
     "latitude": "50.28762",
     "longitude": "15.19030",
     "wikidata_url": "https://www.wikidata.org/wiki/Q27509"
+  },
+  "983": {
+    "id": 983,
+    "order": "906.00000000000000000000",
+    "name": "Boulogne-sur-Mer",
+    "tillich_id": "tillich_place_id__983",
+    "geonames_url": "https://sws.geonames.org/3031133/",
+    "Working Notes": "Das Schiff \"Rotterdam\" fuhr von New York bis nach Boulogne-sur-Mer.",
+    "latitude": "50.72485",
+    "longitude": "1.61373",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q81997"
   }
 }
