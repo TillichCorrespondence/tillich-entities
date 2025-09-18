@@ -8578,5 +8578,27 @@
     "latitude": "50.72485",
     "longitude": "1.61373",
     "wikidata_url": "https://www.wikidata.org/wiki/Q81997"
+  },
+  "984": {
+    "id": 984,
+    "order": "907.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__984",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "985": {
+    "id": 985,
+    "order": "908.00000000000000000000",
+    "name": "Tschechoslowakei",
+    "tillich_id": "tillich_place_id__985",
+    "geonames_url": "https://www.geonames.org/8505031/czechoslovakia.html",
+    "Working Notes": "",
+    "latitude": "50.08292",
+    "longitude": "14.46672",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q33946"
   }
 }

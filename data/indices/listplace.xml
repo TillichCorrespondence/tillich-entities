@@ -5728,6 +5728,14 @@
                   <idno type="geonames">https://sws.geonames.org/3031133/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q81997</idno>
                </place>
+               <place xml:id="tillich_place_id__985">
+                  <placeName>Tschechoslowakei</placeName>
+                  <location type="coords">
+                     <geo>50.08292 14.46672</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/8505031/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33946</idno>
+               </place>
             </listPlace>
          </div>
       </body>
