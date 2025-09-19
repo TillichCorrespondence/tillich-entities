@@ -2642,9 +2642,17 @@
   "341": {
     "id": 341,
     "order": "334.00000000000000000000",
-    "name": "s",
+    "name": "Wagner, Richard. „Protokoll des Generalkonvents des 27. Wartburgfestes am 15. Juni 1905 im Festsaale des Fürstenhofes zu Eisenach“. Wingolfs-Blätter 34 (1904/05), Nr. 21, August 1905, S. 187.",
     "working_note": "",
     "tillich_id": "tillich_work_id__341",
+    "zotero": "SSN4VITH"
+  },
+  "374": {
+    "id": 374,
+    "order": "335.00000000000000000000",
+    "name": "h",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__374",
     "zotero": ""
   }
 }

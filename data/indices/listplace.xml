@@ -5736,6 +5736,22 @@
                   <idno type="geonames">https://sws.geonames.org/8505031/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33946</idno>
                </place>
+               <place xml:id="tillich_place_id__987">
+                  <placeName>Niederrhein</placeName>
+                  <location type="coords">
+                     <geo>51.43436 None</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12076814/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q445609</idno>
+               </place>
+               <place xml:id="tillich_place_id__989">
+                  <placeName>Gatlinburg (TN)</placeName>
+                  <location type="coords">
+                     <geo>35.71453 -83.51189</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4624443/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1008520</idno>
+               </place>
             </listPlace>
          </div>
       </body>

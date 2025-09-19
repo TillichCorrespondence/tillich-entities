@@ -2103,6 +2103,7 @@
                </person>
                <person xml:id="tillich_person_id__367">
                   <persName>Cézanne, Paul</persName>
+                  <note type="bio"><p>Paul Cézanne (1839 – 1906) aus Aix-en-Provence gilt als Schlüsselfigur an der Schwelle vom Impressionismus zur Moderne. Nach abgebrochenem Jurastudium zog er 1861 nach Paris, arbeitete an der Académie Suisse mit Pissarro, Monet, Renoir und anderen Impressionisten zusammen und stellte 1874–77 mit ihnen aus, fand jedoch erst 1895 durch Ambroise Vollards Pariser Einzelausstellung breitere Anerkennung. Mit seinen konstruktiv aufgebauten Landschaften, Stillleben und Figurenbildern wurde er posthum zum „Vater der Moderne“ und prägte Wegbereiter wie Picasso und Matisse.</p></note>
                </person>
                <person xml:id="tillich_person_id__368">
                   <persName>Chamberlain, Arthur Neville</persName>
@@ -18795,6 +18796,7 @@
                <person xml:id="tillich_person_id__3363">
                   <persName>Bach, Johann Sebastian</persName>
                   <occupation>Komponist, Violinist, Organist</occupation>
+                  <note type="bio"><p>Bach, Johann Sebastian (21.3.1685 Eisenach – 28.7.1750 Leipzig) war Komponist und Thomaskantor in Leipzig. Als Sohn des Stadtmusikus Ambrosius Bach früh verwaist, erhielt er seine Ausbildung beim Bruder in Ohrdruf und an der Michaelisschule in Lüneburg. Nach ersten Organistenstellen in Arnstadt und Mühlhausen wirkte er als Hoforganist in Weimar und ab 1717 als Kapellmeister in Köthen, wo vor allem Instrumentalwerke wie die Brandenburgischen Konzerte entstanden. 1723 übernahm er das Thomaskantorat in Leipzig, schuf mehrere Kantatenjahrgänge und große Kirchenwerke wie die Johannes- und Matthäuspassion, das Weihnachtsoratorium, die h-Moll-Messe und das »Musikalische Opfer«. Bach verband tiefen lutherischen Glauben mit höchster kontrapunktischer Meisterschaft und gilt als einer der größten Komponisten der Musikgeschichte.</p></note>
                </person>
                <person xml:id="tillich_person_id__3364">
                   <persName>Schumann, Robert</persName>
@@ -18910,6 +18912,7 @@
                </person>
                <person xml:id="tillich_person_id__3397">
                   <persName>Heimann, Eduard</persName>
+                  <note type="bio"><p>Eduard Heimann (11. Juli 1889, Berlin – 31. Mai 1967, Hamburg) war ein deutscher Nationalökonom, der nach Studien in Berlin, Wien und Heidelberg Sekretär der Sozialisierungskommissionen von 1919 und 1921 wurde und ab 1925 in Hamburg lehrte, nach seiner Emigration 1933 jedoch bis 1963 an der New School for Social Research in New York wirkte. Mit seiner „klassischen Theorie moderner Sozialpolitik“ analysierte er, wie Arbeiterschutz, Sozialversicherung und Tarifvertragssystem Einkommen zugunsten der Arbeiter umverteilen, Innovation fördern und zugleich die kapitalistische Herrschaft begrenzt, aber stabilisiert wird. Heimann verstand Sozialpolitik nicht als Wohlfahrtspflege, sondern als „freiheitliche und würdige Gestaltung des Arbeitslebens“ mit konservativ-revolutionärer Doppelwirkung und entwickelte das Konzept einer freiheitlichen Sozialisierung als Alternative zum sowjetischen Modell. Religionssoziologisch sah er Religion als integrierende, den „Vernunftglauben“ als desintegrierende Kraft einer Gesellschaft, die noch von vormodernen religiösen Reserven lebt.</p></note>
                </person>
                <person xml:id="tillich_person_id__3398">
                   <persName>Koppell, Gabriele</persName>
@@ -20397,6 +20400,13 @@
                <person xml:id="tillich_person_id__3774">
                   <persName>Paquet-Steinhausen, Marie</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116031948</idno>
+               </person>
+               <person xml:id="tillich_person_id__3775">
+                  <persName>Carl Heinrich Anton</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1073668657</idno>
+               </person>
+               <person xml:id="tillich_person_id__3776">
+                  <persName/>
                </person>
             </listPerson>
          </div>

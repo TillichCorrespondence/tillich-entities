@@ -8600,5 +8600,49 @@
     "latitude": "50.08292",
     "longitude": "14.46672",
     "wikidata_url": "https://www.wikidata.org/wiki/Q33946"
+  },
+  "986": {
+    "id": 986,
+    "order": "909.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__986",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "987": {
+    "id": 987,
+    "order": "910.00000000000000000000",
+    "name": "Niederrhein",
+    "tillich_id": "tillich_place_id__987",
+    "geonames_url": "https://www.geonames.org/12076814/",
+    "Working Notes": "",
+    "latitude": "51.43436",
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q445609"
+  },
+  "988": {
+    "id": 988,
+    "order": "911.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__988",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "989": {
+    "id": 989,
+    "order": "912.00000000000000000000",
+    "name": "Gatlinburg (TN)",
+    "tillich_id": "tillich_place_id__989",
+    "geonames_url": "https://www.geonames.org/4624443/",
+    "Working Notes": "",
+    "latitude": "35.71453",
+    "longitude": "-83.51189",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1008520"
   }
 }
