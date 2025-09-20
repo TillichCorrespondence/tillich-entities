@@ -5631,7 +5631,7 @@
                   <note type="bio"><p>Moberly, Walter Hamilton (20.10.1881 Budworth, Cheshire – 31.1.1974) war ein britischer Philosoph und Universitätsorganisator. Nach Studien in Oxford lehrte er zunächst in Aberdeen und Birmingham, bevor er 1926–1934 als Vizekanzler die Universität Manchester leitete. Von 1935 bis 1949 stand er dem University Grants Committee vor und prägte maßgeblich die Hochschulpolitik Großbritanniens. Später war er Gründungsdirektor von St Catherine’s Foundation. Neben universitätspolitischen Schriften veröffentlichte er Werke wie The Crisis in the University und The Ethics of Punishment.</p></note>
                </person>
                <person xml:id="tillich_person_id__1334">
-                  <persName>Moberly, Sir Walter Hamilton</persName>
+                  <persName>Moberly, Walter</persName>
                   <occupation>Britischer Philosoph</occupation>
                   <note type="bio"><p>Moberly, Walter Hamilton (20.10.1881 Budworth, Cheshire – 31.1.1974) war ein britischer Philosoph und Universitätsorganisator. Nach Studien in Oxford lehrte er zunächst in Aberdeen und Birmingham, bevor er 1926–1934 als Vizekanzler die Universität Manchester leitete. Von 1935 bis 1949 stand er dem University Grants Committee vor und prägte maßgeblich die Hochschulpolitik Großbritanniens. Später war er Gründungsdirektor von St Catherine’s Foundation. Neben universitätspolitischen Schriften veröffentlichte er Werke wie The Crisis in the University und The Ethics of Punishment.</p></note>
                </person>
@@ -6074,6 +6074,7 @@
                </person>
                <person xml:id="tillich_person_id__1457">
                   <persName>Parmenides</persName>
+                  <note type="bio"><p>Parmenides (kaum vor 510 – nach 450 v. Chr.) war Philosoph aus Elea in Süditalien. In seinem in Hexametern verfassten Gedicht lehrte er die Einheit des Seienden: Alles, was gedacht wird, muss seiend sein, ein Nichtsein ist undenkbar. Sein und Denken gehören zusammen. Werden und Vergehen gelten ihm als Illusion der Sterblichen. Damit wurde Parmenides zu einer Autorität für die Sophisten. Platon setzte sich im Dialog Sophistes kritisch mit seiner Lehre auseinander und stellte ihr ein Verständnis von Einheit gegenüber, das auch Vielheit zulässt.</p></note>
                </person>
                <person xml:id="tillich_person_id__1458">
                   <persName>Pascal, Blaise</persName>
@@ -7959,6 +7960,9 @@
                   <persName>Stolzenburg, Arnold</persName>
                   <birth>
                      <date>1887-07-21</date>
+                     <settlement>
+                        <placeName>Borgfelde (Mecklenburg)</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date>1966-05-12</date>
@@ -10904,6 +10908,7 @@
                      <date>-0551</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118636227</idno>
+                  <note type="bio"><p>Zoroastres (Zarathustra, ca. 1000 v. Chr. oder später) war ein altiranischer Religionsstifter und Dichter-Prophet, dem die Gāθā-Hymnen des Avesta zugeschrieben werden. Er trat als Verkünder der Verehrung Ahura Mazdās auf, galt als Dämonenbekämpfer und Vermittler ritueller Weisheit. Seine Biographie, von wundersamer Kindheit bis zur Bekehrung des Königs Wištāsp, wurde in späteren Traditionen ausgeschmückt und erhielt eine kosmische Dimension, indem er als Mittler zwischen Urmensch und endzeitlichen Erlösergestalten erschien.</p></note>
                </person>
                <person xml:id="tillich_person_id__2117">
                   <persName>Zarncke, Lilly</persName>
@@ -17519,7 +17524,7 @@
                   <note type="bio"><p>Giovanni Bellini (nach 1430 – 29. November 1516) prägte als „pictor nostri Domini“ der Republik Venedig die Renaissance-Malerei, vollendete mit Altarwerken wie der San-Giobbe- und der San-Zaccaria-Pala den Typus der sacra conversazione und schuf monumentale Historien- sowie feinfarbige Porträts, etwa das des Dogen Leonardo Loredan. Seine spätmythologische Tafel Götterfest zeigt die weltliche Seite seines Œuvres; auf seinen koloristischen Grundlagen bauten Giorgione und Tizian auf.</p></note>
                </person>
                <person xml:id="tillich_person_id__3028">
-                  <persName>Piero</persName>
+                  <persName>Piero di Cosimo</persName>
                   <note type="bio"><p>Piero di Cosimo (2. Januar 1462 – 12. April 1521) war ein florentinischer Maler der Hochrenaissance, der nach Lehrjahren bei Cosimo Rosselli an den Sixtina-Fresken mitwirkte und in eigenwilligen mythologischen Szenen (Perseus-Zyklus, „Venus, Amor und Mars“) warmes Kolorit, leonardeskes Sfumato und naturstudierte Landschaft verband. Seine Mischung aus exzentrischer Motivik und detailreicher Beobachtung prägte Schüler wie Andrea del Sarto und Pontormo und spiegelt den Stilwandel der Florentiner Malerei um 1500.</p></note>
                </person>
                <person xml:id="tillich_person_id__3029">
@@ -17700,7 +17705,7 @@
                   <note type="bio"><p>Max Planck (23. April 1858 – 4. Oktober 1947) war ein deutscher theoretischer Physiker, der mit dem nach ihm benannten Strahlungsgesetz eines schwarzen Körpers die Plancksche Konstante und damit 1900 das Quantenkonzept einführte, wofür er 1918 den Nobelpreis erhielt. Die Erkenntnis, dass Energie nur in diskreten „Quanten“ h · ν abgegeben oder aufgenommen wird, leitete den Übergang von der klassischen Physik zur Quantenmechanik ein. Später widmete sich Planck den Beziehungen von Naturwissenschaft, Philosophie und Religion und sah in beiden Verbündete gegen Dogmatismus und Aberglauben.</p></note>
                </person>
                <person xml:id="tillich_person_id__3076">
-                  <persName>von Weizsäcker, Carl Friedrich</persName>
+                  <persName>Weizsäcker, Carl Friedrich von</persName>
                   <note type="bio"><p>Carl Friedrich von Weizsäcker (28. Juni 1912 – 28. April 2007) war ein deutscher Kernphysiker und Philosoph, dessen Weizsäcker-Formel (1935/37) ihm internationale Anerkennung brachte und der 1957 als Mitautor der „Göttinger Erklärung“ gegen die atomare Bewaffnung der Bundeswehr auftrat. Nach Professuren in Göttingen und Hamburg leitete er 1970–1980 das von ihm mitbegründete Max-Planck-Institut in Starnberg, wo er mit Jürgen Habermas die Folgen von Atomkrieg, Umweltzerstörung und Nord-Süd-Konflikt erforschte.</p></note>
                </person>
                <person xml:id="tillich_person_id__3077">
@@ -17790,7 +17795,7 @@
                   <note type="bio"><p>Moore, Henry (30.7.1898 Castleford, Yorkshire, England – 31.8.1986 Perry Green, Hertfordshire), einer der bedeutendsten Bildhauer des 20. Jh.; von 1921 bis 1925 Studium am Royal College of Art in London, danach bis 1932 Lehrtätigkeit daselbst. Sein Frühwerk zeichnet sich durch schlichte, direkt in Stein oder Holz gearbeitete Formen aus. Obwohl durch die abstrakte Kunst und den Surrealismus beeinflußt, waren nach eigenen Angaben humanistische, organische Grundelemente für ihn stets von fundamentaler Bedeutung. Seine gesamte Laufbahn über suchte er die Prinzipien von Form und Rhythmus, die er im menschlichen Körper fand, mit denjenigen der Natur zu verbinden. M. schuf 1924/25 »Mother and Child« (Manchester City Art Gallery) als erstes Werk eines Themenkomplexes, dem er in »Madonna and Child« (1943/44; für die Kirche St. Matthew's in Northhampton) einen spezifisch christl. Fokus gab. Dieses Hauptwerk wurde lange als zwingende Bestätigung der menschlichen Werte im Angesicht des 2. Weltkriegs wahrgenommen. M. wandte sich dieser Thematik auch in seinem letzten Auftrag zu, wiederum eine »Madonna mit Kind«, die 1983 in St Paul's Cathedral in London geweiht wurde.</p></note>
                </person>
                <person xml:id="tillich_person_id__3098">
-                  <persName>della Francesca, Piero</persName>
+                  <persName>Piero della Francesca</persName>
                   <note type="bio"><p>Piero della Francesca (um 1415, Borgo Sansepolcro – 12. Oktober 1492, ebenda) war ein Maler und Mathematiker der Frührenaissance, der nach Florentiner Lehrjahren für die Höfe von Ferrara, Rimini und Urbino arbeitete. Sein streng perspektivisches Formenideal gipfelt im Freskenzyklus Legende vom Kreuz in Arezzo (1452–66) sowie in der Geißelung Christi und dem Doppelporträt des Herzogspaares von Urbino, während seine Traktate zur Geometrie und Perspektive die Kunsttheorie nachhaltig beeinflussten.</p></note>
                </person>
                <person xml:id="tillich_person_id__3099">
@@ -18817,6 +18822,7 @@
                <person xml:id="tillich_person_id__3368">
                   <persName>Parmenides von Elea</persName>
                   <occupation>Philosoph, Vorsokratiker</occupation>
+                  <note type="bio"><p>Parmenides (kaum vor 510 – nach 450 v. Chr.) war Philosoph aus Elea in Süditalien. In seinem in Hexametern verfassten Gedicht lehrte er die Einheit des Seienden: Alles, was gedacht wird, muss seiend sein, ein Nichtsein ist undenkbar. Sein und Denken gehören zusammen. Werden und Vergehen gelten ihm als Illusion der Sterblichen. Damit wurde Parmenides zu einer Autorität für die Sophisten. Platon setzte sich im Dialog Sophistes kritisch mit seiner Lehre auseinander und stellte ihr ein Verständnis von Einheit gegenüber, das auch Vielheit zulässt.</p></note>
                </person>
                <person xml:id="tillich_person_id__3369">
                   <persName>Dionysos</persName>
