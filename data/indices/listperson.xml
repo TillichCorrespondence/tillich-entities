@@ -20412,7 +20412,36 @@
                   <idno type="gnd">https://d-nb.info/gnd/1073668657</idno>
                </person>
                <person xml:id="tillich_person_id__3776">
-                  <persName/>
+                  <persName>Leonard, Grace</persName>
+                  <occupation>secretary</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3777">
+                  <persName>Frank, Erich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118692623</idno>
+               </person>
+               <person xml:id="tillich_person_id__3778">
+                  <persName>MacIntyre, Alasdair</persName>
+               </person>
+               <person xml:id="tillich_person_id__3779">
+                  <persName>Flew, Antony</persName>
+               </person>
+               <person xml:id="tillich_person_id__3780">
+                  <persName>Burtt, Ewin A.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3781">
+                  <persName>Outler, Albert</persName>
+               </person>
+               <person xml:id="tillich_person_id__3782">
+                  <persName>Stern, Karl</persName>
+               </person>
+               <person xml:id="tillich_person_id__3783">
+                  <persName>Fergusson, Francis</persName>
+               </person>
+               <person xml:id="tillich_person_id__3784">
+                  <persName>Goddard, Harold</persName>
+               </person>
+               <person xml:id="tillich_person_id__3785">
+                  <persName>Michalson, Carl</persName>
                </person>
             </listPerson>
          </div>
