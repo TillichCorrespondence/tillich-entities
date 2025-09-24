@@ -5752,6 +5752,14 @@
                   <idno type="geonames">https://sws.geonames.org/4624443/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1008520</idno>
                </place>
+               <place xml:id="tillich_place_id__990">
+                  <placeName>Cornell</placeName>
+                  <location type="coords">
+                     <geo>42.44702 -76.48300</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5113752/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49115</idno>
+               </place>
             </listPlace>
          </div>
       </body>

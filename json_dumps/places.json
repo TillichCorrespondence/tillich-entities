@@ -8644,5 +8644,16 @@
     "latitude": "35.71453",
     "longitude": "-83.51189",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1008520"
+  },
+  "990": {
+    "id": 990,
+    "order": "913.00000000000000000000",
+    "name": "Cornell",
+    "tillich_id": "tillich_place_id__990",
+    "geonames_url": "https://www.geonames.org/5113752/cornell-university.html",
+    "Working Notes": "",
+    "latitude": "42.44702",
+    "longitude": "-76.48300",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49115"
   }
 }

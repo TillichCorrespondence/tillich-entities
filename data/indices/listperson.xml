@@ -20443,6 +20443,48 @@
                <person xml:id="tillich_person_id__3785">
                   <persName>Michalson, Carl</persName>
                </person>
+               <person xml:id="tillich_person_id__3786">
+                  <persName>Anders</persName>
+               </person>
+               <person xml:id="tillich_person_id__3787">
+                  <persName>Vansittart, Robert Gilbert</persName>
+                  <birth>
+                     <date>1881-06-25</date>
+                     <settlement>
+                        <placeName>Farnham</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1957-02-14</date>
+                     <settlement>
+                        <placeName>Denham</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Diplomat</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115551530</idno>
+               </person>
+               <person xml:id="tillich_person_id__3788">
+                  <persName>Foerster, Friedrich Wilhelm</persName>
+                  <birth>
+                     <date>1869-06-02</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-01-09</date>
+                     <settlement>
+                        <placeName>Kilchberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosoph, Pädagoge</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118692038</idno>
+               </person>
+               <person xml:id="tillich_person_id__3789">
+                  <persName>Flaherty, Robert Joseph</persName>
+                  <occupation>Regisseur</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118683810</idno>
+               </person>
             </listPerson>
          </div>
       </body>

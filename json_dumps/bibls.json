@@ -2650,10 +2650,10 @@
   "374": {
     "id": 374,
     "order": "335.00000000000000000000",
-    "name": "h",
+    "name": "Foerster, Frank. Mission im Heiligen Land: Der Jerusalems-Verein zu Berlin, 1852–1945. Gütersloher Verlagshaus Gerd Mohn, 1991.",
     "working_note": "",
     "tillich_id": "tillich_work_id__374",
-    "zotero": ""
+    "zotero": "MWPA9IZX"
   },
   "375": {
     "id": 375,
@@ -2661,6 +2661,14 @@
     "name": "",
     "working_note": "",
     "tillich_id": "tillich_work_id__375",
+    "zotero": ""
+  },
+  "376": {
+    "id": 376,
+    "order": "337.00000000000000000000",
+    "name": "",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__376",
     "zotero": ""
   }
 }
