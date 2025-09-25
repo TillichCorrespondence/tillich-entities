@@ -5760,6 +5760,9 @@
                   <idno type="geonames">https://sws.geonames.org/5113752/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49115</idno>
                </place>
+               <place xml:id="tillich_place_id__991">
+                  <placeName>Stambel</placeName>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -8655,5 +8655,16 @@
     "latitude": "42.44702",
     "longitude": "-76.48300",
     "wikidata_url": "https://www.wikidata.org/wiki/Q49115"
+  },
+  "991": {
+    "id": 991,
+    "order": "914.00000000000000000000",
+    "name": "Stambel",
+    "tillich_id": "tillich_place_id__991",
+    "geonames_url": "",
+    "Working Notes": "Ungewiss könnte sein:  Stampa(Graubründen Ort), Stamford(England?), Stammheim?, Stambul(Istanbul?)",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

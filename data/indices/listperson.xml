@@ -11479,7 +11479,7 @@
                   <note type="bio"><p>Er war scheinbar der kleine Bruder von einem Mann namens Lorenz.</p></note>
                </person>
                <person xml:id="tillich_person_id__2184">
-                  <persName>Kalfhaus, ???</persName>
+                  <persName>Kolfhaus, ???</persName>
                   <note type="bio"><p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2185">
@@ -14494,7 +14494,7 @@
                   <persName>Harz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2536">
-                  <persName>Kürstener, ???</persName>
+                  <persName>Kürschner, ???</persName>
                   <note type="bio"><p>Er war ein Philister.</p></note>
                </person>
                <person xml:id="tillich_person_id__2537">
@@ -20484,6 +20484,9 @@
                   <persName>Flaherty, Robert Joseph</persName>
                   <occupation>Regisseur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118683810</idno>
+               </person>
+               <person xml:id="tillich_person_id__3790">
+                  <persName>Brandt, ???</persName>
                </person>
             </listPerson>
          </div>

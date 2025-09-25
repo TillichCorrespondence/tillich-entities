@@ -39188,9 +39188,9 @@
   "2184": {
     "id": 2184,
     "order": "2184.00000000000000000000",
-    "name": "Kalfhaus, ???",
-    "surname": "Kalfhaus",
-    "forename": "???",
+    "name": "Kolfhaus, ???",
+    "surname": "Kolfhaus",
+    "forename": "Adolf",
     "from_to": "",
     "occupation": "",
     "bio": "Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.",
@@ -45488,8 +45488,8 @@
   "2536": {
     "id": 2536,
     "order": "2536.00000000000000000000",
-    "name": "Kürstener, ???",
-    "surname": "Kürstener",
+    "name": "Kürschner, ???",
+    "surname": "Kürschner",
     "forename": "???",
     "from_to": "",
     "occupation": "",
@@ -66272,6 +66272,24 @@
     "date_of_birth": "",
     "date_of_death": "",
     "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3790": {
+    "id": 3790,
+    "order": "3711.00000000000000000000",
+    "name": "Brandt, ???",
+    "surname": "Brandt",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3790",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "(L10209) sehr wahrscheinlich Leo Brandt, Fritz Demuths Frau was Leonore Demuth(geb. Brandt), womöglich Willy Brandt war beteiligt an der Notgemeinschaft, des weiteren kämen in Frage Rolf Brandt(Hussey Nachlass, https://www.erhfund.org/subseries/series-15/)",
     "place_of_birth": "",
     "place_of_death": ""
   }
