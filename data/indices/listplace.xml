@@ -5763,6 +5763,54 @@
                <place xml:id="tillich_place_id__991">
                   <placeName>Stambel</placeName>
                </place>
+               <place xml:id="tillich_place_id__992">
+                  <placeName>Argentinien</placeName>
+                  <location type="coords">
+                     <geo>-34.00000 -64.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3865483/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q414</idno>
+               </place>
+               <place xml:id="tillich_place_id__993">
+                  <placeName>Peru</placeName>
+                  <location type="coords">
+                     <geo>-10.00000 -75.25000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3932488/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q419</idno>
+               </place>
+               <place xml:id="tillich_place_id__994">
+                  <placeName>Toggenburg St. Gallen</placeName>
+                  <location type="coords">
+                     <geo>47.30858 9.15295</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7285001/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q688630</idno>
+               </place>
+               <place xml:id="tillich_place_id__995">
+                  <placeName>Grueningen</placeName>
+                  <location type="coords">
+                     <geo>47.28333 8.75000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2660466/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q67120</idno>
+               </place>
+               <place xml:id="tillich_place_id__996">
+                  <placeName>Tarasp</placeName>
+                  <location type="coords">
+                     <geo>46.77000 10.25000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7287279/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q68372</idno>
+               </place>
+               <place xml:id="tillich_place_id__997">
+                  <placeName>Fiuggi</placeName>
+                  <location type="coords">
+                     <geo>41.79862 13.22030</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6538706/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q116840</idno>
+               </place>
             </listPlace>
          </div>
       </body>

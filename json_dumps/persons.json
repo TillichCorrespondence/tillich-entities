@@ -61040,11 +61040,11 @@
   "3429": {
     "id": 3429,
     "order": "3419.00000000000000000000",
-    "name": "Rosenstock-Huessy, Margrit",
+    "name": "Rosenstock–Huessy, Margrit",
     "surname": "Rosenstock-Huessy",
     "forename": "Margrit",
     "from_to": "1893-1959",
-    "occupation": "Ehefrau von Eugen Rosenstock-Huessy.",
+    "occupation": "Ehefrau von Eugen Rosenstock–Huessy.",
     "bio": "",
     "legacy_id": "",
     "gnd_url": "http://d-nb.info/gnd/116625228",
@@ -66290,6 +66290,24 @@
     "date_of_birth": "",
     "date_of_death": "",
     "working_note": "(L10209) sehr wahrscheinlich Leo Brandt, Fritz Demuths Frau was Leonore Demuth(geb. Brandt), womöglich Willy Brandt war beteiligt an der Notgemeinschaft, des weiteren kämen in Frage Rolf Brandt(Hussey Nachlass, https://www.erhfund.org/subseries/series-15/)",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3791": {
+    "id": 3791,
+    "order": "3712.00000000000000000000",
+    "name": "Frau R.",
+    "surname": "???",
+    "forename": "???",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3791",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "(vermutlich Rosenzweig Edith -> https://explore.gnd.network/gnd/139275282)",
     "place_of_birth": "",
     "place_of_death": ""
   }

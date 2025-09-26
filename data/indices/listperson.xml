@@ -19028,8 +19028,8 @@
                   <persName>Fell</persName>
                </person>
                <person xml:id="tillich_person_id__3429">
-                  <persName>Rosenstock-Huessy, Margrit</persName>
-                  <occupation>Ehefrau von Eugen Rosenstock-Huessy.</occupation>
+                  <persName>Rosenstock–Huessy, Margrit</persName>
+                  <occupation>Ehefrau von Eugen Rosenstock–Huessy.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116625228</idno>
                </person>
                <person xml:id="tillich_person_id__3430">
@@ -20487,6 +20487,9 @@
                </person>
                <person xml:id="tillich_person_id__3790">
                   <persName>Brandt, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3791">
+                  <persName>Frau R.</persName>
                </person>
             </listPerson>
          </div>

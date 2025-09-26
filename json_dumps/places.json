@@ -8666,5 +8666,71 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "992": {
+    "id": 992,
+    "order": "915.00000000000000000000",
+    "name": "Argentinien",
+    "tillich_id": "tillich_place_id__992",
+    "geonames_url": "https://www.geonames.org/3865483/",
+    "Working Notes": "",
+    "latitude": "-34.00000",
+    "longitude": "-64.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q414"
+  },
+  "993": {
+    "id": 993,
+    "order": "916.00000000000000000000",
+    "name": "Peru",
+    "tillich_id": "tillich_place_id__993",
+    "geonames_url": "https://www.geonames.org/3932488/",
+    "Working Notes": "",
+    "latitude": "-10.00000",
+    "longitude": "-75.25000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q419"
+  },
+  "994": {
+    "id": 994,
+    "order": "917.00000000000000000000",
+    "name": "Toggenburg St. Gallen",
+    "tillich_id": "tillich_place_id__994",
+    "geonames_url": "http://www.geonames.org/7285001/",
+    "Working Notes": "Ehemaliges Land in der Schweiz, heute Wahlkreis",
+    "latitude": "47.30858",
+    "longitude": "9.15295",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q688630"
+  },
+  "995": {
+    "id": 995,
+    "order": "918.00000000000000000000",
+    "name": "Grueningen",
+    "tillich_id": "tillich_place_id__995",
+    "geonames_url": "http://www.geonames.org/2660466/",
+    "Working Notes": "",
+    "latitude": "47.28333",
+    "longitude": "8.75000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q67120"
+  },
+  "996": {
+    "id": 996,
+    "order": "919.00000000000000000000",
+    "name": "Tarasp",
+    "tillich_id": "tillich_place_id__996",
+    "geonames_url": "http://www.geonames.org/7287279/",
+    "Working Notes": "",
+    "latitude": "46.77000",
+    "longitude": "10.25000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q68372"
+  },
+  "997": {
+    "id": 997,
+    "order": "920.00000000000000000000",
+    "name": "Fiuggi",
+    "tillich_id": "tillich_place_id__997",
+    "geonames_url": "http://www.geonames.org/6538706/",
+    "Working Notes": "",
+    "latitude": "41.79862",
+    "longitude": "13.22030",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q116840"
   }
 }
