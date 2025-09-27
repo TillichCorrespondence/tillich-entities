@@ -10217,11 +10217,11 @@
     "legacy_id": "P00570",
     "gnd_url": "http://d-nb.info/gnd/1168750431",
     "tillich_id": "tillich_person_id__570",
-    "date_of_birth": null,
-    "date_of_death": null,
+    "date_of_birth": "1926-02-17",
+    "date_of_death": "2016-03-26",
     "working_note": null,
-    "place_of_birth": null,
-    "place_of_death": null
+    "place_of_birth": "Dresden",
+    "place_of_death": ""
   },
   "571": {
     "id": 571,

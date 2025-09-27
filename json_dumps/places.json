@@ -7988,7 +7988,7 @@
   "865": {
     "id": 865,
     "order": "853.00000000000000000000",
-    "name": "New York",
+    "name": "New York, USA",
     "tillich_id": "tillich_place_id__865",
     "geonames_url": "https://www.geonames.org/5128638/",
     "Working Notes": "",
@@ -8010,7 +8010,7 @@
   "867": {
     "id": 867,
     "order": "855.00000000000000000000",
-    "name": "New Jersey",
+    "name": "New Jersey, USA",
     "tillich_id": "tillich_place_id__867",
     "geonames_url": "https://www.geonames.org/5101760/",
     "Working Notes": "Bundesstaat",
@@ -8732,5 +8732,27 @@
     "latitude": "41.79862",
     "longitude": "13.22030",
     "wikidata_url": "https://www.wikidata.org/wiki/Q116840"
+  },
+  "998": {
+    "id": 998,
+    "order": "921.00000000000000000000",
+    "name": "Pennsylvania",
+    "tillich_id": "tillich_place_id__998",
+    "geonames_url": "https://www.geonames.org/6254927/",
+    "Working Notes": "",
+    "latitude": "40.80000",
+    "longitude": "-77.70000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1400"
+  },
+  "999": {
+    "id": 999,
+    "order": "922.00000000000000000000",
+    "name": "Illinois, USA",
+    "tillich_id": "tillich_place_id__999",
+    "geonames_url": "https://www.geonames.org/4896861/",
+    "Working Notes": "",
+    "latitude": "40.00032",
+    "longitude": "-89.25037",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1204"
   }
 }

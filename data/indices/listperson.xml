@@ -2807,6 +2807,15 @@
                </person>
                <person xml:id="tillich_person_id__570">
                   <persName>Farris, Erdmuthe</persName>
+                  <birth>
+                     <date>1926-02-17</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>2016-03-26</date>
+                  </death>
                   <occupation>Tochter von Paul Tillich</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                </person>
@@ -19605,7 +19614,7 @@
                   <death>
                      <date>1963-09-07</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__865">New York</placeName>
+                        <placeName>New York</placeName>
                      </settlement>
                   </death>
                   <occupation>Amerikanischer Rabbi, Sozialarbeiter</occupation>
@@ -19622,7 +19631,7 @@
                   <death>
                      <date>1970-06-15</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__865">New York</placeName>
+                        <placeName>New York</placeName>
                      </settlement>
                   </death>
                   <occupation>Politologe, Soziologe</occupation>
@@ -19643,13 +19652,13 @@
                   <birth>
                      <date>1897-01-05</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__865">New York</placeName>
+                        <placeName>New York</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1986-01-31</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__865">New York</placeName>
+                        <placeName>New York</placeName>
                      </settlement>
                   </death>
                   <occupation>Jurist, Diplomat, Völkerrechtler</occupation>
@@ -19660,7 +19669,7 @@
                   <birth>
                      <date>1870-12-20</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__865">New York</placeName>
+                        <placeName>New York</placeName>
                      </settlement>
                   </birth>
                   <death>

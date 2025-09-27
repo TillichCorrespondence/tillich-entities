@@ -5333,7 +5333,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q12585</idno>
                </place>
                <place xml:id="tillich_place_id__865">
-                  <placeName>New York</placeName>
+                  <placeName>New York, USA</placeName>
                   <location type="coords">
                      <geo>43.00035 -75.49990</geo>
                   </location>
@@ -5349,7 +5349,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q988515</idno>
                </place>
                <place xml:id="tillich_place_id__867">
-                  <placeName>New Jersey</placeName>
+                  <placeName>New Jersey, USA</placeName>
                   <location type="coords">
                      <geo>40.16706 -74.49987</geo>
                   </location>
@@ -5810,6 +5810,22 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6538706/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q116840</idno>
+               </place>
+               <place xml:id="tillich_place_id__998">
+                  <placeName>Pennsylvania</placeName>
+                  <location type="coords">
+                     <geo>40.80000 -77.70000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6254927/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1400</idno>
+               </place>
+               <place xml:id="tillich_place_id__999">
+                  <placeName>Illinois, USA</placeName>
+                  <location type="coords">
+                     <geo>40.00032 -89.25037</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4896861/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1204</idno>
                </place>
             </listPlace>
          </div>
