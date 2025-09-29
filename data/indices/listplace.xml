@@ -4388,7 +4388,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q858</idno>
                </place>
                <place xml:id="tillich_place_id__726">
-                  <placeName>Connecticut</placeName>
+                  <placeName>Connecticut, USA</placeName>
                   <location type="coords">
                      <geo>41.66704 -72.66648</geo>
                   </location>
@@ -5812,7 +5812,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q116840</idno>
                </place>
                <place xml:id="tillich_place_id__998">
-                  <placeName>Pennsylvania</placeName>
+                  <placeName>Pennsylvania, USA</placeName>
                   <location type="coords">
                      <geo>40.80000 -77.70000</geo>
                   </location>
