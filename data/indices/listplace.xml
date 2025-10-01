@@ -5827,6 +5827,14 @@
                   <idno type="geonames">https://sws.geonames.org/4896861/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1204</idno>
                </place>
+               <place xml:id="tillich_place_id__1032">
+                  <placeName>Albany</placeName>
+                  <location type="coords">
+                     <geo>42.65258 -73.75623</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5106834/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q24861</idno>
+               </place>
             </listPlace>
          </div>
       </body>

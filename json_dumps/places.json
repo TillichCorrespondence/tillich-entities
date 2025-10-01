@@ -8754,5 +8754,16 @@
     "latitude": "40.00032",
     "longitude": "-89.25037",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1204"
+  },
+  "1032": {
+    "id": 1032,
+    "order": "923.00000000000000000000",
+    "name": "Albany",
+    "tillich_id": "tillich_place_id__1032",
+    "geonames_url": "https://www.geonames.org/5106834/albany.html",
+    "Working Notes": "",
+    "latitude": "42.65258",
+    "longitude": "-73.75623",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q24861"
   }
 }

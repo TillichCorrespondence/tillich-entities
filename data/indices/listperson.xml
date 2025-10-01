@@ -5320,6 +5320,7 @@
                <person xml:id="tillich_person_id__1245">
                   <persName>Manasse-Morris, Rudolf</persName>
                   <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116727179</idno>
                </person>
                <person xml:id="tillich_person_id__1246">
                   <persName>Mandel, Hermann</persName>
@@ -20499,6 +20500,43 @@
                </person>
                <person xml:id="tillich_person_id__3791">
                   <persName>Frau R.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3824">
+                  <persName>Krueger, Lucy</persName>
+                  <occupation>Kindergärtnerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3825">
+                  <persName>Fabian, Walter</persName>
+                  <birth>
+                     <date>1902-08-24</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1992-02-15</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker, Widerstandskämpfer, Journalist</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3826">
+                  <persName>Forell, Frederik J.</persName>
+                  <birth>
+                     <date>1888-09-15</date>
+                     <settlement>
+                        <placeName>Glatz (Schlesien)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-04-02</date>
+                     <settlement>
+                        <placeName>Iowa City</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116661909</idno>
                </person>
             </listPerson>
          </div>
