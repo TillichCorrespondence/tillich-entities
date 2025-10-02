@@ -2658,17 +2658,25 @@
   "375": {
     "id": 375,
     "order": "336.00000000000000000000",
-    "name": "",
+    "name": "Graf, Friedrich, und Alf Christophersen. „Die Korrespondenz zwischen Fritz Medicus und Paul Tillich“. Zeitschrift für Neuere Theologiegeschichte (Journal for the History of Modern Theology), Bd. 11, Juli 2004, https://doi.org/10.1515/znth.11.1.126.",
     "working_note": "",
     "tillich_id": "tillich_work_id__375",
-    "zotero": ""
+    "zotero": "JNWLCUKJ"
   },
   "376": {
     "id": 376,
     "order": "337.00000000000000000000",
-    "name": "",
+    "name": "Albrecht, Renate, und René Tautmann, Herausgeber. Theologische, philosophische und politische Stellungnahmen und Gespräche. De Gruyter, 1983, https://doi.org/doi:10.1515/9783110830514.",
     "working_note": "",
     "tillich_id": "tillich_work_id__376",
+    "zotero": "4LH2UCAR"
+  },
+  "409": {
+    "id": 409,
+    "order": "338.00000000000000000000",
+    "name": "s",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__409",
     "zotero": ""
   }
 }
