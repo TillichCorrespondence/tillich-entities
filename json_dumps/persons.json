@@ -32006,7 +32006,7 @@
   "1783": {
     "id": 1783,
     "order": "1783.00000000000000000000",
-    "name": "Siegfried, Friedrich Alfred Theodor",
+    "name": "Siegfried, Theodor",
     "surname": "Siegfried",
     "forename": "Friedrich Alfred Theodor",
     "from_to": "1894-1971",
@@ -66364,5 +66364,23 @@
     "working_note": "",
     "place_of_birth": "Glatz (Schlesien)",
     "place_of_death": "Iowa City"
+  },
+  "3827": {
+    "id": 3827,
+    "order": "3716.00000000000000000000",
+    "name": "Mitarbeiter des zweiten Kairos-Buches",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3827",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

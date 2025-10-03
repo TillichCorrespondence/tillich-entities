@@ -7340,7 +7340,7 @@
                   <persName>Siebeck, Hermann</persName>
                </person>
                <person xml:id="tillich_person_id__1783">
-                  <persName>Siegfried, Friedrich Alfred Theodor</persName>
+                  <persName>Siegfried, Theodor</persName>
                   <occupation>Theologe/Freund</occupation>
                </person>
                <person xml:id="tillich_person_id__1784">
@@ -20537,6 +20537,9 @@
                   </death>
                   <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116661909</idno>
+               </person>
+               <person xml:id="tillich_person_id__3827">
+                  <persName>Mitarbeiter des zweiten Kairos-Buches</persName>
                </person>
             </listPerson>
          </div>
