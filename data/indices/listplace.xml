@@ -5835,6 +5835,38 @@
                   <idno type="geonames">https://sws.geonames.org/5106834/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q24861</idno>
                </place>
+               <place xml:id="tillich_place_id__1033">
+                  <placeName>Auschwitz</placeName>
+                  <location type="coords">
+                     <geo>50.03702 19.17612</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7701596/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7341</idno>
+               </place>
+               <place xml:id="tillich_place_id__1034">
+                  <placeName>Elmhurst College</placeName>
+                  <location type="coords">
+                     <geo>41.89586 -87.94729</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4891013/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5366768</idno>
+               </place>
+               <place xml:id="tillich_place_id__1035">
+                  <placeName>Eden Theological Seminary</placeName>
+                  <location type="coords">
+                     <geo>38.59140 -90.34460</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7205316/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5336928</idno>
+               </place>
+               <place xml:id="tillich_place_id__1036">
+                  <placeName>Langenberg (Rheinland)</placeName>
+                  <location type="coords">
+                     <geo>51.35038 7.11936</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2881176/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1476033</idno>
+               </place>
             </listPlace>
          </div>
       </body>

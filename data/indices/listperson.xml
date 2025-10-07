@@ -12353,7 +12353,7 @@
                   <death>
                      <date>1943-02-04</date>
                      <settlement>
-                        <placeName>Auschwitz</placeName>
+                        <placeName key="#tillich_place_id__1033">Auschwitz</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1272748154</idno>
@@ -20540,6 +20540,26 @@
                </person>
                <person xml:id="tillich_person_id__3827">
                   <persName>Mitarbeiter des zweiten Kairos-Buches</persName>
+               </person>
+               <person xml:id="tillich_person_id__3860">
+                  <persName>Hutchins, Robert M.</persName>
+               </person>
+               <person xml:id="tillich_person_id__3861">
+                  <persName>Pétain, Philippe</persName>
+                  <birth>
+                     <date>1856-04-24</date>
+                     <settlement>
+                        <placeName>Cauchy-à-la-Tour</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1951-07-23</date>
+                     <settlement>
+                        <placeName>Port-Joinville</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Offizier, Marschall, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118740156</idno>
                </person>
             </listPerson>
          </div>

@@ -66382,5 +66382,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3860": {
+    "id": 3860,
+    "order": "3717.00000000000000000000",
+    "name": "Hutchins, Robert M.",
+    "surname": "Hutchins",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3860",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "3861": {
+    "id": 3861,
+    "order": "3718.00000000000000000000",
+    "name": "Pétain, Philippe",
+    "surname": "Pétain",
+    "forename": "Philippe",
+    "from_to": "",
+    "occupation": "Offizier, Marschall, Politiker",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118740156",
+    "tillich_id": "tillich_person_id__3861",
+    "date_of_birth": "1856-04-24",
+    "date_of_death": "1951-07-23",
+    "working_note": "",
+    "place_of_birth": "Cauchy-à-la-Tour",
+    "place_of_death": "Port-Joinville"
   }
 }

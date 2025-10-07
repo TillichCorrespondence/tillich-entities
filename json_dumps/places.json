@@ -8765,5 +8765,49 @@
     "latitude": "42.65258",
     "longitude": "-73.75623",
     "wikidata_url": "https://www.wikidata.org/wiki/Q24861"
+  },
+  "1033": {
+    "id": 1033,
+    "order": "924.00000000000000000000",
+    "name": "Auschwitz",
+    "tillich_id": "tillich_place_id__1033",
+    "geonames_url": "https://www.geonames.org/7701596/",
+    "Working Notes": "",
+    "latitude": "50.03702",
+    "longitude": "19.17612",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7341"
+  },
+  "1034": {
+    "id": 1034,
+    "order": "925.00000000000000000000",
+    "name": "Elmhurst College",
+    "tillich_id": "tillich_place_id__1034",
+    "geonames_url": "https://www.geonames.org/4891013",
+    "Working Notes": "",
+    "latitude": "41.89586",
+    "longitude": "-87.94729",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5366768"
+  },
+  "1035": {
+    "id": 1035,
+    "order": "926.00000000000000000000",
+    "name": "Eden Theological Seminary",
+    "tillich_id": "tillich_place_id__1035",
+    "geonames_url": "https://www.geonames.org/7205316",
+    "Working Notes": "",
+    "latitude": "38.59140",
+    "longitude": "-90.34460",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5336928"
+  },
+  "1036": {
+    "id": 1036,
+    "order": "927.00000000000000000000",
+    "name": "Langenberg (Rheinland)",
+    "tillich_id": "tillich_place_id__1036",
+    "geonames_url": "https://sws.geonames.org/2881176/",
+    "Working Notes": "",
+    "latitude": "51.35038",
+    "longitude": "7.11936",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1476033"
   }
 }
