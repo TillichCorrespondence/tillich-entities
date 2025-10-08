@@ -20561,6 +20561,31 @@
                   <occupation>Offizier, Marschall, Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118740156</idno>
                </person>
+               <person xml:id="tillich_person_id__3862">
+                  <persName>Lehmann, Timothy</persName>
+                  <occupation>Theologe</occupation>
+                  <note type="bio"><p>Präsident des Elmhurst College von 1928-1948</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3863">
+                  <persName>Lorch, Alex</persName>
+               </person>
+               <person xml:id="tillich_person_id__3864">
+                  <persName>Hamilton</persName>
+               </person>
+               <person xml:id="tillich_person_id__3865">
+                  <persName>Hayner, Paul C.</persName>
+                  <occupation>Philosoph, Professor für Philosophie</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3866">
+                  <persName>Hartenstein, Karl</persName>
+                  <occupation>Theologe; Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118546163</idno>
+               </person>
+               <person xml:id="tillich_person_id__3867">
+                  <persName>Michel, Ernst</persName>
+                  <occupation>Soziologe; Philosoph; Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118733699</idno>
+               </person>
             </listPerson>
          </div>
       </body>
