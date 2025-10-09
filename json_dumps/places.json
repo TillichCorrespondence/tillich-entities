@@ -8813,13 +8813,13 @@
   "1037": {
     "id": 1037,
     "order": "928.00000000000000000000",
-    "name": "",
+    "name": "Treysa",
     "tillich_id": "tillich_place_id__1037",
-    "geonames_url": "",
+    "geonames_url": "https://sws.geonames.org/2821230/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
+    "latitude": "50.91205",
+    "longitude": "9.18430",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2452168"
   },
   "1038": {
     "id": 1038,
@@ -8831,5 +8831,82 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1039": {
+    "id": 1039,
+    "order": "930.00000000000000000000",
+    "name": "St. Gallen",
+    "tillich_id": "tillich_place_id__1039",
+    "geonames_url": "https://www.geonames.org/2658822",
+    "Working Notes": "",
+    "latitude": "47.42391",
+    "longitude": "9.37477",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25607"
+  },
+  "1040": {
+    "id": 1040,
+    "order": "931.00000000000000000000",
+    "name": "Strafanstalt Saxerriet",
+    "tillich_id": "tillich_place_id__1040",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2352752"
+  },
+  "1041": {
+    "id": 1041,
+    "order": "932.00000000000000000000",
+    "name": "Rheintal",
+    "tillich_id": "tillich_place_id__1041",
+    "geonames_url": "https://www.geonames.org/7285000",
+    "Working Notes": "",
+    "latitude": "47.37769",
+    "longitude": "9.57903",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q188220"
+  },
+  "1042": {
+    "id": 1042,
+    "order": "933.00000000000000000000",
+    "name": "Dorset (Ontario)",
+    "tillich_id": "tillich_place_id__1042",
+    "geonames_url": "https://www.geonames.org/5941902/",
+    "Working Notes": "",
+    "latitude": "45.23341",
+    "longitude": "-78.89960",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5298824"
+  },
+  "1043": {
+    "id": 1043,
+    "order": "934.00000000000000000000",
+    "name": "Ontario",
+    "tillich_id": "tillich_place_id__1043",
+    "geonames_url": "https://www.geonames.org/6093943/",
+    "Working Notes": "",
+    "latitude": "49.25014",
+    "longitude": "-84.49983",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1904"
+  },
+  "1044": {
+    "id": 1044,
+    "order": "935.00000000000000000000",
+    "name": "Clinton (CT)",
+    "tillich_id": "tillich_place_id__1044",
+    "geonames_url": "https://www.geonames.org/5284202/",
+    "Working Notes": "",
+    "latitude": "41.27871",
+    "longitude": "-72.52759",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q755130"
+  },
+  "1045": {
+    "id": 1045,
+    "order": "936.00000000000000000000",
+    "name": "Kirkwood (MO)",
+    "tillich_id": "tillich_place_id__1045",
+    "geonames_url": "https://www.geonames.org/4393739/",
+    "Working Notes": "",
+    "latitude": "38.58339",
+    "longitude": "-90.40678",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q963572"
   }
 }

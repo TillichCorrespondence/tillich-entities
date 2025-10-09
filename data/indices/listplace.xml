@@ -5867,7 +5867,67 @@
                   <idno type="geonames">https://sws.geonames.org/2881176/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1476033</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__1037">
+                  <placeName>Treysa</placeName>
+                  <location type="coords">
+                     <geo>50.91205 9.18430</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2821230/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2452168</idno>
+               </place>
+               <place xml:id="tillich_place_id__1039">
+                  <placeName>St. Gallen</placeName>
+                  <location type="coords">
+                     <geo>47.42391 9.37477</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2658822/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q25607</idno>
+               </place>
+               <place xml:id="tillich_place_id__1040">
+                  <placeName>Strafanstalt Saxerriet</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2352752</idno>
+               </place>
+               <place xml:id="tillich_place_id__1041">
+                  <placeName>Rheintal</placeName>
+                  <location type="coords">
+                     <geo>47.37769 9.57903</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7285000/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q188220</idno>
+               </place>
+               <place xml:id="tillich_place_id__1042">
+                  <placeName>Dorset (Ontario)</placeName>
+                  <location type="coords">
+                     <geo>45.23341 -78.89960</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5941902/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5298824</idno>
+               </place>
+               <place xml:id="tillich_place_id__1043">
+                  <placeName>Ontario</placeName>
+                  <location type="coords">
+                     <geo>49.25014 -84.49983</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6093943/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1904</idno>
+               </place>
+               <place xml:id="tillich_place_id__1044">
+                  <placeName>Clinton (CT)</placeName>
+                  <location type="coords">
+                     <geo>41.27871 -72.52759</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5284202/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q755130</idno>
+               </place>
+               <place xml:id="tillich_place_id__1045">
+                  <placeName>Kirkwood (MO)</placeName>
+                  <location type="coords">
+                     <geo>38.58339 -90.40678</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4393739/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q963572</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>

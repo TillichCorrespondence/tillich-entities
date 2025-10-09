@@ -5163,9 +5163,6 @@
                <person xml:id="tillich_person_id__1207">
                   <persName>Loveland, Gilbert</persName>
                </person>
-               <person xml:id="tillich_person_id__1208">
-                  <persName>Löwe, Beatrice</persName>
-               </person>
                <person xml:id="tillich_person_id__1209">
                   <persName>Löwe, Adolf</persName>
                   <occupation>deutscher Soziologe und Nationalökonom</occupation>
@@ -19178,7 +19175,7 @@
                   <occupation>Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__3467">
-                  <persName>Tillich, Herrmann</persName>
+                  <persName>Tillich, Hermann</persName>
                   <death>
                      <date>1936?</date>
                   </death>
@@ -20570,7 +20567,7 @@
                   <persName>Lorch, Alex</persName>
                </person>
                <person xml:id="tillich_person_id__3864">
-                  <persName>Hamilton</persName>
+                  <persName>Hamilton, Wallace J.</persName>
                </person>
                <person xml:id="tillich_person_id__3865">
                   <persName>Hayner, Paul C.</persName>
@@ -20585,6 +20582,196 @@
                   <persName>Michel, Ernst</persName>
                   <occupation>Soziologe; Philosoph; Publizist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118733699</idno>
+               </person>
+               <person xml:id="tillich_person_id__3868">
+                  <persName>Derain, André</persName>
+               </person>
+               <person xml:id="tillich_person_id__3869">
+                  <persName>Pissarro, Camille</persName>
+               </person>
+               <person xml:id="tillich_person_id__3870">
+                  <persName>Uccello, Paolo</persName>
+               </person>
+               <person xml:id="tillich_person_id__3871">
+                  <persName>Bassano, Jacopo</persName>
+               </person>
+               <person xml:id="tillich_person_id__3872">
+                  <persName>Mascagni</persName>
+               </person>
+               <person xml:id="tillich_person_id__3873">
+                  <persName>Marc, Franz</persName>
+               </person>
+               <person xml:id="tillich_person_id__3874">
+                  <persName>Brogne</persName>
+               </person>
+               <person xml:id="tillich_person_id__3875">
+                  <persName>Chagall, Marc</persName>
+               </person>
+               <person xml:id="tillich_person_id__3876">
+                  <persName>Klee, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__3877">
+                  <persName>Gris</persName>
+               </person>
+               <person xml:id="tillich_person_id__3878">
+                  <persName>Léger, Fernand</persName>
+               </person>
+               <person xml:id="tillich_person_id__3879">
+                  <persName>Miro</persName>
+               </person>
+               <person xml:id="tillich_person_id__3880">
+                  <persName>Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__3881">
+                  <persName>Dali</persName>
+               </person>
+               <person xml:id="tillich_person_id__3882">
+                  <persName>Diffendorfer, Ralph Eugene</persName>
+                  <occupation>methodistischer Missionar, Kirchenadministrator</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3883">
+                  <persName>Dillenberger, John</persName>
+                  <occupation>Historiker, Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1187378569</idno>
+               </person>
+               <person xml:id="tillich_person_id__3884">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3885">
+                  <persName>Langendorf, Ernst</persName>
+                  <birth>
+                     <date>1907-12-15</date>
+                     <settlement>
+                        <placeName>Rod an der Weil</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1989</date>
+                  </death>
+                  <occupation>Journalist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1030297983</idno>
+               </person>
+               <person xml:id="tillich_person_id__3886">
+                  <persName>Soper, Edmund Davison</persName>
+                  <occupation>Religionswissenschaftler, Missionswissenschaftler</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3887">
+                  <persName>Massacio</persName>
+               </person>
+               <person xml:id="tillich_person_id__3888">
+                  <persName>Fra Angelico</persName>
+               </person>
+               <person xml:id="tillich_person_id__3889">
+                  <persName>Perogino, Pietro</persName>
+               </person>
+               <person xml:id="tillich_person_id__3890">
+                  <persName>Van Eyck, Jan</persName>
+               </person>
+               <person xml:id="tillich_person_id__3891">
+                  <persName>Van der Weyden, Rogier</persName>
+               </person>
+               <person xml:id="tillich_person_id__3892">
+                  <persName>Grünewald, Matthias</persName>
+               </person>
+               <person xml:id="tillich_person_id__3893">
+                  <persName>Steinhausen</persName>
+               </person>
+               <person xml:id="tillich_person_id__3894">
+                  <persName>Thoma, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__3895">
+                  <persName>Gebhard</persName>
+               </person>
+               <person xml:id="tillich_person_id__3896">
+                  <persName>Keller</persName>
+               </person>
+               <person xml:id="tillich_person_id__3897">
+                  <persName>Hofmann</persName>
+               </person>
+               <person xml:id="tillich_person_id__3898">
+                  <persName>Dülberg</persName>
+               </person>
+               <person xml:id="tillich_person_id__3899">
+                  <persName>Edzard</persName>
+               </person>
+               <person xml:id="tillich_person_id__3900">
+                  <persName>Ebertz</persName>
+               </person>
+               <person xml:id="tillich_person_id__3901">
+                  <persName>Weissgerber</persName>
+               </person>
+               <person xml:id="tillich_person_id__3902">
+                  <persName>Kokoschka, Oskar</persName>
+               </person>
+               <person xml:id="tillich_person_id__3903">
+                  <persName>Nauen, Heinrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__3904">
+                  <persName>Meidner, Ludwig</persName>
+               </person>
+               <person xml:id="tillich_person_id__3905">
+                  <persName>Lebrun,</persName>
+               </person>
+               <person xml:id="tillich_person_id__3906">
+                  <persName>Kean, Charles Duell</persName>
+                  <occupation>Pfarrer, Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1191505529</idno>
+               </person>
+               <person xml:id="tillich_person_id__3907">
+                  <persName>Carpaccio, Francesco Quirini</persName>
+               </person>
+               <person xml:id="tillich_person_id__3908">
+                  <persName>Hals, Frans</persName>
+               </person>
+               <person xml:id="tillich_person_id__3909">
+                  <persName>Sargent, John Singer</persName>
+               </person>
+               <person xml:id="tillich_person_id__3910">
+                  <persName>Tanguy</persName>
+               </person>
+               <person xml:id="tillich_person_id__3911">
+                  <persName>Leurcat, Jean</persName>
+               </person>
+               <person xml:id="tillich_person_id__3912">
+                  <persName>Mondrian, Piet</persName>
+               </person>
+               <person xml:id="tillich_person_id__3913">
+                  <persName>Lissitzki</persName>
+               </person>
+               <person xml:id="tillich_person_id__3914">
+                  <persName>Daumier, Honoré</persName>
+               </person>
+               <person xml:id="tillich_person_id__3915">
+                  <persName>Masereel</persName>
+               </person>
+               <person xml:id="tillich_person_id__3916">
+                  <persName>Lipschitz</persName>
+               </person>
+               <person xml:id="tillich_person_id__3917">
+                  <persName>Lenbach, Franz von</persName>
+               </person>
+               <person xml:id="tillich_person_id__3918">
+                  <persName>Stanley, Clifford Leland</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1147238847</idno>
+               </person>
+               <person xml:id="tillich_person_id__3919">
+                  <persName>Rousseau, Henri</persName>
+               </person>
+               <person xml:id="tillich_person_id__3920">
+                  <persName>Fininger, Lyonel</persName>
+               </person>
+               <person xml:id="tillich_person_id__3921">
+                  <persName>Moholy-Nagy, László</persName>
+               </person>
+               <person xml:id="tillich_person_id__3922">
+                  <persName>Schlemmer, Oskar</persName>
+               </person>
+               <person xml:id="tillich_person_id__3923">
+                  <persName>Kanoldt, Alexander</persName>
+               </person>
+               <person xml:id="tillich_person_id__3924">
+                  <persName>Ernst, Max</persName>
                </person>
             </listPerson>
          </div>
