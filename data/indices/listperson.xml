@@ -20692,7 +20692,7 @@
                   <persName>Dülberg</persName>
                </person>
                <person xml:id="tillich_person_id__3899">
-                  <persName>Edzard</persName>
+                  <persName>Edzard, Dietz</persName>
                </person>
                <person xml:id="tillich_person_id__3900">
                   <persName>Ebertz</persName>
@@ -20727,7 +20727,7 @@
                   <persName>Sargent, John Singer</persName>
                </person>
                <person xml:id="tillich_person_id__3910">
-                  <persName>Tanguy</persName>
+                  <persName>Tanguy, Yves</persName>
                </person>
                <person xml:id="tillich_person_id__3911">
                   <persName>Leurcat, Jean</persName>
@@ -20772,6 +20772,18 @@
                </person>
                <person xml:id="tillich_person_id__3924">
                   <persName>Ernst, Max</persName>
+               </person>
+               <person xml:id="tillich_person_id__3925">
+                  <persName>Modigliani, Amedeo</persName>
+               </person>
+               <person xml:id="tillich_person_id__3926">
+                  <persName>Delaunay, Robert</persName>
+               </person>
+               <person xml:id="tillich_person_id__3927">
+                  <persName>Ernst, Max</persName>
+               </person>
+               <person xml:id="tillich_person_id__3928">
+                  <persName>Herterich, Ludwig von</persName>
                </person>
             </listPerson>
          </div>
