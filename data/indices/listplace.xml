@@ -4420,7 +4420,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49148</idno>
                </place>
                <place xml:id="tillich_place_id__730">
-                  <placeName>Vermont</placeName>
+                  <placeName>Vermont, USA</placeName>
                   <location type="coords">
                      <geo>44.00034 -72.74983</geo>
                   </location>
@@ -5926,6 +5926,25 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/4393739/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q963572</idno>
+               </place>
+               <place xml:id="tillich_place_id__1078">
+                  <placeName>Glen Alpine (CA)</placeName>
+               </place>
+               <place xml:id="tillich_place_id__1079">
+                  <placeName>Peacham (VT)</placeName>
+                  <location type="coords">
+                     <geo>44.32895 -72.16899</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5239674/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1949894</idno>
+               </place>
+               <place xml:id="tillich_place_id__1080">
+                  <placeName>Keene Valley (NY)</placeName>
+                  <location type="coords">
+                     <geo>44.18977 -73.78597</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5123161/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q34686201</idno>
                </place>
             </listPlace>
          </div>

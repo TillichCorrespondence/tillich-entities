@@ -20662,7 +20662,7 @@
                   <persName>Fra Angelico</persName>
                </person>
                <person xml:id="tillich_person_id__3889">
-                  <persName>Perogino, Pietro</persName>
+                  <persName>Perugino, Pietro</persName>
                </person>
                <person xml:id="tillich_person_id__3890">
                   <persName>Van Eyck, Jan</persName>
@@ -20784,6 +20784,54 @@
                </person>
                <person xml:id="tillich_person_id__3928">
                   <persName>Herterich, Ludwig von</persName>
+               </person>
+               <person xml:id="tillich_person_id__3961">
+                  <persName>Ruwoldt</persName>
+               </person>
+               <person xml:id="tillich_person_id__3962">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__3963">
+                  <persName>Plaut, Alfred</persName>
+                  <occupation>Arzt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/125581793</idno>
+               </person>
+               <person xml:id="tillich_person_id__3964">
+                  <persName>Friess, Ruth</persName>
+                  <note type="bio"><p>Ehefrau von Horace Friess</p></note>
+               </person>
+               <person xml:id="tillich_person_id__3965">
+                  <persName>Dolci,</persName>
+               </person>
+               <person xml:id="tillich_person_id__3966">
+                  <persName>Fragonard</persName>
+               </person>
+               <person xml:id="tillich_person_id__3967">
+                  <persName>Caravaggio, Michelangelo Merisi da</persName>
+               </person>
+               <person xml:id="tillich_person_id__3968">
+                  <persName>de Konning</persName>
+               </person>
+               <person xml:id="tillich_person_id__3969">
+                  <persName>Gozzoli, Benozzo</persName>
+               </person>
+               <person xml:id="tillich_person_id__3970">
+                  <persName>Lippi, Filippo</persName>
+               </person>
+               <person xml:id="tillich_person_id__3971">
+                  <persName>Löwenthal, Gertrud</persName>
+               </person>
+               <person xml:id="tillich_person_id__3972">
+                  <persName>Ghirlandaio, Domenico</persName>
+               </person>
+               <person xml:id="tillich_person_id__3973">
+                  <persName>Pinturicchio</persName>
+               </person>
+               <person xml:id="tillich_person_id__3974">
+                  <persName>Hoffmann</persName>
+               </person>
+               <person xml:id="tillich_person_id__3975">
+                  <persName>Lurcat</persName>
                </person>
             </listPerson>
          </div>

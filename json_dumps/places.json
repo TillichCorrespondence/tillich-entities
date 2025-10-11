@@ -6558,7 +6558,7 @@
   "730": {
     "id": 730,
     "order": "722.00000000000000000000",
-    "name": "Vermont",
+    "name": "Vermont, USA",
     "tillich_id": "tillich_place_id__730",
     "geonames_url": "https://sws.geonames.org/5242283/",
     "Working Notes": "",
@@ -8908,5 +8908,38 @@
     "latitude": "38.58339",
     "longitude": "-90.40678",
     "wikidata_url": "https://www.wikidata.org/wiki/Q963572"
+  },
+  "1078": {
+    "id": 1078,
+    "order": "937.00000000000000000000",
+    "name": "Glen Alpine (CA)",
+    "tillich_id": "tillich_place_id__1078",
+    "geonames_url": "",
+    "Working Notes": "\"Urlaubsort\" v. L. Löwenthal (L10983) – existiert aber nicht als Stadt. (Es gibt am Lake Tahoe bloß einen Glen Alpine Creek, Spring, Falls oder Trail.)",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1079": {
+    "id": 1079,
+    "order": "938.00000000000000000000",
+    "name": "Peacham (VT)",
+    "tillich_id": "tillich_place_id__1079",
+    "geonames_url": "https://www.geonames.org/5239674/",
+    "Working Notes": "",
+    "latitude": "44.32895",
+    "longitude": "-72.16899",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1949894"
+  },
+  "1080": {
+    "id": 1080,
+    "order": "939.00000000000000000000",
+    "name": "Keene Valley (NY)",
+    "tillich_id": "tillich_place_id__1080",
+    "geonames_url": "https://www.geonames.org/5123161/",
+    "Working Notes": "",
+    "latitude": "44.18977",
+    "longitude": "-73.78597",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q34686201"
   }
 }
