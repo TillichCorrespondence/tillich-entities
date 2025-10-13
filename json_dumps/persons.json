@@ -67966,5 +67966,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "3981": {
+    "id": 3981,
+    "order": "3806.00000000000000000000",
+    "name": "H. Wiese(?)",
+    "surname": "Wiese(?)",
+    "forename": "H.",
+    "from_to": "",
+    "occupation": "Um 1927 Sekretär der Theologischen Literaturzeitung.",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__3981",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
