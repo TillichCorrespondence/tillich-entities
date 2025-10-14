@@ -4732,7 +4732,7 @@
   "551": {
     "id": 551,
     "order": "546.00000000000000000000",
-    "name": "Birkenweder",
+    "name": "Birkenwerder",
     "tillich_id": "tillich_place_id__551",
     "geonames_url": "https://sws.geonames.org/2948503/",
     "Working Notes": "Working Notes",
@@ -8941,5 +8941,38 @@
     "latitude": "44.18977",
     "longitude": "-73.78597",
     "wikidata_url": "https://www.wikidata.org/wiki/Q34686201"
+  },
+  "1081": {
+    "id": 1081,
+    "order": "940.00000000000000000000",
+    "name": "Holland (MI)",
+    "tillich_id": "tillich_place_id__1081",
+    "geonames_url": "https://www.geonames.org/4996248/",
+    "Working Notes": "",
+    "latitude": "42.78752",
+    "longitude": "-86.10893",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1001742"
+  },
+  "1082": {
+    "id": 1082,
+    "order": "941.00000000000000000000",
+    "name": "Toronto",
+    "tillich_id": "tillich_place_id__1082",
+    "geonames_url": "https://www.geonames.org/6167865/",
+    "Working Notes": "",
+    "latitude": "43.70643",
+    "longitude": "-79.39864",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q172"
+  },
+  "1083": {
+    "id": 1083,
+    "order": "942.00000000000000000000",
+    "name": "Bloomington (IN)",
+    "tillich_id": "tillich_place_id__1083",
+    "geonames_url": "https://www.geonames.org/4254679/",
+    "Working Notes": "",
+    "latitude": "39.16533",
+    "longitude": "-86.52639",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q490385"
   }
 }

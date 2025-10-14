@@ -20804,7 +20804,7 @@
                   <persName>Dolci,</persName>
                </person>
                <person xml:id="tillich_person_id__3966">
-                  <persName>Fragonard</persName>
+                  <persName>Fragonard, Jean-Honoré</persName>
                </person>
                <person xml:id="tillich_person_id__3967">
                   <persName>Caravaggio, Michelangelo Merisi da</persName>
@@ -20851,6 +20851,58 @@
                <person xml:id="tillich_person_id__3981">
                   <persName>H. Wiese(?)</persName>
                   <occupation>Um 1927 Sekretär der Theologischen Literaturzeitung.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3982">
+                  <persName>Peter (Apostel)</persName>
+               </person>
+               <person xml:id="tillich_person_id__3983">
+                  <persName>Andreas (Apostel)</persName>
+               </person>
+               <person xml:id="tillich_person_id__3984">
+                  <persName>Duccio di Buoninsegna</persName>
+               </person>
+               <person xml:id="tillich_person_id__3985">
+                  <persName>Deißmann, Henriette</persName>
+                  <occupation>Ehefrau von Adolf Deißmann.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3986">
+                  <persName>Tintoretto, Jacopo</persName>
+               </person>
+               <person xml:id="tillich_person_id__3987">
+                  <persName>Rosenwald, Lessing Julius</persName>
+               </person>
+               <person xml:id="tillich_person_id__3988">
+                  <persName>Jellema, William Harry</persName>
+                  <occupation>Philosoph, Professor für Philosophie</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3989">
+                  <persName>Young, William</persName>
+                  <occupation>Theologe, Professor für Philosophie</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3990">
+                  <persName>da Messina, Antonello</persName>
+               </person>
+               <person xml:id="tillich_person_id__3991">
+                  <persName>Velázquez, Diego</persName>
+               </person>
+               <person xml:id="tillich_person_id__3992">
+                  <persName>Chardin, Jean Baptiste Siméon</persName>
+               </person>
+               <person xml:id="tillich_person_id__3993">
+                  <persName>Toulouse-Lautrec, Henri de</persName>
+               </person>
+               <person xml:id="tillich_person_id__3994">
+                  <persName>Mahnke, Dietrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116680121</idno>
+               </person>
+               <person xml:id="tillich_person_id__3995">
+                  <persName>Fenske, Elfriede</persName>
+               </person>
+               <person xml:id="tillich_person_id__3996">
+                  <persName>Schmidt, ??</persName>
+               </person>
+               <person xml:id="tillich_person_id__3997">
+                  <persName>Lande, ???</persName>
                </person>
             </listPerson>
          </div>

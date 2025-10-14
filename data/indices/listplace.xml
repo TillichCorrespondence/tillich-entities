@@ -3281,7 +3281,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32174574</idno>
                </place>
                <place xml:id="tillich_place_id__551">
-                  <placeName>Birkenweder</placeName>
+                  <placeName>Birkenwerder</placeName>
                   <location type="coords">
                      <geo>52.69106 13.27833</geo>
                   </location>
@@ -5945,6 +5945,30 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/5123161/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q34686201</idno>
+               </place>
+               <place xml:id="tillich_place_id__1081">
+                  <placeName>Holland (MI)</placeName>
+                  <location type="coords">
+                     <geo>42.78752 -86.10893</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4996248/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1001742</idno>
+               </place>
+               <place xml:id="tillich_place_id__1082">
+                  <placeName>Toronto</placeName>
+                  <location type="coords">
+                     <geo>43.70643 -79.39864</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6167865/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q172</idno>
+               </place>
+               <place xml:id="tillich_place_id__1083">
+                  <placeName>Bloomington (IN)</placeName>
+                  <location type="coords">
+                     <geo>39.16533 -86.52639</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4254679/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q490385</idno>
                </place>
             </listPlace>
          </div>
