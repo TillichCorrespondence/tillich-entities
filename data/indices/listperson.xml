@@ -4080,7 +4080,7 @@
                   <persName>Hirsch, Maria</persName>
                </person>
                <person xml:id="tillich_person_id__907">
-                  <persName>Hirsch, Rose</persName>
+                  <persName>Hirsch (geb. Ecke), Rosa</persName>
                   <occupation>Ehefrau von Emanuel Hirsch</occupation>
                   <note type="bio"><p>geb. Ecke</p></note>
                </person>
@@ -7338,6 +7338,18 @@
                </person>
                <person xml:id="tillich_person_id__1783">
                   <persName>Siegfried, Theodor</persName>
+                  <birth>
+                     <date>28.01.1894</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>28.04.1971</date>
+                     <settlement>
+                        <placeName>Marburg/Lahn</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Theologe/Freund</occupation>
                </person>
                <person xml:id="tillich_person_id__1784">
@@ -11754,7 +11766,7 @@
                   <note type="bio"><p>Er war ein Student in Marburg.</p></note>
                </person>
                <person xml:id="tillich_person_id__2223">
-                  <persName>Weißenborng, Hans</persName>
+                  <persName>Weißenborn, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2224">
                   <persName>Dürselen, Paul Rudolf</persName>
@@ -20903,6 +20915,31 @@
                </person>
                <person xml:id="tillich_person_id__3997">
                   <persName>Lande, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__3998">
+                  <persName>Twesten, August</persName>
+                  <occupation>Theologe, Professor für Systematische Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__3999">
+                  <persName>Twesten (geb. Behrens), Catharina Amalia Margarete</persName>
+               </person>
+               <person xml:id="tillich_person_id__4000">
+                  <persName>Tamm, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__4001">
+                  <persName>Geyer, Johannes</persName>
+               </person>
+               <person xml:id="tillich_person_id__4002">
+                  <persName>Joh. Tob. Beck</persName>
+               </person>
+               <person xml:id="tillich_person_id__4003">
+                  <persName>Heußner, Alfred</persName>
+               </person>
+               <person xml:id="tillich_person_id__4004">
+                  <persName>König, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4005">
+                  <persName>Schmidt, Ferdinand Jakob</persName>
                </person>
             </listPerson>
          </div>

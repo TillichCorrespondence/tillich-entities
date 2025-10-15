@@ -2674,9 +2674,17 @@
   "409": {
     "id": 409,
     "order": "338.00000000000000000000",
-    "name": "s",
+    "name": "Albrecht, Renate, und Margot Hahl, Hrsg. Band 5 Ein Lebensbild in Dokumenten. Briefe, Tagebuch-Auszüge, Berichte. De Gruyter, 1980. https://doi.org/10.1515/9783110832914.",
     "working_note": "",
     "tillich_id": "tillich_work_id__409",
+    "zotero": "JL2KDCIX"
+  },
+  "410": {
+    "id": 410,
+    "order": "339.00000000000000000000",
+    "name": "s",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__410",
     "zotero": ""
   }
 }

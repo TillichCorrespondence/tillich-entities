@@ -8974,5 +8974,38 @@
     "latitude": "39.16533",
     "longitude": "-86.52639",
     "wikidata_url": "https://www.wikidata.org/wiki/Q490385"
+  },
+  "1084": {
+    "id": 1084,
+    "order": "943.00000000000000000000",
+    "name": "Neuhausen bei Königsberg",
+    "tillich_id": "tillich_place_id__1084",
+    "geonames_url": "https://sws.geonames.org/557906/",
+    "Working Notes": "",
+    "latitude": "54.77323",
+    "longitude": "20.60521",
+    "wikidata_url": "http://www.wikidata.org/entity/Q134707"
+  },
+  "1085": {
+    "id": 1085,
+    "order": "944.00000000000000000000",
+    "name": "Freudenstadt",
+    "tillich_id": "tillich_place_id__1085",
+    "geonames_url": "https://sws.geonames.org/2924894/",
+    "Working Notes": "",
+    "latitude": "48.46695",
+    "longitude": "8.41371",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32018022"
+  },
+  "1087": {
+    "id": 1087,
+    "order": "946.00000000000000000000",
+    "name": "Tartu (Dorpat)",
+    "tillich_id": "tillich_place_id__1087",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q13972"
   }
 }
