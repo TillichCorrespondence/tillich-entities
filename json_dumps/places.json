@@ -7845,7 +7845,7 @@
   "852": {
     "id": 852,
     "order": "840.00000000000000000000",
-    "name": "Rehoboth Beach",
+    "name": "Rehoboth Beach (DE)",
     "tillich_id": "tillich_place_id__852",
     "geonames_url": "https://www.geonames.org/4144284/",
     "Working Notes": "",
@@ -9007,5 +9007,27 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q13972"
+  },
+  "1088": {
+    "id": 1088,
+    "order": "947.00000000000000000000",
+    "name": "Delaware, USA",
+    "tillich_id": "tillich_place_id__1088",
+    "geonames_url": "https://www.geonames.org/4142224/",
+    "Working Notes": "",
+    "latitude": "39.00039",
+    "longitude": "-75.49992",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1393"
+  },
+  "1089": {
+    "id": 1089,
+    "order": "948.00000000000000000000",
+    "name": "Cummington (MA)",
+    "tillich_id": "tillich_place_id__1089",
+    "geonames_url": "https://www.geonames.org/4934321/",
+    "Working Notes": "",
+    "latitude": "42.46175",
+    "longitude": "-72.89398",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q919097"
   }
 }

@@ -5245,7 +5245,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1370207</idno>
                </place>
                <place xml:id="tillich_place_id__852">
-                  <placeName>Rehoboth Beach</placeName>
+                  <placeName>Rehoboth Beach (DE)</placeName>
                   <location type="coords">
                      <geo>38.72095 -75.07601</geo>
                   </location>
@@ -5989,6 +5989,22 @@
                <place xml:id="tillich_place_id__1087">
                   <placeName>Tartu (Dorpat)</placeName>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q13972</idno>
+               </place>
+               <place xml:id="tillich_place_id__1088">
+                  <placeName>Delaware, USA</placeName>
+                  <location type="coords">
+                     <geo>39.00039 -75.49992</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4142224/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1393</idno>
+               </place>
+               <place xml:id="tillich_place_id__1089">
+                  <placeName>Cummington (MA)</placeName>
+                  <location type="coords">
+                     <geo>42.46175 -72.89398</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4934321/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q919097</idno>
                </place>
             </listPlace>
          </div>

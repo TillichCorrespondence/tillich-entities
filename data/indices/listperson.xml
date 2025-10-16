@@ -19572,7 +19572,7 @@
                   <note type="bio"><p>Sohn von Hans und Hilda Meyer (3522, 3523)</p></note>
                </person>
                <person xml:id="tillich_person_id__3525">
-                  <persName>Meyer, Eve</persName>
+                  <persName>Meyer, Eve Renée</persName>
                   <note type="bio"><p>Tochter von Hans und Hilda Meyer (3522, 3523)</p></note>
                </person>
                <person xml:id="tillich_person_id__3526">
@@ -20940,6 +20940,81 @@
                </person>
                <person xml:id="tillich_person_id__4005">
                   <persName>Schmidt, Ferdinand Jakob</persName>
+               </person>
+               <person xml:id="tillich_person_id__4006">
+                  <persName>Frieda</persName>
+               </person>
+               <person xml:id="tillich_person_id__4007">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4008">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4009">
+                  <persName>Elis</persName>
+               </person>
+               <person xml:id="tillich_person_id__4010">
+                  <persName>Glokke, Emil</persName>
+                  <birth>
+                     <date>1824-07-13</date>
+                     <settlement>
+                        <placeName>Frankfurt / Oder</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1906-08-10</date>
+                     <settlement>
+                        <placeName>Prietzen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Superintendent</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4011">
+                  <persName>Kayser, Rudolf</persName>
+                  <occupation>Schriftsteller, Literaturhistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11609026X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4012">
+                  <persName>Glokke, Bertha (geb. Tillich)</persName>
+                  <birth>
+                     <date>1851-06-12</date>
+                     <settlement>
+                        <placeName>Frankfurt / Oder</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1905-06-28</date>
+                     <settlement>
+                        <placeName>Berlin Wilmersorf</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Großtante Paul Tillichs</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4013">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4014">
+                  <persName>Kayser, Eva Agathe</persName>
+                  <occupation>Hochschullehrerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1029906505</idno>
+                  <note type="bio"><p>2. Ehefrau von Rudolf Kayser</p></note>
+               </person>
+               <person xml:id="tillich_person_id__4015">
+                  <persName>Meyer, Selma</persName>
+                  <note type="bio"><p>Mutter von Hans Meyer</p></note>
+               </person>
+               <person xml:id="tillich_person_id__4016">
+                  <persName>Kristeller, Paul Oskar</persName>
+                  <occupation>Philosoph, Historiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11877803X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4017">
+                  <persName>Kristeller, Edith Carla</persName>
+                  <occupation>Ärztin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4018">
+                  <persName>Mitchell, ?</persName>
+                  <occupation>Sekretärin</occupation>
                </person>
             </listPerson>
          </div>

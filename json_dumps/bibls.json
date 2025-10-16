@@ -2682,9 +2682,17 @@
   "410": {
     "id": 410,
     "order": "339.00000000000000000000",
-    "name": "s",
+    "name": "Tillich, Paul. „Die Gegenstände der Philosophie“. In Gesammelte Werke. Band 1: Frühe Hauptwerke, 1:232–35. Berlin, Boston: De Gruyter, 1959.",
     "working_note": "",
     "tillich_id": "tillich_work_id__410",
+    "zotero": "UCY8CDI2"
+  },
+  "411": {
+    "id": 411,
+    "order": "340.00000000000000000000",
+    "name": "s",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__411",
     "zotero": ""
   }
 }
