@@ -12543,9 +12543,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/116919140</idno>
                </person>
                <person xml:id="tillich_person_id__2320">
-                  <persName>Winkowsky, ??? von</persName>
-                  <occupation>General;</occupation>
-                  <note type="bio"><p>Er war in den 1. Weltkrieg verwickelt.</p></note>
+                  <persName>Wienskowski, Max von</persName>
+                  <occupation>preußischer Generalleutnant</occupation>
                </person>
                <person xml:id="tillich_person_id__2321">
                   <persName>Krubin, ???</persName>
@@ -21015,6 +21014,21 @@
                <person xml:id="tillich_person_id__4018">
                   <persName>Mitchell, ?</persName>
                   <occupation>Sekretärin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4019">
+                  <persName>D'Arcy, Martin Cyril</persName>
+               </person>
+               <person xml:id="tillich_person_id__4020">
+                  <persName>Gorki, Maxim</persName>
+               </person>
+               <person xml:id="tillich_person_id__4021">
+                  <persName>Bernini</persName>
+               </person>
+               <person xml:id="tillich_person_id__4022">
+                  <persName>Ribera</persName>
+               </person>
+               <person xml:id="tillich_person_id__4023">
+                  <persName>Richelieu</persName>
                </person>
             </listPerson>
          </div>
