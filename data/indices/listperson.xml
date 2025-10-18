@@ -1661,7 +1661,8 @@
                   <persName>Bolingbroke, Henry St. John</persName>
                </person>
                <person xml:id="tillich_person_id__246">
-                  <persName>Boller, Salome</persName>
+                  <persName>Boller, Frida Salome</persName>
+                  <occupation>Sekretärin</occupation>
                   <note type="bio"><p>Tillich hatte B. bei einem früheren Schweizaufenthalt in der Unterkunft der Familie Salis kennengelernt.</p></note>
                </person>
                <person xml:id="tillich_person_id__247">
@@ -19609,7 +19610,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118651129</idno>
                </person>
                <person xml:id="tillich_person_id__3536">
-                  <persName>Boller, Elly</persName>
+                  <persName>Boller, Ella Magdalena</persName>
                   <note type="bio"><p>Schwester von Salome Boller</p></note>
                </person>
                <person xml:id="tillich_person_id__3537">
@@ -21029,6 +21030,31 @@
                </person>
                <person xml:id="tillich_person_id__4023">
                   <persName>Richelieu</persName>
+               </person>
+               <person xml:id="tillich_person_id__4024">
+                  <persName>Dross, Gerard</persName>
+               </person>
+               <person xml:id="tillich_person_id__4025">
+                  <persName>Boller, Frieda Christina</persName>
+                  <occupation>Hausfrau</occupation>
+                  <note type="bio"><p>Mutter von Salome und Ella Boller</p></note>
+               </person>
+               <person xml:id="tillich_person_id__4026">
+                  <persName>Zucker, Paul</persName>
+                  <birth>
+                     <date>1888-08-14</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>11971-02-14</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Architekt, Architekturhistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11948918X</idno>
                </person>
             </listPerson>
          </div>
