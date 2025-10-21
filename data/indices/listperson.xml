@@ -18692,7 +18692,9 @@
                   <occupation>Figur aus der griechischen Mythologie und Vater von Odysseus.</occupation>
                </person>
                <person xml:id="tillich_person_id__3331">
-                  <persName>Werner, Prof</persName>
+                  <persName>Werner, Heinz</persName>
+                  <occupation>Psychologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/129958867</idno>
                </person>
                <person xml:id="tillich_person_id__3332">
                   <persName>Marck, Claudia</persName>
@@ -20623,7 +20625,7 @@
                   <persName>Klee, Paul</persName>
                </person>
                <person xml:id="tillich_person_id__3877">
-                  <persName>Gris</persName>
+                  <persName>Gris, Juan</persName>
                </person>
                <person xml:id="tillich_person_id__3878">
                   <persName>Léger, Fernand</persName>
@@ -21061,7 +21063,46 @@
                   <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__4028">
-                  <persName/>
+                  <persName>Aaron</persName>
+               </person>
+               <person xml:id="tillich_person_id__4029">
+                  <persName>Asam</persName>
+               </person>
+               <person xml:id="tillich_person_id__4030">
+                  <persName>Picabia, Francis</persName>
+               </person>
+               <person xml:id="tillich_person_id__4031">
+                  <persName>Carrà, Carlo</persName>
+               </person>
+               <person xml:id="tillich_person_id__4032">
+                  <persName>Maria von Ägypten</persName>
+               </person>
+               <person xml:id="tillich_person_id__4033">
+                  <persName>Modersohn, Paula</persName>
+               </person>
+               <person xml:id="tillich_person_id__4034">
+                  <persName>Rohlfs, Christian</persName>
+               </person>
+               <person xml:id="tillich_person_id__4035">
+                  <persName>Kirchner, Ernst Ludwig</persName>
+               </person>
+               <person xml:id="tillich_person_id__4036">
+                  <persName>Barlach, Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__4037">
+                  <persName>Pechstein</persName>
+               </person>
+               <person xml:id="tillich_person_id__4038">
+                  <persName>Sassetta, Stefano di Giovanni</persName>
+               </person>
+               <person xml:id="tillich_person_id__4039">
+                  <persName>di Paolo, Giovanni</persName>
+               </person>
+               <person xml:id="tillich_person_id__4040">
+                  <persName>Mantegna, Andrea</persName>
+               </person>
+               <person xml:id="tillich_person_id__4041">
+                  <persName>Troeltsch, Hans</persName>
                </person>
             </listPerson>
          </div>
