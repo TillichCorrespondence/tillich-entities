@@ -21104,6 +21104,23 @@
                <person xml:id="tillich_person_id__4041">
                   <persName>Troeltsch, Hans</persName>
                </person>
+               <person xml:id="tillich_person_id__4042">
+                  <persName>Rosenstiel, C.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4043">
+                  <persName>???, ???</persName>
+                  <occupation>Vermutlich der Doktor von P.T. (Er wird in dem Brief L00019 als Herr D. erwähnt)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4044">
+                  <persName>Kirschner, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4045">
+                  <persName>Loose, Friedrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__4046">
+                  <persName>Loose, Therese</persName>
+                  <occupation>Die Frau von Friedrich Loose</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
