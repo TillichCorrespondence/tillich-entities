@@ -8682,6 +8682,9 @@
                </person>
                <person xml:id="tillich_person_id__1925">
                   <persName>Tillich, Margarete</persName>
+                  <birth>
+                     <date>25.05.1867</date>
+                  </birth>
                   <note type="bio"><p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p></note>
                </person>
                <person xml:id="tillich_person_id__1926">
@@ -21112,7 +21115,21 @@
                   <occupation>Vermutlich der Doktor von P.T. (Er wird in dem Brief L00019 als Herr D. erwähnt)</occupation>
                </person>
                <person xml:id="tillich_person_id__4044">
-                  <persName>Kirschner, ???</persName>
+                  <persName>Kirschner, Martin</persName>
+                  <birth>
+                     <date>1842-11-10</date>
+                     <settlement>
+                        <placeName>Freiburg in Schlesien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1912-09-13</date>
+                     <settlement>
+                        <placeName>Ehrwald/Tirol</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Von 1899 bis 1912 Oberbürgermeister von Berlin.</occupation>
+                  <idno type="gnd">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D116189568</idno>
                </person>
                <person xml:id="tillich_person_id__4045">
                   <persName>Loose, Friedrich</persName>
@@ -21120,6 +21137,22 @@
                <person xml:id="tillich_person_id__4046">
                   <persName>Loose, Therese</persName>
                   <occupation>Die Frau von Friedrich Loose</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4047">
+                  <persName>Fricke, Sophie</persName>
+                  <occupation>Mutter von Uli Fricke.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4048">
+                  <persName>H.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4049">
+                  <persName>de Hooch, Pieter</persName>
+               </person>
+               <person xml:id="tillich_person_id__4050">
+                  <persName>Tamayo, Rufino</persName>
+               </person>
+               <person xml:id="tillich_person_id__4051">
+                  <persName>Block, Marguerite</persName>
                </person>
             </listPerson>
          </div>

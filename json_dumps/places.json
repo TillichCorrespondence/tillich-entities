@@ -5977,10 +5977,10 @@
     "order": "668.00000000000000000000",
     "name": "Rotenburg",
     "tillich_id": "tillich_place_id__675",
-    "geonames_url": "",
-    "Working Notes": "Unklar um welches es sich handelt, aber Hannah war dort und hat ihm von da mal geschrieben.",
-    "latitude": null,
-    "longitude": null,
+    "geonames_url": "https://sws.geonames.org/2844434/",
+    "Working Notes": "",
+    "latitude": "50.99556",
+    "longitude": "9.72838",
     "wikidata_url": ""
   },
   "676": {

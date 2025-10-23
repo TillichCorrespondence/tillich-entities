@@ -4049,6 +4049,10 @@
                </place>
                <place xml:id="tillich_place_id__675">
                   <placeName>Rotenburg</placeName>
+                  <location type="coords">
+                     <geo>50.99556 9.72838</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2844434/</idno>
                </place>
                <place xml:id="tillich_place_id__676">
                   <placeName>Metropolitan Museum of Art, New York</placeName>
