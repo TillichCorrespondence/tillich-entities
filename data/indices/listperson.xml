@@ -13243,8 +13243,21 @@
                   <note type="bio"><p>Sie war die Frau von Adolf Grimme.</p></note>
                </person>
                <person xml:id="tillich_person_id__2409">
-                  <persName>Königs, ???</persName>
-                  <occupation>Pfarrer</occupation>
+                  <persName>Koenigs, Emil</persName>
+                  <birth>
+                     <date>1865-05-14</date>
+                     <settlement>
+                        <placeName>Oberhausen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1946-11-18</date>
+                     <settlement>
+                        <placeName>Rengsdorf</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer der deutschen evangelischen Gemeinde in Brüssel</occupation>
+                  <note type="bio"><p>1900-1905 Pfarrer in Lobberich, 1905-1918 in Brüssel, 1920-1930 in Werlau</p></note>
                </person>
                <person xml:id="tillich_person_id__2410">
                   <persName>Wagner, ???</persName>
@@ -13569,9 +13582,22 @@
                   <note type="bio"><p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p></note>
                </person>
                <person xml:id="tillich_person_id__2438">
-                  <persName>(Graf von Schwerin), ???</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/114681593X</idno>
-                  <note type="bio"><p>Er war in irgendeiner Form in den 1. Weltkrieg involviert.</p></note>
+                  <persName>von Schwerin, Bogislav</persName>
+                  <birth>
+                     <date>1851-11-12</date>
+                     <settlement>
+                        <placeName>Anklam</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1926-06-16</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__356">Potsdam</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Preußischer General der Infanterie</occupation>
+                  <idno type="gnd">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D1029793387</idno>
+                  <note type="bio"><p>Beim Ausbruch des Krieges 1914 wurde er Kommandeur der 7. Reserve-Division.</p></note>
                </person>
                <person xml:id="tillich_person_id__2439">
                   <persName>Dreyfuß, Carl</persName>
@@ -17268,8 +17294,8 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2961">
-                  <persName>Koinbitz</persName>
-                  <note type="bio"><p>erwähnt in Herrmann Schafft 05. Oktober 1914</p></note>
+                  <persName>Kriebitz</persName>
+                  <note type="bio"><p>erwähnt in Herrmann Schafft 05. Oktober 1914.</p></note>
                </person>
                <person xml:id="tillich_person_id__2962">
                   <persName>Wolff</persName>
@@ -20995,9 +21021,6 @@
                   </death>
                   <occupation>Großtante Paul Tillichs</occupation>
                </person>
-               <person xml:id="tillich_person_id__4013">
-                  <persName/>
-               </person>
                <person xml:id="tillich_person_id__4014">
                   <persName>Kayser, Eva Agathe</persName>
                   <occupation>Hochschullehrerin</occupation>
@@ -21153,6 +21176,9 @@
                </person>
                <person xml:id="tillich_person_id__4051">
                   <persName>Block, Marguerite</persName>
+               </person>
+               <person xml:id="tillich_person_id__4052">
+                  <persName/>
                </person>
             </listPerson>
          </div>
