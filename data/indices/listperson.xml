@@ -21180,6 +21180,22 @@
                <person xml:id="tillich_person_id__4052">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__4053">
+                  <persName>Spiegelberg, ???</persName>
+                  <note type="bio"><p>Mutter v. Friedrich (Frederic) Spiegelberg</p></note>
+               </person>
+               <person xml:id="tillich_person_id__4054">
+                  <persName>Spiegelberg, ???</persName>
+                  <note type="bio"><p>Schwester v. Friedrich (Frederic) Spiegelberg</p></note>
+               </person>
+               <person xml:id="tillich_person_id__4055">
+                  <persName>Spiegelberg, Corinne</persName>
+                  <note type="bio"><p>Tochter v. Friedrich (Frederic) Spiegelberg</p></note>
+               </person>
+               <person xml:id="tillich_person_id__4056">
+                  <persName>Meyer, ???</persName>
+                  <note type="bio"><p>Sohn v. Selma Meyer, evtl. Bruder v. Hans Meyer (nicht sicher)</p></note>
+               </person>
             </listPerson>
          </div>
       </body>
