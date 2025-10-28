@@ -17943,7 +17943,8 @@
                   <persName>Delliehausen, Georg</persName>
                </person>
                <person xml:id="tillich_person_id__3126">
-                  <persName>Obolensky, D.</persName>
+                  <persName>Obolensky, Dimitri</persName>
+                  <occupation>Fürst, Süßwarenhersteller</occupation>
                </person>
                <person xml:id="tillich_person_id__3127">
                   <persName>Ahrend, ???</persName>
@@ -21195,6 +21196,9 @@
                <person xml:id="tillich_person_id__4056">
                   <persName>Meyer, ???</persName>
                   <note type="bio"><p>Sohn v. Selma Meyer, evtl. Bruder v. Hans Meyer (nicht sicher)</p></note>
+               </person>
+               <person xml:id="tillich_person_id__4057">
+                  <persName/>
                </person>
             </listPerson>
          </div>
