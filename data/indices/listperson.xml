@@ -2108,6 +2108,7 @@
                </person>
                <person xml:id="tillich_person_id__368">
                   <persName>Chamberlain, Arthur Neville</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118520024</idno>
                </person>
                <person xml:id="tillich_person_id__369">
                   <persName>Chamberlain, Houston Stewart</persName>
@@ -21198,6 +21199,19 @@
                   <note type="bio"><p>Sohn v. Selma Meyer, evtl. Bruder v. Hans Meyer (nicht sicher)</p></note>
                </person>
                <person xml:id="tillich_person_id__4057">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4058">
+                  <persName>???, Elisabeth</persName>
+               </person>
+               <person xml:id="tillich_person_id__4059">
+                  <persName>Baudissin, Wolf Wilhelm Graf von</persName>
+                  <occupation>Rektor der Friedrich-Wilhelms-Universität zu Berlin 1912/13</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4060">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4061">
                   <persName/>
                </person>
             </listPerson>

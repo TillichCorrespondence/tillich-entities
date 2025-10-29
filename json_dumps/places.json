@@ -5966,11 +5966,11 @@
     "order": "667.00000000000000000000",
     "name": "Wilhelmshöhe",
     "tillich_id": "tillich_place_id__674",
-    "geonames_url": "https://sws.geonames.org/3207202/",
+    "geonames_url": "https://sws.geonames.org/3207202",
     "Working Notes": "https://sws.geonames.org/3207202 -> Unklar welche hier gemeint ist, Paul wünscht Hannah gutes Wetter, vermutlich ist sie dann dort hingefahren also als Urlaubsziel würde sich Bergpark Wilhelmshöhe anbieten, der in Kassel liegt.",
     "latitude": "51.31667",
     "longitude": "9.41667",
-    "wikidata_url": "http://www.wikidata.org/entity/Q687186"
+    "wikidata_url": "https://www.wikidata.org/wiki/Q798792"
   },
   "675": {
     "id": 675,
@@ -9051,5 +9051,60 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1092": {
+    "id": 1092,
+    "order": "951.00000000000000000000",
+    "name": "Moritzburg",
+    "tillich_id": "tillich_place_id__1092",
+    "geonames_url": "https://sws.geonames.org/2869244/",
+    "Working Notes": "",
+    "latitude": "51.15922",
+    "longitude": "13.68021",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1312663"
+  },
+  "1093": {
+    "id": 1093,
+    "order": "952.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1093",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1094": {
+    "id": 1094,
+    "order": "953.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1094",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1096": {
+    "id": 1096,
+    "order": "955.00000000000000000000",
+    "name": "Bad Wilhelmshöhe",
+    "tillich_id": "tillich_place_id__1096",
+    "geonames_url": "http://www.wikidata.org/entity/Q798792",
+    "Working Notes": "",
+    "latitude": "42.66833",
+    "longitude": "41.64556",
+    "wikidata_url": ""
+  },
+  "1100": {
+    "id": 1100,
+    "order": "956.00000000000000000000",
+    "name": "Rheinsberg",
+    "tillich_id": "tillich_place_id__1100",
+    "geonames_url": "https://sws.geonames.org/2847612/",
+    "Working Notes": "",
+    "latitude": "53.09972",
+    "longitude": "12.89885",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32255425"
   }
 }

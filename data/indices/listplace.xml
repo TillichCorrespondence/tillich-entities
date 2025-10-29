@@ -4045,7 +4045,7 @@
                      <geo>51.31667 9.41667</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3207202/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q687186</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q798792</idno>
                </place>
                <place xml:id="tillich_place_id__675">
                   <placeName>Rotenburg</placeName>
@@ -6018,7 +6018,30 @@
                   <idno type="geonames">https://sws.geonames.org/2882318/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q245542</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__1092">
+                  <placeName>Moritzburg</placeName>
+                  <location type="coords">
+                     <geo>51.15922 13.68021</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2869244/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1312663</idno>
+               </place>
+               <place xml:id="tillich_place_id__1096">
+                  <placeName>Bad Wilhelmshöhe</placeName>
+                  <location type="coords">
+                     <geo>42.66833 41.64556</geo>
+                  </location>
+                  <idno type="geonames">http://www.wikidata.org/entity/Q798792</idno>
+               </place>
+               <place xml:id="tillich_place_id__1100">
+                  <placeName>Rheinsberg</placeName>
+                  <location type="coords">
+                     <geo>53.09972 12.89885</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2847612/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32255425</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>
