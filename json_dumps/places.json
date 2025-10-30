@@ -9106,5 +9106,16 @@
     "latitude": "53.09972",
     "longitude": "12.89885",
     "wikidata_url": "http://www.wikidata.org/entity/Q32255425"
+  },
+  "1101": {
+    "id": 1101,
+    "order": "957.00000000000000000000",
+    "name": "Marienfelde",
+    "tillich_id": "tillich_place_id__1101",
+    "geonames_url": "https://sws.geonames.org/2873589/",
+    "Working Notes": "",
+    "latitude": "52.41868",
+    "longitude": "13.36723",
+    "wikidata_url": "http://www.wikidata.org/entity/Q695777"
   }
 }

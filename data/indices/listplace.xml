@@ -6041,6 +6041,14 @@
                   <idno type="geonames">https://sws.geonames.org/2847612/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q32255425</idno>
                </place>
+               <place xml:id="tillich_place_id__1101">
+                  <placeName>Marienfelde</placeName>
+                  <location type="coords">
+                     <geo>52.41868 13.36723</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2873589/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q695777</idno>
+               </place>
             </listPlace>
          </div>
       </body>

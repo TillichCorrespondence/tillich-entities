@@ -21209,9 +21209,21 @@
                   <occupation>Rektor der Friedrich-Wilhelms-Universität zu Berlin 1912/13</occupation>
                </person>
                <person xml:id="tillich_person_id__4060">
-                  <persName/>
+                  <persName>Schumacher, Leopold</persName>
                </person>
                <person xml:id="tillich_person_id__4061">
+                  <persName>Chamberlain, Joseph Perkins</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/102149992</idno>
+               </person>
+               <person xml:id="tillich_person_id__4062">
+                  <persName>Berlit, Rüdiger</persName>
+                  <idno type="gnd">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=idn%3D104786205</idno>
+               </person>
+               <person xml:id="tillich_person_id__4063">
+                  <persName>Küsterei der Johannes-Kirche, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4064">
                   <persName/>
                </person>
             </listPerson>
