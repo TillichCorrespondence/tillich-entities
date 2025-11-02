@@ -9117,5 +9117,27 @@
     "latitude": "52.41868",
     "longitude": "13.36723",
     "wikidata_url": "http://www.wikidata.org/entity/Q695777"
+  },
+  "1102": {
+    "id": 1102,
+    "order": "958.00000000000000000000",
+    "name": "Schwerin",
+    "tillich_id": "tillich_place_id__1102",
+    "geonames_url": "https://www.geonames.org/2834283/",
+    "Working Notes": "",
+    "latitude": "52.19278",
+    "longitude": "13.87683",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q564340"
+  },
+  "1103": {
+    "id": 1103,
+    "order": "959.00000000000000000000",
+    "name": "Bestensee",
+    "tillich_id": "tillich_place_id__1103",
+    "geonames_url": "https://www.geonames.org/2949777/",
+    "Working Notes": "",
+    "latitude": "52.23978",
+    "longitude": "13.63732",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q582789"
   }
 }

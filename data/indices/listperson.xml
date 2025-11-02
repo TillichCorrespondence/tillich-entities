@@ -21226,6 +21226,23 @@
                <person xml:id="tillich_person_id__4064">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__4065">
+                  <persName>Weil, Hans</persName>
+                  <birth>
+                     <date>1898-09-08</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__382">Saarbrücken</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-06-05</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pädagoge</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/129036005</idno>
+               </person>
             </listPerson>
          </div>
       </body>
