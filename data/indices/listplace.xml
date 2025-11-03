@@ -6065,6 +6065,14 @@
                   <idno type="geonames">https://sws.geonames.org/2949777/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q582789</idno>
                </place>
+               <place xml:id="tillich_place_id__1104">
+                  <placeName>Recco</placeName>
+                  <location type="coords">
+                     <geo>44.36227 9.14354</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3169539/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q266648</idno>
+               </place>
             </listPlace>
          </div>
       </body>
