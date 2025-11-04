@@ -12772,7 +12772,7 @@
                </person>
                <person xml:id="tillich_person_id__2352">
                   <persName>Borchers, Frau</persName>
-                  <note type="bio"><p>Sie war eine Verwandte von Wilhelm Borchers.</p></note>
+                  <note type="bio"><p>Sie war verm. eine Verwandte des Metallurgen Wilhelm Borchers.</p></note>
                </person>
                <person xml:id="tillich_person_id__2353">
                   <persName>Medicus, Clara</persName>
@@ -21242,6 +21242,10 @@
                   </death>
                   <occupation>Pädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/129036005</idno>
+               </person>
+               <person xml:id="tillich_person_id__4066">
+                  <persName>Borchers, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117620742</idno>
                </person>
             </listPerson>
          </div>

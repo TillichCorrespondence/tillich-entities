@@ -42199,7 +42199,7 @@
     "forename": "Frau",
     "from_to": "",
     "occupation": "",
-    "bio": "Sie war eine Verwandte von Wilhelm Borchers.",
+    "bio": "Sie war verm. eine Verwandte des Metallurgen Wilhelm Borchers.",
     "legacy_id": "P02357",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__2352",
@@ -69478,5 +69478,23 @@
     "working_note": "",
     "place_of_birth": "Saarbrücken",
     "place_of_death": "New York"
+  },
+  "4066": {
+    "id": 4066,
+    "order": "3891.00000000000000000000",
+    "name": "Borchers, Wilhelm",
+    "surname": "Borchers",
+    "forename": "Wilhelm",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/117620742",
+    "tillich_id": "tillich_person_id__4066",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
