@@ -21247,6 +21247,27 @@
                   <persName>Borchers, Wilhelm</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117620742</idno>
                </person>
+               <person xml:id="tillich_person_id__4067">
+                  <persName>Erbe, Hans-Walter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116529164</idno>
+               </person>
+               <person xml:id="tillich_person_id__4068">
+                  <persName>Peiser, Werner</persName>
+                  <birth>
+                     <date>1895-08-20</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1991-06-27</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__174">Genua</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Jurist, Hochschullehrer, Diplomat</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116074140</idno>
+               </person>
             </listPerson>
          </div>
       </body>

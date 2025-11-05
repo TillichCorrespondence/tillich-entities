@@ -69496,5 +69496,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4067": {
+    "id": 4067,
+    "order": "3892.00000000000000000000",
+    "name": "Erbe, Hans-Walter",
+    "surname": "Erbe",
+    "forename": "Hans-Walter",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/116529164",
+    "tillich_id": "tillich_person_id__4067",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "4068": {
+    "id": 4068,
+    "order": "3893.00000000000000000000",
+    "name": "Peiser, Werner",
+    "surname": "Peiser",
+    "forename": "Werner",
+    "from_to": "",
+    "occupation": "Jurist, Hochschullehrer, Diplomat",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/116074140",
+    "tillich_id": "tillich_person_id__4068",
+    "date_of_birth": "1895-08-20",
+    "date_of_death": "1991-06-27",
+    "working_note": "",
+    "place_of_birth": "Berlin",
+    "place_of_death": "Genua"
   }
 }
