@@ -9150,5 +9150,27 @@
     "latitude": "44.36227",
     "longitude": "9.14354",
     "wikidata_url": "https://www.wikidata.org/wiki/Q266648"
+  },
+  "1105": {
+    "id": 1105,
+    "order": "961.00000000000000000000",
+    "name": "Irland",
+    "tillich_id": "tillich_place_id__1105",
+    "geonames_url": "https://www.geonames.org/2963597",
+    "Working Notes": "",
+    "latitude": "53.00000",
+    "longitude": "-8.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27"
+  },
+  "1106": {
+    "id": 1106,
+    "order": "962.00000000000000000000",
+    "name": "Ulster",
+    "tillich_id": "tillich_place_id__1106",
+    "geonames_url": "https://www.geonames.org/7521316/",
+    "Working Notes": "",
+    "latitude": "54.92732",
+    "longitude": "-7.93950",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q93195"
   }
 }

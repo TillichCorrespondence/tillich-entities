@@ -6073,6 +6073,22 @@
                   <idno type="geonames">https://sws.geonames.org/3169539/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q266648</idno>
                </place>
+               <place xml:id="tillich_place_id__1105">
+                  <placeName>Irland</placeName>
+                  <location type="coords">
+                     <geo>53.00000 -8.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2963597/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q27</idno>
+               </place>
+               <place xml:id="tillich_place_id__1106">
+                  <placeName>Ulster</placeName>
+                  <location type="coords">
+                     <geo>54.92732 -7.93950</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7521316/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q93195</idno>
+               </place>
             </listPlace>
          </div>
       </body>

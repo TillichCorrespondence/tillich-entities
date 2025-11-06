@@ -1,0 +1,860 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "title": "Landscape with Women",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__1",
+    "painter": [
+      {
+        "id": 1653,
+        "value": "Rubens, Peter Paul",
+        "order": "1653.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "title": "Stormy Landscape",
+    "wikidata": "Q59526748",
+    "tillich_id": "tillich_painting_id__2",
+    "painter": [
+      {
+        "id": 1653,
+        "value": "Rubens, Peter Paul",
+        "order": "1653.00000000000000000000"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "title": "Edge of a Wood",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__3",
+    "painter": [
+      {
+        "id": 1667,
+        "value": "Ruysdael, Jakob van",
+        "order": "1667.00000000000000000000"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "title": "Zaandam",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__4",
+    "painter": [
+      {
+        "id": 1343,
+        "value": "Monet, Claude",
+        "order": "1343.00000000000000000000"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "title": "La Gare. St. Lazare",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__5",
+    "painter": [
+      {
+        "id": 1343,
+        "value": "Monet, Claude",
+        "order": "1343.00000000000000000000"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "title": "Unloading the Cargo",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__6",
+    "painter": [
+      {
+        "id": 1343,
+        "value": "Monet, Claude",
+        "order": "1343.00000000000000000000"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "title": "Francesco Quirini, patriarch of Grado, exorcises a Demon",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__7",
+    "painter": [
+      {
+        "id": 3907,
+        "value": "Carpaccio, Francesco Quirini",
+        "order": "3764.00000000000000000000"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "title": "Tavern Brawl",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__8",
+    "painter": [
+      {
+        "id": 3085,
+        "value": "Ostade, Adriaen van",
+        "order": "3079.00000000000000000000"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "title": "Loose Living",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__9",
+    "painter": [
+      {
+        "id": 3084,
+        "value": "Steen, Jan",
+        "order": "3078.00000000000000000000"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "title": "The Night Watch",
+    "wikidata": "Q219831",
+    "tillich_id": "tillich_painting_id__10",
+    "painter": [
+      {
+        "id": 1580,
+        "value": "Rembrandt van Rijn",
+        "order": "1580.00000000000000000000"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "title": "Dr. Tulp's Anatomy Lesson",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__11",
+    "painter": [
+      {
+        "id": 1580,
+        "value": "Rembrandt van Rijn",
+        "order": "1580.00000000000000000000"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "title": "Les Comédiens français",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__12",
+    "painter": [
+      {
+        "id": 3086,
+        "value": "Watteau, Jean-Antoine",
+        "order": "3080.00000000000000000000"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "title": "Love in Italian Comedy",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__13",
+    "painter": [
+      {
+        "id": 3086,
+        "value": "Watteau, Jean-Antoine",
+        "order": "3080.00000000000000000000"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "title": "Roman painting, Hellenistic, Fayoum mummy, 3rd century A.D.",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__14",
+    "painter": []
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "title": "Roman painting, Pompeian--Paquius Proculus and his wife",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__15",
+    "painter": []
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "title": "Roman painting, 3rd century, Portrait group on glass",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__16",
+    "painter": []
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "title": "Greek painting, Hellenistic, ''Aline'' from Hawara",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__17",
+    "painter": []
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "title": "Portrait of Eleonora (da Toledo) de Medici",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__18",
+    "painter": [
+      {
+        "id": 3087,
+        "value": "Bronzino, Agnolo",
+        "order": "3081.00000000000000000000"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "title": "Francesco Maria della Bovere Duke of Urbino",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__19",
+    "painter": [
+      {
+        "id": 3088,
+        "value": "Titian",
+        "order": "3082.00000000000000000000"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "title": "Lady Governors. Hospital for the Aged, Haarlem.--Detail",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__20",
+    "painter": [
+      {
+        "id": 3908,
+        "value": "Hals, Frans",
+        "order": "3765.00000000000000000000"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "title": "La Bohémienne",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__21",
+    "painter": [
+      {
+        "id": 3908,
+        "value": "Hals, Frans",
+        "order": "3765.00000000000000000000"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "title": "Portrait of Henry James",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__22",
+    "painter": [
+      {
+        "id": 3909,
+        "value": "Sargent, John Singer",
+        "order": "3766.00000000000000000000"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "title": "View of Toledo",
+    "wikidata": "Q883994",
+    "tillich_id": "tillich_painting_id__23",
+    "painter": [
+      {
+        "id": 3089,
+        "value": "El Greco",
+        "order": "3083.00000000000000000000"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "title": "City on a Rock",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__24",
+    "painter": [
+      {
+        "id": 3090,
+        "value": "Goya",
+        "order": "3084.00000000000000000000"
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "title": "Still Life",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__25",
+    "painter": [
+      {
+        "id": 2575,
+        "value": "Cezanne, Paul",
+        "order": "2575.00000000000000000000"
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "title": "The Mantel-piece",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__26",
+    "painter": [
+      {
+        "id": 272,
+        "value": "Braque, Georges",
+        "order": "272.00000000000000000000"
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "title": "Still Life",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__27",
+    "painter": [
+      {
+        "id": 272,
+        "value": "Braque, Georges",
+        "order": "272.00000000000000000000"
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "title": "Nature-morte",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__28",
+    "painter": [
+      {
+        "id": 272,
+        "value": "Braque, Georges",
+        "order": "272.00000000000000000000"
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "title": "Man with a Guitar",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__29",
+    "painter": [
+      {
+        "id": 272,
+        "value": "Braque, Georges",
+        "order": "272.00000000000000000000"
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "title": "Composition No. 8",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__30",
+    "painter": [
+      {
+        "id": 1018,
+        "value": "Kandinsky, Wassily",
+        "order": "1018.00000000000000000000"
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "title": "Breakfast",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__31",
+    "painter": [
+      {
+        "id": 3093,
+        "value": "Léger, Fernand",
+        "order": "3086.00000000000000000000"
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "title": "Guernica",
+    "wikidata": "Q175036",
+    "tillich_id": "tillich_painting_id__32",
+    "painter": [
+      {
+        "id": 1495,
+        "value": "Picasso, Pablo",
+        "order": "1495.00000000000000000000"
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "title": "Circus Trio",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__33",
+    "painter": [
+      {
+        "id": 3094,
+        "value": "Rouault, Georges",
+        "order": "3087.00000000000000000000"
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "title": "Melancholy and Mstery of a Street",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__34",
+    "painter": [
+      {
+        "id": 3095,
+        "value": "de Chirico, Giorgio",
+        "order": "3088.00000000000000000000"
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "title": "Heredity of Acquired Characteristics",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__35",
+    "painter": [
+      {
+        "id": 3910,
+        "value": "Tanguy, Yves",
+        "order": "3767.00000000000000000000"
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "title": "The Consoler",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__36",
+    "painter": [
+      {
+        "id": 3095,
+        "value": "de Chirico, Giorgio",
+        "order": "3088.00000000000000000000"
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "title": "Family Group",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__37",
+    "painter": [
+      {
+        "id": 3096,
+        "value": "Moore, Henry",
+        "order": "3089.00000000000000000000"
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "title": "Reclining Figure",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__38",
+    "painter": [
+      {
+        "id": 3096,
+        "value": "Moore, Henry",
+        "order": "3089.00000000000000000000"
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "title": "St. Francis and the Birds",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__39",
+    "painter": [
+      {
+        "id": 681,
+        "value": "Giotto di Bondone",
+        "order": "681.00000000000000000000"
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "title": "Resurrection",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__40",
+    "painter": [
+      {
+        "id": 3098,
+        "value": "Piero della Francesca",
+        "order": "3090.00000000000000000000"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "title": "Tribute Money",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__41",
+    "painter": [
+      {
+        "id": 3099,
+        "value": "Masaccio",
+        "order": "3091.00000000000000000000"
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "title": "Madonna and Child",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__42",
+    "painter": [
+      {
+        "id": 3027,
+        "value": "Giovanni Bellini",
+        "order": "3022.00000000000000000000"
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "title": "Madonna Colonna",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__43",
+    "painter": [
+      {
+        "id": 3100,
+        "value": "Raphael",
+        "order": "3092.00000000000000000000"
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "title": "The Magdalen",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__44",
+    "painter": [
+      {
+        "id": 1582,
+        "value": "Reni, Guido",
+        "order": "1582.00000000000000000000"
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "title": "The Christ with the Peasants",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__45",
+    "painter": [
+      {
+        "id": 1964,
+        "value": "Uhde, Fritz von",
+        "order": "1964.00000000000000000000"
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "title": "Ecce Homo (The mocking of Christ)",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__46",
+    "painter": [
+      {
+        "id": 3034,
+        "value": "Manet, Edouard",
+        "order": "3029.00000000000000000000"
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "title": "Greek Sculpture: Apollo",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__47",
+    "painter": []
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "title": "Archaic female figure from near Erechtheurre",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__48",
+    "painter": []
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "title": "Hera of Samos",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__49",
+    "painter": []
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "title": "Mosaic, Constantinople, 10th Century",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__50",
+    "painter": []
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "title": "Byzantine School, 15th Century, Resurrection",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__51",
+    "painter": []
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "title": "Painting, Italian, 12th Century, Crucifix",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__52",
+    "painter": []
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "title": "French, 15th Century, School of Avignon",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__53",
+    "painter": []
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "title": "Adoration of the Kings",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__54",
+    "painter": [
+      {
+        "id": 295,
+        "value": "Brueghel, Pieter (der Ältere)",
+        "order": "295.00000000000000000000"
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "title": "Triumph of Death",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__55",
+    "painter": [
+      {
+        "id": 295,
+        "value": "Brueghel, Pieter (der Ältere)",
+        "order": "295.00000000000000000000"
+      }
+    ]
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "title": "Altarpiece of Temptation",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__56",
+    "painter": [
+      {
+        "id": 261,
+        "value": "Bosch, Hieronymus",
+        "order": "261.00000000000000000000"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "title": "Coronation of the Virgin",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__57",
+    "painter": [
+      {
+        "id": 3089,
+        "value": "El Greco",
+        "order": "3083.00000000000000000000"
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "title": "Christ Crucified between Thieves",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__58",
+    "painter": [
+      {
+        "id": 1580,
+        "value": "Rembrandt van Rijn",
+        "order": "1580.00000000000000000000"
+      }
+    ]
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "title": "Descent from the Cross",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__59",
+    "painter": [
+      {
+        "id": 1580,
+        "value": "Rembrandt van Rijn",
+        "order": "1580.00000000000000000000"
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "title": "The Last Supper",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__60",
+    "painter": [
+      {
+        "id": 1404,
+        "value": "Nolde, Emil",
+        "order": "1404.00000000000000000000"
+      }
+    ]
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "title": "Isenheim Altarpiece",
+    "wikidata": "Q591762",
+    "tillich_id": "tillich_painting_id__61",
+    "painter": [
+      {
+        "id": 730,
+        "value": "Grünewald, Matthias",
+        "order": "730.00000000000000000000"
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "title": "Isenheim Altarpiece (right panel)",
+    "wikidata": "Q591762",
+    "tillich_id": "tillich_painting_id__62",
+    "painter": [
+      {
+        "id": 730,
+        "value": "Grünewald, Matthias",
+        "order": "730.00000000000000000000"
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "title": "Crucifixion",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__63",
+    "painter": [
+      {
+        "id": 3094,
+        "value": "Rouault, Georges",
+        "order": "3087.00000000000000000000"
+      }
+    ]
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "title": "Head of Christ with Thorns",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__64",
+    "painter": [
+      {
+        "id": 3094,
+        "value": "Rouault, Georges",
+        "order": "3087.00000000000000000000"
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "title": "Crucifixion",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__65",
+    "painter": [
+      {
+        "id": 1495,
+        "value": "Picasso, Pablo",
+        "order": "1495.00000000000000000000"
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "title": "Crucifixion",
+    "wikidata": "",
+    "tillich_id": "tillich_painting_id__66",
+    "painter": [
+      {
+        "id": 3101,
+        "value": "Sutherland, Graham Vivian",
+        "order": "3093.00000000000000000000"
+      }
+    ]
+  }
+}

@@ -21268,6 +21268,18 @@
                   <occupation>Jurist, Hochschullehrer, Diplomat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116074140</idno>
                </person>
+               <person xml:id="tillich_person_id__4070">
+                  <persName>Blesse, Paul</persName>
+                  <birth>
+                     <date>1903-08-10</date>
+                  </birth>
+                  <death>
+                     <date>1991-09-01</date>
+                  </death>
+                  <occupation>Rechtsanwalt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/126078882</idno>
+                  <note type="bio"><p>Paul Blesse wurde am 10. August 1903 in Kassel geboren und ist dort am 1. September 1991 gestorben. Über seine Rolle als Mitglied der Bekennenden Kirche im Dritten Reich und seine Tätigkeit als Oberlandeskirchenrat hat der promovierte Rechtsanwalt in einem Zeitzeugengespräch mit Pfarrer Michael Dorhs im Mai 1989 Auskunft gegeben. Er war Mitglied in der christlichen Studentenverbindung Wingolf und hatte Kontakt zum Neuwerkkreis. Mit Hermann Schafft war er befreundet. Er war Vertrauensrat der Bekennenden Kirche ab 1934 und Verteidiger und Rechtsbeistand vieler Menschen, die mit dem nationalsozialistischen System in Konflikt geraten waren. Als juristischer Referent wirkte er von 1942 bis 1969 im Landeskirchenamt. (Biogramm verfasst von Bettina Wischhöfer, entnommen aus: Archivnachrichten aus Hessen, 13/1, 2013, S. 43.)</p></note>
+               </person>
             </listPerson>
          </div>
       </body>
