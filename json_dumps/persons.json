@@ -69550,5 +69550,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4071": {
+    "id": 4071,
+    "order": "3895.00000000000000000000",
+    "name": "Fahs, S. L.",
+    "surname": "Fahs",
+    "forename": "S. L.",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__4071",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Wahrscheinlich Sophia Blanche Lyon Fahs, https://en.wikipedia.org/wiki/Sophia_Lyon_Fahs",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
