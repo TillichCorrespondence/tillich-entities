@@ -2754,9 +2754,17 @@
   "419": {
     "id": 419,
     "order": "348.00000000000000000000",
-    "name": "",
+    "name": "Tillich, Paul. „1. Über die Idee einer Theologie der Kultur (1919)“. In Ausgewählte Texte, herausgegeben von Christian Danz, Werner Schüßler, und Erdmann Sturm, 25–42. Berlin, New York: De Gruyter, 2008. https://doi.org/doi:10.1515/9783110211740.25.",
     "working_note": "",
     "tillich_id": "tillich_work_id__419",
-    "zotero": ""
+    "zotero": "QAB7TWW3"
+  },
+  "420": {
+    "id": 420,
+    "order": "349.00000000000000000000",
+    "name": "Tillich, Paul. „Editorischer Bericht“. In Mit einer historischen Einleitung, XXV–XXX. Berlin, Boston: De Gruyter, 2003. https://doi.org/doi:10.1515/9783110906080-002.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__420",
+    "zotero": "RP7BA9G4"
   }
 }

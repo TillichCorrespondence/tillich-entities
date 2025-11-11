@@ -11805,8 +11805,14 @@
                   <note type="bio"><p>Er stand im Kontakt mit der Wingolfsverbindung.</p></note>
                </person>
                <person xml:id="tillich_person_id__2227">
-                  <persName>???, Emma</persName>
-                  <note type="bio"><p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p></note>
+                  <persName>Walz, Emma</persName>
+                  <birth>
+                     <date>1841-09-20</date>
+                     <settlement>
+                        <placeName>Wevelinghoven</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>geborene Thürlings; Großtante Paul Tillichs mütterlicherseits. jüngere Schwester von Amalia Gertrud (Mathilde) Thürlings</occupation>
                </person>
                <person xml:id="tillich_person_id__2228">
                   <persName>Solberger, Maria</persName>
@@ -11853,8 +11859,20 @@
                   <note type="bio"><p>Er wirkte als Candidatus Theologiae in Ostfriesland.</p></note>
                </person>
                <person xml:id="tillich_person_id__2240">
-                  <persName>???, Walz</persName>
-                  <note type="bio"><p>Er wird als Onkel von Paul Tillich bezeichnet.</p></note>
+                  <persName>Walz, Michael</persName>
+                  <birth>
+                     <date>1822</date>
+                     <settlement>
+                        <placeName>Schlatt im Breisgau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1907-04-20</date>
+                     <settlement>
+                        <placeName>Freiburg im Breisgau</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Großonkel Paul Tillichs müterlicherseits; Gymnasiallehrer und Geschichtsforscher</occupation>
                </person>
                <person xml:id="tillich_person_id__2241">
                   <persName>Hüpfer, ???</persName>
@@ -21418,6 +21436,14 @@
                   </death>
                   <occupation>Politischer Aktivist, Journalist, Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/106279815</idno>
+               </person>
+               <person xml:id="tillich_person_id__4096">
+                  <persName>Hollaender, Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118706489</idno>
+               </person>
+               <person xml:id="tillich_person_id__4097">
+                  <persName>Waetzoldt, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117091499</idno>
                </person>
             </listPerson>
          </div>
