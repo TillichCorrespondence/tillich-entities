@@ -8731,7 +8731,7 @@
                         <placeName>Chicago, Ill.</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer;</occupation>
+                  <occupation>Theologe; Religionsphilosoph; Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio"><p>Tillich, Paul (20.8.1886 Starzeddel – 22.10.1965 Chicago), war evangelischer Theologe und Religionsphilosoph. Er wirkte als Feldprediger im Ersten Weltkrieg, lehrte in Deutschland und nach seiner Entlassung 1933 am Union Theological Seminary in New York, später an Harvard und in Chicago. Tillich verband Einflüsse von Schelling, Nietzsche, Otto und der Existenzphilosophie zu einer Theologie der Kultur, die Religion als das „was uns unbedingt angeht“ verstand. In seiner „Systematic Theology“ entwickelte er die Methode der Korrelation von menschlicher Frage und theologischer Antwort und deutete Gott als „Macht des Seins“. Bekannt wurde er auch durch „The Courage to Be“ (1952), in dem er Angst und Mut zum Sein existentiell deutete. Tillich suchte stets die Grenze zwischen Theologie, Philosophie und Kultur und prägte nachhaltig das Verständnis von Symbol, Mythos und Religionsbezug in der Moderne.</p></note>
                </person>
@@ -21444,6 +21444,16 @@
                <person xml:id="tillich_person_id__4097">
                   <persName>Waetzoldt, Wilhelm</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117091499</idno>
+               </person>
+               <person xml:id="tillich_person_id__4098">
+                  <persName>Cornicelius, Max</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116680555</idno>
+               </person>
+               <person xml:id="tillich_person_id__4099">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4100">
+                  <persName/>
                </person>
             </listPerson>
          </div>

@@ -9172,5 +9172,115 @@
     "latitude": "54.92732",
     "longitude": "-7.93950",
     "wikidata_url": "https://www.wikidata.org/wiki/Q93195"
+  },
+  "1107": {
+    "id": 1107,
+    "order": "963.00000000000000000000",
+    "name": "Strausberg",
+    "tillich_id": "tillich_place_id__1107",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q490521"
+  },
+  "1108": {
+    "id": 1108,
+    "order": "964.00000000000000000000",
+    "name": "Erkner",
+    "tillich_id": "tillich_place_id__1108",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q572392"
+  },
+  "1109": {
+    "id": 1109,
+    "order": "965.00000000000000000000",
+    "name": "Woltersdorf",
+    "tillich_id": "tillich_place_id__1109",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q628778"
+  },
+  "1110": {
+    "id": 1110,
+    "order": "966.00000000000000000000",
+    "name": "Rüdersdorf",
+    "tillich_id": "tillich_place_id__1110",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q39791"
+  },
+  "1111": {
+    "id": 1111,
+    "order": "967.00000000000000000000",
+    "name": "Tasdorf",
+    "tillich_id": "tillich_place_id__1111",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q979037"
+  },
+  "1112": {
+    "id": 1112,
+    "order": "968.00000000000000000000",
+    "name": "Stienitzsee",
+    "tillich_id": "tillich_place_id__1112",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q979037Stienitzsee"
+  },
+  "1113": {
+    "id": 1113,
+    "order": "969.00000000000000000000",
+    "name": "Sacrow",
+    "tillich_id": "tillich_place_id__1113",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2211011"
+  },
+  "1114": {
+    "id": 1114,
+    "order": "970.00000000000000000000",
+    "name": "Christiania",
+    "tillich_id": "tillich_place_id__1114",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q202206"
+  },
+  "1115": {
+    "id": 1115,
+    "order": "971.00000000000000000000",
+    "name": "Helgoland",
+    "tillich_id": "tillich_place_id__1115",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3038"
+  },
+  "1116": {
+    "id": 1116,
+    "order": "972.00000000000000000000",
+    "name": "Westerland",
+    "tillich_id": "tillich_place_id__1116",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q27998"
   }
 }

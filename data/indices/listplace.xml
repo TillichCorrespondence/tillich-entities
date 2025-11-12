@@ -6089,6 +6089,46 @@
                   <idno type="geonames">https://sws.geonames.org/7521316/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q93195</idno>
                </place>
+               <place xml:id="tillich_place_id__1107">
+                  <placeName>Strausberg</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q490521</idno>
+               </place>
+               <place xml:id="tillich_place_id__1108">
+                  <placeName>Erkner</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q572392</idno>
+               </place>
+               <place xml:id="tillich_place_id__1109">
+                  <placeName>Woltersdorf</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q628778</idno>
+               </place>
+               <place xml:id="tillich_place_id__1110">
+                  <placeName>Rüdersdorf</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q39791</idno>
+               </place>
+               <place xml:id="tillich_place_id__1111">
+                  <placeName>Tasdorf</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q979037</idno>
+               </place>
+               <place xml:id="tillich_place_id__1112">
+                  <placeName>Stienitzsee</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q979037</idno>
+               </place>
+               <place xml:id="tillich_place_id__1113">
+                  <placeName>Sacrow</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2211011</idno>
+               </place>
+               <place xml:id="tillich_place_id__1114">
+                  <placeName>Christiania</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q202206</idno>
+               </place>
+               <place xml:id="tillich_place_id__1115">
+                  <placeName>Helgoland</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3038</idno>
+               </place>
+               <place xml:id="tillich_place_id__1116">
+                  <placeName>Westerland</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q27998</idno>
+               </place>
             </listPlace>
          </div>
       </body>
