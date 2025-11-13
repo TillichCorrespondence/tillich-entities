@@ -116,7 +116,7 @@
                   <birth>
                      <date>1905</date>
                   </birth>
-                  <note type="bio"><p>geb. Bamberger; Studentin von Paul Tillich. Verheiratet mit Hans-Otto Adler. 1938 Emigration nach Frankreich. Ihr gemeinsamer Sohn Pierre (geb. 1927) überlebte den Holocaust als Weisenkind.</p></note>
+                  <note type="bio"><p>geb. Bamberger; Studentin von Paul Tillich. Verheiratet mit Hans-Otto Adler. 1938 Emigration nach Frankreich. Sie hatten einen gemeinsamen Sohn, Peter/Pierre (geb. 1927).</p></note>
                </person>
                <person xml:id="tillich_person_id__11">
                   <persName>Adler, Alfred</persName>
@@ -3894,6 +3894,7 @@
                </person>
                <person xml:id="tillich_person_id__856">
                   <persName>Heller, Hermann</persName>
+                  <occupation>Jurist, Staatsrechtslehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__857">
                   <persName>Hellstroem, Ivar</persName>
@@ -19659,7 +19660,7 @@
                   <persName>???, Emil</persName>
                </person>
                <person xml:id="tillich_person_id__3531">
-                  <persName>Bick</persName>
+                  <persName>Biel</persName>
                </person>
                <person xml:id="tillich_person_id__3532">
                   <persName>Kruck</persName>
@@ -21454,6 +21455,37 @@
                </person>
                <person xml:id="tillich_person_id__4100">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4101">
+                  <persName>Moissi, Alexander</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118583271</idno>
+               </person>
+               <person xml:id="tillich_person_id__4102">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4103">
+                  <persName>Gutzmer, August</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116936738</idno>
+               </person>
+               <person xml:id="tillich_person_id__4104">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4105">
+                  <persName>Mohr, Erich</persName>
+               </person>
+               <person xml:id="tillich_person_id__4106">
+                  <persName>Wilbrandt, Robert</persName>
+                  <idno type="gnd">https://portal.dnb.de/opac/opacPresentation?cqlMode=true&amp;reset=true&amp;referrerPosition=0&amp;referrerResultId=idn%3D117378186%26any&amp;query=idn%3D117378143</idno>
+               </person>
+               <person xml:id="tillich_person_id__4107">
+                  <persName>Boelitz, Otto</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116223472</idno>
+               </person>
+               <person xml:id="tillich_person_id__4108">
+                  <persName>Thiersch, Amalie</persName>
+               </person>
+               <person xml:id="tillich_person_id__4109">
+                  <persName>Bresser, Anna</persName>
                </person>
             </listPerson>
          </div>

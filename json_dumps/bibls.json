@@ -2719,22 +2719,6 @@
     "tillich_id": "tillich_work_id__414",
     "zotero": "FG234RJE"
   },
-  "415": {
-    "id": 415,
-    "order": "344.00000000000000000000",
-    "name": "",
-    "working_note": "",
-    "tillich_id": "tillich_work_id__415",
-    "zotero": ""
-  },
-  "416": {
-    "id": 416,
-    "order": "345.00000000000000000000",
-    "name": "",
-    "working_note": "",
-    "tillich_id": "tillich_work_id__416",
-    "zotero": ""
-  },
   "417": {
     "id": 417,
     "order": "346.00000000000000000000",
@@ -2766,5 +2750,37 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__420",
     "zotero": "RP7BA9G4"
+  },
+  "421": {
+    "id": 421,
+    "order": "350.00000000000000000000",
+    "name": "Spengler, Oswald. Der Untergang des Abendlandes. Umrisse einer Morphologie der Weltgeschichte: Gestalt und Wirklichkeit. Bd. 1. Wien: Braumüller, 1918.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__421",
+    "zotero": "EJZPC8XF"
+  },
+  "422": {
+    "id": 422,
+    "order": "351.00000000000000000000",
+    "name": "Landauer, Gustav. Aufruf zum Sozialismus. Berlin: Cassirer, 1919.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__422",
+    "zotero": "MTMK7VI4"
+  },
+  "423": {
+    "id": 423,
+    "order": "352.00000000000000000000",
+    "name": "Wilbrandt, Robert. Sozialismus. Jena: Diederichs Verlag, 1919.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__423",
+    "zotero": "7XMFGWPQ"
+  },
+  "424": {
+    "id": 424,
+    "order": "353.00000000000000000000",
+    "name": "Tillich, Paul. „Grundlinien des religiösen Sozialismus“. In Frühe Schriften zum religiösen Sozialismus, herausgegeben von Renate Albrecht, 91–120. Berlin, Boston: De Gruyter, 1962. https://doi.org/doi:10.1515/9783111446530-007.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__424",
+    "zotero": "5WW6IDIV"
   }
 }

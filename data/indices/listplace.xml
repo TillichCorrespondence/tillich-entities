@@ -6129,6 +6129,26 @@
                   <placeName>Westerland</placeName>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q27998</idno>
                </place>
+               <place xml:id="tillich_place_id__1117">
+                  <placeName>Friesendorf</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1464690</idno>
+               </place>
+               <place xml:id="tillich_place_id__1118">
+                  <placeName>Klappholttal</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1744372</idno>
+               </place>
+               <place xml:id="tillich_place_id__1119">
+                  <placeName>Newski-Prospekt</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q382500</idno>
+               </place>
+               <place xml:id="tillich_place_id__1120">
+                  <placeName>Selenogorsk</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q59704</idno>
+               </place>
+               <place xml:id="tillich_place_id__1121">
+                  <placeName>Kronstadt</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q155863</idno>
+               </place>
             </listPlace>
          </div>
       </body>
