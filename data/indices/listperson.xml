@@ -7274,7 +7274,7 @@
                      <date>16.06.1893</date>
                   </birth>
                   <occupation>Schwester</occupation>
-                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
+                  <note type="bio"><p>Elisabeth war die Schwester Paul Tillichs. 1917 heiratete sie Erhard Seeberger, der die längste Zeit seines Arbeitslebens Pfarrer in Berlin-Tempelhof war.</p></note>
                </person>
                <person xml:id="tillich_person_id__1763">
                   <persName>Seeberger, Erhard</persName>
@@ -11873,7 +11873,8 @@
                         <placeName>Freiburg im Breisgau</placeName>
                      </settlement>
                   </death>
-                  <occupation>Großonkel Paul Tillichs müterlicherseits; Gymnasiallehrer und Geschichtsforscher</occupation>
+                  <occupation>Gymnasialprofessor und Geschichtsforscher</occupation>
+                  <note type="bio"><p>Großonkel Paul Tillichs mütterlicherseits</p></note>
                </person>
                <person xml:id="tillich_person_id__2241">
                   <persName>Hüpfer, ???</persName>
@@ -21486,6 +21487,38 @@
                </person>
                <person xml:id="tillich_person_id__4109">
                   <persName>Bresser, Anna</persName>
+               </person>
+               <person xml:id="tillich_person_id__4110">
+                  <persName>Jacobi, Justus</persName>
+                  <birth>
+                     <date>1850-09-19</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1937-11-28</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Konsistorialrat in Schöneberg (ab 1904), Generalsuperintendent in Magdeburg (ab 1910)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4111">
+                  <persName>Eggert, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/133566587</idno>
+               </person>
+               <person xml:id="tillich_person_id__4112">
+                  <persName>Landauer, Carl</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/12430155X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4113">
+                  <persName>Naphtali, Fritz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118586394</idno>
+               </person>
+               <person xml:id="tillich_person_id__4114">
+                  <persName>Nathan, Otto</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116885017</idno>
                </person>
             </listPerson>
          </div>

@@ -9337,5 +9337,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q155863"
+  },
+  "1122": {
+    "id": 1122,
+    "order": "978.00000000000000000000",
+    "name": "Schlatt (Bad Krozingen)",
+    "tillich_id": "tillich_place_id__1122",
+    "geonames_url": "https://sws.geonames.org/2838882/",
+    "Working Notes": "",
+    "latitude": "47.92566",
+    "longitude": "7.67192",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1589756"
   }
 }
