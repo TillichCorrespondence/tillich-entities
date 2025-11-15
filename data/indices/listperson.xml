@@ -21520,6 +21520,15 @@
                   <persName>Nathan, Otto</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116885017</idno>
                </person>
+               <person xml:id="tillich_person_id__4115">
+                  <persName>Jessen, Peter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117123870</idno>
+               </person>
+               <person xml:id="tillich_person_id__4116">
+                  <persName>Jessen, Lisi</persName>
+                  <occupation>Fotografin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1243832320</idno>
+               </person>
             </listPerson>
          </div>
       </body>
