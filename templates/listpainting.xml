@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paul-Tillich-Lectures: Paintings</title>
+         </titleStmt>
+          <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_bibls">
+            <listBibl xml:id="listbibl">
+            {% for x in objects %}
+               <bibl xml:id="{{ x.tillich_id }}">
+                  <title>{{ x.title }}</title>{% for y in x.painter %}
+                  <author key="#tillich_person_id__{{ y.id }}">{{ y.value }}</author>{% endfor %}
+                  {% if x.wikidata %}
+                  <idno type="wikidata">http://www.wikidata.org/entity/{{ x.wikidata }}</idno>
+                  {% endif %}
+               </bibl>
+            {% endfor %}
+            </listBibl>
+         </div>
+      </body>
+   </text>
+</TEI>
