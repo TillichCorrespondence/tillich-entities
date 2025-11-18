@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paul-Tillich-Lectures: Paintings</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="index_bibls">
+            <listBibl xml:id="listbibl">
+               <bibl xml:id="tillich_painting_id__1">
+                  <title>Landscape with Women</title>
+                  <author key="#tillich_person_id__1653">Rubens, Peter Paul</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__2">
+                  <title>Stormy Landscape</title>
+                  <author key="#tillich_person_id__1653">Rubens, Peter Paul</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q59526748</idno>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__3">
+                  <title>Edge of a Wood</title>
+                  <author key="#tillich_person_id__1667">Ruysdael, Jakob van</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__4">
+                  <title>Zaandam</title>
+                  <author key="#tillich_person_id__1343">Monet, Claude</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__5">
+                  <title>La Gare. St. Lazare</title>
+                  <author key="#tillich_person_id__1343">Monet, Claude</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__6">
+                  <title>Unloading the Cargo</title>
+                  <author key="#tillich_person_id__1343">Monet, Claude</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__7">
+                  <title>Francesco Quirini, patriarch of Grado, exorcises a Demon</title>
+                  <author key="#tillich_person_id__3907">Carpaccio, Francesco Quirini</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__8">
+                  <title>Tavern Brawl</title>
+                  <author key="#tillich_person_id__3085">Ostade, Adriaen van</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__9">
+                  <title>Loose Living</title>
+                  <author key="#tillich_person_id__3084">Steen, Jan</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__10">
+                  <title>The Night Watch</title>
+                  <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q219831</idno>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__11">
+                  <title>Dr. Tulp's Anatomy Lesson</title>
+                  <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__12">
+                  <title>Les Comédiens français</title>
+                  <author key="#tillich_person_id__3086">Watteau, Jean-Antoine</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__13">
+                  <title>Love in Italian Comedy</title>
+                  <author key="#tillich_person_id__3086">Watteau, Jean-Antoine</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__14">
+                  <title>Roman painting, Hellenistic, Fayoum mummy, 3rd century A.D.</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__15">
+                  <title>Roman painting, Pompeian--Paquius Proculus and his wife</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__16">
+                  <title>Roman painting, 3rd century, Portrait group on glass</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__17">
+                  <title>Greek painting, Hellenistic, ''Aline'' from Hawara</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__18">
+                  <title>Portrait of Eleonora (da Toledo) de Medici</title>
+                  <author key="#tillich_person_id__3087">Bronzino, Agnolo</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__19">
+                  <title>Francesco Maria della Bovere Duke of Urbino</title>
+                  <author key="#tillich_person_id__3088">Titian</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__20">
+                  <title>Lady Governors. Hospital for the Aged, Haarlem.--Detail</title>
+                  <author key="#tillich_person_id__3908">Hals, Frans</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__21">
+                  <title>La Bohémienne</title>
+                  <author key="#tillich_person_id__3908">Hals, Frans</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__22">
+                  <title>Portrait of Henry James</title>
+                  <author key="#tillich_person_id__3909">Sargent, John Singer</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__23">
+                  <title>View of Toledo</title>
+                  <author key="#tillich_person_id__3089">El Greco</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q883994</idno>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__24">
+                  <title>City on a Rock</title>
+                  <author key="#tillich_person_id__3090">Goya</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__25">
+                  <title>Still Life</title>
+                  <author key="#tillich_person_id__2575">Cezanne, Paul</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__26">
+                  <title>The Mantel-piece</title>
+                  <author key="#tillich_person_id__272">Braque, Georges</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__27">
+                  <title>Still Life</title>
+                  <author key="#tillich_person_id__272">Braque, Georges</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__28">
+                  <title>Nature-morte</title>
+                  <author key="#tillich_person_id__272">Braque, Georges</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__29">
+                  <title>Man with a Guitar</title>
+                  <author key="#tillich_person_id__272">Braque, Georges</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__30">
+                  <title>Composition No. 8</title>
+                  <author key="#tillich_person_id__1018">Kandinsky, Wassily</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__31">
+                  <title>Breakfast</title>
+                  <author key="#tillich_person_id__3093">Léger, Fernand</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__32">
+                  <title>Guernica</title>
+                  <author key="#tillich_person_id__1495">Picasso, Pablo</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q175036</idno>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__33">
+                  <title>Circus Trio</title>
+                  <author key="#tillich_person_id__3094">Rouault, Georges</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__34">
+                  <title>Melancholy and Mstery of a Street</title>
+                  <author key="#tillich_person_id__3095">de Chirico, Giorgio</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__35">
+                  <title>Heredity of Acquired Characteristics</title>
+                  <author key="#tillich_person_id__3910">Tanguy, Yves</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__36">
+                  <title>The Consoler</title>
+                  <author key="#tillich_person_id__3095">de Chirico, Giorgio</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__37">
+                  <title>Family Group</title>
+                  <author key="#tillich_person_id__3096">Moore, Henry</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__38">
+                  <title>Reclining Figure</title>
+                  <author key="#tillich_person_id__3096">Moore, Henry</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__39">
+                  <title>St. Francis and the Birds</title>
+                  <author key="#tillich_person_id__681">Giotto di Bondone</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__40">
+                  <title>Resurrection</title>
+                  <author key="#tillich_person_id__3098">Piero della Francesca</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__41">
+                  <title>Tribute Money</title>
+                  <author key="#tillich_person_id__3099">Masaccio</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__42">
+                  <title>Madonna and Child</title>
+                  <author key="#tillich_person_id__3027">Giovanni Bellini</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__43">
+                  <title>Madonna Colonna</title>
+                  <author key="#tillich_person_id__3100">Raphael</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__44">
+                  <title>The Magdalen</title>
+                  <author key="#tillich_person_id__1582">Reni, Guido</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__45">
+                  <title>The Christ with the Peasants</title>
+                  <author key="#tillich_person_id__1964">Uhde, Fritz von</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__46">
+                  <title>Ecce Homo (The mocking of Christ)</title>
+                  <author key="#tillich_person_id__3034">Manet, Edouard</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__47">
+                  <title>Greek Sculpture: Apollo</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__48">
+                  <title>Archaic female figure from near Erechtheurre</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__49">
+                  <title>Hera of Samos</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__50">
+                  <title>Mosaic, Constantinople, 10th Century</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__51">
+                  <title>Byzantine School, 15th Century, Resurrection</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__52">
+                  <title>Painting, Italian, 12th Century, Crucifix</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__53">
+                  <title>French, 15th Century, School of Avignon</title>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__54">
+                  <title>Adoration of the Kings</title>
+                  <author key="#tillich_person_id__295">Brueghel, Pieter (der Ältere)</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__55">
+                  <title>Triumph of Death</title>
+                  <author key="#tillich_person_id__295">Brueghel, Pieter (der Ältere)</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__56">
+                  <title>Altarpiece of Temptation</title>
+                  <author key="#tillich_person_id__261">Bosch, Hieronymus</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__57">
+                  <title>Coronation of the Virgin</title>
+                  <author key="#tillich_person_id__3089">El Greco</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__58">
+                  <title>Christ Crucified between Thieves</title>
+                  <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__59">
+                  <title>Descent from the Cross</title>
+                  <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__60">
+                  <title>The Last Supper</title>
+                  <author key="#tillich_person_id__1404">Nolde, Emil</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__61">
+                  <title>Isenheim Altarpiece</title>
+                  <author key="#tillich_person_id__730">Grünewald, Matthias</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q591762</idno>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__62">
+                  <title>Isenheim Altarpiece (right panel)</title>
+                  <author key="#tillich_person_id__730">Grünewald, Matthias</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q591762</idno>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__63">
+                  <title>Crucifixion</title>
+                  <author key="#tillich_person_id__3094">Rouault, Georges</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__64">
+                  <title>Head of Christ with Thorns</title>
+                  <author key="#tillich_person_id__3094">Rouault, Georges</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__65">
+                  <title>Crucifixion</title>
+                  <author key="#tillich_person_id__1495">Picasso, Pablo</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__66">
+                  <title>Crucifixion</title>
+                  <author key="#tillich_person_id__3101">Sutherland, Graham Vivian</author>
+               </bibl>
+            </listBibl>
+         </div>
+      </body>
+   </text>
+</TEI>

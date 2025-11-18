@@ -2,6 +2,7 @@ import glob
 import os
 import json
 import jinja2
+import lxml.etree as ET
 
 from acdh_tei_pyutils.tei import TeiReader
 from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
@@ -20,7 +21,7 @@ files = glob.glob("./json_dumps/*.json")
 
 for x in files:
     _, tail = os.path.split(x)
-    if tail in ["persons.json", "places.json", "bibls.json"]:
+    if tail in ["persons.json", "places.json", "bibls.json", "paintings.json"]:
         with open(x, "r") as f:
             data = json.load(f)
         context = {"project_title": PROJECT_TITLE}
@@ -37,4 +38,5 @@ for x in files:
             old_uri = idno.text
             new_uri = get_normalized_uri(old_uri)
             idno.text = new_uri
+        ET.indent(doc.any_xpath(".")[0], space="   ")
         doc.tree_to_file(xml_name)
