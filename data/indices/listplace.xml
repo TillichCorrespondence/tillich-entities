@@ -6157,6 +6157,19 @@
                   <idno type="geonames">https://sws.geonames.org/2838882/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1589756</idno>
                </place>
+               <place xml:id="tillich_place_id__1123">
+                  <placeName>Pyritz (Pyrzyce)</placeName>
+                  <idno type="geonames">https://sws.geonames.org/3087630/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q219093</idno>
+               </place>
+               <place xml:id="tillich_place_id__1124">
+                  <placeName>Jädickendorf (Godków)</placeName>
+                  <location type="coords">
+                     <geo>51.00933 16.59794</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7534636/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5576682</idno>
+               </place>
             </listPlace>
          </div>
       </body>

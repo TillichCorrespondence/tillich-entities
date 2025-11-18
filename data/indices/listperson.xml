@@ -14761,6 +14761,9 @@
                </person>
                <person xml:id="tillich_person_id__2564">
                   <persName>Kallen, Elisabeth W.</persName>
+                  <birth>
+                     <date>29.09.1897</date>
+                  </birth>
                   <occupation>Künstlerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127697055</idno>
                   <note type="bio"><p>Tillich widmete ihr 1926 sein Buch "Die religiöse Lage der Gegenwart".</p></note>
@@ -21528,6 +21531,46 @@
                   <persName>Jessen, Lisi</persName>
                   <occupation>Fotografin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1243832320</idno>
+               </person>
+               <person xml:id="tillich_person_id__4117">
+                  <persName>Reiche, Robert</persName>
+                  <birth>
+                     <date>1851-06-30</date>
+                     <settlement>
+                        <placeName>Rebelow</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>Latein- und Klassenlehrer Paul Tillichs in der Obertertia</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4118">
+                  <persName>Graßmann, Karl</persName>
+                  <birth>
+                     <date>1853-03-17</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>Mathematiklehrer Paul Tillichs in der Obertertia</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4119">
+                  <persName>Ilgen, Paul</persName>
+                  <birth>
+                     <date>1862-05-31</date>
+                     <settlement>
+                        <placeName>Cammin in Pommern</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>Griechischlehrer Paul Tillichs in der Obertertia</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4120">
+                  <persName>Loeffler, Ernst</persName>
+                  <birth>
+                     <date>1844-03-16</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>zweiter Lateinlehrer Paul Tillichs in der Obertertia</occupation>
                </person>
             </listPerson>
          </div>

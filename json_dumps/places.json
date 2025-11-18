@@ -9348,5 +9348,27 @@
     "latitude": "47.92566",
     "longitude": "7.67192",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1589756"
+  },
+  "1123": {
+    "id": 1123,
+    "order": "979.00000000000000000000",
+    "name": "Pyritz (Pyrzyce)",
+    "tillich_id": "tillich_place_id__1123",
+    "geonames_url": "http://www.geonames.org/3087630/",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q219093"
+  },
+  "1124": {
+    "id": 1124,
+    "order": "980.00000000000000000000",
+    "name": "Jädickendorf (Godków)",
+    "tillich_id": "tillich_place_id__1124",
+    "geonames_url": "https://sws.geonames.org/7534636/",
+    "Working Notes": "",
+    "latitude": "51.00933",
+    "longitude": "16.59794",
+    "wikidata_url": "http://www.wikidata.org/entity/Q5576682"
   }
 }
