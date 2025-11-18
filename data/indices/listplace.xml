@@ -3821,14 +3821,8 @@
                   <idno type="geonames">https://sws.geonames.org/5102922/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q138518</idno>
                </place>
-               <place xml:id="tillich_place_id__631">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__632">
                   <placeName>Hirschberg in Schlesien</placeName>
-               </place>
-               <place xml:id="tillich_place_id__633">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__634">
                   <placeName>Pleskau</placeName>
@@ -3891,9 +3885,6 @@
                   <idno type="geonames">https://sws.geonames.org/6290252/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q403</idno>
                </place>
-               <place xml:id="tillich_place_id__643">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__644">
                   <placeName>Bailly</placeName>
                </place>
@@ -3905,9 +3896,6 @@
                   <idno type="geonames">https://sws.geonames.org/2971169/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q589513</idno>
                </place>
-               <place xml:id="tillich_place_id__646">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__647">
                   <placeName>Honfleur</placeName>
                   <location type="coords">
@@ -3915,15 +3903,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3013173/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q231720</idno>
-               </place>
-               <place xml:id="tillich_place_id__649">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__650">
-                  <placeName/>
-                  <location type="coords">
-                     <geo>49.17028 4.71631</geo>
-                  </location>
                </place>
                <place xml:id="tillich_place_id__651">
                   <placeName>Minaucourt-le-Mesnil-lès-Hurlus</placeName>
@@ -3938,9 +3917,6 @@
                      <geo>49.32280 4.76712</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3030424/</idno>
-               </place>
-               <place xml:id="tillich_place_id__653">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__654">
                   <placeName>Les Rosiers</placeName>
@@ -4022,9 +3998,6 @@
                </place>
                <place xml:id="tillich_place_id__665">
                   <placeName>Egypt</placeName>
-               </place>
-               <place xml:id="tillich_place_id__666">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__667">
                   <placeName>Celle</placeName>
@@ -4145,9 +4118,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2510769/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q29</idno>
-               </place>
-               <place xml:id="tillich_place_id__686">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__687">
                   <placeName>Schönebeck (Elbe)</placeName>
@@ -4314,9 +4284,6 @@
                   <idno type="geonames">https://sws.geonames.org/2660646/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q30343751</idno>
                </place>
-               <place xml:id="tillich_place_id__708">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__709">
                   <placeName>Norwich Vermont</placeName>
                   <location type="coords">
@@ -4364,9 +4331,6 @@
                   <idno type="geonames">https://sws.geonames.org/2082514/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q40285</idno>
                </place>
-               <place xml:id="tillich_place_id__715">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__716">
                   <placeName>Dändorf</placeName>
                   <location type="coords">
@@ -4374,9 +4338,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2939065/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1269720</idno>
-               </place>
-               <place xml:id="tillich_place_id__717">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__718">
                   <placeName>Havana, Cuba</placeName>
@@ -4640,9 +4601,6 @@
                   <idno type="geonames">https://sws.geonames.org/4682620/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q5148681</idno>
                </place>
-               <place xml:id="tillich_place_id__753">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__754">
                   <placeName>Detroit, USA</placeName>
                   <location type="coords">
@@ -4686,12 +4644,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2882337/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1019085</idno>
-               </place>
-               <place xml:id="tillich_place_id__760">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__761">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__762">
                   <placeName>Giessen</placeName>
@@ -4844,18 +4796,6 @@
                   <idno type="geonames">https://sws.geonames.org/4887398/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1297</idno>
                </place>
-               <place xml:id="tillich_place_id__782">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__783">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__784">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__787">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__788">
                   <placeName>Oxford</placeName>
                   <location type="coords">
@@ -4864,12 +4804,6 @@
                   <idno type="geonames">https://sws.geonames.org/2640729/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q34217</idno>
                </place>
-               <place xml:id="tillich_place_id__789">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__790">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__792">
                   <placeName>St. Augustine</placeName>
                   <location type="coords">
@@ -4877,9 +4811,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/4170894/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q487988</idno>
-               </place>
-               <place xml:id="tillich_place_id__793">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__794">
                   <placeName>Palm Beach</placeName>
@@ -5052,9 +4983,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/5327684/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q484678</idno>
-               </place>
-               <place xml:id="tillich_place_id__816">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__817">
                   <placeName>Beuggen</placeName>
@@ -5288,14 +5216,6 @@
                   <idno type="geonames">https://sws.geonames.org/3164857/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1222</idno>
                </place>
-               <place xml:id="tillich_place_id__847">
-                  <placeName/>
-                  <location type="coords">
-                     <geo>45.74991 7.61668</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3178905/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q34966</idno>
-               </place>
                <place xml:id="tillich_place_id__848">
                   <placeName>Kalifornien</placeName>
                   <location type="coords">
@@ -5384,9 +5304,6 @@
                   <idno type="geonames">https://sws.geonames.org/2525764/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q13678</idno>
                </place>
-               <place xml:id="tillich_place_id__859">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__860">
                   <placeName>Oakland (CA)</placeName>
                   <location type="coords">
@@ -5394,9 +5311,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/5378538/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q17042</idno>
-               </place>
-               <place xml:id="tillich_place_id__861">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__862">
                   <placeName>Gloucester</placeName>
@@ -5574,9 +5488,6 @@
                   <idno type="geonames">https://sws.geonames.org/2805086/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q55816264</idno>
                </place>
-               <place xml:id="tillich_place_id__886">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__887">
                   <placeName>Gelnhausen</placeName>
                   <location type="coords">
@@ -5702,9 +5613,6 @@
                <place xml:id="tillich_place_id__904">
                   <placeName>Taunus</placeName>
                </place>
-               <place xml:id="tillich_place_id__905">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__906">
                   <placeName>Sannerz</placeName>
                   <location type="coords">
@@ -5824,9 +5732,6 @@
                   <idno type="geonames">https://sws.geonames.org/3031133/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q81997</idno>
                </place>
-               <place xml:id="tillich_place_id__984">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__985">
                   <placeName>Tschechoslowakei</placeName>
                   <location type="coords">
@@ -5835,9 +5740,6 @@
                   <idno type="geonames">https://sws.geonames.org/8505031/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33946</idno>
                </place>
-               <place xml:id="tillich_place_id__986">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__987">
                   <placeName>Niederrhein</placeName>
                   <location type="coords">
@@ -5845,9 +5747,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/12076814/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q445609</idno>
-               </place>
-               <place xml:id="tillich_place_id__988">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__989">
                   <placeName>Gatlinburg (TN)</placeName>
@@ -5979,9 +5878,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2821230/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2452168</idno>
-               </place>
-               <place xml:id="tillich_place_id__1038">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__1039">
                   <placeName>St. Gallen</placeName>
@@ -6122,9 +6018,6 @@
                   <idno type="geonames">https://sws.geonames.org/2882318/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q245542</idno>
                </place>
-               <place xml:id="tillich_place_id__1091">
-                  <placeName/>
-               </place>
                <place xml:id="tillich_place_id__1092">
                   <placeName>Moritzburg</placeName>
                   <location type="coords">
@@ -6132,12 +6025,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2869244/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1312663</idno>
-               </place>
-               <place xml:id="tillich_place_id__1093">
-                  <placeName/>
-               </place>
-               <place xml:id="tillich_place_id__1094">
-                  <placeName/>
                </place>
                <place xml:id="tillich_place_id__1096">
                   <placeName>Bad Wilhelmshöhe</placeName>
