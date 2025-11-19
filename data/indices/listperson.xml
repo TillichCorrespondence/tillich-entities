@@ -5003,7 +5003,7 @@
                <person xml:id="tillich_person_id__1067">
                   <persName>Kleyer, Erwin</persName>
                   <note type="bio">
-                     <p>Vorstand der Adlerwerke, Rennfahrer und Kunstmäzen war und in Frankfurt ein Verhältnis mit Hannah Tillich gehabt hatte.</p>
+                     <p>Vorstand der Adlerwerke, der Rennfahrer und Kunstmäzen war und in Frankfurt ein Verhältnis mit Hannah Tillich hatte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1068">
@@ -9416,7 +9416,7 @@
                <person xml:id="tillich_person_id__1925">
                   <persName>Tillich, Margarete</persName>
                   <birth>
-                     <date>25.05.1867</date>
+                     <date>1867-05-25</date>
                   </birth>
                   <note type="bio">
                      <p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p>
@@ -9461,16 +9461,28 @@
                <person xml:id="tillich_person_id__1929">
                   <persName>Tillich, Wilhelmina Mathilde</persName>
                   <birth>
-                     <date>1860</date>
+                     <date>1860-04-05</date>
+                     <settlement>
+                        <placeName>Odenkirchen</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1903</date>
+                     <date>1903-09-24</date>
                   </death>
                   <occupation>Mutter</occupation>
                </person>
                <person xml:id="tillich_person_id__1930">
                   <persName>Tillich, Marie</persName>
-                  <occupation>Großmutter</occupation>
+                  <birth>
+                     <date>1827-03-06</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1916-11-20</date>
+                  </death>
+                  <occupation>Großmutter Paul Tillichs, geb. Scheidemantel</occupation>
                </person>
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
@@ -14036,7 +14048,7 @@
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/1200987659</idno>
                   <note type="bio">
-                     <p>Er war ein Mitschüler Paul Tillichs in der Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark und später ein Freund von Oberarzt Theel.</p>
+                     <p>Er war ein Mitschüler Paul Tillichs in der Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark, wohnhaft in Schönfließ. Später ein Freund von Oberarzt Theel.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2375">
@@ -17312,7 +17324,8 @@
                   <persName>Böttger, Else</persName>
                </person>
                <person xml:id="tillich_person_id__2732">
-                  <persName>Burckhardt, H.</persName>
+                  <persName>Burchard, Hans</persName>
+                  <occupation>Landrichter</occupation>
                </person>
                <person xml:id="tillich_person_id__2733">
                   <persName>Kapell, Hubert</persName>
@@ -17387,7 +17400,7 @@
                </person>
                <person xml:id="tillich_person_id__2742">
                   <persName>Zitzke, Johannes</persName>
-                  <occupation>Er war ein Mitschüler Paul Tillichs in der Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark.</occupation>
+                  <occupation>Er war ein Mitschüler Paul Tillichs in der Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark, wohnhaft in Wildenbruch</occupation>
                </person>
                <person xml:id="tillich_person_id__2743">
                   <persName>Ecke, Gustav</persName>
@@ -19752,7 +19765,7 @@
                <person xml:id="tillich_person_id__3189">
                   <persName>Hafemann, Walther</persName>
                   <note type="bio">
-                     <p>Er war ein Mitschüler Paul Tillichs in der Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark.</p>
+                     <p>Er war ein Mitschüler Paul Tillichs in der Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark, wohnhaft in Schönfließ.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3190">
@@ -23300,6 +23313,9 @@
                      </settlement>
                   </birth>
                   <occupation>zweiter Lateinlehrer Paul Tillichs in der Obertertia</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4121">
+                  <persName>Urban, Maria</persName>
                </person>
             </listPerson>
          </div>
