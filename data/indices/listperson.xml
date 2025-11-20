@@ -9468,6 +9468,9 @@
                   </birth>
                   <death>
                      <date>1903-09-24</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
                   </death>
                   <occupation>Mutter</occupation>
                </person>
@@ -10395,17 +10398,6 @@
                   <note type="bio">
                      <p>Voltaire, Francois-Marie Arouet (21.11.1694 Paris – 30.5.1778 Paris) war einer der einflussreichsten französischen Philosophen des 18. Jahrhunderts. Nach frühen Erfolgen als Satiriker, die ihm Haft und Verbannung einbrachten, lebte er mehrere Jahre in England, wo er durch Locke und Newton geprägt wurde und die Bedeutung religiöser Toleranz erkannte. Zurück in Frankreich wirkte er als Philosoph, Historiker und Dramatiker, kämpfte unermüdlich gegen Fanatismus, Intoleranz und Aberglauben und wurde durch Werke wie Candide berühmt. Von seinem Landsitz in Ferney aus führte er europaweit Debatten und prägte das Denken der Aufklärung nachhaltig.</p>
                   </note>
-               </person>
-               <person xml:id="tillich_person_id__2008">
-                  <persName>von Sydow, Eckart</persName>
-                  <birth>
-                     <date>1885</date>
-                  </birth>
-                  <death>
-                     <date>1942</date>
-                  </death>
-                  <occupation>Kunsthistoriker</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                </person>
                <person xml:id="tillich_person_id__2009">
                   <persName>Vorwerk, Friedrich</persName>
@@ -17308,7 +17300,14 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2727">
-                  <persName>Wanzlik, H.</persName>
+                  <persName>Wanzlik, Hermann</persName>
+                  <birth>
+                     <date>1860-04-26</date>
+                  </birth>
+                  <death>
+                     <date>1914-02-16</date>
+                  </death>
+                  <occupation>Landwirt in Berlin Rixdorf</occupation>
                </person>
                <person xml:id="tillich_person_id__2728">
                   <persName>Kandeler, Friedrich</persName>
@@ -23316,6 +23315,35 @@
                </person>
                <person xml:id="tillich_person_id__4121">
                   <persName>Urban, Maria</persName>
+               </person>
+               <person xml:id="tillich_person_id__4122">
+                  <persName>Sydow (Familie)</persName>
+               </person>
+               <person xml:id="tillich_person_id__4123">
+                  <persName>Steindel, Paul</persName>
+                  <birth>
+                     <date>1867-04-21</date>
+                     <settlement>
+                        <placeName>Briesen (Prov. Posen)</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>1898 Ordinarius der Unter-tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4124">
+                  <persName>Kantorowicz, Alfred</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118559818</idno>
+               </person>
+               <person xml:id="tillich_person_id__4125">
+                  <persName>Wanzlik, Marie</persName>
+                  <birth>
+                     <date>1864-08-04</date>
+                  </birth>
+                  <death>
+                     <date>1945-04</date>
+                  </death>
+                  <note type="bio">
+                     <p>geb. Titsch</p>
+                  </note>
                </person>
             </listPerson>
          </div>
