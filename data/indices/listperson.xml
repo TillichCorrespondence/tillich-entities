@@ -23345,6 +23345,39 @@
                      <p>geb. Titsch</p>
                   </note>
                </person>
+               <person xml:id="tillich_person_id__4126">
+                  <persName>Gregg, Alice</persName>
+                  <occupation>Missionarin in China</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4127">
+                  <persName>Watson, Goodwin</persName>
+                  <occupation>Psychologe, Pädagoge</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4128">
+                  <persName>Johnson, Ernest</persName>
+                  <note type="bio">
+                     <p>Professor am Teacher's College</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4129">
+                  <persName>Miss Scudder</persName>
+               </person>
+               <person xml:id="tillich_person_id__4130">
+                  <persName>Bonn, Moritz Julius</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118661515</idno>
+               </person>
+               <person xml:id="tillich_person_id__4131">
+                  <persName>Kelsen, Hans</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118561219</idno>
+               </person>
+               <person xml:id="tillich_person_id__4132">
+                  <persName>Löwenstein, Otto</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/122670191</idno>
+               </person>
+               <person xml:id="tillich_person_id__4133">
+                  <persName>Cohn, Ernst Joseph</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11852142X</idno>
+               </person>
             </listPerson>
          </div>
       </body>
