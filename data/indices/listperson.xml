@@ -14998,13 +14998,8 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2460">
-                  <persName>Döring, Hans</persName>
-                  <birth>
-                     <date>1901</date>
-                  </birth>
-                  <death>
-                     <date>1970</date>
-                  </death>
+                  <persName>Döring, Johannes</persName>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2461">
                   <persName>Döring, (Frau)</persName>
@@ -15364,7 +15359,8 @@
                   <persName>Sulzbach, Maria</persName>
                </person>
                <person xml:id="tillich_person_id__2491">
-                  <persName>Häberle, L.</persName>
+                  <persName>Häberle, Luise</persName>
+                  <occupation>Prokuristin</occupation>
                </person>
                <person xml:id="tillich_person_id__2492">
                   <persName>Rosenbusch, Agnes</persName>
@@ -21754,10 +21750,14 @@
                   <persName>???, Ekke</persName>
                </person>
                <person xml:id="tillich_person_id__3630">
-                  <persName>Medicus, ???</persName>
+                  <persName>Medicus, Lotte</persName>
+                  <occupation>Gesangslehrerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139774629</idno>
                </person>
                <person xml:id="tillich_person_id__3631">
-                  <persName>Medicus, ???</persName>
+                  <persName>Medicus, Heinrich Adolf</persName>
+                  <occupation>Atomphysiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/125467974</idno>
                </person>
                <person xml:id="tillich_person_id__3632">
                   <persName>Breslauer, ???</persName>
@@ -23377,6 +23377,9 @@
                <person xml:id="tillich_person_id__4133">
                   <persName>Cohn, Ernst Joseph</persName>
                   <idno type="gnd">https://d-nb.info/gnd/11852142X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4164">
+                  <persName>Obst, Walter</persName>
                </person>
             </listPerson>
          </div>
