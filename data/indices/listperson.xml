@@ -15000,9 +15000,13 @@
                <person xml:id="tillich_person_id__2460">
                   <persName>Döring, Johannes</persName>
                   <occupation>Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Wirkte um 1933 in Saarbrücken, von 1938 bis 1954 als Probst der Evangelische Gemeinde deutscher Sprache zu Jerusalem.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2461">
-                  <persName>Döring, (Frau)</persName>
+                  <persName>Döring-Hirsch, Erna</persName>
+                  <occupation>Literaturwissenschaftlerin</occupation>
                </person>
                <person xml:id="tillich_person_id__2462">
                   <persName>Haussig, Friedel</persName>
@@ -23380,6 +23384,31 @@
                </person>
                <person xml:id="tillich_person_id__4164">
                   <persName>Obst, Walter</persName>
+               </person>
+               <person xml:id="tillich_person_id__4165">
+                  <persName>Searle, Robert</persName>
+                  <occupation>General Secretary der Greater N.Y. Federation of Churches</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4166">
+                  <persName>Sanderson Child, Eva</persName>
+                  <occupation>Executive Secretary of Friendship House</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4199">
+                  <persName>Fosdick, Harry Emerson</persName>
+                  <birth>
+                     <date>1878-05-24</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__692">Buffalo</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-10-05</date>
+                     <settlement>
+                        <placeName>Bronxville</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Priester</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/136883834</idno>
                </person>
             </listPerson>
          </div>
