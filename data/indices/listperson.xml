@@ -1661,7 +1661,20 @@
                   <persName>Blanshard, Brand</persName>
                </person>
                <person xml:id="tillich_person_id__227">
-                  <persName>Blech, George</persName>
+                  <persName>Blech, Georg</persName>
+                  <birth>
+                     <date>1885-08-20</date>
+                     <settlement>
+                        <placeName>Radmeritz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1926-12-09</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>zuletzt 2. Pfarrer in Berlin-Schmargendorf</occupation>
                </person>
                <person xml:id="tillich_person_id__228">
                   <persName>Bloch, Ernst</persName>
@@ -12219,9 +12232,9 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2159">
-                  <persName>Nell, W.</persName>
+                  <persName>Nell, Ferdinand Wilhelm</persName>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Zeitgleich mit Paul Tillich wechselte er zum Sommersemester 1905 als Aktiver an den Tübinger Wingolf.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2160">
@@ -12707,9 +12720,21 @@
                </person>
                <person xml:id="tillich_person_id__2224">
                   <persName>Dürselen, Paul Rudolf</persName>
+                  <birth>
+                     <date>1862-12-08</date>
+                     <settlement>
+                        <placeName>Odenkirchen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1933-12-22</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Lic. theolog., erster Pfarrer der Gnadenkirche in Berlin</occupation>
                   <note type="bio">
-                     <p>Er wird als ein Onkel von Paul Tillich bezeichnet.</p>
+                     <p>Onkel Paul Tillichs mütterlicherseits.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2225">
@@ -12769,9 +12794,16 @@
                   <persName>Hessel, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2236">
-                  <persName>???, Else</persName>
+                  <persName>Dürselen, Elisabeth</persName>
+                  <birth>
+                     <date>1871-06-29</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>genannt Else</occupation>
                   <note type="bio">
-                     <p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p>
+                     <p>geb. Ramelow, Ehefrau von Paul Rudolf Dürselen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2237">
@@ -15001,7 +15033,7 @@
                   <persName>Döring, Johannes</persName>
                   <occupation>Pfarrer</occupation>
                   <note type="bio">
-                     <p>Wirkte um 1933 in Saarbrücken, von 1938 bis 1954 als Probst der Evangelische Gemeinde deutscher Sprache zu Jerusalem.</p>
+                     <p>Wirkte um 1933 und bis 1938 in Saarbrücken, sowie von 1938 bis 1954 als Probst der Evangelische Gemeinde deutscher Sprache zu Jerusalem.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2461">
@@ -15785,12 +15817,6 @@
                </person>
                <person xml:id="tillich_person_id__2536">
                   <persName>Kürschner, ???</persName>
-                  <note type="bio">
-                     <p>Er war ein Philister.</p>
-                  </note>
-               </person>
-               <person xml:id="tillich_person_id__2537">
-                  <persName>Nell, ???</persName>
                   <note type="bio">
                      <p>Er war ein Philister.</p>
                   </note>
@@ -17166,12 +17192,6 @@
                   <occupation>Rechtswissenschaftler; Kurator der Universität Halle;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1104756838</idno>
                </person>
-               <person xml:id="tillich_person_id__2709">
-                  <persName>Schilling, Paul</persName>
-                  <note type="bio">
-                     <p>Er war der Mann von einer Dame namens Else.</p>
-                  </note>
-               </person>
                <person xml:id="tillich_person_id__2710">
                   <persName/>
                </person>
@@ -17399,7 +17419,7 @@
                </person>
                <person xml:id="tillich_person_id__2742">
                   <persName>Zitzke, Johannes</persName>
-                  <occupation>Er war ein Mitschüler Paul Tillichs in der Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark, wohnhaft in Wildenbruch</occupation>
+                  <occupation>Er war ein Mitschüler Paul Tillichs in der Tertia und Unter-Sekunda am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark, wohnhaft in Wildenbruch</occupation>
                </person>
                <person xml:id="tillich_person_id__2743">
                   <persName>Ecke, Gustav</persName>
@@ -19764,7 +19784,7 @@
                <person xml:id="tillich_person_id__3189">
                   <persName>Hafemann, Walther</persName>
                   <note type="bio">
-                     <p>Er war ein Mitschüler Paul Tillichs in der Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark, wohnhaft in Schönfließ.</p>
+                     <p>Er war ein Mitschüler Paul Tillichs in der Unter-Tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark, wohnhaft in Schönfließ.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3190">
@@ -23307,16 +23327,6 @@
                   </birth>
                   <occupation>Griechischlehrer Paul Tillichs in der Obertertia</occupation>
                </person>
-               <person xml:id="tillich_person_id__4120">
-                  <persName>Loeffler, Ernst</persName>
-                  <birth>
-                     <date>1844-03-16</date>
-                     <settlement>
-                        <placeName key="#tillich_place_id__37">Berlin</placeName>
-                     </settlement>
-                  </birth>
-                  <occupation>zweiter Lateinlehrer Paul Tillichs in der Obertertia</occupation>
-               </person>
                <person xml:id="tillich_person_id__4121">
                   <persName>Urban, Maria</persName>
                </person>
@@ -23409,6 +23419,40 @@
                   </death>
                   <occupation>Priester</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/136883834</idno>
+               </person>
+               <person xml:id="tillich_person_id__4201">
+                  <persName>Hoppe, Karl</persName>
+                  <birth>
+                     <date>1868-08-12</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>Latein- und Religionslehrer Paul Tillichs in der Ober-Tertia</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4202">
+                  <persName>Peters, Ulrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116121777</idno>
+               </person>
+               <person xml:id="tillich_person_id__4203">
+                  <persName>Krawielitzki, Hans</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/130505382</idno>
+               </person>
+               <person xml:id="tillich_person_id__4204">
+                  <persName>Seldte, Franz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117473847</idno>
+               </person>
+               <person xml:id="tillich_person_id__4205">
+                  <persName>Chalmers, Thomas</persName>
+               </person>
+               <person xml:id="tillich_person_id__4206">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4207">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4208">
+                  <persName>Theologische Fakultät der Vereinigten Friedrichs-Universität Halle-Wittenberg</persName>
                </person>
             </listPerson>
          </div>
