@@ -1701,6 +1701,19 @@
                </person>
                <person xml:id="tillich_person_id__234">
                   <persName>Bluntschli, Hans Hermann G.</persName>
+                  <birth>
+                     <date>1877-02-19</date>
+                     <settlement>
+                        <placeName>Franfurt a. Main</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1962-07-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__55">Bern</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schweizer Anatom</occupation>
                </person>
                <person xml:id="tillich_person_id__235">
                   <persName>Boas, Franz</persName>
@@ -5226,7 +5239,7 @@
                </person>
                <person xml:id="tillich_person_id__1122">
                   <persName>Lahusen, Friedrich</persName>
-                  <occupation>Generalsuperintendent</occupation>
+                  <occupation>Generalsuperintendent in Bremen</occupation>
                </person>
                <person xml:id="tillich_person_id__1123">
                   <persName>Lambert, Johann Heinrich</persName>
@@ -12617,7 +12630,10 @@
                   </death>
                </person>
                <person xml:id="tillich_person_id__2208">
-                  <persName>Kremer, ???</persName>
+                  <persName>Kremer, Fritz</persName>
+                  <note type="bio">
+                     <p>Hallenser Wingolfit; kommt im Sommer 1906 aus Bonn nach Halle.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2209">
                   <persName>Stelz, ???</persName>
@@ -13757,9 +13773,9 @@
                   <persName>Fritsch, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2341">
-                  <persName>Heydemeyer, ???</persName>
+                  <persName>Meyer zur Heyde, Hermann</persName>
                   <note type="bio">
-                     <p>Er war ein Hallenser Wingolfit.</p>
+                     <p>Er war ein Hallenser Wingolfit und wurde Heydemeyer genannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2342">
@@ -15402,7 +15418,10 @@
                   <persName>Rosenbusch, Agnes</persName>
                </person>
                <person xml:id="tillich_person_id__2493">
-                  <persName>Nida, ???</persName>
+                  <persName>von Nida, Gudrun</persName>
+                  <note type="bio">
+                     <p>Studentin Tillichs in Frankfurt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2494">
                   <persName>Schultz, Franz</persName>
@@ -20926,6 +20945,12 @@
                </person>
                <person xml:id="tillich_person_id__3478">
                   <persName>Corbeck, ???</persName>
+                  <birth>
+                     <date>1892-11-06</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__634">Pleskau</placeName>
+                     </settlement>
+                  </birth>
                </person>
                <person xml:id="tillich_person_id__3479">
                   <persName/>
@@ -21870,9 +21895,6 @@
                </person>
                <person xml:id="tillich_person_id__3656">
                   <persName>???, Erhardt</persName>
-               </person>
-               <person xml:id="tillich_person_id__3657">
-                  <persName>Rosenstock, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3658">
                   <persName>Arlemann, ???</persName>
@@ -23453,6 +23475,74 @@
                </person>
                <person xml:id="tillich_person_id__4208">
                   <persName>Theologische Fakultät der Vereinigten Friedrichs-Universität Halle-Wittenberg</persName>
+               </person>
+               <person xml:id="tillich_person_id__4209">
+                  <persName>Bötzelen, Edith Emilie Wilhelmine</persName>
+               </person>
+               <person xml:id="tillich_person_id__4210">
+                  <persName>Luig, Ida</persName>
+                  <birth>
+                     <date>1860-05-26</date>
+                     <settlement>
+                        <placeName>Riga</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-01-29</date>
+                     <settlement>
+                        <placeName>Tartu</placeName>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__4211">
+                  <persName>Luig, Wilfred</persName>
+                  <birth>
+                     <date>1853</date>
+                     <settlement>
+                        <placeName>Tartu</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1926</date>
+                     <settlement>
+                        <placeName>Tartu</placeName>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__4212">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4214">
+                  <persName>Sohn-Rethel, Alfred</persName>
+               </person>
+               <person xml:id="tillich_person_id__4215">
+                  <persName>Barth, Walter</persName>
+                  <occupation>Mechaniker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4216">
+                  <persName>Barth, Renée</persName>
+               </person>
+               <person xml:id="tillich_person_id__4217">
+                  <persName>Flake, Minna</persName>
+                  <birth>
+                     <date>1886-11-27</date>
+                     <settlement>
+                        <placeName>Würzurg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-02-12</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Sozialistin, Kinderärztin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11952385X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4218">
+                  <persName>Corbett, Percy</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1022007440</idno>
                </person>
             </listPerson>
          </div>

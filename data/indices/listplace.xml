@@ -6170,6 +6170,22 @@
                   <idno type="geonames">https://sws.geonames.org/7534636/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q5576682</idno>
                </place>
+               <place xml:id="tillich_place_id__1157">
+                  <placeName>Staffelde (Staw)</placeName>
+                  <location type="coords">
+                     <geo>52.86441 14.92630</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3084731/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7604879</idno>
+               </place>
+               <place xml:id="tillich_place_id__1158">
+                  <placeName>Martinique</placeName>
+                  <location type="coords">
+                     <geo>14.66281 -61.00416</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3570312/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q17054</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -9370,5 +9370,27 @@
     "latitude": "51.00933",
     "longitude": "16.59794",
     "wikidata_url": "http://www.wikidata.org/entity/Q5576682"
+  },
+  "1157": {
+    "id": 1157,
+    "order": "981.00000000000000000000",
+    "name": "Staffelde (Staw)",
+    "tillich_id": "tillich_place_id__1157",
+    "geonames_url": "https://sws.geonames.org/3084731/",
+    "Working Notes": "",
+    "latitude": "52.86441",
+    "longitude": "14.92630",
+    "wikidata_url": "http://www.wikidata.org/entity/Q7604879"
+  },
+  "1158": {
+    "id": 1158,
+    "order": "982.00000000000000000000",
+    "name": "Martinique",
+    "tillich_id": "tillich_place_id__1158",
+    "geonames_url": "https://www.geonames.org/3570312/",
+    "Working Notes": "",
+    "latitude": "14.66281",
+    "longitude": "-61.00416",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q17054"
   }
 }
