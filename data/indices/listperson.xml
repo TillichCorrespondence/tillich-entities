@@ -2039,10 +2039,16 @@
                <person xml:id="tillich_person_id__310">
                   <persName>Büchsel, Friedrich Hermann Martin</persName>
                   <birth>
-                     <date>1883</date>
+                     <date>1883-07-02</date>
+                     <settlement>
+                        <placeName>Stücken</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1945</date>
+                     <date>1945-05-05</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__370">Rostock</placeName>
+                     </settlement>
                   </death>
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
@@ -3337,6 +3343,10 @@
                </person>
                <person xml:id="tillich_person_id__642">
                   <persName>Fritz, Gottlieb</persName>
+                  <occupation>Missionsinspektor</occupation>
+                  <note type="bio">
+                     <p>Vater von Alfred Fritz</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__643">
                   <persName>Fritz (geb. Horn), Gertrude</persName>
@@ -5003,6 +5013,12 @@
                </person>
                <person xml:id="tillich_person_id__1061">
                   <persName>Klein, Ernst August Ferdinand</persName>
+                  <birth>
+                     <date>1863-04-18</date>
+                     <settlement>
+                        <placeName>Wohlau</placeName>
+                     </settlement>
+                  </birth>
                   <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
                </person>
                <person xml:id="tillich_person_id__1062">
@@ -7857,6 +7873,12 @@
                </person>
                <person xml:id="tillich_person_id__1743">
                   <persName>Schubert, Daniel</persName>
+                  <birth>
+                     <date>1886-10-23</date>
+                  </birth>
+                  <death>
+                     <date>1975-05-21</date>
+                  </death>
                   <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1744">
@@ -11423,18 +11445,10 @@
                </person>
                <person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>
-                  <birth>
-                     <date>1666-12-07</date>
-                     <settlement>
-                        <placeName>Riga-Daugavgriva</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1728-03-24</date>
-                  </death>
+                  <occupation>siehe Brief von Wilhelm Ruprecht an Paul Tillich vom 26. Oktober 1920 und:https://spd-goettingen.de/wp-content/uploads/2021/03/009-Bluemel-Arbeit-und-Leben-195-214.pdf</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
                   <note type="bio">
-                     <p>Hermann Witte (1882–1955) leitete von 1918 bis 1923 die Volkshochschule in Königsberg.</p>
+                     <p>Hermann Witte (1882–1955) leitete von 1918 bis 1923 die Volkshochschule in Königsberg (Preußen).</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2092">
@@ -12257,19 +12271,10 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2161">
-                  <persName>Gaul, ???</persName>
-                  <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
+                  <persName>Gaul, Adolf</persName>
                </person>
                <person xml:id="tillich_person_id__2162">
                   <persName>Lorenz, ???</persName>
-                  <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
-               </person>
-               <person xml:id="tillich_person_id__2163">
-                  <persName>Hessig, ???</persName>
                   <note type="bio">
                      <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
                   </note>
@@ -12314,12 +12319,6 @@
                   </death>
                   <note type="bio">
                      <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
-               </person>
-               <person xml:id="tillich_person_id__2170">
-                  <persName>???, Daniel</persName>
-                  <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2171">
@@ -12639,7 +12638,7 @@
                   <persName>Stelz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2210">
-                  <persName>Wittekindt, ???</persName>
+                  <persName>Wittekindt, Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__2211">
                   <persName>Wendelmuth, (Frau)</persName>
@@ -12835,11 +12834,14 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2239">
-                  <persName>Elbrechts, ???</persName>
-                  <occupation>Theologe;</occupation>
-                  <note type="bio">
-                     <p>Er wirkte als Candidatus Theologiae in Ostfriesland.</p>
-                  </note>
+                  <persName>Elbrechtz, Albertus</persName>
+                  <birth>
+                     <date>1885-01-25</date>
+                     <settlement>
+                        <placeName>Emden</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>Pfarrer; Mitglied der Bekennenden Kirche</occupation>
                </person>
                <person xml:id="tillich_person_id__2240">
                   <persName>Walz, Michael</persName>
@@ -12869,6 +12871,9 @@
                </person>
                <person xml:id="tillich_person_id__2243">
                   <persName>Hessig, Otto</persName>
+                  <birth>
+                     <date>1883-09-08</date>
+                  </birth>
                   <death>
                      <date>1945</date>
                   </death>
@@ -13109,7 +13114,19 @@
                </person>
                <person xml:id="tillich_person_id__2275">
                   <persName>Büchsel, Johannes Friedrich Wilhelm</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <birth>
+                     <date>1849-09-19</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1920-02-21</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer; Generalsuperintendent in Stettin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117718580</idno>
                   <note type="bio">
                      <p>Er war der Vater von Hermann Martin Friedrich Büchsel.</p>
@@ -18329,7 +18346,10 @@
                   <persName>Schetelig, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2882">
-                  <persName>Schubert, ???</persName>
+                  <persName>Schubert, Anna Theodora Kornelia</persName>
+                  <note type="bio">
+                     <p>geb. Hesse</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2883">
                   <persName>Aé, Karl</persName>
@@ -18894,7 +18914,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2988">
-                  <persName>André Malraux</persName>
+                  <persName>Malraux, André</persName>
                   <occupation>frz. Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118576844</idno>
                   <note type="bio">
@@ -23543,6 +23563,9 @@
                   <persName>Corbett, Percy</persName>
                   <occupation>Jurist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1022007440</idno>
+               </person>
+               <person xml:id="tillich_person_id__4219">
+                  <persName>Archibald, Sanford</persName>
                </person>
             </listPerson>
          </div>
