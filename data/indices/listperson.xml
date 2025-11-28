@@ -18482,7 +18482,8 @@
                   <persName>Kule, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2902">
-                  <persName>???, Erich August Wilhelm</persName>
+                  <persName>von Preußen, August Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117746525</idno>
                </person>
                <person xml:id="tillich_person_id__2903">
                   <persName>W., (Herr von)</persName>
@@ -23566,6 +23567,18 @@
                </person>
                <person xml:id="tillich_person_id__4219">
                   <persName>Archibald, Sanford</persName>
+               </person>
+               <person xml:id="tillich_person_id__4252">
+                  <persName>Silverman, Sol</persName>
+                  <occupation>Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4253">
+                  <persName>Leslie, Kenneth</persName>
+                  <occupation>Dichter, politische Aktivist, Editor des "Protestant"</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4254">
+                  <persName>Parkhill, Wilson</persName>
+                  <occupation>Headmaster of Collegiate College, New York</occupation>
                </person>
             </listPerson>
          </div>
