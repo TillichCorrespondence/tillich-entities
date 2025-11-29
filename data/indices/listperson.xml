@@ -17310,7 +17310,7 @@
                   <persName>???, Anna</persName>
                </person>
                <person xml:id="tillich_person_id__2722">
-                  <persName>???, (Unbekannt)</persName>
+                  <persName>Unbekannt</persName>
                </person>
                <person xml:id="tillich_person_id__2723">
                   <persName>Fuchs, ???</persName>
@@ -23579,6 +23579,35 @@
                <person xml:id="tillich_person_id__4254">
                   <persName>Parkhill, Wilson</persName>
                   <occupation>Headmaster of Collegiate College, New York</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4255">
+                  <persName>Kandeler, Johanna</persName>
+                  <note type="bio">
+                     <p>geb. Wedell</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4256">
+                  <persName>Siemsen, Anna</persName>
+                  <birth>
+                     <date>1882-01-18</date>
+                     <settlement>
+                        <placeName>Mark (Hamm)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1951-01-22</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pädagogin, Politikerin, Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11895783X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4257">
+                  <persName>Dickhaut, Walter</persName>
+                  <birth>
+                     <date>1913-10-24</date>
+                  </birth>
                </person>
             </listPerson>
          </div>
