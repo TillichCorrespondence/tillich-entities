@@ -9403,5 +9403,27 @@
     "latitude": "22.00000",
     "longitude": "-79.50000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q241"
+  },
+  "1192": {
+    "id": 1192,
+    "order": "984.00000000000000000000",
+    "name": "Villemard",
+    "tillich_id": "tillich_place_id__1192",
+    "geonames_url": "https://www.geonames.org/2995582/",
+    "Working Notes": "",
+    "latitude": "47.64815",
+    "longitude": "1.30662",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1170145"
+  },
+  "1193": {
+    "id": 1193,
+    "order": "985.00000000000000000000",
+    "name": "Castres",
+    "tillich_id": "tillich_place_id__1193",
+    "geonames_url": "https://www.geonames.org/3028263/",
+    "Working Notes": "",
+    "latitude": "43.60527",
+    "longitude": "2.24088",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q188776"
   }
 }

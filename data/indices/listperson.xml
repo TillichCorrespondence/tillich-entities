@@ -13361,7 +13361,7 @@
                   <birth>
                      <date>1859</date>
                      <settlement>
-                        <placeName>Castres</placeName>
+                        <placeName key="#tillich_place_id__1193">Castres</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -23607,7 +23607,17 @@
                   <persName>Dickhaut, Walter</persName>
                   <birth>
                      <date>1913-10-24</date>
+                     <settlement>
+                        <placeName>Frankfurt a.M.</placeName>
+                     </settlement>
                   </birth>
+               </person>
+               <person xml:id="tillich_person_id__4258">
+                  <persName>Drummond, Lindsay</persName>
+                  <occupation>Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4259">
+                  <persName>Attkinson, Mrs</persName>
                </person>
             </listPerson>
          </div>

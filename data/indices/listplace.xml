@@ -6194,6 +6194,22 @@
                   <idno type="geonames">https://sws.geonames.org/3562981/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q241</idno>
                </place>
+               <place xml:id="tillich_place_id__1192">
+                  <placeName>Villemard</placeName>
+                  <location type="coords">
+                     <geo>47.64815 1.30662</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2995582/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1170145</idno>
+               </place>
+               <place xml:id="tillich_place_id__1193">
+                  <placeName>Castres</placeName>
+                  <location type="coords">
+                     <geo>43.60527 2.24088</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3028263/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q188776</idno>
+               </place>
             </listPlace>
          </div>
       </body>
