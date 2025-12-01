@@ -1740,11 +1740,12 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1196</idno>
                </place>
                <place xml:id="tillich_place_id__289">
-                  <placeName>Mentone</placeName>
+                  <placeName>Menton</placeName>
                   <location type="coords">
                      <geo>43.52543 6.28306</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/12319349/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q180083</idno>
                </place>
                <place xml:id="tillich_place_id__291">
                   <placeName>Mesopotamien</placeName>
