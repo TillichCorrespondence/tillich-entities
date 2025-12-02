@@ -15598,6 +15598,7 @@
                         <placeName>Moosburg a.d. Isar</placeName>
                      </settlement>
                   </death>
+                  <occupation>NSDAP Mitglied; als "Erziehungswissenschaftler" angestellt.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118566806</idno>
                </person>
                <person xml:id="tillich_person_id__2506">
@@ -21990,7 +21991,8 @@
                   <occupation>Erstchargierte des geschäftsführenden Straßburger Wingolfs</occupation>
                </person>
                <person xml:id="tillich_person_id__3710">
-                  <persName>Heppe, ???</persName>
+                  <persName>Heppe, Otto</persName>
+                  <occupation>Amtsrichter</occupation>
                </person>
                <person xml:id="tillich_person_id__3711">
                   <persName/>
@@ -23618,6 +23620,15 @@
                </person>
                <person xml:id="tillich_person_id__4259">
                   <persName>Attkinson, Mrs</persName>
+               </person>
+               <person xml:id="tillich_person_id__4260">
+                  <persName>Wisser, August</persName>
+                  <birth>
+                     <date>1880</date>
+                  </birth>
+                  <note type="bio">
+                     <p>1914 Assessor bei der Frankfurter Staatsanwaltschaft, 1920 Staatsanwaltschaftsrat, 1932 Amtgerichtsrat, vor 1933 Mitglied der NSDAP, 1933 Ernennung zum Geschäftsführer des Kuratoriums der Universität, 1947 als Mitläufer zu einer Geldstrafe verurteilt</p>
+                  </note>
                </person>
             </listPerson>
          </div>
