@@ -12722,7 +12722,7 @@
                   <persName>Flittner, Else</persName>
                </person>
                <person xml:id="tillich_person_id__2221">
-                  <persName>Diehl, ???</persName>
+                  <persName>Diehl, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2222">
                   <persName>Stieglitz, ???</persName>
@@ -14381,7 +14381,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1044769491</idno>
                   <note type="bio">
-                     <p>Sie war die Frau von Reinhold Schairer.</p>
+                     <p>Sie war die Frau von Reinhold Schairer und in erster Ehe mit Erich von Mendelssohn verheiratet.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2404">
@@ -17087,7 +17087,8 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2692">
-                  <persName>???, Liese</persName>
+                  <persName>Hirsch, Liese</persName>
+                  <occupation>Schwester von Annie Jacker</occupation>
                </person>
                <person xml:id="tillich_person_id__2693">
                   <persName>Seidel, Heinrich Wolfgang</persName>
@@ -17283,7 +17284,10 @@
                   <occupation>Arzt</occupation>
                </person>
                <person xml:id="tillich_person_id__2717">
-                  <persName>Harder, Braut</persName>
+                  <persName>Harder, Käthe</persName>
+                  <note type="bio">
+                     <p>geb. Treplin</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2718">
                   <persName>Preußen, Wilhelm von</persName>
@@ -18172,7 +18176,7 @@
                   <persName>???, Jens</persName>
                </person>
                <person xml:id="tillich_person_id__2861">
-                  <persName>???, Martin</persName>
+                  <persName>Harder, Martin</persName>
                </person>
                <person xml:id="tillich_person_id__2862">
                   <persName>Wagner, Hermann</persName>
@@ -23628,6 +23632,31 @@
                   </birth>
                   <note type="bio">
                      <p>1914 Assessor bei der Frankfurter Staatsanwaltschaft, 1920 Staatsanwaltschaftsrat, 1932 Amtgerichtsrat, vor 1933 Mitglied der NSDAP, 1933 Ernennung zum Geschäftsführer des Kuratoriums der Universität, 1947 als Mitläufer zu einer Geldstrafe verurteilt</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4293">
+                  <persName>Landmann, Gustav</persName>
+               </person>
+               <person xml:id="tillich_person_id__4294">
+                  <persName>Voss-Dölzig, Max Graf von</persName>
+                  <birth>
+                     <date>1837-04-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__129">Dölzig</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922</date>
+                  </death>
+                  <occupation>Fideikommissherr auf Dölzig und Her auf Stavenow</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4295">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4296">
+                  <persName>Voss-Dölzig, Luise Gräfin von</persName>
+                  <note type="bio">
+                     <p>geb. von Block, zweite Ehefrau des Grafen Max von Voss-Dölzig und Schwester dessen erster Ehefrau Amelie von Block (gest. am 22. April 1893).</p>
                   </note>
                </person>
             </listPerson>
