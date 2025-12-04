@@ -9425,5 +9425,71 @@
     "latitude": "43.60527",
     "longitude": "2.24088",
     "wikidata_url": "https://www.wikidata.org/wiki/Q188776"
+  },
+  "1226": {
+    "id": 1226,
+    "order": "986.00000000000000000000",
+    "name": "Königsfeld im Schwarzwald",
+    "tillich_id": "tillich_place_id__1226",
+    "geonames_url": "https://sws.geonames.org/2885888/",
+    "Working Notes": "",
+    "latitude": "48.13814",
+    "longitude": "8.41973",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32595730"
+  },
+  "1227": {
+    "id": 1227,
+    "order": "987.00000000000000000000",
+    "name": "Königsfeld in der Eifel",
+    "tillich_id": "tillich_place_id__1227",
+    "geonames_url": "https://sws.geonames.org/6553318/",
+    "Working Notes": "",
+    "latitude": "50.50000",
+    "longitude": "7.18333",
+    "wikidata_url": "http://www.wikidata.org/entity/Q675574"
+  },
+  "1228": {
+    "id": 1228,
+    "order": "989.00000000000000000000",
+    "name": "Punta della Chiappa",
+    "tillich_id": "tillich_place_id__1228",
+    "geonames_url": "https://sws.geonames.org/3224524/",
+    "Working Notes": "",
+    "latitude": "44.32486",
+    "longitude": "9.15020",
+    "wikidata_url": ""
+  },
+  "1229": {
+    "id": 1229,
+    "order": "990.00000000000000000000",
+    "name": "Punta di a Chiappa",
+    "tillich_id": "tillich_place_id__1229",
+    "geonames_url": "https://sws.geonames.org/3025202/",
+    "Working Notes": "",
+    "latitude": "41.59386",
+    "longitude": "9.36508",
+    "wikidata_url": ""
+  },
+  "1230": {
+    "id": 1230,
+    "order": "991.00000000000000000000",
+    "name": "Portofino",
+    "tillich_id": "tillich_place_id__1230",
+    "geonames_url": "https://sws.geonames.org/3170092/",
+    "Working Notes": "",
+    "latitude": "44.30349",
+    "longitude": "9.20942",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33707987"
+  },
+  "1231": {
+    "id": 1231,
+    "order": "992.00000000000000000000",
+    "name": "Berlin-Lankwitz",
+    "tillich_id": "tillich_place_id__1231",
+    "geonames_url": "https://sws.geonames.org/2880498/",
+    "Working Notes": "",
+    "latitude": "52.43623",
+    "longitude": "13.34590",
+    "wikidata_url": "http://www.wikidata.org/entity/Q671474"
   }
 }

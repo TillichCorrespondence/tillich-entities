@@ -6211,6 +6211,52 @@
                   <idno type="geonames">https://sws.geonames.org/3028263/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q188776</idno>
                </place>
+               <place xml:id="tillich_place_id__1226">
+                  <placeName>Königsfeld im Schwarzwald</placeName>
+                  <location type="coords">
+                     <geo>48.13814 8.41973</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2885888/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32595730</idno>
+               </place>
+               <place xml:id="tillich_place_id__1227">
+                  <placeName>Königsfeld in der Eifel</placeName>
+                  <location type="coords">
+                     <geo>50.50000 7.18333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6553318/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q675574</idno>
+               </place>
+               <place xml:id="tillich_place_id__1228">
+                  <placeName>Punta della Chiappa</placeName>
+                  <location type="coords">
+                     <geo>44.32486 9.15020</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3224524/</idno>
+               </place>
+               <place xml:id="tillich_place_id__1229">
+                  <placeName>Punta di a Chiappa</placeName>
+                  <location type="coords">
+                     <geo>41.59386 9.36508</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3025202/</idno>
+               </place>
+               <place xml:id="tillich_place_id__1230">
+                  <placeName>Portofino</placeName>
+                  <location type="coords">
+                     <geo>44.30349 9.20942</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3170092/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33707987</idno>
+               </place>
+               <place xml:id="tillich_place_id__1231">
+                  <placeName>Berlin-Lankwitz</placeName>
+                  <location type="coords">
+                     <geo>52.43623 13.34590</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2880498/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q671474</idno>
+               </place>
             </listPlace>
          </div>
       </body>

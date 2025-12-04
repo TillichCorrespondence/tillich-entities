@@ -2818,9 +2818,17 @@
   "493": {
     "id": 493,
     "order": "358.00000000000000000000",
-    "name": "",
+    "name": "Strindberg, August. Rausch Totentanz. München/Leipzig: Georg Müller, 1912.",
     "working_note": "",
     "tillich_id": "tillich_work_id__493",
     "zotero": "BGIXEJJY"
+  },
+  "494": {
+    "id": 494,
+    "order": "359.00000000000000000000",
+    "name": "Doebber, O. „Bestand des Wingolfsbundes am Anfang des Winter-Semesters 1907/08“. Wingolfs-Blätter (1907/08) 37, Nr. Beilage zu Nr. 5 (2. Dezember 1907).",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__494",
+    "zotero": "JQHK86DG"
   }
 }

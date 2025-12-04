@@ -16841,7 +16841,11 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2654">
-                  <persName>???, (Elses Schwester)</persName>
+                  <persName>Lewy, Flora</persName>
+                  <birth>
+                     <date>1892-07-27</date>
+                  </birth>
+                  <occupation>Schwester von Else Staudinger (geb. Maier)</occupation>
                </person>
                <person xml:id="tillich_person_id__2655">
                   <persName>Klotz, Evamaria</persName>
@@ -19493,7 +19497,7 @@
                   <persName>Frau Levi</persName>
                </person>
                <person xml:id="tillich_person_id__3105">
-                  <persName>Herr Stensbeck</persName>
+                  <persName>Frau Stensbeck</persName>
                </person>
                <person xml:id="tillich_person_id__3106">
                   <persName>Frau Eberth</persName>
@@ -19596,7 +19600,8 @@
                   <persName>Zollfelder, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3131">
-                  <persName>Zucker, ???</persName>
+                  <persName>Zucker, Marcus</persName>
+                  <occupation>Oberbibliothekar</occupation>
                </person>
                <person xml:id="tillich_person_id__3132">
                   <persName>Hebrote, ???</persName>
@@ -23658,6 +23663,17 @@
                   <note type="bio">
                      <p>geb. von Block, zweite Ehefrau des Grafen Max von Voss-Dölzig und Schwester dessen erster Ehefrau Amelie von Block (gest. am 22. April 1893).</p>
                   </note>
+               </person>
+               <person xml:id="tillich_person_id__4298">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4299">
+                  <persName>Reichenbach, Hans</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118599135</idno>
+               </person>
+               <person xml:id="tillich_person_id__4300">
+                  <persName>Strauß, Otto</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117312312</idno>
                </person>
             </listPerson>
          </div>
