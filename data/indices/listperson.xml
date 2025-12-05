@@ -9258,7 +9258,7 @@
                   <death>
                      <date>1955-11-10</date>
                      <settlement>
-                        <placeName>Mainz</placeName>
+                        <placeName key="#tillich_place_id__1233">Mainz</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/133789098</idno>
@@ -11984,7 +11984,7 @@
                   <birth>
                      <date>1879-07-19</date>
                      <settlement>
-                        <placeName>Hagen</placeName>
+                        <placeName key="#tillich_place_id__1234">Hagen</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12170,9 +12170,19 @@
                </person>
                <person xml:id="tillich_person_id__2147">
                   <persName>Vethake, Hans</persName>
+                  <birth>
+                     <date>1885-12-13</date>
+                     <settlement>
+                        <placeName>Waltrop</placeName>
+                     </settlement>
+                  </birth>
                   <death>
-                     <date>1968</date>
+                     <date>1968-07-19</date>
+                     <settlement>
+                        <placeName>Ferndorf</placeName>
+                     </settlement>
                   </death>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2148">
                   <persName>Schlemm, ???</persName>
@@ -13551,7 +13561,7 @@
                   <birth>
                      <date>1883-04-10</date>
                      <settlement>
-                        <placeName>Mainz</placeName>
+                        <placeName key="#tillich_place_id__1233">Mainz</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16946,7 +16956,7 @@
                   <birth>
                      <date>1888-11-17</date>
                      <settlement>
-                        <placeName>Mainz</placeName>
+                        <placeName key="#tillich_place_id__1233">Mainz</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -17987,7 +17997,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2826">
-                  <persName>Tanl, Wilhelm</persName>
+                  <persName>Pahl, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2827">
                   <persName>???, Rudi</persName>
@@ -18453,7 +18463,7 @@
                   <birth>
                      <date>1906-08-01</date>
                      <settlement>
-                        <placeName>Hagen</placeName>
+                        <placeName key="#tillich_place_id__1234">Hagen</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -18568,9 +18578,19 @@
                </person>
                <person xml:id="tillich_person_id__2917">
                   <persName>Vethake, Fritz</persName>
+                  <birth>
+                     <date>1887-02-26</date>
+                     <settlement>
+                        <placeName>Waltrop</placeName>
+                     </settlement>
+                  </birth>
                   <death>
-                     <date>1953</date>
+                     <date>1953-08-05</date>
+                     <settlement>
+                        <placeName>Bischofshagen</placeName>
+                     </settlement>
                   </death>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2918">
                   <persName>Hans von Schubert</persName>
@@ -22639,7 +22659,8 @@
                   <persName>Herterich, Ludwig von</persName>
                </person>
                <person xml:id="tillich_person_id__3961">
-                  <persName>Ruwoldt</persName>
+                  <persName>Ruwoldt, Ludwig</persName>
+                  <occupation>Fuchs des Göttinger Wingolfs, gest. am 6.09.1907 (Bestandsliste Wingolf WS 07/08, S. 2))</occupation>
                </person>
                <person xml:id="tillich_person_id__3962">
                   <persName/>

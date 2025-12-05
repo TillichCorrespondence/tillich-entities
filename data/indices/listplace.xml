@@ -6257,6 +6257,30 @@
                   <idno type="geonames">https://sws.geonames.org/2880498/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q671474</idno>
                </place>
+               <place xml:id="tillich_place_id__1232">
+                  <placeName>Wetzlar</placeName>
+                  <location type="coords">
+                     <geo>50.56109 8.50495</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2809889/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4178</idno>
+               </place>
+               <place xml:id="tillich_place_id__1233">
+                  <placeName>Mainz</placeName>
+                  <location type="coords">
+                     <geo>49.99167 8.25361</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3247465/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32067943</idno>
+               </place>
+               <place xml:id="tillich_place_id__1234">
+                  <placeName>Hagen</placeName>
+                  <location type="coords">
+                     <geo>51.36306 7.50778</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3221110/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2871</idno>
+               </place>
             </listPlace>
          </div>
       </body>

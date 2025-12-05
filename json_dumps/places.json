@@ -9491,5 +9491,38 @@
     "latitude": "52.43623",
     "longitude": "13.34590",
     "wikidata_url": "http://www.wikidata.org/entity/Q671474"
+  },
+  "1232": {
+    "id": 1232,
+    "order": "993.00000000000000000000",
+    "name": "Wetzlar",
+    "tillich_id": "tillich_place_id__1232",
+    "geonames_url": "https://sws.geonames.org/2809889/",
+    "Working Notes": "",
+    "latitude": "50.56109",
+    "longitude": "8.50495",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4178"
+  },
+  "1233": {
+    "id": 1233,
+    "order": "994.00000000000000000000",
+    "name": "Mainz",
+    "tillich_id": "tillich_place_id__1233",
+    "geonames_url": "https://sws.geonames.org/3247465/",
+    "Working Notes": "",
+    "latitude": "49.99167",
+    "longitude": "8.25361",
+    "wikidata_url": "http://www.wikidata.org/entity/Q32067943"
+  },
+  "1234": {
+    "id": 1234,
+    "order": "995.00000000000000000000",
+    "name": "Hagen",
+    "tillich_id": "tillich_place_id__1234",
+    "geonames_url": "https://sws.geonames.org/3221110/",
+    "Working Notes": "",
+    "latitude": "51.36306",
+    "longitude": "7.50778",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2871"
   }
 }
