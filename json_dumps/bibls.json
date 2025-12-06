@@ -2834,7 +2834,7 @@
   "495": {
     "id": 495,
     "order": "360.00000000000000000000",
-    "name": "[Anonym]. „Bekanntmachungen“. Wingolfs-Blätter (1906/07) 36, Nr. 23 (o. J.): 227.",
+    "name": "[Anonym]. „Bekanntmachungen“. Wingolfs-Blätter (1906/07) 36, Nr. 23 (1907): 227.",
     "working_note": "",
     "tillich_id": "tillich_work_id__495",
     "zotero": "7AA3EN2D"
@@ -2842,9 +2842,33 @@
   "496": {
     "id": 496,
     "order": "361.00000000000000000000",
-    "name": "",
+    "name": "Remmers, Johannes. „Erklärung“. Wingolfs-Blätter (1906/07) 36, Nr. 18 (1907): 161.",
     "working_note": "",
     "tillich_id": "tillich_work_id__496",
-    "zotero": ""
+    "zotero": "JJAH2HIH"
+  },
+  "497": {
+    "id": 497,
+    "order": "362.00000000000000000000",
+    "name": "Brachmann, Johannes. „Erklärung“. Wingolfs-Blätter (1906/07) 36, Nr. 21 (1907): 197.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__497",
+    "zotero": "QQIAQ35I"
+  },
+  "498": {
+    "id": 498,
+    "order": "363.00000000000000000000",
+    "name": "Tschudi, Rudolf. „Der Erlanger Wingolf an seine Bruderverbindungen“. Wingolfs-Blätter (1907/08) 37, Nr. 8 (1908): 74.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__498",
+    "zotero": "QQQF6AZ9"
+  },
+  "499": {
+    "id": 499,
+    "order": "364.00000000000000000000",
+    "name": "Gaiser, Konrad. „Bundesprotokoll für das I. Quartal des Wintersemesters 1907/08“. Wingolfs-Blätter (1907/08) 37, Nr. Vertrauliche Beilage zu No. 8 der „Wingolfs-Blätter“ 1908 (1908): 1.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__499",
+    "zotero": "MPZ84UVM"
   }
 }

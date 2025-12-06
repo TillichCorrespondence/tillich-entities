@@ -3970,7 +3970,10 @@
                </person>
                <person xml:id="tillich_person_id__800">
                   <persName>Harder, Erich</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <birth>
+                     <date>182-10-18</date>
+                  </birth>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__801">
                   <persName>Hardt, Ludwig</persName>
@@ -5621,6 +5624,9 @@
                <person xml:id="tillich_person_id__1205">
                   <persName>Lotz, Ernst</persName>
                   <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
+                  <note type="bio">
+                     <p>Er gehörte zu den sieben nach dem Wartburgfest 1907 Ende Mai/ Anfang Juni 1907 aus Protest gegen die Verbindung ausgetretenen Mitgliedern des Erlanger Wingolfs.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1206">
                   <persName>Lotze, Hermann</persName>
@@ -7809,7 +7815,7 @@
                   <persName>Schmidt-Rottluff, Karl</persName>
                </person>
                <person xml:id="tillich_person_id__1727">
-                  <persName>Schmidt-Stöcker, Marga</persName>
+                  <persName>Schmidt, M.</persName>
                </person>
                <person xml:id="tillich_person_id__1728">
                   <persName>Schmitt, Carl</persName>
@@ -12191,15 +12197,15 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2149">
-                  <persName>Fink, ???</persName>
+                  <persName>Fink, Georg</persName>
                   <note type="bio">
                      <p>Er war ein Philister im Bonner Wingolf.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2150">
-                  <persName>Meyer zu Stieghorst, ???</persName>
+                  <persName>Meyer zu Stieghorst, August</persName>
                   <note type="bio">
-                     <p>Er war ein Schulkamerade von Paul Tillichs Studienkollege Hans Schreiber</p>
+                     <p>Er gehörte zu den sieben nach dem Wartburgfest 1907 Ende Mai/ Anfang Juni 1907 aus Protest gegen die Verbindung ausgetretenen Mitgliedern des Erlanger Wingolfs.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2151">
@@ -12282,12 +12288,6 @@
                </person>
                <person xml:id="tillich_person_id__2161">
                   <persName>Gaul, Adolf</persName>
-               </person>
-               <person xml:id="tillich_person_id__2162">
-                  <persName>Lorenz, ???</persName>
-                  <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2164">
                   <persName>Jungklaussen, ???</persName>
@@ -12654,7 +12654,7 @@
                   <persName>Wendelmuth, (Frau)</persName>
                </person>
                <person xml:id="tillich_person_id__2212">
-                  <persName>Gräber, ???</persName>
+                  <persName>Gräber, Martin</persName>
                   <note type="bio">
                      <p>Er stand im Kontakt mit der Wingolfsverbindung in Göttingen.</p>
                   </note>
@@ -13089,7 +13089,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2271">
-                  <persName>Bromisch, ???</persName>
+                  <persName>Bronisch, Theodor</persName>
                   <note type="bio">
                      <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
                   </note>
@@ -13738,13 +13738,13 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2331">
-                  <persName>Giese, ???</persName>
+                  <persName>Giese, Arthur</persName>
                </person>
                <person xml:id="tillich_person_id__2332">
-                  <persName>Böke, ???</persName>
+                  <persName>Böke, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2333">
-                  <persName>Schetelig, O.</persName>
+                  <persName>Schetelig, Otto</persName>
                </person>
                <person xml:id="tillich_person_id__2334">
                   <persName>Mensching, Wilhelm</persName>
