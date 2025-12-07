@@ -5183,6 +5183,8 @@
                </person>
                <person xml:id="tillich_person_id__1102">
                   <persName>Krüger, Gerhard</persName>
+                  <occupation>Philosoph, Kulturwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118724703</idno>
                </person>
                <person xml:id="tillich_person_id__1103">
                   <persName>Krüsmann, Rudolf</persName>
@@ -23695,6 +23697,18 @@
                <person xml:id="tillich_person_id__4300">
                   <persName>Strauß, Otto</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117312312</idno>
+               </person>
+               <person xml:id="tillich_person_id__4301">
+                  <persName>Troeltsch, Marta</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117451061</idno>
+                  <note type="bio">
+                     <p>Ehefrau von Ernst Troeltsch</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4302">
+                  <persName>Le Fort, Gertrud von</persName>
+                  <occupation>Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118570951</idno>
                </person>
             </listPerson>
          </div>
