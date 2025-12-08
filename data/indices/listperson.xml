@@ -23710,6 +23710,28 @@
                   <occupation>Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118570951</idno>
                </person>
+               <person xml:id="tillich_person_id__4303">
+                  <persName>Kallen, Horace</persName>
+                  <birth>
+                     <date>1882-08-11</date>
+                     <settlement>
+                        <placeName>Bernstadt an der Weide</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1974-02-16</date>
+                     <settlement>
+                        <placeName>Palm Beach, Florida</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118984969</idno>
+               </person>
+               <person xml:id="tillich_person_id__4304">
+                  <persName>Saalheimer, Manfred</persName>
+                  <occupation>Rechtsanwalt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/126757844</idno>
+               </person>
             </listPerson>
          </div>
       </body>
