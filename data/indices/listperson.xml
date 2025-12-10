@@ -10847,7 +10847,7 @@
                   <persName>Werner, Marie Luise</persName>
                   <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
                   <note type="bio">
-                     <p>(kommt vor als M.L.)Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p>
+                     <p>Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2042">
@@ -12258,16 +12258,22 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2156">
-                  <persName>Oberschmidt, ???</persName>
+                  <persName>Oberschmidt, Hermann</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117077836</idno>
                   <note type="bio">
-                     <p>Er war der Leibfux eines Herrn namens Nickelby.</p>
+                     <p>Er war der Leibfux von Nikolaus Schuster, genannt "Nickelby".</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2157">
-                  <persName>Nickelby, C.</persName>
+                  <persName>Schuster, Nikolaus</persName>
+                  <birth>
+                     <date>1885-05-18</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__111">Collinghorst</placeName>
+                     </settlement>
+                  </birth>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Er war ein Studienkollege von Paul Tillich, genannt "Nickelby", wohl nach dem fiktiven Charakter Nicholas Nickleby, dem Protagonisten des gleichnamigen Gesellschaftstromans von Charles Dickens.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2158">
@@ -12766,8 +12772,20 @@
                </person>
                <person xml:id="tillich_person_id__2225">
                   <persName>Dürselen, Johanna Amalia Eugenia</persName>
+                  <birth>
+                     <date>1842-08-14</date>
+                     <settlement>
+                        <placeName>Odenkirchen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1909-04-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__540">Hanau</placeName>
+                     </settlement>
+                  </death>
                   <note type="bio">
-                     <p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p>
+                     <p>Tante Paul Tillichs mütterlicherseits; Halbschwester der Mutter Paul Tillichs aus der ersten Ehe deren Vaters Gustav Dürselen mit Amalia Dürselen (geb. Lüttringhausen) (1818-1857).</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2226">
@@ -13755,7 +13773,7 @@
                   </death>
                </person>
                <person xml:id="tillich_person_id__2335">
-                  <persName>Felden, ???</persName>
+                  <persName>Felden, Emil</persName>
                   <birth>
                      <date>1874-05-07</date>
                   </birth>
@@ -19315,8 +19333,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/118540548</idno>
                </person>
                <person xml:id="tillich_person_id__3068">
-                  <persName>Prof. Monz / Menz / Merz (?)</persName>
-                  <occupation>Klinikleiter</occupation>
+                  <persName>Stertz, Georg</persName>
+                  <birth>
+                     <date>1878-09-19</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1959-03-19</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Professor für Psychiatrie und Nervenkrankheiten an der Universität Marburg sowie Leiter der Psychiatrischen und Nervenklinik, ab 1926 Leiter der Nervenklinik der Universität Kiel.</occupation>
+                  <idno type="gnd">https://portal.dnb.de/opac/showFirstRecord?currentResultId=nid%3D105536787X%26any&amp;currentPosition=0</idno>
                </person>
                <person xml:id="tillich_person_id__3069">
                   <persName>Dossir</persName>
@@ -19325,7 +19356,13 @@
                   <persName>Wierkandt</persName>
                </person>
                <person xml:id="tillich_person_id__3071">
-                  <persName>Janßen, Enno</persName>
+                  <persName>Janssen, Enno</persName>
+                  <birth>
+                     <date>1883-03-31</date>
+                     <settlement>
+                        <placeName>Langeoog</placeName>
+                     </settlement>
+                  </birth>
                   <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>1921-1933 Pastor der Bodelschwinghschen Anstalt Bethel in Freistatt.</p>
@@ -21642,7 +21679,8 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__3576">
-                  <persName/>
+                  <persName>Grethen, Heinrich Jürgen</persName>
+                  <occupation>Pastor in Schmalförden</occupation>
                </person>
                <person xml:id="tillich_person_id__3577">
                   <persName>Bahr, Anna-Margareta</persName>
@@ -23297,7 +23335,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/116680555</idno>
                </person>
                <person xml:id="tillich_person_id__4099">
-                  <persName/>
+                  <persName>Kolbe, Elisabeth</persName>
+                  <note type="bio">
+                     <p>unsichere Lesart</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__4100">
                   <persName/>
@@ -23731,6 +23772,9 @@
                   <persName>Saalheimer, Manfred</persName>
                   <occupation>Rechtsanwalt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/126757844</idno>
+               </person>
+               <person xml:id="tillich_person_id__4305">
+                  <persName/>
                </person>
             </listPerson>
          </div>

@@ -2826,7 +2826,7 @@
   "494": {
     "id": 494,
     "order": "359.00000000000000000000",
-    "name": "Doebber, O. „Bestand des Wingolfsbundes am Anfang des Winter-Semesters 1907/08“. Wingolfs-Blätter (1907/08) 37, Nr. Beilage zu Nr. 5 (2. Dezember 1907).",
+    "name": "Doebber, Otto „Bestand des Wingolfsbundes am Anfang des Winter-Semesters 1907/08“. Wingolfs-Blätter (1907/08) 37, Nr. Beilage zu Nr. 5 (2. Dezember 1907).",
     "working_note": "",
     "tillich_id": "tillich_work_id__494",
     "zotero": "JQHK86DG"
@@ -2870,5 +2870,45 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__499",
     "zotero": "MPZ84UVM"
+  },
+  "500": {
+    "id": 500,
+    "order": "365.00000000000000000000",
+    "name": "Doebber, Otto. „Bestand des Wingolfsbundes am Schluß des Sommer-Semesters 1907“. Wingolfs-Blätter (1906/07) 36, Nr. Beilage zu Nr. 22 (1907).",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__500",
+    "zotero": "6K43USEV"
+  },
+  "501": {
+    "id": 501,
+    "order": "366.00000000000000000000",
+    "name": "Schmolze, Gerhard. „Kalthoff, Albert“. Neue Deutsche Biographie 11 (1977): 74f.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__501",
+    "zotero": "DTG8H9CJ"
+  },
+  "502": {
+    "id": 502,
+    "order": "367.00000000000000000000",
+    "name": "Auwärter, Thomas. „Kämpfe um die Religion“ - Der Bremer Radikalismus und der Diskurs um die Zivilreligion und Leitkultur im wilhelminischen Deutschland. Zeitschrift für Religionswissenschaft 22, Nr. 2 (2014): 176–225.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__502",
+    "zotero": "5XDH9985"
+  },
+  "503": {
+    "id": 503,
+    "order": "368.00000000000000000000",
+    "name": "Titius, Arthur. Der Bremer Radikalismus. Vortrag in der Versammlung der Freunde der christlichen Welt zu Marburg am 10. Oktober 1907 gehalten. Bd. 54. Sammlung gemeinverständlicher Vorträge und Schriften aus dem Gebiet der Theologie und Religionsgeschichte. Verlag von J.C.B. Mohr (Paul Siebeck), 1908.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__503",
+    "zotero": "RS6XGKMF"
+  },
+  "504": {
+    "id": 504,
+    "order": "369.00000000000000000000",
+    "name": "[Anonym]. „Anzeigen“. Die Christliche Welt (1907) 21, Nr. 36 (1907): 877.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__504",
+    "zotero": "CKJQU96U"
   }
 }
