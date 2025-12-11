@@ -1270,6 +1270,9 @@
                </person>
                <person xml:id="tillich_person_id__131">
                   <persName>Banzhaf, Friedrich</persName>
+                  <note type="bio">
+                     <p>1887-01-02</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__132">
                   <persName>Barbusse, Henri</persName>
@@ -12217,7 +12220,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2152">
-                  <persName>Goebel, ???</persName>
+                  <persName>Goebel, Gerhard</persName>
                   <birth>
                      <date>1855-03-08</date>
                      <settlement>
@@ -12298,10 +12301,20 @@
                   <persName>Gaul, Adolf</persName>
                </person>
                <person xml:id="tillich_person_id__2164">
-                  <persName>Jungklaussen, ???</persName>
-                  <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
+                  <persName>Jungclaussen, Herman</persName>
+                  <birth>
+                     <date>1887-08-30</date>
+                     <settlement>
+                        <placeName>Frankfurt/Oder</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1942-07-27</date>
+                     <settlement>
+                        <placeName>Reval</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Pastor</occupation>
                </person>
                <person xml:id="tillich_person_id__2165">
                   <persName>Heermann, Adolf</persName>
@@ -12364,9 +12377,9 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2175">
-                  <persName>Müller, ???</persName>
+                  <persName>Müller, Gottfried</persName>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Er war der Leibfux des Hallenser Wingolfiten Amos Hensmann.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2176">
@@ -12700,7 +12713,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/117429880</idno>
                </person>
                <person xml:id="tillich_person_id__2215">
-                  <persName>Ritter, Rudi</persName>
+                  <persName>Ritter, Rudolf</persName>
                </person>
                <person xml:id="tillich_person_id__2216">
                   <persName>Jarcke, Wilhelm</persName>
@@ -13817,7 +13830,7 @@
                   <occupation>Theologe; Autor;</occupation>
                </person>
                <person xml:id="tillich_person_id__2340">
-                  <persName>Fritsch, ???</persName>
+                  <persName>Fritsch, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__2341">
                   <persName>Meyer zur Heyde, Hermann</persName>
@@ -15800,12 +15813,6 @@
                      <p>Sie war die Tochter des phaiakischen Königs Alkinoos.</p>
                   </note>
                </person>
-               <person xml:id="tillich_person_id__2525">
-                  <persName>???, Claus</persName>
-                  <note type="bio">
-                     <p>Er war vermutlich ein Studienkollege von Paul Tillich.</p>
-                  </note>
-               </person>
                <person xml:id="tillich_person_id__2526">
                   <persName>Weik, Friedrich</persName>
                   <death>
@@ -15834,7 +15841,7 @@
                   <persName>???, Anna</persName>
                </person>
                <person xml:id="tillich_person_id__2530">
-                  <persName>Kühn, ???</persName>
+                  <persName>Kühn, Georg</persName>
                </person>
                <person xml:id="tillich_person_id__2531">
                   <persName>Vogt, ???</persName>
@@ -16144,19 +16151,8 @@
                </person>
                <person xml:id="tillich_person_id__2573">
                   <persName>Falk, Werner David</persName>
-                  <birth>
-                     <date>1929-01-04</date>
-                     <settlement>
-                        <placeName key="#tillich_place_id__244">Köln</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>2023-05-31</date>
-                     <settlement>
-                        <placeName>Washington, DC</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/119211084</idno>
+                  <occupation>Soziologe, Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1145381863</idno>
                </person>
                <person xml:id="tillich_person_id__2574">
                   <persName>Corot, Jean-Baptiste Camille</persName>
@@ -19325,7 +19321,10 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__3065">
-                  <persName/>
+                  <persName>Wilke, Käthe</persName>
+                  <note type="bio">
+                     <p>verw. Geh. Sanit. Rat in Halle a.d. Saale</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3066">
                   <persName>Goldstein, Moritz</persName>
@@ -19346,7 +19345,7 @@
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>Professor für Psychiatrie und Nervenkrankheiten an der Universität Marburg sowie Leiter der Psychiatrischen und Nervenklinik, ab 1926 Leiter der Nervenklinik der Universität Kiel.</occupation>
+                  <occupation>Professor für Psychiatrie und Nervenkrankheiten an der Universität Marburg sowie Leiter der Psychiatrischen und Nervenklinik, ab 1926 Leiter der Nervenklinik der Universität Kiel. Nach dem Zweiten Weltkrieg wurde Stertz zum kommissarischen Leiter der Psychiatrischen Klinik der Universität München ernannt. Seine Frau Gertrud war eine Tochter von Alois Alzheimer.</occupation>
                   <idno type="gnd">https://portal.dnb.de/opac/showFirstRecord?currentResultId=nid%3D105536787X%26any&amp;currentPosition=0</idno>
                </person>
                <person xml:id="tillich_person_id__3069">
@@ -19663,10 +19662,10 @@
                   <occupation>Oberbibliothekar</occupation>
                </person>
                <person xml:id="tillich_person_id__3132">
-                  <persName>Hebrote, ???</persName>
+                  <persName>Hebrock, Gustav</persName>
                </person>
                <person xml:id="tillich_person_id__3133">
-                  <persName>Happel, ???</persName>
+                  <persName>Hoppe, Hans Dietrich</persName>
                </person>
                <person xml:id="tillich_person_id__3134">
                   <persName>Arend, ???</persName>
@@ -23775,6 +23774,25 @@
                </person>
                <person xml:id="tillich_person_id__4305">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4306">
+                  <persName>Kontaris, Georgios</persName>
+                  <occupation>Gelehrter und Mönch des 17. Jahrhunderts</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4307">
+                  <persName>Fritsch, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__4308">
+                  <persName>Lotz, Wilhelm</persName>
+                  <occupation>Professor der Theologie</occupation>
+                  <note type="bio">
+                     <p>Er war der Vater von Ernst Lotz, einem der sieben nach dem Wartburgfest 1907 ausgetretenen Mitgliedern des Erlanger Wingolfs.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4309">
+                  <persName>Bulwer-Lytton, Edward George</persName>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11866493X</idno>
                </person>
             </listPerson>
          </div>

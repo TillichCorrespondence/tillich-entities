@@ -6281,7 +6281,15 @@
                   <idno type="geonames">https://sws.geonames.org/3221110/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2871</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__1236">
+                  <placeName>Großbritannien</placeName>
+                  <location type="coords">
+                     <geo>54.75844 -2.69531</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2635167/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q23666</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>
