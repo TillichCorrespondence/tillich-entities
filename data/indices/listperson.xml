@@ -13858,7 +13858,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/121447316</idno>
                </person>
                <person xml:id="tillich_person_id__2344">
-                  <persName>Schornbaum, ???</persName>
+                  <persName>Schornbaum, Karl</persName>
                   <birth>
                      <date>1875-03-07</date>
                      <settlement>
@@ -13871,13 +13871,14 @@
                         <placeName key="#tillich_place_id__327">Nürnberg</placeName>
                      </settlement>
                   </death>
+                  <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116922923</idno>
                </person>
                <person xml:id="tillich_person_id__2345">
-                  <persName>Grießhammer, ???</persName>
+                  <persName>Grißhammer, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2346">
-                  <persName>Rupprecht, ???</persName>
+                  <persName>Rupprecht, Johannes</persName>
                   <note type="bio">
                      <p>Er war ein Erlanger Wingolfit.</p>
                   </note>
@@ -13902,7 +13903,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2348">
-                  <persName>Hopfmüller, ???</persName>
+                  <persName>Hopfmüller, Wilhelm</persName>
                   <birth>
                      <date>1885</date>
                   </birth>
@@ -19655,7 +19656,7 @@
                   </birth>
                </person>
                <person xml:id="tillich_person_id__3130">
-                  <persName>Zollfelder, ???</persName>
+                  <persName>Zellfelder, August</persName>
                </person>
                <person xml:id="tillich_person_id__3131">
                   <persName>Zucker, Marcus</persName>
@@ -23793,6 +23794,21 @@
                   <persName>Bulwer-Lytton, Edward George</persName>
                   <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11866493X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4310">
+                  <persName>Remmers, Johannes</persName>
+               </person>
+               <person xml:id="tillich_person_id__4311">
+                  <persName>Bachmann, Philipp</persName>
+                  <note type="bio">
+                     <p>Philister des Erlanger Wingolfs.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4312">
+                  <persName>Weber, Heinrich</persName>
+                  <note type="bio">
+                     <p>Philister in Erlangen.</p>
+                  </note>
                </person>
             </listPerson>
          </div>
