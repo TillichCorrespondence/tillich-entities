@@ -4979,7 +4979,6 @@
                </person>
                <person xml:id="tillich_person_id__1050">
                   <persName>Kilger, Albert</persName>
-                  <occupation>Soldat</occupation>
                </person>
                <person xml:id="tillich_person_id__1051">
                   <persName>Kimball, Robert</persName>
@@ -12142,7 +12141,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118785273</idno>
                </person>
                <person xml:id="tillich_person_id__2142">
-                  <persName>Tielking, ???</persName>
+                  <persName>Tielking, Ludwig</persName>
                   <note type="bio">
                      <p>Er war Mitglied der Wingolfsverbindung in Göttingen.</p>
                   </note>
@@ -12211,12 +12210,6 @@
                   <persName>Meyer zu Stieghorst, August</persName>
                   <note type="bio">
                      <p>Er gehörte zu den sieben nach dem Wartburgfest 1907 Ende Mai/ Anfang Juni 1907 aus Protest gegen die Verbindung ausgetretenen Mitgliedern des Erlanger Wingolfs.</p>
-                  </note>
-               </person>
-               <person xml:id="tillich_person_id__2151">
-                  <persName>Kachler, ???</persName>
-                  <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2152">
@@ -12455,7 +12448,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2184">
-                  <persName>Kolfhaus, ???</persName>
+                  <persName>Kolfhaus, Adolf</persName>
                   <note type="bio">
                      <p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p>
                   </note>
@@ -17741,8 +17734,8 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2771">
-                  <persName>Kalweit, ???</persName>
-                  <occupation>Theologe;</occupation>
+                  <persName>Kalweit, Paul</persName>
+                  <occupation>Evangelischer Theologe; ab 1898 Direktor des schlesischen Predigerseminars in Naumburg am Queis (Nowogrodziec), ab 1912 Pfarrer an der Marienkirche in Danzig</occupation>
                </person>
                <person xml:id="tillich_person_id__2772">
                   <persName>Farke, ???</persName>
@@ -18576,10 +18569,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/104066598</idno>
                </person>
                <person xml:id="tillich_person_id__2912">
-                  <persName>Pritschow, ???</persName>
+                  <persName>Pritschow, Karl</persName>
+                  <occupation>Inhaber der Buchdruckerei, Buchbinderei, Buch- und Papierhandlung, Annoncen-Expedition in Halle/Saale.</occupation>
                </person>
                <person xml:id="tillich_person_id__2913">
-                  <persName>Magnif, Sr.</persName>
+                  <persName>Magnif.</persName>
                </person>
                <person xml:id="tillich_person_id__2914">
                   <persName/>
@@ -23809,6 +23803,11 @@
                   <note type="bio">
                      <p>Philister in Erlangen.</p>
                   </note>
+               </person>
+               <person xml:id="tillich_person_id__4313">
+                  <persName>Heimsoeth, Heinz</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11854800X</idno>
                </person>
             </listPerson>
          </div>
