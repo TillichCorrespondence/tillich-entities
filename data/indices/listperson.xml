@@ -1279,8 +1279,9 @@
                </person>
                <person xml:id="tillich_person_id__133">
                   <persName>Baring, Nina</persName>
+                  <occupation>Fürsorgerin, Lehrerin, Dozentin</occupation>
                   <note type="bio">
-                     <p>Studium der Philosophie, hörte u.a. Paul Tillich in Dresden.  Arbeitete als Fürsorgerin und als Dozentin an diversen Volkshochschulen. Nach dem Krieg zeitweise Mitwirkung als Übersetzerin Tillichs englischer Arbeiten ins Deutsche.</p>
+                     <p>Studium der Philosophie, u.a. bei Heidegger, aber auch z.B. in Dresden bei Paul Tillich. Arbeitete als Fürsorgerin und als Dozentin an diversen Volkshochschulen. Nach dem Krieg zeitweise Mitwirkung als Übersetzerin Tillichs englischer Arbeiten ins Deutsche.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__134">
@@ -1631,6 +1632,13 @@
                </person>
                <person xml:id="tillich_person_id__218">
                   <persName>Bienert, Erwin</persName>
+                  <birth>
+                     <date>1859-11-05</date>
+                  </birth>
+                  <death>
+                     <date>1930-12-03</date>
+                  </death>
+                  <occupation>Großindustrieller und Fabrikbesitzer</occupation>
                </person>
                <person xml:id="tillich_person_id__219">
                   <persName>Billström, Jakob</persName>
@@ -3064,6 +3072,18 @@
                </person>
                <person xml:id="tillich_person_id__574">
                   <persName>Faust, Erich</persName>
+                  <birth>
+                     <date>14.12.1893</date>
+                     <settlement>
+                        <placeName>Mülhausen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>26.11.1955</date>
+                     <settlement>
+                        <placeName>Traben-Trarbach</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Leitungsposition bei den Röchlinger Eisen- und Stahlwerke</occupation>
                </person>
                <person xml:id="tillich_person_id__575">
@@ -7131,6 +7151,9 @@
                </person>
                <person xml:id="tillich_person_id__1571">
                   <persName>Reichwein, Adolf</persName>
+                  <note type="bio">
+                     <p>Persönlicher Assistent des Kultusministers Carl Becker</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1572">
                   <persName>Reid, Thomas</persName>
@@ -13794,11 +13817,14 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2336">
-                  <persName>Büttner, ???</persName>
-                  <occupation>Pastor;</occupation>
-                  <note type="bio">
-                     <p>Er lebte und wirkte in Bremen.</p>
-                  </note>
+                  <persName>Büttner, Wilhelm Lüder Karl</persName>
+                  <birth>
+                     <date>16.10.1867</date>
+                  </birth>
+                  <death>
+                     <date>29.4.1926</date>
+                  </death>
+                  <occupation>Pastor zu Unser Lieben Frauen in Bremen (1905-1926)</occupation>
                </person>
                <person xml:id="tillich_person_id__2337">
                   <persName>Groeber, ???</persName>
@@ -19220,7 +19246,7 @@
                </person>
                <person xml:id="tillich_person_id__3039">
                   <persName>Mariechen</persName>
-                  <occupation>Meint evtl. Marie Luise Werner, die Schwester Hannah Tillichs.</occupation>
+                  <occupation>Vermutlich eine Haushaltshilfe o.ä. der Tillichs in Dresden.</occupation>
                </person>
                <person xml:id="tillich_person_id__3040">
                   <persName>Cramer, ???</persName>
@@ -23809,6 +23835,12 @@
                   <persName>Heimsoeth, Heinz</persName>
                   <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11854800X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4314">
+                  <persName>Ninus</persName>
+                  <note type="bio">
+                     <p>Nicht ermittelt.</p>
+                  </note>
                </person>
             </listPerson>
          </div>

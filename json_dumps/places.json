@@ -9546,5 +9546,16 @@
     "latitude": "54.75844",
     "longitude": "-2.69531",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23666"
+  },
+  "1238": {
+    "id": 1238,
+    "order": "998.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1238",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
