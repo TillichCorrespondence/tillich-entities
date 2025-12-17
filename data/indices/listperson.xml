@@ -1281,7 +1281,7 @@
                   <persName>Baring, Nina</persName>
                   <occupation>Fürsorgerin, Lehrerin, Dozentin</occupation>
                   <note type="bio">
-                     <p>Studium der Philosophie, u.a. bei Heidegger, aber auch z.B. in Dresden bei Paul Tillich. Arbeitete als Fürsorgerin und als Dozentin an diversen Volkshochschulen. Nach dem Krieg zeitweise Mitwirkung als Übersetzerin Tillichs englischer Arbeiten ins Deutsche.</p>
+                     <p>Studium der Philosophie, u.a. bei Heidegger, aber auch z.B. in Dresden bei Paul Tillich. Arbeitete als Fürsorgerin und als Dozentin an diversen Volkshochschulen. Sie konvertierte in den 1930er Jahren zum Katholizismus und stand u.a. in Kontakt mit Edith Stein. Nach dem Krieg zeitweise Mitwirkung als Übersetzerin Tillichs englischer Arbeiten ins Deutsche.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__134">
@@ -4359,7 +4359,7 @@
                   <death>
                      <date>1922-01-02</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__279">Marburg</placeName>
+                        <placeName>Marburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Deutscher Theologe</occupation>
@@ -10070,7 +10070,7 @@
                   <death>
                      <date>1970-10-30</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__279">Marburg</placeName>
+                        <placeName>Marburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Kunsthistoriker</occupation>
@@ -11700,7 +11700,7 @@
                   <death>
                      <date>1964-11-22</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__279">Marburg</placeName>
+                        <placeName>Marburg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118635441</idno>
@@ -12024,7 +12024,7 @@
                   <death>
                      <date>1972-04</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__279">Marburg</placeName>
+                        <placeName>Marburg</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/127949062</idno>
@@ -13098,7 +13098,7 @@
                   <persName>???, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2267">
-                  <persName>Kraut, Ts.</persName>
+                  <persName>Iskraut, Martin</persName>
                </person>
                <person xml:id="tillich_person_id__2268">
                   <persName>Valentinus, Gnosticus</persName>
@@ -13693,7 +13693,7 @@
                   <death>
                      <date>1950-07-20</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__279">Marburg</placeName>
+                        <placeName>Marburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Jurist;</occupation>
@@ -15110,7 +15110,7 @@
                   <death>
                      <date>1950-11-01</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__279">Marburg</placeName>
+                        <placeName>Marburg</placeName>
                      </settlement>
                   </death>
                   <occupation>Universitätskurator;</occupation>
@@ -18487,7 +18487,7 @@
                   <birth>
                      <date>1890-12-06</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__279">Marburg</placeName>
+                        <placeName>Marburg</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -18872,7 +18872,8 @@
                   <persName>???, Albert</persName>
                </person>
                <person xml:id="tillich_person_id__2968">
-                  <persName>Eißfeldt, O</persName>
+                  <persName>Eißfeldt, Otto</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118688499</idno>
                </person>
                <person xml:id="tillich_person_id__2969">
                   <persName>Lenz, ???</persName>
@@ -23840,6 +23841,12 @@
                   <persName>Ninus</persName>
                   <note type="bio">
                      <p>Nicht ermittelt.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4315">
+                  <persName>Voget, Friedrich</persName>
+                  <note type="bio">
+                     <p>Superintendent in Lingen a.d. Ems</p>
                   </note>
                </person>
             </listPerson>
