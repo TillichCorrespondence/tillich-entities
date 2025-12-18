@@ -71440,5 +71440,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4317": {
+    "id": 4317,
+    "order": "4012.00000000000000000000",
+    "name": "Fräulein Homberger",
+    "surname": "Homberger",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__4317",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
