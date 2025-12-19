@@ -12261,11 +12261,18 @@
                </person>
                <person xml:id="tillich_person_id__2154">
                   <persName>Stosch, Martin</persName>
+                  <birth>
+                     <date>1886-11-20</date>
+                     <settlement>
+                        <placeName>Helmstedt</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date>1964</date>
                   </death>
+                  <occupation>evangelischer Pfarrer</occupation>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Studienkollege Paul Tillichs</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2155">
@@ -12335,12 +12342,13 @@
                </person>
                <person xml:id="tillich_person_id__2165">
                   <persName>Heermann, Adolf</persName>
+                  <birth>
+                     <date>1887</date>
+                  </birth>
                   <death>
                      <date>1985</date>
                   </death>
-                  <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
+                  <occupation>evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2166">
                   <persName>Veit, ???</persName>
@@ -13086,16 +13094,14 @@
                   <persName>Gründler, Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__2263">
-                  <persName>Jäger, Th.</persName>
+                  <persName>Jäger, Theodor</persName>
+                  <occupation>evangelischer Pfarer</occupation>
                </person>
                <person xml:id="tillich_person_id__2264">
                   <persName>Starke, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2265">
                   <persName>Grüber, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__2266">
-                  <persName>???, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__2267">
                   <persName>Iskraut, Martin</persName>
@@ -23851,6 +23857,11 @@
                </person>
                <person xml:id="tillich_person_id__4317">
                   <persName>Fräulein Homberger</persName>
+               </person>
+               <person xml:id="tillich_person_id__4319">
+                  <persName>Laun, Rudolf</persName>
+                  <occupation>Jurist, Staatsrechtlehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118570188</idno>
                </person>
             </listPerson>
          </div>

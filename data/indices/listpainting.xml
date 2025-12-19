@@ -37,6 +37,7 @@
                <bibl xml:id="tillich_painting_id__5">
                   <title>La Gare. St. Lazare</title>
                   <author key="#tillich_person_id__1343">Monet, Claude</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2270028</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__6">
                   <title>Unloading the Cargo</title>
@@ -49,6 +50,7 @@
                <bibl xml:id="tillich_painting_id__8">
                   <title>Tavern Brawl</title>
                   <author key="#tillich_person_id__3085">Ostade, Adriaen van</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q63183268</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__9">
                   <title>Loose Living</title>
@@ -275,6 +277,16 @@
                <bibl xml:id="tillich_painting_id__66">
                   <title>Crucifixion</title>
                   <author key="#tillich_person_id__3101">Sutherland, Graham Vivian</author>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__67">
+                  <title>Landscape</title>
+                  <author key="#tillich_person_id__1667">Ruysdael, Jakob van</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q20177629</idno>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__68">
+                  <title>Landscape: The Parc Monceau</title>
+                  <author key="#tillich_person_id__1343">Monet, Claude</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q19905447</idno>
                </bibl>
             </listBibl>
          </div>

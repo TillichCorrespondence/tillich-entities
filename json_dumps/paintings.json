@@ -59,7 +59,7 @@
     "id": 5,
     "order": "5.00000000000000000000",
     "title": "La Gare. St. Lazare",
-    "wikidata": "",
+    "wikidata": "Q2270028",
     "tillich_id": "tillich_painting_id__5",
     "painter": [
       {
@@ -101,7 +101,7 @@
     "id": 8,
     "order": "8.00000000000000000000",
     "title": "Tavern Brawl",
-    "wikidata": "",
+    "wikidata": "Q63183268",
     "tillich_id": "tillich_painting_id__8",
     "painter": [
       {
@@ -854,6 +854,34 @@
         "id": 3101,
         "value": "Sutherland, Graham Vivian",
         "order": "3093.00000000000000000000"
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "title": "Landscape",
+    "wikidata": "Q20177629",
+    "tillich_id": "tillich_painting_id__67",
+    "painter": [
+      {
+        "id": 1667,
+        "value": "Ruysdael, Jakob van",
+        "order": "1667.00000000000000000000"
+      }
+    ]
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "title": "Landscape: The Parc Monceau",
+    "wikidata": "Q19905447",
+    "tillich_id": "tillich_painting_id__68",
+    "painter": [
+      {
+        "id": 1343,
+        "value": "Monet, Claude",
+        "order": "1343.00000000000000000000"
       }
     ]
   }
