@@ -64,14 +64,17 @@
                <bibl xml:id="tillich_painting_id__11">
                   <title>Dr. Tulp's Anatomy Lesson</title>
                   <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q661378</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__12">
                   <title>Les Comédiens français</title>
                   <author key="#tillich_person_id__3086">Watteau, Jean-Antoine</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q19911603</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__13">
                   <title>Love in Italian Comedy</title>
                   <author key="#tillich_person_id__3086">Watteau, Jean-Antoine</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q47035621</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__14">
                   <title>Roman painting, Hellenistic, Fayoum mummy, 3rd century A.D.</title>
@@ -247,6 +250,7 @@
                <bibl xml:id="tillich_painting_id__59">
                   <title>Descent from the Cross</title>
                   <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q568100</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__60">
                   <title>The Last Supper</title>
@@ -277,16 +281,6 @@
                <bibl xml:id="tillich_painting_id__66">
                   <title>Crucifixion</title>
                   <author key="#tillich_person_id__3101">Sutherland, Graham Vivian</author>
-               </bibl>
-               <bibl xml:id="tillich_painting_id__67">
-                  <title>Landscape</title>
-                  <author key="#tillich_person_id__1667">Ruysdael, Jakob van</author>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q20177629</idno>
-               </bibl>
-               <bibl xml:id="tillich_painting_id__68">
-                  <title>Landscape: The Parc Monceau</title>
-                  <author key="#tillich_person_id__1343">Monet, Claude</author>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q19905447</idno>
                </bibl>
             </listBibl>
          </div>
