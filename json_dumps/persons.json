@@ -71458,5 +71458,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4320": {
+    "id": 4320,
+    "order": "4014.00000000000000000000",
+    "name": "Siemsen, August",
+    "surname": "Siemsen",
+    "forename": "August",
+    "from_to": "",
+    "occupation": "Pädagoge, Publizist, Journalist, Politiker",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/117367184",
+    "tillich_id": "tillich_person_id__4320",
+    "date_of_birth": "1884-07-05",
+    "date_of_death": "1958-03-25",
+    "working_note": "",
+    "place_of_birth": "Mark (Hamm)",
+    "place_of_death": "Düsseldorf"
+  },
+  "4321": {
+    "id": 4321,
+    "order": "4015.00000000000000000000",
+    "name": "Jordan, Charles Harold",
+    "surname": "Hordan",
+    "forename": "Charles Harold",
+    "from_to": "",
+    "occupation": "Philantrop",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__4321",
+    "date_of_birth": "1908-02-07",
+    "date_of_death": "1967-08",
+    "working_note": "",
+    "place_of_birth": "Philadelphia",
+    "place_of_death": "Prag"
   }
 }

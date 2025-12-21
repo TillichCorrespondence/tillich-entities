@@ -23863,6 +23863,39 @@
                   <occupation>Jurist, Staatsrechtlehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118570188</idno>
                </person>
+               <person xml:id="tillich_person_id__4320">
+                  <persName>Siemsen, August</persName>
+                  <birth>
+                     <date>1884-07-05</date>
+                     <settlement>
+                        <placeName>Mark (Hamm)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-03-25</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__130">Düsseldorf</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pädagoge, Publizist, Journalist, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117367184</idno>
+               </person>
+               <person xml:id="tillich_person_id__4321">
+                  <persName>Jordan, Charles Harold</persName>
+                  <birth>
+                     <date>1908-02-07</date>
+                     <settlement>
+                        <placeName>Philadelphia</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-08</date>
+                     <settlement>
+                        <placeName>Prag</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philantrop</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
