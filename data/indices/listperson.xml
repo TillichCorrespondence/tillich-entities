@@ -3323,7 +3323,10 @@
                   <persName>Friedrich II. der Große</persName>
                </person>
                <person xml:id="tillich_person_id__631">
-                  <persName>Friedrich III. (deutsches Reich)</persName>
+                  <persName>Friedrich III.</persName>
+                  <note type="bio">
+                     <p>Im März 1888 wird der ehemalige Kronprinz nach dem Tod seines Vaters Kaiser des Deutschen Reiches. Nach nur 99 Tagen stirbt er an den Folgen seiner Kehlkopferkrankung. Noch im selben Jahr, dem „Dreikaiserjahr“, wird sein Sohn Wilhelm II. sein Nachfolger.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__632">
                   <persName>Friedrich VI. von Hohenzollern</persName>
@@ -3378,14 +3381,16 @@
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
                   <birth>
-                     <date>1889</date>
+                     <date>1889-02-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__413">Starzeddel</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date>1920-01-05</date>
                   </death>
-                  <occupation>Sie war die Schwester von Paul Tillich und die erste Frau von Alfred Fritz. Sie war eine geborene Tillich.</occupation>
                   <note type="bio">
-                     <p>Manchmal Wumming genannt</p>
+                     <p>Schwester von Paul Tillich und erste Frau von Alfred Fritz. lhr Spitzname war "Wumming".</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__645">
@@ -7435,10 +7440,22 @@
                </person>
                <person xml:id="tillich_person_id__1635">
                   <persName>Röhricht, Eberhard</persName>
-                  <occupation>Pfarrer Berlin-Dahlem</occupation>
-               </person>
-               <person xml:id="tillich_person_id__1636">
-                  <persName>Röhricht, Rainer</persName>
+                  <birth>
+                     <date>1888-03-01</date>
+                     <settlement>
+                        <placeName>Horn b. Hamburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-08-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer in Berlin-Dahlem</occupation>
+                  <note type="bio">
+                     <p>Sein Spitzname war "Spatz".</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1637">
                   <persName>Romoser, Nancy C.</persName>
@@ -12362,12 +12379,6 @@
                      <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
                   </note>
                </person>
-               <person xml:id="tillich_person_id__2168">
-                  <persName>Schuster, Daniel</persName>
-                  <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
-               </person>
                <person xml:id="tillich_person_id__2169">
                   <persName>Struckmeier, Georg</persName>
                   <death>
@@ -12517,9 +12528,6 @@
                </person>
                <person xml:id="tillich_person_id__2189">
                   <persName>Scheurich, Hans</persName>
-               </person>
-               <person xml:id="tillich_person_id__2190">
-                  <persName>Spatz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2191">
                   <persName>???, Jonas</persName>
@@ -18636,22 +18644,6 @@
                   </death>
                   <occupation>Pfarrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__2918">
-                  <persName>Hans von Schubert</persName>
-                  <birth>
-                     <date>1859-12-12</date>
-                     <settlement>
-                        <placeName key="#tillich_place_id__126">Dresden</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1931-05-06</date>
-                     <settlement>
-                        <placeName>Heidelberg</placeName>
-                     </settlement>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/104066598</idno>
-               </person>
                <person xml:id="tillich_person_id__2919">
                   <persName>Müller, Nicolaus</persName>
                </person>
@@ -21539,9 +21531,6 @@
                   </death>
                   <occupation>Bildungsforscher</occupation>
                </person>
-               <person xml:id="tillich_person_id__3542">
-                  <persName>Schuster, Nikolaus</persName>
-               </person>
                <person xml:id="tillich_person_id__3543">
                   <persName>Voget, Hermann</persName>
                </person>
@@ -23895,6 +23884,9 @@
                      </settlement>
                   </death>
                   <occupation>Philantrop</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4322">
+                  <persName/>
                </person>
             </listPerson>
          </div>
