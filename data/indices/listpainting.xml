@@ -29,10 +29,12 @@
                <bibl xml:id="tillich_painting_id__3">
                   <title>Edge of a Wood</title>
                   <author key="#tillich_person_id__1667">Ruysdael, Jakob van</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q28061589</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__4">
                   <title>Zaandam</title>
                   <author key="#tillich_person_id__1343">Monet, Claude</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q17496194</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__5">
                   <title>La Gare. St. Lazare</title>
@@ -91,10 +93,12 @@
                <bibl xml:id="tillich_painting_id__18">
                   <title>Portrait of Eleonora (da Toledo) de Medici</title>
                   <author key="#tillich_person_id__3087">Bronzino, Agnolo</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q63828872</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__19">
                   <title>Francesco Maria della Bovere Duke of Urbino</title>
                   <author key="#tillich_person_id__3088">Titian</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3937531</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__20">
                   <title>Lady Governors. Hospital for the Aged, Haarlem.--Detail</title>
@@ -103,10 +107,12 @@
                <bibl xml:id="tillich_painting_id__21">
                   <title>La Bohémienne</title>
                   <author key="#tillich_person_id__3908">Hals, Frans</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3206722</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__22">
                   <title>Portrait of Henry James</title>
                   <author key="#tillich_person_id__3909">Sargent, John Singer</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q28051144</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__23">
                   <title>View of Toledo</title>
@@ -116,14 +122,17 @@
                <bibl xml:id="tillich_painting_id__24">
                   <title>City on a Rock</title>
                   <author key="#tillich_person_id__3090">Goya</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q19911544</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__25">
                   <title>Still Life</title>
                   <author key="#tillich_person_id__2575">Cezanne, Paul</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64435751</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__26">
                   <title>The Mantel-piece</title>
                   <author key="#tillich_person_id__272">Braque, Georges</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q28548269</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__27">
                   <title>Still Life</title>
@@ -132,14 +141,17 @@
                <bibl xml:id="tillich_painting_id__28">
                   <title>Nature-morte</title>
                   <author key="#tillich_person_id__272">Braque, Georges</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q65225468</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__29">
                   <title>Man with a Guitar</title>
                   <author key="#tillich_person_id__272">Braque, Georges</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q60432996</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__30">
                   <title>Composition No. 8</title>
                   <author key="#tillich_person_id__1018">Kandinsky, Wassily</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q19609199</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__31">
                   <title>Breakfast</title>
@@ -177,6 +189,7 @@
                <bibl xml:id="tillich_painting_id__39">
                   <title>St. Francis and the Birds</title>
                   <author key="#tillich_person_id__681">Giotto di Bondone</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3910084</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__40">
                   <title>Resurrection</title>
