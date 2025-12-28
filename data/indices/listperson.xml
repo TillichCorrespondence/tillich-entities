@@ -23888,6 +23888,31 @@
                <person xml:id="tillich_person_id__4322">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__4323">
+                  <persName>Kerr, Alfred</persName>
+                  <birth>
+                     <date>1867-12-25</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1948-10-12</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schriftsteller, Journalist, Theaterkritiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11856157X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4324">
+                  <persName>Polanyi, Karl</persName>
+                  <occupation>Wirtschaftswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118836404</idno>
+               </person>
+               <person xml:id="tillich_person_id__4325">
+                  <persName>Lazare, Bernard</persName>
+               </person>
             </listPerson>
          </div>
       </body>
