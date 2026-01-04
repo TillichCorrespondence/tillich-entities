@@ -9557,5 +9557,49 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1271": {
+    "id": 1271,
+    "order": "999.00000000000000000000",
+    "name": "Ungarn",
+    "tillich_id": "tillich_place_id__1271",
+    "geonames_url": "https://www.geonames.org/719819/",
+    "Working Notes": "",
+    "latitude": "47.00000",
+    "longitude": "20.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28"
+  },
+  "1272": {
+    "id": 1272,
+    "order": "1000.00000000000000000000",
+    "name": "Rumänien",
+    "tillich_id": "tillich_place_id__1272",
+    "geonames_url": "https://www.geonames.org/798549/",
+    "Working Notes": "",
+    "latitude": "46.00000",
+    "longitude": "25.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q218"
+  },
+  "1273": {
+    "id": 1273,
+    "order": "1001.00000000000000000000",
+    "name": "Bulgarien",
+    "tillich_id": "tillich_place_id__1273",
+    "geonames_url": "https://www.geonames.org/732800/",
+    "Working Notes": "",
+    "latitude": "42.66667",
+    "longitude": "25.25000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q219"
+  },
+  "1274": {
+    "id": 1274,
+    "order": "1002.00000000000000000000",
+    "name": "Finnland",
+    "tillich_id": "tillich_place_id__1274",
+    "geonames_url": "https://www.geonames.org/660013/",
+    "Working Notes": "",
+    "latitude": "64.00000",
+    "longitude": "26.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q33"
   }
 }

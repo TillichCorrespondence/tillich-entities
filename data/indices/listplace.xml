@@ -6289,7 +6289,39 @@
                   <idno type="geonames">https://sws.geonames.org/2635167/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q23666</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__1271">
+                  <placeName>Ungarn</placeName>
+                  <location type="coords">
+                     <geo>47.00000 20.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/719819/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q28</idno>
+               </place>
+               <place xml:id="tillich_place_id__1272">
+                  <placeName>Rumänien</placeName>
+                  <location type="coords">
+                     <geo>46.00000 25.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/798549/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q218</idno>
+               </place>
+               <place xml:id="tillich_place_id__1273">
+                  <placeName>Bulgarien</placeName>
+                  <location type="coords">
+                     <geo>42.66667 25.25000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/732800/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q219</idno>
+               </place>
+               <place xml:id="tillich_place_id__1274">
+                  <placeName>Finnland</placeName>
+                  <location type="coords">
+                     <geo>64.00000 26.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/660013/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>

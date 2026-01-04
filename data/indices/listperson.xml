@@ -23913,6 +23913,37 @@
                <person xml:id="tillich_person_id__4325">
                   <persName>Lazare, Bernard</persName>
                </person>
+               <person xml:id="tillich_person_id__4358">
+                  <persName>Michel, Artur</persName>
+                  <death>
+                     <date>1946-11-16</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theaterkritiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117018015</idno>
+               </person>
+               <person xml:id="tillich_person_id__4359">
+                  <persName>Neuman, Helen</persName>
+               </person>
+               <person xml:id="tillich_person_id__4360">
+                  <persName>Krause, Friedrich</persName>
+                  <birth>
+                     <date>1897-12-16</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1964-05-13</date>
+                     <settlement>
+                        <placeName>Lausanne</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Journalist, Verleger</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/130214841</idno>
+               </person>
             </listPerson>
          </div>
       </body>
