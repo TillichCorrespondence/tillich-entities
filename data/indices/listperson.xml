@@ -23944,6 +23944,12 @@
                   <occupation>Journalist, Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/130214841</idno>
                </person>
+               <person xml:id="tillich_person_id__4361">
+                  <persName>Strauss, Max</persName>
+               </person>
+               <person xml:id="tillich_person_id__4362">
+                  <persName>Molnar, Annelies von</persName>
+               </person>
             </listPerson>
          </div>
       </body>
