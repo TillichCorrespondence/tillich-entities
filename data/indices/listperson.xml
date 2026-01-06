@@ -7057,8 +7057,17 @@
                </person>
                <person xml:id="tillich_person_id__1552">
                   <persName>Ragué, Heinrich Samuel von</persName>
+                  <birth>
+                     <date>1885-02-06</date>
+                     <settlement>
+                        <placeName>Quincy, Adams, Illinois, United States</placeName>
+                     </settlement>
+                  </birth>
                   <death>
-                     <date>1963</date>
+                     <date>1962-12-13</date>
+                     <settlement>
+                        <placeName>St. Joseph Township, Berrien, Michigan, United States</placeName>
+                     </settlement>
                   </death>
                </person>
                <person xml:id="tillich_person_id__1553">
@@ -7626,7 +7635,7 @@
                   <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
                </person>
                <person xml:id="tillich_person_id__1679">
-                  <persName>Salz , Lotte</persName>
+                  <persName>Salz, Lotte</persName>
                   <occupation>Studienassesorin</occupation>
                </person>
                <person xml:id="tillich_person_id__1680">
@@ -13053,10 +13062,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/11694580X</idno>
                </person>
                <person xml:id="tillich_person_id__2254">
-                  <persName>Höfer, ???</persName>
-                  <occupation>Prediger;</occupation>
+                  <persName>Höfer, Friedrich</persName>
+                  <birth>
+                     <date>1871-04-18</date>
+                     <settlement>
+                        <placeName>Finsterwalde</placeName>
+                     </settlement>
+                  </birth>
                   <note type="bio">
-                     <p>Er wirkte als Hilfsprediger bei Johannes Tillich um 1905.</p>
+                     <p>Evangelischer Pfarrer (ordiniert am 7. Mai 1905); er wirkte 1905 als Hilfsprediger bei Johannes Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2255">
@@ -21609,15 +21623,28 @@
                </person>
                <person xml:id="tillich_person_id__3560">
                   <persName>Jahn, Heinrich</persName>
+                  <birth>
+                     <date>1887-05-23</date>
+                     <settlement>
+                        <placeName>Zwötzen / Reuß</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date>1963</date>
                   </death>
                </person>
                <person xml:id="tillich_person_id__3561">
                   <persName>Boye, Johannes</persName>
+                  <birth>
+                     <date>1886-07-30</date>
+                     <settlement>
+                        <placeName>Plau</placeName>
+                     </settlement>
+                  </birth>
                   <death>
-                     <date>1944</date>
+                     <date>1944-03-08</date>
                   </death>
+                  <occupation>evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__3562">
                   <persName>Ebers, Paul Friedrich</persName>
@@ -21669,15 +21696,21 @@
                   <persName>Lienau, Robert</persName>
                </person>
                <person xml:id="tillich_person_id__3571">
-                  <persName>???, ???</persName>
+                  <persName>von Stein zu Nord- und Ostheim, Fanny Freiin</persName>
+                  <birth>
+                     <date>10.09.1964</date>
+                  </birth>
+                  <death>
+                     <date>29.08.1944</date>
+                  </death>
                   <note type="bio">
                      <p>Schwiegermutter von Karl Ludwig Schmidt</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3572">
-                  <persName>Schmidt, Frau</persName>
+                  <persName>Schmidt, Ursula</persName>
                   <note type="bio">
-                     <p>Frau von Karl Ludwig Schmidt</p>
+                     <p>Frau von Karl Ludwig Schmidt. Geb. von Wegnern.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3573">
@@ -21691,6 +21724,12 @@
                </person>
                <person xml:id="tillich_person_id__3575">
                   <persName>Radbruch, Anselm</persName>
+                  <birth>
+                     <date>09.12.1918</date>
+                  </birth>
+                  <death>
+                     <date>06.12.1942</date>
+                  </death>
                   <note type="bio">
                      <p>Sohn von Gustav Radbruch</p>
                   </note>
@@ -23949,6 +23988,23 @@
                </person>
                <person xml:id="tillich_person_id__4362">
                   <persName>Molnar, Annelies von</persName>
+               </person>
+               <person xml:id="tillich_person_id__4363">
+                  <persName>Schwab, Gustav</persName>
+                  <birth>
+                     <date>1792-06-19</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1850-11-04</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>deutscher Pfarrer, Gymnasialprofessor und Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118762745</idno>
                </person>
             </listPerson>
          </div>
