@@ -194,10 +194,12 @@
                <bibl xml:id="tillich_painting_id__40">
                   <title>Resurrection</title>
                   <author key="#tillich_person_id__3098">Piero della Francesca</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q430293</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__41">
                   <title>Tribute Money</title>
                   <author key="#tillich_person_id__3099">Masaccio</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1759631</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__42">
                   <title>Madonna and Child</title>
@@ -206,14 +208,17 @@
                <bibl xml:id="tillich_painting_id__43">
                   <title>Madonna Colonna</title>
                   <author key="#tillich_person_id__3100">Raphael</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q327780</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__44">
                   <title>The Magdalen</title>
                   <author key="#tillich_person_id__1582">Reni, Guido</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q112749873</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__45">
                   <title>The Christ with the Peasants</title>
                   <author key="#tillich_person_id__1964">Uhde, Fritz von</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q17492845</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__46">
                   <title>Ecce Homo (The mocking of Christ)</title>
@@ -243,10 +248,12 @@
                <bibl xml:id="tillich_painting_id__54">
                   <title>Adoration of the Kings</title>
                   <author key="#tillich_person_id__295">Brueghel, Pieter (der Ältere)</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4680634</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__55">
                   <title>Triumph of Death</title>
                   <author key="#tillich_person_id__295">Brueghel, Pieter (der Ältere)</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q644856</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__56">
                   <title>Altarpiece of Temptation</title>
@@ -255,10 +262,12 @@
                <bibl xml:id="tillich_painting_id__57">
                   <title>Coronation of the Virgin</title>
                   <author key="#tillich_person_id__3089">El Greco</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q104250991</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__58">
                   <title>Christ Crucified between Thieves</title>
                   <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q60761193</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__59">
                   <title>Descent from the Cross</title>
@@ -282,10 +291,12 @@
                <bibl xml:id="tillich_painting_id__63">
                   <title>Crucifixion</title>
                   <author key="#tillich_person_id__3094">Rouault, Georges</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q59540140</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__64">
                   <title>Head of Christ with Thorns</title>
                   <author key="#tillich_person_id__3094">Rouault, Georges</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q21731194</idno>
                </bibl>
                <bibl xml:id="tillich_painting_id__65">
                   <title>Crucifixion</title>

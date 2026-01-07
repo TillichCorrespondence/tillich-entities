@@ -9601,5 +9601,16 @@
     "latitude": "64.00000",
     "longitude": "26.00000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q33"
+  },
+  "1275": {
+    "id": 1275,
+    "order": "1003.00000000000000000000",
+    "name": "Bard College",
+    "tillich_id": "tillich_place_id__1275",
+    "geonames_url": "https://www.geonames.org/5107888/",
+    "Working Notes": "",
+    "latitude": "42.02120",
+    "longitude": "-73.90652",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49109"
   }
 }

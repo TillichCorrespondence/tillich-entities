@@ -1586,6 +1586,17 @@
                </person>
                <person xml:id="tillich_person_id__210">
                   <persName>Bewer, Julius August</persName>
+                  <birth>
+                     <date>1877-08-28</date>
+                  </birth>
+                  <death>
+                     <date>1953-09-01</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116158972</idno>
                </person>
                <person xml:id="tillich_person_id__211">
                   <persName>Beyer, Hermann Wolfgang</persName>
@@ -24005,6 +24016,50 @@
                   </death>
                   <occupation>deutscher Pfarrer, Gymnasialprofessor und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118762745</idno>
+               </person>
+               <person xml:id="tillich_person_id__4364">
+                  <persName>Wedell, H.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4365">
+                  <persName>Genzmer, George</persName>
+                  <occupation>Professor für Geschichte und Literatur</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4366">
+                  <persName>Horton, Douglas</persName>
+                  <birth>
+                     <date>1891-07-27</date>
+                     <settlement>
+                        <placeName>Brooklyn</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-08-21</date>
+                     <settlement>
+                        <placeName>Randolph, New Hampshire</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/124643981</idno>
+               </person>
+               <person xml:id="tillich_person_id__4367">
+                  <persName>Kaufmann, Arthur</persName>
+                  <birth>
+                     <date>1888-07-07</date>
+                     <settlement>
+                        <placeName>Mühlheim an der Ruhr</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1971-09-25</date>
+                     <settlement>
+                        <placeName>Nova Friburgo, Brasilien</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Künstler, Maler, Grafiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116073411</idno>
+               </person>
+               <person xml:id="tillich_person_id__4368">
+                  <persName>Kaufmann, Elizabeth</persName>
                </person>
             </listPerson>
          </div>
