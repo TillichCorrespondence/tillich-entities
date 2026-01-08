@@ -5428,6 +5428,7 @@
                <person xml:id="tillich_person_id__1154">
                   <persName>Leese, Kurt</persName>
                   <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116855266</idno>
                </person>
                <person xml:id="tillich_person_id__1155">
                   <persName>Lehmann, Helmut T.</persName>
@@ -12388,16 +12389,24 @@
                   <occupation>evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2166">
-                  <persName>Veit, ???</persName>
-                  <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
+                  <persName>Weik, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__2167">
-                  <persName>Zentgraf, ???</persName>
-                  <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
+                  <persName>Zentgraf, Rudolph</persName>
+                  <birth>
+                     <date>1884-12-14</date>
+                     <settlement>
+                        <placeName>Reichenbach (Lautertal)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-05-27</date>
+                     <settlement>
+                        <placeName>Lauterbach (Hessen)</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe, Oberkirchenrat und Superintendent</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1024899594</idno>
                </person>
                <person xml:id="tillich_person_id__2169">
                   <persName>Struckmeier, Georg</persName>
@@ -15873,15 +15882,6 @@
                      <p>Sie war die Tochter des phaiakischen Königs Alkinoos.</p>
                   </note>
                </person>
-               <person xml:id="tillich_person_id__2526">
-                  <persName>Weik, Friedrich</persName>
-                  <death>
-                     <date>1974</date>
-                  </death>
-                  <note type="bio">
-                     <p>Er war vermutlich ein Studienkollege von Paul Tillich.</p>
-                  </note>
-               </person>
                <person xml:id="tillich_person_id__2527">
                   <persName>Hanke, Johannes</persName>
                   <death>
@@ -19311,7 +19311,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/1070137324</idno>
                </person>
                <person xml:id="tillich_person_id__3052">
-                  <persName>???, Heinie</persName>
+                  <persName>???, Heini(e)</persName>
                </person>
                <person xml:id="tillich_person_id__3053">
                   <persName>(Onkel) Fritz</persName>
@@ -21841,10 +21841,10 @@
                   <persName>Boehm, Max Hildebert</persName>
                </person>
                <person xml:id="tillich_person_id__3596">
-                  <persName>Roeseler, ???</persName>
+                  <persName>Roeseler, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__3597">
-                  <persName>Gleichen, ???, Freiherr von</persName>
+                  <persName>Gleichen genannt von Rußwurm, Raimund August Heinrich Freiherr von</persName>
                </person>
                <person xml:id="tillich_person_id__3598">
                   <persName>Bauer, ???</persName>
@@ -24060,6 +24060,22 @@
                </person>
                <person xml:id="tillich_person_id__4368">
                   <persName>Kaufmann, Elizabeth</persName>
+               </person>
+               <person xml:id="tillich_person_id__4369">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4370">
+                  <persName/>
+                  <death>
+                     <date>1974</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__4371">
+                  <persName>Moeller van den Bruck, Arthur</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118734423</idno>
+               </person>
+               <person xml:id="tillich_person_id__4372">
+                  <persName>Waitz, Johannes</persName>
                </person>
             </listPerson>
          </div>

@@ -9612,5 +9612,16 @@
     "latitude": "42.02120",
     "longitude": "-73.90652",
     "wikidata_url": "https://www.wikidata.org/wiki/Q49109"
+  },
+  "1276": {
+    "id": 1276,
+    "order": "1004.00000000000000000000",
+    "name": "Wern",
+    "tillich_id": "tillich_place_id__1276",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
