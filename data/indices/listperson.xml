@@ -12910,9 +12910,6 @@
                      <p>Er war Pfarrer in Lindtorf und Onkel von G. v. Hanffstengel.</p>
                   </note>
                </person>
-               <person xml:id="tillich_person_id__2235">
-                  <persName>Hessel, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__2236">
                   <persName>Dürselen, Elisabeth</persName>
                   <birth>
@@ -15904,7 +15901,7 @@
                   <persName>Kühn, Georg</persName>
                </person>
                <person xml:id="tillich_person_id__2531">
-                  <persName>Vogt, ???</persName>
+                  <persName>Vogt, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2532">
                   <persName>Philipps, Wilhelm</persName>
@@ -15945,9 +15942,6 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/126705798</idno>
-               </person>
-               <person xml:id="tillich_person_id__2535">
-                  <persName>Harz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2536">
                   <persName>Kürschner, ???</persName>
@@ -23784,7 +23778,7 @@
                   <death>
                      <date>1922</date>
                   </death>
-                  <occupation>Fideikommissherr auf Dölzig und Her auf Stavenow</occupation>
+                  <occupation>Fideikommissherr auf Dölzig und Herr auf Stavenow</occupation>
                </person>
                <person xml:id="tillich_person_id__4295">
                   <persName/>
@@ -24076,6 +24070,18 @@
                </person>
                <person xml:id="tillich_person_id__4372">
                   <persName>Waitz, Johannes</persName>
+               </person>
+               <person xml:id="tillich_person_id__4373">
+                  <persName>Holz, Gerhard</persName>
+                  <death>
+                     <date>1915-08-14</date>
+                  </death>
+                  <note type="bio">
+                     <p>Im Ersten Weltkrieg gefallen.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4406">
+                  <persName>Diehl, Hermann</persName>
                </person>
             </listPerson>
          </div>
