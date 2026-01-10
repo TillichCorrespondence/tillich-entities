@@ -12578,10 +12578,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2194">
-                  <persName>Buss, ???</persName>
-                  <note type="bio">
-                     <p>Er war ein Mitstudent von Paul Tillich, der in irgendeine Austrittsangelegenheit verwickelt war.</p>
-                  </note>
+                  <persName>Buß, Hermann</persName>
                </person>
                <person xml:id="tillich_person_id__2195">
                   <persName>Häfele, ???</persName>
@@ -24082,6 +24079,9 @@
                </person>
                <person xml:id="tillich_person_id__4406">
                   <persName>Diehl, Hermann</persName>
+               </person>
+               <person xml:id="tillich_person_id__4407">
+                  <persName/>
                </person>
             </listPerson>
          </div>
