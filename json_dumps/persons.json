@@ -71746,5 +71746,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4408": {
+    "id": 4408,
+    "order": "4038.00000000000000000000",
+    "name": "Franco, Francisco",
+    "surname": "Franco",
+    "forename": "Francisco",
+    "from_to": "1892-1975",
+    "occupation": "Diktator in Spanien (1939-1975)",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/11853470X",
+    "tillich_id": "tillich_person_id__4408",
+    "date_of_birth": "1992-12-04",
+    "date_of_death": "1975-11-20",
+    "working_note": "",
+    "place_of_birth": "Ferrol",
+    "place_of_death": "Madrid"
   }
 }
