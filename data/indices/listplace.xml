@@ -6332,6 +6332,14 @@
                <place xml:id="tillich_place_id__1276">
                   <placeName>Wern</placeName>
                </place>
+               <place xml:id="tillich_place_id__1309">
+                  <placeName>Ocean City</placeName>
+                  <location type="coords">
+                     <geo>39.27762 -74.57460</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4503351/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1017603</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -24100,6 +24100,12 @@
                   <occupation>Diktator in Spanien (1939-1975)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11853470X</idno>
                </person>
+               <person xml:id="tillich_person_id__4409">
+                  <persName>Ulich, Eckart</persName>
+               </person>
+               <person xml:id="tillich_person_id__4410">
+                  <persName>Wendriner</persName>
+               </person>
             </listPerson>
          </div>
       </body>

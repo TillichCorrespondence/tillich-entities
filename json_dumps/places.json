@@ -9623,5 +9623,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1309": {
+    "id": 1309,
+    "order": "1005.00000000000000000000",
+    "name": "Ocean City",
+    "tillich_id": "tillich_place_id__1309",
+    "geonames_url": "https://www.geonames.org/4503351/",
+    "Working Notes": "",
+    "latitude": "39.27762",
+    "longitude": "-74.57460",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1017603"
   }
 }

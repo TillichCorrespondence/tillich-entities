@@ -71764,5 +71764,41 @@
     "working_note": "",
     "place_of_birth": "Ferrol",
     "place_of_death": "Madrid"
+  },
+  "4409": {
+    "id": 4409,
+    "order": "4039.00000000000000000000",
+    "name": "Ulich, Eckart",
+    "surname": "Ulich",
+    "forename": "Eckart",
+    "from_to": "1923-1943",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__4409",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "4410": {
+    "id": 4410,
+    "order": "4040.00000000000000000000",
+    "name": "Wendriner",
+    "surname": "Wendriner",
+    "forename": "?",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__4410",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Frau von Karl Georg Wendriner",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
