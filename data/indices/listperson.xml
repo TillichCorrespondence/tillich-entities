@@ -9592,7 +9592,10 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Mutter</occupation>
+                  <occupation>Mutter Paul Tillichs</occupation>
+                  <note type="bio">
+                     <p>geb. Dürselen</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1930">
                   <persName>Tillich, Marie</persName>
@@ -12528,12 +12531,6 @@
                <person xml:id="tillich_person_id__2185">
                   <persName>Meyersieck, Johannes</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
-                  <note type="bio">
-                     <p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
-               </person>
-               <person xml:id="tillich_person_id__2186">
-                  <persName>Ebers, R.</persName>
                   <note type="bio">
                      <p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p>
                   </note>
@@ -18903,8 +18900,14 @@
                   <occupation>Soziologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2972">
-                  <persName>Heidtmann, ???</persName>
-                  <occupation>Pastor</occupation>
+                  <persName>Heidtmann, Paul</persName>
+                  <birth>
+                     <date>1867-07-02</date>
+                     <settlement>
+                        <placeName>Tacken</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2973">
                   <persName>???, Hildebrand</persName>
@@ -24105,6 +24108,36 @@
                </person>
                <person xml:id="tillich_person_id__4410">
                   <persName>Wendriner</persName>
+               </person>
+               <person xml:id="tillich_person_id__4411">
+                  <persName>Müller, S.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4412">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4413">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4414">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4415">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4416">
+                  <persName>Ebers, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4417">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4418">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4419">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4420">
+                  <persName>Gershom Scholem</persName>
                </person>
             </listPerson>
          </div>

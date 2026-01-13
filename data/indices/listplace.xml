@@ -6340,6 +6340,22 @@
                   <idno type="geonames">https://sws.geonames.org/4503351/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1017603</idno>
                </place>
+               <place xml:id="tillich_place_id__1310">
+                  <placeName>Brieselang</placeName>
+                  <location type="coords">
+                     <geo>52.58333 13.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2944126/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31921709</idno>
+               </place>
+               <place xml:id="tillich_place_id__1311">
+                  <placeName>Paaren</placeName>
+                  <location type="coords">
+                     <geo>52.65379 12.98756</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2855782/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q63539978</idno>
+               </place>
             </listPlace>
          </div>
       </body>

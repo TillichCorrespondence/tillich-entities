@@ -9634,5 +9634,27 @@
     "latitude": "39.27762",
     "longitude": "-74.57460",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1017603"
+  },
+  "1310": {
+    "id": 1310,
+    "order": "1006.00000000000000000000",
+    "name": "Brieselang",
+    "tillich_id": "tillich_place_id__1310",
+    "geonames_url": "https://sws.geonames.org/2944126/",
+    "Working Notes": "",
+    "latitude": "52.58333",
+    "longitude": "13.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31921709"
+  },
+  "1311": {
+    "id": 1311,
+    "order": "1007.00000000000000000000",
+    "name": "Paaren",
+    "tillich_id": "tillich_place_id__1311",
+    "geonames_url": "https://sws.geonames.org/2855782/",
+    "Working Notes": "",
+    "latitude": "52.65379",
+    "longitude": "12.98756",
+    "wikidata_url": "http://www.wikidata.org/entity/Q63539978"
   }
 }
