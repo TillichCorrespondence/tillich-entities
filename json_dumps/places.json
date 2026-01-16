@@ -9656,5 +9656,38 @@
     "latitude": "52.65379",
     "longitude": "12.98756",
     "wikidata_url": "http://www.wikidata.org/entity/Q63539978"
+  },
+  "1312": {
+    "id": 1312,
+    "order": "1008.00000000000000000000",
+    "name": "Lingen",
+    "tillich_id": "tillich_place_id__1312",
+    "geonames_url": "https://sws.geonames.org/2877088/",
+    "Working Notes": "",
+    "latitude": "52.52143",
+    "longitude": "7.31845",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4185"
+  },
+  "1313": {
+    "id": 1313,
+    "order": "1009.00000000000000000000",
+    "name": "Schottland",
+    "tillich_id": "tillich_place_id__1313",
+    "geonames_url": "https://sws.geonames.org/2638360/",
+    "Working Notes": "Scotland",
+    "latitude": "56.00000",
+    "longitude": "-4.00000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q22"
+  },
+  "1314": {
+    "id": 1314,
+    "order": "1010.00000000000000000000",
+    "name": "Neapel",
+    "tillich_id": "tillich_place_id__1314",
+    "geonames_url": "https://sws.geonames.org/3172394/",
+    "Working Notes": "",
+    "latitude": "40.85216",
+    "longitude": "14.26811",
+    "wikidata_url": "http://www.wikidata.org/entity/Q49295418"
   }
 }

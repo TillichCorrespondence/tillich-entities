@@ -1071,7 +1071,7 @@
                   <death>
                      <date>1328</date>
                      <settlement>
-                        <placeName>Neapel</placeName>
+                        <placeName key="#tillich_place_id__1314">Neapel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119465434</idno>
@@ -5347,7 +5347,13 @@
                </person>
                <person xml:id="tillich_person_id__1133">
                   <persName>Lang, Martin</persName>
-                  <occupation>Superintendent</occupation>
+                  <birth>
+                     <date>1858-01-12</date>
+                     <settlement>
+                        <placeName>Stonsdorf</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>zuletzt Superintendent und Oberpfarrer in Nauen</occupation>
                </person>
                <person xml:id="tillich_person_id__1134">
                   <persName>Lang, Andrew</persName>
@@ -6053,7 +6059,15 @@
                </person>
                <person xml:id="tillich_person_id__1295">
                   <persName>Meinhof, Heinrich</persName>
-                  <occupation>Leibfux von Paul Tillich</occupation>
+                  <birth>
+                     <date>1888-08-31</date>
+                  </birth>
+                  <death>
+                     <date>1978-08-29</date>
+                  </death>
+                  <note type="bio">
+                     <p>Leibfux von Paul Tillich; Onkel von Ulrike Meinhof</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1296">
                   <persName>Meinhold, Peter</persName>
@@ -10338,13 +10352,13 @@
                   <birth>
                      <date>1668</date>
                      <settlement>
-                        <placeName>Neapel</placeName>
+                        <placeName key="#tillich_place_id__1314">Neapel</placeName>
                      </settlement>
                   </birth>
                   <death>
                      <date>1744</date>
                      <settlement>
-                        <placeName>Neapel</placeName>
+                        <placeName key="#tillich_place_id__1314">Neapel</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118626833</idno>
@@ -12318,6 +12332,12 @@
                </person>
                <person xml:id="tillich_person_id__2155">
                   <persName>Voget, Johannes</persName>
+                  <birth>
+                     <date>1889-03-05</date>
+                     <settlement>
+                        <placeName>Bunde</placeName>
+                     </settlement>
+                  </birth>
                   <death>
                      <date>1965</date>
                   </death>
@@ -12327,6 +12347,13 @@
                </person>
                <person xml:id="tillich_person_id__2156">
                   <persName>Oberschmidt, Hermann</persName>
+                  <birth>
+                     <date>1888-07-17</date>
+                     <settlement>
+                        <placeName>Tiefenort</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>evangelischer Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117077836</idno>
                   <note type="bio">
                      <p>Er war der Leibfux von Nikolaus Schuster, genannt "Nickelby".</p>
@@ -12346,9 +12373,6 @@
                </person>
                <person xml:id="tillich_person_id__2158">
                   <persName>Varchmin, ???</persName>
-                  <note type="bio">
-                     <p>Er war ein Funktionär der Wingolfsverbindung.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2159">
                   <persName>Nell, Ferdinand Wilhelm</persName>
@@ -17932,10 +17956,20 @@
                   <persName>(Steuerrat), Tillich</persName>
                </person>
                <person xml:id="tillich_person_id__2800">
-                  <persName>Mohn, Hans</persName>
+                  <persName>Mohn, Johannes</persName>
+                  <birth>
+                     <date>1886-05-21</date>
+                     <settlement>
+                        <placeName>Puderbach</placeName>
+                     </settlement>
+                  </birth>
                   <death>
-                     <date>1970</date>
+                     <date>1970-06-18</date>
+                     <settlement>
+                        <placeName>Kleve</placeName>
+                     </settlement>
                   </death>
+                  <occupation>evangelischer Pfarrer</occupation>
                   <note type="bio">
                      <p>Er war der Leibfux von Hans Balke.</p>
                   </note>
@@ -19171,7 +19205,9 @@
                   <persName>Otto, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3019">
-                  <persName>???, Engelhardt</persName>
+                  <persName>Emil, Engelhardt</persName>
+                  <occupation>Pfarrer; Theologe; Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11648912X</idno>
                </person>
                <person xml:id="tillich_person_id__3020">
                   <persName>Frau von Maler Linsa</persName>
@@ -21552,6 +21588,18 @@
                </person>
                <person xml:id="tillich_person_id__3543">
                   <persName>Voget, Hermann</persName>
+                  <birth>
+                     <date>1887-07-04</date>
+                     <settlement>
+                        <placeName>Bunde</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1954-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__3544">
                   <persName>Beyer, Margarete</persName>
@@ -23884,8 +23932,20 @@
                </person>
                <person xml:id="tillich_person_id__4315">
                   <persName>Voget, Friedrich</persName>
+                  <birth>
+                     <date>1856-09-29</date>
+                     <settlement>
+                        <placeName>Hinte</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1907-12-27</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__1312">Lingen</placeName>
+                     </settlement>
+                  </death>
                   <note type="bio">
-                     <p>Superintendent in Lingen a.d. Ems</p>
+                     <p>Superintendent in Lingen a.d. Ems; Vater von u.a. Hermann und Johannes Voget</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__4317">
@@ -24138,6 +24198,37 @@
                </person>
                <person xml:id="tillich_person_id__4420">
                   <persName>Gershom Scholem</persName>
+               </person>
+               <person xml:id="tillich_person_id__4421">
+                  <persName>Spendelinchen, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4422">
+                  <persName>Riedel, Frau</persName>
+               </person>
+               <person xml:id="tillich_person_id__4423">
+                  <persName>Lotte, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4424">
+                  <persName>Hamann, Margarete</persName>
+               </person>
+               <person xml:id="tillich_person_id__4425">
+                  <persName>Michen</persName>
+               </person>
+               <person xml:id="tillich_person_id__4426">
+                  <persName>Oberschmidt, Heinrich</persName>
+                  <occupation>Lehrer und Anstaltsvorsteher in Nieder-Erlenbach</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4427">
+                  <persName>Dessauer, Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118524925</idno>
+               </person>
+               <person xml:id="tillich_person_id__4428">
+                  <persName>Scharp, Heinrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1025785932</idno>
+               </person>
+               <person xml:id="tillich_person_id__4429">
+                  <persName>Thormann, Werner</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11735354X</idno>
                </person>
             </listPerson>
          </div>

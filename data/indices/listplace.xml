@@ -6356,6 +6356,30 @@
                   <idno type="geonames">https://sws.geonames.org/2855782/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q63539978</idno>
                </place>
+               <place xml:id="tillich_place_id__1312">
+                  <placeName>Lingen</placeName>
+                  <location type="coords">
+                     <geo>52.52143 7.31845</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2877088/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4185</idno>
+               </place>
+               <place xml:id="tillich_place_id__1313">
+                  <placeName>Schottland</placeName>
+                  <location type="coords">
+                     <geo>56.00000 -4.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2638360/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q22</idno>
+               </place>
+               <place xml:id="tillich_place_id__1314">
+                  <placeName>Neapel</placeName>
+                  <location type="coords">
+                     <geo>40.85216 14.26811</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3172394/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49295418</idno>
+               </place>
             </listPlace>
          </div>
       </body>
