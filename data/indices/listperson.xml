@@ -15371,6 +15371,7 @@
                         <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
+                  <occupation>Germanist, Volkskundler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118795805</idno>
                </person>
                <person xml:id="tillich_person_id__2476">
@@ -24229,6 +24230,22 @@
                <person xml:id="tillich_person_id__4429">
                   <persName>Thormann, Werner</persName>
                   <idno type="gnd">https://d-nb.info/gnd/11735354X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4430">
+                  <persName>Buchwald, H.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4431">
+                  <persName>Gumbel, Hermann</persName>
+                  <occupation>Philologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116924896</idno>
+               </person>
+               <person xml:id="tillich_person_id__4432">
+                  <persName>Schuchhardt, Walter-Herwig</persName>
+                  <occupation>Archäologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118762087</idno>
+               </person>
+               <person xml:id="tillich_person_id__4433">
+                  <persName>Breitner, ?</persName>
                </person>
             </listPerson>
          </div>
