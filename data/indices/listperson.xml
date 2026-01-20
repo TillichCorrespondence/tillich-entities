@@ -21931,7 +21931,7 @@
                   <occupation>General</occupation>
                </person>
                <person xml:id="tillich_person_id__3610">
-                  <persName>Erbdroste, ???</persName>
+                  <persName>Graf Droste zu Vischering, Clemens Heidenreich Franz</persName>
                   <note type="bio">
                      <p>Graf</p>
                   </note>
@@ -21940,9 +21940,9 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__3612">
-                  <persName>Erbdroste, ???</persName>
+                  <persName>Droste zu Vischering, Elisabeth</persName>
                   <note type="bio">
-                     <p>Tochter des Grafen</p>
+                     <p>unverheiratete Tochter vom Grafen Droste zu Vischering</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3613">
@@ -21952,7 +21952,7 @@
                   <persName>Rollf, Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__3615">
-                  <persName>Pinkerneil, ???</persName>
+                  <persName>Pinkerneil, Friedrich August</persName>
                </person>
                <person xml:id="tillich_person_id__3616">
                   <persName>Fischdiek-Ma, ???</persName>
@@ -24246,6 +24246,9 @@
                </person>
                <person xml:id="tillich_person_id__4433">
                   <persName>Breitner, ?</persName>
+               </person>
+               <person xml:id="tillich_person_id__4434">
+                  <persName>Otto, Berthold</persName>
                </person>
             </listPerson>
          </div>
