@@ -9648,7 +9648,7 @@
                      <date>1919-07-28</date>
                   </death>
                   <note type="bio">
-                     <p>Sohn von Paul Tillich und Greti</p>
+                     <p>Sohn von Richard Wegener und Greti Tillich</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1936">
@@ -24249,6 +24249,24 @@
                </person>
                <person xml:id="tillich_person_id__4434">
                   <persName>Otto, Berthold</persName>
+               </person>
+               <person xml:id="tillich_person_id__4435">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4436">
+                  <persName>Strzelewicz, Willy</persName>
+                  <birth>
+                     <date>1905-10-23</date>
+                  </birth>
+                  <death>
+                     <date>1986-10-25</date>
+                  </death>
+                  <occupation>Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118619500</idno>
+               </person>
+               <person xml:id="tillich_person_id__4437">
+                  <persName>Landis, Benson Y.</persName>
+                  <occupation>Associate Secretary in the Department of Research and Education of the Federal Council of Churches</occupation>
                </person>
             </listPerson>
          </div>
