@@ -17899,9 +17899,9 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2792">
-                  <persName>Rhine, ???</persName>
+                  <persName>Mann von Lisa Klein</persName>
                   <note type="bio">
-                     <p>Er war der Mann von Maria Klein/Rhine.</p>
+                     <p>Er war der Mann von Lisa Klein.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2793">
@@ -21955,7 +21955,14 @@
                   <persName>Pinkerneil, Friedrich August</persName>
                </person>
                <person xml:id="tillich_person_id__3616">
-                  <persName>Fischdiek-Ma, ???</persName>
+                  <persName>Fischdick, Wilhelm</persName>
+                  <death>
+                     <date>18.12.1965</date>
+                     <settlement>
+                        <placeName>Hameln</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schriftsteller</occupation>
                </person>
                <person xml:id="tillich_person_id__3617">
                   <persName>???, Grete</persName>
@@ -21977,6 +21984,9 @@
                </person>
                <person xml:id="tillich_person_id__3623">
                   <persName>???, Inge</persName>
+                  <note type="bio">
+                     <p>Selbe Person wie tillich_person_id__3165 (Ingelein). Eine Bekannte von Familie Klein und Richard Wegener.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3624">
                   <persName>Hotop, ???</persName>
@@ -24267,6 +24277,20 @@
                <person xml:id="tillich_person_id__4437">
                   <persName>Landis, Benson Y.</persName>
                   <occupation>Associate Secretary in the Department of Research and Education of the Federal Council of Churches</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4438">
+                  <persName>Schmidt, Carl</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118996207</idno>
+                  <note type="bio">
+                     <p>Koptologe, Ägyptologe, Kirchenhistoriker</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4439">
+                  <persName>Pfeiffer, Otto</persName>
+                  <death>
+                     <date>1919</date>
+                  </death>
+                  <occupation>Sohn von Hedwig und Bruder von Erich Pfeiffer.</occupation>
                </person>
             </listPerson>
          </div>
