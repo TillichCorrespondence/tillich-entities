@@ -11,7 +11,8 @@
         "value": "Rubens, Peter Paul",
         "order": "1653.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "2": {
     "id": 2,
@@ -25,7 +26,8 @@
         "value": "Rubens, Peter Paul",
         "order": "1653.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "3": {
     "id": 3,
@@ -39,7 +41,8 @@
         "value": "Ruysdael, Jakob van",
         "order": "1667.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "4": {
     "id": 4,
@@ -53,7 +56,8 @@
         "value": "Monet, Claude",
         "order": "1343.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "5": {
     "id": 5,
@@ -67,7 +71,8 @@
         "value": "Monet, Claude",
         "order": "1343.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "6": {
     "id": 6,
@@ -81,7 +86,8 @@
         "value": "Monet, Claude",
         "order": "1343.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "7": {
     "id": 7,
@@ -95,7 +101,8 @@
         "value": "Carpaccio, Francesco Quirini",
         "order": "3764.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "8": {
     "id": 8,
@@ -109,7 +116,8 @@
         "value": "Ostade, Adriaen van",
         "order": "3079.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "9": {
     "id": 9,
@@ -123,7 +131,8 @@
         "value": "Steen, Jan",
         "order": "3078.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "10": {
     "id": 10,
@@ -137,7 +146,8 @@
         "value": "Rembrandt van Rijn",
         "order": "1580.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "11": {
     "id": 11,
@@ -151,7 +161,8 @@
         "value": "Rembrandt van Rijn",
         "order": "1580.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "12": {
     "id": 12,
@@ -165,7 +176,8 @@
         "value": "Watteau, Jean-Antoine",
         "order": "3080.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "13": {
     "id": 13,
@@ -179,7 +191,8 @@
         "value": "Watteau, Jean-Antoine",
         "order": "3080.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "14": {
     "id": 14,
@@ -187,7 +200,8 @@
     "title": "Roman painting, Hellenistic, Fayoum mummy, 3rd century A.D.",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__14",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "15": {
     "id": 15,
@@ -195,7 +209,8 @@
     "title": "Roman painting, Pompeian--Paquius Proculus and his wife",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__15",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "16": {
     "id": 16,
@@ -203,7 +218,8 @@
     "title": "Roman painting, 3rd century, Portrait group on glass",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__16",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "17": {
     "id": 17,
@@ -211,7 +227,8 @@
     "title": "Greek painting, Hellenistic, ''Aline'' from Hawara",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__17",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "18": {
     "id": 18,
@@ -225,7 +242,8 @@
         "value": "Bronzino, Agnolo",
         "order": "3081.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "19": {
     "id": 19,
@@ -239,7 +257,8 @@
         "value": "Titian",
         "order": "3082.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "20": {
     "id": 20,
@@ -253,7 +272,8 @@
         "value": "Hals, Frans",
         "order": "3765.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "21": {
     "id": 21,
@@ -267,7 +287,8 @@
         "value": "Hals, Frans",
         "order": "3765.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "22": {
     "id": 22,
@@ -281,7 +302,8 @@
         "value": "Sargent, John Singer",
         "order": "3766.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "23": {
     "id": 23,
@@ -295,7 +317,8 @@
         "value": "El Greco",
         "order": "3083.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "24": {
     "id": 24,
@@ -309,7 +332,8 @@
         "value": "Goya",
         "order": "3084.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "25": {
     "id": 25,
@@ -323,7 +347,8 @@
         "value": "Cezanne, Paul",
         "order": "2575.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "26": {
     "id": 26,
@@ -337,7 +362,8 @@
         "value": "Braque, Georges",
         "order": "272.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "27": {
     "id": 27,
@@ -351,7 +377,8 @@
         "value": "Braque, Georges",
         "order": "272.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "28": {
     "id": 28,
@@ -365,7 +392,8 @@
         "value": "Braque, Georges",
         "order": "272.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "29": {
     "id": 29,
@@ -379,7 +407,8 @@
         "value": "Braque, Georges",
         "order": "272.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "30": {
     "id": 30,
@@ -393,7 +422,8 @@
         "value": "Kandinsky, Wassily",
         "order": "1018.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "31": {
     "id": 31,
@@ -407,7 +437,8 @@
         "value": "Léger, Fernand",
         "order": "3086.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "32": {
     "id": 32,
@@ -421,7 +452,8 @@
         "value": "Picasso, Pablo",
         "order": "1495.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "33": {
     "id": 33,
@@ -435,7 +467,8 @@
         "value": "Rouault, Georges",
         "order": "3087.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "34": {
     "id": 34,
@@ -449,7 +482,8 @@
         "value": "de Chirico, Giorgio",
         "order": "3088.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "35": {
     "id": 35,
@@ -463,7 +497,8 @@
         "value": "Tanguy, Yves",
         "order": "3767.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "36": {
     "id": 36,
@@ -477,7 +512,8 @@
         "value": "de Chirico, Giorgio",
         "order": "3088.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "37": {
     "id": 37,
@@ -491,7 +527,8 @@
         "value": "Moore, Henry",
         "order": "3089.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "38": {
     "id": 38,
@@ -505,7 +542,8 @@
         "value": "Moore, Henry",
         "order": "3089.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "39": {
     "id": 39,
@@ -519,7 +557,8 @@
         "value": "Giotto di Bondone",
         "order": "681.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "40": {
     "id": 40,
@@ -533,7 +572,8 @@
         "value": "Piero della Francesca",
         "order": "3090.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "41": {
     "id": 41,
@@ -547,7 +587,8 @@
         "value": "Masaccio",
         "order": "3091.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "42": {
     "id": 42,
@@ -561,7 +602,8 @@
         "value": "Giovanni Bellini",
         "order": "3022.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "43": {
     "id": 43,
@@ -575,7 +617,8 @@
         "value": "Raphael",
         "order": "3092.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "44": {
     "id": 44,
@@ -589,7 +632,8 @@
         "value": "Reni, Guido",
         "order": "1582.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "45": {
     "id": 45,
@@ -603,7 +647,8 @@
         "value": "Uhde, Fritz von",
         "order": "1964.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "46": {
     "id": 46,
@@ -617,7 +662,8 @@
         "value": "Manet, Edouard",
         "order": "3029.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "47": {
     "id": 47,
@@ -625,7 +671,8 @@
     "title": "Greek Sculpture: Apollo",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__47",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "48": {
     "id": 48,
@@ -633,7 +680,8 @@
     "title": "Archaic female figure from near Erechtheurre",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__48",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "49": {
     "id": 49,
@@ -641,7 +689,8 @@
     "title": "Hera of Samos",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__49",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "50": {
     "id": 50,
@@ -649,7 +698,8 @@
     "title": "Mosaic, Constantinople, 10th Century",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__50",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "51": {
     "id": 51,
@@ -657,7 +707,8 @@
     "title": "Byzantine School, 15th Century, Resurrection",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__51",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "52": {
     "id": 52,
@@ -665,7 +716,8 @@
     "title": "Painting, Italian, 12th Century, Crucifix",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__52",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "53": {
     "id": 53,
@@ -673,7 +725,8 @@
     "title": "French, 15th Century, School of Avignon",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__53",
-    "painter": []
+    "painter": [],
+    "wikidata_image": ""
   },
   "54": {
     "id": 54,
@@ -687,7 +740,8 @@
         "value": "Brueghel, Pieter (der Ältere)",
         "order": "295.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Anbetung_der_K%C3%B6nige_%28Bruegel%2C_1564%29.jpg"
   },
   "55": {
     "id": 55,
@@ -701,7 +755,8 @@
         "value": "Brueghel, Pieter (der Ältere)",
         "order": "295.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "56": {
     "id": 56,
@@ -715,7 +770,8 @@
         "value": "Bosch, Hieronymus",
         "order": "261.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "57": {
     "id": 57,
@@ -729,7 +785,8 @@
         "value": "El Greco",
         "order": "3083.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "58": {
     "id": 58,
@@ -743,7 +800,8 @@
         "value": "Rembrandt van Rijn",
         "order": "1580.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "59": {
     "id": 59,
@@ -757,7 +815,8 @@
         "value": "Rembrandt van Rijn",
         "order": "1580.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "60": {
     "id": 60,
@@ -771,7 +830,8 @@
         "value": "Nolde, Emil",
         "order": "1404.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "61": {
     "id": 61,
@@ -785,7 +845,8 @@
         "value": "Grünewald, Matthias",
         "order": "730.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "62": {
     "id": 62,
@@ -799,7 +860,8 @@
         "value": "Grünewald, Matthias",
         "order": "730.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "63": {
     "id": 63,
@@ -813,7 +875,8 @@
         "value": "Rouault, Georges",
         "order": "3087.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "64": {
     "id": 64,
@@ -827,7 +890,8 @@
         "value": "Rouault, Georges",
         "order": "3087.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "65": {
     "id": 65,
@@ -841,7 +905,8 @@
         "value": "Picasso, Pablo",
         "order": "1495.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   },
   "66": {
     "id": 66,
@@ -855,6 +920,7 @@
         "value": "Sutherland, Graham Vivian",
         "order": "3093.00000000000000000000"
       }
-    ]
+    ],
+    "wikidata_image": ""
   }
 }
