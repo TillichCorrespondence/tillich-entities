@@ -23,6 +23,9 @@
                   {% if x.wikidata %}
                   <idno type="wikidata">http://www.wikidata.org/entity/{{ x.wikidata }}</idno>
                   {% endif %}
+                   {% if x.wikidata_image %}
+                  <ref type="wikidata_image">{{ x.wikidata_image }}</ref>
+                  {% endif %}
                </bibl>
             {% endfor %}
             </listBibl>
