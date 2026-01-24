@@ -24292,6 +24292,16 @@
                   </death>
                   <occupation>Sohn von Hedwig und Bruder von Erich Pfeiffer.</occupation>
                </person>
+               <person xml:id="tillich_person_id__4472">
+                  <persName>Haeckl, Ernst</persName>
+                  <birth>
+                     <date>16.02.1834</date>
+                  </birth>
+                  <death>
+                     <date>09.08.1919</date>
+                  </death>
+                  <occupation>Zoologe, Philosoph</occupation>
+               </person>
             </listPerson>
          </div>
       </body>

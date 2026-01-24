@@ -3018,9 +3018,33 @@
   "550": {
     "id": 550,
     "order": "383.00000000000000000000",
-    "name": "",
+    "name": "Schlatter, Adolf. Der Galaterbrief ausgelegt für Bibelleser. Erläuterungen zum Neuen Testament, 3. Teil. Verlag der Vereinsbuchhandlung, 1890.",
     "working_note": "",
     "tillich_id": "tillich_work_id__550",
-    "zotero": ""
+    "zotero": "FHVD42TC"
+  },
+  "582": {
+    "id": 582,
+    "order": "384.00000000000000000000",
+    "name": "Schlatter, Adolf. Das Evangelium des Johannes ausgelegt für Bibelleser. Erläuterungen zum Neuen Testament, 6. Teil. Verlag der Vereinsbuchhandlung, 1899.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__582",
+    "zotero": "5G67D62A"
+  },
+  "583": {
+    "id": 583,
+    "order": "385.00000000000000000000",
+    "name": "Schlatter, Adolf. Die Evangelien des Markus und Lukas ausgelegt für Bibelleser. Erläuterungen zum Neuen Testament, 7. Teil. Verlag der Vereinsbuchhandlung, 1900.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__583",
+    "zotero": "5VU2H96J"
+  },
+  "584": {
+    "id": 584,
+    "order": "386.00000000000000000000",
+    "name": "Schlatter, Adolf. Das Evangelium des Matthäus ausgelegt für Bibelleser. Zweite durchgesehene Auflage. Erläuterungen zum Neuen Testament, 5. Teil. Verlag der Vereinsbuchhandlung, 1900.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__584",
+    "zotero": "Z5N3H4AN"
   }
 }
