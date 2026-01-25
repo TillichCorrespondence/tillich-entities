@@ -30,16 +30,19 @@
                   <title>Edge of a Wood</title>
                   <author key="#tillich_person_id__1667">Ruysdael, Jakob van</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q28061589</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/9/9e/J.I._van_Ruisdael_-_Bosgezicht_-_NK2447_-_Museum_Boijmans_Van_Beuningen.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__4">
                   <title>Zaandam</title>
                   <author key="#tillich_person_id__1343">Monet, Claude</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q17496194</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/8/87/Monet_Zaandam_1871_Musee_d%27Orsay.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__5">
                   <title>La Gare. St. Lazare</title>
                   <author key="#tillich_person_id__1343">Monet, Claude</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2270028</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/9/96/La_Gare_Saint-Lazare_-_Claude_Monet.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__6">
                   <title>Unloading the Cargo</title>
@@ -53,6 +56,7 @@
                   <title>Tavern Brawl</title>
                   <author key="#tillich_person_id__3085">Ostade, Adriaen van</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q63183268</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/4/43/Bartholomeus_Molenaer_after_Adriaen_van_Ostade_-_A_Tavern_Brawl_1919.316.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__9">
                   <title>Loose Living</title>
@@ -62,21 +66,25 @@
                   <title>The Night Watch</title>
                   <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q219831</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__11">
                   <title>Dr. Tulp's Anatomy Lesson</title>
                   <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q661378</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__12">
                   <title>Les Comédiens français</title>
                   <author key="#tillich_person_id__3086">Watteau, Jean-Antoine</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q19911603</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/a/ab/Antoine_Watteau_-_Actors_from_the_Com%C3%A9die_Fran%C3%A7aise_-_WGA25475.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__13">
                   <title>Love in Italian Comedy</title>
                   <author key="#tillich_person_id__3086">Watteau, Jean-Antoine</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q47035621</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/c/c7/Jean_Antoine_Watteau_%281684-1721%29_-_The_Italian_Comedy_-_470_-_Gem%C3%A4ldegalerie.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__14">
                   <title>Roman painting, Hellenistic, Fayoum mummy, 3rd century A.D.</title>
