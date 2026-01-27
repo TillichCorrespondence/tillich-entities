@@ -12593,9 +12593,9 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2193">
-                  <persName>Gaiser, ???</persName>
+                  <persName>Gaiser, Konrad</persName>
                   <note type="bio">
-                     <p>Er stand vermutlich im Kontakt mit der Wingolfsverbindung in Tübingen.</p>
+                     <p>Gaiser war im Wintersemester 1907/08 Erstchargierter des Tübinger Wingolfs.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2194">
@@ -24301,6 +24301,22 @@
                      <date>09.08.1919</date>
                   </death>
                   <occupation>Zoologe, Philosoph</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4505">
+                  <persName>Dittmann, Herta</persName>
+                  <note type="bio">
+                     <p>Bewohnte und vermietete das erste "Landhaus Dittmann", das 1913 erbaut wurde.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4506">
+                  <persName>König, Edmund</persName>
+                  <occupation>Philosoph, Gymnasiallehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/141940832</idno>
+               </person>
+               <person xml:id="tillich_person_id__4507">
+                  <persName>Frenssen, Gustav</persName>
+                  <occupation>Evangelischer Theologe, Pfarrer, Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118535269</idno>
                </person>
             </listPerson>
          </div>
