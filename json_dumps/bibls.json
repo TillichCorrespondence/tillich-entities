@@ -2378,7 +2378,7 @@
   "306": {
     "id": 306,
     "order": "301.00000000000000000000",
-    "name": "Wingolfsbund. “Teilnehmerliste des 27. Wartburgfestes.” Wingolfs-Blätter, vol. 34, no. 17, 1905, p. 165 f.",
+    "name": "[Anonym]. „Teilnehmerliste des 27. Wartburgfestes“. Wingolfs-Blätter (1905/06) 34, Nr. 17 (1905): 165 f.",
     "working_note": "",
     "tillich_id": "tillich_work_id__306",
     "zotero": "Q5WCS8GB"
@@ -3062,5 +3062,13 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__617",
     "zotero": "PWM746KT"
+  },
+  "618": {
+    "id": 618,
+    "order": "389.00000000000000000000",
+    "name": "Lp. „11. ordentliche Brandenburgische Provinzialsynode“. Der Reichsbote (Berlin), 24. Oktober 1905.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__618",
+    "zotero": ""
   }
 }

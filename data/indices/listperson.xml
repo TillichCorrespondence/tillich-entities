@@ -10896,6 +10896,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119264323</idno>
+                  <note type="bio">
+                     <p>Er trat zum Sommersemster 1907 in den Hallenser Wingolf ein.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2038">
                   <persName>Werfel, Franz</persName>
@@ -19721,9 +19724,6 @@
                </person>
                <person xml:id="tillich_person_id__3127">
                   <persName>Ahrend, ???</persName>
-               </person>
-               <person xml:id="tillich_person_id__3128">
-                  <persName>Wedermann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3129">
                   <persName>Lütgert, Ruth</persName>
