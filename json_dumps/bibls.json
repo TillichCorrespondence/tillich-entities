@@ -1642,7 +1642,7 @@
   "210": {
     "id": 210,
     "order": "207.00000000000000000000",
-    "name": "Dickens, Charles, Sämmtliche Werke: Aus dem Englischen. Unser gemeinsamer Freund ; 1. Deutschland: Hoffmann, 1870.",
+    "name": "Boz (Dickens). Unser gemeinsamer Freund. Aus dem Englischen von L. Dubois. Bd. 1/2. Boz’s (Dickens) sämmtliche Werke, Bd. 24/25. Hoffmann’sche Verlags-Buchhandlung, 1866.",
     "working_note": "",
     "tillich_id": "tillich_work_id__210",
     "zotero": "KY94NUDX"
@@ -3069,6 +3069,38 @@
     "name": "Lp. „11. ordentliche Brandenburgische Provinzialsynode“. Der Reichsbote (Berlin), 24. Oktober 1905.",
     "working_note": "",
     "tillich_id": "tillich_work_id__618",
+    "zotero": "JP9N46WM"
+  },
+  "619": {
+    "id": 619,
+    "order": "390.00000000000000000000",
+    "name": "Schlatter, Adolf. Predigten in der Stiftskirche zu Tübingen. Elf Jahrgänge, 1902-1912. Druck und Verlag von Gg. Schnürlen.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__619",
+    "zotero": "C2M2DQMN"
+  },
+  "620": {
+    "id": 620,
+    "order": "391.00000000000000000000",
+    "name": "Richter, Heinrich (Hg.). Lebenserinnerungen eines deutschen Malers. Selbstbiographie nebst Tagebuchniederschriften und Briefen von Ludwig Richter. Verlag von Johannes Alt, 1885.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__620",
+    "zotero": "XGNW9WRU"
+  },
+  "653": {
+    "id": 653,
+    "order": "392.00000000000000000000",
+    "name": "Müller, Karl. Kirchengeschichte. Erster Band. Grundriss der Theologischen Wissenschaften, Vierter Theil, Erster Band. Akademische Verlagsbuchhandlung von J.C.B. Mohr (Paul Siebeck), 1892.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__653",
+    "zotero": "B86BG2NP"
+  },
+  "654": {
+    "id": 654,
+    "order": "393.00000000000000000000",
+    "name": "Müller, Karl. Kirchengeschichte. Zweiter Band, Erster Halbband. Grundriss der Theologischen Wissenschaften, Vierter Teil, Zweiter Band (in zwei Halbbänden). Verlag von J.C.B. Mohr (Paul Siebeck), 1902.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__654",
     "zotero": ""
   }
 }

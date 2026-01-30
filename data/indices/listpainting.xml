@@ -139,6 +139,7 @@
                   <title>Still Life</title>
                   <author key="#tillich_person_id__2575">Cezanne, Paul</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q64435751</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/9/96/Paul_C%C3%A9zanne_166.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__26">
                   <title>The Mantel-piece</title>
@@ -163,6 +164,7 @@
                   <title>Composition No. 8</title>
                   <author key="#tillich_person_id__1018">Kandinsky, Wassily</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q19609199</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/8/80/Kandinsky_-_Composition_8%2C_July_1923.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__31">
                   <title>Breakfast</title>
@@ -172,6 +174,7 @@
                   <title>Guernica</title>
                   <author key="#tillich_person_id__1495">Picasso, Pablo</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q175036</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/7/76/Mural_del_%22Guernica%22_de_Picasso.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__33">
                   <title>Circus Trio</title>
@@ -201,16 +204,19 @@
                   <title>St. Francis and the Birds</title>
                   <author key="#tillich_person_id__681">Giotto di Bondone</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3910084</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/f/fb/Giotto_di_Bondone_-_Legend_of_St_Francis_-_15._Sermon_to_the_Birds_-_WGA09139.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__40">
                   <title>Resurrection</title>
                   <author key="#tillich_person_id__3098">Piero della Francesca</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q430293</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/c/c2/Resurrection.JPG</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__41">
                   <title>Tribute Money</title>
                   <author key="#tillich_person_id__3099">Masaccio</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1759631</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/0/07/The_Tribute_Money_Masaccio_Cappella_Brancacci.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__42">
                   <title>Madonna and Child</title>
@@ -220,6 +226,7 @@
                   <title>Madonna Colonna</title>
                   <author key="#tillich_person_id__3100">Raphael</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q327780</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/2/26/Raffaello_Sanzio_-_Madonna_Colonna_-Gem%C3%A4ldegalerie_Berlin.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__44">
                   <title>The Magdalen</title>
@@ -230,6 +237,7 @@
                   <title>The Christ with the Peasants</title>
                   <author key="#tillich_person_id__1964">Uhde, Fritz von</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q17492845</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/1/12/Fritz_von_Uhde_-_Christus_mit_den_Bauern_%28ca.1887-88%29.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__46">
                   <title>Ecce Homo (The mocking of Christ)</title>
@@ -266,6 +274,7 @@
                   <title>Triumph of Death</title>
                   <author key="#tillich_person_id__295">Brueghel, Pieter (der Ältere)</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q644856</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__56">
                   <title>Altarpiece of Temptation</title>
@@ -275,16 +284,19 @@
                   <title>Coronation of the Virgin</title>
                   <author key="#tillich_person_id__3089">El Greco</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q104250991</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/6/6a/El_Greco_-_Sketch_for_coronation_of_the_virgin.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__58">
                   <title>Christ Crucified between Thieves</title>
                   <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q60761193</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/d/df/Rembrandt_van_Rijn_-_Christ_Crucified_Between_the_Two_Thieves-_%27The_Three_Crosses%27_-_1959.241_-_Cleveland_Museum_of_Art.tif</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__59">
                   <title>Descent from the Cross</title>
                   <author key="#tillich_person_id__1580">Rembrandt van Rijn</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q568100</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/2/2e/Rembrandt_Harmensz._van_Rijn_071.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__60">
                   <title>The Last Supper</title>
@@ -294,11 +306,13 @@
                   <title>Isenheim Altarpiece</title>
                   <author key="#tillich_person_id__730">Grünewald, Matthias</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q591762</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/4/49/Mus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d%27Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_%281512-1516%29_%281%29.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__62">
                   <title>Isenheim Altarpiece (right panel)</title>
                   <author key="#tillich_person_id__730">Grünewald, Matthias</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q591762</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/4/49/Mus%C3%A9e_Unterlinden_-_Matthias_Gr%C3%BCnewald_-_retable_d%27Issenheim_-_Saint_S%C3%A9bastien%2C_Crucifixion%2C_Saint_Antoine_abb%C3%A9_%26_D%C3%A9position_%281512-1516%29_%281%29.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__63">
                   <title>Crucifixion</title>

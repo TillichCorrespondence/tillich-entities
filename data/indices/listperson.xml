@@ -7340,6 +7340,7 @@
                </person>
                <person xml:id="tillich_person_id__1603">
                   <persName>Richter, Ludwig</persName>
+                  <occupation>Maler</occupation>
                </person>
                <person xml:id="tillich_person_id__1604">
                   <persName>Ricken, Heinrich</persName>
@@ -19748,7 +19749,10 @@
                   <persName>Arend, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3135">
-                  <persName>Saathapf, ???</persName>
+                  <persName>Saathoff, Albrecht</persName>
+                  <note type="bio">
+                     <p>Philister des Göttinger WIngolfs.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3136">
                   <persName>Tarke, ???</persName>
@@ -24317,6 +24321,21 @@
                   <persName>Frenssen, Gustav</persName>
                   <occupation>Evangelischer Theologe, Pfarrer, Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118535269</idno>
+               </person>
+               <person xml:id="tillich_person_id__4540">
+                  <persName>Zeus</persName>
+               </person>
+               <person xml:id="tillich_person_id__4541">
+                  <persName>Hera</persName>
+               </person>
+               <person xml:id="tillich_person_id__4542">
+                  <persName>???, Jakob</persName>
+               </person>
+               <person xml:id="tillich_person_id__4543">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4544">
+                  <persName>Kuratorium zur Vergabe des Säkularstipendium</persName>
                </person>
             </listPerson>
          </div>
