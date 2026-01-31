@@ -1530,6 +1530,13 @@
                </person>
                <person xml:id="tillich_person_id__193">
                   <persName>Bergson, Henri</persName>
+                  <birth>
+                     <date>1859-10-18</date>
+                  </birth>
+                  <death>
+                     <date>1941-01-04</date>
+                  </death>
+                  <occupation>Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__194">
                   <persName>Bergsträsser, Arnold</persName>
@@ -1574,6 +1581,8 @@
                </person>
                <person xml:id="tillich_person_id__206">
                   <persName>Bertholet, Alfred</persName>
+                  <occupation>Theologe, Orientalist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118658573</idno>
                </person>
                <person xml:id="tillich_person_id__207">
                   <persName>Bertram, Ernst</persName>
@@ -5915,8 +5924,15 @@
                </person>
                <person xml:id="tillich_person_id__1260">
                   <persName>Marcel, Gabriel</persName>
+                  <birth>
+                     <date>1889-12-07</date>
+                  </birth>
+                  <death>
+                     <date>1973-10-08</date>
+                  </death>
+                  <occupation>Philosoph</occupation>
                   <note type="bio">
-                     <p>Gabriel Marcel (7. Dezember 1889 – 8. Oktober 1973) war ein in Paris geborener französischer Philosoph, Dramatiker und führender Vertreter des christlichen Existentialismus. Beeinflusst von Henri Bergson und Karl Jaspers suchte er in Werken wie Être et avoir (1935) und Le mystère de l’être (1951) Wege, die Entfremdung des modernen Menschen durch Liebe, Treue und Hoffnung zu überwinden. Als Denker des „Seins“ gegenüber dem „Haben“ gilt Marcel als humanistische Alternative zu Jean-Paul Sartres atheistischem Existentialismus.</p>
+                     <p>Gabriel Marcel war ein in Paris geborener französischer Philosoph, Dramatiker und führender Vertreter des christlichen Existentialismus. Beeinflusst von Henri Bergson und Karl Jaspers suchte er in Werken wie Être et avoir (1935) und Le mystère de l’être (1951) Wege, die Entfremdung des modernen Menschen durch Liebe, Treue und Hoffnung zu überwinden. Als Denker des „Seins“ gegenüber dem „Haben“ gilt Marcel als humanistische Alternative zu Jean-Paul Sartres atheistischem Existentialismus.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1261">
@@ -6345,7 +6361,7 @@
                   <death>
                      <date>1949-01-04</date>
                   </death>
-                  <occupation>Mitarbeiter im Schloss Elmau</occupation>
+                  <occupation>Evangelischer Theologe, Mitarbeiter im Schloss Elmau</occupation>
                </person>
                <person xml:id="tillich_person_id__1364">
                   <persName>Müller, Julius</persName>
@@ -6354,7 +6370,14 @@
                   <persName>Müller, Ludwig</persName>
                </person>
                <person xml:id="tillich_person_id__1366">
-                  <persName>Müller, Max</persName>
+                  <persName>Müller, Friedrich Max</persName>
+                  <birth>
+                     <date>1823-12-06</date>
+                  </birth>
+                  <death>
+                     <date>1900-10-28</date>
+                  </death>
+                  <occupation>Sprach- und Religionswissenschaftler</occupation>
                </person>
                <person xml:id="tillich_person_id__1367">
                   <persName>Müller-Gangloff, Erich</persName>
@@ -8055,6 +8078,9 @@
                <person xml:id="tillich_person_id__1763">
                   <persName>Seeberger, Erhard</persName>
                   <occupation>Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Ehemann von Tillichs Schwester Elisabeth.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1764">
                   <persName>Seewald, Richard</persName>
@@ -17701,7 +17727,7 @@
                </person>
                <person xml:id="tillich_person_id__2763">
                   <persName>Balke, Siegfried August Theodor</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116043873</idno>
                   <note type="bio">
                      <p>Er wirkte als Pfarrer in Wülfrath und ab 1900 als Leiter des Diakonissenhauses in Bremen.</p>
@@ -17974,7 +18000,7 @@
                         <placeName>Kleve</placeName>
                      </settlement>
                   </death>
-                  <occupation>evangelischer Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                   <note type="bio">
                      <p>Er war der Leibfux von Hans Balke.</p>
                   </note>
@@ -19908,13 +19934,10 @@
                   <persName>???, Foeke</persName>
                </person>
                <person xml:id="tillich_person_id__3170">
-                  <persName>Troll, Onkel</persName>
+                  <persName>Troll, Theodor</persName>
                </person>
                <person xml:id="tillich_person_id__3171">
                   <persName>Schwester Meta</persName>
-               </person>
-               <person xml:id="tillich_person_id__3172">
-                  <persName>Schwester von Elisabeth W.</persName>
                </person>
                <person xml:id="tillich_person_id__3173">
                   <persName>Tante Berta</persName>
@@ -21734,9 +21757,6 @@
                   <note type="bio">
                      <p>Frau Supiriat com L00284</p>
                   </note>
-               </person>
-               <person xml:id="tillich_person_id__3565">
-                  <persName>???, Albert</persName>
                </person>
                <person xml:id="tillich_person_id__3566">
                   <persName>von Schelling, Clara</persName>
@@ -24336,6 +24356,29 @@
                </person>
                <person xml:id="tillich_person_id__4544">
                   <persName>Kuratorium zur Vergabe des Säkularstipendium</persName>
+               </person>
+               <person xml:id="tillich_person_id__4545">
+                  <persName>Aphrodite</persName>
+               </person>
+               <person xml:id="tillich_person_id__4547">
+                  <persName>Graf, Friedrich Wilhelm</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/120078724</idno>
+               </person>
+               <person xml:id="tillich_person_id__4548">
+                  <persName>Christophersen, Alf</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/120766728</idno>
+               </person>
+               <person xml:id="tillich_person_id__4549">
+                  <persName>Rapp, Adolf</persName>
+                  <occupation>Historiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116334436</idno>
+               </person>
+               <person xml:id="tillich_person_id__4550">
+                  <persName>Schmidt, Hans</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117506346</idno>
                </person>
             </listPerson>
          </div>
