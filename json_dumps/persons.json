@@ -67934,9 +67934,9 @@
   "4002": {
     "id": 4002,
     "order": "3827.00000000000000000000",
-    "name": "Joh. Tob. Beck",
+    "name": "Beck, Johann Tobias",
     "surname": "Beck",
-    "forename": "Joh. Tob.",
+    "forename": "Johann Tobias",
     "from_to": "",
     "occupation": "",
     "bio": "",
@@ -72538,5 +72538,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4553": {
+    "id": 4553,
+    "order": "4086.00000000000000000000",
+    "name": "Kraus, Hertha",
+    "surname": "Kraus",
+    "forename": "Hertha",
+    "from_to": "",
+    "occupation": "Sozialwissenschaftlerin",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/123603811",
+    "tillich_id": "tillich_person_id__4553",
+    "date_of_birth": "1897-09-11",
+    "date_of_death": "1968-05-16",
+    "working_note": "",
+    "place_of_birth": "Prag",
+    "place_of_death": "Haverford"
   }
 }

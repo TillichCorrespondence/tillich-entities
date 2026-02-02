@@ -22989,7 +22989,7 @@
                   <persName>Geyer, Johannes</persName>
                </person>
                <person xml:id="tillich_person_id__4002">
-                  <persName>Joh. Tob. Beck</persName>
+                  <persName>Beck, Johann Tobias</persName>
                </person>
                <person xml:id="tillich_person_id__4003">
                   <persName>Heußner, Alfred</persName>
@@ -24396,6 +24396,23 @@
                </person>
                <person xml:id="tillich_person_id__4552">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4553">
+                  <persName>Kraus, Hertha</persName>
+                  <birth>
+                     <date>1897-09-11</date>
+                     <settlement>
+                        <placeName>Prag</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-05-16</date>
+                     <settlement>
+                        <placeName>Haverford</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Sozialwissenschaftlerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123603811</idno>
                </person>
             </listPerson>
          </div>

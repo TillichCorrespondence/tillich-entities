@@ -9689,5 +9689,16 @@
     "latitude": "40.85216",
     "longitude": "14.26811",
     "wikidata_url": "http://www.wikidata.org/entity/Q49295418"
+  },
+  "1315": {
+    "id": 1315,
+    "order": "1011.00000000000000000000",
+    "name": "Annecy",
+    "tillich_id": "tillich_place_id__1315",
+    "geonames_url": "https://www.geonames.org/3037543/",
+    "Working Notes": "",
+    "latitude": "45.90878",
+    "longitude": "6.12565",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q50189"
   }
 }
