@@ -6388,6 +6388,13 @@
                   <idno type="geonames">https://sws.geonames.org/3037543/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q50189</idno>
                </place>
+               <place xml:id="tillich_place_id__1316">
+                  <placeName>Haverford</placeName>
+                  <location type="coords">
+                     <geo>40.01317 -75.29435</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5192907/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

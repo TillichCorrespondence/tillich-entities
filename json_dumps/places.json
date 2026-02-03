@@ -9700,5 +9700,16 @@
     "latitude": "45.90878",
     "longitude": "6.12565",
     "wikidata_url": "https://www.wikidata.org/wiki/Q50189"
+  },
+  "1316": {
+    "id": 1316,
+    "order": "1012.00000000000000000000",
+    "name": "Haverford",
+    "tillich_id": "tillich_place_id__1316",
+    "geonames_url": "https://www.geonames.org/5192907/",
+    "Working Notes": "",
+    "latitude": "40.01317",
+    "longitude": "-75.29435",
+    "wikidata_url": ""
   }
 }

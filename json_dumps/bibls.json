@@ -186,7 +186,7 @@
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "name": "Tillich, Paul, Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung, Gütersloh 1912.",
+    "name": "Tillich, Paul. Mystik und Schuldbewußtsein in Schellings philosophischer Entwicklung. Erstes Heft. Beiträge zur Förderung christlicher Theologie, Sechzehnter Jahrgang. Druck und Verlag von C. Bertelsmann, 1912.",
     "working_note": "Auch in: MW I, 21-112; GW I, 13-108",
     "tillich_id": "tillich_work_id__24",
     "zotero": "DHQTCG8Z"
@@ -3134,5 +3134,61 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__658",
     "zotero": "7MTADXNN"
+  },
+  "659": {
+    "id": 659,
+    "order": "398.00000000000000000000",
+    "name": "Medicus, Fritz. „Naturforschung und Philosophie“. Logos. Internationale Zeitschrift für Philosophie der Kultur VII (1917): 247–61.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__659",
+    "zotero": "395CR6I6"
+  },
+  "660": {
+    "id": 660,
+    "order": "399.00000000000000000000",
+    "name": "Graf, Friedrich Wilhelm, und Alf Christophersen, Hrsg. „Neukantianismus, Fichte- und Schellingrenaissance. Paul Tillich und sein philosophischer Lehrer Fritz Medicus“. Journal for the History of Modern Theology/ Zeitschrift für Neuere Theologiegeschichte 11, Nr. 1 (2004): 52–78.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__660",
+    "zotero": "M37I7HMN"
+  },
+  "661": {
+    "id": 661,
+    "order": "400.00000000000000000000",
+    "name": "Medicus, Fritz. „J. G. Fichte als Anhänger und als Kritiker des Völkerbundgedankens“. Zeitschrift für Völkerrecht XI (1920): 141–54.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__661",
+    "zotero": "3PAKTZQ3"
+  },
+  "663": {
+    "id": 663,
+    "order": "402.00000000000000000000",
+    "name": "Tillich, Paul. Berliner Vorlesungen I (1919-1920). Hg. und mit einer historischen Einleitung versehen von Erdmann Sturm. Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul Tillich, Band XII. De Gruyter, Evangelisches Verlagswerk, 2001.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__663",
+    "zotero": "A4XZ2V3B"
+  },
+  "664": {
+    "id": 664,
+    "order": "403.00000000000000000000",
+    "name": "Tillich, Paul. „Religion und Kultur“. In Religion, Kultur, Gesellschaft. Unveröffentlichte Texte aus der deutschen Zeit (1908-1933). Hg. von Erdmann Sturm, Erster Teil. Ergänzungs- und Nachlassbände zu den Gesammelten Werken von Paul TiIllich, Band X. De Gruyter, Evangelisches Verlagswerk, 1999.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__664",
+    "zotero": "5H4R8QWZ"
+  },
+  "665": {
+    "id": 665,
+    "order": "404.00000000000000000000",
+    "name": "Medicus, Fritz. „Paul Tillich“. Neue Zürcher Zeitung und schweizerisches Handelsblatt, 19. März 1929.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__665",
+    "zotero": "RJAGHBWG"
+  },
+  "666": {
+    "id": 666,
+    "order": "405.00000000000000000000",
+    "name": "Holl, Karl. „Thomas Chalmers und die Anfänge der kirchlich-sozialen Bewegung“. Zeitschrift für Theologie und Kirche 23, Nr. 4 (1913): 219–65.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__666",
+    "zotero": ""
   }
 }

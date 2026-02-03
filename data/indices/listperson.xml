@@ -17536,6 +17536,18 @@
                </person>
                <person xml:id="tillich_person_id__2734">
                   <persName>Simon, Garina Gertrud</persName>
+                  <birth>
+                     <date>1885-07-22</date>
+                     <settlement>
+                        <placeName>Polen, Koźmin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1964-06-18</date>
+                     <settlement>
+                        <placeName>Brasilien, Curitiba</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2735">
                   <persName>Albers, August</persName>
@@ -22030,7 +22042,19 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__3626">
-                  <persName>Simon, ???</persName>
+                  <persName>Simon, Hugo</persName>
+                  <birth>
+                     <date>1880-09-01</date>
+                     <settlement>
+                        <placeName>Polen, Ujście</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-06-01</date>
+                     <settlement>
+                        <placeName>Brasilien, São Paulo</placeName>
+                     </settlement>
+                  </death>
                   <note type="bio">
                      <p>Mann von tillich_person_id__3099</p>
                   </note>
@@ -22558,6 +22582,7 @@
                <person xml:id="tillich_person_id__3824">
                   <persName>Krueger, Lucy</persName>
                   <occupation>Kindergärtnerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119429683</idno>
                </person>
                <person xml:id="tillich_person_id__3825">
                   <persName>Fabian, Walter</persName>
@@ -24408,11 +24433,31 @@
                   <death>
                      <date>1968-05-16</date>
                      <settlement>
-                        <placeName>Haverford</placeName>
+                        <placeName key="#tillich_place_id__1316">Haverford</placeName>
                      </settlement>
                   </death>
                   <occupation>Sozialwissenschaftlerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/123603811</idno>
+               </person>
+               <person xml:id="tillich_person_id__4554">
+                  <persName>Alfred Eisenstein</persName>
+               </person>
+               <person xml:id="tillich_person_id__4555">
+                  <persName>Ackerknecht, Erwin Heinz</persName>
+                  <birth>
+                     <date>1906-06-01</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1988-11-18</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__480">Zürich</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Arzt, Medizinhistoriker, Trotzkist, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/12024893X</idno>
                </person>
             </listPerson>
          </div>
