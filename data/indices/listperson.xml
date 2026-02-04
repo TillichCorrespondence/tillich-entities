@@ -1728,7 +1728,14 @@
                   <persName>Blumenstock, Konrad</persName>
                </person>
                <person xml:id="tillich_person_id__233">
-                  <persName>Blumhardt, Johann Christoph</persName>
+                  <persName>Blumhardt, Christoph Friedrich</persName>
+                  <birth>
+                     <date>1842-06-01</date>
+                  </birth>
+                  <death>
+                     <date>1919-08-02</date>
+                  </death>
+                  <occupation>Evangelischer Theologe und Pfarrer; 1900-1906 Landtagsabgeordneter der SPD im Württemberger Landtag</occupation>
                </person>
                <person xml:id="tillich_person_id__234">
                   <persName>Bluntschli, Hans Hermann G.</persName>
@@ -22179,7 +22186,8 @@
                   <persName>Lenz, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3662">
-                  <persName>Schmidhauser, ???</persName>
+                  <persName>Schmidhauser, Julius</persName>
+                  <occupation>Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__3663">
                   <persName/>
@@ -24440,7 +24448,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/123603811</idno>
                </person>
                <person xml:id="tillich_person_id__4554">
-                  <persName>Alfred Eisenstein</persName>
+                  <persName>Alfred Eisenstein [Eistenstadt]</persName>
                </person>
                <person xml:id="tillich_person_id__4555">
                   <persName>Ackerknecht, Erwin Heinz</persName>
@@ -24458,6 +24466,17 @@
                   </death>
                   <occupation>Arzt, Medizinhistoriker, Trotzkist, Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12024893X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4588">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4589">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4590">
+                  <persName>Franz Joseph I., Kaiser</persName>
+                  <occupation>Kaiser von Österreich, Apostolischer König von Ungarn und König von Böhmen.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
                </person>
             </listPerson>
          </div>
