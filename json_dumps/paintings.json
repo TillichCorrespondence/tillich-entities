@@ -926,9 +926,18 @@
   "101": {
     "id": 101,
     "order": "67.00000000000000000000",
+    "title": "Rockefeller Center",
+    "wikidata": "Q104236967",
+    "tillich_id": "tillich_painting_id__101",
+    "painter": [],
+    "wikidata_image": "https://commons.wikimedia.org/wiki/Category:Views_from_Rockefeller_Center#/media/File:GE_Building_by_David_Shankbone.JPG"
+  },
+  "102": {
+    "id": 102,
+    "order": "68.00000000000000000000",
     "title": "",
     "wikidata": "",
-    "tillich_id": "tillich_painting_id__101",
+    "tillich_id": "tillich_painting_id__102",
     "painter": [],
     "wikidata_image": ""
   }

@@ -333,6 +333,11 @@
                   <author key="#tillich_person_id__3101">Sutherland, Graham Vivian</author>
                </bibl>
                <bibl xml:id="tillich_painting_id__101">
+                  <title>Rockefeller Center</title>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q104236967</idno>
+                  <ref type="wikidata_image">https://commons.wikimedia.org/wiki/Category:Views_from_Rockefeller_Center#/media/File:GE_Building_by_David_Shankbone.JPG</ref>
+               </bibl>
+               <bibl xml:id="tillich_painting_id__102">
                   <title/>
                </bibl>
             </listBibl>

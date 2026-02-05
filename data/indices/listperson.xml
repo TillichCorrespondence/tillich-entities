@@ -16379,7 +16379,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2586">
-                  <persName>Lisel</persName>
+                  <persName>Liesel</persName>
                   <occupation>Krankenschwester;</occupation>
                   <note type="bio">
                      <p>Sie war die jüngere Schwester von Hannah Tillich.</p>
@@ -21804,7 +21804,7 @@
                   <persName>Lienau, Robert</persName>
                </person>
                <person xml:id="tillich_person_id__3571">
-                  <persName>von Stein zu Nord- und Ostheim, Fanny Freiin</persName>
+                  <persName>von Gegnern, Fanny</persName>
                   <birth>
                      <date>10.09.1964</date>
                   </birth>
@@ -21847,10 +21847,18 @@
                   <occupation>Pastor in Schmalförden</occupation>
                </person>
                <person xml:id="tillich_person_id__3577">
-                  <persName>Bahr, Anna-Margareta</persName>
+                  <persName>Bahr, Anna-Margarete</persName>
+                  <birth>
+                     <date>1898-12-08</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <idno type="gnd">https://d-nb.info/gnd/116427574</idno>
                </person>
                <person xml:id="tillich_person_id__3578">
-                  <persName>von Gerlach, ???</persName>
+                  <persName>von Gerlach, Hellmut</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118538691</idno>
                </person>
                <person xml:id="tillich_person_id__3579">
                   <persName>???, J</persName>
@@ -21917,7 +21925,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/116764902</idno>
                </person>
                <person xml:id="tillich_person_id__3590">
-                  <persName>Hänisch, ???</persName>
+                  <persName>Haenisch, Konrad</persName>
+                  <occupation>Kultusminister 1919 bis 1921</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118544519</idno>
                </person>
                <person xml:id="tillich_person_id__3591">
                   <persName>Kolle, H</persName>
@@ -22183,7 +22193,8 @@
                   <persName>???, Elli</persName>
                </person>
                <person xml:id="tillich_person_id__3661">
-                  <persName>Lenz, ???</persName>
+                  <persName>Lenz, Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116930756</idno>
                </person>
                <person xml:id="tillich_person_id__3662">
                   <persName>Schmidhauser, Julius</persName>
@@ -24477,6 +24488,76 @@
                   <persName>Franz Joseph I., Kaiser</persName>
                   <occupation>Kaiser von Österreich, Apostolischer König von Ungarn und König von Böhmen.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
+               </person>
+               <person xml:id="tillich_person_id__4591">
+                  <persName>Wildhagen, Karl</persName>
+               </person>
+               <person xml:id="tillich_person_id__4592">
+                  <persName>Bahr, Anna Wilhelmine Amalie</persName>
+                  <occupation>Mutter von Anna-Magarete Bahr</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4593">
+                  <persName>Bahr, ???</persName>
+                  <occupation>Schwester von Anna-Magarete Bahr</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4594">
+                  <persName>Sthamer, Eduard</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117243280</idno>
+               </person>
+               <person xml:id="tillich_person_id__4595">
+                  <persName>Zuhl, Fräulein</persName>
+               </person>
+               <person xml:id="tillich_person_id__4596">
+                  <persName>Stoetzner, Fridel</persName>
+                  <birth>
+                     <date>1904-04-02</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-09-21</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__466">Warschau</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Journalistin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4597">
+                  <persName>Wright, Harry</persName>
+                  <occupation>Mathematiker, President City College</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4598">
+                  <persName>Hocking, William Ernest</persName>
+                  <birth>
+                     <date>1873-08-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__696">Cleveland, Ohio</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-06-12</date>
+                     <settlement>
+                        <placeName>Madison, New Hampshire</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosoph</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4599">
+                  <persName>Parsons, Talcott</persName>
+                  <birth>
+                     <date>1902-12-13</date>
+                     <settlement>
+                        <placeName>Colorado Springs</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1979-05-08</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Soziologe</occupation>
                </person>
             </listPerson>
          </div>
