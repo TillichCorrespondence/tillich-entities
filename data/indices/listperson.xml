@@ -15207,7 +15207,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/116141182</idno>
                </person>
                <person xml:id="tillich_person_id__2457">
-                  <persName>Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung, ???</persName>
+                  <persName>Sächsisches Ministerium für Wissenschaft, Kunst und Volksbildung, ???</persName>
                   <occupation>Institution;</occupation>
                </person>
                <person xml:id="tillich_person_id__2458">
@@ -24558,6 +24558,9 @@
                      </settlement>
                   </death>
                   <occupation>Soziologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4600">
+                  <persName>Davies, ?</persName>
                </person>
             </listPerson>
          </div>

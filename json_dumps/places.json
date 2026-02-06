@@ -9711,5 +9711,38 @@
     "latitude": "40.01317",
     "longitude": "-75.29435",
     "wikidata_url": ""
+  },
+  "1350": {
+    "id": 1350,
+    "order": "1013.00000000000000000000",
+    "name": "Sjösa",
+    "tillich_id": "tillich_place_id__1350",
+    "geonames_url": "https://sws.geonames.org/2678774/",
+    "Working Notes": "",
+    "latitude": "58.77757",
+    "longitude": "17.08919",
+    "wikidata_url": "http://www.wikidata.org/entity/Q2260986"
+  },
+  "1351": {
+    "id": 1351,
+    "order": "1014.00000000000000000000",
+    "name": "South Pomfret",
+    "tillich_id": "tillich_place_id__1351",
+    "geonames_url": "https://www.geonames.org/5241319/",
+    "Working Notes": "",
+    "latitude": "43.66507",
+    "longitude": "-72.53954",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3475877"
+  },
+  "1352": {
+    "id": 1352,
+    "order": "1015.00000000000000000000",
+    "name": "Sowjetunion",
+    "tillich_id": "tillich_place_id__1352",
+    "geonames_url": "https://www.geonames.org/8354411/",
+    "Working Notes": "",
+    "latitude": "60.00000",
+    "longitude": "98.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q15180"
   }
 }
