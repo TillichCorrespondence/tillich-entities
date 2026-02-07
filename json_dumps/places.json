@@ -9744,5 +9744,16 @@
     "latitude": "60.00000",
     "longitude": "98.00000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15180"
+  },
+  "1353": {
+    "id": 1353,
+    "order": "1016.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1353",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

@@ -24562,6 +24562,54 @@
                <person xml:id="tillich_person_id__4600">
                   <persName>Davies, ?</persName>
                </person>
+               <person xml:id="tillich_person_id__4601">
+                  <persName>Ptolemaeus</persName>
+               </person>
+               <person xml:id="tillich_person_id__4602">
+                  <persName>Lempp, Otto</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/101228350X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4603">
+                  <persName>Süskind, Hermann</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117371831</idno>
+               </person>
+               <person xml:id="tillich_person_id__4604">
+                  <persName>Baron, Hans</persName>
+                  <birth>
+                     <date>1900-06-22</date>
+                  </birth>
+                  <death>
+                     <date>1988-11-26</date>
+                  </death>
+                  <occupation>Historiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116059397</idno>
+               </person>
+               <person xml:id="tillich_person_id__4605">
+                  <persName>Flemmig, Georg</persName>
+                  <birth>
+                     <date>1874-04-14</date>
+                  </birth>
+                  <death>
+                     <date>1950-01-10</date>
+                  </death>
+                  <occupation>Rektor der Stadtschule Schlüchtern</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1088449778</idno>
+               </person>
+               <person xml:id="tillich_person_id__4606">
+                  <persName>Schubring, Wilhelm</persName>
+                  <occupation>Pfarrer, evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117117129</idno>
+               </person>
+               <person xml:id="tillich_person_id__4607">
+                  <persName>Mereschkowski, Dimitri S.</persName>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118733001</idno>
+               </person>
+               <person xml:id="tillich_person_id__4608">
+                  <persName>Schneemelcher, Wilhelm Christoph Robert August</persName>
+                  <occupation>Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139672176</idno>
+               </person>
             </listPerson>
          </div>
       </body>

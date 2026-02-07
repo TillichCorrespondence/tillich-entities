@@ -3210,10 +3210,10 @@
   "701": {
     "id": 701,
     "order": "408.00000000000000000000",
-    "name": "",
+    "name": "Baron, Hans. „Ernst Troeltsch: Philosophie der Geschichte. Nachschrift der Berliner Vorlesung im Zwischensemester 1919. Hg. und eingeleitet von Hans Cymorek, Friedrich Wilhelm Graf und Christian Nees“. In „Geschichte durch Geschichte überwinden“. Ernst Troeltsch in Berlin. Troeltsch-Studien, N. F., Bd. 1. Gütersloher Verlagshaus, 2006.",
     "working_note": "",
     "tillich_id": "tillich_work_id__701",
-    "zotero": ""
+    "zotero": "UKZSJSM7"
   },
   "702": {
     "id": 702,
@@ -3222,5 +3222,45 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__702",
     "zotero": "TGBGTRAY"
+  },
+  "703": {
+    "id": 703,
+    "order": "410.00000000000000000000",
+    "name": "Troeltsch, Ernst. „Zum Gedächtnis Otto Lempps und Hermann Süskinds“. Die Christliche Welt 29 (1915): 653–57.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__703",
+    "zotero": "RBKXQA96"
+  },
+  "704": {
+    "id": 704,
+    "order": "411.00000000000000000000",
+    "name": "Koch, Ursula E. „[Rez.] La Revue ‚Die Hilfe‘, 1894-1944. Un laboratoire d’idées en Allemagne. Die Zeitschrift ‚Die Hilfe‘, 1894-1944. Ein Ideenlabor in Deutschland by Philippe Alexandre, Reiner Marcowitz“. Jahrbuch für Kommunikationsgeschichte 14 (2012): 237 f.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__704",
+    "zotero": "3TAIVZ45"
+  },
+  "705": {
+    "id": 705,
+    "order": "412.00000000000000000000",
+    "name": "Tillich, Paul. „Über die Idee einer Theologie der Kultur. Vortrag, gehalten in der Berliner Abteilung der Kant-Gesellschaft am 16. April 1919“. In Religionsphilosophie der Kultur. Zwei Entwürfe. Philosophische Vorträge. Veröffentlicht von der Kant-Gesellschaft, Nr. 24. Verlag von Reuther & Reichard, 1919.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__705",
+    "zotero": "BDXIM5ZW"
+  },
+  "706": {
+    "id": 706,
+    "order": "413.00000000000000000000",
+    "name": "Barth, Karl. Der Römerbrief. G. A. Bäschlin, 1919.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__706",
+    "zotero": "G8R2NABM"
+  },
+  "707": {
+    "id": 707,
+    "order": "414.00000000000000000000",
+    "name": "Barth, Karl. Der Christ in der Gesellschaft. Eine Tambacher Rede. Mit einem Geleitwort von Hans Ehrenberg. Patmos-Verlag, 1920.",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__707",
+    "zotero": "S8BK98AC"
   }
 }
