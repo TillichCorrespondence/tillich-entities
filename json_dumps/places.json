@@ -9755,5 +9755,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1354": {
+    "id": 1354,
+    "order": "1017.00000000000000000000",
+    "name": "Ridgewood",
+    "tillich_id": "tillich_place_id__1354",
+    "geonames_url": "https://www.geonames.org/5103269/",
+    "Working Notes": "",
+    "latitude": "40.97926",
+    "longitude": "-74.11653",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1677925"
   }
 }

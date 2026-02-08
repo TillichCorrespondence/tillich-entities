@@ -6419,7 +6419,15 @@
                   <idno type="geonames">https://sws.geonames.org/8354411/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q15180</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__1354">
+                  <placeName>Ridgewood</placeName>
+                  <location type="coords">
+                     <geo>40.97926 -74.11653</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5103269/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1677925</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>

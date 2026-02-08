@@ -24610,6 +24610,11 @@
                   <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/139672176</idno>
                </person>
+               <person xml:id="tillich_person_id__4609">
+                  <persName>Schmidt, Raymund</persName>
+                  <occupation>Philosoph, Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117514322</idno>
+               </person>
             </listPerson>
          </div>
       </body>
