@@ -4534,6 +4534,18 @@
                </person>
                <person xml:id="tillich_person_id__923">
                   <persName>Holl, Karl</persName>
+                  <birth>
+                     <date>1866-05-15</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1926-05-23</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__924">
                   <persName>Holldack, Felix</persName>
@@ -4876,6 +4888,18 @@
                </person>
                <person xml:id="tillich_person_id__1013">
                   <persName>Kähler, Martin</persName>
+                  <birth>
+                     <date>1835-01-06</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__1084">Neuhausen bei Königsberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1912-09-07</date>
+                     <settlement>
+                        <placeName>Freudenstadt im Schwarzwald</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Theologe, Professor für Systematische Theologie und Neues Testament</occupation>
                   <note type="bio">
                      <p>Karl Martin August Kähler (6. Januar 1835 – 7. September 1912) war ein deutscher protestantischer Theologe und Professor in Halle. Er gilt als einer der prägenden Vertreter einer vom Glauben durchdrungenen Theologie, die wissenschaftliche Arbeit und persönliche Frömmigkeit zu verbinden suchte. In seiner Schrift Der sogenannte historische Jesus und der geschichtliche, biblische Christus (1892) wandte er sich gegen die Leben-Jesu-Forschung und betonte den geglaubten Christus der Schrift gegenüber dem historisch rekonstruierten Jesus. Mit Werken wie Die Lehre von der Versöhnung und Die Wissenschaft der christlichen Lehre prägte er eine Generation von Theologen, die über ihn indirekt auch die Bekennende Kirche beeinflusste.</p>
@@ -8067,6 +8091,18 @@
                </person>
                <person xml:id="tillich_person_id__1760">
                   <persName>Seeberg, Erich</persName>
+                  <birth>
+                     <date>1888-10-08</date>
+                     <settlement>
+                        <placeName>Dorpat</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-02-26</date>
+                     <settlement>
+                        <placeName>Ahrenshoop, Vorpommern</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Kirchenhistoriker</occupation>
                   <note type="bio">
                      <p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p>
@@ -17635,6 +17671,9 @@
                   </birth>
                   <death>
                      <date>1920-11-09</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
+                     </settlement>
                   </death>
                   <occupation>Theologe; Professor;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117496774</idno>
@@ -23021,6 +23060,18 @@
                </person>
                <person xml:id="tillich_person_id__3998">
                   <persName>Twesten, August</persName>
+                  <birth>
+                     <date>1789-04-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__777">Glückstadt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1876-01-08</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Theologe, Professor für Systematische Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__3999">

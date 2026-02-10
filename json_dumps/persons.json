@@ -16553,11 +16553,11 @@
     "legacy_id": "P00923",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__923",
-    "date_of_birth": null,
-    "date_of_death": null,
-    "working_note": null,
-    "place_of_birth": null,
-    "place_of_death": null
+    "date_of_birth": "1866-05-15",
+    "date_of_death": "1926-05-23",
+    "working_note": "Karl Holl (geb. 15. Mai 1866 in Tübingen; gest. 23. Mai 1926 in Berlin); 1900 wurde Holl außerordentlicher Professor für Kirchen- und Dogmengeschichte an der Eberhard-Karls-Universität in Tübingen, ab 1906 lehrte er als zweiter Ordinarius für Kirchengeschichte an der Friedrich-Wilhelms-Universität in Berlin. Hirsch sah in Karl Holl seinen wichtigsten Lehrer. Umgekehrt schätzte Holl Emmanuel Hirsch als seinen bedeutendsten Schüler.",
+    "place_of_birth": "Tübingen",
+    "place_of_death": "Berlin"
   },
   "924": {
     "id": 924,
@@ -18173,11 +18173,11 @@
     "legacy_id": "P01013",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__1013",
-    "date_of_birth": null,
-    "date_of_death": null,
-    "working_note": null,
-    "place_of_birth": null,
-    "place_of_death": null
+    "date_of_birth": "1835-01-06",
+    "date_of_death": "1912-09-07",
+    "working_note": "Martin Kähler (Details anzeigen)q (geb. 6. Januar 1835 in Neuhausen bei Königsberg (Details anzeigen)r; gest. 7. September 1912 in Freudenstadt (Details anzeigen)s im Schwarzwald), deutscher protestantischer Theologe, Mitglied des Hallenser (Details anzeigen)t Wingolfsbundes und einer von Tillichs (Details anzeigen)u akademischen Lehrern.",
+    "place_of_birth": "Neuhausen bei Königsberg",
+    "place_of_death": "Freudenstadt im Schwarzwald"
   },
   "1014": {
     "id": 1014,
@@ -31565,11 +31565,11 @@
     "legacy_id": "P01762",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__1760",
-    "date_of_birth": null,
-    "date_of_death": null,
-    "working_note": null,
-    "place_of_birth": null,
-    "place_of_death": null
+    "date_of_birth": "1888-10-08",
+    "date_of_death": "1945-02-26",
+    "working_note": "Erich Seeberg (Details anzeigen)ag (geb. 8. Oktober 1888 in Dorpat (Details anzeigen)ah; gest. 26. Februar 1945 in Ahrenshoop (Details anzeigen)ai, Vorpommern), der Sohn von Reinhold Seeberg (Details anzeigen)aj, hatte sich 1914 in Greifswald habilitiert und wurde 1919 zum außerordentlichen Professor ernannt. Von 1920 bis 1924 lehrte er Kirchengeschichte in der Theologischen Fakultät der Königlichen Albertus-Universität zu Königsberg (Details anzeigen)ak in Preußen.",
+    "place_of_birth": "Dorpat",
+    "place_of_death": "Ahrenshoop, Vorpommern"
   },
   "1761": {
     "id": 1761,
@@ -48757,9 +48757,9 @@
     "tillich_id": "tillich_person_id__2743",
     "date_of_birth": "1855-01-08",
     "date_of_death": "1920-11-09",
-    "working_note": "",
+    "working_note": "Emanuel Hirschs Schwiegervater war der Systematische Theologe Gustav Ecke (geb. 8. Januar 1855 in Erfurt; gest. 9. November 1920 in Bonn), der nach einem Ordinariat in Königsberg seit 1903 als Ordinarius für Systematische und Praktische Theologie an der Evangelisch-Theologischen Fakultät der Rheinischen Friedrich-Wilhelms-Universität Bonn lehrte. Ecke, der Martin Kähler als seinen wichtigsten Lehrer verehrte, hatte drei Söhne und zwei Töchter. Seine Tochter Rosa Ecke heiratete 1918 in Bonn Emanuel Hirsch.",
     "place_of_birth": "Erfurt",
-    "place_of_death": ""
+    "place_of_death": "Bonn"
   },
   "2744": {
     "id": 2744,
@@ -67871,11 +67871,11 @@
     "legacy_id": "",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__3998",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "working_note": "",
-    "place_of_birth": "",
-    "place_of_death": ""
+    "date_of_birth": "1789-04-11",
+    "date_of_death": "1876-01-08",
+    "working_note": "August Twesten (geb. 11. April 1789 in Glückstadt (Details anzeigen)l; gest. 8. Januar 1876 in Berlin (Details anzeigen)m), der Nachfolger Friedrich Schleiermachers (Details anzeigen)n auf dem Berliner Lehrstuhl für Systematische Theologie. Twestens Witwe Catharina Amalia Margarete, geb. Behrens (Details anzeigen)o, hatte nach dem Tod ihres Mannes 1877 mit 30.000 Mark eine \"Twesten-Stiftung\" \"zum Besten der Evangelischen Theologie und Kirche\" gegründet.",
+    "place_of_birth": "Glückstadt",
+    "place_of_death": "Berlin"
   },
   "3999": {
     "id": 3999,
