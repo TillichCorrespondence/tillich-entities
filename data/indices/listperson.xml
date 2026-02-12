@@ -9715,6 +9715,9 @@
                </person>
                <person xml:id="tillich_person_id__1933">
                   <persName>Tillich, Klaus Eberhard</persName>
+                  <birth>
+                     <date>1920-11-25</date>
+                  </birth>
                </person>
                <person xml:id="tillich_person_id__1934">
                   <persName>Tillich, Randell Wild</persName>
@@ -15285,7 +15288,7 @@
                   <occupation>Literaturwissenschaftlerin</occupation>
                </person>
                <person xml:id="tillich_person_id__2462">
-                  <persName>Haussig, Friedel</persName>
+                  <persName>Haussig, Frieda</persName>
                </person>
                <person xml:id="tillich_person_id__2463">
                   <persName>Fuchs, Emil</persName>
@@ -24665,6 +24668,15 @@
                   <persName>Schmidt, Raymund</persName>
                   <occupation>Philosoph, Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117514322</idno>
+               </person>
+               <person xml:id="tillich_person_id__4642">
+                  <persName>Schmidt, Andreas</persName>
+                  <birth>
+                     <date>11.04.1923</date>
+                  </birth>
+                  <note type="bio">
+                     <p>Sohn von Karl Ludwig und Ursula Schmidt</p>
+                  </note>
                </person>
             </listPerson>
          </div>
