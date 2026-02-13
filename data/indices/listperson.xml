@@ -8125,7 +8125,7 @@
                </person>
                <person xml:id="tillich_person_id__1763">
                   <persName>Seeberger, Erhard</persName>
-                  <occupation>Pfarrer</occupation>
+                  <occupation>Pfarrer in Berlin-Tempelhof</occupation>
                   <note type="bio">
                      <p>Ehemann von Tillichs Schwester Elisabeth.</p>
                   </note>
@@ -10393,7 +10393,7 @@
                   <birth>
                      <date>1768-01-30</date>
                      <settlement>
-                        <placeName>Braunschweig</placeName>
+                        <placeName key="#tillich_place_id__1387">Braunschweig</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13149,7 +13149,7 @@
                   <death>
                      <date>1910-11-15</date>
                      <settlement>
-                        <placeName>Braunschweig</placeName>
+                        <placeName key="#tillich_place_id__1387">Braunschweig</placeName>
                      </settlement>
                   </death>
                   <occupation>Schriftsteller;</occupation>
@@ -18112,7 +18112,7 @@
                   <death>
                      <date>1922-01-05</date>
                      <settlement>
-                        <placeName>Braunschweig</placeName>
+                        <placeName key="#tillich_place_id__1387">Braunschweig</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe; Pfarrer;</occupation>
@@ -18201,7 +18201,7 @@
                   <persName>Pahl, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2827">
-                  <persName>???, Rudi</persName>
+                  <persName>klein, Rudi</persName>
                </person>
                <person xml:id="tillich_person_id__2828">
                   <persName>Tillich, Karl</persName>
@@ -19524,8 +19524,11 @@
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>Professor für Psychiatrie und Nervenkrankheiten an der Universität Marburg sowie Leiter der Psychiatrischen und Nervenklinik, ab 1926 Leiter der Nervenklinik der Universität Kiel. Nach dem Zweiten Weltkrieg wurde Stertz zum kommissarischen Leiter der Psychiatrischen Klinik der Universität München ernannt. Seine Frau Gertrud war eine Tochter von Alois Alzheimer.</occupation>
+                  <occupation>Professor für Psychiatrie und Nervenkrankheiten</occupation>
                   <idno type="gnd">https://portal.dnb.de/opac/showFirstRecord?currentResultId=nid%3D105536787X%26any&amp;currentPosition=0</idno>
+                  <note type="bio">
+                     <p>Professor für Psychiatrie und Nervenkrankheiten an der Universität Marburg sowie Leiter der Psychiatrischen und Nervenklinik, ab 1926 Leiter der Nervenklinik der Universität Kiel. Nach dem Zweiten Weltkrieg wurde Stertz zum kommissarischen Leiter der Psychiatrischen Klinik der Universität München ernannt. Seine Frau Gertrud war eine Tochter von Alois Alzheimer.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3069">
                   <persName>Dossir</persName>
@@ -22095,7 +22098,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__3624">
-                  <persName>Hotop, ???</persName>
+                  <persName>Hotop, Helmut</persName>
                </person>
                <person xml:id="tillich_person_id__3625">
                   <persName/>
@@ -24677,6 +24680,43 @@
                   <note type="bio">
                      <p>Sohn von Karl Ludwig und Ursula Schmidt</p>
                   </note>
+               </person>
+               <person xml:id="tillich_person_id__4675">
+                  <persName>Grabert, W.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4676">
+                  <persName>Hartig, Paul</persName>
+                  <birth>
+                     <date>1898-07-01</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__135">Erfurt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1997-06-15</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Lehrer, Anglist, Romanist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116490764</idno>
+               </person>
+               <person xml:id="tillich_person_id__4677">
+                  <persName>Küppers, Erica</persName>
+                  <birth>
+                     <date>1891-12-20</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__610">Essen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-09-16</date>
+                     <settlement>
+                        <placeName>Bad Vilbel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelische Theologin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119397560</idno>
                </person>
             </listPerson>
          </div>

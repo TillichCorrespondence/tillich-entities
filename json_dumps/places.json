@@ -9766,5 +9766,16 @@
     "latitude": "40.97926",
     "longitude": "-74.11653",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1677925"
+  },
+  "1387": {
+    "id": 1387,
+    "order": "1018.00000000000000000000",
+    "name": "Braunschweig",
+    "tillich_id": "tillich_place_id__1387",
+    "geonames_url": "https://www.geonames.org/6552297/",
+    "Working Notes": "",
+    "latitude": "52.26471",
+    "longitude": "10.52333",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2773"
   }
 }

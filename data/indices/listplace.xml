@@ -6427,6 +6427,14 @@
                   <idno type="geonames">https://sws.geonames.org/5103269/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1677925</idno>
                </place>
+               <place xml:id="tillich_place_id__1387">
+                  <placeName>Braunschweig</placeName>
+                  <location type="coords">
+                     <geo>52.26471 10.52333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6552297/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2773</idno>
+               </place>
             </listPlace>
          </div>
       </body>
