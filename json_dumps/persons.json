@@ -73060,5 +73060,23 @@
     "working_note": "",
     "place_of_birth": "Essen",
     "place_of_death": "Bad Vilbel"
+  },
+  "4678": {
+    "id": 4678,
+    "order": "4115.00000000000000000000",
+    "name": "Koch, Ursula E.",
+    "surname": "Koch",
+    "forename": "Ursula E.",
+    "from_to": "1934–",
+    "occupation": "Professorin für Kommunikationswissenschaft",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118190709",
+    "tillich_id": "tillich_person_id__4678",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

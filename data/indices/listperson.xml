@@ -24718,6 +24718,11 @@
                   <occupation>Evangelische Theologin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119397560</idno>
                </person>
+               <person xml:id="tillich_person_id__4678">
+                  <persName>Koch, Ursula E.</persName>
+                  <occupation>Professorin für Kommunikationswissenschaft</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118190709</idno>
+               </person>
             </listPerson>
          </div>
       </body>
