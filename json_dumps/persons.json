@@ -73078,5 +73078,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4679": {
+    "id": 4679,
+    "order": "4116.00000000000000000000",
+    "name": "Seng, Thomas",
+    "surname": "Seng",
+    "forename": "Thomas",
+    "from_to": "1964–",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/172772656",
+    "tillich_id": "tillich_person_id__4679",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "4680": {
+    "id": 4680,
+    "order": "4117.00000000000000000000",
+    "name": "Pfennigsdorf, Emil",
+    "surname": "Pfennigsdorf",
+    "forename": "Emil",
+    "from_to": "1868–1952",
+    "occupation": "Evangelischer Theologe, Konsistorialrat",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/116165022",
+    "tillich_id": "tillich_person_id__4680",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

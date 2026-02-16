@@ -24723,6 +24723,15 @@
                   <occupation>Professorin für Kommunikationswissenschaft</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118190709</idno>
                </person>
+               <person xml:id="tillich_person_id__4679">
+                  <persName>Seng, Thomas</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/172772656</idno>
+               </person>
+               <person xml:id="tillich_person_id__4680">
+                  <persName>Pfennigsdorf, Emil</persName>
+                  <occupation>Evangelischer Theologe, Konsistorialrat</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116165022</idno>
+               </person>
             </listPerson>
          </div>
       </body>

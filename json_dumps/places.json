@@ -9777,5 +9777,27 @@
     "latitude": "52.26471",
     "longitude": "10.52333",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2773"
+  },
+  "1388": {
+    "id": 1388,
+    "order": "1019.00000000000000000000",
+    "name": "Long Island",
+    "tillich_id": "tillich_place_id__1388",
+    "geonames_url": "https://www.geonames.org/5125123/",
+    "Working Notes": "",
+    "latitude": "40.81677",
+    "longitude": "-73.06622",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q18438"
+  },
+  "1389": {
+    "id": 1389,
+    "order": "1020.00000000000000000000",
+    "name": "Oregon",
+    "tillich_id": "tillich_place_id__1389",
+    "geonames_url": "https://www.geonames.org/5744337/",
+    "Working Notes": "",
+    "latitude": "44.00013",
+    "longitude": "-120.50139",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q824"
   }
 }

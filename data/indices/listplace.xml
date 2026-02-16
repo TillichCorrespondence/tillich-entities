@@ -6435,6 +6435,22 @@
                   <idno type="geonames">https://sws.geonames.org/6552297/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q2773</idno>
                </place>
+               <place xml:id="tillich_place_id__1388">
+                  <placeName>Long Island</placeName>
+                  <location type="coords">
+                     <geo>40.81677 -73.06622</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5125123/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q18438</idno>
+               </place>
+               <place xml:id="tillich_place_id__1389">
+                  <placeName>Oregon</placeName>
+                  <location type="coords">
+                     <geo>44.00013 -120.50139</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5744337/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q824</idno>
+               </place>
             </listPlace>
          </div>
       </body>
