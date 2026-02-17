@@ -24732,6 +24732,21 @@
                   <occupation>Evangelischer Theologe, Konsistorialrat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116165022</idno>
                </person>
+               <person xml:id="tillich_person_id__4681">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4682">
+                  <persName>Vichura, Margarete</persName>
+               </person>
+               <person xml:id="tillich_person_id__4683">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4684">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4685">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>
