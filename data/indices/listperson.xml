@@ -16418,7 +16418,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2586">
-                  <persName>Liesel</persName>
+                  <persName>Werner, Liesel</persName>
                   <occupation>Krankenschwester;</occupation>
                   <note type="bio">
                      <p>Sie war die jüngere Schwester von Hannah Tillich.</p>
@@ -24785,6 +24785,13 @@
                </person>
                <person xml:id="tillich_person_id__4698">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4699">
+                  <persName>Medicus, Franz Albrecht</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116989734</idno>
+               </person>
+               <person xml:id="tillich_person_id__4700">
+                  <persName>Volland, ???</persName>
                </person>
             </listPerson>
          </div>
