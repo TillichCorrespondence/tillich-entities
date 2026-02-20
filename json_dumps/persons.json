@@ -73474,5 +73474,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4702": {
+    "id": 4702,
+    "order": "4138.00000000000000000000",
+    "name": "",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__4702",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "4703": {
+    "id": 4703,
+    "order": "4139.00000000000000000000",
+    "name": "Bauer, Walter",
+    "surname": "Bauer",
+    "forename": "Walter",
+    "from_to": "1877-1960",
+    "occupation": "Theologe",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/119513366",
+    "tillich_id": "tillich_person_id__4703",
+    "date_of_birth": "1877-08-08",
+    "date_of_death": "1960-11-17",
+    "working_note": "",
+    "place_of_birth": "Königsberg in Pr.",
+    "place_of_death": "Göttingen"
   }
 }

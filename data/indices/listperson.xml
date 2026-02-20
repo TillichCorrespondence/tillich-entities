@@ -24793,6 +24793,26 @@
                <person xml:id="tillich_person_id__4700">
                   <persName>Volland, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__4702">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4703">
+                  <persName>Bauer, Walter</persName>
+                  <birth>
+                     <date>1877-08-08</date>
+                     <settlement>
+                        <placeName>Königsberg in Pr.</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1960-11-17</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__743">Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119513366</idno>
+               </person>
             </listPerson>
          </div>
       </body>
