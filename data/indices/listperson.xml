@@ -1254,8 +1254,9 @@
                <person xml:id="tillich_person_id__128">
                   <persName>Balke, Hans</persName>
                   <occupation>Pfarrer;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127402659</idno>
                   <note type="bio">
-                     <p>Er wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth.</p>
+                     <p>Hans Wilhelm Eduard Balke (30. August 1886 – 14. März 1980) war ein evangelischer Pfarrer und Superintendent. Er wurde in Köln-Ehrenfeld als Sohn des Pfarrers Franz Gotthilf Nathanel Balke und dessen Ehefrau Anna Dorothea Wilhelmina Bartels geboren. Am 18. Dezember 1913 heiratete er in Soest Adelheid Voswinckel. Balke wirkte als Pfarrer in Erndtebrück, Hamm und Kaiserswerth und übte später das Amt eines Superintendenten aus.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__129">
@@ -3877,8 +3878,9 @@
                </person>
                <person xml:id="tillich_person_id__757">
                   <persName>Hahl, Margot</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1160519838</idno>
                   <note type="bio">
-                     <p>Seit 1917 Studium der Theologie und Ägyptologie in Berlin, wo sie 1922 ihr Examen ablegte und zeitweise eine Geliebte Karl Ludwig  Schmidts war. So lernte sie 1921 Tillich besser kennen, bei dem sie auch studierte und mit dem sie sich anfreundete. Gemeinsam besuchten sie in Berlin Diskussionskreise, Salons und Museen. Die Beziehung verkomplizierte sich jedoch bereits 1922 durch den verstärkten Eintritt Hannah Tillichs in Pauls Leben. Im selben Jahr heiratete Margot Erich Faust (*1893), der eine Leitungsposition bei den Röchlinger Eisen- und Stahlwerken innehatte. 1937 ließen sie sich scheiden und Margot heiratete Hans Hahl (1906-1984), der ebenfalls an der ‚Völklinger Hütte‘ beschäftigt war, 1938 jedoch zum Flick-Konzern wechselte, wo er bis zu seiner Pensionierung tätig war. Die Freundschaft Margots zu den Tillichs bestand bis zu deren Tod. </p>
+                     <p>Margot Hahl (geb. 1900) war eine deutsche Theologin, deren Nachname zeitweise auch Müller lautete. Seit 1917 studierte sie in Berlin Evangelische Theologie, Ägyptologie und Philosophie und legte 1922 ihr Examen ab. Sie besuchte Vorlesungen von Paul Tillich und Ernst Troeltsch und stand seit ihrer Berliner Studienzeit in engem Kontakt zu Paul und Hannah Tillich; mit Paul Tillich verband sie zeitweise eine persönliche Beziehung. 1922 heiratete sie Erich Faust, von dem sie sich 1937 scheiden ließ. 1938 ging sie die Ehe mit Hans Hahl ein. Die freundschaftliche Verbindung zu den Tillichs bestand bis zu deren Tod fort.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__758">
@@ -3990,6 +3992,10 @@
                </person>
                <person xml:id="tillich_person_id__788">
                   <persName>Hanffstengel, Gottfried von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1146794533</idno>
+                  <note type="bio">
+                     <p>Gottfried von Hanffstengel (1852 – 1939) war Superintendent in der Hannoverschen Landeskirche. Als Sohn des Pastors von St. Pauli in Bremen wirkte er in Verden, Oppeln, Worpswede, Zeven und Bremervörde. In seinen Lebenserinnerungen „Ein Pastorenleben in Norddeutschland“ schilderte er seine Jugend, die Gemeindearbeit sowie kirchliche und familiäre Zusammenhänge zwischen Weser und Elbe. Hanffstengel entstammte einem Pfarrgeschlecht, aus dem zwischen 1716 und 1977 fünfzehn Pastoren und Superintendenten hervorgingen. Während seiner Amtszeit in Bremervörde (1895–1922) wurde 1901 eine Posaunenabteilung des Evangelischen Jünglingsvereins gegründet.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__789">
                   <persName>Hanna, Charles B.</persName>
@@ -4459,7 +4465,7 @@
                   <occupation>Systematischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118551477</idno>
                   <note type="bio">
-                     <p>Emanuel Hirsch (14. Juni 1888, Benwisch / Prignitz – 17. Juli 1972, Göttingen) war ein deutscher evangelischer Theologe, der nach Studien in Berlin und Göttingen von 1921 bis 1945 als Professor für Kirchengeschichte, später für Systematische Theologie, an der Universität Göttingen wirkte. Auf Fichte, Luther und Kierkegaard zurückgreifend, verband er historische Forschung mit transzendentaler Reflexion zu einer „ethischen Geschichtsansicht“, deren Kern er in Werken wie dem „Leitfaden zur christlichen Lehre“ (1938) und der fünfbändigen „Geschichte der neueren evangelischen Theologie“ (1949–1954) entfaltete. Hirsch begrüßte 1933 den Nationalsozialismus, unterstützte die „Deutschen Christen“ und sah in Hitlers Bewegung die Überwindung einer von ihm diagnostizierten Kultur- und Staatskrise, was sein Nachwirken schwer belastete. Nach 1945 blieb er publizistisch aktiv und leitete eine private Sozietät zur Relecture theologischer Klassiker, ohne seine politische Haltung grundsätzlich zu revidieren.</p>
+                     <p>Emanuel Hirsch (14. Juni 1888 – 17. Juli 1972) war ein deutscher evangelischer Theologe. Nach Studien in Berlin und Göttingen lehrte er von 1921 bis 1945 als Professor für Kirchengeschichte, später für Systematische Theologie, an der Universität Göttingen. In Auseinandersetzung mit Fichte, Luther und Kierkegaard entwickelte er eine „ethische Geschichtsansicht“, die er unter anderem im Leitfaden zur christlichen Lehre (1938) und in der fünfbändigen Geschichte der neueren evangelischen Theologie (1949–1954) darlegte. 1933 begrüßte Hirsch den Nationalsozialismus, unterstützte die „Deutschen Christen“ und deutete Hitlers Bewegung als Überwindung einer kulturellen und staatlichen Krise, was sein theologisches Nachwirken nachhaltig belastete. Nach 1945 publizierte er weiter und leitete eine private Sozietät zur Relecture theologischer Klassiker, ohne seine politische Haltung grundsätzlich zu revidieren.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__905">
@@ -7353,8 +7359,10 @@
                   <death>
                      <date>1975-09-23</date>
                   </death>
-                  <occupation>Studentin Tillichs; Studium: Literatur, Philosophie, Theologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1243813822</idno>
+                  <note type="bio">
+                     <p>Maria Rhine (1. Dezember 1895 – 23. September 1975), geboren als Maria Klein, war eine deutsche Theologin und Philosophin (Dr.), Autorin und Übersetzerin im Umfeld Paul Tillichs. Sie studierte Literatur, Philosophie und Theologie und war seine Studentin. Mit Tillich stand sie in Korrespondenz und wirkte in einem Kreis ehemaliger Dresdner Studentinnen an der deutschen Übersetzung der Systematischen Theologie mit. In Tillichs Gesammelten Werken erscheint sie zudem als Zeitzeugin seiner Berliner Jahre.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1595">
                   <persName>Ricardo, David</persName>
@@ -7717,7 +7725,8 @@
                </person>
                <person xml:id="tillich_person_id__1678">
                   <persName>Salomon, Gottfried</persName>
-                  <occupation>Ein deutsch-amerikanischer Soziologe und Nationalökonom</occupation>
+                  <occupation>Gottfried Salomon (21. November 1892 – 27. April 1964) war ein deutsch-amerikanischer Soziologe und Nationalökonom. 1916 wurde er bei Georg Simmel promoviert, habilitierte sich 1921 in Frankfurt am Main bei Franz Oppenheimer und lehrte dort als Privatdozent und außerordentlicher Professor für Soziologie; zudem war er Herausgeber des „Jahrbuchs für Soziologie“ und Organisator der Davoser Hochschulkurse. 1933 wurde ihm die Lehrbefugnis entzogen, worauf er über Rom und Paris in die USA emigrierte. Dort lehrte er an der New School for Social Research und an der Columbia University, beriet während des Zweiten Weltkriegs das War Department und nahm den Namen Salomon-Delatour an. 1958 kehrte er nach Deutschland zurück und unterrichtete bis zu seinem Tod wieder in Frankfurt am Main.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116767359</idno>
                </person>
                <person xml:id="tillich_person_id__1679">
                   <persName>Salz, Lotte</persName>
@@ -16277,6 +16286,9 @@
                   </death>
                   <occupation>Verleger;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/141296372</idno>
+                  <note type="bio">
+                     <p>Wilhelm Ruprecht (6. Juni 1858 – 7. August 1943) war ein deutscher Verleger in Göttingen. Als Sohn des Verlegers Carl Johann Friedrich Wilhelm Ruprecht trat er 1883 in den väterlichen Verlag ein und wurde 1887 gemeinsam mit seinem Bruder Gustav Ruprecht Teilhaber. Zuvor hatte er nach Militärdienst Nationalökonomie in Leipzig und Tübingen studiert und im Verlag Max Niemeyer in Halle gearbeitet. Seit 1899 gehörte er dem Vorstand des Börsenvereins der deutschen Buchhändler an und übernahm dort weitere Funktionen; 1932 erhielt er das Goldene Ehrenzeichen des Vereins. 1914 nahm er im Alter von 56 Jahren als Soldat am Ersten Weltkrieg teil.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2570">
                   <persName>Dell, August</persName>
