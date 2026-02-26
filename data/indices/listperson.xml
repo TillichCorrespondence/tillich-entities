@@ -4275,6 +4275,7 @@
                </person>
                <person xml:id="tillich_person_id__855">
                   <persName>Heitmüller, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116678631</idno>
                </person>
                <person xml:id="tillich_person_id__856">
                   <persName>Heller, Hermann</persName>
@@ -13682,6 +13683,9 @@
                <person xml:id="tillich_person_id__2306">
                   <persName>Hildebrandt, Else</persName>
                   <occupation>Pädagogin;</occupation>
+                  <note type="bio">
+                     <p>Die Pädagogin Else Hildebrandt, geboren am 17. Juli 1894, wurde im Dezember 1943 aufgrund einer Denunziation durch den lokalen NSDAP-Ortsgruppenleiter von ihrem damaligen Wohnort Ramsau bei Berchtesgaden in das Konzentrationslager Ravensbrück gebracht. Else Hildebrandt wurde hier wohl 1944 ermordet. Ihr Mann Paul Hildebrandt (1870–1948), ebenfalls ein Pädagoge, wurde im Konzentrationslager Buchenwald inhaftiert. Else Hildebrandt veröffentlichte: Arbeiterbildungsfragen im zukünftigen Deutschland. Jena: Eugen Diederichs Verlag, 1916; Die schwedische Volkshochschule. Ihre politischen und sozialen Grundlagen, Zentralstelle für Volkswohlfahrt. Berlin: Heymann, 1916.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2307">
                   <persName>Dresler und Scharfenstein, Wilhelm Ernst Hermann von</persName>
@@ -19265,7 +19269,8 @@
                   <persName>??? Weber</persName>
                </person>
                <person xml:id="tillich_person_id__3005">
-                  <persName>??? Böhmer</persName>
+                  <persName>Boehmer, Heinrich</persName>
+                  <occupation>Evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__3006">
                   <persName>??? Dogander</persName>
