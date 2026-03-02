@@ -24830,6 +24830,11 @@
                   <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119513366</idno>
                </person>
+               <person xml:id="tillich_person_id__4704">
+                  <persName>Neugebauer, Georg</persName>
+                  <occupation>Evangelischer Theologe, Privatdozent, Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/132364883</idno>
+               </person>
             </listPerson>
          </div>
       </body>

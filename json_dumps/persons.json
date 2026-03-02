@@ -73510,5 +73510,23 @@
     "working_note": "",
     "place_of_birth": "Königsberg in Pr.",
     "place_of_death": "Göttingen"
+  },
+  "4704": {
+    "id": 4704,
+    "order": "4140.00000000000000000000",
+    "name": "Neugebauer, Georg",
+    "surname": "Neugebauer",
+    "forename": "Georg",
+    "from_to": "1974–",
+    "occupation": "Evangelischer Theologe, Privatdozent, Pfarrer",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/132364883",
+    "tillich_id": "tillich_person_id__4704",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }
