@@ -24835,6 +24835,24 @@
                   <occupation>Evangelischer Theologe, Privatdozent, Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/132364883</idno>
                </person>
+               <person xml:id="tillich_person_id__4705">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4706">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4707">
+                  <persName>Rauh, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__4708">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4709">
+                  <persName>Otto, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4710">
+                  <persName>Müller, Barbara</persName>
+               </person>
             </listPerson>
          </div>
       </body>
