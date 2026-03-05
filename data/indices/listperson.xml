@@ -24853,6 +24853,13 @@
                <person xml:id="tillich_person_id__4710">
                   <persName>Müller, Barbara</persName>
                </person>
+               <person xml:id="tillich_person_id__4711">
+                  <persName>Bäumer, Gertrud</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118651870</idno>
+               </person>
+               <person xml:id="tillich_person_id__4712">
+                  <persName>Gramm, Hermann</persName>
+               </person>
             </listPerson>
          </div>
       </body>
