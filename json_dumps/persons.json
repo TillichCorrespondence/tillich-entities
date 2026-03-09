@@ -73672,5 +73672,41 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4713": {
+    "id": 4713,
+    "order": "4149.00000000000000000000",
+    "name": "Faber, Hermann",
+    "surname": "Faber",
+    "forename": "Hermann",
+    "from_to": "1888–1979",
+    "occupation": "Evangelischer Theologe",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/116357142",
+    "tillich_id": "tillich_person_id__4713",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
+  },
+  "4714": {
+    "id": 4714,
+    "order": "4150.00000000000000000000",
+    "name": "Foster, Dulles",
+    "surname": "Foster",
+    "forename": "Dulles",
+    "from_to": "",
+    "occupation": "Politiker, Außenminister",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118681168",
+    "tillich_id": "tillich_person_id__4714",
+    "date_of_birth": "1888-02-25",
+    "date_of_death": "1959-05-24",
+    "working_note": "",
+    "place_of_birth": "Waschingtion, D.C.",
+    "place_of_death": "Waschington, D.C."
   }
 }

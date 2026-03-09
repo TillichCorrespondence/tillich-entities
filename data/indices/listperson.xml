@@ -24860,6 +24860,28 @@
                <person xml:id="tillich_person_id__4712">
                   <persName>Gramm, Hermann</persName>
                </person>
+               <person xml:id="tillich_person_id__4713">
+                  <persName>Faber, Hermann</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116357142</idno>
+               </person>
+               <person xml:id="tillich_person_id__4714">
+                  <persName>Foster, Dulles</persName>
+                  <birth>
+                     <date>1888-02-25</date>
+                     <settlement>
+                        <placeName>Waschingtion, D.C.</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1959-05-24</date>
+                     <settlement>
+                        <placeName>Waschington, D.C.</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker, Außenminister</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118681168</idno>
+               </person>
             </listPerson>
          </div>
       </body>
