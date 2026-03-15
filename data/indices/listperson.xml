@@ -24882,6 +24882,11 @@
                   <occupation>Politiker, Außenminister</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118681168</idno>
                </person>
+               <person xml:id="tillich_person_id__4715">
+                  <persName>Wiebel, Arnold</persName>
+                  <occupation>Theologe, Philologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1115745484</idno>
+               </person>
             </listPerson>
          </div>
       </body>
