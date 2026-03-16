@@ -6451,6 +6451,14 @@
                   <idno type="geonames">https://sws.geonames.org/5744337/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q824</idno>
                </place>
+               <place xml:id="tillich_place_id__1390">
+                  <placeName>Limburg</placeName>
+                  <location type="coords">
+                     <geo>50.38360 8.05030</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2877648/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q16026</idno>
+               </place>
             </listPlace>
          </div>
       </body>

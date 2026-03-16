@@ -9799,5 +9799,16 @@
     "latitude": "44.00013",
     "longitude": "-120.50139",
     "wikidata_url": "https://www.wikidata.org/wiki/Q824"
+  },
+  "1390": {
+    "id": 1390,
+    "order": "1021.00000000000000000000",
+    "name": "Limburg",
+    "tillich_id": "tillich_place_id__1390",
+    "geonames_url": "https://www.geonames.org/2877648",
+    "Working Notes": "",
+    "latitude": "50.38360",
+    "longitude": "8.05030",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16026"
   }
 }

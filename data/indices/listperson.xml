@@ -24887,6 +24887,22 @@
                   <occupation>Theologe, Philologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1115745484</idno>
                </person>
+               <person xml:id="tillich_person_id__4716">
+                  <persName>Ludwig, Hartmut</persName>
+                  <occupation>Evangelischer Theologe, Kirchenhistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11105964X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4717">
+                  <persName>Thaer, Günther</persName>
+               </person>
+               <person xml:id="tillich_person_id__4718">
+                  <persName>Krust-Ortlieb, Walter</persName>
+                  <occupation>Chefredakteur Kasseler Zeitung</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4719">
+                  <persName>Sippel, ?</persName>
+                  <occupation>Arzt</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
