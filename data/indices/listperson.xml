@@ -22196,6 +22196,7 @@
                </person>
                <person xml:id="tillich_person_id__3642">
                   <persName>Otte, ???</persName>
+                  <occupation>Notar oder Rechtsanwalt</occupation>
                </person>
                <person xml:id="tillich_person_id__3643">
                   <persName>???, Anna</persName>
@@ -24902,6 +24903,11 @@
                <person xml:id="tillich_person_id__4719">
                   <persName>Sippel, ?</persName>
                   <occupation>Arzt</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4720">
+                  <persName>Warburg, Aby</persName>
+                  <occupation>Kunsthistoriker, Kulturwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11862914X</idno>
                </person>
             </listPerson>
          </div>
