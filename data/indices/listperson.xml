@@ -8086,6 +8086,7 @@
                <person xml:id="tillich_person_id__1756">
                   <persName>Schweitzer, Carl Gunther</persName>
                   <occupation>Pastor an der Potsdamer Garnisonkirche, Wingolf und Berneuchener Bewegung</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/128814985</idno>
                </person>
                <person xml:id="tillich_person_id__1757">
                   <persName>Schweitzer, Albert</persName>
@@ -24908,6 +24909,11 @@
                   <persName>Warburg, Aby</persName>
                   <occupation>Kunsthistoriker, Kulturwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11862914X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4721">
+                  <persName>Bock, Emil</persName>
+                  <occupation>Anthroposoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118660357</idno>
                </person>
             </listPerson>
          </div>
