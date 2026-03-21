@@ -6459,6 +6459,62 @@
                   <idno type="geonames">https://sws.geonames.org/2877648/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q16026</idno>
                </place>
+               <place xml:id="tillich_place_id__1391">
+                  <placeName>Montevideo</placeName>
+                  <location type="coords">
+                     <geo>-34.90328 -56.18816</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3441575/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1335</idno>
+               </place>
+               <place xml:id="tillich_place_id__1392">
+                  <placeName>Muttenz (Basel-Landschaft)</placeName>
+                  <location type="coords">
+                     <geo>47.52271 7.64511</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2659522/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q66191</idno>
+               </place>
+               <place xml:id="tillich_place_id__1393">
+                  <placeName>Prag</placeName>
+                  <location type="coords">
+                     <geo>50.08804 14.42076</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3067696/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1085</idno>
+               </place>
+               <place xml:id="tillich_place_id__1394">
+                  <placeName>Watzum (Uehrde)</placeName>
+                  <location type="coords">
+                     <geo>52.11410 10.78119</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2813589/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q22694559</idno>
+               </place>
+               <place xml:id="tillich_place_id__1395">
+                  <placeName>Schöppenstedt</placeName>
+                  <location type="coords">
+                     <geo>52.14308 10.77450</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2836396/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q262655</idno>
+               </place>
+               <place xml:id="tillich_place_id__1396">
+                  <placeName>Landkreis Braunschweig</placeName>
+                  <location type="coords">
+                     <geo>52.16667 10.66667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2945023/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1803098</idno>
+               </place>
+               <place xml:id="tillich_place_id__1397">
+                  <placeName>Kansas City (MO)</placeName>
+                  <location type="coords">
+                     <geo>39.09973 -94.57857</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4393217/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q41819</idno>
+               </place>
             </listPlace>
          </div>
       </body>

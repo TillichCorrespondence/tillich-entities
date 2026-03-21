@@ -9810,5 +9810,82 @@
     "latitude": "50.38360",
     "longitude": "8.05030",
     "wikidata_url": "https://www.wikidata.org/wiki/Q16026"
+  },
+  "1391": {
+    "id": 1391,
+    "order": "1022.00000000000000000000",
+    "name": "Montevideo",
+    "tillich_id": "tillich_place_id__1391",
+    "geonames_url": "https://www.geonames.org/3441575/",
+    "Working Notes": "",
+    "latitude": "-34.90328",
+    "longitude": "-56.18816",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1335"
+  },
+  "1392": {
+    "id": 1392,
+    "order": "1023.00000000000000000000",
+    "name": "Muttenz (Basel-Landschaft)",
+    "tillich_id": "tillich_place_id__1392",
+    "geonames_url": "https://www.geonames.org/2659522/",
+    "Working Notes": "",
+    "latitude": "47.52271",
+    "longitude": "7.64511",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q66191"
+  },
+  "1393": {
+    "id": 1393,
+    "order": "1024.00000000000000000000",
+    "name": "Prag",
+    "tillich_id": "tillich_place_id__1393",
+    "geonames_url": "https://www.geonames.org/3067696/",
+    "Working Notes": "",
+    "latitude": "50.08804",
+    "longitude": "14.42076",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1085"
+  },
+  "1394": {
+    "id": 1394,
+    "order": "1025.00000000000000000000",
+    "name": "Watzum (Uehrde)",
+    "tillich_id": "tillich_place_id__1394",
+    "geonames_url": "https://www.geonames.org/2813589/",
+    "Working Notes": "",
+    "latitude": "52.11410",
+    "longitude": "10.78119",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q22694559"
+  },
+  "1395": {
+    "id": 1395,
+    "order": "1026.00000000000000000000",
+    "name": "Schöppenstedt",
+    "tillich_id": "tillich_place_id__1395",
+    "geonames_url": "https://www.geonames.org/2836396/",
+    "Working Notes": "",
+    "latitude": "52.14308",
+    "longitude": "10.77450",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q262655"
+  },
+  "1396": {
+    "id": 1396,
+    "order": "1027.00000000000000000000",
+    "name": "Landkreis Braunschweig",
+    "tillich_id": "tillich_place_id__1396",
+    "geonames_url": "https://www.geonames.org/2945023/",
+    "Working Notes": "",
+    "latitude": "52.16667",
+    "longitude": "10.66667",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1803098"
+  },
+  "1397": {
+    "id": 1397,
+    "order": "1028.00000000000000000000",
+    "name": "Kansas City (MO)",
+    "tillich_id": "tillich_place_id__1397",
+    "geonames_url": "https://www.geonames.org/4393217/",
+    "Working Notes": "",
+    "latitude": "39.09973",
+    "longitude": "-94.57857",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q41819"
   }
 }

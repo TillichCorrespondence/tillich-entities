@@ -8380,6 +8380,8 @@
                </person>
                <person xml:id="tillich_person_id__1814">
                   <persName>Sombart, Werner</persName>
+                  <occupation>Wirtschaftswissenschaftler, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118751433</idno>
                </person>
                <person xml:id="tillich_person_id__1815">
                   <persName>Sommerfeld, Martin</persName>
@@ -10410,7 +10412,7 @@
                   <death>
                      <date>1849-05-25</date>
                      <settlement>
-                        <placeName>Schöppenstedt</placeName>
+                        <placeName key="#tillich_place_id__1395">Schöppenstedt</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117370487</idno>
@@ -10999,7 +11001,7 @@
                   <birth>
                      <date>1890-09-10</date>
                      <settlement>
-                        <placeName>Prag</placeName>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -11052,7 +11054,7 @@
                   <birth>
                      <date>1880-04-15</date>
                      <settlement>
-                        <placeName>Prag</placeName>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14904,7 +14906,7 @@
                   <birth>
                      <date>1878-04-22</date>
                      <settlement>
-                        <placeName>Prag</placeName>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16565,7 +16567,7 @@
                   <birth>
                      <date>1884-05-27</date>
                      <settlement>
-                        <placeName>Prag</placeName>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16581,7 +16583,7 @@
                   <birth>
                      <date>1883-04-23</date>
                      <settlement>
-                        <placeName>Prag</placeName>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -16671,7 +16673,7 @@
                   <birth>
                      <date>1889-12-11</date>
                      <settlement>
-                        <placeName>Prag</placeName>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -21211,7 +21213,7 @@
                   <persName>Steier, Eva</persName>
                </person>
                <person xml:id="tillich_person_id__3474">
-                  <persName>Morris, ???</persName>
+                  <persName>Morris, Rudolph Edward</persName>
                </person>
                <person xml:id="tillich_person_id__3475">
                   <persName>Oppenheim, Felix</persName>
@@ -24150,7 +24152,7 @@
                   <death>
                      <date>1967-08</date>
                      <settlement>
-                        <placeName>Prag</placeName>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
                      </settlement>
                   </death>
                   <occupation>Philantrop</occupation>
@@ -24522,7 +24524,7 @@
                   <birth>
                      <date>1897-09-11</date>
                      <settlement>
-                        <placeName>Prag</placeName>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -24914,6 +24916,24 @@
                   <persName>Bock, Emil</persName>
                   <occupation>Anthroposoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118660357</idno>
+               </person>
+               <person xml:id="tillich_person_id__4722">
+                  <persName>Barstow, Robbins W.</persName>
+                  <occupation>Executive Associate Church World Service</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4723">
+                  <persName>Warnshuis, Abbe Livingston</persName>
+                  <occupation>Executive Vice President World Church Service</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4724">
+                  <persName>Kauder, Emil</persName>
+                  <occupation>Wirtschaftswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1069509213</idno>
+               </person>
+               <person xml:id="tillich_person_id__4725">
+                  <persName>Jastrow, Ignaz</persName>
+                  <occupation>Historiker, Volkswirt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11708560X</idno>
                </person>
             </listPerson>
          </div>
