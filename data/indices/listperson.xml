@@ -24935,6 +24935,17 @@
                   <occupation>Historiker, Volkswirt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11708560X</idno>
                </person>
+               <person xml:id="tillich_person_id__4726">
+                  <persName>Shearon, Ada</persName>
+               </person>
+               <person xml:id="tillich_person_id__4727">
+                  <persName>Trinterud, Leonard J.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4728">
+                  <persName>Treiber, Hubert</persName>
+                  <occupation>Verwaltungswissenschaftler, Sozialwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/107899779</idno>
+               </person>
             </listPerson>
          </div>
       </body>
