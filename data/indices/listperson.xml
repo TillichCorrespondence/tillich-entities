@@ -24946,6 +24946,18 @@
                   <occupation>Verwaltungswissenschaftler, Sozialwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/107899779</idno>
                </person>
+               <person xml:id="tillich_person_id__4761">
+                  <persName>Moss, Leslie B.</persName>
+                  <occupation>Executive Associate Church World Service</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4762">
+                  <persName/>
+                  <occupation>Executive Associate Church World Service</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4763">
+                  <persName>Lytle, Herbert C. Jr.</persName>
+                  <occupation>Administrative Secretary World Church Service</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
