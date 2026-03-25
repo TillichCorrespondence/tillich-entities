@@ -24958,6 +24958,51 @@
                   <persName>Lytle, Herbert C. Jr.</persName>
                   <occupation>Administrative Secretary World Church Service</occupation>
                </person>
+               <person xml:id="tillich_person_id__4764">
+                  <persName>Baeck, Leo</persName>
+                  <birth>
+                     <date>1873-05-23</date>
+                     <settlement>
+                        <placeName>Lissa</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1956-11-02</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__271">London</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Rabbiner</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118505777</idno>
+               </person>
+               <person xml:id="tillich_person_id__4765">
+                  <persName>Colwell, Ernest</persName>
+                  <birth>
+                     <date>1901-01-19</date>
+                  </birth>
+                  <death>
+                     <date>1974-09-12</date>
+                  </death>
+                  <occupation>Neutestamentler, Gräzist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/124005799</idno>
+               </person>
+               <person xml:id="tillich_person_id__4766">
+                  <persName>Strauss, Leo</persName>
+                  <birth>
+                     <date>1899-09-20</date>
+                     <settlement>
+                        <placeName>Kirchhain</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1973-10-18</date>
+                     <settlement>
+                        <placeName>Annapolis</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118833901</idno>
+               </person>
             </listPerson>
          </div>
       </body>
