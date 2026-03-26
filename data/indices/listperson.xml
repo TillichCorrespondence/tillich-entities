@@ -18234,6 +18234,7 @@
                </person>
                <person xml:id="tillich_person_id__2830">
                   <persName>Kleedehn</persName>
+                  <occupation>Pensionshalterin in Königsberg (Neumark)</occupation>
                </person>
                <person xml:id="tillich_person_id__2831">
                   <persName>???, Ilse</persName>
@@ -19443,12 +19444,6 @@
                <person xml:id="tillich_person_id__3046">
                   <persName>Frau Dr. Herzberg</persName>
                   <occupation>Berichterstatterin</occupation>
-               </person>
-               <person xml:id="tillich_person_id__3047">
-                  <persName>Herr Gideon</persName>
-               </person>
-               <person xml:id="tillich_person_id__3048">
-                  <persName>Frau Gideon</persName>
                </person>
                <person xml:id="tillich_person_id__3049">
                   <persName>Driesch, Margarete</persName>
@@ -25002,6 +24997,24 @@
                   </death>
                   <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118833901</idno>
+               </person>
+               <person xml:id="tillich_person_id__4767">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4768">
+                  <persName>Häberlin, Paul</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118700030</idno>
+               </person>
+               <person xml:id="tillich_person_id__4769">
+                  <persName>Giedion, Sigfried</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118921703</idno>
+               </person>
+               <person xml:id="tillich_person_id__4770">
+                  <persName>Giedion-Welcker, Carola</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/119405156</idno>
+               </person>
+               <person xml:id="tillich_person_id__4771">
+                  <persName/>
                </person>
             </listPerson>
          </div>
