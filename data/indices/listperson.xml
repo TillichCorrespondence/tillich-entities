@@ -25016,6 +25016,26 @@
                <person xml:id="tillich_person_id__4771">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__4804">
+                  <persName>Hauptmann, Elisabeth</persName>
+                  <occupation>Schriftstellerin, Dramaturgin, Übersetzerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118546929</idno>
+               </person>
+               <person xml:id="tillich_person_id__4805">
+                  <persName>Laughton, Charles</persName>
+                  <occupation>Schauspieler, Regisseur</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118726684</idno>
+               </person>
+               <person xml:id="tillich_person_id__4806">
+                  <persName>Heinrich VIII.</persName>
+                  <occupation>König von England</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118548204</idno>
+               </person>
+               <person xml:id="tillich_person_id__4807">
+                  <persName>Korda, Alexander</persName>
+                  <occupation>Filmproduzent, Filmregisseur</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118565400</idno>
+               </person>
             </listPerson>
          </div>
       </body>
