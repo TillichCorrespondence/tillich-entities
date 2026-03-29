@@ -25036,6 +25036,113 @@
                   <occupation>Filmproduzent, Filmregisseur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118565400</idno>
                </person>
+               <person xml:id="tillich_person_id__4808">
+                  <persName>Wenzl, Aloys</persName>
+                  <birth>
+                     <date>1887-01-25</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-07-20</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118766996</idno>
+               </person>
+               <person xml:id="tillich_person_id__4809">
+                  <persName>Barth, Hans</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119115565</idno>
+               </person>
+               <person xml:id="tillich_person_id__4810">
+                  <persName>Rüegg, Walter</persName>
+                  <occupation>Soziologe, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118603876</idno>
+               </person>
+               <person xml:id="tillich_person_id__4811">
+                  <persName>Pestalozzi, Johann Heinrich</persName>
+                  <occupation>Pädagoge, Sozialreformer, Jurist, Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118592912</idno>
+               </person>
+               <person xml:id="tillich_person_id__4812">
+                  <persName>Martin, Alfred von</persName>
+                  <birth>
+                     <date>1882-07-24</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1979-06-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119157136</idno>
+               </person>
+               <person xml:id="tillich_person_id__4813">
+                  <persName>Tschižewskij, Dmitrij</persName>
+                  <birth>
+                     <date>1894-04-04</date>
+                     <settlement>
+                        <placeName>Alexandrija</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1977-04-18</date>
+                     <settlement>
+                        <placeName>Heidelberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosoph, Slawist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118624334</idno>
+               </person>
+               <person xml:id="tillich_person_id__4814">
+                  <persName>Bernstein, Grete</persName>
+               </person>
+               <person xml:id="tillich_person_id__4815">
+                  <persName>Schaeffer, Albrecht</persName>
+                  <occupation>Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118748270</idno>
+               </person>
+               <person xml:id="tillich_person_id__4816">
+                  <persName>Schaeffer, Olga-Elisabeth</persName>
+                  <occupation>Juristin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/132816016</idno>
+               </person>
+               <person xml:id="tillich_person_id__4817">
+                  <persName>Šachovskoj, Dmitrij A.</persName>
+                  <occupation>Erzbischoff</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119104466</idno>
+               </person>
+               <person xml:id="tillich_person_id__4818">
+                  <persName>Steppuhn, Oskar Avgustovič</persName>
+                  <occupation>Physiologe, Biochemiker, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1082242551</idno>
+                  <note type="bio">
+                     <p>Bruder von Fedor Stepun</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__4819">
+                  <persName/>
+                  <occupation>Biochemiker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4820">
+                  <persName/>
+                  <occupation>Hochschullehrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4821">
+                  <persName>Stepphuhn, Avgustovič Steppuhn</persName>
+                  <occupation>Schauspieler</occupation>
+                  <note type="bio">
+                     <p>Bruder von Fedor Stepun</p>
+                  </note>
+               </person>
             </listPerson>
          </div>
       </body>

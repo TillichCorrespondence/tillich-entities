@@ -9887,5 +9887,16 @@
     "latitude": "39.09973",
     "longitude": "-94.57857",
     "wikidata_url": "https://www.wikidata.org/wiki/Q41819"
+  },
+  "1398": {
+    "id": 1398,
+    "order": "1029.00000000000000000000",
+    "name": "Croton-on-Hudson (NY)",
+    "tillich_id": "tillich_place_id__1398",
+    "geonames_url": "https://www.geonames.org/5114221/",
+    "Working Notes": "",
+    "latitude": "41.20843",
+    "longitude": "-73.89125",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2876630"
   }
 }
