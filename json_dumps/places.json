@@ -9898,5 +9898,16 @@
     "latitude": "41.20843",
     "longitude": "-73.89125",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2876630"
+  },
+  "1399": {
+    "id": 1399,
+    "order": "1030.00000000000000000000",
+    "name": "Bogenhausen",
+    "tillich_id": "tillich_place_id__1399",
+    "geonames_url": "https://www.geonames.org/2947022/",
+    "Working Notes": "",
+    "latitude": "48.15221",
+    "longitude": "11.61585",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q329707"
   }
 }

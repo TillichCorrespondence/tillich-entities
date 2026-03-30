@@ -25143,6 +25143,26 @@
                      <p>Bruder von Fedor Stepun</p>
                   </note>
                </person>
+               <person xml:id="tillich_person_id__4822">
+                  <persName>Gurian, Waldemar</persName>
+                  <birth>
+                     <date>1902-02-13</date>
+                     <settlement>
+                        <placeName>St. Petersburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1954-05-26</date>
+                     <settlement>
+                        <placeName>South Haven</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politologe, Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118699369</idno>
+               </person>
+               <person xml:id="tillich_person_id__4823">
+                  <persName>Neumann, Maria</persName>
+               </person>
             </listPerson>
          </div>
       </body>
