@@ -1155,7 +1155,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11850553X</idno>
                   <note type="bio">
-                     <p>Bach, Johann Sebastian (21.3.1685 Eisenach – 28.7.1750 Leipzig) war Komponist und Thomaskantor in Leipzig. Als Sohn des Stadtmusikus Ambrosius Bach früh verwaist, erhielt er seine Ausbildung beim Bruder in Ohrdruf und an der Michaelisschule in Lüneburg. Nach ersten Organistenstellen in Arnstadt und Mühlhausen wirkte er als Hoforganist in Weimar und ab 1717 als Kapellmeister in Köthen, wo vor allem Instrumentalwerke wie die Brandenburgischen Konzerte entstanden. 1723 übernahm er das Thomaskantorat in Leipzig, schuf mehrere Kantatenjahrgänge und große Kirchenwerke wie die Johannes- und Matthäuspassion, das Weihnachtsoratorium, die h-Moll-Messe und das »Musikalische Opfer«. Bach verband tiefen lutherischen Glauben mit höchster kontrapunktischer Meisterschaft und gilt als einer der größten Komponisten der Musikgeschichte.</p>
+                     <p>Johann Sebastian Bach (21. März 1685 – 28. Juli 1750) war ein deutscher Komponist und Thomaskantor in Leipzig. Nach seiner Ausbildung und frühen Organistenstellen wirkte er in Weimar und Köthen, bevor er 1723 das Thomaskantorat in Leipzig übernahm. Dort schuf er zahlreiche Kantaten sowie bedeutende Kirchenwerke wie die „Matthäuspassion“ und die h-Moll-Messe. Bachs Musik verbindet lutherische Frömmigkeit mit hoher kompositorischer Kunst und prägte die europäische Musikgeschichte nachhaltig.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__108">
@@ -1572,6 +1572,10 @@
                <person xml:id="tillich_person_id__203">
                   <persName>Bertheau, Lorenz</persName>
                   <occupation>Pfarrer</occupation>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Lorenz Bertheau (5. Januar 1886 – 6. Januar 1968) war ein deutscher evangelischer Pfarrer. Er studierte Theologie und Mathematik in Halle und Tübingen und war dort im Wingolf aktiv. Nach ersten Pfarrstellen im damaligen deutschen Osten wurde er 1925 nach Deutschland ausgewiesen und wirkte anschließend bis zu seiner Emeritierung in Bad Kösen. Bertheau stellte in seiner Verkündigung konsequent christologische Inhalte in den Mittelpunkt und grenzte sich von nationalprotestantischen Strömungen ab. Während der NS-Zeit gehörte er zum Pfarrernotbund und zur Bekennenden Kirche und geriet wegen seiner Haltung zeitweise in Haft.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__204">
                   <persName>Bertheau, Johannes</persName>
@@ -1706,7 +1710,11 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>zuletzt 2. Pfarrer in Berlin-Schmargendorf</occupation>
+                  <occupation>Pfarrer</occupation>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Georg Blech (20. August 1885 – 9. Dezember 1926) war ein deutscher evangelischer Pfarrer. Er wirkte zuletzt als zweiter Pfarrer in Berlin-Schmargendorf.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__228">
                   <persName>Bloch, Ernst</persName>
@@ -1830,7 +1838,7 @@
                <person xml:id="tillich_person_id__250">
                   <persName>Bonhoeffer, Dietrich</persName>
                   <note type="bio">
-                     <p>Bonhoeffer, Dietrich (4.2.1906 Breslau – 9.4.1945 KZ Flossenbürg) war lutherischer Theologe und Vertreter der Bekennenden Kirche. Er habilitierte sich früh, wirkte als Dozent in Berlin und engagierte sich im Kirchenkampf gegen die Deutschen Christen und den Arierparagraphen. Ab 1935 leitete er das Predigerseminar in Finkenwalde. Seit 1938 war er im Widerstand aktiv, erhielt Rede- und Schreibverbot, wurde 1943 verhaftet und 1945 hingerichtet. Theologisch betonte er die Nachfolge Jesu, die Gegenwart Christi in der Gemeinschaft der Kirche und die Einheit von Glauben und Handeln. Seine Briefe aus der Haft enthalten wegweisende Überlegungen zur künftigen Gestalt der Kirche.</p>
+                     <p>Dietrich Bonhoeffer (4. Februar 1906 – 9. April 1945) war ein deutscher lutherischer Theologe und Vertreter der Bekennenden Kirche. Er habilitierte sich früh und lehrte in Berlin, bevor er sich im Kirchenkampf gegen die nationalsozialistische Kirchenpolitik engagierte. Ab 1935 leitete er das Predigerseminar in Finkenwalde und beteiligte sich später am Widerstand gegen das Regime. 1943 wurde er verhaftet und 1945 im Konzentrationslager Flossenbürg hingerichtet. Seine Theologie betonte die Nachfolge Christi und die Verbindung von Glauben und verantwortlichem Handeln.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__251">
@@ -2091,6 +2099,9 @@
                   </death>
                   <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
+                  <note type="bio">
+                     <p>Friedrich Büchsel (2. Juli 1883 – 5. Mai 1945) war ein deutscher evangelischer Theologe. Er studierte Theologie in Tübingen und Halle, wurde promoviert und habilitierte sich 1911 in Halle. Nach Tätigkeiten als Dozent und Feldpfarrer im Ersten Weltkrieg erhielt er Professuren in Greifswald und Rostock. Büchsel war politisch nationalkonservativ orientiert und Mitglied entsprechender Organisationen. Er kam am Ende des Zweiten Weltkriegs infolge einer Verwundung ums Leben.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__312">
                   <persName>Buddha</persName>
@@ -5486,6 +5497,9 @@
                   <persName>Leese, Kurt</persName>
                   <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116855266</idno>
+                  <note type="bio">
+                     <p>Kurt Leese (6. Juli 1887 – 6. Januar 1965) war ein deutscher Pastor und Religionsphilosoph. Er studierte Theologie und Philosophie in mehreren deutschen Universitäten, wurde 1912 promoviert und wirkte zunächst als Pastor, zuletzt in Hamburg. Neben seiner kirchlichen Tätigkeit habilitierte er sich 1928 und lehrte als Privatdozent in Hamburg. 1932 trat er aus inneren Glaubenskonflikten aus dem Pfarramt zurück, blieb jedoch wissenschaftlich tätig. Nach zwischenzeitlicher Einschränkung seiner Lehrtätigkeit während der NS-Zeit wirkte er nach 1945 wieder als Hochschullehrer und beschäftigte sich vor allem mit Religionsphilosophie und Idealismus.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1155">
                   <persName>Lehmann, Helmut T.</persName>
@@ -5815,6 +5829,9 @@
                   </death>
                   <occupation>Systematischer Theologe;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
+                  <note type="bio">
+                     <p>Wilhelm Lütgert (9. April 1867 – 21. Februar 1938) war ein deutscher evangelischer Theologe. Er studierte in Greifswald und Berlin, wurde 1892 promoviert und habilitierte sich im selben Jahr. Nach Professuren in Greifswald und Halle wechselte er 1929 nach Berlin, wo er bis zu seiner Entlassung 1935 lehrte. Lütgert gehörte der Greifswalder Schule an und vertrat eine an Biblizismus und Idealismus orientierte Theologie, während er die Dialektische Theologie ablehnte. Gegenüber dem Nationalsozialismus hielt er Distanz und stand der Bekennenden Kirche nahe.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1228">
                   <persName>Luther, Martin</persName>
@@ -5832,7 +5849,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118575449</idno>
                   <note type="bio">
-                     <p>Luther, Martin (10.11.1483 Eisleben – 18.2.1546 ebd.) war Reformator. Nach Studium in Erfurt trat er 1505 in das Augustinerkloster ein, wurde 1512 zum Doktor der Theologie promoviert und hielt in Wittenberg Vorlesungen über die Bibel. 1517 veröffentlichte er die 95 Thesen gegen den Ablass, die ihn in den Konflikt mit der Papstkirche führten; 1521 folgten Exkommunikation und Reichsacht. Unter dem Schutz Friedrichs des Weisen entfaltete er seine reformatorische Theologie und übersetzte die Bibel ins Deutsche. Er wandte sich gegen Radikalreformer, stritt mit Erasmus über den freien Willen und mit Zwingli über das Abendmahl. 1525 heiratete er Katharina von Bora, beriet 1530 beim Augsburger Reichstag und verfasste 1537 die Schmalkaldischen Artikel. L.s Theologie stellte die alleinige Gnade Gottes und das Schriftprinzip in den Mittelpunkt, seine Bibelübersetzung prägte Sprache, Kultur und Glaubensleben weit über seinen Tod hinaus.</p>
+                     <p>Martin Luther (10. November 1483 – 18. Februar 1546) war ein deutscher Reformator und Theologe. Nach seinem Studium in Erfurt trat er 1505 in ein Kloster ein, wurde 1512 promoviert und wirkte als Professor in Wittenberg. 1517 löste er mit seinen Thesen gegen den Ablass den Bruch mit der Papstkirche aus, der 1521 zur Exkommunikation führte. In der Folge entwickelte er seine reformatorische Theologie und übersetzte die Bibel ins Deutsche. Seine Lehre betonte die Gnade Gottes und die Autorität der Schrift und prägte Kirche und Kultur nachhaltig.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1229">
@@ -6102,8 +6119,9 @@
                <person xml:id="tillich_person_id__1291">
                   <persName>Medicus, Fritz</persName>
                   <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118782819</idno>
                   <note type="bio">
-                     <p>Studium zunächst der Theologie und dann der Philosophie in Jena, Kiel und Straßburg, 1898 wurde er in Jena zum Dr. phil. promoviert. 1901 habilitierte er sich in Halle wo er bis 1911 als Privatdozent lehrte. Tillich war in dieser Zeit sein Schüler, mit dem er sein Leben lang freundschaftlich verbunden blieb. Von 1911 bis zu seiner Emeritierung 1946 war er ordentlicher Professor an der Eidgenössischen Technischen Hochschule in Zürich, wo er 1935 das Bürgerrecht erlangte. In Zürich heiratete er auch 1914 Klara Frey (1881-1969), mit der er drei Kinder hatte, unter anderem die spätere Gesangspädagogin Lotte (*1915).</p>
+                     <p>Fritz Georg Adolf Medicus (23. April 1876 – 12. Januar 1956) war ein deutsch-schweizerischer Philosoph. Er studierte Theologie und Philosophie in Jena, Kiel, Straßburg und Halle, wurde 1898 promoviert und habilitierte sich 1901. Von 1911 bis 1946 lehrte er als Professor an der ETH Zürich. Seine Arbeit galt vor allem der idealistischen Philosophie; zudem gab er die Werke Johann Gottlieb Fichtes heraus und betreute bedeutende Publikationen wie den „Grundriss der philosophischen Wissenschaften“.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1292">
@@ -6894,7 +6912,10 @@
                </person>
                <person xml:id="tillich_person_id__1487">
                   <persName>Pfeiffer, Erich</persName>
-                  <occupation>Hauptmann im 1. WK</occupation>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Erich Pfeiffer (Lebensdaten unbekannt) war ein Hauptmann im Ersten Weltkrieg. Er stand im Briefkontakt mit Paul Tillich. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1488">
                   <persName>Pfeiffer, Hedwig</persName>
@@ -7401,8 +7422,9 @@
                <person xml:id="tillich_person_id__1602">
                   <persName>Richter, Werner</persName>
                   <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/132563894</idno>
                   <note type="bio">
-                     <p>Studium der Germanistik in Berlin, Basel und Marburg. 1910 Promotion, 1913 Habilitation. Die ersten Kriegsjahre verbrachte R. als Soldat, 1916-1918 war er Gastprofessor in Istanbul, 1919/1920 Professor in Greifswald. 1920-1932 Mitarbeit im Preußischen Kultusministerium als Vertrauter Carl Heinrich Beckers. R. selbst gehörte der DVP an. 1932/1933 wurde er ordentlicher Professor an der Universität Berlin, wo er bereits seit 1921 eine Honorarprofessur innehatte. 1933 wurde er zwangspensioniert, 1939 emigrierte er in die USA, wo er bis zu seiner Rückkehr nach Deutschland im Jahr 1949 am Elmhurst College beschäftigt war. Ab 1949 lehrte er in Bonn, 1955 wurde er emeritiert.</p>
+                     <p>Werner Richter (5. Mai 1887 – 19. September 1960) war ein deutscher Germanist und Wissenschaftspolitiker. Er studierte Germanistik in Berlin, Marburg und Basel, habilitierte sich 1913 und wurde Professor in Greifswald. Ab 1920 wirkte er im Preußischen Kultusministerium und prägte maßgeblich die Hochschulreformen der Weimarer Republik, zugleich lehrte er in Berlin. 1933 wurde er aus politischen und rassistischen Gründen entlassen und emigrierte 1939 in die USA, wo er als Hochschullehrer tätig war. Nach 1945 kehrte er nach Deutschland zurück, wurde Professor in Bonn und engagierte sich im Wiederaufbau der Wissenschaft, unter anderem als Präsident des DAAD.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1603">
@@ -7556,8 +7578,9 @@
                      </settlement>
                   </death>
                   <occupation>Pfarrer in Berlin-Dahlem</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1082240621</idno>
                   <note type="bio">
-                     <p>Sein Spitzname war "Spatz".</p>
+                     <p>Eberhard Röhricht (1. März 1888 – 10. August 1969) war ein deutscher evangelischer Pfarrer. Nach seiner Ordination 1919 wirkte er zunächst in Brandenburg und wurde 1927 Pfarrer in Berlin-Dahlem, wo er bis 1958 tätig war. Er gehörte zu den Mitbegründern des Pfarrernotbundes und nahm an den Bekenntnissynoden von 1934 teil. Röhricht stand im kirchlichen Widerstandskontext und war eng mit führenden Vertretern der Bekennenden Kirche verbunden.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1637">
@@ -7773,8 +7796,9 @@
                <person xml:id="tillich_person_id__1690">
                   <persName>Saxl, Fritz</persName>
                   <occupation>Kunsthistoriker, Aby Warburg Bibliothek</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118804898</idno>
                   <note type="bio">
-                     <p>Studium der Kunstgeschichte und Archäologie in Wien und Berlin, 1912 Promotion, 1922 Habilitation. Dazwischen Stipendiat in Rom und seit 1913 Mitarbeiter der Bibliothek des Hamburger Warburg Instituts, unterbrochen von der Kriegsteilnahme 1914-1918 (Österreichisch-Ungarische Armee). 1919 Rückkehr nach Hamburg, Seit 1922 dort zunächst Privatdozent, danach ordentlicher Professor für Kunstgeschichte, daneben zusammen mit Gertrud  Bing Co-Leitung der Warburg Bibliothek. Nach dem Tod Aby Warburgs 1929 wurde S. Direktor und war 1933 maßgeblich für die Übersiedlung des Warburg Instituts nach London verantwortlich. Nebenher lehrte er in London weiterhin Kunstgeschichte an der University of London. 1940 wurde er britischer Staatsbürger.</p>
+                     <p>Friedrich Saxl (8. Januar 1890 – 22. März 1948) war ein österreichischer Kunsthistoriker. Er studierte in Wien, Berlin und Rom und wurde früh von der Wiener Schule der Kunstgeschichte sowie von Aby Warburg geprägt, dessen Mitarbeiter er wurde. Nach dem Ersten Weltkrieg übernahm er maßgeblich die Leitung von Warburgs Kulturwissenschaftlicher Bibliothek und lehrte in Hamburg. 1933 emigrierte er nach England und organisierte die Übersiedlung der Bibliothek, aus der später das Warburg Institute in London hervorging. Seine Forschung konzentrierte sich auf das Fortwirken antiker Bildtraditionen; zudem war er Mitbegründer des „Census of Antique Works of Art and Architecture Known in the Renaissance“.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1691">
@@ -8009,10 +8033,18 @@
                </person>
                <person xml:id="tillich_person_id__1738">
                   <persName>Schreiber, Hans</persName>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Hans Schreiber (Lebensdaten unbekannt) war eine Person aus dem Umfeld der studentischen Verbindung Wingolf. Er stand in den Jahren 1907 und 1908 in brieflichem Kontakt mit dem Theologen Paul Tillich. Weitere biografische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1739">
                   <persName>Schreiner, Helmuth</persName>
-                  <occupation>Professor für Praktische Theologie (zw. 1931-37 in Rostock); in Münster wurde er 1945 zum kommissarischen Dekan und 1946 zum Professor für Praktische Theologie an der Westfälischen Wilhelms-Universität berufen und gehörte bis zu seiner Emeritierung 1957 zu dem wesentlichen Kräften im Wiederaufbau der Evangelisch-Theologischen Fakultät</occupation>
+                  <occupation>Professor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118761706</idno>
+                  <note type="bio">
+                     <p>Helmuth Moritz Schreiner (2. März 1893 – 28. April 1962) war ein deutscher evangelisch-lutherischer Theologe. Er studierte Theologie und Philosophie in Halle, Berlin und Bonn, wurde 1921 promoviert und übernahm leitende Funktionen in kirchlichen Einrichtungen. 1931 wurde er Professor für Praktische Theologie in Rostock, verlor jedoch im Zuge der nationalsozialistischen Politik sein Amt und wechselte nach Münster. Nach 1945 wirkte er dort als Professor und beteiligte sich maßgeblich am Wiederaufbau der theologischen Fakultät. Schreiner gehörte zu den Mitbegründern der Jungreformatorischen Bewegung.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1740">
                   <persName>Schrempf, Christoph</persName>
@@ -8115,8 +8147,9 @@
                      </settlement>
                   </death>
                   <occupation>Kirchenhistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117440833</idno>
                   <note type="bio">
-                     <p>Studium der evangelischen Theologie in Tübingen und Berlin, 1912 wurde er zum lic. theol. promoviert. 1913 habilitierte er sich in Greifswald für das Fach Kirchengeschichte, den Ersten Weltkrieg erlebte S. als Divisionspfarrer. Von 1919 bis 1927 hatte er Professuren in Breslau, Königsberg und Halle inne, bevor er schließlich an die Universität in Berlin wechselte. S. war ein prominenter Vertreter der Lutherrenaissance und der Sohn des Dogmenhistorikers Reinhold Seeberg. 1933 trat er in die NSDAP ein und war fortan eine herausragende Stimme der Deutschen Christen.</p>
+                     <p>Erich Seeberg (8. Oktober 1888 – 26. Februar 1945) war ein deutscher Theologe und Kirchenhistoriker. Er studierte Evangelische Theologie in Tübingen und Berlin und wurde 1912 promoviert, bevor er 1913 als Privatdozent in Greifswald tätig wurde. Nach dem Ersten Weltkrieg, in dem er als Militärpfarrer wirkte, erhielt er 1919 eine Professur in Breslau und lehrte anschließend in Königsberg, Halle und Berlin. 1941 übernahm er eine Vertretungsprofessur in Marburg. Seeberg war ein Vertreter der Luther-Renaissance und in der akademischen Theologie seiner Zeit einflussreich. 1933 trat er der NSDAP bei und engagierte sich in den „Deutschen Christen“, was zu Konflikten mit Fachkollegen führte. Zudem war er an wissenschaftlichen Editionsprojekten beteiligt. In seinen letzten Lebensjahren war er gesundheitlich schwer beeinträchtigt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1761">
@@ -8242,7 +8275,11 @@
                         <placeName>Marburg/Lahn</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe/Freund</occupation>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117364363</idno>
+                  <note type="bio">
+                     <p>Friedrich Adolf Theodor Siegfried (28. Januar 1894 – 28. April 1971) war ein deutscher evangelischer Theologe. Er studierte Theologie, Philosophie und Germanistik in Jena und Berlin, wurde 1916 promoviert und habilitierte sich 1921. Nach einer Tätigkeit als Privatdozent in Jena wechselte er 1925 nach Marburg, wo er 1927 außerordentlicher Professor wurde und später eine Professur für Systematische Theologie innehatte. Siegfried war vom religiösen Sozialismus geprägt und setzte sich kritisch mit der Luther-Renaissance sowie der Dialektischen Theologie auseinander. Nach 1945 engagierte er sich für die Erneuerung liberaler Theologie und wirkte bis zu seiner Emeritierung 1962 in Marburg.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1784">
                   <persName>Siegmund-Schultze, Friedrich</persName>
@@ -9159,7 +9196,7 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio">
-                     <p>1912 wurde er in Halle promoviert, 1919 heiratete er Gertrud Wever (die Ehe wurde später geschieden). Gemeinsam hatten sie eine Tochter, Ulrike. Um 1931 hatte er eine Liebesbeziehung zu Hannah Tillichs Schwester Marie-Luise Werner. Er war einer der engsten (Jugend-)Freunde Tillichs. 1933-1942 lehrte er als Dozent für Kunstgeschichte am Institut für Kunst- und Bildgeschichte der Universität Berlin. In seinen Arbeiten beschäftigte er sich u. a. mit der Kunst afrikanischer Naturvölker, aber auch mit dem Verhältnis von Religion und Expressionismus..</p>
+                     <p>Eckardt von Sydow (5. September 1885 – 1. Juli 1942) war ein deutscher Kunsthistoriker und Ethnologe. Er wurde 1912 in Halle promoviert und arbeitete anschließend in Berlin im Umfeld der Staatlichen Museen sowie als Publizist zur zeitgenössischen Kunst. Nach dem Ersten Weltkrieg wandte er sich der außereuropäischen Kunst zu, leitete die Kestnergesellschaft und veröffentlichte grundlegende Studien zur afrikanischen Plastik. 1933 trat er der NSDAP bei und erhielt eine Stelle an der Universität Berlin, wo er zur Kunst sogenannter „Naturvölker“ lehrte. Forschungsreisen nach Afrika prägten seine Arbeiten, die sich mit ethnologischen und kunsthistorischen Fragestellungen verbanden.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1888">
@@ -9644,8 +9681,9 @@
                   <birth>
                      <date>1867-05-25</date>
                   </birth>
+                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Sie war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p>
+                     <p>Margarete Tillich (geb. 25. Mai 1867) war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1926">
@@ -9699,8 +9737,9 @@
                      </settlement>
                   </death>
                   <occupation>Mutter Paul Tillichs</occupation>
+                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>geb. Dürselen</p>
+                     <p>Wilhelmine Mathilde Tillich (5. April 1860 – 24. September 1903) war die Mutter des Theologen Paul Tillich. Sie wurde in Odenkirchen als Wilhelmine Mathilde Dürselen geboren und entstammte einer evangelisch-reformierten Familie. Sie starb 1903 an einem Augenkarzinom.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1930">
@@ -9715,6 +9754,10 @@
                      <date>1916-11-20</date>
                   </death>
                   <occupation>Großmutter Paul Tillichs, geb. Scheidemantel</occupation>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Marie Tillich (6. März 1827 – 20. November 1916) war eine Angehörige der Familie Tillich und die Großmutter des Theologen Paul Tillich. Sie wurde in Berlin als Marie Scheidemantel geboren und führte später den Familiennamen Tillich.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarete</persName>
@@ -10338,7 +10381,11 @@
                </person>
                <person xml:id="tillich_person_id__1982">
                   <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer und Studienkollege Tillichs</occupation>
+                  <occupation>Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1049759400</idno>
+                  <note type="bio">
+                     <p>Gilbert van der Smissen (1887 – 1915) war ein Studienkollege von Paul Tillich und Pfarrer. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1983">
                   <persName>Van Eyck, Jan</persName>
@@ -10668,6 +10715,10 @@
                </person>
                <person xml:id="tillich_person_id__2012">
                   <persName>W., Elisabeth</persName>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Elisabeth W. (Lebensdaten unbekannt) war eine Korrespondenzpartnerin von Paul Tillich. Der Briefwechsel fand meist in englischer Sprache statt. Der Nachname der Person und weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2013">
                   <persName>Wackenroder, Wilhelm Heinrich</persName>
@@ -10767,6 +10818,9 @@
                   </death>
                   <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
+                  <note type="bio">
+                     <p>Carl Richard Wegener (3. August 1883 – 11. Juli 1967) war ein deutscher Pädagoge und Pfarrer. Er wirkte zunächst als Jugendpastor in Berlin-Lichterfelde, trat jedoch 1921 aus der Kirche aus und wechselte in den Schuldienst. Ab 1926 war er Studienrat in Naumburg und leitete von 1933 bis 1948 eine Schule in Kyritz. Seine Tätigkeit verband kirchliche und pädagogische Arbeitsfelder.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2021">
                   <persName>Wehowsky, Stephan</persName>
@@ -11548,7 +11602,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118633635</idno>
                   <note type="bio">
-                     <p>Windelband, Wilhelm (11.5.1848 Potsdam – 22.10.1915 Heidelberg) war Philosoph, Professor in Zürich, Freiburg, Straßburg und ab 1903 in Heidelberg. Als Begründer der südwestdeutschen Schule des Neukantianismus verband er unter dem Leitbegriff der Kultur Geschichtlichkeit und apriorische Geltung, gestützt auf Kants praktische Philosophie und die normativen Werte des Wahren, Guten und Schönen. Berühmt wurde seine Unterscheidung von idiographischen (individuell beschreibenden) und nomothetischen (gesetzmäßige Regeln suchenden) Verfahren, mit der er die Eigenständigkeit der Geschichtswissenschaft gegenüber der Naturwissenschaft methodologisch begründete.</p>
+                     <p>Wilhelm Windelband (11. Mai 1848 – 22. Oktober 1915) war ein deutscher Philosoph. Er lehrte in Zürich, Freiburg, Straßburg und ab 1903 in Heidelberg und gilt als Begründer der südwestdeutschen Schule des Neukantianismus. In seiner Philosophie verband er historische Perspektiven mit normativen Wertbegriffen und knüpfte an Kants praktische Philosophie an. Bekannt wurde er vor allem durch die Unterscheidung zwischen idiographischen und nomothetischen Methoden zur Begründung der Eigenständigkeit der Geisteswissenschaften.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2083">
@@ -11634,10 +11688,9 @@
                </person>
                <person xml:id="tillich_person_id__2091">
                   <persName>Witte, Hermann</persName>
-                  <occupation>siehe Brief von Wilhelm Ruprecht an Paul Tillich vom 26. Oktober 1920 und:https://spd-goettingen.de/wp-content/uploads/2021/03/009-Bluemel-Arbeit-und-Leben-195-214.pdf</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/121772799</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/117420530</idno>
                   <note type="bio">
-                     <p>Hermann Witte (1882–1955) leitete von 1918 bis 1923 die Volkshochschule in Königsberg (Preußen).</p>
+                     <p>Hermann Witte (1882 – 1955) war ein deutscher Pädagoge. Er war als Studienrat tätig und leitete von 1918 bis 1923 die Volkshochschule in Königsberg. Später wurde er Oberstudiendirektor, jedoch 1933 aus dem Amt entlassen und anschließend wieder im Schuldienst eingesetzt. Nach dem Zweiten Weltkrieg wirkte er von 1946 bis 1948 als Stadtschulrat in Göttingen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2092">
@@ -12280,8 +12333,9 @@
                </person>
                <person xml:id="tillich_person_id__2138">
                   <persName>Heller, Otto</persName>
+                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Otto Heller (Lebensdaten unbekannt) war ein Studienkollege von Paul Tillich. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2139">
@@ -13043,8 +13097,9 @@
                </person>
                <person xml:id="tillich_person_id__2237">
                   <persName>Dürselen, Gustav</persName>
+                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Er war ein Großvater von Paul Tillich.</p>
+                     <p>Gustav Dürselen (2. Juli 1816 – 27. Februar 1909) war ein deutscher Kaufmann evangelisch-reformierten Bekenntnisses. Er wurde in Odenkirchen geboren und war im Handelswesen tätig. Er war ein Großvater des Theologen Paul Tillich und starb in Berlin.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2238">
@@ -15425,7 +15480,7 @@
                   <occupation>Honorarprofessor; Ministerialrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117400149</idno>
                   <note type="bio">
-                     <p>Er war Mitglied der DVP und wirkte ab 1926 als Ministerialrat im preußischen Unterrichtsministerium. Er war auch als Honorarprofessor für die Universität Berlin tätig.</p>
+                     <p>Wolfgang Windelband (31. August 1886 – 3. Februar 1945) war ein deutscher Historiker und Hochschullehrer. Er studierte Geschichte und Philologie, wurde 1908 promoviert und habilitierte sich 1914 in Heidelberg. Nach Lehrtätigkeiten in Heidelberg und Darmstadt wurde er 1925 Professor in Königsberg, wechselte jedoch bald in das Preußische Unterrichtsministerium und lehrte zugleich in Berlin. 1935 wurde er nach Halle versetzt und kurz darauf aus dem Dienst entlassen. Seine Forschungsschwerpunkte lagen in der neueren Geschichte, insbesondere zur Außenpolitik und zu Otto von Bismarck.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2472">
@@ -15939,6 +15994,9 @@
                      <date>1950</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116709065</idno>
+                  <note type="bio">
+                     <p>Gustav Ruprecht (19. Juni 1860 – 13. Februar 1950) war ein deutscher Verleger. Nach einer Ausbildung im Buchhandel in Rostock und Leipzig trat er in den väterlichen Verlag ein und wurde 1887 Mitinhaber. Die Leitung des Unternehmens lag später überwiegend in seinen Händen, da sein Bruder durch Verbandsaufgaben gebunden war.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2519">
                   <persName>Brinkmann, (Frau Prof.)</persName>
@@ -16776,7 +16834,7 @@
                   <occupation>Dekan;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116151420</idno>
                   <note type="bio">
-                     <p>Er war Dekan der Theologischen Fakultät während Paul Tillichs Habilitationsvorlesung in Halle.</p>
+                     <p>Ernst von Dobschütz (9. Oktober 1870 – 20. Mai 1934) war ein deutscher evangelischer Theologe. Er studierte in Leipzig, Halle und Berlin, wurde 1892 promoviert und habilitierte sich 1893. Nach Professuren in Jena, Straßburg und Breslau wirkte er ab 1913 in Halle, wo er auch zeitweise als Rektor tätig war. Seine Forschungsschwerpunkte lagen in der Theologie des Urchristentums, der Patristik und der neutestamentlichen Textkritik. Dobschütz veröffentlichte einflussreiche wissenschaftliche Arbeiten und galt als bedeutender Vertreter der historischen Theologie seiner Zeit.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2627">
@@ -17717,7 +17775,7 @@
                   <persName>Steinmann, Theophil</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117259373</idno>
                   <note type="bio">
-                     <p>Theophil Steinmann (geb. am 8. Juni 1869 in Jöör auf Oesel, Rußland, gest. am 23. August 1950 in Gudo, Tessin) war ein Theologe und Prediger der Herrnhuter Brüdergemeine. Nach dem Studium der Theologie und Philosophie am Theologischen Seminar der Brüderunität in Gnadenfeld unterrichtete er seit 1891 als Lehrer in der Knabenanstalt Niesky, wechselte aber schon im folgenden Jahr ans dortige Pädagogium. Nach einem Studienaufenthalt an der Universität Gießen 1894/1895 lehrte er als Dozent für die philosophischen Fächer am Theologischen Seminar in Gnadenfeld. 1897 erfolgte die Ordination zum Diaconus, also für das Predigtamt der Brüderunität. Auf harte Angri_e konservativer pietistischer Kreise, die Steinmann eine liberalprotestantisch inspi rierte Preisgabe der Glaubenssubstanz und allzugroße Sympathien für eine konsequent historisch verfahrende Religionswissenschaft vorwarfen, reagierte der Sohn eines Herrnhuter Predigers und „Diasporaarbeiters“ mit intensiver wissenschaftlicher Publikationstätigkeit. 1904 in Gießen zum Lic. theol. promoviert, verlieh ihm die Theologische Fakultät der Reichsuniversität Straßburg in Würdigung seines theologischenOEuvres 1912 den Grad eines D. theologiae. 1920 wechselte er auf die Dozentur für Systematische Theologie am inzwischen nach Herrnhut übergesiedelten Seminar; danach wurde er wegen massiver theologischer Konflikte zeitweilig von der Austeilung des Abendmahles ausgeschlossen. Ein Versuch, auf eine Professur in der Theologischen Fakultät der Universität Zürich überzugehen, scheiterte. Obgleich 1934 in Herrnhut emeritiert, blieb Steinmann am dortigen Seminar noch bis zu dessen erzwungener Schließung 1940 als Dozent aktiv. 1940 übernahm er das Predigtamt der Brüderunität in Neudietendorf bei Erfurt und zugleich das Pfarramt der dortigen landeskirchlichen Gemeinde. 1946 übersiedelte er in die Schweiz, wo er als Prediger der Brüdersozietät in Menziken (Aargau) wirkte. Steinmann war seit 1901 Mitarbeiter und seit 1920 Mitherausgeber der Zeitschrift für Theologie und Kirche. Als wichtigste Publikation gilt die Programmschrift: Theophil Steinmann, Der religiöse Unsterblichkeitsglaube. Eine religionsvergleichende Studie, Berichte des theologischen Seminars, Heft 8. Leipzig: Friedrich Jans, 1908. Sie erschien um einen zweiten, kulturphilosophischen Hauptteil von 90 Druckseiten erweitert 1912 in neuer Auflage: Theophil Steinmann, Der religiöse Unsterblichkeitsglaube. Sein Wesen und seine Wahrheit, religionsvergleichend und kulturphilosophisch untersucht. Göttingen: Vandenhoeck &amp; Ruprecht, 1912. Zuweiteren Details seiner Lebensgeschichte und seiner theologischen Position siehe den ausgezeichneten Artikel von Matthias Wolfes, „Steinmann, Theophil August.“ Biographisch- Bibliographisches Kirchenlexikon, Band X. Hamm: Verlag Traugott Bautz, 1995, 1317–1329.</p>
+                     <p>Theophil Steinmann (8. Juni 1869 – 23. August 1950) war ein Theologe und Prediger der Herrnhuter Brüdergemeine. Nach seiner Ausbildung und ersten Lehrtätigkeiten wirkte er als Dozent für Theologie und wurde 1904 promoviert. Er lehrte vor allem am Seminar der Brüderunität, geriet jedoch wegen liberaler theologischer Positionen in Konflikte mit kirchlichen Kreisen. Nach seiner Emeritierung blieb er weiterhin als Lehrer und Prediger tätig und übersiedelte später in die Schweiz. Zu seinen wichtigsten Schriften zählt „Der religiöse Unsterblichkeitsglaube“.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2748">
@@ -18098,9 +18156,9 @@
                </person>
                <person xml:id="tillich_person_id__2801">
                   <persName>Hoelscher, Gustav</persName>
-                  <occupation>Dekan;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116927461</idno>
                   <note type="bio">
-                     <p>Er wirkte als Dekan der evangelischen Theologie an der Universität Marburg.</p>
+                     <p>Gustav Hölscher (17. Juni 1877 – 16. September 1955) war ein deutscher evangelischer Theologe und Alttestamentler. Er studierte Theologie und Orientalistik in Erlangen, Leipzig, München und Berlin und wurde 1902 sowie 1904 promoviert. Nach einer Forschungsreise in den Vorderen Orient wurde er 1905 Privatdozent in Halle, später außerordentlicher Professor und erhielt Professuren in Gießen, Marburg und Bonn. Nach 1933 wurde er zeitweise suspendiert und wirkte anschließend bis zu seiner Emeritierung 1949 in Heidelberg. Seine Forschungsschwerpunkte lagen in der alttestamentlichen Literatur, der Geschichte des Judentums und orientalistischen Studien; besonderes Gewicht hatte seine psychologisch geprägte Deutung der Prophetie sowie sein Werk „Geschichtsschreibung in Israel“.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2802">
@@ -20801,7 +20859,7 @@
                   <persName>Bach, Johann Sebastian</persName>
                   <occupation>Komponist, Violinist, Organist</occupation>
                   <note type="bio">
-                     <p>Bach, Johann Sebastian (21.3.1685 Eisenach – 28.7.1750 Leipzig) war Komponist und Thomaskantor in Leipzig. Als Sohn des Stadtmusikus Ambrosius Bach früh verwaist, erhielt er seine Ausbildung beim Bruder in Ohrdruf und an der Michaelisschule in Lüneburg. Nach ersten Organistenstellen in Arnstadt und Mühlhausen wirkte er als Hoforganist in Weimar und ab 1717 als Kapellmeister in Köthen, wo vor allem Instrumentalwerke wie die Brandenburgischen Konzerte entstanden. 1723 übernahm er das Thomaskantorat in Leipzig, schuf mehrere Kantatenjahrgänge und große Kirchenwerke wie die Johannes- und Matthäuspassion, das Weihnachtsoratorium, die h-Moll-Messe und das »Musikalische Opfer«. Bach verband tiefen lutherischen Glauben mit höchster kontrapunktischer Meisterschaft und gilt als einer der größten Komponisten der Musikgeschichte.</p>
+                     <p>Johann Sebastian Bach (21. März 1685 – 28. Juli 1750) war ein deutscher Komponist und Thomaskantor in Leipzig. Nach seiner Ausbildung und frühen Organistenstellen wirkte er in Weimar und Köthen, bevor er 1723 das Thomaskantorat in Leipzig übernahm. Dort schuf er zahlreiche Kantaten sowie bedeutende Kirchenwerke wie die „Matthäuspassion“ und die h-Moll-Messe. Bachs Musik verbindet lutherische Frömmigkeit mit hoher kompositorischer Kunst und prägte die europäische Musikgeschichte nachhaltig.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3364">
@@ -23639,6 +23697,9 @@
                <person xml:id="tillich_person_id__4107">
                   <persName>Boelitz, Otto</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116223472</idno>
+                  <note type="bio">
+                     <p>Otto Boelitz (18. April 1876 – 29. Dezember 1951) war ein deutscher Pädagoge und Politiker. Nach dem Studium der Theologie und Philosophie in Berlin, Halle und Bonn promovierte er und trat in den Schuldienst ein, wo er als Lehrer und später als Schulleiter in Deutschland und im Ausland tätig war. 1921 wurde er preußischer Kultusminister und übte dieses Amt bis 1925 aus; anschließend blieb er als Abgeordneter im Preußischen Landtag aktiv. 1930 übernahm er die Leitung des Ibero-Amerikanischen Instituts in Berlin, die er 1934 im Zuge der nationalsozialistischen Machtübernahme aufgeben musste. Nach dem Zweiten Weltkrieg beteiligte er sich am Aufbau der CDU in Westfalen und war Mitbegründer der Zeitung „Westfalenpost“.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__4108">
                   <persName>Thiersch, Amalie</persName>
@@ -25162,6 +25223,40 @@
                </person>
                <person xml:id="tillich_person_id__4823">
                   <persName>Neumann, Maria</persName>
+               </person>
+               <person xml:id="tillich_person_id__4824">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4825">
+                  <persName>Whiting, Caroline</persName>
+               </person>
+               <person xml:id="tillich_person_id__4826">
+                  <persName>Kullmann, Eugen</persName>
+                  <occupation>Philosoph, Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4827">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4828">
+                  <persName>Ruperti, Andreas</persName>
+                  <occupation>Chemiker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4829">
+                  <persName>Ruperti, Madja</persName>
+                  <birth>
+                     <date>1903-05-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__766">Moskau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1981-12-05</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Malerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/139841725</idno>
                </person>
             </listPerson>
          </div>

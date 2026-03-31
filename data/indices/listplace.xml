@@ -6531,6 +6531,30 @@
                   <idno type="geonames">https://sws.geonames.org/2947022/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q329707</idno>
                </place>
+               <place xml:id="tillich_place_id__1401">
+                  <placeName>Bossey</placeName>
+                  <location type="coords">
+                     <geo>46.35374 6.16603</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661461/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q52268</idno>
+               </place>
+               <place xml:id="tillich_place_id__1402">
+                  <placeName>Luzern</placeName>
+                  <location type="coords">
+                     <geo>47.05048 8.30635</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2659811/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4191</idno>
+               </place>
+               <place xml:id="tillich_place_id__1403">
+                  <placeName>Arlesheim</placeName>
+                  <location type="coords">
+                     <geo>47.49412 7.61979</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661719/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q581647</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -9909,5 +9909,49 @@
     "latitude": "48.15221",
     "longitude": "11.61585",
     "wikidata_url": "https://www.wikidata.org/wiki/Q329707"
+  },
+  "1400": {
+    "id": 1400,
+    "order": "1031.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1400",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1401": {
+    "id": 1401,
+    "order": "1032.00000000000000000000",
+    "name": "Bossey",
+    "tillich_id": "tillich_place_id__1401",
+    "geonames_url": "https://www.geonames.org/2661461/",
+    "Working Notes": "",
+    "latitude": "46.35374",
+    "longitude": "6.16603",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q52268"
+  },
+  "1402": {
+    "id": 1402,
+    "order": "1033.00000000000000000000",
+    "name": "Luzern",
+    "tillich_id": "tillich_place_id__1402",
+    "geonames_url": "https://www.geonames.org/2659811/",
+    "Working Notes": "",
+    "latitude": "47.05048",
+    "longitude": "8.30635",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4191"
+  },
+  "1403": {
+    "id": 1403,
+    "order": "1034.00000000000000000000",
+    "name": "Arlesheim",
+    "tillich_id": "tillich_place_id__1403",
+    "geonames_url": "https://www.geonames.org/2661719/",
+    "Working Notes": "",
+    "latitude": "47.49412",
+    "longitude": "7.61979",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q581647"
   }
 }
