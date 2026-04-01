@@ -258,6 +258,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11627056X</idno>
+                  <note type="bio">
+                     <p>Knud Ahlborn (14. März 1888 – 9. Mai 1977) war ein deutscher Arzt und führender Vertreter der Jugendbewegung. Er gründete früh Wander- und Jugendgruppen und spielte eine zentrale Rolle beim Freideutschen Jugendtag 1913 sowie in der Organisation der Freideutschen Bewegung. Nach dem Ersten Weltkrieg engagierte er sich im Aufbau von Jugendstätten auf Sylt, insbesondere in Klappholttal und Puan Klent. In der Zeit des Nationalsozialismus passte er seine Einrichtungen den politischen Vorgaben an und trat NS-Organisationen bei. Nach 1945 wirkte er erneut in der Jugendbewegung und im Naturschutz und blieb bis ins hohe Alter aktiv.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__20">
                   <persName>Aiken, Newton</persName>
@@ -1301,8 +1304,9 @@
                <person xml:id="tillich_person_id__137">
                   <persName>Barth, Karl</persName>
                   <occupation>Theologe;</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118506803</idno>
                   <note type="bio">
-                     <p>Barth, Karl (10.5.1886 Basel – 10.12.1968 ebd.) war reformierter Theologe und gilt als bedeutendster evangelischer Dogmatiker des 20. Jahrhunderts. Nach Studien in Bern, Berlin, Tübingen und Marburg wirkte er ab 1911 als Pfarrer in Safenwil, bevor er 1921 auf den Lehrstuhl für Theologie berufen wurde (u. a. Göttingen, Münster, Bonn). 1935 wurde er wegen seiner Weigerung, den Eid auf Hitler zu leisten, aus Deutschland ausgewiesen und lehrte bis 1962 in Basel. Mit seiner Auslegung des Römerbriefs (1919/1922) begründete er die »Dialektische Theologie« und wandte sich gegen den liberalen Protestantismus. Hauptwerk ist die unvollendet gebliebene »Kirchliche Dogmatik«, in der Barth die Theologie konsequent von der Offenbarung in Jesus Christus her entwickelte. Er wirkte prägend in der Bekennenden Kirche und war Mitverfasser der Barmer Theologischen Erklärung. Barth beeinflusste Theologie und Ökumene weit über den Protestantismus hinaus, auch wenn sein Einfluss nach 1970 zurückging.</p>
+                     <p>Karl Barth (10. Mai 1886 – 10. Dezember 1968) war ein reformierter Theologe und einer der bedeutendsten evangelischen Dogmatiker des 20. Jahrhunderts. Nach seinem Studium wirkte er zunächst als Pfarrer, bevor er Professuren in Deutschland und später in Basel übernahm. 1935 wurde er wegen seiner Haltung gegenüber dem NS-Regime aus Deutschland ausgewiesen. Mit seiner Auslegung des „Römerbriefs“ begründete er die Dialektische Theologie und wandte sich gegen den liberalen Protestantismus. Sein Hauptwerk ist die „Kirchliche Dogmatik“, zudem war er maßgeblich an der Bekennenden Kirche beteiligt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__138">
@@ -1847,8 +1851,9 @@
                <person xml:id="tillich_person_id__252">
                   <persName>Bonin, Henning von</persName>
                   <occupation>Preußischer Infanteriegeneral</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/131563998X</idno>
                   <note type="bio">
-                     <p>(http://prussianmachine.com/diva/bonin_h.html) General von Bonin was a Royal Prussian Guards Corps officer who, prior to the Great War, commanded at the battalion, regiment, and brigade level. During the year and a half leading up to war's outbreak, General von Bonin was the Commandant of Berlin. He served during the War as a division and brigade commder.</p>
+                     <p>Henning Theodor Wilhelm von Bonin (1856 – 1923) war ein deutscher Offizier und Generalleutnant. Er wurde in Szczecinek geboren und diente in der preußischen Armee in verschiedenen Führungspositionen bis auf Brigade- und Divisionsebene. In den Jahren vor dem Ersten Weltkrieg war er Stadtkommandant von Berlin und wirkte später auch in Blankenburg. Während des Krieges führte er Truppen als Divisions- und Brigadekommandeur.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__253">
@@ -2578,9 +2583,10 @@
                </person>
                <person xml:id="tillich_person_id__438">
                   <persName>de Man, Hendrik</persName>
-                  <occupation>Belgischer Sozialpsychologe, Theoretiker des Sozialismus, Politiker und Publizist</occupation>
+                  <occupation>Politiker und Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118989960</idno>
                   <note type="bio">
-                     <p>In Antwerpen geboren, schloss er sich dort bereits in seiner Jugend einer sozialistischen Gruppierung an. Zunächst Studium der Naturwissenschaften und Mathematik in Gent und Brüssel, das er abbrach, um 1905-1909 in Leipzig und Wien Philosophie, Psychologie, Geschichte und Volkswirtschaft zu studieren und mit Promotion abzuschließen. Während des Studiums Mitarbeit an der sozialistischen Leipziger Volkszeitung, seit 1907 war er Internationaler Sekretär der Sozialistischen Jugendinternationale. Nach einem Jahr in England 1910 wurde er, zurück in Belgien, Leiter einer Arbeiterbildungszentrale. Nach dem ersten Weltkrieg lehrte er kurzzeitig Sozialpsychologie an der University of Washington, wurde jedoch aufgrund seines sozialpolitischen Engagements entlassen. Seit dem Ersten Weltkrieg zunehmende Distanzierung von der marxistischen Form des Sozialismus, im Laufe der 1920er endgültige Loslösung und Nähe zum Hofgeismarer Kreis der Jungsozialisten. 1929-1933 Lehrauftrag für Sozialpsychologie und Sozialpädagogik an der Frankfurter Universität, Mitarbeit bei Tillichs Neuen Blättern für den Sozialismus. 1933 emigrierte nach Belgien, 1935 wurde er Arbeitsminister, im Juni 1936 Finanzminister. Seit 1939 Vorsitzender der Belgischen Arbeiterpartei, die er 1940 auflöste. Die Bewertung seiner Kollaborationspolitik ist umstritten. Unter deutscher Herrschaft erhielt er Rede- und Auftrittsverbot, er ging bis 1944 in das unbesetzte Vichy-Frankreich,  anschließend als politischer Flüchtling in die Schweiz. 1946 wurde er in Abwesenheit von einem belgischen Gericht zu 20 Jahren Haft verurteilt. Er starb in der Schweiz bei einem Autounfall.</p>
+                     <p>Hendrik de Man (17. November 1885 – 20. Juni 1953) war ein belgischer sozialistischer Politiker und Publizist. Nach Studien in Leipzig und anderen europäischen Städten wurde er promoviert und engagierte sich früh in der internationalen Arbeiterbewegung. In den 1920er Jahren entwickelte er eine vom Marxismus abweichende, stärker psychologisch und ethisch begründete Sozialismustheorie und lehrte zeitweise in Deutschland. In Belgien wurde er führender Politiker, entwickelte den „Plan der Arbeit“ und übernahm Ministerämter. Während des Zweiten Weltkriegs geriet er durch seine Haltung zur deutschen Besatzung in Kritik und wurde nach 1945 verurteilt. Seine späteren Schriften widmeten sich vor allem kultur- und gesellschaftspolitischen Fragen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__439">
@@ -2708,7 +2714,7 @@
                <person xml:id="tillich_person_id__470">
                   <persName>Dionysius Areopagita</persName>
                   <note type="bio">
-                     <p>Dionysius Areopagita (um das 1. Jahrhundert n. Chr.) war ein athenischer Richter am Areopag, der sich laut der Apostelgeschichte durch die Predigt des Paulus zum Christentum bekehrte und später als zweiter Bischof von Athen galt. Sein Name wurde in späteren Jahrhunderten mehrfach mit anderen Gestalten verwechselt, insbesondere mit dem im 6. Jahrhundert wirkenden Pseudo-Dionysius Areopagita, dessen mystisch-theologische Schriften im Mittelalter als Werke des ursprünglichen Dionysius angesehen wurden.</p>
+                     <p>Dionysius Areopagita (1. Jahrhundert n. Chr.) war ein athenischer Richter am Areopag, der sich laut der Apostelgeschichte durch die Predigt des Paulus zum Christentum bekehrte und später als zweiter Bischof von Athen galt. Sein Name wurde in späteren Jahrhunderten mehrfach mit anderen Gestalten verwechselt, insbesondere mit dem im 6. Jahrhundert wirkenden Pseudo-Dionysius Areopagita, dessen mystisch-theologische Schriften im Mittelalter als Werke des ursprünglichen Dionysius angesehen wurden.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__471">
@@ -3403,7 +3409,7 @@
                   <death>
                      <date>1963</date>
                   </death>
-                  <occupation>Pfarrer; Heimleiter; auch als Frede bezeichnet</occupation>
+                  <occupation>Pfarrer; Heimleiter;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio">
                      <p>Alfred Fritz (1886 – 1963) war ein deutscher reformierter Pfarrer und kirchlicher Funktionsträger. Von 1904 bis 1908 studierte er Theologie in Tübingen und Halle, wo er sich mit seinem Mitstudenten Paul Tillich anfreundete und wie dieser im Wingolf engagiert war. Seit 1912 wirkte er als Pfarrer in Butterfelde; im selben Jahr heiratete er Johanna Tillich, die Schwester Paul Tillichs, die jedoch 1920 bei der Geburt des dritten Kindes verstarb. Von 1916 bis 1922 war Alfred Fritz als Missionsinspektor in Bremen tätig, anschließend von 1922 bis 1927 Pfarrer der französisch-reformierten Gemeinde in Frankfurt am Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitete er im Diakonissenhaus Teltow, wo er die Leitung des Magdalenenstifts und der Fürsorgeabteilung übernahm. In zweiter Ehe war er mit der Pastorentochter Gertrud „Trude“ Fritz, geborene Horn, verheiratet.</p>
@@ -3417,8 +3423,11 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__643">
-                  <persName>Fritz (geb. Horn), Gertrude</persName>
-                  <occupation>(auch Trudchen) Zweite Frau von Alfred Fritz, Ausbildung: Soziale Frauenschule</occupation>
+                  <persName>Fritz, Gertrude</persName>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Gertrude Fritz (1883 – 1961) war eine deutsche Sozialarbeiterin. Sie wurde als Gertrude Horn geboren und absolvierte eine Ausbildung an einer Sozialen Frauenschule. Als zweite Ehefrau von Alfred Fritz wurde sie auch unter dem Namen „Trudchen“ bekannt. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__644">
                   <persName>Fritz, Johanna</persName>
@@ -3551,7 +3560,10 @@
                </person>
                <person xml:id="tillich_person_id__673">
                   <persName>Gerich, August</persName>
-                  <occupation>Er war Paul Tillichs Leibbursch.</occupation>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>August Gerich (Lebensdaten unbekannt) war ein Studienfreund des Theologen Paul Tillich und fungierte als dessen Leibbursch. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__674">
                   <persName>Gerstenmaier, Eugen</persName>
@@ -3578,7 +3590,7 @@
                <person xml:id="tillich_person_id__681">
                   <persName>Giotto di Bondone</persName>
                   <note type="bio">
-                     <p>Giotto di Bondone (wohl 1267 Vespignano – 8. Januar 1337 Florenz) gilt als bedeutendster Maler des 14. Jahrhunderts und Wegbereiter einer naturnahen Bildsprache. Nach der Lehre bei Cimabue wirkte er ab etwa 1290 in Florenz, Rom, Assisi, Padua und an mehreren Fürstenhöfen; sein Freskenzyklus in der Arenakapelle von Padua (1303–1305) setzte mit bühnenhafter Raumtiefe, plastischer Körperlichkeit und erzählerischer Dynamik Maßstäbe für die Renaissancekunst. Giotto erneuerte das Tafelbild in Werken wie der Kreuztafel von Santa Maria Novella, blieb zugleich Hofmaler König Roberts von Anjou und entwarf den Campanile des Florentiner Doms. Obwohl nur rund die Hälfte seines Œuvres erhalten ist, wirkt seine Abkehr von der byzantinisch-ikonischen Tradition bis heute nach.</p>
+                     <p>Giotto di Bondone (um 1267 – 8. Januar 1337) war ein italienischer Maler und Wegbereiter einer naturnahen Bildsprache. Nach seiner Ausbildung wirkte er in mehreren italienischen Städten und schuf mit den Fresken der Arenakapelle in Padua ein Hauptwerk der frühen Renaissance. Seine Kunst zeichnet sich durch räumliche Darstellung, plastische Figuren und erzählerische Klarheit aus. Neben der Malerei war er auch architektonisch tätig, etwa beim Campanile des Florentiner Doms.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__682">
@@ -3787,7 +3799,7 @@
                <person xml:id="tillich_person_id__730">
                   <persName>Grünewald, Matthias</persName>
                   <note type="bio">
-                     <p>Matthias Grünewald, eigentlich Mathis Nithart (alias Gothart; * um 1480/83 vermutlich Würzburg, † vor 1. September 1528 Halle/Saale), war ein deutscher Maler, Zeichner und Wasserbauingenieur der Renaissance. Als „Meister Mathis von Aschaffenburg“ wirkte er ab 1510 als Hofmaler der Mainzer Erzbischöfe, leitete eine Werkstatt in Aschaffenburg, übernahm technische Projekte und schuf monumentale Retabel wie den wandelbaren Isenheimer Altar (1512–1516) sowie weitere Tafeln für Mainz, Tauberbischofsheim und Frankfurt. Trotz spärlicher Lebenszeugnisse und der späteren Namensverwechslung durch Sandrart gilt seine expressive, mystisch aufgeladene Malerei als Höhepunkt der deutschen Hochrenaissance.</p>
+                     <p>Matthias Grünewald (um 1480/83 – vor 1. September 1528) war ein deutscher Maler, Zeichner und Ingenieur der Renaissance. Er wirkte als Hofmaler der Mainzer Erzbischöfe und schuf mit dem Isenheimer Altar eines der bedeutendsten Werke der deutschen Kunst. Seine Malerei zeichnet sich durch expressive Darstellung und religiöse Intensität aus. Neben seiner künstlerischen Tätigkeit war er auch an technischen und wasserbaulichen Projekten beteiligt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__731">
@@ -4227,7 +4239,7 @@
                   <persName>Heidegger, Martin</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118547798</idno>
                   <note type="bio">
-                     <p>Heidegger, Martin (26.9.1889 Meßkirch, Baden – 26.5.1976 Freiburg i.Br.). Ohne H. ist die Philos. des 20.Jh. nicht vorstellbar. J.-P.Sartre, E.Lévinas, M.Foucault und Jacques Derrida sind von ihm geprägt; zu seinen Schülern gehörten u.a. H.Arendt, K.Löwith, H.Jonas, L.Strauss und Hans-Georg Gadamer, der H.s Philos. maßgeblich weiterentwickelt hat. H. ist der einzige Philosoph seines Jh., der, wie vor ihm nur G.W.F.Hegel, die abendländische Philos. im ganzen durchdacht und in z.T. bahnbrechender Weise neu interpretiert hat.</p>
+                     <p>Martin Heidegger (26. September 1889 – 26. Mai 1976) war ein deutscher Philosoph. Er zählt zu den einflussreichsten Denkern des 20. Jahrhunderts und prägte zahlreiche Philosophen wie Jean-Paul Sartre, Hannah Arendt und Hans-Georg Gadamer. In seinem Werk setzte er sich grundlegend mit der abendländischen Philosophie auseinander und entwickelte neue Ansätze zur Analyse von Sein und Existenz.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__842">
@@ -4365,6 +4377,10 @@
                <person xml:id="tillich_person_id__877">
                   <persName>Hensmann, Amos</persName>
                   <occupation>Pfarrer;</occupation>
+                  <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Amos Hensmann (geb. 1884) war ein deutscher Pfarrer. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__878">
                   <persName>Herakles</persName>
@@ -4664,9 +4680,6 @@
                <person xml:id="tillich_person_id__951">
                   <persName>Ide, Charles Alfred</persName>
                   <occupation>Arzt</occupation>
-                  <note type="bio">
-                     <p>Förderer Carl  Mennickes hatten 1915 geheiratet und ließen sich 1939 scheiden. Sie hatten zwei Kinder. Der Versuch, 1936 eine Stiftungsprofessur für Sozialpädagogik an der Universität Amsterdam einzurichten, was jedoch letztlich scheiterte</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__952">
                   <persName>Ide, Henriette Rosalie</persName>
@@ -5008,7 +5021,11 @@
                </person>
                <person xml:id="tillich_person_id__1033">
                   <persName>Kattenbusch, Ferdinand</persName>
-                  <occupation>Evangelischer Theologe, Wingolf</occupation>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116067322</idno>
+                  <note type="bio">
+                     <p>Ferdinand Friedrich Wilhelm Kattenbusch (3. Oktober 1851 – 28. Dezember 1935) war ein deutscher evangelischer Theologe. Er studierte in Bonn, Berlin und Halle, habilitierte sich 1876 und wurde Professor in Gießen, später in Göttingen und Halle, wo er auch als Rektor wirkte. Seine Arbeiten galten vor allem der historischen Theologie und der Konfessionskunde, zu deren Begründern er zählt. Mit Studien zum Apostolischen Glaubensbekenntnis und als Herausgeber der Zeitschrift „Theologische Studien und Kritiken“ übte er nachhaltigen Einfluss auf die theologische Forschung aus.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1034">
                   <persName>Kaulbach, Wilhelm</persName>
@@ -7154,6 +7171,10 @@
                </person>
                <person xml:id="tillich_person_id__1548">
                   <persName>Radbruch, Gustav</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118597582</idno>
+                  <note type="bio">
+                     <p>Gustav Radbruch (21. November 1878 – 23. November 1949) war ein deutscher Rechtswissenschaftler und Politiker. Er wirkte als Professor und war in der Weimarer Republik mehrfach Reichsminister der Justiz. Radbruch gilt als einer der einflussreichsten Rechtsphilosophen des 20. Jahrhunderts und verband rechtstheoretische, strafrechtliche und kulturwissenschaftliche Ansätze. Nach 1945 formulierte er die sogenannte Radbruchsche Formel, mit der er Grenzen des Rechtspositivismus angesichts staatlichen Unrechts bestimmte.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1549">
                   <persName>Radulf von Longchamp</persName>
@@ -7414,6 +7435,9 @@
                   </death>
                   <occupation>Evangelischer Theologe und Missionswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116512407</idno>
+                  <note type="bio">
+                     <p>Julius Werner Richter (19. Februar 1862 – 27. März 1940) war ein deutscher evangelischer Theologe und Missionswissenschaftler. Er studierte in Halle, Leipzig und Berlin, war zunächst als Pfarrer tätig und habilitierte sich 1913 in Berlin. Anschließend wurde er Professor für Missionswissenschaft und prägte dieses Fach maßgeblich. Richter engagierte sich in nationalen und internationalen Missionsorganisationen und gehörte zu den Wegbereitern der ökumenischen Bewegung. Seine zahlreichen Veröffentlichungen zur Missionsgeschichte sowie seine Mitwirkung an internationalen Konferenzen machten ihn zu einer einflussreichen Persönlichkeit seiner Zeit.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1601">
                   <persName>Richter, Liselotte</persName>
@@ -7672,7 +7696,10 @@
                </person>
                <person xml:id="tillich_person_id__1658">
                   <persName>Rühle, Oskar</persName>
-                  <occupation>Mohr Siebeck Verlag</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116675764</idno>
+                  <note type="bio">
+                     <p>Oskar Rühle (3. Januar 1901 – 10. Juni 1980) war ein deutscher Religionswissenschaftler. Er wirkte vor allem in Stuttgart und war Mitglied im Börsenverein des Deutschen Buchhandels. Rühle beschäftigte sich unter anderem mit Verlagsgeschichte und veröffentlichte ein Buch zum Mohr-Siebeck Verlag.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1659">
                   <persName>Rumpf, Josefine</persName>
@@ -8257,6 +8284,9 @@
                   <persName>Siebeck, Paul</persName>
                   <occupation>Deutscher Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117338354</idno>
+                  <note type="bio">
+                     <p>Paul Siebeck (7. März 1855 – 20. November 1920) war ein deutscher Verleger. Nach einer Ausbildung im Buchhandel übernahm er früh Verantwortung im väterlichen Unternehmen und erwarb 1878 den Verlag J. C. B. Mohr, den er zu einem bedeutenden wissenschaftlichen Verlag ausbaute. Er förderte insbesondere Werke aus Theologie, Philosophie und Sozialwissenschaft und veröffentlichte zahlreiche einflussreiche Autoren. Zudem war er Mitbegründer des Deutschen Verlegervereins und engagierte sich im Börsenverein des Deutschen Buchhandels.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1782">
                   <persName>Siebeck, Hermann</persName>
@@ -9719,7 +9749,7 @@
                   <occupation>Theologe; Religionsphilosoph; Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio">
-                     <p>Tillich, Paul (20.8.1886 Starzeddel – 22.10.1965 Chicago), war evangelischer Theologe und Religionsphilosoph. Er wirkte als Feldprediger im Ersten Weltkrieg, lehrte in Deutschland und nach seiner Entlassung 1933 am Union Theological Seminary in New York, später an Harvard und in Chicago. Tillich verband Einflüsse von Schelling, Nietzsche, Otto und der Existenzphilosophie zu einer Theologie der Kultur, die Religion als das „was uns unbedingt angeht“ verstand. In seiner „Systematic Theology“ entwickelte er die Methode der Korrelation von menschlicher Frage und theologischer Antwort und deutete Gott als „Macht des Seins“. Bekannt wurde er auch durch „The Courage to Be“ (1952), in dem er Angst und Mut zum Sein existentiell deutete. Tillich suchte stets die Grenze zwischen Theologie, Philosophie und Kultur und prägte nachhaltig das Verständnis von Symbol, Mythos und Religionsbezug in der Moderne.</p>
+                     <p>Paul Tillich (20. August 1886 – 22. Oktober 1965) war ein deutscher evangelischer Theologe und Religionsphilosoph. Nach seiner Tätigkeit als Feldprediger im Ersten Weltkrieg lehrte er an verschiedenen Universitäten in Deutschland, bis er 1933 emigrieren musste und in den USA wirkte, unter anderem in New York, Harvard und Chicago. Tillich entwickelte eine Theologie der Kultur und verstand Religion als das „was uns unbedingt angeht“. In seiner „Systematic Theology“ formulierte er die Methode der Korrelation und deutete Gott als „Macht des Seins“. Seine Arbeiten verbinden Theologie, Philosophie und Existenzdenken und hatten großen Einfluss auf das religiöse Denken der Moderne.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1929">
@@ -9753,7 +9783,6 @@
                   <death>
                      <date>1916-11-20</date>
                   </death>
-                  <occupation>Großmutter Paul Tillichs, geb. Scheidemantel</occupation>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Marie Tillich (6. März 1827 – 20. November 1916) war eine Angehörige der Familie Tillich und die Großmutter des Theologen Paul Tillich. Sie wurde in Berlin als Marie Scheidemantel geboren und führte später den Familiennamen Tillich.</p>
@@ -11739,7 +11768,7 @@
                   <occupation>Politikwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
                   <note type="bio">
-                     <p>Geboren in St. Gallen, Studium der Rechtwissenschaften (1917 Promotion in Zürich) sowie der Volkswirtschaftslehre und Politikwissenschaft (1924 Promotion in Gießen, 1929 Habilitation in Berlin). W. war seit 1922 an der Deutschen Hochschule für Politik in Berlin tätig, ab 1930 zudem Privatdozent an der Universität Berlin. In Berlin Bekanntschaft mit Tillich sowie Nähe zum Religiösen Sozialismus. 1933 Emigration in die USA, wo W. 1935-1957 in Yale lehrte sowie unter anderem als Berater für das Außenministerium der USA fungierte.</p>
+                     <p>Arnold Oscar Wolfers (14. Juni 1892 – 16. Juli 1968) war ein schweizerisch-amerikanischer Politikwissenschaftler. Er studierte Rechts-, Wirtschafts- und Politikwissenschaft, wurde 1917 und 1924 promoviert und habilitierte sich 1929 in Berlin. Nach Tätigkeiten an der Deutschen Hochschule für Politik emigrierte er 1933 in die USA, wo er ab 1935 als Professor in Yale lehrte. Wolfers gilt als wichtiger Vertreter des politischen Realismus und beschäftigte sich mit internationalen Beziehungen und Außenpolitik. Seine Arbeiten zur Theorie der internationalen Politik, insbesondere das sogenannte „Billardkugelmodell“, fanden große Beachtung.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2095">
@@ -12521,8 +12550,9 @@
                         <placeName key="#tillich_place_id__111">Collinghorst</placeName>
                      </settlement>
                   </birth>
+                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich, genannt "Nickelby", wohl nach dem fiktiven Charakter Nicholas Nickleby, dem Protagonisten des gleichnamigen Gesellschaftstromans von Charles Dickens.</p>
+                     <p>Nikolaus Schuster (geb. 18. Mai 1885) war ein Studienkollege des Theologen Paul Tillich. Er wurde in Collinghorst geboren und war unter dem Spitznamen „Nickelby“ bekannt, angelehnt an eine literarische Figur von Charles Dickens. Weitere biografische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2158">
@@ -12763,8 +12793,9 @@
                </person>
                <person xml:id="tillich_person_id__2196">
                   <persName>???, Käthe</persName>
+                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p>
+                     <p>Käthe (Lebensdaten unbekannt) wird als eine Tante des Theologen Paul Tillich bezeichnet. Ihr voller Name und weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2197">
@@ -15716,6 +15747,10 @@
                <person xml:id="tillich_person_id__2491">
                   <persName>Häberle, Luise</persName>
                   <occupation>Prokuristin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1073436063</idno>
+                  <note type="bio">
+                     <p>Luise Häberle (Lebensdaten unbekannt) war eine deutsche Prokuristin. Sie war ab 1924 in Tübingen tätig und mit den Verlagen J. C. B. Mohr (Paul Siebeck) sowie der H. Laupp’schen Buchhandlung verbunden. Weitere biografische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2492">
                   <persName>Rosenbusch, Agnes</persName>
@@ -17765,7 +17800,7 @@
                   <persName>Quervain, Alfred de</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118597310</idno>
                   <note type="bio">
-                     <p>Der schweizerische reformierte Theologe Alfred de Quervain (1896-1968), Sohn eines Pfarrers, der seinerseits schon Pfarrerssohn gewesen war, hatte nach einem Studium der Evangelischen Theologie und der Philosophie in Bern, Basel, Marburg und Berlin sich nach dem Ersten Theologischen Examen dafür entschieden, inspiriert und gefördert von Friedrich Siegmund Schultzes „Sozialer Arbeitsgemeinschaft“ in Ost-Berliner Proletarier- und Elendsvierteln Sozialarbeit zu leisten. In den Versammlungen der „Sozialer Arbeitsgemeinschaft“, in denen Tillich mehrfach Vorträge hielt, dürfte er dem damaligen Berliner Privatdozenten begegnet sein. Er stand sowohl zu Carl Schmitt als auch zu Gustav Radbruch in Kontakt.</p>
+                     <p>Alfred de Quervain (28. September 1896 – 30. Oktober 1968) war ein Schweizer reformierter Theologe. Er studierte Theologie und Philosophie in mehreren europäischen Städten, wurde 1928 promoviert und habilitierte sich 1930 in Basel. Nach Tätigkeiten als Pfarrer in Deutschland und der Schweiz wirkte er in den 1930er Jahren in Elberfeld, wo er sich im Umfeld der Bekennenden Kirche engagierte und zum Widerstand gegen den Nationalsozialismus aufrief. 1938 kehrte er in die Schweiz zurück und wurde Professor in Bern. Seine Arbeiten, insbesondere zur theologischen Ethik, fanden breite Beachtung.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2745">
@@ -19774,7 +19809,7 @@
                <person xml:id="tillich_person_id__3098">
                   <persName>Piero della Francesca</persName>
                   <note type="bio">
-                     <p>Piero della Francesca (um 1415, Borgo Sansepolcro – 12. Oktober 1492, ebenda) war ein Maler und Mathematiker der Frührenaissance, der nach Florentiner Lehrjahren für die Höfe von Ferrara, Rimini und Urbino arbeitete. Sein streng perspektivisches Formenideal gipfelt im Freskenzyklus Legende vom Kreuz in Arezzo (1452–66) sowie in der Geißelung Christi und dem Doppelporträt des Herzogspaares von Urbino, während seine Traktate zur Geometrie und Perspektive die Kunsttheorie nachhaltig beeinflussten.</p>
+                     <p>Piero della Francesca (um 1415 – 12. Oktober 1492) war ein italienischer Maler und Mathematiker der Frührenaissance. Nach seiner Ausbildung in Florenz arbeitete er für verschiedene Fürstenhöfe und schuf bedeutende Werke wie den Freskenzyklus „Legende vom Kreuz“ in Arezzo. Seine Malerei ist geprägt von strenger Perspektive, klarer Form und ruhiger Bildordnung. Neben seiner künstlerischen Tätigkeit verfasste er einflussreiche Schriften zur Geometrie und Perspektive.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3099">
@@ -21956,8 +21991,9 @@
                   <death>
                      <date>06.12.1942</date>
                   </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1078880204</idno>
                   <note type="bio">
-                     <p>Sohn von Gustav Radbruch</p>
+                     <p>Anselm Radbruch (9. Dezember 1918 – 6. Dezember 1942) war der Sohn des Rechtswissenschaftlers Gustav Radbruch. Weitere biografische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3576">
@@ -22024,6 +22060,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116321962</idno>
+                  <note type="bio">
+                     <p>Lydia Radbruch (15. Januar 1888 – 24. Juli 1974) war die Ehefrau des Rechtswissenschaftlers Gustav Radbruch. Sie wurde in Krakeln als Lydia Schenk geboren und war Mutter von Anselm Radbruch. Sie starb in Müllheim.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3585">
                   <persName>Kikutsch, Yuichi</persName>
@@ -25257,6 +25296,9 @@
                   </death>
                   <occupation>Malerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/139841725</idno>
+               </person>
+               <person xml:id="tillich_person_id__4830">
+                  <persName/>
                </person>
             </listPerson>
          </div>
