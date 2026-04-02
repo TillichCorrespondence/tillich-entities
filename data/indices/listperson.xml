@@ -18375,7 +18375,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/119059479</idno>
                </person>
                <person xml:id="tillich_person_id__2841">
-                  <persName>Prof. Bornhausen</persName>
+                  <persName>Bornhausen, Karl</persName>
+                  <occupation>Theologe; Hochschullehrer; Religionsphilosoph; Historiker; Freimaurer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116255617</idno>
                </person>
                <person xml:id="tillich_person_id__2842">
                   <persName>Unteroffizier</persName>
@@ -25299,6 +25301,24 @@
                </person>
                <person xml:id="tillich_person_id__4830">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4831">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4832">
+                  <persName>Bornhäuser, Karl</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116255552</idno>
+               </person>
+               <person xml:id="tillich_person_id__4833">
+                  <persName>Kaiser, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4834">
+                  <persName>Dr. Stern, ???</persName>
+                  <occupation>Ärztin in Kinderklinik</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4835">
+                  <persName>Seidel, Marie Loiuse</persName>
                </person>
             </listPerson>
          </div>

@@ -9953,5 +9953,16 @@
     "latitude": "47.49412",
     "longitude": "7.61979",
     "wikidata_url": "https://www.wikidata.org/wiki/Q581647"
+  },
+  "1404": {
+    "id": 1404,
+    "order": "1035.00000000000000000000",
+    "name": "Ramersdorf",
+    "tillich_id": "tillich_place_id__1404",
+    "geonames_url": "https://www.geonames.org/2850697/",
+    "Working Notes": "",
+    "latitude": "48.10938",
+    "longitude": "11.61736",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q52382892"
   }
 }
