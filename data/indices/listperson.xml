@@ -19992,7 +19992,20 @@
                </person>
                <person xml:id="tillich_person_id__3142">
                   <persName>Sternefeld, Ruth</persName>
+                  <birth>
+                     <date>15.01.1893</date>
+                     <settlement>
+                        <placeName>Königsberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>06.04.1978</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Kinderärztin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/12765092X</idno>
                </person>
                <person xml:id="tillich_person_id__3143">
                   <persName>Mendelsohn, Erich</persName>
@@ -25313,12 +25326,13 @@
                <person xml:id="tillich_person_id__4833">
                   <persName>Kaiser, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__4834">
-                  <persName>Dr. Stern, ???</persName>
-                  <occupation>Ärztin in Kinderklinik</occupation>
-               </person>
                <person xml:id="tillich_person_id__4835">
                   <persName>Seidel, Marie Loiuse</persName>
+               </person>
+               <person xml:id="tillich_person_id__4868">
+                  <persName>Kaiser, Friedrich Fritz</persName>
+                  <occupation>Politiker, Minister für Volksbildung im Freistaat Sachsen</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/133513793</idno>
                </person>
             </listPerson>
          </div>
