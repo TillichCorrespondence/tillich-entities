@@ -6563,6 +6563,14 @@
                   <idno type="geonames">https://sws.geonames.org/2850697/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q52382892</idno>
                </place>
+               <place xml:id="tillich_place_id__1437">
+                  <placeName>Gürzenich</placeName>
+                  <location type="coords">
+                     <geo>50.79173 6.44338</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2913486/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1562104</idno>
+               </place>
             </listPlace>
          </div>
       </body>
