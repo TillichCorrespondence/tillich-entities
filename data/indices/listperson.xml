@@ -25337,6 +25337,23 @@
                <person xml:id="tillich_person_id__4901">
                   <persName>Moll, Wilhelm</persName>
                </person>
+               <person xml:id="tillich_person_id__4902">
+                  <persName>Bernal, John Desmond</persName>
+                  <birth>
+                     <date>1901-05-10</date>
+                     <settlement>
+                        <placeName>Nenagh</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1971-09-15</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__271">London</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Naturwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118953958</idno>
+               </person>
             </listPerson>
          </div>
       </body>
