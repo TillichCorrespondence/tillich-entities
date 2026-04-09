@@ -18697,7 +18697,7 @@
                <person xml:id="tillich_person_id__2885">
                   <persName>Leese, Minna Margarethe</persName>
                   <note type="bio">
-                     <p>Sie war die Gattin von Kurt Leese.</p>
+                     <p>Sie war die Gattin von Kurt Leese (Heirat am 5. Dezember 1912).</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2886">
@@ -20695,7 +20695,10 @@
                   <persName>Seeberger, Waltraud</persName>
                </person>
                <person xml:id="tillich_person_id__3311">
-                  <persName>Seeberger, Adelhard</persName>
+                  <persName>Seeberger, Adelheid</persName>
+                  <birth>
+                     <date>1922</date>
+                  </birth>
                </person>
                <person xml:id="tillich_person_id__3312">
                   <persName>Weil, ???</persName>
