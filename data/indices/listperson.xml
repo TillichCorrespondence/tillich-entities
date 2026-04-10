@@ -22321,7 +22321,9 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__3646">
-                  <persName>Töpelmann, ???</persName>
+                  <persName>Töpelmann, Alfred</persName>
+                  <occupation>Verleger, Theologe, Buchhändler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117392898</idno>
                </person>
                <person xml:id="tillich_person_id__3647">
                   <persName/>
@@ -22329,17 +22331,30 @@
                <person xml:id="tillich_person_id__3648">
                   <persName>Müller, Margot</persName>
                </person>
-               <person xml:id="tillich_person_id__3649">
-                  <persName>Martin, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__3650">
-                  <persName>Krüger, ???</persName>
+                  <persName>Krüger, Gustav</persName>
+                  <occupation>Kirchenhistoriker, Evangelischer Theologe, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116561734</idno>
                </person>
                <person xml:id="tillich_person_id__3651">
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__3652">
-                  <persName>Schian, ???</persName>
+                  <persName>Schian, Martin</persName>
+                  <birth>
+                     <date>1869-08-10</date>
+                     <settlement>
+                        <placeName>Liegnitz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1944-07-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__506">Breslau</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117225924</idno>
                </person>
                <person xml:id="tillich_person_id__3653">
                   <persName>???, Frida</persName>
@@ -25356,6 +25371,9 @@
                   </death>
                   <occupation>Naturwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118953958</idno>
+               </person>
+               <person xml:id="tillich_person_id__4903">
+                  <persName/>
                </person>
             </listPerson>
          </div>

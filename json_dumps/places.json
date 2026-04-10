@@ -9266,22 +9266,22 @@
     "order": "971.00000000000000000000",
     "name": "Helgoland",
     "tillich_id": "tillich_place_id__1115",
-    "geonames_url": "",
+    "geonames_url": "https://sws.geonames.org/2906947/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q3038"
+    "latitude": "54.18213",
+    "longitude": "7.88458",
+    "wikidata_url": "http://www.wikidata.org/entity/Q3129772"
   },
   "1116": {
     "id": 1116,
     "order": "972.00000000000000000000",
     "name": "Westerland",
     "tillich_id": "tillich_place_id__1116",
-    "geonames_url": "",
+    "geonames_url": "https://sws.geonames.org/2810284/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q27998"
+    "latitude": "54.90790",
+    "longitude": "8.30326",
+    "wikidata_url": "http://www.wikidata.org/entity/Q27998"
   },
   "1117": {
     "id": 1117,
