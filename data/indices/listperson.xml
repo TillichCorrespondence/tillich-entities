@@ -7798,6 +7798,8 @@
                </person>
                <person xml:id="tillich_person_id__1683">
                   <persName>Santayana, George</persName>
+                  <occupation>Philosoph, Schriftsteller, Kulturkritiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118794507</idno>
                </person>
                <person xml:id="tillich_person_id__1684">
                   <persName>Saoshyant</persName>
@@ -25374,6 +25376,16 @@
                </person>
                <person xml:id="tillich_person_id__4903">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4905">
+                  <persName>Joël, Hedwig</persName>
+                  <occupation>Musikerin, Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11714813X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4906">
+                  <persName>Philippson, Paula</persName>
+                  <occupation>Ärztin, Klassische Philologin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116176318</idno>
                </person>
             </listPerson>
          </div>
