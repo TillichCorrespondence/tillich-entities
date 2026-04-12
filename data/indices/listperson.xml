@@ -20818,7 +20818,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/1016960859</idno>
                </person>
                <person xml:id="tillich_person_id__3339">
-                  <persName>Frankel, Hilde</persName>
+                  <persName>Fränkel, Hilde</persName>
                   <occupation>Sekretärin v. Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__3340">
@@ -25386,6 +25386,15 @@
                   <persName>Philippson, Paula</persName>
                   <occupation>Ärztin, Klassische Philologin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116176318</idno>
+               </person>
+               <person xml:id="tillich_person_id__4907">
+                  <persName>Secretary of Paul Tillich (UTS)</persName>
+               </person>
+               <person xml:id="tillich_person_id__4908">
+                  <persName>Krüger, Anke Sybille</persName>
+               </person>
+               <person xml:id="tillich_person_id__4909">
+                  <persName>Seywiz, ??? von</persName>
                </person>
             </listPerson>
          </div>
