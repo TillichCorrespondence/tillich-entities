@@ -17882,7 +17882,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2760">
-                  <persName>Klein, Peter</persName>
+                  <persName>Klein, Peter Wolfgang</persName>
                   <note type="bio">
                      <p>Er war der jüngere Bruder von Maria Klein bzw. Maria Rhine.</p>
                   </note>
@@ -25395,6 +25395,30 @@
                </person>
                <person xml:id="tillich_person_id__4909">
                   <persName>Seywiz, ??? von</persName>
+               </person>
+               <person xml:id="tillich_person_id__4910">
+                  <persName>French American Banking Corporation</persName>
+               </person>
+               <person xml:id="tillich_person_id__4911">
+                  <persName>Anderson, Eugene</persName>
+               </person>
+               <person xml:id="tillich_person_id__4912">
+                  <persName>McRae, Robert Bruce</persName>
+                  <occupation>Lieutenant Colonel (Oberstleutnant)</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4913">
+                  <persName>Steere, Douglas Van</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/122140575</idno>
+               </person>
+               <person xml:id="tillich_person_id__4915">
+                  <persName>Kandeler, Johannes</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4916">
+                  <persName>Simons, Hugo</persName>
+                  <occupation>Rechtsanwalt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1261904826</idno>
                </person>
             </listPerson>
          </div>
