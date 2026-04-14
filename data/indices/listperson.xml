@@ -25420,6 +25420,10 @@
                   <occupation>Rechtsanwalt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1261904826</idno>
                </person>
+               <person xml:id="tillich_person_id__4917">
+                  <persName>Simons, Jan Hugo</persName>
+                  <occupation>Sänger, Gesangspädagoge</occupation>
+               </person>
             </listPerson>
          </div>
       </body>

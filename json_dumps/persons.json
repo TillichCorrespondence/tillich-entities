@@ -74932,5 +74932,23 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": ""
+  },
+  "4917": {
+    "id": 4917,
+    "order": "4223.00000000000000000000",
+    "name": "Simons, Jan Hugo",
+    "surname": "Simons",
+    "forename": "Jan Hugo",
+    "from_to": "1925–2006",
+    "occupation": "Sänger, Gesangspädagoge",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__4917",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": ""
   }
 }

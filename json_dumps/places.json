@@ -9975,5 +9975,16 @@
     "latitude": "50.79173",
     "longitude": "6.44338",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1562104"
+  },
+  "1439": {
+    "id": 1439,
+    "order": "1037.00000000000000000000",
+    "name": "Laval, Québec",
+    "tillich_id": "tillich_place_id__1439",
+    "geonames_url": "https://www.geonames.org/6050610/",
+    "Working Notes": "",
+    "latitude": "45.56995",
+    "longitude": "-73.69200",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q141810"
   }
 }

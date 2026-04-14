@@ -6579,6 +6579,14 @@
                   <idno type="geonames">https://sws.geonames.org/2913486/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1562104</idno>
                </place>
+               <place xml:id="tillich_place_id__1439">
+                  <placeName>Laval, Québec</placeName>
+                  <location type="coords">
+                     <geo>45.56995 -73.69200</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6050610/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q141810</idno>
+               </place>
             </listPlace>
          </div>
       </body>
