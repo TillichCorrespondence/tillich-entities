@@ -9986,5 +9986,16 @@
     "latitude": "45.56995",
     "longitude": "-73.69200",
     "wikidata_url": "https://www.wikidata.org/wiki/Q141810"
+  },
+  "1440": {
+    "id": 1440,
+    "order": "1038.00000000000000000000",
+    "name": "High Point, N. C.",
+    "tillich_id": "tillich_place_id__1440",
+    "geonames_url": "https://www.geonames.org/4471025/",
+    "Working Notes": "",
+    "latitude": "35.95569",
+    "longitude": "-80.00532",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q631194"
   }
 }
