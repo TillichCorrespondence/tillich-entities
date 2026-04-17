@@ -9997,5 +9997,27 @@
     "latitude": "35.95569",
     "longitude": "-80.00532",
     "wikidata_url": "https://www.wikidata.org/wiki/Q631194"
+  },
+  "1441": {
+    "id": 1441,
+    "order": "1039.00000000000000000000",
+    "name": "Lübben",
+    "tillich_id": "tillich_place_id__1441",
+    "geonames_url": "https://sws.geonames.org/2875625/",
+    "Working Notes": "",
+    "latitude": "51.93814",
+    "longitude": "13.88826",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q584815"
+  },
+  "1442": {
+    "id": 1442,
+    "order": "1040.00000000000000000000",
+    "name": "Braderup",
+    "tillich_id": "tillich_place_id__1442",
+    "geonames_url": "https://sws.geonames.org/2945580/",
+    "Working Notes": "",
+    "latitude": "54.93188",
+    "longitude": "8.35090",
+    "wikidata_url": "http://www.wikidata.org/entity/Q127416958"
   }
 }

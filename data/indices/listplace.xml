@@ -6595,6 +6595,22 @@
                   <idno type="geonames">https://sws.geonames.org/4471025/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q631194</idno>
                </place>
+               <place xml:id="tillich_place_id__1441">
+                  <placeName>Lübben</placeName>
+                  <location type="coords">
+                     <geo>51.93814 13.88826</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2875625/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q584815</idno>
+               </place>
+               <place xml:id="tillich_place_id__1442">
+                  <placeName>Braderup</placeName>
+                  <location type="coords">
+                     <geo>54.93188 8.35090</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2945580/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q127416958</idno>
+               </place>
             </listPlace>
          </div>
       </body>

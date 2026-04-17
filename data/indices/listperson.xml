@@ -3133,6 +3133,9 @@
                      </settlement>
                   </death>
                   <occupation>Leitungsposition bei den Röchlinger Eisen- und Stahlwerke</occupation>
+                  <note type="bio">
+                     <p>1922 heiratete er Margot Müller, von der er sich 1937 scheiden ließ.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__575">
                   <persName>Fechner, Gustav Theodor</persName>
@@ -17207,9 +17210,6 @@
                <person xml:id="tillich_person_id__2664">
                   <persName>Rivera, ???</persName>
                </person>
-               <person xml:id="tillich_person_id__2665">
-                  <persName>Otte, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__2666">
                   <persName>Forrer, Anita</persName>
                   <birth>
@@ -22310,8 +22310,8 @@
                   <persName>???, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3642">
-                  <persName>Otte, ???</persName>
-                  <occupation>Notar oder Rechtsanwalt</occupation>
+                  <persName>Otte, Fritz</persName>
+                  <occupation>Rechtsanwalt</occupation>
                </person>
                <person xml:id="tillich_person_id__3643">
                   <persName>???, Anna</persName>
@@ -25429,6 +25429,12 @@
                </person>
                <person xml:id="tillich_person_id__4919">
                   <persName>Humphreys, Gideon Ireland</persName>
+               </person>
+               <person xml:id="tillich_person_id__4920">
+                  <persName>Frau Hagendefeld, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4921">
+                  <persName>Frau Hoffmann, ???</persName>
                </person>
             </listPerson>
          </div>
