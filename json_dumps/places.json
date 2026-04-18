@@ -10019,5 +10019,38 @@
     "latitude": "54.93188",
     "longitude": "8.35090",
     "wikidata_url": "http://www.wikidata.org/entity/Q127416958"
+  },
+  "1443": {
+    "id": 1443,
+    "order": "1041.00000000000000000000",
+    "name": "New Rochelle (NY)",
+    "tillich_id": "tillich_place_id__1443",
+    "geonames_url": "https://www.geonames.org/5128549/",
+    "Working Notes": "",
+    "latitude": "40.91149",
+    "longitude": "-73.78235",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q744948"
+  },
+  "1444": {
+    "id": 1444,
+    "order": "1042.00000000000000000000",
+    "name": "Hamilton, Ontario",
+    "tillich_id": "tillich_place_id__1444",
+    "geonames_url": "https://www.geonames.org/5969782/",
+    "Working Notes": "",
+    "latitude": "43.25011",
+    "longitude": "-79.84963",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133116"
+  },
+  "1445": {
+    "id": 1445,
+    "order": "1043.00000000000000000000",
+    "name": "Massachusetts, USA",
+    "tillich_id": "tillich_place_id__1445",
+    "geonames_url": "https://www.geonames.org/6254926/",
+    "Working Notes": "",
+    "latitude": "42.36565",
+    "longitude": "-71.10832",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q771"
   }
 }

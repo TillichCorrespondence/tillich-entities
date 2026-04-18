@@ -19312,7 +19312,8 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2996">
-                  <persName>Lewis Mumford</persName>
+                  <persName>Mumford, Lewis</persName>
+                  <occupation>Sozialwissenschaftler, Literaturkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118735209</idno>
                   <note type="bio">
                      <p>Lewis Mumford (19. Oktober 1895 – 26. Januar 1990) war ein US-amerikanischer Historiker, Soziologe und Technikphilosoph, der mit Werken wie The Culture of Cities und Technics and Civilization die Analyse moderner Urbanität und die Kulturgeschichte der Technik prägte. Von Patrick Geddes inspiriert, befreundet mit Frank Lloyd Wright und Vannevar Bush, verband er Stadtplanung, Sozialphilosophie und Literaturkritik zu einer ganzheitlichen Kulturtheorie.</p>
@@ -25435,6 +25436,35 @@
                </person>
                <person xml:id="tillich_person_id__4921">
                   <persName>Frau Hoffmann, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4922">
+                  <persName>Fritz, Kurt von</persName>
+                  <occupation>Klassischer Philologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116825863</idno>
+               </person>
+               <person xml:id="tillich_person_id__4923">
+                  <persName>Fritz, Louise von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1293409677</idno>
+               </person>
+               <person xml:id="tillich_person_id__4924">
+                  <persName>Rabinowitsch-Kempner, Lydia</persName>
+                  <occupation>Ärztin, Bakteriologin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11768418X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4925">
+                  <persName>Kempner, Benedicta Maria</persName>
+                  <occupation>Soziologin, Publizistin, Sozialarbeiterin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1012380904</idno>
+               </person>
+               <person xml:id="tillich_person_id__4926">
+                  <persName>Fackenheim, Emil Ludwig</persName>
+                  <occupation>Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115750231</idno>
+               </person>
+               <person xml:id="tillich_person_id__4927">
+                  <persName>Davidson, Eugene Arthur</persName>
+                  <occupation>Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116038217</idno>
                </person>
             </listPerson>
          </div>

@@ -6611,6 +6611,30 @@
                   <idno type="geonames">https://sws.geonames.org/2945580/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q127416958</idno>
                </place>
+               <place xml:id="tillich_place_id__1443">
+                  <placeName>New Rochelle (NY)</placeName>
+                  <location type="coords">
+                     <geo>40.91149 -73.78235</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5128549/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q744948</idno>
+               </place>
+               <place xml:id="tillich_place_id__1444">
+                  <placeName>Hamilton, Ontario</placeName>
+                  <location type="coords">
+                     <geo>43.25011 -79.84963</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5969782/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q133116</idno>
+               </place>
+               <place xml:id="tillich_place_id__1445">
+                  <placeName>Massachusetts, USA</placeName>
+                  <location type="coords">
+                     <geo>42.36565 -71.10832</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6254926/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q771</idno>
+               </place>
             </listPlace>
          </div>
       </body>
