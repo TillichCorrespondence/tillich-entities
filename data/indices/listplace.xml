@@ -6635,6 +6635,14 @@
                   <idno type="geonames">https://sws.geonames.org/6254926/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q771</idno>
                </place>
+               <place xml:id="tillich_place_id__1446">
+                  <placeName>Tel Aviv</placeName>
+                  <location type="coords">
+                     <geo>32.08088 34.78057</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/293397/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33935</idno>
+               </place>
             </listPlace>
          </div>
       </body>

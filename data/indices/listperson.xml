@@ -25466,6 +25466,39 @@
                   <occupation>Publizist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116038217</idno>
                </person>
+               <person xml:id="tillich_person_id__4928">
+                  <persName>Bendix, Else</persName>
+                  <occupation>Schauspielerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4929">
+                  <persName>Bendix, Dorothy</persName>
+                  <occupation>Tochter von Ludwig und Else Bendix</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4930">
+                  <persName>Gollub, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1147673446</idno>
+               </person>
+               <person xml:id="tillich_person_id__4931">
+                  <persName>Hirsch, Natascha</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/125037988</idno>
+               </person>
+               <person xml:id="tillich_person_id__4932">
+                  <persName>Bloch, Karola</persName>
+                  <birth>
+                     <date>1905-01-22</date>
+                     <settlement>
+                        <placeName>Łódź</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1994-07-31</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Architektin und Jounalistin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118511750</idno>
+               </person>
             </listPerson>
          </div>
       </body>
