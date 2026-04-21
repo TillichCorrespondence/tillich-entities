@@ -187,14 +187,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2953371/</idno>
                </place>
-               <place xml:id="tillich_place_id__24">
-                  <placeName>Bad Schönfließ</placeName>
-                  <location type="coords">
-                     <geo>52.96487 14.60667</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083158/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q558719</idno>
-               </place>
                <place xml:id="tillich_place_id__25">
                   <placeName>Bailly</placeName>
                   <location type="coords">

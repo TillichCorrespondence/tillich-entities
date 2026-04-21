@@ -255,13 +255,13 @@
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "name": "Bad Schönfließ",
+    "name": "",
     "tillich_id": "tillich_place_id__24",
-    "geonames_url": "https://sws.geonames.org/3083158/",
-    "Working Notes": "Working Notes",
-    "latitude": "52.96487",
-    "longitude": "14.60667",
-    "wikidata_url": "http://www.wikidata.org/entity/Q558719"
+    "geonames_url": "",
+    "Working Notes": "Ehemals Bad Schönfließ",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   },
   "25": {
     "id": 25,
