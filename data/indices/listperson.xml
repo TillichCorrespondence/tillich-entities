@@ -25499,6 +25499,21 @@
                   <occupation>Architektin und Jounalistin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118511750</idno>
                </person>
+               <person xml:id="tillich_person_id__4933">
+                  <persName>Preußischer Minister für Wissenschaft, Kunst und Volksbildung</persName>
+               </person>
+               <person xml:id="tillich_person_id__4934">
+                  <persName>Theologische Fakultät der Universität Gießen</persName>
+               </person>
+               <person xml:id="tillich_person_id__4935">
+                  <persName>Ministerium für Volksbildung (Dresden)</persName>
+               </person>
+               <person xml:id="tillich_person_id__4936">
+                  <persName>Rektor und Senat der Technischen Hochschule Dresden</persName>
+               </person>
+               <person xml:id="tillich_person_id__4937">
+                  <persName>Kuratorium des Pädagogischen Seminars</persName>
+               </person>
             </listPerson>
          </div>
       </body>
