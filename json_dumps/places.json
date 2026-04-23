@@ -1685,7 +1685,7 @@
   "199": {
     "id": 199,
     "order": "199.00000000000000000000",
-    "name": "Hamburg-Wandsbeck",
+    "name": "Hamburg-Wandsbek",
     "tillich_id": "tillich_place_id__199",
     "geonames_url": "https://sws.geonames.org/2911298/",
     "Working Notes": "(Hamburg Ost Stadtteil)",
@@ -4617,7 +4617,7 @@
     "Working Notes": "Working Notes",
     "latitude": "54.53919",
     "longitude": "13.09910",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3218"
   },
   "538": {
     "id": 538,
@@ -8397,11 +8397,11 @@
     "order": "890.00000000000000000000",
     "name": "Taunus",
     "tillich_id": "tillich_place_id__904",
-    "geonames_url": "",
+    "geonames_url": "https://sws.geonames.org/2823801/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
+    "latitude": "50.25000",
+    "longitude": "8.25000",
+    "wikidata_url": "http://www.wikidata.org/entity/Q158884"
   },
   "905": {
     "id": 905,
@@ -10063,5 +10063,16 @@
     "latitude": "32.08088",
     "longitude": "34.78057",
     "wikidata_url": "https://www.wikidata.org/wiki/Q33935"
+  },
+  "1447": {
+    "id": 1447,
+    "order": "1045.00000000000000000000",
+    "name": "Rio de Janeiro",
+    "tillich_id": "tillich_place_id__1447",
+    "geonames_url": "https://www.geonames.org/3451190/",
+    "Working Notes": "",
+    "latitude": "-22.90642",
+    "longitude": "-43.18223",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q8678"
   }
 }

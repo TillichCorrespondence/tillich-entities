@@ -25514,6 +25514,34 @@
                <person xml:id="tillich_person_id__4937">
                   <persName>Kuratorium des Pädagogischen Seminars</persName>
                </person>
+               <person xml:id="tillich_person_id__4938">
+                  <persName>Jellinek, Walter</persName>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118711997</idno>
+               </person>
+               <person xml:id="tillich_person_id__4939">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4940">
+                  <persName>Bloch, Jan Robert</persName>
+                  <birth>
+                     <date>1937-09-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>2010-05-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Naturwissenschaftler, Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/136820948</idno>
+               </person>
+               <person xml:id="tillich_person_id__4941">
+                  <persName>Hasch, Gisela</persName>
+               </person>
             </listPerson>
          </div>
       </body>

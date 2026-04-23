@@ -1182,7 +1182,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1055</idno>
                </place>
                <place xml:id="tillich_place_id__199">
-                  <placeName>Hamburg-Wandsbeck</placeName>
+                  <placeName>Hamburg-Wandsbek</placeName>
                   <location type="coords">
                      <geo>53.55073 9.99302</geo>
                   </location>
@@ -3200,6 +3200,7 @@
                      <geo>54.53919 13.09910</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2904885/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3218</idno>
                </place>
                <place xml:id="tillich_place_id__538">
                   <placeName>Piaseczno</placeName>
@@ -5605,6 +5606,11 @@
                </place>
                <place xml:id="tillich_place_id__904">
                   <placeName>Taunus</placeName>
+                  <location type="coords">
+                     <geo>50.25000 8.25000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2823801/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q158884</idno>
                </place>
                <place xml:id="tillich_place_id__906">
                   <placeName>Sannerz</placeName>
@@ -6634,6 +6640,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/293397/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q33935</idno>
+               </place>
+               <place xml:id="tillich_place_id__1447">
+                  <placeName>Rio de Janeiro</placeName>
+                  <location type="coords">
+                     <geo>-22.90642 -43.18223</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3451190/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q8678</idno>
                </place>
             </listPlace>
          </div>
