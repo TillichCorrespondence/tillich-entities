@@ -2893,8 +2893,9 @@
                </person>
                <person xml:id="tillich_person_id__520">
                   <persName>Einstein, Albert</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118529579</idno>
                   <note type="bio">
-                     <p>Albert Einstein (14. März 1879 – 18. April 1955) war ein deutsch-schweizerisch-amerikanischer theoretischer Physiker, der mit der speziellen (1905) und allgemeinen Relativitätstheorie (1915) das Verständnis von Raum, Zeit und Gravitation revolutionierte und damit zu einem der einflussreichsten Wissenschaftler aller Zeiten wurde. Für die Erklärung des photoelektrischen Effekts erhielt er 1921 den Nobelpreis; auch seine Arbeiten zur Brownschen Bewegung, zur Lichtquantentheorie und zum kosmologischen Modell prägten die moderne Physik. Über die Fachwelt hinaus engagierte sich Einstein, der im Exil zum Symbol für Pazifismus, Antifaschismus und Völkerverständigung wurde, zeitlebens für soziale Gerechtigkeit, internationale Kooperation und eine verantwortungsbewusste Nutzung wissenschaftlicher Erkenntnisse.</p>
+                     <p>Albert Einstein (14. März 1879 Ulm – 18. April 1955 Princeton, NJ) war ein deutsch-schweizerisch-amerikanischer theoretischer Physiker, der mit der speziellen (1905) und allgemeinen Relativitätstheorie (1915) das Verständnis von Raum, Zeit und Gravitation revolutionierte und damit zu einem der einflussreichsten Wissenschaftler aller Zeiten wurde. Für die Erklärung des photoelektrischen Effekts erhielt er 1921 den Nobelpreis; auch seine Arbeiten zur Brownschen Bewegung, zur Lichtquantentheorie und zum kosmologischen Modell prägten die moderne Physik. Über die Fachwelt hinaus engagierte sich Einstein, der im Exil zum Symbol für Pazifismus, Antifaschismus und Völkerverständigung wurde, zeitlebens für soziale Gerechtigkeit, internationale Kooperation und eine verantwortungsbewusste Nutzung wissenschaftlicher Erkenntnisse.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__521">
@@ -4534,6 +4535,19 @@
                </person>
                <person xml:id="tillich_person_id__912">
                   <persName>Hodler, Ferdinand</persName>
+                  <birth>
+                     <date>1853-03-14</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__55">Bern</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1918-05-19</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__707">Genf</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schweizer Maler des Symbolismus und des Jugendstils.</occupation>
                </person>
                <person xml:id="tillich_person_id__913">
                   <persName>Hoffmann, Adolph</persName>
@@ -5547,6 +5561,7 @@
                </person>
                <person xml:id="tillich_person_id__1160">
                   <persName>Leibrecht, Walter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/105014540</idno>
                   <note type="bio">
                      <p>Leibrecht, Walter (3.9.1927 Karlsruhe – 24.2.2007 Dunedin) war evangelischer Theologe und Hochschullehrer. Nach Studien in Erlangen, Heidelberg, Zürich und Chicago promovierte er 1953 über Johann Georg Hamann und arbeitete als Assistent Paul Tillichs in Harvard. Er lehrte in Evanston und Chicago, bevor er 1963 die Schiller International University gründete, deren Präsident er bis zu seinem Ruhestand blieb. Leibrecht engagierte sich zudem in pädagogischen Reforminitiativen und war 1983–1990 Präsident der Deutschen Paul-Tillich-Gesellschaft.</p>
                   </note>
@@ -19571,9 +19586,6 @@
                </person>
                <person xml:id="tillich_person_id__3056">
                   <persName>John, Peter H.</persName>
-                  <note type="bio">
-                     <p>Über das Leben und Wirken von Peter H. John liegen keine verlässlichen Informationen vor. Er war wohl ein Student Paul Tillichs.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__3057">
                   <persName>Walltraut</persName>
@@ -22096,7 +22108,19 @@
                </person>
                <person xml:id="tillich_person_id__3588">
                   <persName>Huber, Hermann</persName>
-                  <occupation>Maler</occupation>
+                  <birth>
+                     <date>1888-09-13</date>
+                     <settlement>
+                        <placeName>Wiedikon</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1967-12-09</date>
+                     <settlement>
+                        <placeName>Hirzel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schweizer Maler des Expressionismus</occupation>
                </person>
                <person xml:id="tillich_person_id__3589">
                   <persName>Goltz, Hermann, Freiherr von der</persName>
@@ -25541,6 +25565,9 @@
                </person>
                <person xml:id="tillich_person_id__4941">
                   <persName>Hasch, Gisela</persName>
+               </person>
+               <person xml:id="tillich_person_id__4942">
+                  <persName>Mahr, Karl</persName>
                </person>
             </listPerson>
          </div>

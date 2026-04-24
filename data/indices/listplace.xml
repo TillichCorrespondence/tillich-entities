@@ -6649,6 +6649,14 @@
                   <idno type="geonames">https://sws.geonames.org/3451190/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q8678</idno>
                </place>
+               <place xml:id="tillich_place_id__1448">
+                  <placeName>Altschweier</placeName>
+                  <location type="coords">
+                     <geo>48.69954 8.16233</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2956854/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4737013</idno>
+               </place>
             </listPlace>
          </div>
       </body>

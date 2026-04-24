@@ -10074,5 +10074,16 @@
     "latitude": "-22.90642",
     "longitude": "-43.18223",
     "wikidata_url": "https://www.wikidata.org/wiki/Q8678"
+  },
+  "1448": {
+    "id": 1448,
+    "order": "1046.00000000000000000000",
+    "name": "Altschweier",
+    "tillich_id": "tillich_place_id__1448",
+    "geonames_url": "https://www.geonames.org/2956854/",
+    "Working Notes": "",
+    "latitude": "48.69954",
+    "longitude": "8.16233",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4737013"
   }
 }
