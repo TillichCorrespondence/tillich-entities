@@ -6657,6 +6657,30 @@
                   <idno type="geonames">https://sws.geonames.org/2956854/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4737013</idno>
                </place>
+               <place xml:id="tillich_place_id__1449">
+                  <placeName>Baden-Baden</placeName>
+                  <location type="coords">
+                     <geo>48.76060 8.23975</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953504/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4100</idno>
+               </place>
+               <place xml:id="tillich_place_id__1450">
+                  <placeName>Mönchengladbach</placeName>
+                  <location type="coords">
+                     <geo>51.18539 6.44172</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2869894/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q2758</idno>
+               </place>
+               <place xml:id="tillich_place_id__1451">
+                  <placeName>Wallingford (PA)</placeName>
+                  <location type="coords">
+                     <geo>39.89095 -75.36297</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4562009/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7963092</idno>
+               </place>
             </listPlace>
          </div>
       </body>

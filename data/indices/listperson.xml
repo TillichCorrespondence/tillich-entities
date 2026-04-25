@@ -93,7 +93,7 @@
                   <death>
                      <date>1994</date>
                   </death>
-                  <occupation>Amerikanischer Theologe</occupation>
+                  <occupation>amerikanischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11949194X</idno>
                   <note type="bio">
                      <p>James Luther Adams (1901 – 1994) war ein führender unitarisch-universalistischer Theologe und Sozialethiker, der nach Studien in Minnesota und an der Harvard Divinity School zunächst Gemeinden in Massachusetts leitete und ab 1936 an den Theologischen Fakultäten von Meadville Lombard, Chicago sowie ab 1957 als Professor für christliche Sozialethik an der Harvard Divinity School wirkte. 1935/36 schloss er sich in Europa der kirchlichen Opposition gegen den Nationalsozialismus an, engagierte sich später in Arbeiter- und Bürgerrechtsbewegungen und machte durch Übersetzungen und Interpretationen der Werke Tillichs, Troeltschs und Holls deren Ideen im amerikanischen Kontext wirksam, wobei er zugleich Paul Tillichs Sozialethik nachhaltig beeinflusste. Adams verstand religiöse Gemeinschaften als Träger politisch-sozialer Verantwortung, kritisierte einen individualistischen Liberalismus und entwickelte eine dialektische Ethik, die Liebe und Gerechtigkeit in der ständigen Wechselwirkung von Gott, Gemeinschaft und Individuum verortet.</p>
@@ -379,7 +379,7 @@
                </person>
                <person xml:id="tillich_person_id__31">
                   <persName>Alexander, Mary D.</persName>
-                  <occupation>Production Editor The University of Chicago Press</occupation>
+                  <occupation>Production Editor an der University of Chicago Press</occupation>
                </person>
                <person xml:id="tillich_person_id__32">
                   <persName>Alexander der Große</persName>
@@ -480,7 +480,7 @@
                         <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
-                  <occupation>apl. Prof. für Religionsphilosophie an der Joh. Wolfg. Goethe Universität in Frankfurt a.M.</occupation>
+                  <occupation>außerplanmäßiger Professor für Religionsphilosophie an der Johann Wolfgang Goethe-Universität Frankfurt am Main</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116287950</idno>
                </person>
                <person xml:id="tillich_person_id__42">
@@ -565,7 +565,6 @@
                </person>
                <person xml:id="tillich_person_id__49">
                   <persName>Amos</persName>
-                  <occupation>Prophet</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118502638</idno>
                </person>
                <person xml:id="tillich_person_id__50">
@@ -647,12 +646,15 @@
                         <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
-                  <occupation>Literat, Geburtsname Stern, Ehemann von Hannah Arendt</occupation>
+                  <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118502751</idno>
+                  <note type="bio">
+                     <p>Günther Anders, geboren als Günther Siegmund Stern, war ein Philosoph und Schriftsteller. 1927 heiratete er Hannah Arendt; sie blieben sieben Jahre verheiratet.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__56">
                   <persName>Andersen, Betty H.</persName>
-                  <occupation>Secretary of Admissions, The New York School of Social Work</occupation>
+                  <occupation>Secretary of Admissions an der New York School of Social Work</occupation>
                </person>
                <person xml:id="tillich_person_id__57">
                   <persName>Angell, Thomas S.</persName>
@@ -724,7 +726,7 @@
                   <death>
                      <date>2003-12-02</date>
                   </death>
-                  <occupation>Amerikanische Philosophin, Autorin und Herausgeberin</occupation>
+                  <occupation>Philosophin, Autorin und Herausgeberin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116312505</idno>
                </person>
                <person xml:id="tillich_person_id__63">
@@ -826,8 +828,11 @@
                         <placeName>New York, NY</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politische Theoretikerin</occupation>
+                  <occupation>Philosophin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11850391X</idno>
+                  <note type="bio">
+                     <p>Hannah Arendt wurde am 14. Oktober 1906 in Linden geboren. 1933 musste die jüdisch stämmige Philosophin Deutschland zunächst verlassen und ging nach Frankreich. Nach dem Einmarsch der deutschen Truppen in Frankreich emigrierte sie später in die Vereinigten Staaten. Besondere Aufmerksamkeit erlangte sie unter anderem für ihr Werk Eichmann in Jerusalem, das sie nach ihrer Teilnahme am Adolf-Eichmann-Prozess verfasste. Darin prägte sie vor allem das Konzept der „Banalität des Bösen“. Wie Paul Tillich zählt auch Hannah Arendt zu den Public Intellectuals des 20. Jahrhunderts.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__76">
                   <persName>Aretaeus</persName>
@@ -2977,6 +2982,9 @@
                </person>
                <person xml:id="tillich_person_id__539">
                   <persName>Erdmann, Gerda</persName>
+                  <birth>
+                     <date>1891-05-23</date>
+                  </birth>
                </person>
                <person xml:id="tillich_person_id__540">
                   <persName>Erdmann, Benno</persName>
@@ -5196,6 +5204,15 @@
                </person>
                <person xml:id="tillich_person_id__1070">
                   <persName>Klutmann, Rudolf</persName>
+                  <birth>
+                     <date>1883-03-30</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-04-21</date>
+                  </death>
                   <occupation>Sänger, Gesangslehrer, Dozent, Theaterkritiker, Schriftsteller, Librettist.</occupation>
                </person>
                <person xml:id="tillich_person_id__1071">
@@ -6494,7 +6511,7 @@
                   <persName>Mussolini, Benito</persName>
                </person>
                <person xml:id="tillich_person_id__1373">
-                  <persName>Muth</persName>
+                  <persName>Muth, Hermann</persName>
                   <occupation>Amtsgerichtsrat</occupation>
                </person>
                <person xml:id="tillich_person_id__1374">
@@ -8208,7 +8225,6 @@
                   <birth>
                      <date>16.06.1893</date>
                   </birth>
-                  <occupation>Schwester</occupation>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Elisabeth Seeberger (16. Juni 1893 – unbekannt) war die Schwester des evangelischen Theologen und Religionsphilosophen Paul Tillich. Im Jahr 1917 heiratete sie Erhard Seeberger, der über viele Jahre als Pfarrer in Berlin-Tempelhof tätig war.</p>
@@ -9052,7 +9068,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118618806</idno>
                </person>
                <person xml:id="tillich_person_id__1873">
-                  <persName>Strathmam, Gerhard</persName>
+                  <persName>Strathmann, Gerhard</persName>
                </person>
                <person xml:id="tillich_person_id__1874">
                   <persName>Strathmann, Hermann</persName>
@@ -9744,7 +9760,6 @@
                   <death>
                      <date>1914</date>
                   </death>
-                  <occupation>Großvater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
                </person>
                <person xml:id="tillich_person_id__1927">
@@ -9786,7 +9801,6 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Mutter Paul Tillichs</occupation>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Wilhelmine Mathilde Tillich (5. April 1860 – 24. September 1903) war die Mutter des Theologen Paul Tillich. Sie wurde in Odenkirchen als Wilhelmine Mathilde Dürselen geboren und entstammte einer evangelisch-reformierten Familie. Sie starb 1903 an einem Augenkarzinom.</p>
@@ -11121,9 +11135,8 @@
                </person>
                <person xml:id="tillich_person_id__2040">
                   <persName>Werner, Jean Otto Nikolaus</persName>
-                  <occupation>Vater von Hannah Tillich</occupation>
                   <note type="bio">
-                     <p>Jean W. arbeitete zunächst als Pfarrer (1859 ordiniert) in Wippersheim, später als Schulinspektor und Kreisschulrat. Seine Frau Louise wurde in New York geboren. Einer ihrer drei Söhne war August Adalbert Roland (*1893), der im Zweiten Weltkrieg Hauptmann bei der Luftwaffe wurde, später jedoch verhungerte.</p>
+                     <p>Vater von Hannah Tillich. Jean W. arbeitete zunächst als Pfarrer (1859 ordiniert) in Wippersheim, später als Schulinspektor und Kreisschulrat. Seine Frau Louise wurde in New York geboren. Einer ihrer drei Söhne war August Adalbert Roland (*1893), der im Zweiten Weltkrieg Hauptmann bei der Luftwaffe wurde, später jedoch verhungerte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2041">
@@ -11619,7 +11632,6 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Winkelmann oder Winckelmann?</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/129031887</idno>
                </person>
                <person xml:id="tillich_person_id__2081">
@@ -14180,7 +14192,7 @@
                   <birth>
                      <date>1882-03-08</date>
                      <settlement>
-                        <placeName>Mönchengladbach</placeName>
+                        <placeName key="#tillich_place_id__1450">Mönchengladbach</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -15426,6 +15438,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
+                  <occupation>Theologe, Mitglied der Religiösen Gesellschaft der Freunde (Quäker)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118536567</idno>
                </person>
                <person xml:id="tillich_person_id__2464">
@@ -18330,7 +18343,7 @@
                   <persName>Pahl, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__2827">
-                  <persName>klein, Rudi</persName>
+                  <persName>Klein, Rudi</persName>
                </person>
                <person xml:id="tillich_person_id__2828">
                   <persName>Tillich, Karl</persName>
@@ -18353,8 +18366,20 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2833">
-                  <persName>Kögel, ???</persName>
-                  <occupation>Professor;</occupation>
+                  <persName>Kögel, Julius</persName>
+                  <birth>
+                     <date>1871-02-03</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1928-11-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe und Hochschullehrer.</occupation>
                </person>
                <person xml:id="tillich_person_id__2834">
                   <persName>Weiß, Bernhard</persName>
@@ -19389,9 +19414,6 @@
                   <persName>Boehmer, Heinrich</persName>
                   <occupation>Evangelischer Theologe</occupation>
                </person>
-               <person xml:id="tillich_person_id__3006">
-                  <persName>??? Dogander</persName>
-               </person>
                <person xml:id="tillich_person_id__3007">
                   <persName>Muthchen</persName>
                </person>
@@ -19432,7 +19454,7 @@
                   <persName>Blahr, Marie</persName>
                </person>
                <person xml:id="tillich_person_id__3016">
-                  <persName>K¿¿¿</persName>
+                  <persName>???, K.</persName>
                </person>
                <person xml:id="tillich_person_id__3017">
                   <persName>Braun, ???</persName>
@@ -20139,12 +20161,6 @@
                </person>
                <person xml:id="tillich_person_id__3167">
                   <persName>Cousin von Paul Merrem</persName>
-               </person>
-               <person xml:id="tillich_person_id__3168">
-                  <persName>???, Roland</persName>
-               </person>
-               <person xml:id="tillich_person_id__3169">
-                  <persName>???, Foeke</persName>
                </person>
                <person xml:id="tillich_person_id__3170">
                   <persName>Troll, Theodor</persName>
@@ -21097,10 +21113,6 @@
                   <persName>Marck, Ilse</persName>
                   <occupation>Journalistin</occupation>
                </person>
-               <person xml:id="tillich_person_id__3408">
-                  <persName>Fuchs, Emil</persName>
-                  <occupation>Theologe, Mitglied der Religiösen Gesellschaft der Freunde (Quäker)</occupation>
-               </person>
                <person xml:id="tillich_person_id__3409">
                   <persName>Minde, Paul</persName>
                </person>
@@ -21207,7 +21219,16 @@
                   <persName>Cohn, Fräulein</persName>
                </person>
                <person xml:id="tillich_person_id__3441">
-                  <persName>Sachse</persName>
+                  <persName>Sachsse, Eugen</persName>
+                  <birth>
+                     <date>1839-08-20</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1917-12-20</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__3443">
                   <persName>Achelis</persName>
@@ -21977,9 +21998,6 @@
                <person xml:id="tillich_person_id__3566">
                   <persName>von Schelling, Clara</persName>
                </person>
-               <person xml:id="tillich_person_id__3567">
-                  <persName>König, ???</persName>
-               </person>
                <person xml:id="tillich_person_id__3568">
                   <persName>Stradtmann, ???</persName>
                </person>
@@ -22249,7 +22267,7 @@
                   <persName>???, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3623">
-                  <persName>???, Inge</persName>
+                  <persName>Klein, Inge</persName>
                   <note type="bio">
                      <p>Selbe Person wie tillich_person_id__3165 (Ingelein). Eine Bekannte von Familie Klein und Richard Wegener.</p>
                   </note>
@@ -25568,6 +25586,63 @@
                </person>
                <person xml:id="tillich_person_id__4942">
                   <persName>Mahr, Karl</persName>
+               </person>
+               <person xml:id="tillich_person_id__4943">
+                  <persName>Schuhmacher, Kurt Ernst Carl</persName>
+                  <occupation>Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118611615</idno>
+               </person>
+               <person xml:id="tillich_person_id__4944">
+                  <persName>Elfes, Wilhelm</persName>
+                  <occupation>Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11868857X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4945">
+                  <persName>Welker, Georg</persName>
+                  <occupation>Prediger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4946">
+                  <persName>Reuther, Walter</persName>
+                  <occupation>Gewerkschaftsführer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11885898X</idno>
+               </person>
+               <person xml:id="tillich_person_id__4947">
+                  <persName>Geiler, H. F.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4948">
+                  <persName>Schütte, Alfred H.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4949">
+                  <persName>Dryander, Ernst</persName>
+                  <birth>
+                     <date>1843-04-18</date>
+                     <settlement>
+                        <placeName>Halle / Saale</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922-09-04</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Theologe und Politiker.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4950">
+                  <persName>König, Eduard</persName>
+                  <birth>
+                     <date>1846-11-15</date>
+                     <settlement>
+                        <placeName>Reichenbach im Vogtland</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1936-02-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher evangelischer Theologe, Bibelwissenschafter, Sprachwissenschafter und Professor in Leipzig, Rostock und Bonn.</occupation>
                </person>
             </listPerson>
          </div>

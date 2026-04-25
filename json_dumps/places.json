@@ -10085,5 +10085,38 @@
     "latitude": "48.69954",
     "longitude": "8.16233",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4737013"
+  },
+  "1449": {
+    "id": 1449,
+    "order": "1047.00000000000000000000",
+    "name": "Baden-Baden",
+    "tillich_id": "tillich_place_id__1449",
+    "geonames_url": "https://www.geonames.org/2953504/",
+    "Working Notes": "",
+    "latitude": "48.76060",
+    "longitude": "8.23975",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4100"
+  },
+  "1450": {
+    "id": 1450,
+    "order": "1048.00000000000000000000",
+    "name": "Mönchengladbach",
+    "tillich_id": "tillich_place_id__1450",
+    "geonames_url": "https://www.geonames.org/2869894/",
+    "Working Notes": "",
+    "latitude": "51.18539",
+    "longitude": "6.44172",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2758"
+  },
+  "1451": {
+    "id": 1451,
+    "order": "1049.00000000000000000000",
+    "name": "Wallingford (PA)",
+    "tillich_id": "tillich_place_id__1451",
+    "geonames_url": "https://www.geonames.org/4562009/",
+    "Working Notes": "",
+    "latitude": "39.89095",
+    "longitude": "-75.36297",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7963092"
   }
 }
