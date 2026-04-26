@@ -10118,5 +10118,16 @@
     "latitude": "39.89095",
     "longitude": "-75.36297",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7963092"
+  },
+  "1452": {
+    "id": 1452,
+    "order": "1050.00000000000000000000",
+    "name": "Landau in der Pfalz",
+    "tillich_id": "tillich_place_id__1452",
+    "geonames_url": "https://www.geonames.org/2881646/",
+    "Working Notes": "",
+    "latitude": "49.19844",
+    "longitude": "8.11692",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7052"
   }
 }

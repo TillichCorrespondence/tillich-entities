@@ -16120,8 +16120,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2524">
-                  <persName>Nausikaa, ???</persName>
-                  <occupation>Figur aus der griechischen Mythologie;</occupation>
+                  <persName>Nausikaa</persName>
                   <idno type="gnd">https://d-nb.info/gnd/13157969X</idno>
                   <note type="bio">
                      <p>Sie war die Tochter des phaiakischen Königs Alkinoos.</p>
@@ -25643,6 +25642,12 @@
                      </settlement>
                   </death>
                   <occupation>Deutscher evangelischer Theologe, Bibelwissenschafter, Sprachwissenschafter und Professor in Leipzig, Rostock und Bonn.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4951">
+                  <persName>Kipuis, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__4952">
+                  <persName>Schoolcraft, Arthur Allen</persName>
                </person>
             </listPerson>
          </div>
