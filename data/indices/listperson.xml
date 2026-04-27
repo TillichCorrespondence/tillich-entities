@@ -20139,7 +20139,16 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__3163">
-                  <persName>Meyer, ???</persName>
+                  <persName>Meyer, Friedrich</persName>
+                  <birth>
+                     <date>1886-07-04</date>
+                     <settlement>
+                        <placeName>Marienwerder</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1975-05-28</date>
+                  </death>
                   <note type="bio">
                      <p>Wahrscheinlich ein Leutnant der Reserve (Infanterie-Regiment 64)</p>
                   </note>
@@ -25648,6 +25657,25 @@
                </person>
                <person xml:id="tillich_person_id__4952">
                   <persName>Schoolcraft, Arthur Allen</persName>
+               </person>
+               <person xml:id="tillich_person_id__4953">
+                  <persName>Coliver, Edith</persName>
+                  <occupation>Übersetzerin, Aktivistin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4954">
+                  <persName>Barrett, John David</persName>
+                  <occupation>Psychologe, Präsident d. Bollinger Foundation</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4955">
+                  <persName>Kuhn, Käthe</persName>
+                  <occupation>Altphilologin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116603437</idno>
+               </person>
+               <person xml:id="tillich_person_id__4956">
+                  <persName>Diesing, Johannes</persName>
+               </person>
+               <person xml:id="tillich_person_id__4957">
+                  <persName>Carey, Lili</persName>
                </person>
             </listPerson>
          </div>

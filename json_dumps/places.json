@@ -3700,11 +3700,11 @@
     "order": "427.00000000000000000000",
     "name": "Taillette",
     "tillich_id": "tillich_place_id__427",
-    "geonames_url": "https://sws.geonames.org/6426130/",
-    "Working Notes": "",
-    "latitude": "49.93056",
-    "longitude": "4.48639",
-    "wikidata_url": "http://www.wikidata.org/entity/Q1419211"
+    "geonames_url": "https://sws.geonames.org/11428908/",
+    "Working Notes": "bei Fort de Vaux",
+    "latitude": "49.20030",
+    "longitude": "5.47029",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1438801"
   },
   "428": {
     "id": 428,
@@ -10129,5 +10129,27 @@
     "latitude": "49.19844",
     "longitude": "8.11692",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7052"
+  },
+  "1453": {
+    "id": 1453,
+    "order": "1051.00000000000000000000",
+    "name": "Aleppo",
+    "tillich_id": "tillich_place_id__1453",
+    "geonames_url": "https://sws.geonames.org/170063/",
+    "Working Notes": "",
+    "latitude": "36.20124",
+    "longitude": "37.16117",
+    "wikidata_url": "http://www.wikidata.org/entity/Q41183"
+  },
+  "1454": {
+    "id": 1454,
+    "order": "1052.00000000000000000000",
+    "name": "Buckhannon (WV)",
+    "tillich_id": "tillich_place_id__1454",
+    "geonames_url": "https://www.geonames.org/4800587/",
+    "Working Notes": "",
+    "latitude": "38.99399",
+    "longitude": "-80.23203",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q600504"
   }
 }

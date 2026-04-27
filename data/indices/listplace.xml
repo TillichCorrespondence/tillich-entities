@@ -2568,10 +2568,10 @@
                <place xml:id="tillich_place_id__427">
                   <placeName>Taillette</placeName>
                   <location type="coords">
-                     <geo>49.93056 4.48639</geo>
+                     <geo>49.20030 5.47029</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/6426130/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q1419211</idno>
+                  <idno type="geonames">https://sws.geonames.org/11428908/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1438801</idno>
                </place>
                <place xml:id="tillich_place_id__428">
                   <placeName>Tancourt</placeName>
@@ -6688,6 +6688,22 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2881646/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q7052</idno>
+               </place>
+               <place xml:id="tillich_place_id__1453">
+                  <placeName>Aleppo</placeName>
+                  <location type="coords">
+                     <geo>36.20124 37.16117</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/170063/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q41183</idno>
+               </place>
+               <place xml:id="tillich_place_id__1454">
+                  <placeName>Buckhannon (WV)</placeName>
+                  <location type="coords">
+                     <geo>38.99399 -80.23203</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4800587/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q600504</idno>
                </place>
             </listPlace>
          </div>
