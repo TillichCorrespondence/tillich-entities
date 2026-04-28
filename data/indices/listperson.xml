@@ -16223,10 +16223,24 @@
                   <idno type="gnd">https://d-nb.info/gnd/124747612</idno>
                </person>
                <person xml:id="tillich_person_id__2540">
-                  <persName>Bormann, ???</persName>
+                  <persName>Bormann, Edwin</persName>
+                  <birth>
+                     <date>1851-04-14</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1912-05-03</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Leipziger Schriftsteller, Buchhändler und Verleger. Er publizierte auch unter dem Namen "Bliemchen".</occupation>
                </person>
                <person xml:id="tillich_person_id__2541">
-                  <persName>Greiner, ???</persName>
+                  <persName>Greiner, Hans Moritz</persName>
+                  <occupation>Leipziger Buchhändler und Verleger.</occupation>
                </person>
                <person xml:id="tillich_person_id__2542">
                   <persName>Bredt, ???</persName>
@@ -20150,7 +20164,7 @@
                      <date>1975-05-28</date>
                   </death>
                   <note type="bio">
-                     <p>Wahrscheinlich ein Leutnant der Reserve (Infanterie-Regiment 64)</p>
+                     <p>Adjutant der 7. Reserve-Division</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3164">
@@ -22080,7 +22094,7 @@
                   <persName>???, A</persName>
                </person>
                <person xml:id="tillich_person_id__3581">
-                  <persName>Seeliger</persName>
+                  <persName>Seeliger, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__3582">
                   <persName>Deborah</persName>
@@ -25445,7 +25459,8 @@
                   <persName>Krüger, Anke Sybille</persName>
                </person>
                <person xml:id="tillich_person_id__4909">
-                  <persName>Seywiz, ??? von</persName>
+                  <persName>Seydewitz, Max von</persName>
+                  <occupation>Ministerialrats im sächsischen Ministerium für Volksbildung</occupation>
                </person>
                <person xml:id="tillich_person_id__4910">
                   <persName>French American Banking Corporation</persName>
@@ -25676,6 +25691,17 @@
                </person>
                <person xml:id="tillich_person_id__4957">
                   <persName>Carey, Lili</persName>
+               </person>
+               <person xml:id="tillich_person_id__4958">
+                  <persName>Weigle, Luther Allan</persName>
+                  <occupation>Amerikanischer Theologe, Erzieher</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1055257322</idno>
+               </person>
+               <person xml:id="tillich_person_id__4959">
+                  <persName>Ives, Charles Libby</persName>
+               </person>
+               <person xml:id="tillich_person_id__4960">
+                  <persName/>
                </person>
             </listPerson>
          </div>
