@@ -13810,10 +13810,19 @@
                </person>
                <person xml:id="tillich_person_id__2307">
                   <persName>Dresler und Scharfenstein, Wilhelm Ernst Hermann von</persName>
-                  <occupation>General;</occupation>
-                  <note type="bio">
-                     <p>Er war in den 1. Weltkrieg verwickelt.</p>
-                  </note>
+                  <birth>
+                     <date>1857-07-09</date>
+                     <settlement>
+                        <placeName>Liegnitz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1942-04-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__743">Göttingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Zu Beginn des 1. Weltkriegs Kommandeur der 13. Reserve-Infanterie-Brigade</occupation>
                </person>
                <person xml:id="tillich_person_id__2308">
                   <persName>Kinzel, Eberhard</persName>
@@ -13995,32 +14004,38 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2322">
-                  <persName>Gronau, Johann Karl Hermann von</persName>
+                  <persName>Gronau, Hans von</persName>
                   <birth>
-                     <date>1850</date>
+                     <date>1850-02-06</date>
+                     <settlement>
+                        <placeName>Alt-Schadow</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1940</date>
+                     <date>1940-02-22</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__356">Potsdam</placeName>
+                     </settlement>
                   </death>
-                  <occupation>General;</occupation>
+                  <occupation>Ab dem 2. August 1914 kommandierender General des IV. Reserve-Korps.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/136139418</idno>
-                  <note type="bio">
-                     <p>Ab dem 2. August 1914 war er kommandierender General des IV. Reserve-Korps. Sein Spitzname war Hans.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2323">
-                  <persName>Kluck, Alexander Heinrich Rudolph von</persName>
+                  <persName>Kluck, Alexander von</persName>
                   <birth>
-                     <date>1846</date>
+                     <date>1846-05-20</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__307">Münster</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1934</date>
+                     <date>1934-10-19</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
                   </death>
-                  <occupation>Armeeführer;</occupation>
+                  <occupation>Beim Ausbruch des 1. Weltkriegs wurde Kluck am 2. August 1914 zum Oberbefehlshaber der 1. Armee ernannt.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116235489</idno>
-                  <note type="bio">
-                     <p>Er war in den 1. Weltkrieg verwickelt.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2324">
                   <persName>Ahrens, ???</persName>
@@ -19181,10 +19196,6 @@
                </person>
                <person xml:id="tillich_person_id__2965">
                   <persName>General von Dreßler</persName>
-               </person>
-               <person xml:id="tillich_person_id__2966">
-                  <persName>von Gronau</persName>
-                  <occupation>kommandant</occupation>
                </person>
                <person xml:id="tillich_person_id__2967">
                   <persName>???, Albert</persName>
