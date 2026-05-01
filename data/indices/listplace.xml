@@ -1023,14 +1023,6 @@
                   <idno type="geonames">https://sws.geonames.org/2953458/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31897099</idno>
                </place>
-               <place xml:id="tillich_place_id__170">
-                  <placeName>Friedrichshagen</placeName>
-                  <location type="coords">
-                     <geo>52.45052 13.62463</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2924577/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q563528</idno>
-               </place>
                <place xml:id="tillich_place_id__171">
                   <placeName>Ostfront</placeName>
                </place>
@@ -2566,7 +2558,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q16277</idno>
                </place>
                <place xml:id="tillich_place_id__427">
-                  <placeName>Taillette</placeName>
+                  <placeName>Caillette-Wald (bei Fort Vaux)</placeName>
                   <location type="coords">
                      <geo>49.20030 5.47029</geo>
                   </location>
@@ -6705,7 +6697,15 @@
                   <idno type="geonames">https://sws.geonames.org/4800587/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q600504</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__1456">
+                  <placeName>Muralto</placeName>
+                  <location type="coords">
+                     <geo>46.17323 8.80219</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6692335/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q69961</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>

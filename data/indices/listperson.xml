@@ -1171,7 +1171,16 @@
                </person>
                <person xml:id="tillich_person_id__109">
                   <persName>Backhaus, Alwin</persName>
-                  <occupation>seit 1908 in Torgau Div. Pfarrer der 8. Division</occupation>
+                  <birth>
+                     <date>1867-12-02</date>
+                     <settlement>
+                        <placeName>Sundhausen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-03-16</date>
+                  </death>
+                  <occupation>Evangelischer Pfarrer in Torgau; im Ersten Weltkrieg war er Divisionspfarrer der 8. Division.</occupation>
                </person>
                <person xml:id="tillich_person_id__110">
                   <persName>Bacon, Francis</persName>
@@ -1738,6 +1747,7 @@
                <person xml:id="tillich_person_id__231">
                   <persName>Blum, Emil</persName>
                   <occupation>Schweizer reformierter Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118664050</idno>
                   <note type="bio">
                      <p>Studium der Theologie in Zürich und Basel, Kontakt zu den religiösen Sozialisten um Hermann Kutter und Leonhard Ragaz. Nach dem Studium zunächst Pfarrtätigkeit, ab 1919 Pfarrtätigkeit und zentrale Position innerhalb der religiös-sozialistischen Neuwerk-Bewegung. 1922 zog er in die Kommune Habertshof in Hessen und hatte 1924-1931 die Leitung der Siedlung und Heimvolkshochschule inne. Danach studierte er Pädagogik in Frankfurt/Main u.a. bei Paul Tillich, sowie in Bern. 1934 wurde er promoviert und war fortan bis 1960 im Pfarramt tätig. Er war mit Suzanne Kullmann (verm. die Schwester Gustave  Kullmanns) verheiratet.</p>
                   </note>
@@ -4760,7 +4770,7 @@
                   <persName>Jacobi, Friedrich Heinrich</persName>
                </person>
                <person xml:id="tillich_person_id__965">
-                  <persName>Jäger, Werner</persName>
+                  <persName>Jaeger, Werner</persName>
                   <note type="bio">
                      <p>Jaeger, Werner Wilhelm (30.7.1888 Lobberich – 19.10.1961 Boston), klassischer Philologe, studierte seit 1907 Philos. und Altphilol. in Marburg und Berlin, 1914 PD in Berlin, Ordinarius in Basel (1914), Kiel (1915) und Berlin (1921). 1936 Entlassung aus dem preußischen Landesdienst auf eigenen Wunsch aus polit. und familiären Gründen und Emigration in die USA, 1937 Prof. in Chicago, seit 1939 in Harvard. Nach maßgeblichen Studien zu Aristoteles und Gregor von Nyssa entwickelte J. einen sog. »dritten Humanismus«, der seine Nähe zu antidemokratisch-elitären Vergemeinschaftungsmodellen widerspiegelte. Gegen O.Spengler, den Marxismus und Nationalismus wollte J. mit idealistischem Bildungspathos die polit.-geistige Krise der 20er und 30er Jahre durch zeitlos gültige sittlich-kulturelle Formkräfte der griech. Antike überwinden und den positivistischen Historismus der Altertumswiss. zugunsten neuer Sinnstiftung transzendieren.</p>
                   </note>
@@ -5226,7 +5236,6 @@
                </person>
                <person xml:id="tillich_person_id__1074">
                   <persName>Koch, Karl</persName>
-                  <occupation>Referent, Wingolfit</occupation>
                </person>
                <person xml:id="tillich_person_id__1075">
                   <persName>Koch, Jakob Emil Karl</persName>
@@ -6194,7 +6203,7 @@
                      <date>1978-08-29</date>
                   </death>
                   <note type="bio">
-                     <p>Leibfux von Paul Tillich; Onkel von Ulrike Meinhof</p>
+                     <p>Heinrich Meinhof war der Leibfux von Paul Tillich und der Onkel von Ulrike Meinhof.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1296">
@@ -9732,11 +9741,14 @@
                   <persName>Tillich, Johannes Oskar</persName>
                   <birth>
                      <date>1857-06-03</date>
+                     <settlement>
+                        <placeName>Berlin, Deutschland</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date>1937-07-30</date>
                   </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat;</occupation>
+                  <occupation>Pfarrer; Superintendent; Konsistorialrat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio">
                      <p>Johannes Oskar Tillich (1857 – 1937) war ein evangelisch-lutherischer Pfarrer und Theologe. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die 1903 verstarb. Seine erste Pfarrstelle hatte er in der lutherischen Gemeinde Starzeddel bei Guben, wo 1886 sein Sohn Paul geboren wurde. Johannes Oskar Tillich und Wilhelmina Mathilde Dürselen waren also die Eltern des evangelischen Theologen und Religionsphilosophen Paul Tillich. 1891 wurde Johannes Oskar Tillich Superintendent des Kirchenkreises Schönfließ in der Neumark, 1900 folgte seine Berufung nach Berlin, wo er zum Geheimen Konsistorialrat ernannt wurde.</p>
@@ -9774,11 +9786,14 @@
                   <persName>Tillich, Paul</persName>
                   <birth>
                      <date>1886-08-20</date>
+                     <settlement>
+                        <placeName>Starzeddel, Niederschlesien (heute Polen)</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date>1965-10-22</date>
                      <settlement>
-                        <placeName>Chicago, Ill.</placeName>
+                        <placeName>Chicago, Illinois, USA</placeName>
                      </settlement>
                   </death>
                   <occupation>Theologe; Religionsphilosoph; Pfarrer</occupation>
@@ -13574,7 +13589,7 @@
                         <placeName>Zerbst/Anhalt</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/132462974</idno>
                   <note type="bio">
                      <p>Er war Generalsuperintendent von Anhalt.</p>
@@ -13594,7 +13609,7 @@
                         <placeName>Berlin-Dahlem</placeName>
                      </settlement>
                   </death>
-                  <occupation>Islamwissenschaftler;</occupation>
+                  <occupation>Islamwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119489228</idno>
                </person>
                <person xml:id="tillich_person_id__2289">
@@ -14455,11 +14470,17 @@
                   <idno type="gnd">https://d-nb.info/gnd/116848715</idno>
                </person>
                <person xml:id="tillich_person_id__2373">
-                  <persName>Theel, ???</persName>
-                  <occupation>Oberarzt;</occupation>
-                  <note type="bio">
-                     <p>Er war Adjutant des Oberstabsarztes Rosental im 1. Weltkrieg.</p>
-                  </note>
+                  <persName>Theel, Kurt</persName>
+                  <birth>
+                     <date>1885-12-02</date>
+                     <settlement>
+                        <placeName>Allenberg bei Wehlau</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1918-08-28</date>
+                  </death>
+                  <occupation>Oberarzt im Reserve-Infanterie-Regiment Nr. 66; Adjutant des Oberstabsarztes Rosental; gefallen am 28.August 1918.</occupation>
                </person>
                <person xml:id="tillich_person_id__2374">
                   <persName>Hafemann, Richard</persName>
@@ -15732,6 +15753,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118551264</idno>
+                  <note type="bio">
+                     <p>Paul von Hindenburg war im Ersten Weltkrieg gemeinsam mit Erich Ludendorff de facto der militärische Führer der deutschen Kriegsführung. Später gewann er 1932 unter anderem gegen Adolf Hitler die Reichspräsidentschaftswahl in Deutschland und wurde erneut Reichspräsident. Er war der letzte Präsident der Weimarer Republik bis zu seinem Tod.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2486">
                   <persName>Henke, Alfred</persName>
@@ -17732,7 +17756,7 @@
                </person>
                <person xml:id="tillich_person_id__2728">
                   <persName>Kandeler, Friedrich</persName>
-                  <occupation>Bildhauer; Zeichenlehrer;</occupation>
+                  <occupation>Bildhauer und Zeichenlehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2729">
                   <persName>Kandeler, Martha</persName>
@@ -17832,7 +17856,6 @@
                </person>
                <person xml:id="tillich_person_id__2742">
                   <persName>Zitzke, Johannes</persName>
-                  <occupation>Er war ein Mitschüler Paul Tillichs in der Tertia und Unter-Sekunda am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark, wohnhaft in Wildenbruch</occupation>
                </person>
                <person xml:id="tillich_person_id__2743">
                   <persName>Ecke, Gustav</persName>
@@ -18376,7 +18399,7 @@
                <person xml:id="tillich_person_id__2828">
                   <persName>Tillich, Karl</persName>
                   <note type="bio">
-                     <p>Er war ein Vetter von Paul Tillich.</p>
+                     <p>Karl Tillich war ein Cousin von Paul Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2829">
@@ -18466,7 +18489,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Orientalist;</occupation>
+                  <occupation>Orientalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119120828</idno>
                </person>
                <person xml:id="tillich_person_id__2844">
@@ -21224,7 +21247,7 @@
                <person xml:id="tillich_person_id__3433">
                   <persName>Dewitz, Toni</persName>
                   <note type="bio">
-                     <p>Wahrscheinich Tante von Erich Harder. Gestorben an einem Herzleiden in Beetz.</p>
+                     <p>Sie war vermutlich eine Tante von Erich Harder und verstarb in Beetz an einem Herzleiden.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3434">
@@ -23816,9 +23839,6 @@
                </person>
                <person xml:id="tillich_person_id__4099">
                   <persName>Kolbe, Elisabeth</persName>
-                  <note type="bio">
-                     <p>unsichere Lesart</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__4100">
                   <persName/>
@@ -23942,7 +23962,7 @@
                         <placeName>Briesen (Prov. Posen)</placeName>
                      </settlement>
                   </birth>
-                  <occupation>1898 Ordinarius der Unter-tertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark.</occupation>
+                  <occupation>Ordinarius der Untertertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark.</occupation>
                </person>
                <person xml:id="tillich_person_id__4124">
                   <persName>Kantorowicz, Alfred</persName>
@@ -23956,9 +23976,6 @@
                   <death>
                      <date>1945-04</date>
                   </death>
-                  <note type="bio">
-                     <p>geb. Titsch</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__4126">
                   <persName>Gregg, Alice</persName>
@@ -24140,9 +24157,6 @@
                </person>
                <person xml:id="tillich_person_id__4255">
                   <persName>Kandeler, Johanna</persName>
-                  <note type="bio">
-                     <p>geb. Wedell</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__4256">
                   <persName>Siemsen, Anna</persName>
@@ -25712,6 +25726,72 @@
                   <persName>Ives, Charles Libby</persName>
                </person>
                <person xml:id="tillich_person_id__4960">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4961">
+                  <persName>Hartshorne, Steve</persName>
+               </person>
+               <person xml:id="tillich_person_id__4962">
+                  <persName>Braun, Johann von</persName>
+                  <birth>
+                     <date>1867-06-24</date>
+                     <settlement>
+                        <placeName>Sinsheim</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-08-15</date>
+                  </death>
+                  <occupation>Bei Ausbruch des 1. Weltkriegs Kommandeur des Reserve-Infanterie-Regiments Nr. 13 (bis 14. Februar 1915), dann Chef des Generalstabs des IV. Reserve-Korps (bis Juli 1915); danach Chef der Ersatzwesen-Abteilung im Kriegsministerium.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__4963">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4964">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4965">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4966">
+                  <persName>Mübert (Kutscher)</persName>
+               </person>
+               <person xml:id="tillich_person_id__4967">
+                  <persName>Andreas (Bursche von Alwin Backhaus)</persName>
+               </person>
+               <person xml:id="tillich_person_id__4968">
+                  <persName>E.W. Cole</persName>
+               </person>
+               <person xml:id="tillich_person_id__4969">
+                  <persName>Backhaus, Otto</persName>
+                  <birth>
+                     <date>1895-05-16</date>
+                     <settlement>
+                        <placeName>Klein-Schmalkaden</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1919-02-25</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
+                     </settlement>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__4970">
+                  <persName>Jacobsen, Thorkild Peter Rudolph</persName>
+                  <occupation>Dänischer Orientalist und Historiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/124206018</idno>
+               </person>
+               <person xml:id="tillich_person_id__4971">
+                  <persName>Thomson, Hubert Fergus, Jr.</persName>
+               </person>
+               <person xml:id="tillich_person_id__4972">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4973">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__4974">
                   <persName/>
                </person>
             </listPerson>

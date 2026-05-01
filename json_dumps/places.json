@@ -252,17 +252,6 @@
     "longitude": "12.87819",
     "wikidata_url": ""
   },
-  "24": {
-    "id": 24,
-    "order": "24.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__24",
-    "geonames_url": "",
-    "Working Notes": "Ehemals Bad Schönfließ",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
@@ -1450,17 +1439,6 @@
     "latitude": "52.78730",
     "longitude": "14.03040",
     "wikidata_url": "http://www.wikidata.org/entity/Q31897099"
-  },
-  "170": {
-    "id": 170,
-    "order": "170.00000000000000000000",
-    "name": "Friedrichshagen",
-    "tillich_id": "tillich_place_id__170",
-    "geonames_url": "https://sws.geonames.org/2924577/",
-    "Working Notes": "Working Notes",
-    "latitude": "52.45052",
-    "longitude": "13.62463",
-    "wikidata_url": "http://www.wikidata.org/entity/Q563528"
   },
   "171": {
     "id": 171,
@@ -3698,7 +3676,7 @@
   "427": {
     "id": 427,
     "order": "427.00000000000000000000",
-    "name": "Taillette",
+    "name": "Caillette-Wald (bei Fort Vaux)",
     "tillich_id": "tillich_place_id__427",
     "geonames_url": "https://sws.geonames.org/11428908/",
     "Working Notes": "bei Fort de Vaux",
@@ -10162,5 +10140,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1456": {
+    "id": 1456,
+    "order": "1054.00000000000000000000",
+    "name": "Muralto",
+    "tillich_id": "tillich_place_id__1456",
+    "geonames_url": "https://www.geonames.org/6692335/",
+    "Working Notes": "",
+    "latitude": "46.17323",
+    "longitude": "8.80219",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q69961"
   }
 }
