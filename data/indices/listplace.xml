@@ -6705,6 +6705,22 @@
                   <idno type="geonames">https://sws.geonames.org/6692335/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q69961</idno>
                </place>
+               <place xml:id="tillich_place_id__1489">
+                  <placeName>Sainte-Rose</placeName>
+                  <location type="coords">
+                     <geo>45.61678 -73.78249</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6138085/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3464411</idno>
+               </place>
+               <place xml:id="tillich_place_id__1490">
+                  <placeName>Montreal</placeName>
+                  <location type="coords">
+                     <geo>45.50884 -73.58781</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6077243/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q340</idno>
+               </place>
             </listPlace>
          </div>
       </body>

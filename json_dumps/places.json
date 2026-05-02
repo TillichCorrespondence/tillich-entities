@@ -10151,5 +10151,27 @@
     "latitude": "46.17323",
     "longitude": "8.80219",
     "wikidata_url": "https://www.wikidata.org/wiki/Q69961"
+  },
+  "1489": {
+    "id": 1489,
+    "order": "1055.00000000000000000000",
+    "name": "Sainte-Rose",
+    "tillich_id": "tillich_place_id__1489",
+    "geonames_url": "https://www.geonames.org/6138085/",
+    "Working Notes": "",
+    "latitude": "45.61678",
+    "longitude": "-73.78249",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3464411"
+  },
+  "1490": {
+    "id": 1490,
+    "order": "1056.00000000000000000000",
+    "name": "Montreal",
+    "tillich_id": "tillich_place_id__1490",
+    "geonames_url": "https://www.geonames.org/6077243/",
+    "Working Notes": "",
+    "latitude": "45.50884",
+    "longitude": "-73.58781",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q340"
   }
 }

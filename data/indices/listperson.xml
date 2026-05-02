@@ -25794,6 +25794,42 @@
                <person xml:id="tillich_person_id__4974">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__5007">
+                  <persName>Fröhlich, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__5008">
+                  <persName>Clay, Lucius Dubignon</persName>
+                  <occupation>General der US Army, Militärgouverneur der amerikanischen Besatzungszone in Deutschland</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118521136</idno>
+               </person>
+               <person xml:id="tillich_person_id__5009">
+                  <persName>Wegner, Christian</persName>
+               </person>
+               <person xml:id="tillich_person_id__5010">
+                  <persName>Birchler</persName>
+               </person>
+               <person xml:id="tillich_person_id__5011">
+                  <persName>De Gogorza, Emilio Eduardo</persName>
+                  <birth>
+                     <date>1872-05-29</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1949-05-10</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Sänger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5012">
+                  <persName>Simons, George</persName>
+               </person>
+               <person xml:id="tillich_person_id__5013">
+                  <persName>Simons, Christopher John</persName>
+               </person>
             </listPerson>
          </div>
       </body>
