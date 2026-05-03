@@ -6721,6 +6721,14 @@
                   <idno type="geonames">https://sws.geonames.org/6077243/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q340</idno>
                </place>
+               <place xml:id="tillich_place_id__1491">
+                  <placeName>Frankfurt (Main)-Eschersheim</placeName>
+                  <location type="coords">
+                     <geo>50.15524 8.66032</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2929006/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q450028</idno>
+               </place>
             </listPlace>
          </div>
       </body>

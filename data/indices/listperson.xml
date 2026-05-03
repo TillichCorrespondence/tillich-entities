@@ -25830,6 +25830,15 @@
                <person xml:id="tillich_person_id__5013">
                   <persName>Simons, Christopher John</persName>
                </person>
+               <person xml:id="tillich_person_id__5014">
+                  <persName>Richter, Rudolf</persName>
+                  <occupation>Deutscher Paläontologe, Leiter des Senckenberg-Museums</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118818066</idno>
+               </person>
+               <person xml:id="tillich_person_id__5015">
+                  <persName>Richter, Emma</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116510757</idno>
+               </person>
             </listPerson>
          </div>
       </body>

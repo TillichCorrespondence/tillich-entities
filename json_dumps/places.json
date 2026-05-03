@@ -10173,5 +10173,16 @@
     "latitude": "45.50884",
     "longitude": "-73.58781",
     "wikidata_url": "https://www.wikidata.org/wiki/Q340"
+  },
+  "1491": {
+    "id": 1491,
+    "order": "1057.00000000000000000000",
+    "name": "Frankfurt (Main)-Eschersheim",
+    "tillich_id": "tillich_place_id__1491",
+    "geonames_url": "https://www.geonames.org/2929006/",
+    "Working Notes": "",
+    "latitude": "50.15524",
+    "longitude": "8.66032",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q450028"
   }
 }
