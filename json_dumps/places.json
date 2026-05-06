@@ -10184,5 +10184,16 @@
     "latitude": "50.15524",
     "longitude": "8.66032",
     "wikidata_url": "https://www.wikidata.org/wiki/Q450028"
+  },
+  "1492": {
+    "id": 1492,
+    "order": "1058.00000000000000000000",
+    "name": "Westdeutschland",
+    "tillich_id": "tillich_place_id__1492",
+    "geonames_url": "https://www.geonames.org/11612754/",
+    "Working Notes": "",
+    "latitude": "50.73389",
+    "longitude": "7.09972",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q713750"
   }
 }

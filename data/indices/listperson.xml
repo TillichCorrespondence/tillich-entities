@@ -9761,7 +9761,7 @@
                   </birth>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Margarete Tillich (geb. 25. Mai 1867) war eine Tante Paul Tillichs und wurde von ihm als Grete bezeichnet.</p>
+                     <p>Margarete Tillich (geb. 25. Mai 1867) war eine Tante Paul Tillichs und wurde von ihm Grete genannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1926">
@@ -25838,6 +25838,9 @@
                <person xml:id="tillich_person_id__5015">
                   <persName>Richter, Emma</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116510757</idno>
+               </person>
+               <person xml:id="tillich_person_id__5016">
+                  <persName>Gasch, Edeltraud</persName>
                </person>
             </listPerson>
          </div>

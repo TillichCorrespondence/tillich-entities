@@ -6729,6 +6729,14 @@
                   <idno type="geonames">https://sws.geonames.org/2929006/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q450028</idno>
                </place>
+               <place xml:id="tillich_place_id__1492">
+                  <placeName>Westdeutschland</placeName>
+                  <location type="coords">
+                     <geo>50.73389 7.09972</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/11612754/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q713750</idno>
+               </place>
             </listPlace>
          </div>
       </body>
