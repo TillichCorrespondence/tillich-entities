@@ -3099,7 +3099,7 @@
                </person>
                <person xml:id="tillich_person_id__567">
                   <persName>Fabricius, Cajus</persName>
-                  <occupation>Theologe , Universitätslehrer</occupation>
+                  <occupation>Theologe und Universitätslehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__568">
                   <persName>Falk, Karl</persName>
@@ -3431,7 +3431,7 @@
                   <death>
                      <date>1963</date>
                   </death>
-                  <occupation>Pfarrer; Heimleiter;</occupation>
+                  <occupation>Pfarrer; Heimleiter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio">
                      <p>Alfred Fritz (1886 – 1963) war ein deutscher reformierter Pfarrer und kirchlicher Funktionsträger. Von 1904 bis 1908 studierte er Theologie in Tübingen und Halle, wo er sich mit seinem Mitstudenten Paul Tillich anfreundete und wie dieser im Wingolf engagiert war. Seit 1912 wirkte er als Pfarrer in Butterfelde; im selben Jahr heiratete er Johanna Tillich, die Schwester Paul Tillichs, die jedoch 1920 bei der Geburt des dritten Kindes verstarb. Von 1916 bis 1922 war Alfred Fritz als Missionsinspektor in Bremen tätig, anschließend von 1922 bis 1927 Pfarrer der französisch-reformierten Gemeinde in Frankfurt am Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitete er im Diakonissenhaus Teltow, wo er die Leitung des Magdalenenstifts und der Fürsorgeabteilung übernahm. In zweiter Ehe war er mit der Pastorentochter Gertrud „Trude“ Fritz, geborene Horn, verheiratet.</p>
@@ -4117,6 +4117,9 @@
                </person>
                <person xml:id="tillich_person_id__808">
                   <persName>Harnack, Adolf von</persName>
+                  <note type="bio">
+                     <p>Adolf von Harnack war ein deutscher protestantischer Theologe. Er wurde am 7. Mai 1851 in Dorpat geboren. Bereits sein Vater, Theodosius Harnack, war ein protestantischer Theologe. Er war der Onkel der Widerstandskämpfer Falk Harnack und Arvid Harnack.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__809">
                   <persName>Harnack, Adolor von</persName>
@@ -5888,7 +5891,7 @@
                   <death>
                      <date>1938</date>
                   </death>
-                  <occupation>Systematischer Theologe;</occupation>
+                  <occupation>Systematischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
                   <note type="bio">
                      <p>Wilhelm Lütgert (9. April 1867 – 21. Februar 1938) war ein deutscher evangelischer Theologe. Er studierte in Greifswald und Berlin, wurde 1892 promoviert und habilitierte sich im selben Jahr. Nach Professuren in Greifswald und Halle wechselte er 1929 nach Berlin, wo er bis zu seiner Entlassung 1935 lehrte. Lütgert gehörte der Greifswalder Schule an und vertrat eine an Biblizismus und Idealismus orientierte Theologie, während er die Dialektische Theologie ablehnte. Gegenüber dem Nationalsozialismus hielt er Distanz und stand der Bekennenden Kirche nahe.</p>
@@ -8044,7 +8047,7 @@
                </person>
                <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
-                  <occupation>evangelischer Theologe (Neues Testament)</occupation>
+                  <occupation>Evangelischer Theologe mit dem Schwerpunkt Neues Testament</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio">
                      <p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p>
@@ -11234,11 +11237,16 @@
                </person>
                <person xml:id="tillich_person_id__2048">
                   <persName>Wever, Wilhelm</persName>
-                  <occupation>Vater von Greti, Domänenpächter</occupation>
+                  <occupation>Domänenpächter</occupation>
+                  <note type="bio">
+                     <p>Wilhelm Wever ist der Vater von Greti Wever.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2049">
                   <persName>Wever, Mathilde</persName>
-                  <occupation>Mutter von Greti</occupation>
+                  <note type="bio">
+                     <p>Mathilde Wever ist die Mutter von Greti Wever.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2050">
                   <persName>Wever, Wolf</persName>
@@ -16320,8 +16328,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/118567853</idno>
                </person>
                <person xml:id="tillich_person_id__2547">
-                  <persName>Kapell, ???</persName>
-                  <occupation>Katholischer Feldprediger;</occupation>
+                  <persName>Kapell, Hubert</persName>
+                  <occupation>Katholischer Feldgeistlicher</occupation>
                </person>
                <person xml:id="tillich_person_id__2548">
                   <persName>Menthe, Edgar</persName>
@@ -16653,7 +16661,7 @@
                         <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe;</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118597612</idno>
                </person>
                <person xml:id="tillich_person_id__2594">
@@ -17771,9 +17779,6 @@
                   <persName>Burchard, Hans</persName>
                   <occupation>Landrichter</occupation>
                </person>
-               <person xml:id="tillich_person_id__2733">
-                  <persName>Kapell, Hubert</persName>
-               </person>
                <person xml:id="tillich_person_id__2734">
                   <persName>Simon, Garina Gertrud</persName>
                   <birth>
@@ -17896,7 +17901,7 @@
                </person>
                <person xml:id="tillich_person_id__2748">
                   <persName>Foerster, Erich</persName>
-                  <occupation>Pfarrer; Jurist;</occupation>
+                  <occupation>Pfarrer und Jurist</occupation>
                   <note type="bio">
                      <p>Er war nach einem Studium der Evangelischen Theologie und der Rechtswissenschaft Vikar bei Martin Rade gewesen, bevor er 1893 bis 1895 als Pfarrer in Hirschberg wirkte. 1895 übernahm er das Pfarramt der Reformierten Gemeinde in Frankfurt am Main. An der Frankfurter Akademie für Sozial- und Handelswissenschaften habilitierte er sich 1907.</p>
                   </note>
@@ -18404,7 +18409,7 @@
                </person>
                <person xml:id="tillich_person_id__2829">
                   <persName>Mahling, Friedrich</persName>
-                  <occupation>Professor; Dekan</occupation>
+                  <occupation>Professor und Dekan</occupation>
                </person>
                <person xml:id="tillich_person_id__2830">
                   <persName>Kleedehn</persName>
@@ -24659,7 +24664,7 @@
                   <persName>Schmidt, Carl</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118996207</idno>
                   <note type="bio">
-                     <p>Koptologe, Ägyptologe, Kirchenhistoriker</p>
+                     <p>Koptologe, Ägyptologe und Kirchenhistoriker</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__4439">
@@ -25841,6 +25846,12 @@
                </person>
                <person xml:id="tillich_person_id__5016">
                   <persName>Gasch, Edeltraud</persName>
+               </person>
+               <person xml:id="tillich_person_id__5017">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5018">
+                  <persName/>
                </person>
             </listPerson>
          </div>
