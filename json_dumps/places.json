@@ -10195,5 +10195,16 @@
     "latitude": "50.73389",
     "longitude": "7.09972",
     "wikidata_url": "https://www.wikidata.org/wiki/Q713750"
+  },
+  "1493": {
+    "id": 1493,
+    "order": "1059.00000000000000000000",
+    "name": "Mohriner See",
+    "tillich_id": "tillich_place_id__1493",
+    "geonames_url": "https://sws.geonames.org/3091426/",
+    "Working Notes": "Polnisch: Morzycko",
+    "latitude": "52.86178",
+    "longitude": "14.40933",
+    "wikidata_url": ""
   }
 }

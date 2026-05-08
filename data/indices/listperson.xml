@@ -1480,6 +1480,7 @@
                <person xml:id="tillich_person_id__177">
                   <persName>Bendemann, Margarete von</persName>
                   <occupation>Poetin, Philosophin und Essayistin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118620096</idno>
                   <note type="bio">
                      <p>Studium der Malerei in Düsseldorf und Paris sowie Philosophie in München und Berlin. In München tw. im Umfeld Stefan Georges, in Berlin gehörte sie zum Simmel-Kreis. 1906 heiratete sie den Maler Eduard von Bendemann (1928 Scheidung), ab 1907 Tätigkeit als Essayistin unter anderem für die Frankfurter Zeitung und die Neue Zürcher Zeitung. Seit der von ihr unterstützten Revolution von 1918 verstärkte Beschäftigung mit der Rolle der Frau in der Gesellschaft. In den 1920ern tw. Lehrtätigkeit am Freien Jüdischen Lehrhaus in Frankfurt/Main, seit 1929 lebte sie auch in Frankfurt. 1933 Emigration in die Schweiz, wo sie ihr restliches Leben verbrachte. Sie bewegte sich im religiös-sozialistischen Kreis um Leonhard Ragaz und schrieb ab 1935 für seine Zeitschrift Neue Wege. 1939 Publikationsverbot wegen Verdacht auf Linksextremismus. Nach dem Zweiten Weltkrieg u.a. publizistische Auseinandersetzung mit der Shoa sowie der Gründung Israels.</p>
                   </note>
@@ -3431,7 +3432,7 @@
                   <death>
                      <date>1963</date>
                   </death>
-                  <occupation>Pfarrer; Heimleiter</occupation>
+                  <occupation>Pfarrer und Heimleiter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio">
                      <p>Alfred Fritz (1886 – 1963) war ein deutscher reformierter Pfarrer und kirchlicher Funktionsträger. Von 1904 bis 1908 studierte er Theologie in Tübingen und Halle, wo er sich mit seinem Mitstudenten Paul Tillich anfreundete und wie dieser im Wingolf engagiert war. Seit 1912 wirkte er als Pfarrer in Butterfelde; im selben Jahr heiratete er Johanna Tillich, die Schwester Paul Tillichs, die jedoch 1920 bei der Geburt des dritten Kindes verstarb. Von 1916 bis 1922 war Alfred Fritz als Missionsinspektor in Bremen tätig, anschließend von 1922 bis 1927 Pfarrer der französisch-reformierten Gemeinde in Frankfurt am Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitete er im Diakonissenhaus Teltow, wo er die Leitung des Magdalenenstifts und der Fürsorgeabteilung übernahm. In zweiter Ehe war er mit der Pastorentochter Gertrud „Trude“ Fritz, geborene Horn, verheiratet.</p>
@@ -8012,7 +8013,7 @@
                </person>
                <person xml:id="tillich_person_id__1713">
                   <persName>Schlegel, Erich</persName>
-                  <occupation>Militäroberpfarrer u. Konsistorialrat, Feldpropst 1919-1934</occupation>
+                  <occupation>Militäroberpfarrer und Konsistorialrat</occupation>
                </person>
                <person xml:id="tillich_person_id__1714">
                   <persName>Schlegel, August Wilhelm</persName>
@@ -8828,7 +8829,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Konsistorialpräsident in Berlin von 1904–1925</occupation>
+                  <occupation>Konsistorialpräsident in Berlin in den Jahren 1904-1925</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1111512221</idno>
                </person>
                <person xml:id="tillich_person_id__1853">
@@ -9799,7 +9800,7 @@
                         <placeName>Chicago, Illinois, USA</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Religionsphilosoph; Pfarrer</occupation>
+                  <occupation>Theologe, Religionsphilosoph und Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio">
                      <p>Paul Tillich (20. August 1886 – 22. Oktober 1965) war ein deutscher evangelischer Theologe und Religionsphilosoph. Nach seiner Tätigkeit als Feldprediger im Ersten Weltkrieg lehrte er an verschiedenen Universitäten in Deutschland, bis er 1933 emigrieren musste und in den USA wirkte, unter anderem in New York, Harvard und Chicago. Tillich entwickelte eine Theologie der Kultur und verstand Religion als das „was uns unbedingt angeht“. In seiner „Systematic Theology“ formulierte er die Methode der Korrelation und deutete Gott als „Macht des Seins“. Seine Arbeiten verbinden Theologie, Philosophie und Existenzdenken und hatten großen Einfluss auf das religiöse Denken der Moderne.</p>
@@ -13861,11 +13862,8 @@
                         <placeName>Idstedt</placeName>
                      </settlement>
                   </death>
-                  <occupation>Oberstleutnant;</occupation>
+                  <occupation>Oberstleutnant</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1072046415</idno>
-                  <note type="bio">
-                     <p>Er war in den 1. Weltkrieg verwickelt.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2309">
                   <persName>Kappes, Heinz</persName>
@@ -15762,7 +15760,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118551264</idno>
                   <note type="bio">
-                     <p>Paul von Hindenburg war im Ersten Weltkrieg gemeinsam mit Erich Ludendorff de facto der militärische Führer der deutschen Kriegsführung. Später gewann er 1932 unter anderem gegen Adolf Hitler die Reichspräsidentschaftswahl in Deutschland und wurde erneut Reichspräsident. Er war der letzte Präsident der Weimarer Republik bis zu seinem Tod.</p>
+                     <p>Paul von Hindenburg war im Ersten Weltkrieg gemeinsam mit Erich Ludendorff de facto der militärische Führer der deutschen Kriegsführung. Später gewann er 1932 unter anderem gegen Adolf Hitler die Reichspräsidentschaftswahl in Deutschland und wurde erneut Reichspräsident. Er war, bis zu seinem Tod, der letzte Präsident der Weimarer Republik.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2486">
@@ -16218,11 +16216,8 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2533">
-                  <persName>Förster</persName>
-                  <occupation>Pfarrer;</occupation>
-                  <note type="bio">
-                     <p>Er war Lazarettpfarrer und Kollege von Paul Tillich im 1. Weltkrieg.</p>
-                  </note>
+                  <persName>Förster, ???</persName>
+                  <occupation>Feldlazarettpfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2534">
                   <persName>Schimmelmann, Adeline von</persName>
@@ -19259,12 +19254,15 @@
                   <persName>???, Hildebrand</persName>
                </person>
                <person xml:id="tillich_person_id__2974">
-                  <persName>???, Kunibert</persName>
+                  <persName>Kunibert von Köln</persName>
                   <birth>
                      <date>590</date>
                   </birth>
                   <death>
-                     <date>663</date>
+                     <date>663-11-12</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__244">Köln</placeName>
+                     </settlement>
                   </death>
                   <occupation>Heiliger, Bischof von Köln</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/137311699</idno>
@@ -25845,13 +25843,30 @@
                   <idno type="gnd">https://d-nb.info/gnd/116510757</idno>
                </person>
                <person xml:id="tillich_person_id__5016">
-                  <persName>Gasch, Edeltraud</persName>
+                  <persName>Gasch, Edel</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118829602</idno>
                </person>
                <person xml:id="tillich_person_id__5017">
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__5018">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5019">
+                  <persName>Taubes, Zwi</persName>
+                  <occupation>Rabbiner</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1053485700</idno>
+                  <note type="bio">
+                     <p>Vater von Jacob Taubes</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5020">
+                  <persName>Taubes, Susan</persName>
+                  <occupation>Religionswissenschaftlerin, Kulturwissenschaftlerin, Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119477793</idno>
+                  <note type="bio">
+                     <p>Ehefrau von Jacob Taubes</p>
+                  </note>
                </person>
             </listPerson>
          </div>
