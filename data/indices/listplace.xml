@@ -6744,6 +6744,20 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3091426/</idno>
                </place>
+               <place xml:id="tillich_place_id__1494">
+                  <placeName>Charlottenhof (Sosny)</placeName>
+                  <location type="coords">
+                     <geo>52.71908 14.95652</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3085114/</idno>
+               </place>
+               <place xml:id="tillich_place_id__1495">
+                  <placeName>Vietz (Witnica)</placeName>
+                  <location type="coords">
+                     <geo>52.67318 14.89765</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+               </place>
             </listPlace>
          </div>
       </body>

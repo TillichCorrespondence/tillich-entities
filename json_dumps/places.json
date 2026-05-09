@@ -10206,5 +10206,27 @@
     "latitude": "52.86178",
     "longitude": "14.40933",
     "wikidata_url": ""
+  },
+  "1494": {
+    "id": 1494,
+    "order": "1060.00000000000000000000",
+    "name": "Charlottenhof (Sosny)",
+    "tillich_id": "tillich_place_id__1494",
+    "geonames_url": "https://sws.geonames.org/3085114/",
+    "Working Notes": "http://sws.geonames.org/extendedFindNearby?lat=52.716667&lng=14.95",
+    "latitude": "52.71908",
+    "longitude": "14.95652",
+    "wikidata_url": ""
+  },
+  "1495": {
+    "id": 1495,
+    "order": "1061.00000000000000000000",
+    "name": "Vietz (Witnica)",
+    "tillich_id": "tillich_place_id__1495",
+    "geonames_url": "https://sws.geonames.org/3087840/",
+    "Working Notes": "",
+    "latitude": "52.67318",
+    "longitude": "14.89765",
+    "wikidata_url": ""
   }
 }
