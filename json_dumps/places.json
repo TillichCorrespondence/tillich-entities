@@ -10228,5 +10228,16 @@
     "latitude": "52.67318",
     "longitude": "14.89765",
     "wikidata_url": ""
+  },
+  "1496": {
+    "id": 1496,
+    "order": "1062.00000000000000000000",
+    "name": "Rochester (NY)",
+    "tillich_id": "tillich_place_id__1496",
+    "geonames_url": "https://www.geonames.org/5134086/",
+    "Working Notes": "",
+    "latitude": "43.15478",
+    "longitude": "-77.61556",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49218"
   }
 }

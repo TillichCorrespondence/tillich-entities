@@ -1278,6 +1278,19 @@
                </person>
                <person xml:id="tillich_person_id__129">
                   <persName>Balla, E.</persName>
+                  <birth>
+                     <date>1885-05-ß6</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__356">Potsdam</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1956-07-11</date>
+                     <settlement>
+                        <placeName>Marburg</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/11604411X</idno>
                </person>
                <person xml:id="tillich_person_id__130">
                   <persName>Banning, Willem</persName>
@@ -25874,6 +25887,17 @@
                <person xml:id="tillich_person_id__5022">
                   <persName>Wegener, ???</persName>
                   <occupation>Kunstmaler</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5023">
+                  <persName>Leese, Elisabeth</persName>
+               </person>
+               <person xml:id="tillich_person_id__5024">
+                  <persName>?, Inge</persName>
+               </person>
+               <person xml:id="tillich_person_id__5025">
+                  <persName>Bulgakow, Sergei Nikolajewitsch</persName>
+                  <occupation>Orthodoxer Theologe, Religionsphilosoph, Wirtschaftswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118664867</idno>
                </person>
             </listPerson>
          </div>
