@@ -3290,6 +3290,7 @@
                <person xml:id="tillich_person_id__599">
                   <persName>Flitner, Wilhelm</persName>
                   <occupation>Pädagoge (Prof. in Kiel, Hamburg)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118533991</idno>
                </person>
                <person xml:id="tillich_person_id__600">
                   <persName>Fludd, Robert</persName>
@@ -25898,6 +25899,45 @@
                   <persName>Bulgakow, Sergei Nikolajewitsch</persName>
                   <occupation>Orthodoxer Theologe, Religionsphilosoph, Wirtschaftswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118664867</idno>
+               </person>
+               <person xml:id="tillich_person_id__5026">
+                  <persName>Wenke, Hans</persName>
+                  <birth>
+                     <date>1903-04-22</date>
+                     <settlement>
+                        <placeName>Sangerhausen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1971-02-27</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Erziehungswissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11728629X</idno>
+               </person>
+               <person xml:id="tillich_person_id__5027">
+                  <persName>Fry, Franklin Clark</persName>
+                  <birth>
+                     <date>1900-08-30</date>
+                     <settlement>
+                        <placeName>Bethlehem (Pennsylvania)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-06-06</date>
+                     <settlement>
+                        <placeName>New Rochelle, New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Theologe,  Präsident der Vereinigten Lutherischen Kirche Amerikas</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1098479521</idno>
+               </person>
+               <person xml:id="tillich_person_id__5028">
+                  <persName>Schumann, Friedrich Ludwig</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1191902412</idno>
                </person>
             </listPerson>
          </div>
