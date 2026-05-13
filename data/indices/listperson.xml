@@ -25939,6 +25939,22 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1191902412</idno>
                </person>
+               <person xml:id="tillich_person_id__5029">
+                  <persName>Klinger, Max</persName>
+                  <birth>
+                     <date>1857-02-18</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1920-07-04</date>
+                     <settlement>
+                        <placeName>Großjena</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>deutscher Bildhauer, Maler und Grafiker</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
