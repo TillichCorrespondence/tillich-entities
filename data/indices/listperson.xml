@@ -41,7 +41,7 @@
                   <death>
                      <date>2006</date>
                   </death>
-                  <occupation>japanischer Buddhist und Religionswissenschaftler</occupation>
+                  <occupation>Japanischer Buddhist und Religionswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119340917</idno>
                </person>
                <person xml:id="tillich_person_id__3">
@@ -93,7 +93,7 @@
                   <death>
                      <date>1994</date>
                   </death>
-                  <occupation>amerikanischer Theologe</occupation>
+                  <occupation>Amerikanischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11949194X</idno>
                   <note type="bio">
                      <p>James Luther Adams (1901 – 1994) war ein führender unitarisch-universalistischer Theologe und Sozialethiker, der nach Studien in Minnesota und an der Harvard Divinity School zunächst Gemeinden in Massachusetts leitete und ab 1936 an den Theologischen Fakultäten von Meadville Lombard, Chicago sowie ab 1957 als Professor für christliche Sozialethik an der Harvard Divinity School wirkte. 1935/36 schloss er sich in Europa der kirchlichen Opposition gegen den Nationalsozialismus an, engagierte sich später in Arbeiter- und Bürgerrechtsbewegungen und machte durch Übersetzungen und Interpretationen der Werke Tillichs, Troeltschs und Holls deren Ideen im amerikanischen Kontext wirksam, wobei er zugleich Paul Tillichs Sozialethik nachhaltig beeinflusste. Adams verstand religiöse Gemeinschaften als Träger politisch-sozialer Verantwortung, kritisierte einen individualistischen Liberalismus und entwickelte eine dialektische Ethik, die Liebe und Gerechtigkeit in der ständigen Wechselwirkung von Gott, Gemeinschaft und Individuum verortet.</p>
@@ -214,7 +214,7 @@
                         <placeName>Carmel-by-the-Sea, Calif.</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutsch-US-amerikanischer Jurist, Kunsthistoriker und Mäzen</occupation>
+                  <occupation>Deutsch-US-amerikanischer Jurist, Kunsthistoriker und Mäzen</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/13411034X</idno>
                </person>
                <person xml:id="tillich_person_id__17">
@@ -480,7 +480,7 @@
                         <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
-                  <occupation>außerplanmäßiger Professor für Religionsphilosophie an der Johann Wolfgang Goethe-Universität Frankfurt am Main</occupation>
+                  <occupation>Außerplanmäßiger Professor für Religionsphilosophie an der Johann Wolfgang Goethe-Universität Frankfurt am Main</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116287950</idno>
                </person>
                <person xml:id="tillich_person_id__42">
@@ -536,7 +536,7 @@
                         <placeName>Icking</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutscher evangelischer Theologe und Sozialethiker</occupation>
+                  <occupation>Deutscher evangelischer Theologe und Sozialethiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/140376453</idno>
                </person>
                <person xml:id="tillich_person_id__46">
@@ -940,11 +940,9 @@
                </person>
                <person xml:id="tillich_person_id__87">
                   <persName>Arnold, John C.</persName>
-                  <occupation>Plough Publishing House, Rifton, New York</occupation>
                </person>
                <person xml:id="tillich_person_id__88">
                   <persName>Arnold, Melvin</persName>
-                  <occupation>Harpers &amp; Row, Publishers</occupation>
                </person>
                <person xml:id="tillich_person_id__89">
                   <persName>Arnold, Eberhard</persName>
@@ -1144,7 +1142,7 @@
                         <placeName>Roslyn Heights, NY</placeName>
                      </settlement>
                   </death>
-                  <occupation>Deutscher Dramatiker der Berliner Moderne sowie Theaterkritiker. Er war Mitbegründer des Kulturbunds Deutscher Juden</occupation>
+                  <occupation>Deutscher Dramatiker der Berliner Moderne sowie Theaterkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116019891</idno>
                </person>
                <person xml:id="tillich_person_id__107">
@@ -1180,7 +1178,7 @@
                   <death>
                      <date>1938-03-16</date>
                   </death>
-                  <occupation>Evangelischer Pfarrer in Torgau; im Ersten Weltkrieg war er Divisionspfarrer der 8. Division.</occupation>
+                  <occupation>Evangelischer Pfarrer in Torgau sowie Divisionspfarrer im ersten Weltkrieg</occupation>
                </person>
                <person xml:id="tillich_person_id__110">
                   <persName>Bacon, Francis</persName>
@@ -1207,14 +1205,12 @@
                </person>
                <person xml:id="tillich_person_id__115">
                   <persName>Baerensprung, Horst Wolfgang</persName>
-                  <occupation>1941 wurde er Verwaltungsrat des von Albert Grzesinski gegründeten German-American Council for the Liberation of Germany from Nazism und ab November 1941 Direktoriumsmitglied. Ab 1942 war er Schatzmeister der AFGF und Mitglied der German-American Emergency Conference. In der Zeit um 1941 bis 1946 lebte er mit Elisabeth Hauptmann zusammen und verfasste mit ihr Radio-Features. (Nach Bericht von Hauptmann betätigte sie sich nebenbei zwei Jahre lang als „Ghostwriterin“ an seinen Memoiren, weil Baerensprung zwar ein „hervorragender Erzähler, aber unfähig war, eine Zeile zu Papier zu bringen“.) Ab April 1944 war Baerensprung Mitglied des Vorbereitungskomitees zum Council for a Democratic Germany (CDG)</occupation>
                </person>
                <person xml:id="tillich_person_id__116">
                   <persName>Baerensprung, Käthe</persName>
                </person>
                <person xml:id="tillich_person_id__117">
                   <persName>Baerwald, Eduard</persName>
-                  <occupation>Dr. jur, seit 1896 aktiv in der jüd. Gde Frankfurt; um 1910 stellv. Vors.; Mitglied des Rates der JCA; 1925-30 im PLJG; Vors. der lib. Fraktion; 1932-33 im Vorst. der jüd. Gde.</occupation>
                </person>
                <person xml:id="tillich_person_id__118">
                   <persName>Baeumker, Clemens</persName>
@@ -1233,7 +1229,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Deutscher SPD-Politiker</occupation>
+                  <occupation>SPD-Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118651935</idno>
                </person>
                <person xml:id="tillich_person_id__120">
@@ -1251,7 +1247,7 @@
                </person>
                <person xml:id="tillich_person_id__123">
                   <persName>Bainton, Roland</persName>
-                  <occupation>ein US-amerikanischer protestantischer Theologe, Kirchenhistoriker und Hochschullehrer an der Yale University</occupation>
+                  <occupation>Amerikanischer protestantischer Theologe sowie Kirchenhistoriker und Hochschullehrer an der Yale University</occupation>
                </person>
                <person xml:id="tillich_person_id__124">
                   <persName>Baker, Mrs.</persName>
@@ -1310,7 +1306,7 @@
                </person>
                <person xml:id="tillich_person_id__133">
                   <persName>Baring, Nina</persName>
-                  <occupation>Fürsorgerin, Lehrerin, Dozentin</occupation>
+                  <occupation>Dozentin, Lehrerin, Fürsorgerin</occupation>
                   <note type="bio">
                      <p>Studium der Philosophie, u.a. bei Heidegger, aber auch z.B. in Dresden bei Paul Tillich. Arbeitete als Fürsorgerin und als Dozentin an diversen Volkshochschulen. Sie konvertierte in den 1930er Jahren zum Katholizismus und stand u.a. in Kontakt mit Edith Stein. Nach dem Krieg zeitweise Mitwirkung als Übersetzerin Tillichs englischer Arbeiten ins Deutsche.</p>
                   </note>
@@ -1358,7 +1354,6 @@
                </person>
                <person xml:id="tillich_person_id__143">
                   <persName>Baruch</persName>
-                  <occupation>Verfasser des Alttestamentlichen Buches Baruch</occupation>
                </person>
                <person xml:id="tillich_person_id__144">
                   <persName>Bäschlin, Franz</persName>
@@ -1398,17 +1393,13 @@
                </person>
                <person xml:id="tillich_person_id__153">
                   <persName>Baumgardt, David</persName>
-                  <occupation>Deutscher Philosoph, nach England und anschließend in die USA emigriert</occupation>
+                  <occupation>Deutscher Philosoph</occupation>
                   <note type="bio">
                      <p>Studium der Philosophie, Physik, Geschichte und Literaturgeschichte in München, Freiburg/Br., Heidelberg, Wien und Berlin. Nach der Teilnahme am Ersten Weltkrieg wurde er 1920 in Berlin zum Dr. phil. promoviert. 1924-1931 Privatdozent und 1932-1935 ao. Professor in Berlin, 1935 entlassen. Nach einem Vortrag an der Universität Madrid kehrte B. nicht nach Deutschland zurück sondern emigrierte nach Großbritannien, wo er 1935-1939 an der Universität Birmingham lehrte. Anschließend emigrierte er in die USA, wo er zunächst am Quäker College Pendle Hill in Pennsylvania lehrte, bevor er 1941-1954 Berater für Philosophie und Politik an der Library of Congress in Washington D.C. wurde. 1955-1956 war er Gastprofessor an der Columbia University, New York, 1956 heiratete er zum zweiten Mal, nachdem er in erster Ehe mit Carola (1879-1952), geb. Schmidt-du Rocher, verheiratet gewesen war.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__154">
                   <persName>Baumgarten, Helene</persName>
-                  <occupation>verh. mit Arthur Baumgarten</occupation>
-                  <note type="bio">
-                     <p>die ältere Schwester von Jean Rudolf von Salis.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__155">
                   <persName>Baumgarten, Alexander Gottlieb</persName>
@@ -1438,7 +1429,7 @@
                </person>
                <person xml:id="tillich_person_id__162">
                   <persName>Bayne, Jr. , Stephen F.</persName>
-                  <occupation>Episkopaler/Anglikanischer Priester und dann Bischof, in den 1940er Jahren (bis 1947) war er Lehrstuhlinhaber am Institut für Religion an der Columbia University in New York</occupation>
+                  <occupation>Anglikanischer Priester und Bischof</occupation>
                </person>
                <person xml:id="tillich_person_id__163">
                   <persName>Bazard, Saint-Armand</persName>
@@ -1458,11 +1449,11 @@
                </person>
                <person xml:id="tillich_person_id__168">
                   <persName>Beck, Maximilian</persName>
-                  <occupation>Psychologe, Emigration: Lecturer am Wilson College, 1945-49 Visiting Professor an der University of Illionois in Rockfort, dann Professor am Central College in Little Rock/Arkansas (Deuschsprachige Psychologinnen und Psychologen 1933-1945 von Uwe Wolfradt et al.)</occupation>
+                  <occupation>Psychologe</occupation>
                </person>
                <person xml:id="tillich_person_id__169">
                   <persName>Becker, Carl Heinrich</persName>
-                  <occupation>Deutscher Orientalist und Politiker, Kultusminister 1921 und 1925-30</occupation>
+                  <occupation>Deutscher Orientalist und Politiker</occupation>
                </person>
                <person xml:id="tillich_person_id__170">
                   <persName>Becker, Heinrich</persName>
@@ -1485,7 +1476,7 @@
                </person>
                <person xml:id="tillich_person_id__175">
                   <persName>Behrmann, Max</persName>
-                  <occupation>Kannte Tillich aus seiner Dresdner Zeit und war Pfarrer in Hamburg</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__176">
                   <persName>Bekker, Balthasar</persName>
@@ -1500,7 +1491,7 @@
                </person>
                <person xml:id="tillich_person_id__178">
                   <persName>Bendix, Ludwig</persName>
-                  <occupation>War ein deutscher Jurist, Finanzberater und Nationalökonom, in den USA dann Soziologe</occupation>
+                  <occupation>Jurist</occupation>
                </person>
                <person xml:id="tillich_person_id__179">
                   <persName>Beneke, Eduard</persName>
@@ -1520,7 +1511,7 @@
                </person>
                <person xml:id="tillich_person_id__183">
                   <persName>Benn, William Wedgwood</persName>
-                  <occupation>britischer Politiker</occupation>
+                  <occupation>Britischer Politiker</occupation>
                   <note type="bio">
                      <p>Nach seiner Ausbildung in Paris und Oxford arbeitete B. zunächst im väterlichen Verlag und, ebenfalls wie sein Vater, engagierte sich in der liberalen London Progressive Party und saß für sie im Parlament. Im Ersten Weltkrieg trat er freiwillig in den militärischen Dienst, ab 1916 als Pilot. 1927 wechselte er von der Liberal Party zur Labour Party und vertrat fortan diese im Parlament. 1929-1931 war er Secretary of State for India. Obwohl bereits über 60 Jahre alt, trat er im Zweiten Weltkrieg wieder in den Pilotendienst ein. 1945-1946 war er Secretary of State for Air, danach saß er noch bis zu seinem Tod für die Labour Party im Oberhaus des Parlaments.</p>
                   </note>
@@ -1540,14 +1531,14 @@
                </person>
                <person xml:id="tillich_person_id__188">
                   <persName>Berdjajew, Nikolai</persName>
-                  <occupation>Russischer Philosoph, wohnhaft in Paris</occupation>
+                  <occupation>Russischer Philosoph</occupation>
                   <note type="bio">
                      <p>Berdjajew, Nikolai Alexandrowitsch (18.3.1874 Obuchowo, Gouvernement Kiew – 23.3.1948 Clamart bei Paris), russischer Religionsphilosoph. Aus dem Marxismus kommend, wandte er sich unter Solowjows Einfluss dem Christentum zu. 1922 aus Sowjetrussland ausgewiesen, lebte er in Berlin und Paris, wo er Akademien gründete und die Zeitschrift „Der Weg“ herausgab. Er verstand Freiheit als „ungeschaffene“ Grundlage des Seins und den Menschen als zur „Gottmenschlichkeit“ berufen. Er gilt als christlicher Existentialist, dessen Schriften geistige Erneuerung und gesellschaftliche Umgestaltung forderten.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__189">
                   <persName>Berger, Charles Edward</persName>
-                  <occupation>Reverend in St. Anne und All Saints´ Church in Chevy Chase (Washington)</occupation>
+                  <occupation>Reverend in St. Anne und All Saints' Church in Chevy Chase (Washington)</occupation>
                </person>
                <person xml:id="tillich_person_id__190">
                   <persName>Berger, Geza</persName>
@@ -1611,14 +1602,14 @@
                </person>
                <person xml:id="tillich_person_id__204">
                   <persName>Bertheau, Johannes</persName>
-                  <occupation>Lehrer im Johanneum in Hamburg, studierte in Halle</occupation>
+                  <occupation>Lehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__205">
                   <persName>Bertheau, Lorenz</persName>
                </person>
                <person xml:id="tillich_person_id__206">
                   <persName>Bertholet, Alfred</persName>
-                  <occupation>Theologe, Orientalist</occupation>
+                  <occupation>Theologe und Orientalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118658573</idno>
                </person>
                <person xml:id="tillich_person_id__207">
@@ -1716,7 +1707,7 @@
                </person>
                <person xml:id="tillich_person_id__223">
                   <persName>Birmelé, Henri</persName>
-                  <occupation>Pfarrer, Wingolfbruder</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__224">
                   <persName>Bismarck, Otto von</persName>
@@ -1777,7 +1768,7 @@
                   <death>
                      <date>1919-08-02</date>
                   </death>
-                  <occupation>Evangelischer Theologe und Pfarrer; 1900-1906 Landtagsabgeordneter der SPD im Württemberger Landtag</occupation>
+                  <occupation>Evangelischer Theologe und Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__234">
                   <persName>Bluntschli, Hans Hermann G.</persName>
@@ -1809,7 +1800,6 @@
                </person>
                <person xml:id="tillich_person_id__238">
                   <persName>Bode, Heinrich L.</persName>
-                  <occupation>Redaktion "Gegen Willkür und Missbrauch der Macht" (Das soziale Deutschland), Frankfurt/M.</occupation>
                </person>
                <person xml:id="tillich_person_id__239">
                   <persName>Bodelschwingh, Friedrich von</persName>
@@ -1908,7 +1898,6 @@
                </person>
                <person xml:id="tillich_person_id__260">
                   <persName>Borton, Hugh</persName>
-                  <occupation>Haverford College</occupation>
                </person>
                <person xml:id="tillich_person_id__261">
                   <persName>Bosch, Hieronymus</persName>
@@ -1930,7 +1919,6 @@
                </person>
                <person xml:id="tillich_person_id__266">
                   <persName>Boyer, Edna D.</persName>
-                  <occupation>Chicago University Press</occupation>
                </person>
                <person xml:id="tillich_person_id__267">
                   <persName>Boyle, Robert</persName>
@@ -1946,7 +1934,6 @@
                </person>
                <person xml:id="tillich_person_id__270">
                   <persName>Brandes, Friedrich</persName>
-                  <occupation>Geistige Begegnungen in der Böttcherstrasse</occupation>
                </person>
                <person xml:id="tillich_person_id__271">
                   <persName>Brändström, Elsa</persName>
@@ -1962,7 +1949,7 @@
                         <placeName>Cambridge, Mass.</placeName>
                      </settlement>
                   </death>
-                  <occupation>Philanthropin, Lehrerin, Krankenschwester</occupation>
+                  <occupation>Philanthropin, Lehrerin und Krankenschwester</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118514407</idno>
                   <note type="bio">
                      <p>(hat Ulich Robert als Ehemann)</p>
@@ -1982,7 +1969,7 @@
                </person>
                <person xml:id="tillich_person_id__274">
                   <persName>Brauer, Jerald C.</persName>
-                  <occupation>Theologian and Divinity School Dean (Chicago), Tillich-Schüler</occupation>
+                  <occupation>Dekan der University of Chicago Divinity School</occupation>
                </person>
                <person xml:id="tillich_person_id__275">
                   <persName>Brauer, Jerald</persName>
@@ -1995,14 +1982,14 @@
                </person>
                <person xml:id="tillich_person_id__278">
                   <persName>Braune, Walther</persName>
-                  <occupation>Schüler von Paul Tillich, hat von 1948-1960 das Institut für Religionswissenschaft an der FU Berlin geleitet</occupation>
                </person>
                <person xml:id="tillich_person_id__279">
                   <persName>Braune, Wilhelm</persName>
+                  <occupation>Deutscher Orientalist</occupation>
                </person>
                <person xml:id="tillich_person_id__280">
                   <persName>Brecht, Arnold</persName>
-                  <occupation>Deutsch-amerikanischer Jurist und Politikwissenschaftler; Spitzenbeamter, welcher überzeugt für Weimarer Republik eintrat</occupation>
+                  <occupation>Deutsch-amerikanischer Jurist und Politikwissenschaftler</occupation>
                </person>
                <person xml:id="tillich_person_id__281">
                   <persName>Brecht, Bertold</persName>
@@ -2030,7 +2017,6 @@
                </person>
                <person xml:id="tillich_person_id__289">
                   <persName>Brill, Hans Klaus</persName>
-                  <occupation>Promotion zum Dr. iur., war in Paris Sekretär der Französischen Zweigstelle des Instituts für Sozialforschung</occupation>
                   <note type="bio">
                      <p>1936 kam es zum Eklat zwischen Walter  Benjamin und B., nachdem letzterer in Vorbereitung der französischen Edition von Benjamins Arbeit über Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit ohne das Wissen des Verfassers Streichungen vorgenommen hatte.</p>
                   </note>
@@ -2051,7 +2037,7 @@
                </person>
                <person xml:id="tillich_person_id__294">
                   <persName>Bruckberger, Raymond Léopold</persName>
-                  <occupation>Dominikaner, Schriftsteller, Übersetzer</occupation>
+                  <occupation>Schriftsteller und Übersetzer</occupation>
                </person>
                <person xml:id="tillich_person_id__295">
                   <persName>Brueghel, Pieter (der Ältere)</persName>
@@ -2066,18 +2052,17 @@
                </person>
                <person xml:id="tillich_person_id__297">
                   <persName>Brundage, Myron Reed "Slim"</persName>
-                  <occupation>Begründer des College of Complexes in Chicago</occupation>
                </person>
                <person xml:id="tillich_person_id__298">
                   <persName>Brüning, Heinrich</persName>
-                  <occupation>Deutscher Politiker (Zentrumspartei), von 1930-32 Reichskanzler</occupation>
+                  <occupation>Politiker der Zentrumspartei</occupation>
                </person>
                <person xml:id="tillich_person_id__299">
                   <persName>Brüning, Heinrich</persName>
                </person>
                <person xml:id="tillich_person_id__300">
                   <persName>Brunner, Emil</persName>
-                  <occupation>evangelischer Theologe</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <note type="bio">
                      <p>Der gebürtige Schweizer war nach dem Theologiestudium in Zürich und Berlin zunächst ab 1916 im Pfarramt tätig. Nach einem Aufbaustudium Religionspsychologie am Union Theological Seminary in New York habilitierte er sich 1921 schließlich in Zürich und wurde zunächst Privatdozent, bevor er ab 1924 Ordinarius für Systematische und Praktische Theologie in Zürich wurde und bis 1953 blieb. Um 1936 war er zusammen mit J. H.  Oldham und anderen maßgeblich an der Vorbereitung der Oxford Konferenz 1937 beteiligt. 1937-1938 war er Gastprofessor in Princeton, 1953-1955 lehrte er in Tokyo, insb. an der International Christian University.</p>
                   </note>
@@ -2131,7 +2116,7 @@
                         <placeName key="#tillich_place_id__370">Rostock</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe-NT, Studienfreund Tillichs, Professur Rostock</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138027277</idno>
                   <note type="bio">
                      <p>Friedrich Büchsel (2. Juli 1883 – 5. Mai 1945) war ein deutscher evangelischer Theologe. Er studierte Theologie in Tübingen und Halle, wurde promoviert und habilitierte sich 1911 in Halle. Nach Tätigkeiten als Dozent und Feldpfarrer im Ersten Weltkrieg erhielt er Professuren in Greifswald und Rostock. Büchsel war politisch nationalkonservativ orientiert und Mitglied entsprechender Organisationen. Er kam am Ende des Zweiten Weltkriegs infolge einer Verwundung ums Leben.</p>
@@ -2142,7 +2127,7 @@
                </person>
                <person xml:id="tillich_person_id__313">
                   <persName>Budzislawski, Hermann</persName>
-                  <occupation>Journalist, Exilzeitschrift: Die neue Weltbühne, in die USA emigriert und dort Mitbegründer des Council for a Democratic Germany</occupation>
+                  <occupation>Journalist</occupation>
                </person>
                <person xml:id="tillich_person_id__314">
                   <persName>Buerschaper, Hans</persName>
@@ -2158,7 +2143,7 @@
                </person>
                <person xml:id="tillich_person_id__318">
                   <persName>Buller, Amy</persName>
-                  <occupation>Cumberland Lodge (Alternative College), Autorin des Buches: "Darkness over Germany"</occupation>
+                  <occupation>Schriftstellerin</occupation>
                </person>
                <person xml:id="tillich_person_id__319">
                   <persName>Bullock, William Edward</persName>
@@ -2181,7 +2166,7 @@
                </person>
                <person xml:id="tillich_person_id__324">
                   <persName>Burckhardt, Theodor</persName>
-                  <occupation>Pfarrer, Wingolfbruder</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__325">
                   <persName>Burckhardt, Carl Jacob</persName>
@@ -2197,7 +2182,7 @@
                </person>
                <person xml:id="tillich_person_id__329">
                   <persName>Burger, Casparus Bernardus</persName>
-                  <occupation>Niederländischer Theologe, hat zu Tillich publiziert</occupation>
+                  <occupation>Niederländischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__330">
                   <persName>Burgess, Claire</persName>
@@ -2211,7 +2196,7 @@
                </person>
                <person xml:id="tillich_person_id__333">
                   <persName>Bürkler, Albrecht</persName>
-                  <occupation>Dr. Albrecht Bürkle, seit 1947 als Lektor und Redakteur im HOFFMANN UND CAMPE Verlag tätig, wird  ab 1953 Verlagsleiter</occupation>
+                  <occupation>Verlagslektor und Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__334">
                   <persName>Burks, R.M.</persName>
@@ -2231,7 +2216,6 @@
                </person>
                <person xml:id="tillich_person_id__338">
                   <persName>Burrington, Dale E.</persName>
-                  <occupation>Theologiestudent</occupation>
                </person>
                <person xml:id="tillich_person_id__339">
                   <persName>Burstin, Dorothy</persName>
@@ -25954,6 +25938,10 @@
                      </settlement>
                   </death>
                   <occupation>deutscher Bildhauer, Maler und Grafiker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5062">
+                  <persName>Herz, Emil</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11916986X</idno>
                </person>
             </listPerson>
          </div>
