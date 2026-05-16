@@ -3632,11 +3632,12 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q23436</idno>
                </place>
                <place xml:id="tillich_place_id__605">
-                  <placeName>Schweinfurth</placeName>
+                  <placeName>Schweinfurt</placeName>
                   <location type="coords">
-                     <geo>51.44714 13.39138</geo>
+                     <geo>50.04639 10.23250</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2834497/</idno>
+                  <idno type="geonames">https://sws.geonames.org/3220895/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4126</idno>
                </place>
                <place xml:id="tillich_place_id__606">
                   <placeName>Ammersee</placeName>
@@ -6765,6 +6766,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/5134086/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49218</idno>
+               </place>
+               <place xml:id="tillich_place_id__1529">
+                  <placeName>Aschbach</placeName>
+                  <location type="coords">
+                     <geo>50.03516 11.01345</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/11749535/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q722172</idno>
                </place>
             </listPlace>
          </div>

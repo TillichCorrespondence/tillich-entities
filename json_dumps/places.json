@@ -5227,13 +5227,13 @@
   "605": {
     "id": 605,
     "order": "600.00000000000000000000",
-    "name": "Schweinfurth",
+    "name": "Schweinfurt",
     "tillich_id": "tillich_place_id__605",
-    "geonames_url": "https://sws.geonames.org/2834497/",
+    "geonames_url": "https://sws.geonames.org/3220895/",
     "Working Notes": "",
-    "latitude": "51.44714",
-    "longitude": "13.39138",
-    "wikidata_url": ""
+    "latitude": "50.04639",
+    "longitude": "10.23250",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4126"
   },
   "606": {
     "id": 606,
@@ -10239,5 +10239,16 @@
     "latitude": "43.15478",
     "longitude": "-77.61556",
     "wikidata_url": "https://www.wikidata.org/wiki/Q49218"
+  },
+  "1529": {
+    "id": 1529,
+    "order": "1063.00000000000000000000",
+    "name": "Aschbach",
+    "tillich_id": "tillich_place_id__1529",
+    "geonames_url": "https://www.geonames.org/11749535/",
+    "Working Notes": "",
+    "latitude": "50.03516",
+    "longitude": "11.01345",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q722172"
   }
 }
