@@ -6775,6 +6775,22 @@
                   <idno type="geonames">https://sws.geonames.org/11749535/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q722172</idno>
                </place>
+               <place xml:id="tillich_place_id__1530">
+                  <placeName>Newton, Ma.</placeName>
+                  <location type="coords">
+                     <geo>42.33704 -71.20922</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4945283/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49196</idno>
+               </place>
+               <place xml:id="tillich_place_id__1531">
+                  <placeName>Büdingen</placeName>
+                  <location type="coords">
+                     <geo>50.29013 9.11140</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2942073/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q382481</idno>
+               </place>
             </listPlace>
          </div>
       </body>

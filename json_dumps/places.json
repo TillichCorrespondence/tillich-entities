@@ -10250,5 +10250,27 @@
     "latitude": "50.03516",
     "longitude": "11.01345",
     "wikidata_url": "https://www.wikidata.org/wiki/Q722172"
+  },
+  "1530": {
+    "id": 1530,
+    "order": "1064.00000000000000000000",
+    "name": "Newton, Ma.",
+    "tillich_id": "tillich_place_id__1530",
+    "geonames_url": "https://www.geonames.org/4945283/",
+    "Working Notes": "",
+    "latitude": "42.33704",
+    "longitude": "-71.20922",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49196"
+  },
+  "1531": {
+    "id": 1531,
+    "order": "1065.00000000000000000000",
+    "name": "Büdingen",
+    "tillich_id": "tillich_place_id__1531",
+    "geonames_url": "https://www.geonames.org/2942073/",
+    "Working Notes": "",
+    "latitude": "50.29013",
+    "longitude": "9.11140",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q382481"
   }
 }

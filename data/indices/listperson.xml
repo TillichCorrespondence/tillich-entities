@@ -8196,15 +8196,27 @@
                <person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
                   <birth>
-                     <date>16.06.1893</date>
+                     <date>1893-06-17</date>
                   </birth>
+                  <death>
+                     <date>1986</date>
+                  </death>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Elisabeth Seeberger (16. Juni 1893 – unbekannt) war die Schwester des evangelischen Theologen und Religionsphilosophen Paul Tillich. Im Jahr 1917 heiratete sie Erhard Seeberger, der über viele Jahre als Pfarrer in Berlin-Tempelhof tätig war.</p>
+                     <p>Elisabeth Seeberger (17. Juni 1893 – 1986) war die Schwester des evangelischen Theologen und Religionsphilosophen Paul Tillich. Im Jahr 1917 heiratete sie Erhard Seeberger, der über viele Jahre als Pfarrer in Berlin-Tempelhof tätig war.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1763">
                   <persName>Seeberger, Erhard</persName>
+                  <birth>
+                     <date>1891-11-27</date>
+                     <settlement>
+                        <placeName>Aschbach b. Bamberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969</date>
+                  </death>
                   <occupation>Pfarrer in Berlin-Tempelhof</occupation>
                   <note type="bio">
                      <p>Ehemann von Tillichs Schwester Elisabeth.</p>
@@ -13328,7 +13340,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/117512990</idno>
                </person>
                <person xml:id="tillich_person_id__2256">
-                  <persName>Wichel , Käthe</persName>
+                  <persName>Wichel, Käthe</persName>
                </person>
                <person xml:id="tillich_person_id__2257">
                   <persName>Krause, Friederike</persName>
@@ -16574,7 +16586,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2580">
-                  <persName>Kehrler, ???</persName>
+                  <persName>Keßler, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2581">
                   <persName>Steinbach, Maximilian</persName>
@@ -17713,7 +17725,8 @@
                   <persName>Unbekannt</persName>
                </person>
                <person xml:id="tillich_person_id__2723">
-                  <persName>Fuchs, ???</persName>
+                  <persName>Fuchs, Heinrich</persName>
+                  <occupation>Schuhmacher und Schuhwarenhändler; Hauswirt Paul Tillichs während seines Studiums in Tübingen.</occupation>
                </person>
                <person xml:id="tillich_person_id__2724">
                   <persName>Grimms, ???</persName>
@@ -25971,6 +25984,32 @@
                   <persName>Bloom, Solomon Frank</persName>
                   <occupation>Historiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/173160662</idno>
+               </person>
+               <person xml:id="tillich_person_id__5066">
+                  <persName>Korsch, Hedda</persName>
+                  <occupation>Pädagogin, Hochschullehrerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116341335</idno>
+               </person>
+               <person xml:id="tillich_person_id__5067">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5068">
+                  <persName>Weaver, Richard Malcolm</persName>
+                  <occupation>Historiker, Anglist, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119164884</idno>
+               </person>
+               <person xml:id="tillich_person_id__5069">
+                  <persName>Burke, Edmund</persName>
+                  <occupation>Schriftsteller, Philosoph, Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118517708</idno>
+               </person>
+               <person xml:id="tillich_person_id__5070">
+                  <persName>Péguy, Charles Pierre</persName>
+                  <occupation>französischer Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118739824</idno>
+               </person>
+               <person xml:id="tillich_person_id__5071">
+                  <persName>Weckerling, ?</persName>
                </person>
             </listPerson>
          </div>
