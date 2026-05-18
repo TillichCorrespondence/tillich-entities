@@ -4660,7 +4660,21 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__944">
-                  <persName>Hunzinger, Walter</persName>
+                  <persName>Hunzinger, Walther</persName>
+                  <birth>
+                     <date>1905-02-16</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__370">Rostock</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1972-04-17</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__471">Wiesbaden</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/126545855</idno>
                </person>
                <person xml:id="tillich_person_id__945">
                   <persName>Hus, Jan</persName>
@@ -13164,7 +13178,7 @@
                <person xml:id="tillich_person_id__2238">
                   <persName>Dürselen, Amalia Gertrud Mathilde</persName>
                   <note type="bio">
-                     <p>Sie war eine Großmutter von Paul Tillich.</p>
+                     <p>Großmutter von Paul Tillichs mütterlicherseits.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2239">
@@ -17587,9 +17601,6 @@
                </person>
                <person xml:id="tillich_person_id__2703">
                   <persName>Schmidt, Eugenie</persName>
-               </person>
-               <person xml:id="tillich_person_id__2704">
-                  <persName>Martin, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2706">
                   <persName>Thomas, Friedrich Wilhelm</persName>
@@ -26010,6 +26021,54 @@
                </person>
                <person xml:id="tillich_person_id__5071">
                   <persName>Weckerling, ?</persName>
+               </person>
+               <person xml:id="tillich_person_id__5072">
+                  <persName>Sanders, Helmut</persName>
+               </person>
+               <person xml:id="tillich_person_id__5073">
+                  <persName>Finkelstein, Louis</persName>
+                  <occupation>Rabbiner</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/124764320</idno>
+               </person>
+               <person xml:id="tillich_person_id__5074">
+                  <persName>Back, Maximilian</persName>
+               </person>
+               <person xml:id="tillich_person_id__5075">
+                  <persName>Aginski, Burt W.</persName>
+                  <occupation>Ethnologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/171957393</idno>
+               </person>
+               <person xml:id="tillich_person_id__5076">
+                  <persName>Aginski, Ethel G.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1055215093</idno>
+               </person>
+               <person xml:id="tillich_person_id__5077">
+                  <persName>Lynd, Robert Staughton</persName>
+                  <occupation>Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123656354</idno>
+               </person>
+               <person xml:id="tillich_person_id__5078">
+                  <persName>Lazarsfeld, Paul Felix</persName>
+                  <occupation>Soziologe, Mathematiklehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118726862</idno>
+               </person>
+               <person xml:id="tillich_person_id__5079">
+                  <persName>Simmel, Mrs.</persName>
+               </person>
+               <person xml:id="tillich_person_id__5080">
+                  <persName>Kaplan, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__5081">
+                  <persName>Albrecht, ?</persName>
+               </person>
+               <person xml:id="tillich_person_id__5082">
+                  <persName>Ramelow (Familie)</persName>
+                  <note type="bio">
+                     <p>Familie von Elisabeth Dürselen (geb. Ramelow) in Berlin.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5083">
+                  <persName/>
                </person>
             </listPerson>
          </div>

@@ -6791,6 +6791,18 @@
                   <idno type="geonames">https://sws.geonames.org/2942073/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q382481</idno>
                </place>
+               <place xml:id="tillich_place_id__1532">
+                  <placeName>Düren</placeName>
+                  <location type="coords">
+                     <geo>50.80434 6.49299</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2934486/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1884</idno>
+               </place>
+               <place xml:id="tillich_place_id__1534">
+                  <placeName>Gut Merberich</placeName>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q117351582</idno>
+               </place>
             </listPlace>
          </div>
       </body>

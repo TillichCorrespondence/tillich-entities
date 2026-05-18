@@ -10272,5 +10272,38 @@
     "latitude": "50.29013",
     "longitude": "9.11140",
     "wikidata_url": "https://www.wikidata.org/wiki/Q382481"
+  },
+  "1532": {
+    "id": 1532,
+    "order": "1066.00000000000000000000",
+    "name": "Düren",
+    "tillich_id": "tillich_place_id__1532",
+    "geonames_url": "https://www.geonames.org/2934486/",
+    "Working Notes": "",
+    "latitude": "50.80434",
+    "longitude": "6.49299",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1884"
+  },
+  "1533": {
+    "id": 1533,
+    "order": "1067.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1533",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1534": {
+    "id": 1534,
+    "order": "1068.00000000000000000000",
+    "name": "Gut Merberich",
+    "tillich_id": "tillich_place_id__1534",
+    "geonames_url": "",
+    "Working Notes": "https://de.wikipedia.org/wiki/Gut_Merberich",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q117351582"
   }
 }
