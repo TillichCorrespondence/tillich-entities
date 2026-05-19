@@ -6803,6 +6803,22 @@
                   <placeName>Gut Merberich</placeName>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q117351582</idno>
                </place>
+               <place xml:id="tillich_place_id__1535">
+                  <placeName>Brocken</placeName>
+                  <location type="coords">
+                     <geo>51.79908 10.61565</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2943991/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q155721</idno>
+               </place>
+               <place xml:id="tillich_place_id__1537">
+                  <placeName>Jordansee (Gardno)</placeName>
+                  <location type="coords">
+                     <geo>53.96379 14.52729</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7534457/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1688781</idno>
+               </place>
             </listPlace>
          </div>
       </body>

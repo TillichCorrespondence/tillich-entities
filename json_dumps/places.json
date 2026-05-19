@@ -10305,5 +10305,38 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q117351582"
+  },
+  "1535": {
+    "id": 1535,
+    "order": "1069.00000000000000000000",
+    "name": "Brocken",
+    "tillich_id": "tillich_place_id__1535",
+    "geonames_url": "https://www.geonames.org/2943991/",
+    "Working Notes": "",
+    "latitude": "51.79908",
+    "longitude": "10.61565",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q155721"
+  },
+  "1536": {
+    "id": 1536,
+    "order": "1070.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1536",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1537": {
+    "id": 1537,
+    "order": "1071.00000000000000000000",
+    "name": "Jordansee (Gardno)",
+    "tillich_id": "tillich_place_id__1537",
+    "geonames_url": "https://www.geonames.org/7534457/",
+    "Working Notes": "geonames-Angabe nicht 100% (kein account vorhanden), Längen- und Breitengrad schon.",
+    "latitude": "53.96379",
+    "longitude": "14.52729",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1688781"
   }
 }

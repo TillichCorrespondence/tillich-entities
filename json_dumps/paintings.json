@@ -78,7 +78,7 @@
     "id": 6,
     "order": "6.00000000000000000000",
     "title": "Unloading the Cargo",
-    "wikidata": "",
+    "wikidata": "Q3136978",
     "tillich_id": "tillich_painting_id__6",
     "painter": [
       {
@@ -87,7 +87,7 @@
         "order": "1343.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Monet_men_unloading_coal.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "7": {
     "id": 7,
@@ -102,7 +102,7 @@
         "order": "3764.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Vittore_Carpaccio_-_The_Miracle_of_the_Relic_of_the_Cross_at_the_Ponte_di_Rialto_-_Gallerie_dell%27Accademia_Venice.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "8": {
     "id": 8,
@@ -123,7 +123,7 @@
     "id": 9,
     "order": "9.00000000000000000000",
     "title": "Loose Living",
-    "wikidata": "",
+    "wikidata": "Q205863",
     "tillich_id": "tillich_painting_id__9",
     "painter": [
       {
@@ -132,7 +132,7 @@
         "order": "3078.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jan_Steen_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "10": {
     "id": 10,
@@ -264,7 +264,7 @@
     "id": 20,
     "order": "20.00000000000000000000",
     "title": "Lady Governors. Hospital for the Aged, Haarlem.--Detail",
-    "wikidata": "",
+    "wikidata": "Q167654",
     "tillich_id": "tillich_painting_id__20",
     "painter": [
       {
@@ -273,7 +273,7 @@
         "order": "3765.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Regentesses_of_the_Old_Men%E2%80%99s_Alms_House%2C_by_Frans_Hals.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "21": {
     "id": 21,
@@ -438,7 +438,7 @@
         "order": "3086.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://uploads3.wikiart.org/images/fernand-leger/the-breakfast-1921.jpg!Large.jpg"
   },
   "32": {
     "id": 32,
@@ -473,7 +473,7 @@
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "title": "Melancholy and Mstery of a Street",
+    "title": "Melancholy and Mystery of a Street",
     "wikidata": "",
     "tillich_id": "tillich_painting_id__34",
     "painter": [
@@ -483,7 +483,7 @@
         "order": "3088.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://uploads2.wikiart.org/images/giorgio-de-chirico/mystery-and-melancholy-of-a-street-1914.jpg!Large.jpg"
   },
   "35": {
     "id": 35,
@@ -513,13 +513,13 @@
         "order": "3088.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://uploads5.wikiart.org/images/giorgio-de-chirico/the-one-consolation-1958.jpg!Large.jpg"
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
     "title": "Family Group",
-    "wikidata": "",
+    "wikidata": "Q19758938/Q19758963",
     "tillich_id": "tillich_painting_id__37",
     "painter": [
       {
@@ -528,13 +528,13 @@
         "order": "3089.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Henry_Moore%2C_Family_Group_%281950%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
     "title": "Reclining Figure",
-    "wikidata": "",
+    "wikidata": "Q7302581/Q19759285",
     "tillich_id": "tillich_painting_id__38",
     "painter": [
       {
@@ -543,7 +543,7 @@
         "order": "3089.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Henry_Moore-Reclining_Figure-Tel_Aviv_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "39": {
     "id": 39,
@@ -594,7 +594,7 @@
     "id": 42,
     "order": "42.00000000000000000000",
     "title": "Madonna and Child",
-    "wikidata": "",
+    "wikidata": "Q17169",
     "tillich_id": "tillich_painting_id__42",
     "painter": [
       {
@@ -603,7 +603,7 @@
         "order": "3022.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bellini_%E2%80%94_Madonna_and_Child_1510.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "43": {
     "id": 43,
@@ -633,7 +633,7 @@
         "order": "1582.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Reni_-_The_Magdalen%2C_P000216.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "45": {
     "id": 45,
@@ -654,7 +654,7 @@
     "id": 46,
     "order": "46.00000000000000000000",
     "title": "Ecce Homo (The mocking of Christ)",
-    "wikidata": "",
+    "wikidata": "Q20275577",
     "tillich_id": "tillich_painting_id__46",
     "painter": [
       {
@@ -663,7 +663,7 @@
         "order": "3029.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jesus_Mocked_by_the_Soldiers.jpg"
   },
   "47": {
     "id": 47,
@@ -762,7 +762,7 @@
     "id": 56,
     "order": "56.00000000000000000000",
     "title": "Altarpiece of Temptation",
-    "wikidata": "",
+    "wikidata": "Q130531",
     "tillich_id": "tillich_painting_id__56",
     "painter": [
       {
@@ -771,7 +771,7 @@
         "order": "261.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Temptation_of_Saint_Anthony.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
   },
   "57": {
     "id": 57,
@@ -831,7 +831,7 @@
         "order": "1404.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://uploads2.wikiart.org/images/emil-nolde/the-last-supper-1909.jpg!Large.jpg"
   },
   "61": {
     "id": 61,
@@ -876,7 +876,7 @@
         "order": "3087.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://uploads3.wikiart.org/images/georges-rouault/crucifixion-1937.jpg!Large.jpg"
   },
   "64": {
     "id": 64,
@@ -906,7 +906,7 @@
         "order": "1495.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://uploads1.wikiart.org/images/pablo-picasso/crucifixion-1930.jpg!Large.jpg"
   },
   "66": {
     "id": 66,
@@ -921,7 +921,7 @@
         "order": "3093.00000000000000000000"
       }
     ],
-    "wikidata_image": ""
+    "wikidata_image": "https://uploads3.wikiart.org/00228/images/graham-sutherland/crucifixion-1946.jpg!Large.jpg"
   },
   "101": {
     "id": 101,

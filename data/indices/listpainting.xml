@@ -47,10 +47,13 @@
                <bibl xml:id="tillich_painting_id__6">
                   <title>Unloading the Cargo</title>
                   <author key="#tillich_person_id__1343">Monet, Claude</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3136978</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/e/e3/Monet_men_unloading_coal.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__7">
                   <title>Francesco Quirini, patriarch of Grado, exorcises a Demon</title>
                   <author key="#tillich_person_id__3907">Carpaccio, Francesco Quirini</author>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/4/4b/Vittore_Carpaccio_-_The_Miracle_of_the_Relic_of_the_Cross_at_the_Ponte_di_Rialto_-_Gallerie_dell%27Accademia_Venice.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__8">
                   <title>Tavern Brawl</title>
@@ -61,6 +64,8 @@
                <bibl xml:id="tillich_painting_id__9">
                   <title>Loose Living</title>
                   <author key="#tillich_person_id__3084">Steen, Jan</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q205863</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/f/f3/Jan_Steen_004.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__10">
                   <title>The Night Watch</title>
@@ -113,6 +118,8 @@
                <bibl xml:id="tillich_painting_id__20">
                   <title>Lady Governors. Hospital for the Aged, Haarlem.--Detail</title>
                   <author key="#tillich_person_id__3908">Hals, Frans</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q167654</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/a/a9/Regentesses_of_the_Old_Men%E2%80%99s_Alms_House%2C_by_Frans_Hals.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__21">
                   <title>La Bohémienne</title>
@@ -169,6 +176,7 @@
                <bibl xml:id="tillich_painting_id__31">
                   <title>Breakfast</title>
                   <author key="#tillich_person_id__3093">Léger, Fernand</author>
+                  <ref type="wikidata_image">https://uploads3.wikiart.org/images/fernand-leger/the-breakfast-1921.jpg!Large.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__32">
                   <title>Guernica</title>
@@ -181,8 +189,9 @@
                   <author key="#tillich_person_id__3094">Rouault, Georges</author>
                </bibl>
                <bibl xml:id="tillich_painting_id__34">
-                  <title>Melancholy and Mstery of a Street</title>
+                  <title>Melancholy and Mystery of a Street</title>
                   <author key="#tillich_person_id__3095">de Chirico, Giorgio</author>
+                  <ref type="wikidata_image">https://uploads2.wikiart.org/images/giorgio-de-chirico/mystery-and-melancholy-of-a-street-1914.jpg!Large.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__35">
                   <title>Heredity of Acquired Characteristics</title>
@@ -191,14 +200,19 @@
                <bibl xml:id="tillich_painting_id__36">
                   <title>The Consoler</title>
                   <author key="#tillich_person_id__3095">de Chirico, Giorgio</author>
+                  <ref type="wikidata_image">https://uploads5.wikiart.org/images/giorgio-de-chirico/the-one-consolation-1958.jpg!Large.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__37">
                   <title>Family Group</title>
                   <author key="#tillich_person_id__3096">Moore, Henry</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q19758938</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/2/25/Henry_Moore%2C_Family_Group_%281950%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__38">
                   <title>Reclining Figure</title>
                   <author key="#tillich_person_id__3096">Moore, Henry</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7302581</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/3/38/Henry_Moore-Reclining_Figure-Tel_Aviv_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__39">
                   <title>St. Francis and the Birds</title>
@@ -221,6 +235,8 @@
                <bibl xml:id="tillich_painting_id__42">
                   <title>Madonna and Child</title>
                   <author key="#tillich_person_id__3027">Giovanni Bellini</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q17169</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/a/a8/Bellini_%E2%80%94_Madonna_and_Child_1510.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__43">
                   <title>Madonna Colonna</title>
@@ -232,6 +248,7 @@
                   <title>The Magdalen</title>
                   <author key="#tillich_person_id__1582">Reni, Guido</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q112749873</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/c/cf/Reni_-_The_Magdalen%2C_P000216.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__45">
                   <title>The Christ with the Peasants</title>
@@ -242,6 +259,8 @@
                <bibl xml:id="tillich_painting_id__46">
                   <title>Ecce Homo (The mocking of Christ)</title>
                   <author key="#tillich_person_id__3034">Manet, Edouard</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q20275577</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/d/d4/Jesus_Mocked_by_the_Soldiers.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__47">
                   <title>Greek Sculpture: Apollo</title>
@@ -279,6 +298,8 @@
                <bibl xml:id="tillich_painting_id__56">
                   <title>Altarpiece of Temptation</title>
                   <author key="#tillich_person_id__261">Bosch, Hieronymus</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q130531</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/d/d9/Temptation_of_Saint_Anthony.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__57">
                   <title>Coronation of the Virgin</title>
@@ -301,6 +322,7 @@
                <bibl xml:id="tillich_painting_id__60">
                   <title>The Last Supper</title>
                   <author key="#tillich_person_id__1404">Nolde, Emil</author>
+                  <ref type="wikidata_image">https://uploads2.wikiart.org/images/emil-nolde/the-last-supper-1909.jpg!Large.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__61">
                   <title>Isenheim Altarpiece</title>
@@ -318,6 +340,7 @@
                   <title>Crucifixion</title>
                   <author key="#tillich_person_id__3094">Rouault, Georges</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q59540140</idno>
+                  <ref type="wikidata_image">https://uploads3.wikiart.org/images/georges-rouault/crucifixion-1937.jpg!Large.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__64">
                   <title>Head of Christ with Thorns</title>
@@ -327,10 +350,12 @@
                <bibl xml:id="tillich_painting_id__65">
                   <title>Crucifixion</title>
                   <author key="#tillich_person_id__1495">Picasso, Pablo</author>
+                  <ref type="wikidata_image">https://uploads1.wikiart.org/images/pablo-picasso/crucifixion-1930.jpg!Large.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__66">
                   <title>Crucifixion</title>
                   <author key="#tillich_person_id__3101">Sutherland, Graham Vivian</author>
+                  <ref type="wikidata_image">https://uploads3.wikiart.org/00228/images/graham-sutherland/crucifixion-1946.jpg!Large.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__101">
                   <title>Rockefeller Center</title>
