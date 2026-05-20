@@ -3304,6 +3304,7 @@
                </person>
                <person xml:id="tillich_person_id__612">
                   <persName>Frank, Franz Hermann Reinhold</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118702874</idno>
                </person>
                <person xml:id="tillich_person_id__613">
                   <persName>Frank, Semjon</persName>
@@ -26109,6 +26110,32 @@
                   <note type="bio">
                      <p>Ehefrau von Wilhelm von Preußen</p>
                   </note>
+               </person>
+               <person xml:id="tillich_person_id__5086">
+                  <persName>Fuchs, Louise</persName>
+                  <occupation>Hauswirtin Paul Tillichs während seines Studiums in Tübingen.</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5087">
+                  <persName>Freundlich-Stern, Elisabeth</persName>
+                  <occupation>österreichische Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119079518</idno>
+                  <note type="bio">
+                     <p>2. Ehefrau von Günther Anders (Stern) von 1945–1955</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5088">
+                  <persName>Krammer</persName>
+               </person>
+               <person xml:id="tillich_person_id__5089">
+                  <persName>Frank, ?</persName>
+               </person>
+               <person xml:id="tillich_person_id__5090">
+                  <persName>Günther, ?</persName>
+               </person>
+               <person xml:id="tillich_person_id__5091">
+                  <persName>Hoch, Paul H.</persName>
+                  <occupation>Psychiater</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/12223958X</idno>
                </person>
             </listPerson>
          </div>

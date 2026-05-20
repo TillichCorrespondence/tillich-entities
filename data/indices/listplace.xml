@@ -6819,6 +6819,22 @@
                   <idno type="geonames">https://sws.geonames.org/7534457/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1688781</idno>
                </place>
+               <place xml:id="tillich_place_id__1538">
+                  <placeName>Cherbourg</placeName>
+                  <location type="coords">
+                     <geo>49.63984 -1.61636</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3025466/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3667188</idno>
+               </place>
+               <place xml:id="tillich_place_id__1539">
+                  <placeName>Southampton</placeName>
+                  <location type="coords">
+                     <geo>50.90395 -1.40428</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2637487/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q79848</idno>
+               </place>
             </listPlace>
          </div>
       </body>

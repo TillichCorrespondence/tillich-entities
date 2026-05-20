@@ -10338,5 +10338,27 @@
     "latitude": "53.96379",
     "longitude": "14.52729",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1688781"
+  },
+  "1538": {
+    "id": 1538,
+    "order": "1072.00000000000000000000",
+    "name": "Cherbourg",
+    "tillich_id": "tillich_place_id__1538",
+    "geonames_url": "https://www.geonames.org/3025466/",
+    "Working Notes": "",
+    "latitude": "49.63984",
+    "longitude": "-1.61636",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3667188"
+  },
+  "1539": {
+    "id": 1539,
+    "order": "1073.00000000000000000000",
+    "name": "Southampton",
+    "tillich_id": "tillich_place_id__1539",
+    "geonames_url": "https://www.geonames.org/2637487/",
+    "Working Notes": "",
+    "latitude": "50.90395",
+    "longitude": "-1.40428",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q79848"
   }
 }
