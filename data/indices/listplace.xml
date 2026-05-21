@@ -6835,6 +6835,30 @@
                   <idno type="geonames">https://sws.geonames.org/2637487/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q79848</idno>
                </place>
+               <place xml:id="tillich_place_id__1540">
+                  <placeName>Brasilien</placeName>
+                  <location type="coords">
+                     <geo>-10.00000 -55.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3469034/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q155</idno>
+               </place>
+               <place xml:id="tillich_place_id__1541">
+                  <placeName>Wollin (Wolin)</placeName>
+                  <location type="coords">
+                     <geo>53.83180 14.59790</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7533540/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q148505</idno>
+               </place>
+               <place xml:id="tillich_place_id__1542">
+                  <placeName>Brescia</placeName>
+                  <location type="coords">
+                     <geo>45.53558 10.21472</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3181554/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6221</idno>
+               </place>
             </listPlace>
          </div>
       </body>

@@ -4056,9 +4056,12 @@
                <person xml:id="tillich_person_id__800">
                   <persName>Harder, Erich</persName>
                   <birth>
-                     <date>182-10-18</date>
+                     <date>1872-10-18</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
                   </birth>
-                  <occupation>Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__801">
                   <persName>Hardt, Ludwig</persName>
@@ -4832,6 +4835,7 @@
                </person>
                <person xml:id="tillich_person_id__985">
                   <persName>Johannes</persName>
+                  <occupation>Evangelist</occupation>
                </person>
                <person xml:id="tillich_person_id__986">
                   <persName>Johannes der Täufer</persName>
@@ -4959,7 +4963,6 @@
                </person>
                <person xml:id="tillich_person_id__1015">
                   <persName>Kain</persName>
-                  <occupation>Biblische Person</occupation>
                </person>
                <person xml:id="tillich_person_id__1016">
                   <persName>Kalthoff, Albert</persName>
@@ -4984,7 +4987,7 @@
                </person>
                <person xml:id="tillich_person_id__1021">
                   <persName>Kantorowicz, Ernst</persName>
-                  <occupation>Deutscher Historiker, Mediävist, George-Kreis</occupation>
+                  <occupation>Deutscher Historiker</occupation>
                </person>
                <person xml:id="tillich_person_id__1022">
                   <persName>Kantorowicz, Hermann Ulrich</persName>
@@ -5023,7 +5026,7 @@
                </person>
                <person xml:id="tillich_person_id__1030">
                   <persName>Kaskell, Joseph</persName>
-                  <occupation>Joseph Kaskell war Rechtsanwalt in Berlin und aktiv in der liberal-protestantischen Bewegung tätig. Er emigrierte in die USA, wo er als Anwalt arbeitete. Er arbeitete im Council for a Democratic Germany mit und war Sekretär des American Committee to Aid Survivors of German Resistance. Joseph Kaskell galt als ein Vertreter des liberalen Protestantismus in der US-Exilpolitik</occupation>
+                  <occupation>Rechtsanwalt</occupation>
                </person>
                <person xml:id="tillich_person_id__1031">
                   <persName>Kassner, Rudolf</persName>
@@ -5065,7 +5068,7 @@
                </person>
                <person xml:id="tillich_person_id__1040">
                   <persName>Kempner, Robert Max Wassilli</persName>
-                  <occupation>Jurist, Journalist</occupation>
+                  <occupation>Jurist und Journalist</occupation>
                </person>
                <person xml:id="tillich_person_id__1041">
                   <persName>Kendrick, John H.</persName>
@@ -5092,7 +5095,7 @@
                </person>
                <person xml:id="tillich_person_id__1046">
                   <persName>Kesten, Hermann</persName>
-                  <occupation>Schriftsteller einer der Hauptvertreter der literarischen „Neuen Sachlichkeit“ während der 1920er Jahre in Deutschland</occupation>
+                  <occupation>Deutscher Schriftsteller</occupation>
                </person>
                <person xml:id="tillich_person_id__1047">
                   <persName>Key, Ellen</persName>
@@ -5127,11 +5130,10 @@
                </person>
                <person xml:id="tillich_person_id__1055">
                   <persName>Kirbach, Hellmuth</persName>
-                  <occupation>Dr. phil., Oberschulrat in Bremen</occupation>
                </person>
                <person xml:id="tillich_person_id__1056">
                   <persName>Kirn, Paul</persName>
-                  <occupation>Dekan der Philosophischen Fakultät in Frankfurt a.M. (nach dem 2. WK)</occupation>
+                  <occupation>Deutscher Historiker</occupation>
                </person>
                <person xml:id="tillich_person_id__1057">
                   <persName>Kissinger, Henry</persName>
@@ -5153,15 +5155,13 @@
                         <placeName>Wohlau</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Pfarrer in Berlin-Lichtenrade</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1062">
                   <persName>Klein, Lisa</persName>
-                  <occupation>Schwester von Maria Klein (Rhine)</occupation>
                </person>
                <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
-                  <occupation>Mutter von Maria Klein (Rhine)</occupation>
                </person>
                <person xml:id="tillich_person_id__1064">
                   <persName>Klein, Jakob</persName>
@@ -5202,7 +5202,7 @@
                   <death>
                      <date>1968-04-21</date>
                   </death>
-                  <occupation>Sänger, Gesangslehrer, Dozent, Theaterkritiker, Schriftsteller, Librettist.</occupation>
+                  <occupation>Deutscher Schrifsteller</occupation>
                </person>
                <person xml:id="tillich_person_id__1071">
                   <persName>Knittermeyer, Heinrich</persName>
@@ -5277,7 +5277,7 @@
                </person>
                <person xml:id="tillich_person_id__1090">
                   <persName>Kraft, Julius</persName>
-                  <occupation>Soziologe</occupation>
+                  <occupation>Politikwissenschaftler</occupation>
                   <note type="bio">
                      <p>Studium der Rechtswissenschaften (Promotion 1922) sowie der Philosophie (Promotion 1924) in Göttingen und Wien. 1925-1928 war er Assistent Franz Oppenheimers in Frankfurt, wo er sich 1928 auch habilitierte und im Anschluss bis 1933 als Privatdozent lehrte. Nach seiner Emigration lehrte er als Privatdozent für Philosophie 1933-1939 in Utrecht, danach zweite Emigration in die USA, wo er 1939-1944 an der University of Rochester im Bundesstaat New York unterkam. In den Folgejahren war er Lecturer bzw. Gastprofessor an diversen New Yorker Hochschulen, bevor er 1947-1950 eine Professur am Washington and Jefferson College in Washington, Pennsylvania erhielt. K. kehrte anschließend nach Europa zurück, gab zunächst in London die Gesammelten Werke Leonard Nelsons heraus und war zuletzt 1957-1960 Ordinarius für Soziologie an der Universität Frankfurt/Main.</p>
                   </note>
@@ -5302,14 +5302,14 @@
                </person>
                <person xml:id="tillich_person_id__1097">
                   <persName>Kreyssig, Lothar</persName>
-                  <occupation>Richter und Gründer der Aktion Sühnezeichen und der Aktionsgemeinschaft Solidarische Welt</occupation>
+                  <occupation>Richter</occupation>
                </person>
                <person xml:id="tillich_person_id__1098">
                   <persName>Kritias</persName>
                </person>
                <person xml:id="tillich_person_id__1099">
                   <persName>Kroner, Richard</persName>
-                  <occupation>deutscher Philosoph</occupation>
+                  <occupation>Deutscher Philosoph</occupation>
                   <note type="bio">
                      <p>Richard Kroner (8. März 1884 – 2. November 1974) war ein in Breslau geborener deutscher Philosoph und Theologe, der der südwestdeutschen Schule des Neukantianismus nahestand. Mit seinem zweibändigen Hauptwerk Von Kant bis Hegel leistete er einen wesentlichen Beitrag zur Wiederentdeckung und Neubewertung des Deutschen Idealismus im 20. Jahrhundert. Nach der Emigration in die Vereinigten Staaten wirkte er als Vermittler zwischen kontinentaler und angelsächsischer Philosophie und zählt zu den bedeutenden Vertretern des Neuhegelianismus.</p>
                   </note>
@@ -5322,19 +5322,18 @@
                </person>
                <person xml:id="tillich_person_id__1102">
                   <persName>Krüger, Gerhard</persName>
-                  <occupation>Philosoph, Kulturwissenschaftler</occupation>
+                  <occupation>Philosoph und Kulturwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118724703</idno>
                </person>
                <person xml:id="tillich_person_id__1103">
                   <persName>Krüsmann, Rudolf</persName>
-                  <occupation>Ev. Akademie Westfalen, Arbeitskreis Bochum E.V.</occupation>
                </person>
                <person xml:id="tillich_person_id__1104">
                   <persName>Kuhlmann, Gerhardt</persName>
                </person>
                <person xml:id="tillich_person_id__1105">
                   <persName>Kuhn, Helmut</persName>
-                  <occupation>deutscher Philosoph</occupation>
+                  <occupation>Deutscher Philosoph</occupation>
                   <note type="bio">
                      <p>Helmut Kuhn (22. März 1899 – 2. Oktober 1991) war ein deutscher Philosoph, der nach seiner Emigration 1938 in den USA zu einem wichtigen Vermittler zwischen kontinentaler und amerikanischer Geisteswelt wurde. Nach Professuren in Chapel Hill und Atlanta kehrte er 1949 nach Deutschland zurück, wo er an den Universitäten Erlangen und München lehrte. Als Mitbegründer der Philosophischen Rundschau und Präsident der Allgemeinen Gesellschaft für Philosophie prägte er das philosophische Leben der Nachkriegszeit; sein Denken verband Freiheitsphilosophie, Kulturkritik und eine existentiell verstandene Anthropologie.</p>
                   </note>
@@ -5366,7 +5365,7 @@
                </person>
                <person xml:id="tillich_person_id__1112">
                   <persName>Kurtz, Johann Heinrich</persName>
-                  <occupation>deutsch-baltischer Kirchenhistoriker</occupation>
+                  <occupation>Deutsch-Baltischer Kirchenhistoriker</occupation>
                </person>
                <person xml:id="tillich_person_id__1113">
                   <persName>Kutter, Hermann</persName>
@@ -5379,7 +5378,6 @@
                </person>
                <person xml:id="tillich_person_id__1116">
                   <persName>Kyros II.</persName>
-                  <occupation>Perserkönig</occupation>
                </person>
                <person xml:id="tillich_person_id__1117">
                   <persName>L., Sam L.</persName>
@@ -5412,7 +5410,7 @@
                </person>
                <person xml:id="tillich_person_id__1126">
                   <persName>Landauer, Walter</persName>
-                  <occupation>1933-40 Geschäftsführer des Allert de Lange Verlags in Amsterdam</occupation>
+                  <occupation>Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1127">
                   <persName>Landauer, Gustav</persName>
@@ -5454,7 +5452,7 @@
                         <placeName>Stonsdorf</placeName>
                      </settlement>
                   </birth>
-                  <occupation>zuletzt Superintendent und Oberpfarrer in Nauen</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1134">
                   <persName>Lang, Andrew</persName>
@@ -5475,7 +5473,7 @@
                </person>
                <person xml:id="tillich_person_id__1138">
                   <persName>Langer, Otto Richard Emil</persName>
-                  <occupation>Kunstmaler</occupation>
+                  <occupation>Künstler</occupation>
                   <note type="bio">
                      <p>Vater von Anna Bradnum</p>
                   </note>
@@ -5526,15 +5524,14 @@
                </person>
                <person xml:id="tillich_person_id__1152">
                   <persName>Le Seur, Eduard</persName>
-                  <occupation>evangelischer Pfarrer, Deutsche Christen (Berlin)</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1153">
                   <persName>Leep, Hans Jürgen</persName>
-                  <occupation>Dirketor: "Der Bund" Wuppertal, "Gesellschaft zur geistigen Erneuerung", George-Kreis</occupation>
                </person>
                <person xml:id="tillich_person_id__1154">
                   <persName>Leese, Kurt</persName>
-                  <occupation>Pastor/Religionsphilosoph (Uni Hamburg)</occupation>
+                  <occupation>Deutscher Religionsphilosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116855266</idno>
                   <note type="bio">
                      <p>Kurt Leese (6. Juli 1887 – 6. Januar 1965) war ein deutscher Pastor und Religionsphilosoph. Er studierte Theologie und Philosophie in mehreren deutschen Universitäten, wurde 1912 promoviert und wirkte zunächst als Pastor, zuletzt in Hamburg. Neben seiner kirchlichen Tätigkeit habilitierte er sich 1928 und lehrte als Privatdozent in Hamburg. 1932 trat er aus inneren Glaubenskonflikten aus dem Pfarramt zurück, blieb jedoch wissenschaftlich tätig. Nach zwischenzeitlicher Einschränkung seiner Lehrtätigkeit während der NS-Zeit wirkte er nach 1945 wieder als Hochschullehrer und beschäftigte sich vor allem mit Religionsphilosophie und Idealismus.</p>
@@ -5546,7 +5543,7 @@
                </person>
                <person xml:id="tillich_person_id__1156">
                   <persName>Lehmann, Paul Louis</persName>
-                  <occupation>US-amerikanischer evangelischer Theologe</occupation>
+                  <occupation>Amerikanischer evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1157">
                   <persName>Lehmann, Eduard</persName>
@@ -5633,7 +5630,7 @@
                </person>
                <person xml:id="tillich_person_id__1177">
                   <persName>Liebermann, Max</persName>
-                  <occupation>Maler, herausragender Vertreter des Impressionismus in Deutschland, Vater von Käthe Riezler, Schwiegervater von Kurt Riezler</occupation>
+                  <occupation>Deutscher Maler</occupation>
                </person>
                <person xml:id="tillich_person_id__1178">
                   <persName>Liebert, Arthur</persName>
@@ -5658,7 +5655,7 @@
                         <placeName>Locarno</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe, Kirchenhistoriker, Hochschullehrer</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118572865</idno>
                </person>
                <person xml:id="tillich_person_id__1181">
@@ -5686,7 +5683,7 @@
                </person>
                <person xml:id="tillich_person_id__1186">
                   <persName>Lindt, Peter M.</persName>
-                  <occupation>Schriftsteller, Radiomacher</occupation>
+                  <occupation>Schriftsteller</occupation>
                </person>
                <person xml:id="tillich_person_id__1187">
                   <persName>Linné, Karl von</persName>
@@ -5708,7 +5705,7 @@
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>Philosoph; Psychologe</occupation>
+                  <occupation>Philosoph und Psychologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117057436</idno>
                </person>
                <person xml:id="tillich_person_id__1190">
@@ -5732,7 +5729,6 @@
                </person>
                <person xml:id="tillich_person_id__1194">
                   <persName>Loeb, Lotta</persName>
-                  <occupation>Case Departement des Emergency Committee</occupation>
                </person>
                <person xml:id="tillich_person_id__1195">
                   <persName>Loechler, Leon P.</persName>
@@ -5751,7 +5747,7 @@
                </person>
                <person xml:id="tillich_person_id__1200">
                   <persName>Loof, Hans</persName>
-                  <occupation>Theologe, bei K. Leese zum Symbolbegriff promoviert</occupation>
+                  <occupation>Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1201">
                   <persName>Loofs, Friedrich</persName>
@@ -5775,7 +5771,19 @@
                </person>
                <person xml:id="tillich_person_id__1205">
                   <persName>Lotz, Ernst</persName>
-                  <occupation>Pädagoge und Politiker (CDU) oder doch Literat, der 1914 im Krieg fiel??</occupation>
+                  <birth>
+                     <date>1887-01-27</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__470">Wien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1948-09-24</date>
+                     <settlement>
+                        <placeName>Bingen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pädagoge und Politiker (CDU)</occupation>
                   <note type="bio">
                      <p>Er gehörte zu den sieben nach dem Wartburgfest 1907 Ende Mai/ Anfang Juni 1907 aus Protest gegen die Verbindung ausgetretenen Mitgliedern des Erlanger Wingolfs.</p>
                   </note>
@@ -5836,7 +5844,7 @@
                </person>
                <person xml:id="tillich_person_id__1220">
                   <persName>Ludwig, Emil</persName>
-                  <occupation>Schriftsteller; Übersetzer; Auslandskorrespondent; Biograf; Jurist; Schriftsteller</occupation>
+                  <occupation>Schriftsteller und Übersetzer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118780778</idno>
                </person>
                <person xml:id="tillich_person_id__1221">
@@ -5844,7 +5852,6 @@
                </person>
                <person xml:id="tillich_person_id__1222">
                   <persName>Lukas</persName>
-                  <occupation>Evangelist</occupation>
                </person>
                <person xml:id="tillich_person_id__1223">
                   <persName>Lukian</persName>
@@ -5941,7 +5948,7 @@
                </person>
                <person xml:id="tillich_person_id__1239">
                   <persName>MacLeish, Archibald</persName>
-                  <occupation>ein amerikanischer Dichter und Politiker. Von 1939 bis 1944 war er zudem Leiter der Library of Congress</occupation>
+                  <occupation>Amerikanischer Dichter und Politiker.</occupation>
                </person>
                <person xml:id="tillich_person_id__1240">
                   <persName>Maimon, Salomon</persName>
@@ -6001,7 +6008,7 @@
                </person>
                <person xml:id="tillich_person_id__1255">
                   <persName>Mannheim, Karl</persName>
-                  <occupation>Ungarischer Soziologe, Gründungsfigur der Wissenssoziologie.</occupation>
+                  <occupation>Ungarischer Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118577190</idno>
                   <note type="bio">
                      <p>Mannheim, Karl (27.3.1893 Budapest – 9.1.1947 London) war Soziologe. 1930–1933 Professor in Frankfurt/M., emigrierte er nach der Machtübernahme der Nationalsozialisten nach London und lehrte an der London School of Economics. Er begründete die Wissenssoziologie, die Wissen als perspektivisch und gesellschaftlich gebunden versteht, und analysierte Denkstile als Ausdruck von Weltanschauungen, die an bestimmte Herrschafts- und Wirtschaftssysteme gebunden sind. Mit der dokumentarischen Methode deutete er kulturelle Phänomene als Ausdruck sozialer Wirklichkeit. Bedeutend wurden seine Studien zum konservativen Denken und zur Soziologie der Generationen.</p>
@@ -6039,11 +6046,11 @@
                </person>
                <person xml:id="tillich_person_id__1262">
                   <persName>Marck, Siegfried</persName>
-                  <occupation>Deutsch-jüdischer Philosoph und Vertreter einer liberalen Sozialdemokratie</occupation>
+                  <occupation>Deutsch-jüdischer Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__1263">
                   <persName>Marcuse, Herbert</persName>
-                  <occupation>deutsch-US-amerikanischer Philosoph, Politologe und Soziologe.</occupation>
+                  <occupation>Deutsch-US-amerikanischer Philosoph, Politologe und Soziologe</occupation>
                   <note type="bio">
                      <p>Marcuse, Herbert (19.7.1898 Berlin – 29.7.1979 Starnberg) war Philosoph. Nach Promotion 1922 und Studien bei Husserl und Heidegger arbeitete er 1932–1943 am Institut für Sozialforschung, emigrierte in die USA und war später Professor für Politikwissenschaft. Er verband marxistische Revolutionstheorie mit kritischer Theorie, Psychoanalyse, Surrealismus und zeitgenössischen Strömungen wie Feminismus. Zentral war seine Kritik des »technologischen Apriori«, das er durch ästhetische, moralische und erotische Transformation des Alltags zu überwinden suchte. In den 1960er Jahren wurde er zu einer Leitfigur der Studenten- und Bürgerrechtsbewegung.</p>
                   </note>
@@ -6059,11 +6066,9 @@
                </person>
                <person xml:id="tillich_person_id__1267">
                   <persName>Maria</persName>
-                  <occupation>Biblische Person</occupation>
                </person>
                <person xml:id="tillich_person_id__1268">
                   <persName>Maria Magdalena</persName>
-                  <occupation>Biblische Person</occupation>
                </person>
                <person xml:id="tillich_person_id__1269">
                   <persName>Markion</persName>
@@ -6073,7 +6078,6 @@
                </person>
                <person xml:id="tillich_person_id__1270">
                   <persName>Markus</persName>
-                  <occupation>Evangelist</occupation>
                </person>
                <person xml:id="tillich_person_id__1271">
                   <persName>Marquand, John P.</persName>
@@ -6089,7 +6093,7 @@
                </person>
                <person xml:id="tillich_person_id__1275">
                   <persName>Marx, Karl</persName>
-                  <occupation>Ökonom</occupation>
+                  <occupation>Deutscher Ökonom</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118578537</idno>
                   <note type="bio">
                      <p>Marx, Karl (5.5.1818 Trier – 14.3.1883 London) war ein deutscher Philosoph und Gesellschaftstheoretiker. Er stammte aus einer jüdischen, später evangelisch getauften Familie, studierte in Bonn und Berlin und promovierte 1841 in Jena. Nach journalistischer Tätigkeit in Köln lebte er ab 1843 im Exil, zunächst in Paris, wo er Friedrich Engels begegnete, mit dem er 1848 das Kommunistische Manifest veröffentlichte. Seit 1849 lebte er in London, wo er trotz Krankheit und Armut publizistisch arbeitete und von Engels finanziell unterstützt wurde. Marx entwickelte den historischen Materialismus, analysierte ökonomische Gesellschaftsformationen und prägte die Arbeiterbewegung nachhaltig. Seine Schriften machten ihn zum Haupttheoretiker des Sozialismus und zu einer Schlüsselfigur der Moderne.</p>
@@ -6100,7 +6104,6 @@
                </person>
                <person xml:id="tillich_person_id__1277">
                   <persName>Matthäus</persName>
-                  <occupation>Evangelist</occupation>
                </person>
                <person xml:id="tillich_person_id__1278">
                   <persName>Matthäus von Acquasparta</persName>
@@ -6187,7 +6190,7 @@
                </person>
                <person xml:id="tillich_person_id__1296">
                   <persName>Meinhold, Peter</persName>
-                  <occupation>Evangelischer Theologe (Kirchen- und Dogmengeschichte)</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <note type="bio">
                      <p>Studium der Theologie in Berlin und Bethel, 1934 wurde der Schüler Erich  Seebergs zum lic. theol. promoviert. 1935 hatte er eine Lehrstuhlvertretung in Heidelberg inne, seit 1936 lehrte er, zunächst außerordentlich, in Kiel. 1937 trat er in die NSDAP ein und erlebte den Zweiten Weltkrieg als Wehrmachtspfarrer. Nach dem Krieg war er 1947-1975 Ordinarius und zeitweise Dekan an der Universität Kiel, ab 1976 war er bis zu seinem Tod am Mainzer Institut für Europäische Geschichte beschäftigt.</p>
                   </note>
@@ -6212,21 +6215,21 @@
                </person>
                <person xml:id="tillich_person_id__1302">
                   <persName>Mellinger, Frederic</persName>
-                  <occupation>deutscher und amerikanischer Theaterregisseur und Theaterkritiker</occupation>
+                  <occupation>Deutscher Theaterregisseur und Schauspieler</occupation>
                </person>
                <person xml:id="tillich_person_id__1303">
                   <persName>Mendelssohn, Moses</persName>
                </person>
                <person xml:id="tillich_person_id__1304">
                   <persName>Mendelssohn, Georg</persName>
-                  <occupation>Kunsthandwerker</occupation>
+                  <occupation>Deutscher Kunsthandwerker</occupation>
                   <note type="bio">
                      <p>Geboren in Dorpat, lebte er seit 1896 in Jena. Studium der Geschichte in Jena und Kiel, danach für kurze Zeit Gründung einer Künstlerkolonie in Italien. Ab 1907 studierte er an der Münchener Debschitz-Schule, 1910 ging er nach Dresden in die Künstlerkolonie Hellerau. 1933 emigrierte M. nach Frankreich, wo er auch nach dem Krieg blieb.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1305">
                   <persName>Meng, Heinrich Otto</persName>
-                  <occupation>Psychoanalytiker</occupation>
+                  <occupation>Deutsch-schweizerischer Psychoanalytiker</occupation>
                   <note type="bio">
                      <p>Studium der Medizin, 1912 Promotion in Heidelberg. Im Ersten Weltkrieg Tätigkeit als Militärarzt, wo er Karl  Landauer kennenlernt und auf die Psychoanalyse aufmerksam wird. Nach dem Krieg studierte M. Psychoanalyse bei Freud und Federn in Wien und arbeitete bis 1933 im medizinischen, psychiatrischen und psychoanalytischen Bereich in Berlin, Stuttgart und schließlich in Frankfurt/Main, wo er unter anderem auch am Frankfurter Psychoanalytischen Institut (im Umfeld des Instituts für Sozialforschung) sowie als Dozent an der Universität arbeitete. 1929 heiratete er Mathilde Ameline Koehler (1892-1984), 1933 emigrierten sie nach Basel, wo M. bis zu seinem Tod eine Privatpraxis betrieb und nebenher diverse Lehraufträge an der Universität wahrnahm.</p>
                   </note>
@@ -6240,7 +6243,7 @@
                </person>
                <person xml:id="tillich_person_id__1307">
                   <persName>Mennicke, Carl August</persName>
-                  <occupation>deutscher Sozialpädagoge und religiöser Sozialist (Kairos-Kreis)</occupation>
+                  <occupation>Deutscher Sozialpädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119264250</idno>
                   <note type="bio">
                      <p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p>
@@ -6288,7 +6291,7 @@
                </person>
                <person xml:id="tillich_person_id__1319">
                   <persName>Metzger, Arnold</persName>
-                  <occupation>Philosoph</occupation>
+                  <occupation>Deutscher Philosoph</occupation>
                   <note type="bio">
                      <p>1910-1914 Studium der Philosophie, Nationalökonomie und Geschichte in Jena, wo er bei Rudolf Eucken promoviert wurde. Nach der freiwilligen Kriegsteilnahme arbeitete M. 1919 in der Reichszentrale für Heimatdienst, bevor er 1920-1924 Assistent Edmund Husserls in Freiburg wurde. 1935-1937 war er Dozent für Philosophie an der Berliner Lehranstalt für die Wissenschaft des Judentums, 1936 heiratete er in zweiter Ehe die verwitwete Ilse Levy, geb. Klausner (1900-1980 oder 1986). 1938 Emigration nach Paris, 1940 nach England ein Jahr später schließlich in die USA. 1946-1948 lehrte er als Dozent für Philosophie am Simmons College in Boston, in den Folgejahren Vortragstätigkeit in Harvard. Seit 1952 bis zu seinem Tod Honorarprofessor in München.</p>
                   </note>
@@ -6304,7 +6307,7 @@
                </person>
                <person xml:id="tillich_person_id__1323">
                   <persName>Meyer, Gerhard Emil Otto</persName>
-                  <occupation>Ökonom</occupation>
+                  <occupation>Deutscher Ökonom</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1017513562</idno>
                   <note type="bio">
                      <p>1921-1925 Studium der Nationalökonomie in Halle, Tübingen, Rostock und Kiel, 1925 Diplom-Volkswirt. Nach kurzer Lehrtätigkeit 1925 wurde M. Mitarbeiter Wassily Leontiefs am Institut für Weltwirtschaft in Kiel und dort 1930 von Adolf  Löwe promoviert. 1932 folgte er Löwe als Assistent an das Frankfurter Institut für Sozialforschung nach. 1933 Heirat mit Julia Feinberg (geb. 1908), die in Frankfurt studiert hatte und im späteren US-amerikanischen Exil an der University of Chicago Chemie lehren sollte. Zunächst jedoch gemeinsame Emigration nach Paris (1933) und bald darauf nach Manchester (1935). 1937 folgte die Emigration in die USA, wo M. bis zu seinem Tod an der University of Chicago lehrte (1937-1942 Instructor, 1942-1946 Assistant Professor,  1946-1965 Associate Professor, 1965-1973 Professor of Social Science).</p>
@@ -6312,7 +6315,6 @@
                </person>
                <person xml:id="tillich_person_id__1324">
                   <persName>Micha</persName>
-                  <occupation>Prophet</occupation>
                </person>
                <person xml:id="tillich_person_id__1325">
                   <persName>Michaelis, Johann David</persName>
@@ -6340,7 +6342,7 @@
                </person>
                <person xml:id="tillich_person_id__1332">
                   <persName>Misch, Carl</persName>
-                  <occupation>Deutsch-amerikanischer Journalist; Geschichtsprofessor für Europäische und Neuere Geschichte am Centre College in Danville (Kentucky)</occupation>
+                  <occupation>Deutsch-amerikanischer Journalist</occupation>
                </person>
                <person xml:id="tillich_person_id__1333">
                   <persName>Moberly, Walter</persName>
@@ -6357,7 +6359,6 @@
                </person>
                <person xml:id="tillich_person_id__1335">
                   <persName>Mohammed</persName>
-                  <occupation>Religionsstifter</occupation>
                </person>
                <person xml:id="tillich_person_id__1336">
                   <persName>Möhler, Johann Adam</persName>
@@ -6367,7 +6368,7 @@
                </person>
                <person xml:id="tillich_person_id__1338">
                   <persName>Moholy-Nagy, Sibyl</persName>
-                  <occupation>Architekturhistorikerin und -kritikerin</occupation>
+                  <occupation>Deutschamerikanische Dramaturg und Schauspielerin</occupation>
                   <note type="bio">
                      <p>durch erste Ehe (1929) mit Carl Dreyfus auch Sibylle Dreyfus. Die Tochter eines Dresdner Architekten lebte einige Jahre in Frankfurt/Main, bevor sie 1931 nach Berlin zog, um Drehbuchautorin zu werden. Im Rahmen ihrer Tätigkeit im Filmgeschäft lernte sie ihren künftigen Ehemann, den Bauhaus-Künstler László Moholy-Nagy kennen, den sie nach der gemeinsamen Emigration nach London im Jahr 1935 heiratete. 1937 gingen sie nach Chicago, wo László M.-N. Direktor am Institute of Design wurde und maßgeblich an der Verbreitung der Prinzipien des Bauhaus in den USA mitwirkte. 1946 starb er an den Folgen einer Leukämieerkrankung. Sibyl lehrte ebenfalls am Institute of Design sowie in der Folge Architekturgeschichte an diversen Hochschulen und Universitäten. 1960-69 war sie ordentliche Professorin am Pratt Institute in New York, seit 1970 lehrte sie bis zu ihrem Tod als Gastprofessorin an der Columbia University.</p>
                   </note>
@@ -6416,7 +6417,6 @@
                </person>
                <person xml:id="tillich_person_id__1352">
                   <persName>Moses</persName>
-                  <occupation>Biblische Person</occupation>
                </person>
                <person xml:id="tillich_person_id__1353">
                   <persName>Mosheim, Johann Lorenz von</persName>
@@ -6442,7 +6442,7 @@
                </person>
                <person xml:id="tillich_person_id__1359">
                   <persName>Müller, Gotthold</persName>
-                  <occupation>Württembergischer Theologe, Pfarrer in Schopfheim (Brief an PTs Schüler Jerald C. Brauer (Chicago)) </occupation>
+                  <occupation>Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1360">
                   <persName>Müller, Alfred Dedo</persName>
@@ -6461,7 +6461,7 @@
                   <death>
                      <date>1949-01-04</date>
                   </death>
-                  <occupation>Evangelischer Theologe, Mitarbeiter im Schloss Elmau</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1364">
                   <persName>Müller, Julius</persName>
@@ -6477,11 +6477,11 @@
                   <death>
                      <date>1900-10-28</date>
                   </death>
-                  <occupation>Sprach- und Religionswissenschaftler</occupation>
+                  <occupation>Deutscher Sprach- und Religionswissenschaftler</occupation>
                </person>
                <person xml:id="tillich_person_id__1367">
                   <persName>Müller-Gangloff, Erich</persName>
-                  <occupation>Deutscher Publizist und Direktor der Evangelischen Akademie Berlin</occupation>
+                  <occupation>Deutscher Publizist</occupation>
                </person>
                <person xml:id="tillich_person_id__1368">
                   <persName>Munch, Edvard</persName>
@@ -6546,7 +6546,6 @@
                </person>
                <person xml:id="tillich_person_id__1385">
                   <persName>Nichols, Roger B.</persName>
-                  <occupation>Trinity Episcopal Church</occupation>
                </person>
                <person xml:id="tillich_person_id__1386">
                   <persName>Nicolai, Friedrich</persName>
@@ -6569,14 +6568,14 @@
                </person>
                <person xml:id="tillich_person_id__1391">
                   <persName>Niebuhr, Ursula M.</persName>
-                  <occupation>Theologin</occupation>
+                  <occupation>Amerikanische Theologin</occupation>
                   <note type="bio">
                      <p>Studium in Oxford und am Union Theological Seminary in New York, wo sie ihren künftigen Ehemann Reinhold  Niebuhr kennenlernte. Die beiden heirateten 1931, die Engländerin N. zog zu ihrem Mann nach New York. In den 1940er Jahren gründete sie das Department of Religion am Bernard College, New York, dessen Leiterin sie in der Folge zwanzig Jahre lang blieb. Ihre Schwester war Barbara Keppel-Compton (1902-1999).</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1392">
                   <persName>Niemöller, Martin</persName>
-                  <occupation>Deutscher evangelischer Theologe und führender Vertreter der Bekennenden Kirche sowie Präsident im Ökumenischen Rat der Kirchen</occupation>
+                  <occupation>Deutscher evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1393">
                   <persName>Niethammer, Immanuel</persName>
@@ -6605,14 +6604,12 @@
                </person>
                <person xml:id="tillich_person_id__1400">
                   <persName>Noack, Hermann</persName>
-                  <occupation>Kunstgießerdynastie</occupation>
                </person>
                <person xml:id="tillich_person_id__1401">
                   <persName>Noack, Ulrich</persName>
                </person>
                <person xml:id="tillich_person_id__1402">
                   <persName>Noah</persName>
-                  <occupation>Biblische Person</occupation>
                </person>
                <person xml:id="tillich_person_id__1403">
                   <persName>Nohl, Herman</persName>
@@ -6631,7 +6628,7 @@
                </person>
                <person xml:id="tillich_person_id__1407">
                   <persName>Hardenberg (Novalis), Friedrich von</persName>
-                  <occupation>Schriftsteller, Philosoph</occupation>
+                  <occupation>Deutscher Schriftsteller und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118588893</idno>
                </person>
                <person xml:id="tillich_person_id__1408">
@@ -6642,11 +6639,9 @@
                </person>
                <person xml:id="tillich_person_id__1410">
                   <persName>Obadja</persName>
-                  <occupation>Biblische Person</occupation>
                </person>
                <person xml:id="tillich_person_id__1411">
                   <persName>Odgers, Merle Middleton</persName>
-                  <occupation>Präsident der Bucknell University von 1954-1964</occupation>
                </person>
                <person xml:id="tillich_person_id__1412">
                   <persName>Ödipus</persName>
@@ -6681,7 +6676,7 @@
                </person>
                <person xml:id="tillich_person_id__1420">
                   <persName>Oldham, Joseph Houldsworth</persName>
-                  <occupation>schottischer Missionar und Ökumeniker</occupation>
+                  <occupation>Schottischer Missionar und Ökumeniker</occupation>
                   <note type="bio">
                      <p>O. verbrachte die ersten Jahre seines Lebens als Kind schottischer Eltern in Indien. Nach einem Studium in Oxford ging er zunächst zurück nach Indien. Er war einer der Organisatoren der Weltmissionskonferenz 1910 und engagierte sich insbesondere im ökumenischen Dialog. Die Vorbereitungen der von ihm organisierten Oxford Konferenz ‚Church, Community and State‘ im Jahr 1937 waren maßgeblicher Grund für Tillichs Europareise. In den Folgejahren war er eine zentrale Figur im Moot-Diskussionskreis, u.a. zusammen mit William Temple, T.S. Eliot und John  Baillie. Bei der Gründung des Ökumenischen Rats der Kirchen im Jahr 1948 wurde O. zum Ehrenpräsidenten ernannt. Er war mit Mary (1875-1965), geb. Fraser verheiratet.</p>
                   </note>
@@ -6759,7 +6754,7 @@
                </person>
                <person xml:id="tillich_person_id__1437">
                   <persName>Otto, Walter F.</persName>
-                  <occupation>deutscher Altphilologe, der besonders für seine Arbeiten über Bedeutung und Nachwirkung der griechischen Religion und Mythologie bekannt ist</occupation>
+                  <occupation>Deutscher Altphilologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1438">
                   <persName>Otto, Rudolf</persName>
@@ -6772,7 +6767,7 @@
                   <death>
                      <date>1937-03-07</date>
                   </death>
-                  <occupation>Evangelischer Theologe, Religionswissenschaftler, Politiker</occupation>
+                  <occupation>Evangelischer Theologe, Religionswissenschaftler und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
                   <note type="bio">
                      <p>Otto, Rudolf (25.9.1869 Peine – 6.3.1937 Marburg) war evangelischer Theologe und Religionswissenschaftler. Nach Studien in Erlangen und Göttingen wurde er 1898 promoviert und habilitierte sich für systematische Theologie, Religionsgeschichte und Religionsphilosophie. Er lehrte in Göttingen, Breslau und ab 1917 in Marburg, bereiste Nordafrika und Asien und engagierte sich politisch im Nationalsozialen Verein sowie im preußischen Landtag. Sein Hauptwerk Das Heilige (1917) prägte den Begriff des Numinosen als Grundkategorie religiöser Erfahrung. Otto betonte Religion als eigenständige Dimension des Geistes und suchte den Dialog mit östlicher Mystik. 1929 ging er aus gesundheitlichen Gründen in den Ruhestand und starb 1937.</p>
@@ -6786,11 +6781,9 @@
                </person>
                <person xml:id="tillich_person_id__1441">
                   <persName>Owen, Jane Bluffer</persName>
-                  <occupation>Sponsoren des Tillich Grabs in New Harmony</occupation>
                </person>
                <person xml:id="tillich_person_id__1442">
                   <persName>Owen, Kenneth Dale</persName>
-                  <occupation>Sponsoren des Tillich Grabs in New Harmony</occupation>
                </person>
                <person xml:id="tillich_person_id__1443">
                   <persName>Owen, Robert</persName>
@@ -6800,18 +6793,17 @@
                </person>
                <person xml:id="tillich_person_id__1445">
                   <persName>Oxenius, Hans Götz</persName>
-                  <occupation>Redakteur WDR-Rundfunk, Leiter des Kirchenfunk</occupation>
+                  <occupation>Deutscher Redakteur</occupation>
                </person>
                <person xml:id="tillich_person_id__1446">
                   <persName>Pachali, Walther</persName>
                </person>
                <person xml:id="tillich_person_id__1447">
                   <persName>Paetel, Karl Otto</persName>
-                  <occupation>Deutscher Journalist und Publizist. Er war ein wichtiger Vertreter des Nationalbolschewismus</occupation>
+                  <occupation>Deutscher Journalist und Publizist</occupation>
                </person>
                <person xml:id="tillich_person_id__1448">
                   <persName>Page, Marjorie L.</persName>
-                  <occupation>Advertising Department, Chicago University Press </occupation>
                </person>
                <person xml:id="tillich_person_id__1449">
                   <persName>Pajon, Claude</persName>
@@ -6830,7 +6822,7 @@
                </person>
                <person xml:id="tillich_person_id__1454">
                   <persName>Paquet, Alfons</persName>
-                  <occupation>deutscher Journalist und Schriftsteller</occupation>
+                  <occupation>Deutscher Journalist und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118591673</idno>
                </person>
                <person xml:id="tillich_person_id__1455">
@@ -6856,11 +6848,11 @@
                </person>
                <person xml:id="tillich_person_id__1460">
                   <persName>Passarge, Walter</persName>
-                  <occupation>deutscher Kunsthistoriker</occupation>
+                  <occupation>Deutscher Kunsthistoriker</occupation>
                </person>
                <person xml:id="tillich_person_id__1461">
                   <persName>Paterson, William P.</persName>
-                  <occupation>Schottischer Theologe (Systematische Theologie)</occupation>
+                  <occupation>Schottischer Theologe</occupation>
                   <note type="bio">
                      <p>Studium an der Universität Edinburgh (Abschlüsse 1880 und 1883), anschließend zwei Jahre lang (1883-1885) Aufbaustudien in Leipzig, Erlangen und Berlin. Nach einigen Jahren Pfarrtätigkeit in Schottland und für kurze Zeit auch in London wurde P. 1894 Professor für Systematische Theologie zunächst an der Universität Aberdeen, bevor er von 1904 bis zu seiner Pensionierung 1934 an der Universität Edinburgh lehrte, wo er von 1912 bis 1928 auch als Dekan der Fakultät fungierte.</p>
                   </note>
@@ -6876,7 +6868,6 @@
                </person>
                <person xml:id="tillich_person_id__1465">
                   <persName>Paul, Samuel H.</persName>
-                  <occupation>Auf Brief: Mrs. Samuel H. Paul</occupation>
                </person>
                <person xml:id="tillich_person_id__1466">
                   <persName>Paul von Samosata</persName>
@@ -6886,7 +6877,6 @@
                </person>
                <person xml:id="tillich_person_id__1468">
                   <persName>Paulus</persName>
-                  <occupation>Apostel</occupation>
                   <note type="bio">
                      <p>Paulus von Tarsus (um 10 Tarsus – nach 60 vermutlich Rom) war der bedeutendste Missionar des Urchristentums und einer der ersten christlichen Theologen. Er stammte aus einer jüdisch-pharisäischen Tradition, besaß römisches Bürgerrecht und trat nach einer Bekehrung vom Christenverfolger zum Apostel für die Heidenvölker auf. Paulus bereiste den Mittelmeerraum, gründete Gemeinden und hielt über seine Briefe Kontakt, die als älteste Schriften des Neuen Testaments überliefert sind. Seine Theologie stellte Kreuzigung und Auferstehung Jesu Christi in den Mittelpunkt und begründete darin die Rechtfertigung des Menschen aus Gnade. Seine Lehre prägte die christliche Theologie und wirkte tief in die europäische Geistesgeschichte hinein.</p>
                   </note>
@@ -6896,7 +6886,7 @@
                </person>
                <person xml:id="tillich_person_id__1470">
                   <persName>Peale, Norman Vincent</persName>
-                  <occupation>US-amerikanischer Pfarrer, Autor und Freimaurer</occupation>
+                  <occupation>US-amerikanischer Pfarrer und Autor</occupation>
                </person>
                <person xml:id="tillich_person_id__1471">
                   <persName>Pechel, Rudolf</persName>
@@ -6968,11 +6958,11 @@
                </person>
                <person xml:id="tillich_person_id__1491">
                   <persName>Philipp, Werner</persName>
-                  <occupation>Deutscher Historiker (FU Berlin)</occupation>
+                  <occupation>Deutscher Historiker</occupation>
                </person>
                <person xml:id="tillich_person_id__1492">
                   <persName>Philipp, Julius Johann</persName>
-                  <occupation>Schriftsteller</occupation>
+                  <occupation>Deutscher Journalist, Theaterkritiker und Romanschriftsteller</occupation>
                </person>
                <person xml:id="tillich_person_id__1493">
                   <persName>Philolaos</persName>
@@ -7000,36 +6990,35 @@
                </person>
                <person xml:id="tillich_person_id__1498">
                   <persName>Pincus, Lily</persName>
-                  <occupation>Sozialtherapeutin und Schriftstellerin, Mitbesitzerin des "Hauses auf dem Küssel" bei Potsdam</occupation>
+                  <occupation>Britische Sozialarbeiterin und Autorin</occupation>
                   <note type="bio">
                      <p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1499">
                   <persName>Pincus, Fritz</persName>
-                  <occupation>Mitbesitzer Haus auf dem Küssel</occupation>
                </person>
                <person xml:id="tillich_person_id__1500">
                   <persName>Pindar</persName>
                </person>
                <person xml:id="tillich_person_id__1501">
                   <persName>Pinthus, Kurt</persName>
-                  <occupation>deutscher Schriftsteller und Journalist</occupation>
+                  <occupation>Deutscher Schriftsteller und Journalist</occupation>
                </person>
                <person xml:id="tillich_person_id__1502">
                   <persName>Piper, Otto</persName>
-                  <occupation>Deutsch-amerikanischer evangelischer Theologe (Neues Testament und Systematische Theologie)</occupation>
+                  <occupation>Deutsch-amerikanischer evangelischer Theologe</occupation>
                   <note type="bio">
                      <p>Studium der Theologie in Jena, Marburg und Paris, 1914 erstes theologisches Examen, nach dem freiwilligen Kriegsdienst folgte 1918 das zweite. 1920 wurde er in Göttingen bei Carl Stange zum lic. theol. promoviert und habilitierte sich im Fach Systematische Theologie. 1930 wurde er Nachfolger Karl  Barths an der Universität Münster. P. war zunächst ab 1919 Mitglied der USPD, seit 1922 der SPD. 1933 wurde er aus dem Universitätsdienst entlassen und emigrierte zunächst nach England, wo er an der Universität von Wales lehrte, und schließlich 1937 in die USA, wo er in Princeton lehrte und 1941-1962 auch eine ordentliche Professur (Neues Testament und Systematische Theologie) innehatte. Seine Frau war Elisabeth Piper (1897-1948), geb. Salinger.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1503">
                   <persName>Piscator, Erwin</persName>
-                  <occupation>Regisseur, Theaterleiter</occupation>
+                  <occupation>Deutscher Theaterregisseur</occupation>
                </person>
                <person xml:id="tillich_person_id__1504">
                   <persName>Pitcher, Alvin</persName>
-                  <occupation>professor, minister, community and social justice activist</occupation>
+                  <occupation>Außerordentlicher Professor für Ethik und Gesellschaft an der Divinity School der University of Chicago</occupation>
                </person>
                <person xml:id="tillich_person_id__1505">
                   <persName>Pius II.</persName>
@@ -7088,7 +7077,7 @@
                </person>
                <person xml:id="tillich_person_id__1519">
                   <persName>Pol, Heinz</persName>
-                  <occupation>Journalist; Schriftsteller; Filmkritiker</occupation>
+                  <occupation>Journalist, Schriftsteller und Filmkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/101223749</idno>
                </person>
                <person xml:id="tillich_person_id__1520">
@@ -7096,7 +7085,7 @@
                </person>
                <person xml:id="tillich_person_id__1521">
                   <persName>Pollock, Friedrich</persName>
-                  <occupation>Soziologe, Ökonom</occupation>
+                  <occupation>Deutscher Soziologe und Ökonom</occupation>
                   <note type="bio">
                      <p>Bereits als Jugendlicher lernte er Max  Horkheimer kennen, mit dem gemeinsam er zeitlebens in Arbeitsteilung und engster Freundschaft zusammenlebte. Ab 1919 Studium der Nationalökonomie und nebenher Philosophie in München, Freiburg und Frankfurt/Main, 1923 Promotion. P. war von Beginn an am Frankfurter Institut für Sozialforschung beschäftigt, hauptsächlich im administrativen Bereich. 1933 Emigration, zunächst nach Genf, 1934 weiter in die USA, wo das übersiedelte Institut in New York in den Räumen der Columbia Universität unterkam. P. war in den Folgejahren weiterhin für die Finanzen und Administration des Instituts zuständig. 1935 heiratete er die geschiedene gebürtige Französin Andrée Marx (1898-1939), geb. Woog, die er bereits seit Jugendtagen kannte. 1950 ging P. zurück nach Deutschland, 1959 zog er gemeinsam mit Horkheimer ins schweizerische Montagnola.</p>
                   </note>
@@ -7112,11 +7101,10 @@
                </person>
                <person xml:id="tillich_person_id__1525">
                   <persName>Porte, Blossom T.</persName>
-                  <occupation>The University of Chicago Press</occupation>
                </person>
                <person xml:id="tillich_person_id__1526">
                   <persName>Porteous, Norman</persName>
-                  <occupation>Schottischer Theologe (Altes Testament)</occupation>
+                  <occupation>Schottischer Theologe</occupation>
                   <note type="bio">
                      <p>Nachdem er 1922 an der Universität Edinburgh mit Auszeichnung graduiert hatte, ging P. zum weiteren Studium nach Oxford, Berlin, Tübingen und Münster. Im Alten Testament wie in Dogmatik und Philosophie gleichermaßen ausgewiesen, erhielt er 1935 eine Professur im Fach Altes Testament und Hebräisch an der Universität Edinburgh, die er bis zu seiner Pensionierung 1968 innehatte. </p>
                   </note>
@@ -7172,7 +7160,7 @@
                </person>
                <person xml:id="tillich_person_id__1542">
                   <persName>Pusey, Nathan M.</persName>
-                  <occupation>Pädagoge, zwischen 1953 und 1971 Präsident der Harvard University</occupation>
+                  <occupation>Amerikanischer Pädagoge</occupation>
                </person>
                <person xml:id="tillich_person_id__1543">
                   <persName>Pyrron</persName>
@@ -7231,7 +7219,7 @@
                </person>
                <person xml:id="tillich_person_id__1554">
                   <persName>Rammelmeyer, Alfred</persName>
-                  <occupation>Dekan der Philosophischen Fakultät in Frankfurt a.M. (1961/62)</occupation>
+                  <occupation>Deutscher Slawist</occupation>
                </person>
                <person xml:id="tillich_person_id__1555">
                   <persName>Ramus, Petrus</persName>
@@ -7261,7 +7249,7 @@
                </person>
                <person xml:id="tillich_person_id__1561">
                   <persName>Rathenau, Gerhart Wolfgang</persName>
-                  <occupation>Physiker</occupation>
+                  <occupation>Deutsch-niederländischer Physiker</occupation>
                   <note type="bio">
                      <p>R. war ein Neffe Walter Rathenaus und lebte seit 1933 in den Niederlanden, wo er zunächst an der Universität Groningen als Gastwissenschaftler arbeitete. Seit 1938 Arbeit für Philips. 1953 wurde er Professor für Experimentalphysik in Amsterdam.</p>
                   </note>
@@ -7277,7 +7265,7 @@
                         <placeName>Mönkeberg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Sozialistischer Politiker um Tillich, Leese und Eduard Heimann</occupation>
+                  <occupation>Sozialistischer Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118749196</idno>
                </person>
                <person xml:id="tillich_person_id__1563">
@@ -7285,11 +7273,10 @@
                </person>
                <person xml:id="tillich_person_id__1564">
                   <persName>Ratschow, Carl Heinz</persName>
-                  <occupation>Deutscher lutherischer Theologe und Religionsphilosoph</occupation>
+                  <occupation>Deutscher Theologe und Religionsphilosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__1565">
                   <persName>Rau, Dr.</persName>
-                  <occupation>Kuratorium der Johann Wolfgang Goethe-Universität Frankfurt a.M.</occupation>
                </person>
                <person xml:id="tillich_person_id__1566">
                   <persName>Rauschenbusch, Walter</persName>
@@ -7299,7 +7286,7 @@
                </person>
                <person xml:id="tillich_person_id__1567">
                   <persName>Raven, Charles E.</persName>
-                  <occupation>anglikanischer Theologe und Schriftsteller</occupation>
+                  <occupation>Britischer Theologe und Schriftsteller</occupation>
                   <note type="bio">
                      <p>Charles Earle Raven (4. Juli 1885 – 8. Juli 1964) war ein britischer anglikanischer Theologe, Naturwissenschaftler und Pazifist. Als Regius Professor of Divinity in Cambridge verband er theologische Reflexion mit naturwissenschaftlichem Denken und vertrat eine pantheistisch geprägte Sicht der Schöpfung. Unter dem Eindruck des Ersten Weltkriegs wurde er zu einem führenden christlichen Pazifisten Großbritanniens und setzte sich früh für die Gleichberechtigung der Frauen im kirchlichen Amt ein.</p>
                   </note>
@@ -7313,7 +7300,6 @@
                </person>
                <person xml:id="tillich_person_id__1569">
                   <persName>Redlich, Fritz</persName>
-                  <occupation>Historiker, Ökonom (1892-1979), oder Mediziner (1910-2004)</occupation>
                </person>
                <person xml:id="tillich_person_id__1570">
                   <persName>Reichl, Otto</persName>
@@ -7407,11 +7393,11 @@
                </person>
                <person xml:id="tillich_person_id__1591">
                   <persName>Rhein, Christoph</persName>
-                  <occupation>Pfarrer in Berlin, Verfasser einer der ersten Dissertation zu „Paul Tillich – Philosoph und Theologe“, Eine Einführung in sein Denken, Evangelisches Verlagswerk, Stuttgart 1957.</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1592">
                   <persName>Rhein, Ernst</persName>
-                  <occupation>Vater von Christoph Rhein, Mitstudent von Tillich</occupation>
+                  <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1108562272</idno>
                </person>
                <person xml:id="tillich_person_id__1593">
@@ -7464,11 +7450,11 @@
                </person>
                <person xml:id="tillich_person_id__1601">
                   <persName>Richter, Liselotte</persName>
-                  <occupation>deutsche Philosophin und Theologin (Berlin)</occupation>
+                  <occupation>Deutsche Philosophin und Theologin</occupation>
                </person>
                <person xml:id="tillich_person_id__1602">
                   <persName>Richter, Werner</persName>
-                  <occupation>Germanist und Ministeriumsmitarbeiter</occupation>
+                  <occupation>Germanist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/132563894</idno>
                   <note type="bio">
                      <p>Werner Richter (5. Mai 1887 – 19. September 1960) war ein deutscher Germanist und Wissenschaftspolitiker. Er studierte Germanistik in Berlin, Marburg und Basel, habilitierte sich 1913 und wurde Professor in Greifswald. Ab 1920 wirkte er im Preußischen Kultusministerium und prägte maßgeblich die Hochschulreformen der Weimarer Republik, zugleich lehrte er in Berlin. 1933 wurde er aus politischen und rassistischen Gründen entlassen und emigrierte 1939 in die USA, wo er als Hochschullehrer tätig war. Nach 1945 kehrte er nach Deutschland zurück, wurde Professor in Bonn und engagierte sich im Wiederaufbau der Wissenschaft, unter anderem als Präsident des DAAD.</p>
@@ -7572,14 +7558,14 @@
                </person>
                <person xml:id="tillich_person_id__1624">
                   <persName>Roberts, David</persName>
-                  <occupation>Amerikanischer Theologe und Kollege von Tillich</occupation>
+                  <occupation>Amerikanischer Theologe</occupation>
                   <note type="bio">
                      <p>David Everett Roberts (1911–1955) war ein amerikanischer Philosoph, der sich mit Ethik und Religionsphilosophie befasste. Er lehrte in den Vereinigten Staaten und suchte in seinen Arbeiten nach einer Vermittlung zwischen christlicher Theologie und moderner Existenzphilosophie. Roberts gilt als Vertreter einer generationellen Übergangsfigur zwischen klassischem Idealismus und personalistischem Denken der Nachkriegszeit.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1625">
                   <persName>Robertson, D.B.</persName>
-                  <occupation>D. B. Robertson was a professor in the Department of Religion at Syracuse University (New York) from 1961 to 1981.</occupation>
+                  <occupation>Amerikanischer Theologe und Professor für Religionswissenschaft und Philosophie</occupation>
                </person>
                <person xml:id="tillich_person_id__1626">
                   <persName>Robinet, Jean-Baptiste-René</persName>
@@ -7595,11 +7581,10 @@
                </person>
                <person xml:id="tillich_person_id__1630">
                   <persName>Rode, Werner</persName>
-                  <occupation>Title: A conversation with Dr. Paul Tillich and Mr. Werner Rode, a graduate student of theology</occupation>
                </person>
                <person xml:id="tillich_person_id__1631">
                   <persName>Roethe, Gustav</persName>
-                  <occupation>Mediävist, Professor für deutsche Philologie in Göttingen und Berlin</occupation>
+                  <occupation>Deutscher germanistischer Mediävist</occupation>
                </person>
                <person xml:id="tillich_person_id__1632">
                   <persName>Roger von Marston</persName>
@@ -7624,7 +7609,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer in Berlin-Dahlem</occupation>
+                  <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1082240621</idno>
                   <note type="bio">
                      <p>Eberhard Röhricht (1. März 1888 – 10. August 1969) war ein deutscher evangelischer Pfarrer. Nach seiner Ordination 1919 wirkte er zunächst in Brandenburg und wurde 1927 Pfarrer in Berlin-Dahlem, wo er bis 1958 tätig war. Er gehörte zu den Mitbegründern des Pfarrernotbundes und nahm an den Bekenntnissynoden von 1934 teil. Röhricht stand im kirchlichen Widerstandskontext und war eng mit führenden Vertretern der Bekennenden Kirche verbunden.</p>
@@ -7632,7 +7617,6 @@
                </person>
                <person xml:id="tillich_person_id__1637">
                   <persName>Romoser, Nancy C.</persName>
-                  <occupation>Editorial Department, The University of Chicago Press</occupation>
                </person>
                <person xml:id="tillich_person_id__1638">
                   <persName>Romulus</persName>
@@ -7643,7 +7627,7 @@
                </person>
                <person xml:id="tillich_person_id__1640">
                   <persName>Roosevelt, Franklin D.</persName>
-                  <occupation>Roosevelt, Franklin Delano (30.1.1882 Hyde Park, New York – 12.4.1945 Warm Springs, Georgia) war der 32. Präsident der Vereinigten Staaten (1933–1945) und einziger Amtsinhaber mit vier Wahlperioden. Er führte mit dem New Deal Reformen gegen die Weltwirtschaftskrise ein, darunter Sozialversicherung und Mindestlohn. Außenpolitisch lenkte er die USA nach dem Angriff auf Pearl Harbor in den Zweiten Weltkrieg, schmiedete die Anti-Hitler-Koalition und trieb die Gründung der UNO voran. Trotz Kinderlähmung blieb er politisch aktiv. Er starb kurz vor Kriegsende und gilt als einer der bedeutendsten Staatsmänner des 20. Jahrhunderts.</occupation>
+                  <occupation>Amerikanischer Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118602551</idno>
                </person>
                <person xml:id="tillich_person_id__1641">
@@ -7658,7 +7642,7 @@
                </person>
                <person xml:id="tillich_person_id__1644">
                   <persName>Rosenfeld, Kurt</persName>
-                  <occupation>Ein deutscher sozialistischer Politiker und Anwalt</occupation>
+                  <occupation>Anwalt und sozialistischer Politiker</occupation>
                </person>
                <person xml:id="tillich_person_id__1645">
                   <persName>Rosengrant, Harry W.</persName>
@@ -7668,7 +7652,7 @@
                </person>
                <person xml:id="tillich_person_id__1647">
                   <persName>Rosenstock- Huessy, Eugen</persName>
-                  <occupation>deutscher und amerikanischer Rechtshistoriker und Soziologe</occupation>
+                  <occupation>Rechtshistoriker und Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/160472423</idno>
                </person>
                <person xml:id="tillich_person_id__1648">
@@ -7701,7 +7685,7 @@
                </person>
                <person xml:id="tillich_person_id__1654">
                   <persName>Rubinstein, Nina</persName>
-                  <occupation>Pseudonym: Nina Stein) war promovierte Soziologin und Übersetzerin mit mehrfachem Exilschicksal</occupation>
+                  <occupation>Soziologin und Übersetzerin</occupation>
                </person>
                <person xml:id="tillich_person_id__1655">
                   <persName>Rudolph, Ina</persName>
@@ -7712,7 +7696,7 @@
                </person>
                <person xml:id="tillich_person_id__1656">
                   <persName>Rueter, Ernest A.</persName>
-                  <occupation>Minister of the Union Congregational Christian Church (Evansville, Ind.)</occupation>
+                  <occupation>Minister of the Union Congregational Christian Church</occupation>
                </person>
                <person xml:id="tillich_person_id__1657">
                   <persName>Rufus, Mutianus</persName>
@@ -7732,7 +7716,7 @@
                </person>
                <person xml:id="tillich_person_id__1660">
                   <persName>Ruprecht, Günther</persName>
-                  <occupation>Ein deutscher Verleger. Er leitete ab 1929 den Göttinger Verlag Vandenhoeck &amp; Ruprecht. Er war eine führende Kraft in der Jungreformatorischen Bewegung im Kirchenkampf innerhalb der Deutschen Evangelischen Kirche (DEK) in der Zeit des Nationalsozialismus</occupation>
+                  <occupation>Deutscher Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__1661">
                   <persName>Rusk, Dean</persName>
@@ -7742,14 +7726,13 @@
                </person>
                <person xml:id="tillich_person_id__1663">
                   <persName>Rust, Bernhard</persName>
-                  <occupation>Am 2. Februar 1933 wurde er kommissarischer preußischer Kultusminister und 1934 mit Bildung des Reichsministeriums für Wissenschaft, Erziehung und Volksbildung in Personalunion Reichsminister</occupation>
+                  <occupation>NSDAP Politiker</occupation>
                </person>
                <person xml:id="tillich_person_id__1664">
                   <persName>Rüstow, Alexander</persName>
                </person>
                <person xml:id="tillich_person_id__1665">
                   <persName>Rüstow Aubrey, Rachel</persName>
-                  <occupation>Tochter Löwes</occupation>
                </person>
                <person xml:id="tillich_person_id__1666">
                   <persName>Ruth, John L.</persName>
@@ -7769,7 +7752,6 @@
                </person>
                <person xml:id="tillich_person_id__1671">
                   <persName>Sacharja</persName>
-                  <occupation>Biblische Person</occupation>
                </person>
                <person xml:id="tillich_person_id__1672">
                   <persName>Sachs, Emmy</persName>
@@ -7778,7 +7760,7 @@
                </person>
                <person xml:id="tillich_person_id__1673">
                   <persName>Sahl, Hans</persName>
-                  <occupation>Literatur-, Film- und Theaterkritiker in der Zeit der Weimarer Republik und als antifaschistischer Schriftsteller, Übersetzer und Kulturkorrespondent ein Vertreter der deutschen Exilliteratur</occupation>
+                  <occupation>Literaturkritiker</occupation>
                   <note type="bio">
                      <p>Studium der Literatur- und Kunstgeschichte sowie der Philosophie und Archäologie in München, Berlin, Leipzig und Breslau. 1925 Promotion in Kunstgeschichte bei August Grisebach. In der Folge freiberuflicher Journalist, Schriftsteller und Kunstkritiker. S. hatte insbesondere in linksgerichteten und antifaschistischen Zeitungen publiziert, dies sowie sein jüdischer Hintergrund veranlassten ihn 1933 zur Emigration nach Prag und 1934 weiter nach Zürich. Von dort immer wieder Aufenthalte in Paris. Im Exil weiterhin freie schriftstellerische Tätigkeit, insbesondere für deutschsprachige Emigrantenzeitungen. 1939-1940 Internierung im französischen Camp du Ruchard, 1941 Emigration in die USA. Nach dem Krieg korrespondierender Kunstkritiker für die Neue Zürcher Zeitung (1947-1953). 1953-1957 Aufenthalt in Deutschland, danach Rückkehr in die USA. Seit 1957 regelmäßige Beiträge für die Süddeutsche Zeitung sowie für Die Welt.</p>
                   </note>
@@ -7791,16 +7773,17 @@
                </person>
                <person xml:id="tillich_person_id__1676">
                   <persName>Salomo</persName>
-                  <occupation>König von Israel</occupation>
                </person>
                <person xml:id="tillich_person_id__1677">
                   <persName>Salomon, Albert</persName>
-                  <occupation>Chirurgieprofessor, Vater der Künstlerin Charlotte Salomon</occupation>
+                  <occupation>Chirurgieprofessor</occupation>
                </person>
                <person xml:id="tillich_person_id__1678">
                   <persName>Salomon, Gottfried</persName>
-                  <occupation>Gottfried Salomon (21. November 1892 – 27. April 1964) war ein deutsch-amerikanischer Soziologe und Nationalökonom. 1916 wurde er bei Georg Simmel promoviert, habilitierte sich 1921 in Frankfurt am Main bei Franz Oppenheimer und lehrte dort als Privatdozent und außerordentlicher Professor für Soziologie; zudem war er Herausgeber des „Jahrbuchs für Soziologie“ und Organisator der Davoser Hochschulkurse. 1933 wurde ihm die Lehrbefugnis entzogen, worauf er über Rom und Paris in die USA emigrierte. Dort lehrte er an der New School for Social Research und an der Columbia University, beriet während des Zweiten Weltkriegs das War Department und nahm den Namen Salomon-Delatour an. 1958 kehrte er nach Deutschland zurück und unterrichtete bis zu seinem Tod wieder in Frankfurt am Main.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116767359</idno>
+                  <note type="bio">
+                     <p>Gottfried Salomon (21. November 1892 – 27. April 1964) war ein deutsch-amerikanischer Soziologe und Nationalökonom. 1916 wurde er bei Georg Simmel promoviert, habilitierte sich 1921 in Frankfurt am Main bei Franz Oppenheimer und lehrte dort als Privatdozent und außerordentlicher Professor für Soziologie; zudem war er Herausgeber des „Jahrbuchs für Soziologie“ und Organisator der Davoser Hochschulkurse. 1933 wurde ihm die Lehrbefugnis entzogen, worauf er über Rom und Paris in die USA emigrierte. Dort lehrte er an der New School for Social Research und an der Columbia University, beriet während des Zweiten Weltkriegs das War Department und nahm den Namen Salomon-Delatour an. 1958 kehrte er nach Deutschland zurück und unterrichtete bis zu seinem Tod wieder in Frankfurt am am Main.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1679">
                   <persName>Salz, Lotte</persName>
@@ -7821,7 +7804,7 @@
                </person>
                <person xml:id="tillich_person_id__1683">
                   <persName>Santayana, George</persName>
-                  <occupation>Philosoph, Schriftsteller, Kulturkritiker</occupation>
+                  <occupation>Philosoph, Schriftsteller und Kulturkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118794507</idno>
                </person>
                <person xml:id="tillich_person_id__1684">
@@ -7847,7 +7830,7 @@
                </person>
                <person xml:id="tillich_person_id__1690">
                   <persName>Saxl, Fritz</persName>
-                  <occupation>Kunsthistoriker, Aby Warburg Bibliothek</occupation>
+                  <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118804898</idno>
                   <note type="bio">
                      <p>Friedrich Saxl (8. Januar 1890 – 22. März 1948) war ein österreichischer Kunsthistoriker. Er studierte in Wien, Berlin und Rom und wurde früh von der Wiener Schule der Kunstgeschichte sowie von Aby Warburg geprägt, dessen Mitarbeiter er wurde. Nach dem Ersten Weltkrieg übernahm er maßgeblich die Leitung von Warburgs Kulturwissenschaftlicher Bibliothek und lehrte in Hamburg. 1933 emigrierte er nach England und organisierte die Übersiedlung der Bibliothek, aus der später das Warburg Institute in London hervorging. Seine Forschung konzentrierte sich auf das Fortwirken antiker Bildtraditionen; zudem war er Mitbegründer des „Census of Antique Works of Art and Architecture Known in the Renaissance“.</p>
@@ -7890,7 +7873,7 @@
                   <death>
                      <date>1959</date>
                   </death>
-                  <occupation>Pädagoge; Direktor; Theologe;</occupation>
+                  <occupation>Pädagoge, Direktor und Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
                   <note type="bio">
                      <p>Hermann Schafft (2. Dezember 1883 – 2. Juni 1959) war ein deutscher evangelischer Theologe, Professor und Regierungsdirektor in Kassel. Nach dem Studium in Halle, Berlin und Tübingen wirkte er als Pfarrer, Militärseelsorger und später in leitenden kirchlichen und pädagogischen Funktionen. Als religiöser Sozialist engagierte er sich in der Neuwerk-Bewegung und war Herausgeber der Zeitschrift Neuwerk. 1933 wurde er aus politischen Gründen beurlaubt und frühzeitig in den Ruhestand versetzt. Nach 1945 übernahm er auf Vorschlag seines engen Freundes Paul Tillich das Amt eines Regierungsdirektors in Kassel und war für das Schulwesen in Nordhessen zuständig.</p>
@@ -7921,7 +7904,7 @@
                </person>
                <person xml:id="tillich_person_id__1703">
                   <persName>Scheler, Max</persName>
-                  <occupation>Philosoph; Soziologe</occupation>
+                  <occupation>Philosoph und Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118606964</idno>
                   <note type="bio">
                      <p>Scheler, Max (22.8.1874 München – 19.5.1928 Frankfurt/M.) war ein bedeutender deutscher Philosoph, Soziologe und Mitbegründer der philosophischen Anthropologie. Er entwickelte ausgehend von Husserls Phänomenologie eine materiale Wertethik, in der er Liebe, Hass, Scham oder Reue als Quellen moralischer Erkenntnis beschrieb. Als Professor in Köln verband er Philosophie und Soziologie und suchte das Zusammenspiel von Ideen und Realfaktoren in Kultur und Gesellschaft zu erklären. In seiner Spätphilosophie deutete er den Menschen als Wesen zwischen Natur und Geist, das an der Entfaltung eines „werdenden Gottes“ mitwirkt.</p>
@@ -7957,14 +7940,14 @@
                </person>
                <person xml:id="tillich_person_id__1708">
                   <persName>Schiller, Karl</persName>
-                  <occupation>Ökonom und Politiker (SPD), als Rektor der Uni Hamburg hat er Tillich den Goethe-Preis verliehen</occupation>
+                  <occupation>Ökonom und SPD-Politiker</occupation>
                </person>
                <person xml:id="tillich_person_id__1709">
                   <persName>Schiller, Friedrich von</persName>
                </person>
                <person xml:id="tillich_person_id__1710">
                   <persName>Schischkoff, Georgi</persName>
-                  <occupation>aus Bulgarien stammender, seit 1940 in Deutschland lebender Mathematiker und Philosoph</occupation>
+                  <occupation>Mathematiker und Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__1711">
                   <persName>Schlabrendorff, Ursula von</persName>
@@ -8013,7 +7996,7 @@
                </person>
                <person xml:id="tillich_person_id__1720">
                   <persName>Schlink, Edmund</persName>
-                  <occupation>Systematischer Theologe in Heidelberg</occupation>
+                  <occupation>Systematischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1721">
                   <persName>Schmalenbach, Marie</persName>
@@ -8023,7 +8006,7 @@
                </person>
                <person xml:id="tillich_person_id__1723">
                   <persName>Schmidt, Karl Ludwig</persName>
-                  <occupation>Evangelischer Theologe mit dem Schwerpunkt Neues Testament</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio">
                      <p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p>
@@ -8068,11 +8051,11 @@
                </person>
                <person xml:id="tillich_person_id__1735">
                   <persName>Scholz, Heinrich</persName>
-                  <occupation>deutscher Logiker, Philosoph und evangelischer Theologe</occupation>
+                  <occupation>Deutscher Logiker, Philosoph und evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1736">
                   <persName>Schönfeld, Hans</persName>
-                  <occupation>evangelischer Theologe und Volkswirt</occupation>
+                  <occupation>Evangelischer Theologe und Volkswirt</occupation>
                   <note type="bio">
                      <p>Studium der evangelischen Theologie und Volkswirtschaft in Berlin, Tübingen, Greifswald, Rostock, Frankfurt/Main und Kiel. Promotion zum Dr. rer. pol. Seit 1926 arbeitete er als Assistent des Enquete-Ausschusses des Reichswirtschaftsrates, 1929 wechselte er als Beauftragter des Deutschen Evangelischen Kirchenbundes nach Genf an das Internationale Sozialwissenschaftliche Institut, bald darauf in die Studienabteilung des Ökumenischen Rates für Praktisches Christentum, dessen Direktor er 1931-1946 war. Während des Zweiten Weltkrieges unternahm er von Genf aus Reisen in die okkupierten Länder, setzte sich für Internierte ein und unterhielt Kontakte zum Wiederstand. 1948 ging Sch. als Oberkonsistorialrat und Ökumene-Referent an das Kirchliche Außenamt nach Frankfurt/Main, wechselte 1951 jedoch krankheitsbedingt in den Ruhestand.</p>
                   </note>
@@ -8092,7 +8075,7 @@
                </person>
                <person xml:id="tillich_person_id__1739">
                   <persName>Schreiner, Helmuth</persName>
-                  <occupation>Professor</occupation>
+                  <occupation>Deutscher evangelisch-lutherischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118761706</idno>
                   <note type="bio">
                      <p>Helmuth Moritz Schreiner (2. März 1893 – 28. April 1962) war ein deutscher evangelisch-lutherischer Theologe. Er studierte Theologie und Philosophie in Halle, Berlin und Bonn, wurde 1921 promoviert und übernahm leitende Funktionen in kirchlichen Einrichtungen. 1931 wurde er Professor für Praktische Theologie in Rostock, verlor jedoch im Zuge der nationalsozialistischen Politik sein Amt und wechselte nach Münster. Nach 1945 wirkte er dort als Professor und beteiligte sich maßgeblich am Wiederaufbau der theologischen Fakultät. Schreiner gehörte zu den Mitbegründern der Jungreformatorischen Bewegung.</p>
@@ -8103,11 +8086,10 @@
                </person>
                <person xml:id="tillich_person_id__1741">
                   <persName>Schrey, Heinz-Horst</persName>
-                  <occupation>Professor an der PH Heidelberg</occupation>
+                  <occupation>Deutscher evangelischer Theologe und Hochschullehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__1742">
                   <persName>Schröder</persName>
-                  <occupation>Bursche von Paul Tillich im 1WK; Offiziersbursche, Stab der 7. Res.-Division</occupation>
                </person>
                <person xml:id="tillich_person_id__1743">
                   <persName>Schubert, Daniel</persName>
@@ -8127,7 +8109,7 @@
                </person>
                <person xml:id="tillich_person_id__1745">
                   <persName>Schultz-Hencke, Harald</persName>
-                  <occupation>Psychiater, Dr. med. in Berlin</occupation>
+                  <occupation>Psychiater</occupation>
                </person>
                <person xml:id="tillich_person_id__1746">
                   <persName>Schulze, Gottlob Ernst</persName>
@@ -8169,7 +8151,7 @@
                </person>
                <person xml:id="tillich_person_id__1756">
                   <persName>Schweitzer, Carl Gunther</persName>
-                  <occupation>Pastor an der Potsdamer Garnisonkirche, Wingolf und Berneuchener Bewegung</occupation>
+                  <occupation>Deutscher evangelisch-lutherischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128814985</idno>
                </person>
                <person xml:id="tillich_person_id__1757">
@@ -8232,7 +8214,7 @@
                   <death>
                      <date>1969</date>
                   </death>
-                  <occupation>Pfarrer in Berlin-Tempelhof</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>Ehemann von Tillichs Schwester Elisabeth.</p>
                   </note>
@@ -8246,7 +8228,7 @@
                </person>
                <person xml:id="tillich_person_id__1765">
                   <persName>Seger, Gerhart</persName>
-                  <occupation>Redakteur der "Neuen Volkszeitung" Organ der deutschen Sozialdemokraten in New York</occupation>
+                  <occupation>Redakteur</occupation>
                </person>
                <person xml:id="tillich_person_id__1766">
                   <persName>Seidlin, Oskar</persName>
@@ -8279,7 +8261,6 @@
                </person>
                <person xml:id="tillich_person_id__1772">
                   <persName>Sergel, Sherman L.</persName>
-                  <occupation>Hemenway Methodist Church</occupation>
                </person>
                <person xml:id="tillich_person_id__1773">
                   <persName>Seurat, Georges</persName>
@@ -8299,7 +8280,6 @@
                </person>
                <person xml:id="tillich_person_id__1777">
                   <persName>Shelton, O.L.</persName>
-                  <occupation>Dekan der School of Religion der Butler University</occupation>
                </person>
                <person xml:id="tillich_person_id__1778">
                   <persName>Shugg, Roger W.</persName>
@@ -8349,7 +8329,7 @@
                </person>
                <person xml:id="tillich_person_id__1784">
                   <persName>Siegmund-Schultze, Friedrich</persName>
-                  <occupation>evangelischer Theologe und Sozialethiker</occupation>
+                  <occupation>Evangelischer Theologe und Sozialethiker</occupation>
                   <note type="bio">
                      <p>Studien der Theologie und Philosophie in Breslau und Magdeburg. Engagement in der ökumenischen Bewegung sowie zeitlebens in diversen Projekten zur Unterstützung von sozial Benachteiligten. Seit 1925 Professor für Jugendkunde, Jugendwohlfahrt, Sozialpädagogik und Sozialethik in Berlin. Nachdem er sich 1933 für die Unterstützung von Auswanderern jüdischer Herkunft eingesetzt hatte und dafür verhaftet worden war, wurde er zur Emigration in die Schweiz gezwungen. Nach dem Zweiten Weltkrieg lehrte er als Professor für Sozialpädagogik und Sozialethik in Münster. 1948 gründete er die Jugend-Wohlfahrtsschule Dortmund, die er bis 1954 leitete.</p>
                   </note>
@@ -8372,7 +8352,7 @@
                </person>
                <person xml:id="tillich_person_id__1789">
                   <persName>Siirala, Aarne</persName>
-                  <occupation>Er war Professor für Systematische Theologie an Waterloo, Universität der Lutherischen Universität in Kanada, 1963-1974 und Professor für Religionswissenschaften an der Wilfrid Laurier Universität in 1974-1984</occupation>
+                  <occupation>Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1790">
                   <persName>Simeon</persName>
@@ -8411,7 +8391,7 @@
                </person>
                <person xml:id="tillich_person_id__1798">
                   <persName>Sinzheimer, Hugo Daniel</persName>
-                  <occupation>Rechtswissenschaftler und Politiker (SPD)</occupation>
+                  <occupation>Rechtswissenschaftler und SPD-Politiker</occupation>
                   <note type="bio">
                      <p>Hugo S. studierte Rechtswissenschaften und Volkswirtschaft in München, Berlin, Freiburg, Marburg und Halle und wurde in Heidelberg zum Dr. jur. promoviert. Seit 1903 arbeitete er in Frankfurt/Main (u.a. als Rechtsanwalt und Notar). 1913 Heirat mit Paula, die in erster Ehe mit dem 1911 verstorbenen Zahnarzt Ludwig Stettenheimer verheiratet gewesen war. 1914 Parteiwechsel von der DV zur SPD. 1920 Mitbegründer und bis 1933 Dozent der Akademie der Arbeit Frankfurt/Main. In den 1920ern Mitglied des rechten SPD-Flügels (Hofgeismarer Kreis), sowie Mitarbeit an den von Tillich herausgegebenen Neuen Blättern für den Sozialismus. Nachdem S. im März 1933 kurzzeitig in Schutzhaft genommen worden war, emigrierte er mit Frau und Kindern im selben Jahr in die Niederlande, wo er ab 1934 an den Universitäten Leyden und Amsterdam lehrte. 1940 wurde er von der Gestapo verhaftet und in das KZ Theresienstadt gebracht. 1945 starb er an den Folgen der Haft.</p>
                   </note>
@@ -8436,7 +8416,7 @@
                </person>
                <person xml:id="tillich_person_id__1804">
                   <persName>Smith, Norman Kemp</persName>
-                  <occupation>schottischer Philosoph</occupation>
+                  <occupation>Schottischer Philosoph</occupation>
                   <note type="bio">
                      <p>Studium und Promotion (1902) in St. Andrews. Von 1906 bis 1919 lehrte S. Philosophie und Psychologie in Princeton, USA, bevor er einen Ruf auf den Lehrstuhl für Logik und Metaphysik der Universität Edinburgh annahm, den er bis zu seiner Pensionierung 1945 innehatte. Klassisch wurde sein Kommentar zu Kants Kritik der reinen Vernunft (1918), ebenso wie seine Übersetzung desselben Werks (1929). </p>
                   </note>
@@ -8483,7 +8463,7 @@
                </person>
                <person xml:id="tillich_person_id__1814">
                   <persName>Sombart, Werner</persName>
-                  <occupation>Wirtschaftswissenschaftler, Hochschullehrer</occupation>
+                  <occupation>Wirtschaftswissenschaftler und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118751433</idno>
                </person>
                <person xml:id="tillich_person_id__1815">
@@ -8517,7 +8497,7 @@
                </person>
                <person xml:id="tillich_person_id__1823">
                   <persName>Speier, Hans</persName>
-                  <occupation>US-amerikanischer Soziologe deutscher Herkunft</occupation>
+                  <occupation>US-amerikanischer Soziologe</occupation>
                </person>
                <person xml:id="tillich_person_id__1824">
                   <persName>Spencer, Herbert</persName>
@@ -8625,7 +8605,7 @@
                         <placeName>Prien a. Chiemsee</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutscher lutherischer Theologe (praktische Theologie), Bischof, Prediger und Vertreter der Liturgischen Bewegung (ab 1926 Prof. für Praktische Theologie in Münster)</occupation>
+                  <occupation>Deutscher lutherischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118752510</idno>
                   <note type="bio">
                      <p>Studium der evangelischen Theologie in Erlangen, Rostock und Berlin, sowie im Anschluss Psychologie in Würzburg. Seit 1910 Pfarrtätigkeit, 1913 Promotion im Fach Psychologie. 1914 gründete S. die Gesellschaft für Religionspsychologie, 1914-1916 wirkte er als Feldgeistlicher in Frankreich und dem Baltikum. 1923 gehörte er zu den Begründern des Berneuchener Kreises sowie der Michaelsbruderschaft 1931. Seit 1926 hatte er eine Professur für Praktische Theologie an der Westfälischen Wilhelms-Universität Münster inne. Die Zeit des Nationalsozialismus erlebte S. in Deutschland. Er schloss sich zeitweise dem Pfarrernotbund an, verließ ihn jedoch wieder und stand sowohl den Deutschen Christen als auch der Bekennenden Kirche kritisch gegenüber. 1945 wurde er zum Bischof der Evangelisch-Lutherischen Kirche in Oldenburg gewählt. Sein kirchenpolitisches Engagement galt insbesondere der Liturgischen Erneuerung sowie dem ökumenischen Dialog.</p>
@@ -8704,7 +8684,7 @@
                </person>
                <person xml:id="tillich_person_id__1844">
                   <persName>Staudinger, Else</persName>
-                  <occupation>Verbandsfunktionärin, Volkswirtschaftlerin</occupation>
+                  <occupation>Verbandsfunktionärin und Volkswirtschaftlerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117223336</idno>
                </person>
                <person xml:id="tillich_person_id__1845">
@@ -8721,7 +8701,7 @@
                         <placeName>New York, NY</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politiker der Sozialdemokratischen Partei Deutschlands (SPD) und Wirtschaftswissenschaftler sowie von 1929 bis 1932 Staatssekretär im preußischen Handelsministerium.</occupation>
+                  <occupation>SPD-Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118616919</idno>
                   <note type="bio">
                      <p>Studium der Nationalökonomie sowie Soziologie in Heidelberg, wo er 1913 bei Alfred Weber promoviert wurde. Bereits als Student in die SPD eingetreten, bekleidete S. nach dem Ersten Weltkrieg diverse Verwaltungsämter, unter anderem im Reichswirtschaftsministerium (1919-1927) sowie im preußischen Handelsministerium (1927-1932). Daneben mehrere Aufsichtsratposten sowie Lehrtätigkeit an der Deutschen Hochschule für Politik. Nach kurzer Inhaftierung 1933 zunächst Flucht nach Belgien, später Emigration in die USA, wo er ab dem Frühjahr 1934 an der New School for Social Research in New York lehrte. Gemeinsam mit seiner Frau Else sowie mit Paul Tillich und anderen engagierte er sich in diversen Hilfsorganisationen für Emigrierte.</p>
@@ -8761,7 +8741,7 @@
                </person>
                <person xml:id="tillich_person_id__1848">
                   <persName>Steffen, Bernhard</persName>
-                  <occupation>Superintendent, Pastor St. Georgen (Wismar)</occupation>
+                  <occupation>Superintendent und Pastor</occupation>
                </person>
                <person xml:id="tillich_person_id__1849">
                   <persName>Stein, Heinrich Freiherr vom</persName>
@@ -8816,7 +8796,6 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Konsistorialpräsident in Berlin in den Jahren 1904-1925</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1111512221</idno>
                </person>
                <person xml:id="tillich_person_id__1853">
@@ -8833,7 +8812,7 @@
                         <placeName>Bad Honnef</placeName>
                      </settlement>
                   </death>
-                  <occupation>Tänzerin, in Dresden begann Tillich für Tanz zu interessieren mit Heinrich Goesch</occupation>
+                  <occupation>Tänzerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/130028061</idno>
                </person>
                <person xml:id="tillich_person_id__1854">
@@ -8866,7 +8845,7 @@
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>russisch-deutscher Literat, Soziologe, Philosoph und Politiker</occupation>
+                  <occupation>Russisch-Deutscher Literat, Soziologe und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11875355X</idno>
                   <note type="bio">
                      <p>Fedor S. wurde in Moskau geboren, wo er auch zur Schule ging. Seine Familie hatte deutsch-litauische Herkunft. 1910 wurde er in Heidelberg im Fach Philosophie promoviert. Nach dem Studium Rückkehr nach Russland, 1922 infolge der Oktoberrevolution zunächst verhaftet, dann ausgewiesen. Seit 1926 lehrte er an der Technischen Hochschule Dresden. 1937 wurde er entlassen und erhielt Schreibverbot. Die Kriegsjahre verbrachte er in Deutschland, ab 1946 lehrte er als Professor für russische Geistesgeschichte an der Universität München. Nachdem frühen Tod seiner ersten Frau hatte Fedor S. im Jahr 1911 Natascha geheiratet.</p>
@@ -8886,7 +8865,7 @@
                         <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutscher Politikwissenschaftler und Journalist</occupation>
+                  <occupation>Deutscher Politikwissenschaftler und Journalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118617931</idno>
                </person>
                <person xml:id="tillich_person_id__1858">
@@ -13216,7 +13195,7 @@
                </person>
                <person xml:id="tillich_person_id__2242">
                   <persName>Schmidt</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2243">
                   <persName>Hessig, Otto</persName>
@@ -16354,7 +16333,7 @@
                   <death>
                      <date>1960</date>
                   </death>
-                  <occupation>Kunstsammlerin;</occupation>
+                  <occupation>Kunstsammlerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1107803306</idno>
                </person>
                <person xml:id="tillich_person_id__2555">
@@ -20177,6 +20156,7 @@
                </person>
                <person xml:id="tillich_person_id__3151">
                   <persName>Fischer, Martin</persName>
+                  <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118533444</idno>
                </person>
                <person xml:id="tillich_person_id__3152">
@@ -23358,7 +23338,7 @@
                   <persName>Fenske, Elfriede</persName>
                </person>
                <person xml:id="tillich_person_id__3996">
-                  <persName>Schmidt, ??</persName>
+                  <persName>Schmidt, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3997">
                   <persName>Lande, ???</persName>
@@ -26136,6 +26116,62 @@
                   <persName>Hoch, Paul H.</persName>
                   <occupation>Psychiater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12223958X</idno>
+               </person>
+               <person xml:id="tillich_person_id__5092">
+                  <persName>Orientar, Anita</persName>
+                  <birth>
+                     <date>1896-01-08</date>
+                     <settlement>
+                        <placeName>Bahia, Brasilien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1994</date>
+                     <settlement>
+                        <placeName>Zangberg, Bayerin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Malerin, Kunsthistoriherin, Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117144975</idno>
+               </person>
+               <person xml:id="tillich_person_id__5093">
+                  <persName>Gumbel, Emil Julius</persName>
+                  <birth>
+                     <date>1891-07-18</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__306">München</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1966-09-10</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Mathematiker, Statistiker, Publizist, Pazifist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118543563</idno>
+               </person>
+               <person xml:id="tillich_person_id__5094">
+                  <persName>Weinberger, Martin</persName>
+                  <birth>
+                     <date>1893-04-21</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__327">Nürnberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-09-06</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/111388325</idno>
+               </person>
+               <person xml:id="tillich_person_id__5095">
+                  <persName>Reisner, Erwin</persName>
+                  <occupation>Österreichischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/129413941</idno>
                </person>
             </listPerson>
          </div>

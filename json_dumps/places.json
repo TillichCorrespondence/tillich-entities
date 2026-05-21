@@ -10360,5 +10360,38 @@
     "latitude": "50.90395",
     "longitude": "-1.40428",
     "wikidata_url": "https://www.wikidata.org/wiki/Q79848"
+  },
+  "1540": {
+    "id": 1540,
+    "order": "1074.00000000000000000000",
+    "name": "Brasilien",
+    "tillich_id": "tillich_place_id__1540",
+    "geonames_url": "https://www.geonames.org/3469034/",
+    "Working Notes": "",
+    "latitude": "-10.00000",
+    "longitude": "-55.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q155"
+  },
+  "1541": {
+    "id": 1541,
+    "order": "1075.00000000000000000000",
+    "name": "Wollin (Wolin)",
+    "tillich_id": "tillich_place_id__1541",
+    "geonames_url": "https://www.geonames.org/7533540/",
+    "Working Notes": "",
+    "latitude": "53.83180",
+    "longitude": "14.59790",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q148505"
+  },
+  "1542": {
+    "id": 1542,
+    "order": "1076.00000000000000000000",
+    "name": "Brescia",
+    "tillich_id": "tillich_place_id__1542",
+    "geonames_url": "https://www.geonames.org/3181554/",
+    "Working Notes": "",
+    "latitude": "45.53558",
+    "longitude": "10.21472",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6221"
   }
 }
