@@ -8985,7 +8985,7 @@
                         <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutscher Mediziner und Theologe</occupation>
+                  <occupation>Deutscher Mediziner und Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117266736</idno>
                </person>
                <person xml:id="tillich_person_id__1869">
@@ -9063,7 +9063,7 @@
                         <placeName key="#tillich_place_id__136">Erlangen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Neutestamentler und Politiker (DNVP, CSVD, CSU)</occupation>
+                  <occupation>Deutscher Theologe und Politiker (DNVP, CSVD, CSU)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119239221</idno>
                </person>
                <person xml:id="tillich_person_id__1875">
@@ -9275,7 +9275,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Religionssoziologe, Philosoph und Judaist</occupation>
+                  <occupation>Soziologe und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118756257</idno>
                </person>
                <person xml:id="tillich_person_id__1891">
@@ -9357,7 +9357,6 @@
                </person>
                <person xml:id="tillich_person_id__1896">
                   <persName>Terrien, Cecile</persName>
-                  <occupation>Tochter eines Arbeitskollegen Tillichs am Union College</occupation>
                </person>
                <person xml:id="tillich_person_id__1897">
                   <persName>Tersteegen, Gerhard</persName>
@@ -9494,7 +9493,7 @@
                         <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutscher evangelischer Theologe</occupation>
+                  <occupation>Deutscher evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118621947</idno>
                </person>
                <person xml:id="tillich_person_id__1909">
@@ -9595,7 +9594,7 @@
                         <placeName key="#tillich_place_id__268">Lissabon</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftstellerin; Journalistin;</occupation>
+                  <occupation>Schriftstellerin und Journalistin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118846698</idno>
                </person>
                <person xml:id="tillich_person_id__1916">
@@ -9718,7 +9717,7 @@
                   <death>
                      <date>1937-07-30</date>
                   </death>
-                  <occupation>Pfarrer; Superintendent; Konsistorialrat</occupation>
+                  <occupation>Pfarrer, Superintendent und Konsistorialrat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631602</idno>
                   <note type="bio">
                      <p>Johannes Oskar Tillich (1857 – 1937) war ein evangelisch-lutherischer Pfarrer und Theologe. 1885 hatte er Wilhelmina Mathilde Dürselen geheiratet, die 1903 verstarb. Seine erste Pfarrstelle hatte er in der lutherischen Gemeinde Starzeddel bei Guben, wo 1886 sein Sohn Paul geboren wurde. Johannes Oskar Tillich und Wilhelmina Mathilde Dürselen waren also die Eltern des evangelischen Theologen und Religionsphilosophen Paul Tillich. 1891 wurde Johannes Oskar Tillich Superintendent des Kirchenkreises Schönfließ in der Neumark, 1900 folgte seine Berufung nach Berlin, wo er zum Geheimen Konsistorialrat ernannt wurde.</p>
@@ -9749,7 +9748,6 @@
                   <birth>
                      <date>1935</date>
                   </birth>
-                  <occupation>Sohn</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1168631653</idno>
                </person>
                <person xml:id="tillich_person_id__1928">
@@ -10233,7 +10231,7 @@
                   <death>
                      <date>1977-06-17</date>
                   </death>
-                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler. Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
+                  <occupation>Deutscher Ministerialbeamter, Germanist und Erziehungswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
                   <note type="bio">
                      <p>Ulich, Heinrich Gottlob Robert (21.4.1890 Lam – 17.6.1977 Stuttgart) war ein deutscher Ministerialbeamter, Germanist und Erziehungswissenschaftler. Nach Studien in Freiburg, Neuenburg, München, Berlin und Leipzig promovierte er 1915 in Philosophie. Er wirkte als Lehrer und Bibliothekar, dann von 1920 bis 1933 als Ministerialbeamter in Dresden, wo er Hochschul- und Forschungsfragen leitete. Politisch der SPD und dem religiösen Sozialismus nahestehend, engagierte er sich für Reformpädagogik und internationale Bildungsinitiativen. 1934 emigrierte er in die USA, wurde Professor an der Harvard University und Mitbegründer der Vergleichenden Pädagogik. 1970 kehrte er nach Deutschland zurück. Er war mit Elsa Brändström verheiratet, später mit Mary Ewen Ulich, und erhielt zahlreiche Auszeichnungen, darunter 1958 das Große Verdienstkreuz.</p>
@@ -10556,7 +10554,6 @@
                </person>
                <person xml:id="tillich_person_id__1991">
                   <persName>Vielhaber, Erika</persName>
-                  <occupation>Studentin bei Tillich in Frankfurt</occupation>
                </person>
                <person xml:id="tillich_person_id__1992">
                   <persName>Viénot, Pierre</persName>
@@ -10594,7 +10591,7 @@
                         <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
-                  <occupation>in Österreich geborener, in Deutschland, den USA und Großbritannien arbeitender jüdischer Schriftsteller, Dramaturg, Essayist, Übersetzer und Film- und Theaterregisseur</occupation>
+                  <occupation>Österreichischer Schriftsteller, Dramaturg, Essayist, Übersetzer und Film- und Theaterregisseur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118768395</idno>
                </person>
                <person xml:id="tillich_person_id__1996">
@@ -10632,7 +10629,7 @@
                </person>
                <person xml:id="tillich_person_id__1998">
                   <persName>Visser ’t Hooft, Willem Adolf</persName>
-                  <occupation>Niederländischer reformierter Theologe. Er war der erste Generalsekretär des Ökumenischen Rates der Kirchen</occupation>
+                  <occupation>Niederländischer reformierter Theologe</occupation>
                   <note type="bio">
                      <p>Studium in Leiden, 1928 Promotion. Seit 1924 war er Sekretär beim Weltbund des CVJM, ab 1931 Generalsekretär des christlichen Studentenweltbundes. V.s ökumenisches Wirken hatte maßgeblichen Anteil an der Gründung des Ökumenischen Rats der Kirchen, dessen erster Generalsekretär er 1948-1966 wurde.</p>
                   </note>
@@ -10690,7 +10687,6 @@
                </person>
                <person xml:id="tillich_person_id__2003">
                   <persName>Vogt, Wolfgang</persName>
-                  <occupation>Dipl. Ing. Barbara und Wolfgang Vogt, Architekten BDA, Kiel, mitgeschickter Text über den "Kirchenraum"</occupation>
                </person>
                <person xml:id="tillich_person_id__2004">
                   <persName>Vogtbang, Erich</persName>
@@ -10741,7 +10737,6 @@
                         <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelisches Verlagswerk Stuttgart</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1012369536</idno>
                </person>
                <person xml:id="tillich_person_id__2010">
@@ -10809,7 +10804,7 @@
                </person>
                <person xml:id="tillich_person_id__2016">
                   <persName>Warschauer, Ernst</persName>
-                  <occupation>Jurist, http://findingaids.cjh.org/?pID=475647</occupation>
+                  <occupation>Jurist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117145378</idno>
                </person>
                <person xml:id="tillich_person_id__2017">
@@ -10864,7 +10859,7 @@
                         <placeName>Neuruppin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Freund, Jugendpastor, später Oberstudiendirektor</occupation>
+                  <occupation>Jugendpastor und Oberstudiendirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1169900925</idno>
                   <note type="bio">
                      <p>Carl Richard Wegener (3. August 1883 – 11. Juli 1967) war ein deutscher Pädagoge und Pfarrer. Er wirkte zunächst als Jugendpastor in Berlin-Lichterfelde, trat jedoch 1921 aus der Kirche aus und wechselte in den Schuldienst. Ab 1926 war er Studienrat in Naumburg und leitete von 1933 bis 1948 eine Schule in Kyritz. Seine Tätigkeit verband kirchliche und pädagogische Arbeitsfelder.</p>
@@ -10907,7 +10902,7 @@
                         <placeName>Malmö</placeName>
                      </settlement>
                   </death>
-                  <occupation>Künstler, Sammler, Erfinder</occupation>
+                  <occupation>Künstler, Sammler und Erfinder</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/129036005</idno>
                </person>
                <person xml:id="tillich_person_id__2024">
@@ -10973,7 +10968,7 @@
                         <placeName key="#tillich_place_id__370">Rostock</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe (Neues Testament und Kirchengeschichte)</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12193439X</idno>
                   <note type="bio">
                      <p>Geboren im schlesischen Wüstewalterdorf (Walim). Nach seiner Lizentiatenpromotion 1933 in Berlin, habilitierte er sich im Jahr 1937 ebendort. 1934-1937 Assistent an der Universität Berlin (Neues Testament), 1937-1945 Dozent ebenda (Kirchengeschichte und Neues Testament). Daneben Betätigung in der Wehrmacht, ab 1940 Militärpfarrer. Engagement bei den Deutschen Christen. Ab 1946 bist zu seiner Emeritierung 1972 Professur an der Universität Rostock sowie 1947/48 vertretungsweise in Greifswald.</p>
@@ -11033,7 +11028,7 @@
                   <death>
                      <date>1992</date>
                   </death>
-                  <occupation>Theologe, NT-ler und Sozialethiker</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118631217</idno>
                </person>
                <person xml:id="tillich_person_id__2034">
@@ -11116,7 +11111,6 @@
                </person>
                <person xml:id="tillich_person_id__2039">
                   <persName>Werner, Louise</persName>
-                  <occupation>Mutter von Hannah Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__2040">
                   <persName>Werner, Jean Otto Nikolaus</persName>
@@ -11126,7 +11120,7 @@
                </person>
                <person xml:id="tillich_person_id__2041">
                   <persName>Werner, Marie Luise</persName>
-                  <occupation>Psychoanalytikerin, Schwester von Hannah Tillich</occupation>
+                  <occupation>Psychoanalytikerin</occupation>
                   <note type="bio">
                      <p>Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p>
                   </note>
@@ -11200,7 +11194,6 @@
                </person>
                <person xml:id="tillich_person_id__2047">
                   <persName>Wever, Eva</persName>
-                  <occupation>Schwägerin Tillichs, später Eva Detert</occupation>
                </person>
                <person xml:id="tillich_person_id__2048">
                   <persName>Wever, Wilhelm</persName>
@@ -11236,7 +11229,7 @@
                </person>
                <person xml:id="tillich_person_id__2052">
                   <persName>White, Julian M.</persName>
-                  <occupation>Rabbi, Los Angeles Bureau of jewish education </occupation>
+                  <occupation>Rabbi</occupation>
                </person>
                <person xml:id="tillich_person_id__2053">
                   <persName>Whitehead, Alfred North</persName>
@@ -11301,7 +11294,7 @@
                </person>
                <person xml:id="tillich_person_id__2057">
                   <persName>Wieck, Fred</persName>
-                  <occupation>Associate Editor, The University of Chicago Press</occupation>
+                  <occupation>Associate Editor bei der University of Chicago Press</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117346500</idno>
                </person>
                <person xml:id="tillich_person_id__2058">
@@ -11370,7 +11363,7 @@
                         <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
-                  <occupation>Österreichisch-jüdischer Überlebender des Holocaust sowie Architekt, Publizist und Schriftsteller</occupation>
+                  <occupation>Architekt, Publizist und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118632655</idno>
                </person>
                <person xml:id="tillich_person_id__2063">
@@ -11477,7 +11470,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118632884</idno>
                </person>
                <person xml:id="tillich_person_id__2070">
-                  <persName>Wilhelm II., Kaiser</persName>
+                  <persName>Wilhelm II.</persName>
                   <birth>
                      <date>1859-01-27</date>
                      <settlement>
@@ -11487,9 +11480,10 @@
                   <death>
                      <date>1941-06-04</date>
                      <settlement>
-                        <placeName>Doorn</placeName>
+                        <placeName>Schloß Doorn (Holland)</placeName>
                      </settlement>
                   </death>
+                  <occupation>Deutscher Kaiser</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118632892</idno>
                </person>
                <person xml:id="tillich_person_id__2071">
@@ -11578,7 +11572,7 @@
                   <death>
                      <date>1959</date>
                   </death>
-                  <occupation>Evangelischer Theologe (Praktische Theologie)</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/130854948</idno>
                   <note type="bio">
                      <p>Geboren in Aßweiler im Elsass, 1899-1922 war er Pfarrer der Straßburger lutherischen Wilhelmskirche. Nach dem Ersten Weltkrieg, als die Straßburger Universität neu strukturiert wurde, wurde W. an die theologische Fakultät berufen, wo er bis zu seiner Emeritierung kurz vor Beginn des Zweiten Weltkriegs lehrte.  Obwohl bereits pensioniert, folgte er während der Kriegsjahre der Straßburger Universität ins Exil nach Clermont-Ferrand,  nachdem die Nationalsozialisten die Reichsuniversität Straßburg gegründet hatten.</p>
@@ -11605,7 +11599,7 @@
                   <death>
                      <date>1967-01-01</date>
                   </death>
-                  <occupation>deutscher Philosoph</occupation>
+                  <occupation>Deutscher Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11739629X</idno>
                </person>
                <person xml:id="tillich_person_id__2080">
@@ -11658,7 +11652,6 @@
                </person>
                <person xml:id="tillich_person_id__2083">
                   <persName>Wingolf Verbindung</persName>
-                  <occupation>Pauck/Pauck haben Verbindungsbrüder interviewt: u.a. Heinrich Meinhof, Ernst Rhein, Eberhard Röhricht</occupation>
                </person>
                <person xml:id="tillich_person_id__2084">
                   <persName>Winkelmann, Frida</persName>
@@ -11807,7 +11800,7 @@
                         <placeName>Ludwigsburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Verleger oder Soziologe (Schüler von Mannheim)</occupation>
+                  <occupation>Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118634828</idno>
                </person>
                <person xml:id="tillich_person_id__2096">
@@ -11840,7 +11833,6 @@
                         <placeName key="#tillich_place_id__31">Basel</placeName>
                      </settlement>
                   </death>
-                  <occupation>Redaktion, Antaeus. Zeitschrift für eine freie Welt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128620617</idno>
                </person>
                <person xml:id="tillich_person_id__2098">
@@ -11848,7 +11840,6 @@
                   <birth>
                      <date>1847</date>
                   </birth>
-                  <occupation>Feldpropst 1905-1918, Vermerk zur Militärgeistlichkeit in: Handbuch der deutschen Evangelischen Kirchen 1918 bis 1949 : Organe - Ämter - Verbände - Personen, Bd. 1, Überregionale Einrichtungen, hg. v. Heinz Boberach, Carsten Nicolaisen und Ruth Pabst, Göttingen 2010, S. 450.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117614017</idno>
                </person>
                <person xml:id="tillich_person_id__2099">
@@ -11869,7 +11860,7 @@
                </person>
                <person xml:id="tillich_person_id__2100">
                   <persName>Wood, George Herbert</persName>
-                  <occupation>Quäker und Theologe (Neues Testament und Kirchengeschichte)</occupation>
+                  <occupation>Quäker und Theologe</occupation>
                   <note type="bio">
                      <p>Studium der Geschichte und Ökonomie an der Universität Cambridge. W. lehrte und wirkte seit 1910 in Woodbrooke. 1940 wurde er der erste Professor für Theologie an der Universität Birmingham.</p>
                   </note>
@@ -11911,7 +11902,6 @@
                </person>
                <person xml:id="tillich_person_id__2104">
                   <persName>Wulf, Melvin L.</persName>
-                  <occupation>American Civil Liberties Union</occupation>
                </person>
                <person xml:id="tillich_person_id__2105">
                   <persName>Wundt, Max</persName>
@@ -11978,7 +11968,7 @@
                         <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </death>
-                  <occupation>Landesbischof Hessen</occupation>
+                  <occupation>Deutscher evangelischer Geistlicher</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1070672939</idno>
                </person>
                <person xml:id="tillich_person_id__2109">
@@ -12245,7 +12235,7 @@
                         <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe (Kirchengeschichte)</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117015067</idno>
                   <note type="bio">
                      <p>Er wirkte ab 1922 als Professor für Kirchengeschichte in Breslau. Ab 1925 lebte und wirkte er in Königsberg.</p>
@@ -12253,7 +12243,6 @@
                </person>
                <person xml:id="tillich_person_id__2128">
                   <persName>Zschorsch, Gertrud</persName>
-                  <occupation>Hamburger Kunstgewerbeschule?</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128013141</idno>
                </person>
                <person xml:id="tillich_person_id__2129">
@@ -12356,7 +12345,7 @@
                         <placeName>Heidelberg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Philosoph;</occupation>
+                  <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
                   <note type="bio">
                      <p>Er spezialisierte sich auf den Neukantianismus.</p>
@@ -12379,7 +12368,7 @@
                         <placeName key="#tillich_place_id__132">Eisenach</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller;</occupation>
+                  <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118599976</idno>
                </person>
                <person xml:id="tillich_person_id__2138">
@@ -12397,7 +12386,6 @@
                   <death>
                      <date>1914</date>
                   </death>
-                  <occupation>Oberpräsident;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117361267</idno>
                </person>
                <person xml:id="tillich_person_id__2140">
@@ -12405,7 +12393,7 @@
                   <birth>
                      <date>1877</date>
                   </birth>
-                  <occupation>Divisionsadjudant;</occupation>
+                  <occupation>Divisionsadjudant</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1070597449</idno>
                </person>
                <person xml:id="tillich_person_id__2141">
@@ -12459,7 +12447,7 @@
                         <placeName key="#tillich_place_id__512">Venedig</placeName>
                      </settlement>
                   </death>
-                  <occupation>Komponist;</occupation>
+                  <occupation>Deutscher Komponist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118594117</idno>
                </person>
                <person xml:id="tillich_person_id__2147">
@@ -12510,7 +12498,6 @@
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>Geheimrat;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118717863</idno>
                </person>
                <person xml:id="tillich_person_id__2153">
@@ -12530,7 +12517,7 @@
                   <death>
                      <date>1964</date>
                   </death>
-                  <occupation>evangelischer Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                   <note type="bio">
                      <p>Studienkollege Paul Tillichs</p>
                   </note>
@@ -12558,7 +12545,7 @@
                         <placeName>Tiefenort</placeName>
                      </settlement>
                   </birth>
-                  <occupation>evangelischer Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117077836</idno>
                   <note type="bio">
                      <p>Er war der Leibfux von Nikolaus Schuster, genannt "Nickelby".</p>
@@ -12619,7 +12606,7 @@
                   <death>
                      <date>1985</date>
                   </death>
-                  <occupation>evangelischer Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2166">
                   <persName>Weik, Friedrich</persName>
@@ -12777,7 +12764,7 @@
                </person>
                <person xml:id="tillich_person_id__2188">
                   <persName>Erdmann, ???</persName>
-                  <occupation>Professor;</occupation>
+                  <occupation>Professor</occupation>
                   <note type="bio">
                      <p>Er war Professor für Chemie an einer Berliner Hochschule.</p>
                   </note>
@@ -12793,7 +12780,7 @@
                </person>
                <person xml:id="tillich_person_id__2192">
                   <persName>???, Therese</persName>
-                  <occupation>Gemeindeschwester;</occupation>
+                  <occupation>Gemeindeschwester</occupation>
                   <note type="bio">
                      <p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p>
                   </note>
@@ -13013,7 +13000,7 @@
                   <death>
                      <date>1938-08-03</date>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118776495</idno>
                   <note type="bio">
                      <p>Er hat sich auf die neutestamentliche und kirchengeschichtliche Forschung spezialisiert.</p>
@@ -13065,7 +13052,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Lic. theolog., erster Pfarrer der Gnadenkirche in Berlin</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>Onkel Paul Tillichs mütterlicherseits.</p>
                   </note>
@@ -13105,7 +13092,6 @@
                         <placeName>Wevelinghoven</placeName>
                      </settlement>
                   </birth>
-                  <occupation>geborene Thürlings; Großtante Paul Tillichs mütterlicherseits. jüngere Schwester von Amalia Gertrud (Mathilde) Thürlings</occupation>
                </person>
                <person xml:id="tillich_person_id__2228">
                   <persName>Solberger, Maria</persName>
@@ -13130,7 +13116,7 @@
                </person>
                <person xml:id="tillich_person_id__2234">
                   <persName>Heintze, Hans Karl Ludwig Theodor</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>Er war Pfarrer in Lindtorf und Onkel von G. v. Hanffstengel.</p>
                   </note>
@@ -13143,7 +13129,6 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
-                  <occupation>genannt Else</occupation>
                   <note type="bio">
                      <p>geb. Ramelow, Ehefrau von Paul Rudolf Dürselen.</p>
                   </note>
@@ -13169,7 +13154,7 @@
                         <placeName>Emden</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Pfarrer; Mitglied der Bekennenden Kirche</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2240">
                   <persName>Walz, Michael</persName>
@@ -13214,7 +13199,7 @@
                   <death>
                      <date>1930</date>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116835907</idno>
                   <note type="bio">
                      <p>Er wirkte vor allem in Tübingen.</p>
@@ -13234,7 +13219,7 @@
                         <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117358800</idno>
                   <note type="bio">
                      <p>Er wirkte vor allem in Tübingen.</p>
@@ -13273,7 +13258,7 @@
                         <placeName key="#tillich_place_id__1387">Braunschweig</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller;</occupation>
+                  <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118597442</idno>
                </person>
                <person xml:id="tillich_person_id__2249">
@@ -13330,7 +13315,7 @@
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>Ohrenarzt;</occupation>
+                  <occupation>Ohrenarzt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117512990</idno>
                </person>
                <person xml:id="tillich_person_id__2256">
@@ -13350,7 +13335,7 @@
                </person>
                <person xml:id="tillich_person_id__2260">
                   <persName>???, Conrad</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2261">
                   <persName>???, Gerty</persName>
@@ -13360,7 +13345,7 @@
                </person>
                <person xml:id="tillich_person_id__2263">
                   <persName>Jäger, Theodor</persName>
-                  <occupation>evangelischer Pfarer</occupation>
+                  <occupation>Evangelischer Pfarer</occupation>
                </person>
                <person xml:id="tillich_person_id__2264">
                   <persName>Starke, ???</persName>
@@ -13389,7 +13374,7 @@
                         <placeName key="#tillich_place_id__181">Greifswald</placeName>
                      </settlement>
                   </death>
-                  <occupation>Professor;</occupation>
+                  <occupation>Professor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117241377</idno>
                   <note type="bio">
                      <p>Er hat sich auf die alttestamentliche Forschung spezialisiert.</p>
@@ -13403,7 +13388,7 @@
                   <death>
                      <date>1918-01-14</date>
                   </death>
-                  <occupation>Professor;</occupation>
+                  <occupation>Professor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
                   <note type="bio">
                      <p>Er hat sich auf die neutestamentliche Forschung spezialisiert.</p>
@@ -13457,7 +13442,7 @@
                         <placeName key="#tillich_place_id__416">Stettin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer; Generalsuperintendent in Stettin</occupation>
+                  <occupation>Pfarrer und Generalsuperintendent in Stettin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117718580</idno>
                   <note type="bio">
                      <p>Er war der Vater von Hermann Martin Friedrich Büchsel.</p>
@@ -13507,7 +13492,7 @@
                         <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117308110</idno>
                   <note type="bio">
                      <p>Er hat sich auf die neutestamentliche Forschung spezialisiert und gilt als Vertreter der Liberalen Theologie.</p>
@@ -13527,7 +13512,7 @@
                   <death>
                      <date>1948</date>
                   </death>
-                  <occupation>Rektor;</occupation>
+                  <occupation>Rektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127695842</idno>
                   <note type="bio">
                      <p>Er war Rektor der Magnificus-Universität von Amsterdam.</p>
@@ -13541,7 +13526,7 @@
                </person>
                <person xml:id="tillich_person_id__2285">
                   <persName>Grimm, ???</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>Er war Feldpfarrer im 1. Weltkrieg.</p>
                   </note>
@@ -13601,7 +13586,7 @@
                         <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118575910</idno>
                </person>
                <person xml:id="tillich_person_id__2290">
@@ -13625,12 +13610,12 @@
                         <placeName>Tarsos</placeName>
                      </settlement>
                   </death>
-                  <occupation>Bischof von Caesarea (heute Kayseri) in Kappadokien (Kleinasien)</occupation>
+                  <occupation>Bischof</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/102393559</idno>
                </person>
                <person xml:id="tillich_person_id__2292">
                   <persName>Malchion</persName>
-                  <occupation>Kirchenvater und Presbyter von Antiochien während der Herrschaft der Kaiser Claudius II. und Aurelian.</occupation>
+                  <occupation>Kirchenvater und Presbyter von Antiochien</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/100175171</idno>
                </person>
                <person xml:id="tillich_person_id__2293">
@@ -13663,7 +13648,7 @@
                         <placeName>Kloster Lehnin- Lehnin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kriegsminister;</occupation>
+                  <occupation>Kriegsminister</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117242160</idno>
                </person>
                <person xml:id="tillich_person_id__2295">
@@ -13680,12 +13665,12 @@
                         <placeName>Zierenberg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kriegsminister;</occupation>
+                  <occupation>Kriegsminister</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118816136</idno>
                </person>
                <person xml:id="tillich_person_id__2296">
                   <persName>Neumeister, Eckhardt</persName>
-                  <occupation>Geheimrat; Medizinalrat;</occupation>
+                  <occupation>Geheimrat und Medizinalrat</occupation>
                </person>
                <person xml:id="tillich_person_id__2297">
                   <persName>Jaurès, Jean</persName>
@@ -13701,7 +13686,7 @@
                         <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
                   </death>
-                  <occupation>Historiker; Politiker;</occupation>
+                  <occupation>Historiker und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11871192X</idno>
                </person>
                <person xml:id="tillich_person_id__2298">
@@ -13709,7 +13694,7 @@
                   <death>
                      <date>1913</date>
                   </death>
-                  <occupation>Mediziner;</occupation>
+                  <occupation>Mediziner</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1143870417</idno>
                </person>
                <person xml:id="tillich_person_id__2299">
@@ -13726,16 +13711,16 @@
                         <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116194367</idno>
                </person>
                <person xml:id="tillich_person_id__2300">
                   <persName>Theologische Fakultät der Universität Berlin, ???</persName>
-                  <occupation>Institution;</occupation>
+                  <occupation>Institution</occupation>
                </person>
                <person xml:id="tillich_person_id__2301">
                   <persName>Verlag Vandenhoeck &amp; Ruprecht, ???</persName>
-                  <occupation>Institution;</occupation>
+                  <occupation>Institution</occupation>
                </person>
                <person xml:id="tillich_person_id__2302">
                   <persName>Bunge, Gustav von</persName>
@@ -13812,7 +13797,7 @@
                         <placeName key="#tillich_place_id__743">Göttingen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Zu Beginn des 1. Weltkriegs Kommandeur der 13. Reserve-Infanterie-Brigade</occupation>
+                  <occupation>Deutscher General</occupation>
                </person>
                <person xml:id="tillich_person_id__2308">
                   <persName>Kinzel, Eberhard</persName>
@@ -13845,7 +13830,7 @@
                         <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer; Übersetzer;</occupation>
+                  <occupation>Pfarrer und Übersetzer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128431210</idno>
                   <note type="bio">
                      <p>Er war ein evangelischer Pfarrer, Quäker und Übersetzer. Er galt als religiöser Sozialist.</p>
@@ -13853,7 +13838,7 @@
                </person>
                <person xml:id="tillich_person_id__2310">
                   <persName>Erb, ???</persName>
-                  <occupation>Jugendpfleger;</occupation>
+                  <occupation>Jugendpfleger</occupation>
                </person>
                <person xml:id="tillich_person_id__2311">
                   <persName>Schultz, Bruno</persName>
@@ -13866,7 +13851,7 @@
                   <death>
                      <date>1987-10-02</date>
                   </death>
-                  <occupation>Wirtschaftswissenschaftler;</occupation>
+                  <occupation>Wirtschaftswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/134112202</idno>
                   <note type="bio">
                      <p>Er war ein Schüler von Franz Oppenheimer.</p>
@@ -13883,7 +13868,7 @@
                   <death>
                      <date>1962-05-18</date>
                   </death>
-                  <occupation>Soziologe;</occupation>
+                  <occupation>Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118711482</idno>
                </person>
                <person xml:id="tillich_person_id__2313">
@@ -13900,7 +13885,7 @@
                         <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </death>
-                  <occupation>Germanist; Volkskundler;</occupation>
+                  <occupation>Germanist und Volkskundler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118751727</idno>
                </person>
                <person xml:id="tillich_person_id__2314">
@@ -13921,7 +13906,6 @@
                </person>
                <person xml:id="tillich_person_id__2315">
                   <persName>Mehlis, Georg (Prof.)</persName>
-                  <occupation>Freiburg</occupation>
                </person>
                <person xml:id="tillich_person_id__2316">
                   <persName>Lederer, Emil</persName>
@@ -13937,7 +13921,7 @@
                         <placeName>New York, NY</placeName>
                      </settlement>
                   </death>
-                  <occupation>Ökonom; Soziologe;</occupation>
+                  <occupation>Ökonom und Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119311143</idno>
                </person>
                <person xml:id="tillich_person_id__2317">
@@ -13948,7 +13932,7 @@
                   <death>
                      <date>1942</date>
                   </death>
-                  <occupation>Wirtschaftswissenschaftler; Soziologe;</occupation>
+                  <occupation>Wirtschaftswissenschaftler und Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117448559</idno>
                </person>
                <person xml:id="tillich_person_id__2318">
@@ -13959,7 +13943,7 @@
                   <death>
                      <date>1960-09-10</date>
                   </death>
-                  <occupation>Soziologe; Historiker;</occupation>
+                  <occupation>Soziologe und Historiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11696068X</idno>
                </person>
                <person xml:id="tillich_person_id__2319">
@@ -13976,16 +13960,16 @@
                         <placeName>Marburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Jurist;</occupation>
+                  <occupation>Jurist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116919140</idno>
                </person>
                <person xml:id="tillich_person_id__2320">
                   <persName>Wienskowski, Max von</persName>
-                  <occupation>preußischer Generalleutnant</occupation>
+                  <occupation>Preußischer Generalleutnant</occupation>
                </person>
                <person xml:id="tillich_person_id__2321">
                   <persName>Krubin, ???</persName>
-                  <occupation>Oberstleutnant;</occupation>
+                  <occupation>Oberstleutnant</occupation>
                   <note type="bio">
                      <p>Er war in den 1. Weltkrieg verwickelt.</p>
                   </note>
@@ -14004,7 +13988,7 @@
                         <placeName key="#tillich_place_id__356">Potsdam</placeName>
                      </settlement>
                   </death>
-                  <occupation>Ab dem 2. August 1914 kommandierender General des IV. Reserve-Korps.</occupation>
+                  <occupation>Preußischer General</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/136139418</idno>
                </person>
                <person xml:id="tillich_person_id__2323">
@@ -14021,54 +14005,54 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Beim Ausbruch des 1. Weltkriegs wurde Kluck am 2. August 1914 zum Oberbefehlshaber der 1. Armee ernannt.</occupation>
+                  <occupation>Deutscher Offizier</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116235489</idno>
                </person>
                <person xml:id="tillich_person_id__2324">
                   <persName>Ahrens, ???</persName>
-                  <occupation>Hauptmann; Generalstäbler</occupation>
+                  <occupation>Hauptmann und Generalstäbler</occupation>
                   <note type="bio">
                      <p>Er war in den 1. Weltkrieg verwickelt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2325">
                   <persName>Pescatore, Dominik von</persName>
-                  <occupation>Rittmeister;</occupation>
+                  <occupation>Rittmeister</occupation>
                   <note type="bio">
                      <p>Er war in den 1. Weltkrieg verwickelt und besaß ein Allodialgut in Schwenzin bei Waren/Mecklenburg.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2326">
                   <persName>Freud, ???</persName>
-                  <occupation>Oberleutnant 1. WK</occupation>
+                  <occupation>Oberleutnant im ersten Weltkrieg</occupation>
                   <note type="bio">
                      <p>Er war in den 1. Weltkrieg verwickelt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2327">
                   <persName>Dietrich, ???</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>Er war katholischer Priester und hatte Kontakt zu Paul Tillich im 1. Weltkrieg.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2328">
                   <persName>Hereike, ???</persName>
-                  <occupation>Gerichtssektretär;</occupation>
+                  <occupation>Gerichtssektretär</occupation>
                   <note type="bio">
                      <p>Er hatte Kontakt zu Paul Tillich im 1. Weltkrieg.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2329">
                   <persName>Rosental, ???</persName>
-                  <occupation>Oberstabsarzt;</occupation>
+                  <occupation>Oberstabsarzt</occupation>
                   <note type="bio">
                      <p>Er war in den 1. Weltkrieg verwickelt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2330">
                   <persName>Müller, ???</persName>
-                  <occupation>Kriegsgerichtsrat;</occupation>
+                  <occupation>Kriegsgerichtsrat</occupation>
                   <note type="bio">
                      <p>Er war in den 1. Weltkrieg verwickelt.</p>
                   </note>
@@ -14096,7 +14080,7 @@
                   <death>
                      <date>1959-12-04</date>
                   </death>
-                  <occupation>Pastor;</occupation>
+                  <occupation>Pastor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118844814</idno>
                   <note type="bio">
                      <p>Er lebte und wirkte in Bremen.</p>
@@ -14110,7 +14094,7 @@
                   <death>
                      <date>29.4.1926</date>
                   </death>
-                  <occupation>Pastor zu Unser Lieben Frauen in Bremen (1905-1926)</occupation>
+                  <occupation>Pastor</occupation>
                </person>
                <person xml:id="tillich_person_id__2337">
                   <persName>Groeber, ???</persName>
@@ -14133,7 +14117,7 @@
                </person>
                <person xml:id="tillich_person_id__2339">
                   <persName>Portig, ???</persName>
-                  <occupation>Theologe; Autor;</occupation>
+                  <occupation>Theologe und Autor</occupation>
                </person>
                <person xml:id="tillich_person_id__2340">
                   <persName>Fritsch, Friedrich</persName>
@@ -14239,12 +14223,12 @@
                   <birth>
                      <date>1889</date>
                   </birth>
-                  <occupation>Dramaturg; Regisseur; Kunstkritiker; um 1931 am Landestheater Mannheim beschäftigt.</occupation>
+                  <occupation>Dramaturg, Regisseur und Kunstkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116240253</idno>
                </person>
                <person xml:id="tillich_person_id__2351">
                   <persName/>
-                  <occupation>Philosoph;</occupation>
+                  <occupation>Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__2352">
                   <persName>Borchers, Frau</persName>
@@ -14269,7 +14253,7 @@
                </person>
                <person xml:id="tillich_person_id__2356">
                   <persName>Herrmann, Christian</persName>
-                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <occupation>Philosoph und Pädagoge</occupation>
                   <note type="bio">
                      <p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p>
                   </note>
@@ -14314,14 +14298,14 @@
                </person>
                <person xml:id="tillich_person_id__2363">
                   <persName>Bogmann, ???</persName>
-                  <occupation>Oberleutnant; Assessor;</occupation>
+                  <occupation>Oberleutnant und Assessor</occupation>
                   <note type="bio">
                      <p>Er war Jägeroberleutnant im 1. Weltkrieg und Assessor in Kiel.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2364">
                   <persName>Cordier, ??? von</persName>
-                  <occupation>Ingenieur; Oberleutnant;</occupation>
+                  <occupation>Ingenieur und Oberleutnant</occupation>
                   <note type="bio">
                      <p>Er war Oberleutnant der Feldtelephonabteilung im 1. Weltkrieg und arbeitete als Ingenieur bei Krupp. Er kannte Immanuel Fritz sehr gut.</p>
                   </note>
@@ -14340,7 +14324,7 @@
                         <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138219885</idno>
                   <note type="bio">
                      <p>Er hat sich auf die kirchengeschichtliche Forschung spezialisiert.</p>
@@ -14357,7 +14341,7 @@
                   <death>
                      <date>1648-05-02</date>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117684058</idno>
                </person>
                <person xml:id="tillich_person_id__2367">
@@ -14368,7 +14352,7 @@
                   <death>
                      <date>1713</date>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/131640879</idno>
                </person>
                <person xml:id="tillich_person_id__2368">
@@ -14385,7 +14369,7 @@
                         <placeName>Minden (Westf)</placeName>
                      </settlement>
                   </death>
-                  <occupation>Baumeister;</occupation>
+                  <occupation>Baumeister</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1024984346</idno>
                   <note type="bio">
                      <p>Er war befreundet mit Hermann Schafft.</p>
@@ -14452,7 +14436,7 @@
                   <death>
                      <date>1918-08-28</date>
                   </death>
-                  <occupation>Oberarzt im Reserve-Infanterie-Regiment Nr. 66; Adjutant des Oberstabsarztes Rosental; gefallen am 28.August 1918.</occupation>
+                  <occupation>Arzt</occupation>
                </person>
                <person xml:id="tillich_person_id__2374">
                   <persName>Hafemann, Richard</persName>
@@ -14466,7 +14450,7 @@
                </person>
                <person xml:id="tillich_person_id__2375">
                   <persName>Bolkansky, ???</persName>
-                  <occupation>Hauptmann;</occupation>
+                  <occupation>Hauptmann</occupation>
                   <note type="bio">
                      <p>Er war Hauptmann und Adjutant im 1. Weltkrieg.</p>
                   </note>
@@ -14485,7 +14469,7 @@
                         <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pastor;</occupation>
+                  <occupation>Pastor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116971886</idno>
                   <note type="bio">
                      <p>Er lebte und wirkte in Norddeutschland.</p>
@@ -14552,7 +14536,7 @@
                         <placeName>Morcote</placeName>
                      </settlement>
                   </death>
-                  <occupation>Professor;</occupation>
+                  <occupation>Professor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119154714</idno>
                   <note type="bio">
                      <p>Er engagierte sich 1935 gegen den Faschismus und war später Professor der Zoologie.</p>
@@ -14597,7 +14581,7 @@
                         <placeName key="#tillich_place_id__78">Brüssel</placeName>
                      </settlement>
                   </death>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118907832</idno>
                   <note type="bio">
                      <p>Er stammte aus Flandern in den Niederlanden.</p>
@@ -14680,7 +14664,7 @@
                         <placeName>Dover, Del.</placeName>
                      </settlement>
                   </death>
-                  <occupation>Institutsgründer;</occupation>
+                  <occupation>Institutsgründer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117251062</idno>
                   <note type="bio">
                      <p>Er war der Gründer/Finazier des Instituts für Sozialforschung.</p>
@@ -14718,7 +14702,7 @@
                         <placeName>München-Obermenzing</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe (Kirchengeschichte)</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
                   <note type="bio">
                      <p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p>
@@ -14766,7 +14750,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Architekt;</occupation>
+                  <occupation>Architekt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1038829402</idno>
                   <note type="bio">
                      <p>Er war Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Er baute unter anderem das "Haus auf dem Küssel".</p>
@@ -14786,7 +14770,7 @@
                         <placeName key="#tillich_place_id__233">Karlsbad</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schauspieler;</occupation>
+                  <occupation>Schauspieler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11859138X</idno>
                </person>
                <person xml:id="tillich_person_id__2408">
@@ -14809,7 +14793,7 @@
                         <placeName>Rengsdorf</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer der deutschen evangelischen Gemeinde in Brüssel</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                   <note type="bio">
                      <p>1900-1905 Pfarrer in Lobberich, 1905-1918 in Brüssel, 1920-1930 in Werlau</p>
                   </note>
@@ -14819,7 +14803,7 @@
                </person>
                <person xml:id="tillich_person_id__2411">
                   <persName>Bienert, Friedrich</persName>
-                  <occupation>Großindustrieller; Sammler; Mäzen;</occupation>
+                  <occupation>Großindustrieller, Sammler und Mäzen</occupation>
                   <note type="bio">
                      <p>Er war der Sohn von Ida und Erwin Bienert.</p>
                   </note>
@@ -14847,7 +14831,7 @@
                         <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116234210</idno>
                </person>
                <person xml:id="tillich_person_id__2416">
@@ -14870,7 +14854,7 @@
                         <placeName key="#tillich_place_id__751">Istanbul</placeName>
                      </settlement>
                   </death>
-                  <occupation>Philosoph;</occupation>
+                  <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116372222</idno>
                </person>
                <person xml:id="tillich_person_id__2418">
@@ -14881,7 +14865,7 @@
                   <death>
                      <date>1969</date>
                   </death>
-                  <occupation>Dichterin;</occupation>
+                  <occupation>Dichterin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/101206844</idno>
                   <note type="bio">
                      <p>Sie war die Frau von Ernst von Aster.</p>
@@ -14918,7 +14902,7 @@
                         <placeName>Klaipėda</placeName>
                      </settlement>
                   </death>
-                  <occupation>Baltist; Ministerialdirektor;</occupation>
+                  <occupation>Baltist und Ministerialdirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116595167</idno>
                   <note type="bio">
                      <p>seit Ab April 1933 war er Ministerialdirektor im deutschen Wissenschafts- bzw. Kultusministerium.</p>
@@ -14938,7 +14922,7 @@
                         <placeName key="#tillich_place_id__236">Kassel</placeName>
                      </settlement>
                   </death>
-                  <occupation>Historikerin; Pädagogin; Schulleiterin;</occupation>
+                  <occupation>Historikerin, Pädagogin und Schulleiterin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116963522</idno>
                </person>
                <person xml:id="tillich_person_id__2423">
@@ -14952,7 +14936,7 @@
                         <placeName>New York, NY</placeName>
                      </settlement>
                   </death>
-                  <occupation>Wirtschaftswissenschaftler;</occupation>
+                  <occupation>Wirtschaftswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117164550</idno>
                   <note type="bio">
                      <p>Er war Initiator der University of Exile an der New School for Social Research.</p>
@@ -14981,7 +14965,7 @@
                         <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker;</occupation>
+                  <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118693220</idno>
                   <note type="bio">
                      <p>Er hat wesentlich an den Bänden der Österreichischen Kunsttopographie mitgearbeitet. Für Dagobert Frey war Kunst vornehmlich Sinnstiftung.</p>
@@ -15001,7 +14985,7 @@
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker;</occupation>
+                  <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118807900</idno>
                   <note type="bio">
                      <p>Er war verheiratet mit der Künstlerin Marta Worringer. Auf ihn geht der Begriff der ‚Abstraktion‘ als Bezeichnung für die Formensprache der Kunst der Moderne zurück.</p>
@@ -15021,7 +15005,7 @@
                         <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker; Professor</occupation>
+                  <occupation>Kunsthistoriker und Professor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118600818</idno>
                   <note type="bio">
                      <p>Er stammt ursprünglich aus Linz und wirkte als Professor in Wien. Er war Generalkonservator.</p>
@@ -15041,7 +15025,7 @@
                         <placeName>Princeton, NJ</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker;</occupation>
+                  <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/115671994</idno>
                   <note type="bio">
                      <p>Er stammt ursprünglich aus Prag. 1907 studierte er in München Kunstgeschichte. 1938 emigrierte er in die USA.</p>
@@ -15061,7 +15045,7 @@
                         <placeName>Hrušovany nad Jevišovkou</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker; Denkmalpfleger;</occupation>
+                  <occupation>Kunsthistoriker und Denkmalpfleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118528378</idno>
                   <note type="bio">
                      <p>Er stammt ursprünglich aus Radnitz und studierte an den Universitäten Prag und Wien. Er war der Nachfolger von Alois Riegel.</p>
@@ -15081,7 +15065,7 @@
                         <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker;</occupation>
+                  <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118634496</idno>
                   <note type="bio">
                      <p>Er stammt ursprünglich aus Winterthur und studierte Philosophie an der Universität Basel und an der Friedrich-Wilhelms-Universität Berlin, später auch Kunstgeschichte in München.</p>
@@ -15095,7 +15079,7 @@
                   <death>
                      <date>1945</date>
                   </death>
-                  <occupation>Philosoph; Kunsthistoriker;</occupation>
+                  <occupation>Philosoph und Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116621931</idno>
                   <note type="bio">
                      <p>Er wirkte vor allem in Frankfurt/Main.</p>
@@ -15115,7 +15099,7 @@
                         <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker; Kunstkritiker;</occupation>
+                  <occupation>Kunsthistoriker und Kunstkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118674129</idno>
                   <note type="bio">
                      <p>Er stammt ursprünglich aus Norderney und studierte in Berlin, München und an der Technischen Hochschule Charlottenburg Kunstgeschichte. Er promovierte 1905 und lehrte danach in Rostock, Berlin sowie Frankfurt/Main.</p>
@@ -15135,7 +15119,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker;</occupation>
+                  <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118792237</idno>
                   <note type="bio">
                      <p>Er stammt ursprünglich aus Kassel und hat Archäologie und Kunstgeschichte an den Universitäten Göttingen, Berlin, München und Leipzig studiert. Er war ein Mitglied der Burschenschaft Alemannia Göttingen 1896. Er war bekennender Antisemit und Nationalist.</p>
@@ -15158,7 +15142,7 @@
                         <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
-                  <occupation>Mathematiker;</occupation>
+                  <occupation>Mathematiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
                   <note type="bio">
                      <p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p>
@@ -15192,7 +15176,7 @@
                </person>
                <person xml:id="tillich_person_id__2439">
                   <persName>Dreyfuß, Carl</persName>
-                  <occupation>Filmemacher; Sozialforscher;</occupation>
+                  <occupation>Filmemacher und Sozialforscher</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/121594165</idno>
                   <note type="bio">
                      <p>Er war ein Freund Adornos und Bekannter Tillichs aus dem Frankfurter Umfeld. Er stand in Verbindung mit dem Institut für Sozialforschung. Später wirkte er als Filmemacher.</p>
@@ -15200,7 +15184,7 @@
                </person>
                <person xml:id="tillich_person_id__2440">
                   <persName>Verlag Mohr Siebeck, ???</persName>
-                  <occupation>Institution;</occupation>
+                  <occupation>Institution</occupation>
                </person>
                <person xml:id="tillich_person_id__2441">
                   <persName>Braun, Otto</persName>
@@ -15216,7 +15200,7 @@
                         <placeName>Locarno</placeName>
                      </settlement>
                   </death>
-                  <occupation>Ministerpräsident;</occupation>
+                  <occupation>Ministerpräsident</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118514636</idno>
                   <note type="bio">
                      <p>Geboren wurde er in Königsberg. Er schloss eine Lehre als Drucker ab. Von 1920 bis 1932 wirkte er als SPD-Ministerpräsident. 1933 flüchtete er in die Schweiz. 1955 verstarb er in Locarno.</p>
@@ -15236,7 +15220,7 @@
                         <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pädagogin;</occupation>
+                  <occupation>Pädagogin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1120268079</idno>
                   <note type="bio">
                      <p>Sie war eine deutsche Pädagogin und Schulgründerin in Bremen.</p>
@@ -15256,7 +15240,7 @@
                         <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </death>
-                  <occupation>Literaturwissenschaftler; Bibliotheksdirektor;</occupation>
+                  <occupation>Literaturwissenschaftler und Bibliotheksdirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117078190</idno>
                   <note type="bio">
                      <p>Er wirkte als Direktor der Bibliothek der TH Dresden.</p>
@@ -15276,7 +15260,7 @@
                         <placeName key="#tillich_place_id__133">Elberfeld</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer; politischer Aktivist;</occupation>
+                  <occupation>Deutscher evangelischer Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138240043</idno>
                   <note type="bio">
                      <p>Er war ein deutscher evangelischer Pfarrer und Hitlergegner. Als Häftling war er im KZ Dachau interniert. Auch als "Bibellehrer" wirkte er.</p>
@@ -15303,7 +15287,7 @@
                   <death>
                      <date>[nach 1953]</date>
                   </death>
-                  <occupation>Verwaltungsjurist;</occupation>
+                  <occupation>Verwaltungsjurist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/133789152</idno>
                   <note type="bio">
                      <p>Als Verwaltungsjurist wirkte er vor allem in Berlin.</p>
@@ -15317,7 +15301,7 @@
                   <death>
                      <date>1981</date>
                   </death>
-                  <occupation>Philosoph; Theologe; Bürgerrechtsaktivist;</occupation>
+                  <occupation>Philosoph, Theologe und Bürgerrechtsaktivist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118963961</idno>
                   <note type="bio">
                      <p>Er lebte und wirkte in den USA.</p>
@@ -15341,12 +15325,12 @@
                </person>
                <person xml:id="tillich_person_id__2450">
                   <persName>Hoenisch, Ernst</persName>
-                  <occupation>Hoffotograf in Leipzig</occupation>
+                  <occupation>Deutscher Fotograf</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127774904</idno>
                </person>
                <person xml:id="tillich_person_id__2451">
                   <persName>Plenge, Johann Max Emanuel</persName>
-                  <occupation>Nationalökonom; Soziologe;</occupation>
+                  <occupation>Nationalökonom und Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118594966</idno>
                   <note type="bio">
                      <p>Der Nationalökonom und Soziologe Johannes Plenge (1874–1963), ein Schüler Karl Büchers und sozialdemokratischer Antisemit, lehrte als Professor für Staatswissenschaften und Volkswirtschaftslehre an der Westfälischen Wilhelms-Universität Münster. Er war nicht zuletzt als Propagandist der „Ideen von 1914“ bekannt geworden.</p>
@@ -15357,12 +15341,12 @@
                </person>
                <person xml:id="tillich_person_id__2453">
                   <persName>Kawerau, Walter</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1293210633</idno>
                </person>
                <person xml:id="tillich_person_id__2454">
                   <persName>Amsler, Hermann</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>Er wirkte als Pfarrer in Bern.</p>
                   </note>
@@ -15389,7 +15373,7 @@
                </person>
                <person xml:id="tillich_person_id__2457">
                   <persName>Sächsisches Ministerium für Wissenschaft, Kunst und Volksbildung, ???</persName>
-                  <occupation>Institution;</occupation>
+                  <occupation>Institution</occupation>
                </person>
                <person xml:id="tillich_person_id__2458">
                   <persName>Hülsen, Ernst von</persName>
@@ -15405,7 +15389,7 @@
                         <placeName>Marburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Universitätskurator;</occupation>
+                  <occupation>Universitätskurator</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117048909</idno>
                   <note type="bio">
                      <p>Er wirkte als Universitätskurator der Universität Marburg von 1920 bis 1932 und wiederum von 1933 bis 1945.</p>
@@ -15413,7 +15397,7 @@
                </person>
                <person xml:id="tillich_person_id__2459">
                   <persName>Detert, Ernst</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>Er wirkte als Pfarrer in Rathenow und Berlin.</p>
                   </note>
@@ -15446,7 +15430,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe, Mitglied der Religiösen Gesellschaft der Freunde (Quäker)</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118536567</idno>
                </person>
                <person xml:id="tillich_person_id__2464">
@@ -15473,7 +15457,7 @@
                         <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </death>
-                  <occupation>Rektor;</occupation>
+                  <occupation>Rektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119534061</idno>
                   <note type="bio">
                      <p>Er wirkte als Rektor der Technischen Hochschule Dresden von 1923 bis 1925 und wiederum von 1928 bis 1929.</p>
@@ -15526,7 +15510,7 @@
                   <death>
                      <date>1939</date>
                   </death>
-                  <occupation>Professor;</occupation>
+                  <occupation>Professor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/137432534</idno>
                   <note type="bio">
                      <p>Er wirkte von 1926 bis 1939 als Professor für Praktische Theologie in Gießen. Er stand der Berneuchener Bewegung nahe.</p>
@@ -15549,7 +15533,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Honorarprofessor; Ministerialrat;</occupation>
+                  <occupation>Honorarprofessor und Ministerialrat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117400149</idno>
                   <note type="bio">
                      <p>Wolfgang Windelband (31. August 1886 – 3. Februar 1945) war ein deutscher Historiker und Hochschullehrer. Er studierte Geschichte und Philologie, wurde 1908 promoviert und habilitierte sich 1914 in Heidelberg. Nach Lehrtätigkeiten in Heidelberg und Darmstadt wurde er 1925 Professor in Königsberg, wechselte jedoch bald in das Preußische Unterrichtsministerium und lehrte zugleich in Berlin. 1935 wurde er nach Halle versetzt und kurz darauf aus dem Dienst entlassen. Seine Forschungsschwerpunkte lagen in der neueren Geschichte, insbesondere zur Außenpolitik und zu Otto von Bismarck.</p>
@@ -15568,7 +15552,7 @@
                   <birth>
                      <date>1894</date>
                   </birth>
-                  <occupation>Jurist; Zwischenbuchhändler</occupation>
+                  <occupation>Jurist und Zwischenbuchhändler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/125942303</idno>
                </person>
                <person xml:id="tillich_person_id__2474">
@@ -15601,7 +15585,7 @@
                         <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
                      </settlement>
                   </death>
-                  <occupation>Germanist, Volkskundler</occupation>
+                  <occupation>Germanist und Volkskundler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118795805</idno>
                </person>
                <person xml:id="tillich_person_id__2476">
@@ -15644,7 +15628,7 @@
                         <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
-                  <occupation>Staatssekretär im Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung (1925-1933)</occupation>
+                  <occupation>Deutscher Jurist, Verwaltungsbeamter und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/124001548</idno>
                </person>
                <person xml:id="tillich_person_id__2480">
@@ -15661,7 +15645,7 @@
                         <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
-                  <occupation>Buchhändler; Barsortimenter;</occupation>
+                  <occupation>Buchhändler und Barsortimenter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128818182</idno>
                   <note type="bio">
                      <p>Der Verlag "Koehler &amp; Volckmar AG " hat seinen Name übernommen.</p>
@@ -15682,7 +15666,7 @@
                </person>
                <person xml:id="tillich_person_id__2482">
                   <persName>Riedel, Margarete</persName>
-                  <occupation>Musikerin (Cembalo) des Quartetts "Spieleinung Berlin", gemeinsam mit Hans Krüger (Flöte), Heinz Stopka (Flöte) und Georg Seegers (Bass).</occupation>
+                  <occupation>Musikerin</occupation>
                </person>
                <person xml:id="tillich_person_id__2483">
                   <persName>Küntzel, Georg</persName>
@@ -15756,7 +15740,7 @@
                   <death>
                      <date>1946-01-01</date>
                   </death>
-                  <occupation>Professor für Altes Testament;</occupation>
+                  <occupation>Professor für Altes Testament</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117474673</idno>
                   <note type="bio">
                      <p>Er wirkte von 1921 bis 1935 als Professor in Berlin.</p>
@@ -15779,7 +15763,7 @@
                         <placeName>Küssnacht am Rigi</placeName>
                      </settlement>
                   </death>
-                  <occupation>Bankier; Soziologe;</occupation>
+                  <occupation>Bankier und Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11737380X</idno>
                   <note type="bio">
                      <p>In seiner Forschung widmete er sich insbesondere der politischen Soziologie.</p>
@@ -15835,7 +15819,7 @@
                   <death>
                      <date>1960</date>
                   </death>
-                  <occupation>Philosoph; Pädagoge;</occupation>
+                  <occupation>Philosoph und Pädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117275824</idno>
                   <note type="bio">
                      <p>Er war zeitweilen Studiendirektor der Universität Frankfurt am Main.</p>
@@ -15855,7 +15839,7 @@
                         <placeName key="#tillich_place_id__60">Bielefeld</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politiker;</occupation>
+                  <occupation>Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11879678X</idno>
                   <note type="bio">
                      <p>Er arbeitete von 1928 bis 1930 als Reichsinnenminister, von 1930 bis 1932 als preußischer Innenminister und war Förderer der Neuen Blätter für den Sozialismus.</p>
@@ -15869,7 +15853,7 @@
                   <death>
                      <date>1977</date>
                   </death>
-                  <occupation>Verleger;</occupation>
+                  <occupation>Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1073649849</idno>
                   <note type="bio">
                      <p>Auf ihn geht der Alfred-Protte-Verlag zurück.</p>
@@ -15886,7 +15870,7 @@
                   <death>
                      <date>1952</date>
                   </death>
-                  <occupation>Historiker; Journalist; Hochschullehrer; Leiter der Kasseler Volkshochschule;</occupation>
+                  <occupation>Historiker und Journalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/132777282</idno>
                </person>
                <person xml:id="tillich_person_id__2500">
@@ -15903,7 +15887,7 @@
                         <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe;</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/120739992</idno>
                </person>
                <person xml:id="tillich_person_id__2501">
@@ -15929,7 +15913,7 @@
                   <death>
                      <date>1969-08-09</date>
                   </death>
-                  <occupation>Historiker;</occupation>
+                  <occupation>Historiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116208929</idno>
                </person>
                <person xml:id="tillich_person_id__2504">
@@ -15943,7 +15927,7 @@
                         <placeName key="#tillich_place_id__788">Oxford</placeName>
                      </settlement>
                   </death>
-                  <occupation>Nationalökonomin; Schriftstellerin;</occupation>
+                  <occupation>Nationalökonomin und Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116766972</idno>
                   <note type="bio">
                      <p>Sie war die Frau von Friedrich Gundolf.</p>
@@ -15963,7 +15947,7 @@
                         <placeName>Moosburg a.d. Isar</placeName>
                      </settlement>
                   </death>
-                  <occupation>NSDAP Mitglied; als "Erziehungswissenschaftler" angestellt.</occupation>
+                  <occupation>Deutscher Lehrer und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118566806</idno>
                </person>
                <person xml:id="tillich_person_id__2506">
@@ -16006,7 +15990,7 @@
                         <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Architekt;</occupation>
+                  <occupation>Architekt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118732218</idno>
                </person>
                <person xml:id="tillich_person_id__2511">
@@ -16032,7 +16016,7 @@
                   <death>
                      <date>1934</date>
                   </death>
-                  <occupation>Dresdner Rechtsanwalt; Kunstsammler;</occupation>
+                  <occupation>Rechtsanwalt und Kunstsammler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116237899</idno>
                </person>
                <person xml:id="tillich_person_id__2516">
@@ -16097,7 +16081,7 @@
                         <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistoriker;</occupation>
+                  <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118674129</idno>
                </person>
                <person xml:id="tillich_person_id__2521">
@@ -16108,7 +16092,7 @@
                   <death>
                      <date>1480</date>
                   </death>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118534564</idno>
                </person>
                <person xml:id="tillich_person_id__2522">
@@ -16119,12 +16103,11 @@
                   <death>
                      <date>1665</date>
                   </death>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118596047</idno>
                </person>
                <person xml:id="tillich_person_id__2523">
                   <persName>Odysseus, ???</persName>
-                  <occupation>Figur aus der griechischen Mythologie;</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118589385</idno>
                   <note type="bio">
                      <p>Odysseus ist ein Held in der griechischen Mythologie, Sohn des Laërtes und der Antikleia, König von Ithaka, Gemahl der Penelope und Vater des Telemachos. Im Trojanischen Krieg erlangte er durch Klugheit und List, etwa beim Bau des Trojanischen Pferdes, großen Ruhm. Homers Odyssee schildert seine zehnjährige Irrfahrt voller Gefahren auf dem Heimweg. Nach seiner Rückkehr tötete er die Freier seiner Frau und übernahm wieder die Herrschaft. Nach der Telegonie starb er durch die Hand seines Sohnes Telegonos, wobei es auch andere Varianten seines Todes gibt.</p>
@@ -16175,7 +16158,7 @@
                         <placeName>Heilsbronn</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Politiker;</occupation>
+                  <occupation>Theologe und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/102452020X</idno>
                   <note type="bio">
                      <p>Er war Vorsitzender der christlich-sozialen Partei von 1912 bis 1916.</p>
@@ -16244,11 +16227,11 @@
                         <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
-                  <occupation>Leipziger Schriftsteller, Buchhändler und Verleger. Er publizierte auch unter dem Namen "Bliemchen".</occupation>
+                  <occupation>Schriftsteller, Buchhändler und Verleger</occupation>
                </person>
                <person xml:id="tillich_person_id__2541">
                   <persName>Greiner, Hans Moritz</persName>
-                  <occupation>Leipziger Buchhändler und Verleger.</occupation>
+                  <occupation>Buchhändler und Verleger.</occupation>
                </person>
                <person xml:id="tillich_person_id__2542">
                   <persName>Bredt, ???</persName>
@@ -16261,7 +16244,7 @@
                   <death>
                      <date>1944</date>
                   </death>
-                  <occupation>Missionsinspektor;</occupation>
+                  <occupation>Missionsinspektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117142107</idno>
                </person>
                <person xml:id="tillich_person_id__2544">
@@ -16285,16 +16268,16 @@
                         <placeName>Bielefeld-Bethel</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer in Bielefeld;</occupation>
+                  <occupation>Pfarrer in Bielefeld</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118567853</idno>
                </person>
                <person xml:id="tillich_person_id__2547">
                   <persName>Kapell, Hubert</persName>
-                  <occupation>Katholischer Feldgeistlicher; Pater der Herz Jesu Missionare</occupation>
+                  <occupation>Katholischer Feldgeistlicher</occupation>
                </person>
                <person xml:id="tillich_person_id__2548">
                   <persName>Menthe, Edgar</persName>
-                  <occupation>Oberleutnant;</occupation>
+                  <occupation>Oberleutnant</occupation>
                </person>
                <person xml:id="tillich_person_id__2549">
                   <persName>???, Ilse</persName>
@@ -16304,7 +16287,7 @@
                </person>
                <person xml:id="tillich_person_id__2551">
                   <persName>Lütze, Hermann</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2552">
                   <persName>Napoleon III., Louis</persName>
@@ -16356,7 +16339,7 @@
                         <placeName>Chicago, Ill.</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Philosoph;</occupation>
+                  <occupation>Theologe und  Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116155264</idno>
                </person>
                <person xml:id="tillich_person_id__2558">
@@ -16438,7 +16421,7 @@
                   <death>
                      <date>1943</date>
                   </death>
-                  <occupation>Verleger;</occupation>
+                  <occupation>Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/141296372</idno>
                   <note type="bio">
                      <p>Wilhelm Ruprecht (6. Juni 1858 – 7. August 1943) war ein deutscher Verleger in Göttingen. Als Sohn des Verlegers Carl Johann Friedrich Wilhelm Ruprecht trat er 1883 in den väterlichen Verlag ein und wurde 1887 gemeinsam mit seinem Bruder Gustav Ruprecht Teilhaber. Zuvor hatte er nach Militärdienst Nationalökonomie in Leipzig und Tübingen studiert und im Verlag Max Niemeyer in Halle gearbeitet. Seit 1899 gehörte er dem Vorstand des Börsenvereins der deutschen Buchhändler an und übernahm dort weitere Funktionen; 1932 erhielt er das Goldene Ehrenzeichen des Vereins. 1914 nahm er im Alter von 56 Jahren als Soldat am Ersten Weltkrieg teil.</p>
@@ -16449,7 +16432,7 @@
                   <birth>
                      <date>1890-02-08</date>
                   </birth>
-                  <occupation>Professor; Pfarrer;</occupation>
+                  <occupation>Professor und Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116063815</idno>
                   <note type="bio">
                      <p>Er war 1914 in Gießen zum Lic. theol. promoviert worden und erwarb hier die venia legendi für Systematische Theologie. Von 1922 bis 1945 nahm er in Gießen einen Lehrauftrag für die "Geschichte der Protestantischen Theologie" wahr. Von 1925 bis 1953 lehrte er zugleich am Evangelisch Theologischen Landesseminar in Herborn, wo er auch als Pfarrer wirkte. 1932 wurde er in Gießen zum nichtbeamteten außerordentlichen Professor. Ab 1940 wirkte er als außerplanmäßiger Professor.</p>
@@ -16469,7 +16452,7 @@
                         <placeName key="#tillich_place_id__743">Göttingen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Philosoph;</occupation>
+                  <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118582720</idno>
                </person>
                <person xml:id="tillich_person_id__2572">
@@ -16477,7 +16460,7 @@
                </person>
                <person xml:id="tillich_person_id__2573">
                   <persName>Falk, Werner David</persName>
-                  <occupation>Soziologe, Philosoph</occupation>
+                  <occupation>Soziologe und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1145381863</idno>
                </person>
                <person xml:id="tillich_person_id__2574">
@@ -16606,7 +16589,7 @@
                </person>
                <person xml:id="tillich_person_id__2583">
                   <persName>Linsa, ???</persName>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                </person>
                <person xml:id="tillich_person_id__2584">
                   <persName>Marcoussis, Louis</persName>
@@ -16622,7 +16605,7 @@
                         <placeName>Cusset</placeName>
                      </settlement>
                   </death>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119238136</idno>
                </person>
                <person xml:id="tillich_person_id__2585">
@@ -16633,7 +16616,7 @@
                </person>
                <person xml:id="tillich_person_id__2586">
                   <persName>Werner, Liesel</persName>
-                  <occupation>Krankenschwester;</occupation>
+                  <occupation>Krankenschwester</occupation>
                   <note type="bio">
                      <p>Sie war die jüngere Schwester von Hannah Tillich.</p>
                   </note>
@@ -16693,7 +16676,7 @@
                </person>
                <person xml:id="tillich_person_id__2598">
                   <persName>Weissenberg, Alfred</persName>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                   <note type="bio">
                      <p>Er flüchtete 1933 zusammen mit seiner Frau Charlotte (geb. Rychwalski) nach Paris, wo er sich Alfred Jan Weissenbergh nannte. Nach zeitweiser Internierung in Südfrankreich gelang ihnen die Flucht nach Portugal und von dort weiter nach New York.</p>
                   </note>
@@ -16738,7 +16721,7 @@
                   <death>
                      <date>1984</date>
                   </death>
-                  <occupation>Schriftstellerin; Dichterin;</occupation>
+                  <occupation>Schriftstellerin und Dichterin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116531274</idno>
                </person>
                <person xml:id="tillich_person_id__2602">
@@ -16804,7 +16787,7 @@
                </person>
                <person xml:id="tillich_person_id__2606">
                   <persName>Hattemer, Lotte</persName>
-                  <occupation>Lehrerin; Kommunengründerin;</occupation>
+                  <occupation>Lehrerin und Kommunengründerin</occupation>
                   <note type="bio">
                      <p>Sie war Mitbegründerin des Monte Verità in Ascona.</p>
                   </note>
@@ -16814,7 +16797,7 @@
                </person>
                <person xml:id="tillich_person_id__2608">
                   <persName>T., Lisy</persName>
-                  <occupation>Fotographin;</occupation>
+                  <occupation>Fotographin</occupation>
                </person>
                <person xml:id="tillich_person_id__2609">
                   <persName>Ruckteschell, Elisabeth von</persName>
@@ -16827,7 +16810,7 @@
                         <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </death>
-                  <occupation>Malerin;</occupation>
+                  <occupation>Malerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/139305041</idno>
                   <note type="bio">
                      <p>Sie war die Ehefrau von Bruno Goetz.</p>
@@ -16857,10 +16840,10 @@
                   <death>
                      <date>1951-08-25</date>
                      <settlement>
-                        <placeName>Guayaquil</placeName>
+                        <placeName key="#tillich_place_id__1543">Guayaquil</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schulrat;</occupation>
+                  <occupation>Deutscher Pädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118721054</idno>
                </person>
                <person xml:id="tillich_person_id__2615">
@@ -16877,7 +16860,7 @@
                         <placeName>Łódź</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller; Dramaturg;</occupation>
+                  <occupation>Schriftsteller und Dramaturg</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118565494</idno>
                </person>
                <person xml:id="tillich_person_id__2616">
@@ -16894,7 +16877,7 @@
                         <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kulturphilosoph; Sozialphilosoph;</occupation>
+                  <occupation>Kulturphilosoph und Sozialphilosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118573543</idno>
                   <note type="bio">
                      <p>Er studierte Philosophie an der Universität Bonn. Von 1920 bis 1937 war er an der Universität Leipzig tätig. Er wirkte u. a. als Rektor von 1931 bis 1932.</p>
@@ -16902,7 +16885,7 @@
                </person>
                <person xml:id="tillich_person_id__2618">
                   <persName>Rothmann Goldstein, Eva</persName>
-                  <occupation>Psychologin; Neurologin;</occupation>
+                  <occupation>Psychologin und Neurologin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116641428</idno>
                </person>
                <person xml:id="tillich_person_id__2619">
@@ -16919,7 +16902,7 @@
                         <placeName key="#tillich_place_id__271">London</placeName>
                      </settlement>
                   </death>
-                  <occupation>Wirtschaftswissenschaftler; Bibliotheksdirektor;</occupation>
+                  <occupation>Wirtschaftswissenschaftler und Bibliotheksdirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116621583</idno>
                </person>
                <person xml:id="tillich_person_id__2620">
@@ -16936,7 +16919,7 @@
                         <placeName>Karolin (Zwoleń)</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Philosoph;</occupation>
+                  <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1145464289</idno>
                </person>
                <person xml:id="tillich_person_id__2623">
@@ -16968,7 +16951,7 @@
                         <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
-                  <occupation>Dekan;</occupation>
+                  <occupation>Dekan</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116151420</idno>
                   <note type="bio">
                      <p>Ernst von Dobschütz (9. Oktober 1870 – 20. Mai 1934) war ein deutscher evangelischer Theologe. Er studierte in Leipzig, Halle und Berlin, wurde 1892 promoviert und habilitierte sich 1893. Nach Professuren in Jena, Straßburg und Breslau wirkte er ab 1913 in Halle, wo er auch zeitweise als Rektor tätig war. Seine Forschungsschwerpunkte lagen in der Theologie des Urchristentums, der Patristik und der neutestamentlichen Textkritik. Dobschütz veröffentlichte einflussreiche wissenschaftliche Arbeiten und galt als bedeutender Vertreter der historischen Theologie seiner Zeit.</p>
@@ -17029,7 +17012,7 @@
                         <placeName>Planegg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Journalist; Schriftsteller;</occupation>
+                  <occupation>Journalist und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116212683</idno>
                </person>
                <person xml:id="tillich_person_id__2635">
@@ -17043,7 +17026,7 @@
                   <death>
                      <date>1961</date>
                   </death>
-                  <occupation>Journalist; Publizist;</occupation>
+                  <occupation>Journalist und Publizist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116888202</idno>
                </person>
                <person xml:id="tillich_person_id__2636">
@@ -17054,7 +17037,7 @@
                   <death>
                      <date>1965-02-05</date>
                   </death>
-                  <occupation>Theologe; Publizist;</occupation>
+                  <occupation>Theologe und Publizist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116707593</idno>
                </person>
                <person xml:id="tillich_person_id__2637">
@@ -17087,7 +17070,7 @@
                   <death>
                      <date>1977-06-17</date>
                   </death>
-                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler. Ministerialrat im sächsischen Ministerium für Volksbildung</occupation>
+                  <occupation>Deutscher Beamter, Germanist und Erziehungswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117281174</idno>
                   <note type="bio">
                      <p>Ulich, Heinrich Gottlob Robert (21.4.1890 Lam – 17.6.1977 Stuttgart) war ein deutscher Ministerialbeamter, Germanist und Erziehungswissenschaftler. Nach Studien in Freiburg, Neuenburg, München, Berlin und Leipzig promovierte er 1915 in Philosophie. Er wirkte als Lehrer und Bibliothekar, dann von 1920 bis 1933 als Ministerialbeamter in Dresden, wo er Hochschul- und Forschungsfragen leitete. Politisch der SPD und dem religiösen Sozialismus nahestehend, engagierte er sich für Reformpädagogik und internationale Bildungsinitiativen. 1934 emigrierte er in die USA, wurde Professor an der Harvard University und Mitbegründer der Vergleichenden Pädagogik. 1970 kehrte er nach Deutschland zurück. Er war mit Elsa Brändström verheiratet, später mit Mary Ewen Ulich, und erhielt zahlreiche Auszeichnungen, darunter 1958 das Große Verdienstkreuz.</p>
@@ -17101,7 +17084,7 @@
                   <death>
                      <date>1974-01-03</date>
                   </death>
-                  <occupation>Professor für Kirchengeschichte;</occupation>
+                  <occupation>Professor für Kirchengeschichte</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116673567</idno>
                   <note type="bio">
                      <p>Er wirkte ab 1928 als Professor für Kirchengeschichte in Leipzig und ab 1931 in Tübingen.</p>
@@ -17121,7 +17104,7 @@
                         <placeName>Witebsk</placeName>
                      </settlement>
                   </death>
-                  <occupation>Privatdozent für Kirchengeschichte und Kirchenmusik;</occupation>
+                  <occupation>Privatdozent für Kirchengeschichte und Kirchenmusik</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/133273830</idno>
                   <note type="bio">
                      <p>Er lebte und wirkte in Königsberg.</p>
@@ -17154,7 +17137,7 @@
                   <death>
                      <date>1978-11-10</date>
                   </death>
-                  <occupation>Schriftsteller;</occupation>
+                  <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117376094</idno>
                </person>
                <person xml:id="tillich_person_id__2644">
@@ -17180,7 +17163,7 @@
                         <placeName>Barendorf (Lüneburg)</placeName>
                      </settlement>
                   </death>
-                  <occupation>Offizier; Freikorpsführer;</occupation>
+                  <occupation>Offizier und Freikorpsführer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118673181</idno>
                </person>
                <person xml:id="tillich_person_id__2648">
@@ -17188,7 +17171,7 @@
                </person>
                <person xml:id="tillich_person_id__2649">
                   <persName>Gelöschter Doppeleintrag</persName>
-                  <occupation>Professor für Kirchengeschichte;</occupation>
+                  <occupation>Professor für Kirchengeschichte</occupation>
                </person>
                <person xml:id="tillich_person_id__2650">
                   <persName>Kohlmeyer, Ernst</persName>
@@ -17198,7 +17181,7 @@
                   <death>
                      <date>1959</date>
                   </death>
-                  <occupation>Professor für Kirchengeschichte;</occupation>
+                  <occupation>Professor für Kirchengeschichte</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116307552</idno>
                   <note type="bio">
                      <p>Er wirkte ab 1926 als Professor für Kirchengeschichte in Breslau. Ab 1929 lebte und wirkte er in Halle.</p>
@@ -17212,7 +17195,7 @@
                   <death>
                      <date>1979</date>
                   </death>
-                  <occupation>Privatdozent für Kirchengeschichte;</occupation>
+                  <occupation>Privatdozent für Kirchengeschichte</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118680722</idno>
                   <note type="bio">
                      <p>Er war ein Schwager und Freund Dietrich Bonhoeffers. Ab 1929 wirkte er als Privatdozent für Kirchengeschichte in Berlin. Von 1930-1933 wirkte er als Professor an der Lutherakademie in Dorpat. 1935 kam es zum Bruch mit seinem Lehrer E. Seeberg wegen des von R. Seeberg verfassten Gutachtens zu den Thesen der Reichsbewegung der Deutschen Christen.</p>
@@ -17245,7 +17228,6 @@
                   <birth>
                      <date>1892-07-27</date>
                   </birth>
-                  <occupation>Schwester von Else Staudinger (geb. Maier)</occupation>
                </person>
                <person xml:id="tillich_person_id__2655">
                   <persName>Klotz, Evamaria</persName>
@@ -17315,7 +17297,7 @@
                   <death>
                      <date>1996</date>
                   </death>
-                  <occupation>Grafologin; Fotografin;</occupation>
+                  <occupation>Grafologin und Fotografin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118534386</idno>
                </person>
                <person xml:id="tillich_person_id__2667">
@@ -17329,7 +17311,7 @@
                   <death>
                      <date>1982-08-08</date>
                   </death>
-                  <occupation>Schriftstellerin; Journalistin;</occupation>
+                  <occupation>Schriftstellerin und Journalistin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/107662450</idno>
                </person>
                <person xml:id="tillich_person_id__2668">
@@ -17352,7 +17334,7 @@
                         <placeName>Grabs</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller; Schauspieler;</occupation>
+                  <occupation>Schriftsteller und Schauspieler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118540297</idno>
                </person>
                <person xml:id="tillich_person_id__2670">
@@ -17406,14 +17388,14 @@
                </person>
                <person xml:id="tillich_person_id__2682">
                   <persName>Hoffmann, Hermann</persName>
-                  <occupation>Modeschöpfer;</occupation>
+                  <occupation>Modeschöpfer</occupation>
                   <note type="bio">
                      <p>Er war als Modeschöpfer für Herrn in einem Berliner Modehaus tätig.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2683">
                   <persName>Emmerich, Herbert</persName>
-                  <occupation>Bürgermeister;</occupation>
+                  <occupation>Bürgermeister</occupation>
                   <note type="bio">
                      <p>Er war SPD-Bürgermeister von Unna im Zeitraum von 12. Januar 1926 bis 8. März 1933. Am 2. September 1933 wurde er entlassen.</p>
                   </note>
@@ -17467,7 +17449,7 @@
                   <death>
                      <date>1931-04-07</date>
                   </death>
-                  <occupation>Journalistin;</occupation>
+                  <occupation>Journalistin</occupation>
                   <note type="bio">
                      <p>Sie schrieb unter anderem für die "Vossische Zeitung" sowie für die "Weltbühne". Sie war jüdische Journalistin, die mit dem Fleischfabrikanten Arthur Jacker verheiratet war und starb unerwartet am 7. April 1931.</p>
                   </note>
@@ -17489,7 +17471,6 @@
                </person>
                <person xml:id="tillich_person_id__2692">
                   <persName>Hirsch, Liese</persName>
-                  <occupation>Schwester von Annie Jacker</occupation>
                </person>
                <person xml:id="tillich_person_id__2693">
                   <persName>Seidel, Heinrich Wolfgang</persName>
@@ -17502,7 +17483,7 @@
                   <death>
                      <date>1945-09-22</date>
                   </death>
-                  <occupation>Pfarrer; Schriftsteller;</occupation>
+                  <occupation>Pfarrer und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118760602</idno>
                </person>
                <person xml:id="tillich_person_id__2694">
@@ -17547,7 +17528,7 @@
                         <placeName>Groß-Lichterfelde</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller; Bauingenieur;</occupation>
+                  <occupation>Schriftsteller und Bauingenieur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118796089</idno>
                </person>
                <person xml:id="tillich_person_id__2700">
@@ -17596,7 +17577,7 @@
                         <placeName key="#tillich_place_id__569">Gera</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer; Theologe;</occupation>
+                  <occupation>Pfarrer und Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1270440098</idno>
                </person>
                <person xml:id="tillich_person_id__2707">
@@ -17625,7 +17606,7 @@
                         <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
-                  <occupation>Rechtswissenschaftler; Kurator der Universität Halle;</occupation>
+                  <occupation>Rechtswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1104756838</idno>
                </person>
                <person xml:id="tillich_person_id__2710">
@@ -17654,7 +17635,7 @@
                         <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Divisionspfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1035114623</idno>
                </person>
                <person xml:id="tillich_person_id__2714">
@@ -17674,7 +17655,7 @@
                         <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </death>
-                  <occupation>Buchhändler; Verleger;</occupation>
+                  <occupation>Buchhändler und Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/123161789</idno>
                </person>
                <person xml:id="tillich_person_id__2716">
@@ -17717,7 +17698,7 @@
                </person>
                <person xml:id="tillich_person_id__2723">
                   <persName>Fuchs, Heinrich</persName>
-                  <occupation>Schuhmacher und Schuhwarenhändler; Hauswirt Paul Tillichs während seines Studiums in Tübingen.</occupation>
+                  <occupation>Schuhmacher und Schuhwarenhändler</occupation>
                </person>
                <person xml:id="tillich_person_id__2724">
                   <persName>Grimms, ???</persName>
@@ -17733,7 +17714,7 @@
                   <death>
                      <date>1954</date>
                   </death>
-                  <occupation>Jurist; Politiker;</occupation>
+                  <occupation>Jurist und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119208857</idno>
                   <note type="bio">
                      <p>Von 1925 bis 1931 war er preußischer Finanzminister.</p>
@@ -17753,7 +17734,7 @@
                         <placeName>Hausen (Waldbrunn, Westerwald)</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schlosser; Parteifunktionär; Abgeordneter;</occupation>
+                  <occupation>Deutscher Gewerkschafter und sozialdemokratischer Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/133437086</idno>
                   <note type="bio">
                      <p>Zwischen Mai 1930 und 21. Juli 1932 war er Oberpräsident der Provinz Hessen-Nassau mit Sitz in Kassel.</p>
@@ -17767,7 +17748,7 @@
                   <death>
                      <date>1914-02-16</date>
                   </death>
-                  <occupation>Landwirt in Berlin Rixdorf</occupation>
+                  <occupation>Landwirt</occupation>
                </person>
                <person xml:id="tillich_person_id__2728">
                   <persName>Kandeler, Friedrich</persName>
@@ -17816,7 +17797,7 @@
                   <death>
                      <date>1977</date>
                   </death>
-                  <occupation>Bibliothekarin; Widerstandskämpferin;</occupation>
+                  <occupation>Bibliothekarin und Widerstandskämpferin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/139217185</idno>
                </person>
                <person xml:id="tillich_person_id__2738">
@@ -17843,7 +17824,7 @@
                   <death>
                      <date>1992-02-12</date>
                   </death>
-                  <occupation>Sozialpädagoge; Strafvollzugsreformer;</occupation>
+                  <occupation>Sozialpädagoge und Strafvollzugsreformer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118715844</idno>
                </person>
                <person xml:id="tillich_person_id__2740">
@@ -17857,7 +17838,7 @@
                   <death>
                      <date>1972-01-17</date>
                   </death>
-                  <occupation>Psychologe; Sozialpädagoge; Sozialforscher;</occupation>
+                  <occupation>Psychologe, Sozialpädagoge und Sozialforscher</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116238011</idno>
                   <note type="bio">
                      <p>Er wirkte unter anderem als Leiter des Jugendgefängnisses Eisenach.</p>
@@ -17883,7 +17864,7 @@
                         <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Professor;</occupation>
+                  <occupation>Theologe und Professor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117496774</idno>
                   <note type="bio">
                      <p>Er hat sich auf die systematisch-theologische Forschung spezialisiert und wirkte als Professor in Bonn.</p>
@@ -17921,11 +17902,11 @@
                </person>
                <person xml:id="tillich_person_id__2750">
                   <persName>Verlag Rösl &amp; Cie., ???</persName>
-                  <occupation>Institution;</occupation>
+                  <occupation>Institution</occupation>
                </person>
                <person xml:id="tillich_person_id__2751">
                   <persName>Werner, Alfred</persName>
-                  <occupation>Philosoph; Herausgeber;</occupation>
+                  <occupation>Philosoph und Herausgeber</occupation>
                   <note type="bio">
                      <p>Er war Herausgeber der sogenannten "Philosophischen Reihe".</p>
                   </note>
@@ -17941,12 +17922,12 @@
                </person>
                <person xml:id="tillich_person_id__2754">
                   <persName>Zschimmer, Eberhard</persName>
-                  <occupation>Mineraloge; Philosoph</occupation>
+                  <occupation>Mineraloge und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117018988</idno>
                </person>
                <person xml:id="tillich_person_id__2755">
                   <persName>Stern, William</persName>
-                  <occupation>Psychologe;</occupation>
+                  <occupation>Psychologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118798758</idno>
                   <note type="bio">
                      <p>(Geb: Louise William Stern) Er war der Begründer der differentiellen Psychologie und Entwickler des ersten Intelligenzquotienten, hatte 1900 über Psychologie und individuelle Differenzen publizierte beim Verlag von Johann Ambrosius Barth. (aus Graf Edition)</p>
@@ -17963,7 +17944,7 @@
                </person>
                <person xml:id="tillich_person_id__2758">
                   <persName>Hüllmann, ???</persName>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2759">
                   <persName>Ottmer, Johanne</persName>
@@ -17992,7 +17973,7 @@
                         <placeName key="#tillich_place_id__470">Wien</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller;</occupation>
+                  <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118542192</idno>
                </person>
                <person xml:id="tillich_person_id__2762">
@@ -18021,7 +18002,7 @@
                   <death>
                      <date>1905-08-05</date>
                   </death>
-                  <occupation>Philosoph;</occupation>
+                  <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118614258</idno>
                </person>
                <person xml:id="tillich_person_id__2765">
@@ -18035,7 +18016,7 @@
                   <death>
                      <date>1911-04-06</date>
                   </death>
-                  <occupation>Philologe;</occupation>
+                  <occupation>Philologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117179671</idno>
                </person>
                <person xml:id="tillich_person_id__2766">
@@ -18052,7 +18033,7 @@
                         <placeName>Hendaye</placeName>
                      </settlement>
                   </death>
-                  <occupation>Mathematiker; Zeichner; Schriftsteller; Marineoffizier;</occupation>
+                  <occupation>Mathematiker, Zeichner, Schriftsteller und Marineoffizier</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118780522</idno>
                </person>
                <person xml:id="tillich_person_id__2767">
@@ -18069,7 +18050,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller; Dramatiker;</occupation>
+                  <occupation>Schriftsteller und Dramatiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116487054</idno>
                </person>
                <person xml:id="tillich_person_id__2768">
@@ -18086,7 +18067,7 @@
                         <placeName key="#tillich_place_id__850">Cannes</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schrifsteller;</occupation>
+                  <occupation>Schrifsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11865103X</idno>
                </person>
                <person xml:id="tillich_person_id__2769">
@@ -18103,7 +18084,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117697311</idno>
                </person>
                <person xml:id="tillich_person_id__2770">
@@ -18121,7 +18102,7 @@
                </person>
                <person xml:id="tillich_person_id__2771">
                   <persName>Kalweit, Paul</persName>
-                  <occupation>Evangelischer Theologe; ab 1898 Direktor des schlesischen Predigerseminars in Naumburg am Queis (Nowogrodziec), ab 1912 Pfarrer an der Marienkirche in Danzig</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2772">
                   <persName>Farke, ???</persName>
@@ -18179,7 +18160,7 @@
                         <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Religionslehrer; Pfarrer;</occupation>
+                  <occupation>Religionslehrer und Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1024593517</idno>
                   <note type="bio">
                      <p>Er studierte in Bonn.</p>
@@ -18193,7 +18174,7 @@
                   <death>
                      <date>1910</date>
                   </death>
-                  <occupation>Schriftsteller;</occupation>
+                  <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1164503693</idno>
                </person>
                <person xml:id="tillich_person_id__2790">
@@ -18213,7 +18194,7 @@
                </person>
                <person xml:id="tillich_person_id__2793">
                   <persName>Jellinghaus, Paul</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127733124</idno>
                   <note type="bio">
                      <p>Die Bibelschule bzw. das Erholungsheim "Dr. Paul Jellinghaus" steht im Zusammenhang mit seiner missionarischen Aktivität.</p>
@@ -18236,7 +18217,7 @@
                         <placeName>Coyoacán</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politiker; Kommunist;</occupation>
+                  <occupation>Revolutionär und Ehemaliger Volkskommissar für Militärangelegenheiten der RSFSR</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118642979</idno>
                </person>
                <person xml:id="tillich_person_id__2797">
@@ -18253,12 +18234,12 @@
                         <placeName key="#tillich_place_id__373">Rouen</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller; Dramatiker;</occupation>
+                  <occupation>Schriftsteller und Dramatiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118768085</idno>
                </person>
                <person xml:id="tillich_person_id__2798">
                   <persName>Kalina, ???</persName>
-                  <occupation>Oberapotheker;</occupation>
+                  <occupation>Oberapotheker</occupation>
                </person>
                <person xml:id="tillich_person_id__2799">
                   <persName>(Steuerrat), Tillich</persName>
@@ -18297,7 +18278,7 @@
                </person>
                <person xml:id="tillich_person_id__2803">
                   <persName>Kestenberg, Leo</persName>
-                  <occupation>Musiklehrer, Ministerialbeamter, Pianist</occupation>
+                  <occupation>Musiklehrer und Pianist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118722085</idno>
                </person>
                <person xml:id="tillich_person_id__2804">
@@ -18320,7 +18301,7 @@
                         <placeName key="#tillich_place_id__1387">Braunschweig</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe; Pfarrer;</occupation>
+                  <occupation>Theologe und Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
                   <note type="bio">
                      <p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p>
@@ -18328,7 +18309,7 @@
                </person>
                <person xml:id="tillich_person_id__2807">
                   <persName>Burger, Fritz</persName>
-                  <occupation>Kunsthistoriker;</occupation>
+                  <occupation>Kunsthistoriker</occupation>
                </person>
                <person xml:id="tillich_person_id__2808">
                   <persName>Ignatius von Loyola</persName>
@@ -18356,7 +18337,7 @@
                   <death>
                      <date>1958-11-02</date>
                   </death>
-                  <occupation>Philosoph;</occupation>
+                  <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118636782</idno>
                </person>
                <person xml:id="tillich_person_id__2815">
@@ -18386,11 +18367,11 @@
                </person>
                <person xml:id="tillich_person_id__2822">
                   <persName>Brahms, Johannes</persName>
-                  <occupation>Komponist;</occupation>
+                  <occupation>Komponist</occupation>
                </person>
                <person xml:id="tillich_person_id__2823">
                   <persName>Egli, ???</persName>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                </person>
                <person xml:id="tillich_person_id__2824">
                   <persName>Chopin, Frederic</persName>
@@ -18416,7 +18397,7 @@
                </person>
                <person xml:id="tillich_person_id__2829">
                   <persName>Mahling, Friedrich</persName>
-                  <occupation>Professor und Dekan</occupation>
+                  <occupation>Deutscher Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2830">
                   <persName>Kleedehn</persName>
@@ -18442,7 +18423,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe und Hochschullehrer.</occupation>
+                  <occupation>Evangelischer Theologe und Hochschullehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2834">
                   <persName>Weiß, Bernhard</persName>
@@ -18452,7 +18433,7 @@
                   <death>
                      <date>1918-01-14</date>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
                </person>
                <person xml:id="tillich_person_id__2835">
@@ -18476,12 +18457,12 @@
                   <death>
                      <date>1848</date>
                   </death>
-                  <occupation>Philosoph;</occupation>
+                  <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119059479</idno>
                </person>
                <person xml:id="tillich_person_id__2841">
                   <persName>Bornhausen, Karl</persName>
-                  <occupation>Theologe; Hochschullehrer; Religionsphilosoph; Historiker; Freimaurer</occupation>
+                  <occupation>Theologe, Hochschullehrer,  Religionsphilosoph und Historiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116255617</idno>
                </person>
                <person xml:id="tillich_person_id__2842">
@@ -18527,7 +18508,7 @@
                         <placeName key="#tillich_place_id__613">Wittenberg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer, Konsistorialrat, Konservator</occupation>
+                  <occupation>Pfarrer, Konsistorialrat und Konservator</occupation>
                   <note type="bio">
                      <p>D. Julius Jordan, geb. am 11.02.1868 in Münster i. W., Sohn des Div.-Pf. Jordan, 1893 Insp. am Tholuckschen Convikt in Halle, 1896 Hilfspred. in Hörde i. W., 1897 Pf.-Verw. in Werther, 1897 Pf. in Warendorf, 1909 Direktor des Pred.-Seminars in Soest, von 1912-1924 Direktor am Evangelischen Predigerseminar in Wittenberg, gest. am 03.12.1928 in Wittenberg.</p>
                   </note>
@@ -18571,7 +18552,7 @@
                   <death>
                      <date>1933-05-09</date>
                   </death>
-                  <occupation>Philologe; Ministerialdirektor;</occupation>
+                  <occupation>Philologe und Ministerialdirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117066060</idno>
                </person>
                <person xml:id="tillich_person_id__2853">
@@ -18582,7 +18563,7 @@
                   <death>
                      <date>1955</date>
                   </death>
-                  <occupation>Maler;</occupation>
+                  <occupation>Maler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11862573X</idno>
                   <note type="bio">
                      <p>Er war ein französischer Maler und der Sohn von Suzanne Valadon.</p>
@@ -18615,7 +18596,7 @@
                </person>
                <person xml:id="tillich_person_id__2862">
                   <persName>Wagner, Hermann</persName>
-                  <occupation>Pfarrer;</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>Er wirkte als katholischer Gutachter im Blasphemie-Prozess George Grosz'.</p>
                   </note>
@@ -18666,7 +18647,7 @@
                         <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Verleger;</occupation>
+                  <occupation>Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11852089X</idno>
                </person>
                <person xml:id="tillich_person_id__2868">
@@ -18683,7 +18664,7 @@
                         <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Kunsthistorikerin; Verlegerin;</occupation>
+                  <occupation>Kunsthistorikerin und Verlegerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116524774</idno>
                </person>
                <person xml:id="tillich_person_id__2869">
@@ -18746,7 +18727,7 @@
                </person>
                <person xml:id="tillich_person_id__2875">
                   <persName>Weinberg, Heinz</persName>
-                  <occupation>Jurist;</occupation>
+                  <occupation>Jurist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127503412</idno>
                </person>
                <person xml:id="tillich_person_id__2876">
@@ -18767,7 +18748,7 @@
                         <placeName key="#tillich_place_id__126">Dresden</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Bibliothekar (Verwalter der Sächsischen Landesbibliothek bzw. Staats- und Universitätsbibliothek Dresden)</occupation>
+                  <occupation>Bibliothekar</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11759637X</idno>
                </person>
                <person xml:id="tillich_person_id__2878">
@@ -18793,7 +18774,7 @@
                </person>
                <person xml:id="tillich_person_id__2883">
                   <persName>Aé, Karl</persName>
-                  <occupation>Pfarrer, Publizist, Superintendent (Dresden-Land)</occupation>
+                  <occupation>Pfarrer, Publizist und Superintendent</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/120276585</idno>
                </person>
                <person xml:id="tillich_person_id__2884">
@@ -18831,7 +18812,7 @@
                         <placeName key="#tillich_place_id__271">London</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schauspielerin;</occupation>
+                  <occupation>Schauspielerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11850956X</idno>
                </person>
                <person xml:id="tillich_person_id__2891">
@@ -18863,7 +18844,7 @@
                         <placeName>Bad Traunstein</placeName>
                      </settlement>
                   </death>
-                  <occupation>Ethnologe;</occupation>
+                  <occupation>Ethnologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1020607351</idno>
                </person>
                <person xml:id="tillich_person_id__2895">
@@ -18904,7 +18885,6 @@
                </person>
                <person xml:id="tillich_person_id__2898">
                   <persName>Ullstein Verlag, ???</persName>
-                  <occupation>Institution: Verlag;</occupation>
                </person>
                <person xml:id="tillich_person_id__2899">
                   <persName>Rantzau, Ad. v.</persName>
@@ -18991,12 +18971,12 @@
                         <placeName>Heidelberg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe;</occupation>
+                  <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/104066598</idno>
                </person>
                <person xml:id="tillich_person_id__2912">
                   <persName>Pritschow, Karl</persName>
-                  <occupation>Inhaber der Buchdruckerei, Buchbinderei, Buch- und Papierhandlung, Annoncen-Expedition in Halle/Saale.</occupation>
+                  <occupation>Inhaber einer Buchdruckerei</occupation>
                </person>
                <person xml:id="tillich_person_id__2913">
                   <persName>Magnif.</persName>
@@ -19069,7 +19049,7 @@
                   <death>
                      <date>1987</date>
                   </death>
-                  <occupation>Malerin, Ethnologin</occupation>
+                  <occupation>Malerin und Ethnologin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128319887</idno>
                </person>
                <person xml:id="tillich_person_id__2926">
@@ -19107,12 +19087,11 @@
                </person>
                <person xml:id="tillich_person_id__2933">
                   <persName>Scheler, Märit</persName>
-                  <occupation>Tochter Adolf Furtwänglers, Gattin Max Schelers (1923 gesch.)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117195197</idno>
                </person>
                <person xml:id="tillich_person_id__2934">
                   <persName>Scheler, Maria</persName>
-                  <occupation>Soziologin, seit 1924 Gattin Max Schelers</occupation>
+                  <occupation>Soziologin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/140544836</idno>
                </person>
                <person xml:id="tillich_person_id__2935">
@@ -19166,7 +19145,6 @@
                </person>
                <person xml:id="tillich_person_id__2946">
                   <persName>Moeller van den Bruck, Lucy</persName>
-                  <occupation>Zweite Ehefrau von Arthur Moeller van den Bruck. Schwester der Dostojewski-Übersetzerin Elisabeth Kaerrick (pseud. E. K. Rashin).</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117083402</idno>
                </person>
                <person xml:id="tillich_person_id__2947">
@@ -19198,7 +19176,7 @@
                </person>
                <person xml:id="tillich_person_id__2954">
                   <persName>Gerloff, Wilhelm</persName>
-                  <occupation>Volkswirt, Finanzwissenschaftler, Universitätsrektor</occupation>
+                  <occupation>Volkswirt, Finanzwissenschaftler und Universitätsrektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116588373</idno>
                </person>
                <person xml:id="tillich_person_id__2955">
@@ -19236,7 +19214,9 @@
                </person>
                <person xml:id="tillich_person_id__2962">
                   <persName>Wolff</persName>
-                  <occupation>gestorben 1914</occupation>
+                  <death>
+                     <date>1914</date>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__2963">
                   <persName/>
@@ -19279,7 +19259,7 @@
                         <placeName>Tacken</placeName>
                      </settlement>
                   </birth>
-                  <occupation>evangelischer Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2973">
                   <persName>???, Hildebrand</persName>
@@ -19295,7 +19275,7 @@
                         <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
-                  <occupation>Heiliger, Bischof von Köln</occupation>
+                  <occupation>Bischof von Köln</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/137311699</idno>
                </person>
                <person xml:id="tillich_person_id__2975">
@@ -19354,7 +19334,6 @@
                </person>
                <person xml:id="tillich_person_id__2985">
                   <persName>Lear</persName>
-                  <occupation>Engl. König nach Shakespeare</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11857048X</idno>
                   <note type="bio">
                      <p>König Lear ist ein Schauspiel von William Shakespeare, entstanden um 1606. Es erzählt die Tragödie des Königs, dessen Reichsteilung unter seinen Töchtern in Verrat und Tod endet. Die Erstaufführung fand 1606 am englischen Hof statt, die erste Druckausgabe erschien 1608. Die deutsche Erstübersetzung lieferte 1762 Christoph Martin Wieland, die erste Aufführung erfolgte 1778 in Hamburg. Eine berühmte moderne Adaption ist Akira Kurosawas Film Ran.</p>
@@ -19362,7 +19341,6 @@
                </person>
                <person xml:id="tillich_person_id__2986">
                   <persName>Hamlet</persName>
-                  <occupation>Shakespeare</occupation>
                   <note type="bio">
                      <p>Hamlet ist ein Schauspiel von William Shakespeare, entstanden um 1601/1602. Es erzählt die Geschichte des Prinzen von Dänemark, der den Mord an seinem Vater rächen will und dabei alle Beteiligten ins Unglück stürzt. Die Uraufführung fand wahrscheinlich im Globe Theatre statt. Der Text erschien 1603 erstmals im Druck, 1604 folgte eine autorisierte Ausgabe. Hamlet wurde schnell zu einem der bekanntesten und meistgespielten Werke Shakespeares. Bekannte Formulierungen aus den Monologen, etwa Sein oder Nichtsein, sind zu festen Redewendungen geworden.</p>
                   </note>
@@ -19376,7 +19354,7 @@
                </person>
                <person xml:id="tillich_person_id__2988">
                   <persName>Malraux, André</persName>
-                  <occupation>frz. Schriftsteller</occupation>
+                  <occupation>Französischer Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118576844</idno>
                   <note type="bio">
                      <p>Malraux, André (3.11.1901 Paris – 23.11.1976 Créteil) war ein französischer Schriftsteller und Politiker. Er studierte Archäologie und Orientalistik, bereiste in den 1920er Jahren Indochina und China, kämpfte im Spanischen Bürgerkrieg auf republikanischer Seite und schloss sich im Zweiten Weltkrieg der Résistance an. Nach 1945 war er Informationsminister, später von 1958 bis 1969 Kultusminister unter Charles de Gaulle. Mit Romanen wie La condition humaine (1933, Prix Goncourt) prägte er die französische Literatur, indem er existenzielle Fragestellungen, Revolution und Kunst als Formen menschlicher Sinngebung in einer gottlosen Welt thematisierte.</p>
@@ -19384,7 +19362,7 @@
                </person>
                <person xml:id="tillich_person_id__2989">
                   <persName>Jacques Maritain</persName>
-                  <occupation>frz. Philosoph</occupation>
+                  <occupation>Französischer Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118731033</idno>
                   <note type="bio">
                      <p>Maritain, Jacques (18.11.1882 Paris – 28.4.1973 Toulouse) war ein französischer katholischer Philosoph, der Thomas von Aquin neu interpretierte und eine eigene thomistische Philosophie entwickelte. Er konvertierte 1906 zum Katholizismus, lehrte an führenden Universitäten in Europa und Nordamerika und war französischer Botschafter beim Vatikan. In über 50 Schriften verband er Aristotelismus und Thomismus mit modernen Ansätzen und betonte die Würde der Person, die Bedeutung des Naturrechts und die Notwendigkeit gemeinsamer Institutionen über Glaubensgrenzen hinweg.</p>
@@ -19392,7 +19370,7 @@
                </person>
                <person xml:id="tillich_person_id__2990">
                   <persName>Jean Cocteau</persName>
-                  <occupation>frz. Schriftsteller</occupation>
+                  <occupation>Französischer Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118521349</idno>
                   <note type="bio">
                      <p>Cocteau, Jean (5.7.1889 Maisons-Laffitte – 11.10.1963 Milly-la-Forêt) war ein französischer Maler, Dichter, Komponist, Choreograph und Filmregisseur. Als vielseitiger Autodidakt schloss er sich Künstlern wie Derain, Picasso und Modigliani an und wurde in den 1920er Jahren zu einer prägenden Figur der Pariser Avantgarde. Neben Pastellen und Zeichnungen veröffentlichte er zahlreiche Mappenwerke wie Dessins (1923), Le mystère de Jean l’oiseleur (1925) und Maison santé (1926) sowie mit Illustrationen versehene Dichtungen wie Opium (1925) und Portraits souvenirs (1935).</p>
@@ -19434,7 +19412,7 @@
                </person>
                <person xml:id="tillich_person_id__2996">
                   <persName>Mumford, Lewis</persName>
-                  <occupation>Sozialwissenschaftler, Literaturkritiker</occupation>
+                  <occupation>Sozialwissenschaftler und Literaturkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118735209</idno>
                   <note type="bio">
                      <p>Lewis Mumford (19. Oktober 1895 – 26. Januar 1990) war ein US-amerikanischer Historiker, Soziologe und Technikphilosoph, der mit Werken wie The Culture of Cities und Technics and Civilization die Analyse moderner Urbanität und die Kulturgeschichte der Technik prägte. Von Patrick Geddes inspiriert, befreundet mit Frank Lloyd Wright und Vannevar Bush, verband er Stadtplanung, Sozialphilosophie und Literaturkritik zu einer ganzheitlichen Kulturtheorie.</p>
@@ -19510,7 +19488,6 @@
                </person>
                <person xml:id="tillich_person_id__3010">
                   <persName>Schwartzkopff, ???</persName>
-                  <occupation>Neffe des Oberpräsidenten Philipp Schwartzkopff.</occupation>
                </person>
                <person xml:id="tillich_person_id__3011">
                   <persName>Elisabeth I. von England</persName>
@@ -19619,7 +19596,6 @@
                   <birth>
                      <date>1892</date>
                   </birth>
-                  <occupation>Gattin des Theologen Theodor Siegfried</occupation>
                </person>
                <person xml:id="tillich_person_id__3036">
                   <persName>Wilson, Woodrow</persName>
@@ -19629,7 +19605,7 @@
                   <death>
                      <date>1924-02-03</date>
                   </death>
-                  <occupation>Präsident der Vereinigten Staaten von Amerika von 1913 bis 1921.</occupation>
+                  <occupation>Amerikanischer demokratischer Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118643401</idno>
                </person>
                <person xml:id="tillich_person_id__3037">
@@ -19640,7 +19616,6 @@
                </person>
                <person xml:id="tillich_person_id__3039">
                   <persName>Mariechen</persName>
-                  <occupation>Vermutlich eine Haushaltshilfe o.ä. der Tillichs in Dresden.</occupation>
                </person>
                <person xml:id="tillich_person_id__3040">
                   <persName>Cramer, ???</persName>
@@ -19663,7 +19638,7 @@
                </person>
                <person xml:id="tillich_person_id__3049">
                   <persName>Driesch, Margarete</persName>
-                  <occupation>Schriftstellerin, Reiseberichterstatterin, Frau des Philosophen Hans Driesch</occupation>
+                  <occupation>Schriftstellerin und Reiseberichterstatterin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11622309X</idno>
                </person>
                <person xml:id="tillich_person_id__3050">
@@ -19671,7 +19646,7 @@
                </person>
                <person xml:id="tillich_person_id__3051">
                   <persName>Bener, Gustav</persName>
-                  <occupation>Bauingenieur, 1918-1936 Direktor der Rhätischen Bahn</occupation>
+                  <occupation>Bauingenieur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1070137324</idno>
                </person>
                <person xml:id="tillich_person_id__3052">
@@ -19682,7 +19657,6 @@
                </person>
                <person xml:id="tillich_person_id__3054">
                   <persName>Dr. Färber</persName>
-                  <occupation>Dr.</occupation>
                </person>
                <person xml:id="tillich_person_id__3055">
                   <persName>Schönemann, Mimi</persName>
@@ -19958,7 +19932,7 @@
                </person>
                <person xml:id="tillich_person_id__3103">
                   <persName>Happich, Carl</persName>
-                  <occupation>Psychotherapeut; Internist; Mitbegründer der Berneuchener Bewegung</occupation>
+                  <occupation>Psychotherapeut, Internist und Mitbegründer der Berneuchener Bewegung</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/143871439</idno>
                </person>
                <person xml:id="tillich_person_id__3104">
@@ -20050,7 +20024,7 @@
                </person>
                <person xml:id="tillich_person_id__3126">
                   <persName>Obolensky, Dimitri</persName>
-                  <occupation>Fürst, Süßwarenhersteller</occupation>
+                  <occupation>Süßwarenhersteller</occupation>
                </person>
                <person xml:id="tillich_person_id__3127">
                   <persName>Ahrend, ???</persName>
@@ -20088,7 +20062,7 @@
                </person>
                <person xml:id="tillich_person_id__3137">
                   <persName>Schümer, Georg</persName>
-                  <occupation>Lehrer, Politiker</occupation>
+                  <occupation>Lehrer und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1025827090</idno>
                </person>
                <person xml:id="tillich_person_id__3138">
@@ -20127,7 +20101,7 @@
                </person>
                <person xml:id="tillich_person_id__3143">
                   <persName>Mendelsohn, Erich</persName>
-                  <occupation>Architekt (Erbaute Mendelsohn-Haus)</occupation>
+                  <occupation>Architekt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11858071X</idno>
                </person>
                <person xml:id="tillich_person_id__3144">
@@ -20148,7 +20122,6 @@
                </person>
                <person xml:id="tillich_person_id__3149">
                   <persName>Riezler, Maria</persName>
-                  <occupation>Tochter von Käthe und Kurt Riezler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/123784827X</idno>
                </person>
                <person xml:id="tillich_person_id__3150">
@@ -20161,14 +20134,14 @@
                </person>
                <person xml:id="tillich_person_id__3152">
                   <persName>Wiethorn, H.</persName>
-                  <occupation>Pensionsinhaber auf Spiekeroog</occupation>
+                  <occupation>Pensionsinhaber</occupation>
                </person>
                <person xml:id="tillich_person_id__3153">
                   <persName>Sternberger, Ilse</persName>
                   <death>
                      <date>1992-06-04</date>
                   </death>
-                  <occupation>Journalistin; Schriftstellerin</occupation>
+                  <occupation>Journalistin und Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1049748891</idno>
                   <note type="bio">
                      <p>geborene Rothschild</p>
@@ -20247,7 +20220,7 @@
                </person>
                <person xml:id="tillich_person_id__3166">
                   <persName>Heine, Ernst Albert</persName>
-                  <occupation>Pfarrer in Zeestow (von 1907-1934)</occupation>
+                  <occupation>Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__3167">
                   <persName>Cousin von Paul Merrem</persName>
@@ -21852,7 +21825,19 @@
                   <persName>McMillan &amp; Co</persName>
                </person>
                <person xml:id="tillich_person_id__3535">
-                  <persName>von Schleswig-Holstein-Sonderburg-Augustenburg VA, Auguste Viktoria Friederike Luise Feodora Jenny</persName>
+                  <persName>Auguste Viktoria</persName>
+                  <birth>
+                     <date>1858-10-22</date>
+                     <settlement>
+                        <placeName>Dolzig (Niederlausitz)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1921-04-11</date>
+                     <settlement>
+                        <placeName>Schloß Doorn (Holland)</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Deutsche Kaiserin, Frau von Wilhelm II.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118651129</idno>
                </person>
@@ -23548,7 +23533,7 @@
                   <persName>Troeltsch, Hans</persName>
                </person>
                <person xml:id="tillich_person_id__4042">
-                  <persName>Rosenstiel, C.</persName>
+                  <persName>Rosensthal, C.</persName>
                </person>
                <person xml:id="tillich_person_id__4043">
                   <persName>???, ???</persName>
@@ -26172,6 +26157,23 @@
                   <persName>Reisner, Erwin</persName>
                   <occupation>Österreichischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/129413941</idno>
+               </person>
+               <person xml:id="tillich_person_id__5096">
+                  <persName>Hamburger, Ernst</persName>
+                  <birth>
+                     <date>1890-12-30</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1980-04-03</date>
+                     <settlement>
+                        <placeName>New York</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker, Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116422483</idno>
                </person>
             </listPerson>
          </div>

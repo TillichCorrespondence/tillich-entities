@@ -10393,5 +10393,16 @@
     "latitude": "45.53558",
     "longitude": "10.21472",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6221"
+  },
+  "1543": {
+    "id": 1543,
+    "order": "1077.00000000000000000000",
+    "name": "Guayaquil",
+    "tillich_id": "tillich_place_id__1543",
+    "geonames_url": "https://www.geonames.org/3657509/",
+    "Working Notes": "",
+    "latitude": "-2.19616",
+    "longitude": "-79.88621",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q43509"
   }
 }

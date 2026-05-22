@@ -6859,6 +6859,14 @@
                   <idno type="geonames">https://sws.geonames.org/3181554/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q6221</idno>
                </place>
+               <place xml:id="tillich_place_id__1543">
+                  <placeName>Guayaquil</placeName>
+                  <location type="coords">
+                     <geo>-2.19616 -79.88621</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3657509/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q43509</idno>
+               </place>
             </listPlace>
          </div>
       </body>
