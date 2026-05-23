@@ -13143,7 +13143,7 @@
                <person xml:id="tillich_person_id__2238">
                   <persName>Dürselen, Amalia Gertrud Mathilde</persName>
                   <note type="bio">
-                     <p>Großmutter von Paul Tillichs mütterlicherseits.</p>
+                     <p>Großmutter Paul Tillichs mütterlicherseits.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2239">
@@ -20352,7 +20352,6 @@
                </person>
                <person xml:id="tillich_person_id__3204">
                   <persName>Wever, Grete</persName>
-                  <occupation>Schwester von Gertrud von Sydow</occupation>
                </person>
                <person xml:id="tillich_person_id__3205">
                   <persName/>
@@ -20365,7 +20364,6 @@
                </person>
                <person xml:id="tillich_person_id__3208">
                   <persName>Seeberger, Hans-Jürgen</persName>
-                  <occupation>Neffe von Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__3209">
                   <persName>Pratt, ???</persName>
@@ -20389,7 +20387,7 @@
                </person>
                <person xml:id="tillich_person_id__3216">
                   <persName>Schoen, Ernst</persName>
-                  <occupation>Schriftsteller, Übersetzer, Komponist, Rundfunkjournalist,</occupation>
+                  <occupation>Deutscher Musikschriftsteller, Rundfunkpionier, Komponist und Übersetzer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12229386X</idno>
                   <note type="bio">
                      <p>Wurde Freund von Walter Benjamin studierte in Bern und heiratete 1926 seine Frau Johanna geb. Liman.</p>
@@ -20420,7 +20418,7 @@
                </person>
                <person xml:id="tillich_person_id__3223">
                   <persName>Krieck, Ernst</persName>
-                  <occupation>NSDAP Mitglied; als "Erziehungswissenschaftler" angestellt.</occupation>
+                  <occupation>Deutscher Lehrer, Schriftsteller und Professor</occupation>
                </person>
                <person xml:id="tillich_person_id__3224">
                   <persName>Dietrich, Otto</persName>
@@ -20431,7 +20429,7 @@
                </person>
                <person xml:id="tillich_person_id__3226">
                   <persName>Wichern, Johann Hinrich</persName>
-                  <occupation>Missionar, Theologe, Pädagoge</occupation>
+                  <occupation>Missionar, Theologe und Pädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11863223X</idno>
                </person>
                <person xml:id="tillich_person_id__3227">
@@ -20445,42 +20443,36 @@
                </person>
                <person xml:id="tillich_person_id__3229">
                   <persName>Sydow, Hans Kurt von</persName>
-                  <occupation>Vater Eckart von Sydows</occupation>
                </person>
                <person xml:id="tillich_person_id__3230">
                   <persName>Sydow-Wedel, Margarethe von</persName>
-                  <occupation>Tante (väterlicherseits) Eckarts von Sydow</occupation>
                </person>
                <person xml:id="tillich_person_id__3231">
                   <persName>Wedel, Felix von</persName>
-                  <occupation>Onkel (väterlicherseits angeheiratet) Eckarts von Sydow, Gatte der Margarethe von Sydow</occupation>
                </person>
                <person xml:id="tillich_person_id__3232">
                   <persName>Sydow, Elisabeth von</persName>
                   <birth>
                      <date>1861</date>
                   </birth>
-                  <occupation>Tante (väterlicherseits) Eckarts von Sydow</occupation>
                </person>
                <person xml:id="tillich_person_id__3233">
                   <persName>Sydow, Annamaria von (verh. von der Osten)</persName>
-                  <occupation>Tante (väterlicherseits) Eckarts von Sydow</occupation>
                </person>
                <person xml:id="tillich_person_id__3234">
                   <persName>Osten, Oscar von der</persName>
-                  <occupation>Onkel (väterlicherseits angeheiratet) Eckarts von Sydow, Gatte der Annamaria von Sydow</occupation>
                </person>
                <person xml:id="tillich_person_id__3235">
                   <persName>Goldberg, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3236">
                   <persName>Jäckh, Ernst</persName>
-                  <occupation>Journalist, Geschäftsführer des Deutschen Werkbundes, Publizist, und Hochschullehrer</occupation>
+                  <occupation>Journalist, Geschäftsführer des Deutschen Werkbundes, Publizist und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118711253</idno>
                </person>
                <person xml:id="tillich_person_id__3237">
                   <persName>Heuss, Theodor</persName>
-                  <occupation>Journalist, Publizist, Politikwissenschaftler, Politiker</occupation>
+                  <occupation>Journalist, Publizist, Politikwissenschaftler und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118550578</idno>
                </person>
                <person xml:id="tillich_person_id__3238">
@@ -20499,7 +20491,7 @@
                </person>
                <person xml:id="tillich_person_id__3242">
                   <persName>Stuckart, Wilhelm</persName>
-                  <occupation>Jurist, Staatssekretär, Politiker</occupation>
+                  <occupation>Jurist, Staatssekretär und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128611189</idno>
                </person>
                <person xml:id="tillich_person_id__3243">
@@ -20540,7 +20532,7 @@
                </person>
                <person xml:id="tillich_person_id__3250">
                   <persName>Jacobi, Eugen</persName>
-                  <occupation>Metallindustrieller, Unternehmer</occupation>
+                  <occupation>Metallindustrieller und Unternehmer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138716390</idno>
                </person>
                <person xml:id="tillich_person_id__3251">
@@ -20563,7 +20555,7 @@
                </person>
                <person xml:id="tillich_person_id__3257">
                   <persName>Schwarzbeck, Studienrat</persName>
-                  <occupation>Lehrer für Deutsch</occupation>
+                  <occupation>Lehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__3258">
                   <persName>Giffert, Mac</persName>
@@ -20596,10 +20588,10 @@
                         <placeName key="#tillich_place_id__327">Nürnberg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politiker, Offizier, Jagdflieger, Nationalsozialist, Hauptmann, Abgeordneter, Minister</occupation>
+                  <occupation>Deutscher Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118540157</idno>
                   <note type="bio">
-                     <p>deutscher nationalsozialistischer Politiker und Kriegsverbrecher</p>
+                     <p>Deutscher nationalsozialistischer Politiker und Kriegsverbrecher</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3263">
@@ -20628,12 +20620,12 @@
                   <death>
                      <date>1984-10-15</date>
                   </death>
-                  <occupation>Philosoph, Religionswissenschaftler</occupation>
+                  <occupation>Philosoph und Religionswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/104183616</idno>
                </person>
                <person xml:id="tillich_person_id__3270">
                   <persName>Case, Shirley Jackson</persName>
-                  <occupation>Theologe, Kirchenhistoriker, Dekan der Divinity School der Universität Chicago</occupation>
+                  <occupation>Theologe und Kirchenhistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1055380620</idno>
                </person>
                <person xml:id="tillich_person_id__3271">
@@ -20660,7 +20652,7 @@
                </person>
                <person xml:id="tillich_person_id__3280">
                   <persName>Hayn, Hans</persName>
-                  <occupation>Reichstagsabgeordneter der NSDAP, ab 01. Juli 1933 Führer der SA-Gruppe Sachsen</occupation>
+                  <occupation>Deutscher Politiker und SA-Führer</occupation>
                </person>
                <person xml:id="tillich_person_id__3281">
                   <persName>???, Robert</persName>
@@ -20677,21 +20669,21 @@
                   <birth>
                      <date>1912-06-30</date>
                   </birth>
-                  <occupation>Theologe, Philosoph</occupation>
+                  <occupation>Theologe und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1089599463</idno>
                </person>
                <person xml:id="tillich_person_id__3286">
                   <persName>Rice, Otis R.</persName>
-                  <occupation>Universitätskaplan, Krankenhausseelsorger</occupation>
+                  <occupation>Universitätskaplan und Krankenhausseelsorger</occupation>
                </person>
                <person xml:id="tillich_person_id__3287">
                   <persName>Radó, Sándor</persName>
-                  <occupation>Psychoanalytiker, Psychater</occupation>
+                  <occupation>Psychoanalytiker und Psychater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119352311</idno>
                </person>
                <person xml:id="tillich_person_id__3288">
                   <persName>Riezler, Edith</persName>
-                  <occupation>Gesangslehrerin, Mezzo-Sopranistin</occupation>
+                  <occupation>Gesangslehrerin</occupation>
                </person>
                <person xml:id="tillich_person_id__3289">
                   <persName>Palgi, Prof.</persName>
@@ -20706,7 +20698,7 @@
                </person>
                <person xml:id="tillich_person_id__3292">
                   <persName>Kühn, Johannes</persName>
-                  <occupation>Historiker, 1928-1945 Professor für Geschichte an der TH Dresden</occupation>
+                  <occupation>Historiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116588187</idno>
                </person>
                <person xml:id="tillich_person_id__3293">
@@ -20714,7 +20706,7 @@
                </person>
                <person xml:id="tillich_person_id__3294">
                   <persName>Delekat, Friedrich</persName>
-                  <occupation>Evangelischer Theologe, Professor für Religionswissenschaft</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118671340</idno>
                </person>
                <person xml:id="tillich_person_id__3295">
@@ -20727,17 +20719,17 @@
                </person>
                <person xml:id="tillich_person_id__3297">
                   <persName>Gehrig, Hans</persName>
-                  <occupation>Volkswirt, Wirtschaftswissenschaftler, Professor für Nationalökonomie und Statistik</occupation>
+                  <occupation>Volkswirt und Wirtschaftswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116493968</idno>
                </person>
                <person xml:id="tillich_person_id__3298">
                   <persName>Luchtenberg, Paul</persName>
-                  <occupation>Professor für Philosophie, Pädagogik und Psychologie; später Kultusminister von NRW</occupation>
+                  <occupation>Kulturwissenschaftler, Pädagoge und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118729330</idno>
                </person>
                <person xml:id="tillich_person_id__3299">
                   <persName>Beste, Theodor</persName>
-                  <occupation>Professor für Privatwirtschaftslehre</occupation>
+                  <occupation>Professor für Betriebswirtschaftslehre</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118662600</idno>
                </person>
                <person xml:id="tillich_person_id__3300">
@@ -20761,7 +20753,7 @@
                </person>
                <person xml:id="tillich_person_id__3304">
                   <persName>Dobrowen, Issay</persName>
-                  <occupation>Dirigent, Komponist, Pianist</occupation>
+                  <occupation>Dirigent, Komponist und Pianist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/103815651</idno>
                </person>
                <person xml:id="tillich_person_id__3305">
@@ -20773,17 +20765,17 @@
                </person>
                <person xml:id="tillich_person_id__3307">
                   <persName>Belyi, Andrej</persName>
-                  <occupation>Dichter, Schriftsteller</occupation>
+                  <occupation>Dichter und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118508806</idno>
                </person>
                <person xml:id="tillich_person_id__3308">
                   <persName>Rosen, Eric von</persName>
-                  <occupation>Ethnologe, Graf</occupation>
+                  <occupation>Ethnologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/123942039</idno>
                </person>
                <person xml:id="tillich_person_id__3309">
                   <persName>Aaron, Paul</persName>
-                  <occupation>Musiker; Cembalist; Pianist; Komponist; Regisseur; Dirigent; Lehrer; Übersetzer</occupation>
+                  <occupation>Musiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/123819652</idno>
                </person>
                <person xml:id="tillich_person_id__3310">
@@ -20816,11 +20808,9 @@
                </person>
                <person xml:id="tillich_person_id__3318">
                   <persName>Anita</persName>
-                  <occupation>Nicht ermittelt.</occupation>
                </person>
                <person xml:id="tillich_person_id__3319">
                   <persName>Katholischer Studentenpfarrer</persName>
-                  <occupation>Nicht ermittelt.</occupation>
                </person>
                <person xml:id="tillich_person_id__3320">
                   <persName>???, Käthe</persName>
@@ -20836,21 +20826,21 @@
                </person>
                <person xml:id="tillich_person_id__3323">
                   <persName>von Sachsen-Weimar-Eisenach, Augusta</persName>
-                  <occupation>Kaiserin von Deutschland, Frau Kaiser Wilhelms I</occupation>
+                  <occupation>Erste Deutsche Kaiserin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118651102</idno>
                </person>
                <person xml:id="tillich_person_id__3324">
                   <persName>Stevens, David H.</persName>
-                  <occupation>Professor für englische Literatur, Direktor für Humanities der Rockefeller Foundation 1932-1949</occupation>
+                  <occupation>Professor für englische Literatur und Direktor für Humanities der Rockefeller Foundation (1932-1949)</occupation>
                </person>
                <person xml:id="tillich_person_id__3325">
                   <persName>Rosenstock Huessy, Hans</persName>
-                  <occupation>Sohn von Eugen Rosenstock Huessy; Psychiater</occupation>
+                  <occupation>Psychiater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/139267115</idno>
                </person>
                <person xml:id="tillich_person_id__3326">
                   <persName>Rosenstock, Carl Theodor</persName>
-                  <occupation>Vater von Eugen Rosenstock-Huessy; Bankier Handelsrichter</occupation>
+                  <occupation>Bankier und Handelsrichter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/139266828</idno>
                </person>
                <person xml:id="tillich_person_id__3327">
@@ -20867,11 +20857,9 @@
                </person>
                <person xml:id="tillich_person_id__3329">
                   <persName>Rosenstock, Paula</persName>
-                  <occupation>Mutter von Huessy, Anna Margaretha (Margrit)</occupation>
                </person>
                <person xml:id="tillich_person_id__3330">
                   <persName>Laertes, ???</persName>
-                  <occupation>Figur aus der griechischen Mythologie und Vater von Odysseus.</occupation>
                </person>
                <person xml:id="tillich_person_id__3331">
                   <persName>Werner, Heinz</persName>
@@ -20886,7 +20874,7 @@
                </person>
                <person xml:id="tillich_person_id__3333">
                   <persName>Balduf, Emery Winfield</persName>
-                  <occupation>Professor, Philosoph, Übersetzer</occupation>
+                  <occupation>Professor, Philosoph und Übersetzer</occupation>
                </person>
                <person xml:id="tillich_person_id__3334">
                   <persName>Streit, Clarence Kirshman</persName>
@@ -20894,7 +20882,7 @@
                </person>
                <person xml:id="tillich_person_id__3335">
                   <persName>Tufts, James Hayden</persName>
-                  <occupation>Philosoph, Professor für Philosophie</occupation>
+                  <occupation>Philosoph und Professo</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119065746</idno>
                </person>
                <person xml:id="tillich_person_id__3336">
@@ -20902,17 +20890,17 @@
                </person>
                <person xml:id="tillich_person_id__3337">
                   <persName>Baurichter, Kurt</persName>
-                  <occupation>Politiker, Volkswirt</occupation>
+                  <occupation>Politiker und Volkswirt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/131994328</idno>
                </person>
                <person xml:id="tillich_person_id__3338">
                   <persName>Hirsch, Marie</persName>
-                  <occupation>Volkswirtin, Sozialarbeiterin (?)</occupation>
+                  <occupation>Volkswirtin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1016960859</idno>
                </person>
                <person xml:id="tillich_person_id__3339">
                   <persName>Fränkel, Hilde</persName>
-                  <occupation>Sekretärin v. Paul Tillich</occupation>
+                  <occupation>Sekretärin von Paul Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__3340">
                   <persName>Laozi</persName>
@@ -20931,12 +20919,12 @@
                </person>
                <person xml:id="tillich_person_id__3344">
                   <persName>Schmidt, Expeditus</persName>
-                  <occupation>Schriftsteller; Lektor; Redakteur; Theaterkritiker; Literarhistoriker; Theaterwissenschaftler</occupation>
+                  <occupation>Schriftsteller, Lektor, Redakteur, Theaterkritiker, Literarhistoriker und Theaterwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117499455</idno>
                </person>
                <person xml:id="tillich_person_id__3345">
                   <persName>Schurz, Carl</persName>
-                  <occupation>Politiker; Revolutionär; Publizist; Rechtsanwalt; Botschafter</occupation>
+                  <occupation>Politiker, Publizist,  Rechtsanwalt und Botschafter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118611720</idno>
                </person>
                <person xml:id="tillich_person_id__3346">
@@ -20959,7 +20947,7 @@
                </person>
                <person xml:id="tillich_person_id__3351">
                   <persName>The National City Bank of New York</persName>
-                  <occupation>Institution;</occupation>
+                  <occupation>Institution</occupation>
                </person>
                <person xml:id="tillich_person_id__3352">
                   <persName>Watson, Mary</persName>
@@ -20967,11 +20955,11 @@
                </person>
                <person xml:id="tillich_person_id__3353">
                   <persName>Plaut, Margaret</persName>
-                  <occupation>freiwillige Sozailarbeiterin</occupation>
+                  <occupation>Sozailarbeiterin</occupation>
                </person>
                <person xml:id="tillich_person_id__3354">
                   <persName>Müller-Munk, Gertrud</persName>
-                  <occupation>Malerin, Restauratorin</occupation>
+                  <occupation>Malerin und Restauratorin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1062726049</idno>
                </person>
                <person xml:id="tillich_person_id__3355">
@@ -20989,7 +20977,7 @@
                </person>
                <person xml:id="tillich_person_id__3359">
                   <persName>Hulse, Wilfred C.</persName>
-                  <occupation>Kinderarzt; Publizist; Chairman "Aufbau" Zeitschrift</occupation>
+                  <occupation>Kinderarzt, Publizist und Chairman der jüdischen Zeitschrift „Aufbau"</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117056197</idno>
                </person>
                <person xml:id="tillich_person_id__3360">
@@ -20997,7 +20985,7 @@
                </person>
                <person xml:id="tillich_person_id__3361">
                   <persName>Ravel, Maurice</persName>
-                  <occupation>Komponist, Pianist, Dirigent</occupation>
+                  <occupation>Komponist, Pianist und Dirigent</occupation>
                </person>
                <person xml:id="tillich_person_id__3362">
                   <persName>Rossini, Gioachino</persName>
@@ -21005,14 +20993,14 @@
                </person>
                <person xml:id="tillich_person_id__3363">
                   <persName>Bach, Johann Sebastian</persName>
-                  <occupation>Komponist, Violinist, Organist</occupation>
+                  <occupation>Komponist, Violinist und Organist</occupation>
                   <note type="bio">
                      <p>Johann Sebastian Bach (21. März 1685 – 28. Juli 1750) war ein deutscher Komponist und Thomaskantor in Leipzig. Nach seiner Ausbildung und frühen Organistenstellen wirkte er in Weimar und Köthen, bevor er 1723 das Thomaskantorat in Leipzig übernahm. Dort schuf er zahlreiche Kantaten sowie bedeutende Kirchenwerke wie die „Matthäuspassion“ und die h-Moll-Messe. Bachs Musik verbindet lutherische Frömmigkeit mit hoher kompositorischer Kunst und prägte die europäische Musikgeschichte nachhaltig.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3364">
                   <persName>Schumann, Robert</persName>
-                  <occupation>Komponist, Musikkritiker, Dirigent</occupation>
+                  <occupation>Komponist, Musikkritiker und Dirigent</occupation>
                </person>
                <person xml:id="tillich_person_id__3365">
                   <persName>Haydn, Joseph</persName>
@@ -21028,7 +21016,7 @@
                </person>
                <person xml:id="tillich_person_id__3368">
                   <persName>Parmenides von Elea</persName>
-                  <occupation>Philosoph, Vorsokratiker</occupation>
+                  <occupation>Philosoph und Vorsokratiker</occupation>
                   <note type="bio">
                      <p>Parmenides (kaum vor 510 – nach 450 v. Chr.) war Philosoph aus Elea in Süditalien. In seinem in Hexametern verfassten Gedicht lehrte er die Einheit des Seienden: Alles, was gedacht wird, muss seiend sein, ein Nichtsein ist undenkbar. Sein und Denken gehören zusammen. Werden und Vergehen gelten ihm als Illusion der Sterblichen. Damit wurde Parmenides zu einer Autorität für die Sophisten. Platon setzte sich im Dialog Sophistes kritisch mit seiner Lehre auseinander und stellte ihr ein Verständnis von Einheit gegenüber, das auch Vielheit zulässt.</p>
                   </note>
@@ -21042,7 +21030,7 @@
                </person>
                <person xml:id="tillich_person_id__3370">
                   <persName>Roosevelt, Theodore</persName>
-                  <occupation>26. Präsident der Vereinigten Staaten von Amerika</occupation>
+                  <occupation>Amerikanischer demokratischer Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118749633</idno>
                </person>
                <person xml:id="tillich_person_id__3371">
@@ -21106,7 +21094,7 @@
                </person>
                <person xml:id="tillich_person_id__3390">
                   <persName>Friedländer, Lia</persName>
-                  <occupation>Physiotherapeutin, Künstlerin</occupation>
+                  <occupation>Physiotherapeutin und Künstlerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1242291210</idno>
                </person>
                <person xml:id="tillich_person_id__3391">
@@ -21117,7 +21105,7 @@
                </person>
                <person xml:id="tillich_person_id__3393">
                   <persName>Malaparte, Curzio</persName>
-                  <occupation>ital. Schriftsteller, Journalist</occupation>
+                  <occupation>Italienischer Schriftsteller und Journalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118781383</idno>
                </person>
                <person xml:id="tillich_person_id__3394">
@@ -21160,17 +21148,17 @@
                </person>
                <person xml:id="tillich_person_id__3404">
                   <persName>Fisher, Geoffrey Francis</persName>
-                  <occupation>1945–1961 Erzbischof von Canterbury, Theologe</occupation>
+                  <occupation>Erzbischof von Canterbury und Primas der Church of England (1945 –1961)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119199246</idno>
                </person>
                <person xml:id="tillich_person_id__3405">
                   <persName>Katz, Rudolf</persName>
-                  <occupation>Jurist, Politiker, Journalist</occupation>
+                  <occupation>Jurist, Politiker und Journalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/124417620</idno>
                </person>
                <person xml:id="tillich_person_id__3406">
                   <persName>Marshall, John</persName>
-                  <occupation>Stv. Direktor des Bereichs Humanities der Rockefeller Foundation</occupation>
+                  <occupation>Stellvertretender Direktor des Bereichs Humanities der Rockefeller Foundation</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116792817</idno>
                </person>
                <person xml:id="tillich_person_id__3407">
@@ -21240,7 +21228,6 @@
                </person>
                <person xml:id="tillich_person_id__3429">
                   <persName>Rosenstock–Huessy, Margrit</persName>
-                  <occupation>Ehefrau von Eugen Rosenstock–Huessy.</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116625228</idno>
                </person>
                <person xml:id="tillich_person_id__3430">
@@ -21266,7 +21253,6 @@
                </person>
                <person xml:id="tillich_person_id__3436">
                   <persName>Muth</persName>
-                  <occupation>Frau von Amtsgerichtsrat Muth</occupation>
                </person>
                <person xml:id="tillich_person_id__3438">
                   <persName>Mendelssohn, Frau von</persName>
@@ -21300,11 +21286,11 @@
                </person>
                <person xml:id="tillich_person_id__3445">
                   <persName>Wessel, Horst</persName>
-                  <occupation>Deutscher Paramilitär der SA, der nach seiner Ermordung durch ein KPD-Mitglied zum Märtyrer der Nationalsozialisten stilisiert wurde.</occupation>
+                  <occupation>Deutscher Paramilitär der SA</occupation>
                </person>
                <person xml:id="tillich_person_id__3446">
                   <persName>Mendel, Gregor</persName>
-                  <occupation>Augustinerpriester, Entdecker der nach ihm benannten "Mendelschen Regeln" der Vererbung.</occupation>
+                  <occupation>Augustinerpriester</occupation>
                </person>
                <person xml:id="tillich_person_id__3447">
                   <persName>Smidt, Udo</persName>
@@ -21334,36 +21320,36 @@
                </person>
                <person xml:id="tillich_person_id__3455">
                   <persName>Barry, Iris</persName>
-                  <occupation>Filmkritikerin, Kuratorin</occupation>
+                  <occupation>Filmkritikerin und Kuratorin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/105338310X</idno>
                </person>
                <person xml:id="tillich_person_id__3456">
                   <persName>Crowther, Jr., Francis Bosley</persName>
-                  <occupation>Filmkritiker, Redakteur</occupation>
+                  <occupation>Filmkritiker und Redakteur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1189709473</idno>
                </person>
                <person xml:id="tillich_person_id__3457">
                   <persName>Kirchwey, Mary Frederika "Freda"</persName>
-                  <occupation>Journalistin, Publizistin, 1933–1955 Hg. der "Nation"</occupation>
+                  <occupation>Journalistin und Publizistin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116187387</idno>
                </person>
                <person xml:id="tillich_person_id__3458">
                   <persName>Gordon, John King</persName>
-                  <occupation>Theologe, Hochschullehrer, kanadischer Minister, Herausgeber der "Nation"</occupation>
+                  <occupation>Theologe und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1076995993</idno>
                </person>
                <person xml:id="tillich_person_id__3459">
                   <persName>Marshall, Margaret Alice</persName>
-                  <occupation>Journalistin, Herausgeberin der Literaturabteilung der Nation</occupation>
+                  <occupation>Journalistin</occupation>
                </person>
                <person xml:id="tillich_person_id__3460">
                   <persName>Jarrell, Randall</persName>
-                  <occupation>Schriftsteller, Literaturkritiker</occupation>
+                  <occupation>Schriftsteller und Literaturkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118776010</idno>
                </person>
                <person xml:id="tillich_person_id__3461">
                   <persName>Spiero, Heinrich</persName>
-                  <occupation>Schriftsteller, Literaturhistoriker, Jurist</occupation>
+                  <occupation>Schriftsteller, Literaturhistoriker und Jurist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117490067</idno>
                </person>
                <person xml:id="tillich_person_id__3462">
@@ -21376,7 +21362,7 @@
                </person>
                <person xml:id="tillich_person_id__3464">
                   <persName>Bell, George Kennedy Allen</persName>
-                  <occupation>anglikanischer Theologe, Bischof von Chichester</occupation>
+                  <occupation>Anglikanischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118655124</idno>
                </person>
                <person xml:id="tillich_person_id__3465">
@@ -21401,7 +21387,7 @@
                </person>
                <person xml:id="tillich_person_id__3470">
                   <persName>Elkisch, Paula</persName>
-                  <occupation>Psychologin, Psychoanalytikerin</occupation>
+                  <occupation>Psychologin und Psychoanalytikerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1216263612</idno>
                </person>
                <person xml:id="tillich_person_id__3471">
@@ -21409,7 +21395,7 @@
                </person>
                <person xml:id="tillich_person_id__3472">
                   <persName>Kempner, Paul</persName>
-                  <occupation>Jurist, Bankier, Unternehmer</occupation>
+                  <occupation>Jurist, Bankier und Unternehmer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116127511</idno>
                </person>
                <person xml:id="tillich_person_id__3473">
@@ -21420,7 +21406,7 @@
                </person>
                <person xml:id="tillich_person_id__3475">
                   <persName>Oppenheim, Felix</persName>
-                  <occupation>Professor für Politikwissenschaft, 1942–45 Intelligence Officer der US Armee</occupation>
+                  <occupation>Professor für Politikwissenschaft</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/141171227</idno>
                   <note type="bio">
                      <p>Sohn von Paul und Gabrielle Oppenheim</p>
@@ -21428,7 +21414,7 @@
                </person>
                <person xml:id="tillich_person_id__3476">
                   <persName>Sprout, Harold Hance</persName>
-                  <occupation>Professor für Politikwissenschaft, Jurist</occupation>
+                  <occupation>Jurist und Professor für Politikwissenschaft</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1055266313</idno>
                </person>
                <person xml:id="tillich_person_id__3477">
@@ -21466,7 +21452,7 @@
                         <placeName key="#tillich_place_id__271">London</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politikwissenschaftler, Ökonom, Autor und Dozent.</occupation>
+                  <occupation>Politikwissenschaftler, Ökonom, Autor und Dozent</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119192616</idno>
                </person>
                <person xml:id="tillich_person_id__3483">
@@ -21553,7 +21539,7 @@
                </person>
                <person xml:id="tillich_person_id__3492">
                   <persName>Venedey, Hans</persName>
-                  <occupation>Jurist, Politiker</occupation>
+                  <occupation>Jurist und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1047561689</idno>
                </person>
                <person xml:id="tillich_person_id__3493">
@@ -21563,7 +21549,7 @@
                </person>
                <person xml:id="tillich_person_id__3494">
                   <persName>Amelunxen, Wilhelm Rudolf Konrad</persName>
-                  <occupation>Jurist, Politiker</occupation>
+                  <occupation>Jurist und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118648764</idno>
                </person>
                <person xml:id="tillich_person_id__3495">
@@ -21588,7 +21574,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>preussischer  Staats- und Landwirtschaftsminister</occupation>
+                  <occupation>Preußischer Generalleutnant und Staats- und Landwirtschaftsminister</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116247479</idno>
                </person>
                <person xml:id="tillich_person_id__3498">
@@ -21719,7 +21705,7 @@
                   <death>
                      <date>1979</date>
                   </death>
-                  <occupation>Professor in University of Pennsylvania, Philadelpha</occupation>
+                  <occupation>Professor an der University of Pennsylvania</occupation>
                </person>
                <person xml:id="tillich_person_id__3517">
                   <persName>Pickett, Clarance E.</persName>
@@ -21745,7 +21731,7 @@
                   <death>
                      <date>1958-08-08</date>
                   </death>
-                  <occupation>britischer Staatsmann</occupation>
+                  <occupation>Britischer Staatsmann</occupation>
                </person>
                <person xml:id="tillich_person_id__3519">
                   <persName>Stresemann, Gustav</persName>
@@ -21769,7 +21755,7 @@
                </person>
                <person xml:id="tillich_person_id__3521">
                   <persName>Lawson, Evald Benjamin</persName>
-                  <occupation>evangelischer Theologe, Präsident d. Upsala College 1938–1965</occupation>
+                  <occupation>Evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__3522">
                   <persName>Meyer, Hans</persName>
@@ -21838,7 +21824,7 @@
                         <placeName>Schloß Doorn (Holland)</placeName>
                      </settlement>
                   </death>
-                  <occupation>Deutsche Kaiserin, Frau von Wilhelm II.</occupation>
+                  <occupation>Deutsche Kaiserin (1888 – 1918)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118651129</idno>
                </person>
                <person xml:id="tillich_person_id__3536">
@@ -21861,7 +21847,7 @@
                         <placeName>New York</placeName>
                      </settlement>
                   </death>
-                  <occupation>Amerikanischer Rabbi, Sozialarbeiter</occupation>
+                  <occupation>Amerikanischer Rabbi und Sozialarbeiter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117119342</idno>
                </person>
                <person xml:id="tillich_person_id__3538">
@@ -21878,7 +21864,7 @@
                         <placeName>New York</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politologe, Soziologe</occupation>
+                  <occupation>Politologe und Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/124559042</idno>
                </person>
                <person xml:id="tillich_person_id__3539">
@@ -21905,7 +21891,7 @@
                         <placeName>New York</placeName>
                      </settlement>
                   </death>
-                  <occupation>Jurist, Diplomat, Völkerrechtler</occupation>
+                  <occupation>Jurist, Diplomat und Völkerrechtler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118776177</idno>
                </person>
                <person xml:id="tillich_person_id__3541">
@@ -21956,7 +21942,7 @@
                </person>
                <person xml:id="tillich_person_id__3547">
                   <persName>Meinhof, Johannes</persName>
-                  <occupation>Pfarrer, Superintendent (Halle)</occupation>
+                  <occupation>Pfarrer und Superintendent in Halle</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127299947</idno>
                </person>
                <person xml:id="tillich_person_id__3548">
@@ -21969,7 +21955,7 @@
                </person>
                <person xml:id="tillich_person_id__3550">
                   <persName>Vlastos, Gregory</persName>
-                  <occupation>Philosoph, Professor für Philosophie</occupation>
+                  <occupation>Philosoph und Professor für Philosophie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11923758X</idno>
                </person>
                <person xml:id="tillich_person_id__3551">
@@ -22035,7 +22021,7 @@
                   <death>
                      <date>1944-03-08</date>
                   </death>
-                  <occupation>evangelischer Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__3562">
                   <persName>Ebers, Paul Friedrich</persName>
@@ -22051,7 +22037,7 @@
                         <placeName key="#tillich_place_id__600">Bredow</placeName>
                      </settlement>
                   </death>
-                  <occupation>zuletzt Pfarrer in Bredow</occupation>
+                  <occupation>Pfarrer</occupation>
                   <note type="bio">
                      <p>* 17.07.1849 in Eichwerder bei Stettin. † 18.03.1912 in Bredow. Gymnasium Pyritz. Universitäten Halle, Würzburg, Berlin, Greifswald und Erlangen. Ordiniert am 26.11.1876. 1876 Hilfsprediger. 1877 Pfarrer in Königswalde, Kirchenkreis Sternberg I. 1877 Oberpfarrer in Driesen, Kirchenkreis Friedeberg. Emeritiert am 01.01.1905. 1906 Hilfsprediger. 1910 Pfarrer in Bredow bis 1912. Sein Vorgänger war Adolf Julius Müller. Sein Nachfolger war Max Karl Hermann Ziegel. Am 07.05.1910 wird ihm die Aufsicht über die Schule in Bredow übertragen. Vater: Pfarrer Friedrich Ludwig Ebers, Mutter: Marie Friederike Johanna Giebe. Ehefrau: Anna Mittendorf, verh. am 21.08.1879 in Berlin. Quelle: Evangelisches Pfarrerbuch S. 173.</p>
                   </note>
@@ -22166,7 +22152,7 @@
                         <placeName>Alt-Rahlstedt</placeName>
                      </settlement>
                   </death>
-                  <occupation>Deutscher Lyriker, Prosa- und Bühnenautor.</occupation>
+                  <occupation>Deutscher Lyriker und Prosa- und Bühnenautor</occupation>
                   <idno type="gnd">https://portal.dnb.de/opac/showNextRecord?currentResultId=nid%3D118572954%26any&amp;currentPosition=0</idno>
                </person>
                <person xml:id="tillich_person_id__3584">
@@ -22219,7 +22205,7 @@
                </person>
                <person xml:id="tillich_person_id__3590">
                   <persName>Haenisch, Konrad</persName>
-                  <occupation>Preußischer Kultusminister in den Jahren 1919 bis 1921</occupation>
+                  <occupation>Preußischer Kultusminister in den Jahren (1919 – 1921)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118544519</idno>
                </person>
                <person xml:id="tillich_person_id__3591">
@@ -22285,7 +22271,7 @@
                </person>
                <person xml:id="tillich_person_id__3609">
                   <persName>von Ribbentrop, Joachim</persName>
-                  <occupation>General</occupation>
+                  <occupation>Reichsminister des Auswärtigen (1933 – 1944)</occupation>
                </person>
                <person xml:id="tillich_person_id__3610">
                   <persName>Graf Droste zu Vischering, Clemens Heidenreich Franz</persName>
@@ -22417,7 +22403,6 @@
                </person>
                <person xml:id="tillich_person_id__3639">
                   <persName>???, ???</persName>
-                  <occupation>Dekan</occupation>
                </person>
                <person xml:id="tillich_person_id__3640">
                   <persName>???, ???</persName>
@@ -22440,7 +22425,7 @@
                </person>
                <person xml:id="tillich_person_id__3646">
                   <persName>Töpelmann, Alfred</persName>
-                  <occupation>Verleger, Theologe, Buchhändler</occupation>
+                  <occupation>Verleger, Theologe und Buchhändler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117392898</idno>
                </person>
                <person xml:id="tillich_person_id__3647">
@@ -22451,7 +22436,7 @@
                </person>
                <person xml:id="tillich_person_id__3650">
                   <persName>Krüger, Gustav</persName>
-                  <occupation>Kirchenhistoriker, Evangelischer Theologe, Hochschullehrer</occupation>
+                  <occupation>Kirchenhistoriker, Evangelischer Theologe und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116561734</idno>
                </person>
                <person xml:id="tillich_person_id__3651">
@@ -22471,7 +22456,7 @@
                         <placeName key="#tillich_place_id__506">Breslau</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe, Politiker</occupation>
+                  <occupation>Theologe und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117225924</idno>
                </person>
                <person xml:id="tillich_person_id__3653">
@@ -22514,12 +22499,12 @@
                </person>
                <person xml:id="tillich_person_id__3696">
                   <persName>Duke, Doris</persName>
-                  <occupation>Unternehmerin, Mäzenin</occupation>
+                  <occupation>Unternehmerin und Mäzenin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1020166215</idno>
                </person>
                <person xml:id="tillich_person_id__3697">
                   <persName>Marschak, Jacob</persName>
-                  <occupation>Ökonom, Professor für Wirtschaftswissenschaften</occupation>
+                  <occupation>Ökonom und Professor für Wirtschaftswissenschaften</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119344521</idno>
                </person>
                <person xml:id="tillich_person_id__3698">
@@ -22604,21 +22589,21 @@
                </person>
                <person xml:id="tillich_person_id__3718">
                   <persName>Mollegen, Albert T., Sr.</persName>
-                  <occupation>amerikanischer evangelischer Theologe</occupation>
+                  <occupation>Amerikanischer evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1147239010</idno>
                </person>
                <person xml:id="tillich_person_id__3751">
                   <persName>Bonthius, Robert Harold</persName>
-                  <occupation>Kaplan, Professor für Theologie</occupation>
+                  <occupation>Kaplan und Professor für Theologie</occupation>
                </person>
                <person xml:id="tillich_person_id__3752">
                   <persName>Dirks, John Edward</persName>
-                  <occupation>Pfarrer, Professor für Philosophie und Theologie</occupation>
+                  <occupation>Pfarrer und Professor für Philosophie und Theologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1186666137</idno>
                </person>
                <person xml:id="tillich_person_id__3753">
                   <persName>Baker, Richard Terrill</persName>
-                  <occupation>Journalist, Professor für Journalismus</occupation>
+                  <occupation>Journalist und Professor für Journalismus</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1218083379</idno>
                </person>
                <person xml:id="tillich_person_id__3754">
@@ -22628,7 +22613,7 @@
                </person>
                <person xml:id="tillich_person_id__3756">
                   <persName>Meter, Barbara</persName>
-                  <occupation>Regisseurin, Tochter von Elisabeth Meter (Plaut)</occupation>
+                  <occupation>Regisseurin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1144910536</idno>
                </person>
                <person xml:id="tillich_person_id__3758">
@@ -22648,7 +22633,7 @@
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutscher Dramaturg, Literaturwissenschaftler, Schriftsteller und Diplomat.</occupation>
+                  <occupation>Deutscher Dramaturg, Literaturwissenschaftler, Schriftsteller und Diplomat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116916664</idno>
                </person>
                <person xml:id="tillich_person_id__3760">
@@ -22674,7 +22659,6 @@
                </person>
                <person xml:id="tillich_person_id__3763">
                   <persName>Thomas</persName>
-                  <occupation>Jünger Jesu</occupation>
                </person>
                <person xml:id="tillich_person_id__3764">
                   <persName>Schrecker, Paul</persName>
@@ -22684,7 +22668,7 @@
                   <death>
                      <date>1963</date>
                   </death>
-                  <occupation>Historiker, Philosoph</occupation>
+                  <occupation>Historiker und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117033731</idno>
                </person>
                <person xml:id="tillich_person_id__3765">
@@ -22786,7 +22770,7 @@
                   <death>
                      <date>1989-03-27</date>
                   </death>
-                  <occupation>Schriftsteller, Literaturkritiker</occupation>
+                  <occupation>Schriftsteller und Literaturkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118670360</idno>
                </person>
                <person xml:id="tillich_person_id__3774">
@@ -22799,7 +22783,7 @@
                </person>
                <person xml:id="tillich_person_id__3776">
                   <persName>Leonard, Grace</persName>
-                  <occupation>secretary</occupation>
+                  <occupation>Sekretärin von Paul Tillich</occupation>
                   <note type="bio">
                      <p>Grace Cali Leonard (Lebensdaten unbekannt), gebürtig aus Rhode Island, arbeitete an der Harvard University als Redaktionsassistentin und Sekretärin von Paul Tillich. Nach drei Jahren in New York, in denen sie ihre Talente als Sängerin und Schriftstellerin entwickelte, widmete sie sich ganz dem Schreiben und zog in den Süden der USA. Artikel von ihr wurden unter anderem in Esquire, World Order und The Christian Century veröffentlicht.</p>
                   </note>
@@ -22876,7 +22860,7 @@
                         <placeName>Denham</placeName>
                      </settlement>
                   </death>
-                  <occupation>Diplomat</occupation>
+                  <occupation>Britischer Diplomat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/115551530</idno>
                </person>
                <person xml:id="tillich_person_id__3788">
@@ -22893,7 +22877,7 @@
                         <placeName>Kilchberg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Philosoph, Pädagoge</occupation>
+                  <occupation>Philosoph und Pädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118692038</idno>
                </person>
                <person xml:id="tillich_person_id__3789">
@@ -22926,7 +22910,7 @@
                         <placeName key="#tillich_place_id__244">Köln</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politiker, Widerstandskämpfer, Journalist</occupation>
+                  <occupation>Politiker, Widerstandskämpfer und Journalist</occupation>
                </person>
                <person xml:id="tillich_person_id__3826">
                   <persName>Forell, Frederik J.</persName>
@@ -22965,7 +22949,7 @@
                         <placeName>Port-Joinville</placeName>
                      </settlement>
                   </death>
-                  <occupation>Offizier, Marschall, Politiker</occupation>
+                  <occupation>Offizier, Marschall und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118740156</idno>
                </person>
                <person xml:id="tillich_person_id__3862">
@@ -22983,16 +22967,16 @@
                </person>
                <person xml:id="tillich_person_id__3865">
                   <persName>Hayner, Paul C.</persName>
-                  <occupation>Philosoph, Professor für Philosophie</occupation>
+                  <occupation>Philosoph und Professor für Philosophie</occupation>
                </person>
                <person xml:id="tillich_person_id__3866">
                   <persName>Hartenstein, Karl</persName>
-                  <occupation>Theologe; Pfarrer</occupation>
+                  <occupation>Theologe und Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118546163</idno>
                </person>
                <person xml:id="tillich_person_id__3867">
                   <persName>Michel, Ernst</persName>
-                  <occupation>Soziologe; Philosoph; Publizist</occupation>
+                  <occupation>Soziologe, Philosoph und Publizist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118733699</idno>
                </person>
                <person xml:id="tillich_person_id__3868">
@@ -23039,11 +23023,11 @@
                </person>
                <person xml:id="tillich_person_id__3882">
                   <persName>Diffendorfer, Ralph Eugene</persName>
-                  <occupation>methodistischer Missionar, Kirchenadministrator</occupation>
+                  <occupation>Methodistischer Missionar und Kirchenadministrator</occupation>
                </person>
                <person xml:id="tillich_person_id__3883">
                   <persName>Dillenberger, John</persName>
-                  <occupation>Historiker, Theologe</occupation>
+                  <occupation>Historiker und Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1187378569</idno>
                </person>
                <person xml:id="tillich_person_id__3884">
@@ -23065,7 +23049,7 @@
                </person>
                <person xml:id="tillich_person_id__3886">
                   <persName>Soper, Edmund Davison</persName>
-                  <occupation>Religionswissenschaftler, Missionswissenschaftler</occupation>
+                  <occupation>Religionswissenschaftler und Missionswissenschaftler</occupation>
                </person>
                <person xml:id="tillich_person_id__3887">
                   <persName>Massacio</persName>
@@ -23126,7 +23110,7 @@
                </person>
                <person xml:id="tillich_person_id__3906">
                   <persName>Kean, Charles Duell</persName>
-                  <occupation>Pfarrer, Theologe</occupation>
+                  <occupation>Pfarrer und Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1191505529</idno>
                </person>
                <person xml:id="tillich_person_id__3907">
@@ -23208,7 +23192,6 @@
                </person>
                <person xml:id="tillich_person_id__3961">
                   <persName>Ruwoldt, Ludwig</persName>
-                  <occupation>Fuchs des Göttinger Wingolfs, gest. am 6.09.1907 (Bestandsliste Wingolf WS 07/08, S. 2))</occupation>
                </person>
                <person xml:id="tillich_person_id__3962">
                   <persName/>
@@ -23274,7 +23257,6 @@
                </person>
                <person xml:id="tillich_person_id__3981">
                   <persName>H. Wiese(?)</persName>
-                  <occupation>Um 1927 Sekretär der Theologischen Literaturzeitung.</occupation>
                </person>
                <person xml:id="tillich_person_id__3982">
                   <persName>Peter (Apostel)</persName>
@@ -23287,7 +23269,6 @@
                </person>
                <person xml:id="tillich_person_id__3985">
                   <persName>Deißmann, Henriette</persName>
-                  <occupation>Ehefrau von Adolf Deißmann.</occupation>
                </person>
                <person xml:id="tillich_person_id__3986">
                   <persName>Tintoretto, Jacopo</persName>
@@ -23297,11 +23278,11 @@
                </person>
                <person xml:id="tillich_person_id__3988">
                   <persName>Jellema, William Harry</persName>
-                  <occupation>Philosoph, Professor für Philosophie</occupation>
+                  <occupation>Philosoph und Professor für Philosophie</occupation>
                </person>
                <person xml:id="tillich_person_id__3989">
                   <persName>Young, William</persName>
-                  <occupation>Theologe, Professor für Philosophie</occupation>
+                  <occupation>Theologe und Professor für Philosophie</occupation>
                </person>
                <person xml:id="tillich_person_id__3990">
                   <persName>da Messina, Antonello</persName>
@@ -23342,7 +23323,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe, Professor für Systematische Theologe</occupation>
+                  <occupation>Theologe und Professor für Systematische Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__3999">
                   <persName>Twesten (geb. Behrens), Catharina Amalia Margarete</persName>
@@ -23395,7 +23376,7 @@
                </person>
                <person xml:id="tillich_person_id__4011">
                   <persName>Kayser, Rudolf</persName>
-                  <occupation>Schriftsteller, Literaturhistoriker</occupation>
+                  <occupation>Schriftsteller und Literaturhistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11609026X</idno>
                </person>
                <person xml:id="tillich_person_id__4012">
@@ -23412,7 +23393,6 @@
                         <placeName>Berlin Wilmersorf</placeName>
                      </settlement>
                   </death>
-                  <occupation>Großtante Paul Tillichs</occupation>
                </person>
                <person xml:id="tillich_person_id__4014">
                   <persName>Kayser, Eva Agathe</persName>
@@ -23430,7 +23410,7 @@
                </person>
                <person xml:id="tillich_person_id__4016">
                   <persName>Kristeller, Paul Oskar</persName>
-                  <occupation>Philosoph, Historiker</occupation>
+                  <occupation>Philosoph und Historiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11877803X</idno>
                </person>
                <person xml:id="tillich_person_id__4017">
@@ -23483,7 +23463,7 @@
                         <placeName>New York</placeName>
                      </settlement>
                   </death>
-                  <occupation>Architekt, Architekturhistoriker</occupation>
+                  <occupation>Architekt und Architekturhistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11948918X</idno>
                </person>
                <person xml:id="tillich_person_id__4027">
@@ -23537,7 +23517,6 @@
                </person>
                <person xml:id="tillich_person_id__4043">
                   <persName>???, ???</persName>
-                  <occupation>Vermutlich der Doktor von P.T. (Er wird in dem Brief L00019 als Herr D. erwähnt)</occupation>
                </person>
                <person xml:id="tillich_person_id__4044">
                   <persName>Kirschner, Martin</persName>
@@ -23553,7 +23532,7 @@
                         <placeName>Ehrwald/Tirol</placeName>
                      </settlement>
                   </death>
-                  <occupation>Von 1899 bis 1912 Oberbürgermeister von Berlin.</occupation>
+                  <occupation>Deutscher Jurist und nationalliberaler Politiker</occupation>
                   <idno type="gnd">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D116189568</idno>
                </person>
                <person xml:id="tillich_person_id__4045">
@@ -23561,11 +23540,9 @@
                </person>
                <person xml:id="tillich_person_id__4046">
                   <persName>Loose, Therese</persName>
-                  <occupation>Die Frau von Friedrich Loose</occupation>
                </person>
                <person xml:id="tillich_person_id__4047">
                   <persName>Fricke, Sophie</persName>
-                  <occupation>Mutter von Uli Fricke.</occupation>
                </person>
                <person xml:id="tillich_person_id__4048">
                   <persName>H.</persName>
@@ -23614,7 +23591,7 @@
                </person>
                <person xml:id="tillich_person_id__4059">
                   <persName>Baudissin, Wolf Wilhelm Graf von</persName>
-                  <occupation>Rektor der Friedrich-Wilhelms-Universität zu Berlin 1912/13</occupation>
+                  <occupation>Deutscher evangelisch-lutherischer Theologe und Hochschullehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__4060">
                   <persName>Schumacher, Leopold</persName>
@@ -23673,7 +23650,7 @@
                         <placeName key="#tillich_place_id__174">Genua</placeName>
                      </settlement>
                   </death>
-                  <occupation>Jurist, Hochschullehrer, Diplomat</occupation>
+                  <occupation>Jurist, Hochschullehrer und Diplomat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116074140</idno>
                </person>
                <person xml:id="tillich_person_id__4070">
@@ -23839,7 +23816,7 @@
                         <placeName key="#tillich_place_id__70">Boston</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politischer Aktivist, Journalist, Schriftsteller</occupation>
+                  <occupation>Politischer Aktivist, Journalist und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/106279815</idno>
                </person>
                <person xml:id="tillich_person_id__4096">
@@ -23908,7 +23885,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Konsistorialrat in Schöneberg (ab 1904), Generalsuperintendent in Magdeburg (ab 1910)</occupation>
+                  <occupation>Konsistorialrat in Schöneberg (ab 1904) und Generalsuperintendent in Magdeburg (ab 1910)</occupation>
                </person>
                <person xml:id="tillich_person_id__4111">
                   <persName>Eggert, Wilhelm</persName>
@@ -23943,7 +23920,7 @@
                         <placeName>Rebelow</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Latein- und Klassenlehrer Paul Tillichs in der Obertertia</occupation>
+                  <occupation>Lateinlehrerin</occupation>
                </person>
                <person xml:id="tillich_person_id__4118">
                   <persName>Graßmann, Karl</persName>
@@ -23953,7 +23930,7 @@
                         <placeName key="#tillich_place_id__416">Stettin</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Mathematiklehrer Paul Tillichs in der Obertertia</occupation>
+                  <occupation>Mathematiklehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__4119">
                   <persName>Ilgen, Paul</persName>
@@ -23963,7 +23940,7 @@
                         <placeName>Cammin in Pommern</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Griechischlehrer Paul Tillichs in der Obertertia</occupation>
+                  <occupation>Griechischlehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__4121">
                   <persName>Urban, Maria</persName>
@@ -23979,7 +23956,7 @@
                         <placeName>Briesen (Prov. Posen)</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Ordinarius der Untertertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark.</occupation>
+                  <occupation>Ordinarius der Untertertia am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark</occupation>
                </person>
                <person xml:id="tillich_person_id__4124">
                   <persName>Kantorowicz, Alfred</persName>
@@ -24000,7 +23977,7 @@
                </person>
                <person xml:id="tillich_person_id__4127">
                   <persName>Watson, Goodwin</persName>
-                  <occupation>Psychologe, Pädagoge</occupation>
+                  <occupation>Psychologe und Pädagoge</occupation>
                </person>
                <person xml:id="tillich_person_id__4128">
                   <persName>Johnson, Ernest</persName>
@@ -24063,7 +24040,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Latein- und Religionslehrer Paul Tillichs in der Ober-Tertia</occupation>
+                  <occupation>Latein- und Religionslehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__4202">
                   <persName>Peters, Ulrich</persName>
@@ -24149,7 +24126,7 @@
                         <placeName>New York</placeName>
                      </settlement>
                   </death>
-                  <occupation>Sozialistin, Kinderärztin</occupation>
+                  <occupation>Sozialistin und Kinderärztin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11952385X</idno>
                </person>
                <person xml:id="tillich_person_id__4218">
@@ -24166,11 +24143,11 @@
                </person>
                <person xml:id="tillich_person_id__4253">
                   <persName>Leslie, Kenneth</persName>
-                  <occupation>Dichter, politische Aktivist, Editor des "Protestant"</occupation>
+                  <occupation>Dichter, politische Aktivist und Editor des "Protestant"</occupation>
                </person>
                <person xml:id="tillich_person_id__4254">
                   <persName>Parkhill, Wilson</persName>
-                  <occupation>Headmaster of Collegiate College, New York</occupation>
+                  <occupation>Headmaster of Collegiate College in New York</occupation>
                </person>
                <person xml:id="tillich_person_id__4255">
                   <persName>Kandeler, Johanna</persName>
@@ -24189,7 +24166,7 @@
                         <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pädagogin, Politikerin, Schriftstellerin</occupation>
+                  <occupation>Pädagogin, Politikerin und Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11895783X</idno>
                </person>
                <person xml:id="tillich_person_id__4257">
@@ -24231,7 +24208,7 @@
                   <death>
                      <date>1922</date>
                   </death>
-                  <occupation>Fideikommissherr auf Dölzig und Herr auf Stavenow</occupation>
+                  <occupation>Fideikommissherr auf Dölzig</occupation>
                </person>
                <person xml:id="tillich_person_id__4295">
                   <persName/>
@@ -24358,7 +24335,7 @@
                </person>
                <person xml:id="tillich_person_id__4319">
                   <persName>Laun, Rudolf</persName>
-                  <occupation>Jurist, Staatsrechtlehrer</occupation>
+                  <occupation>Jurist und Staatsrechtlehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118570188</idno>
                </person>
                <person xml:id="tillich_person_id__4320">
@@ -24375,7 +24352,7 @@
                         <placeName key="#tillich_place_id__130">Düsseldorf</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pädagoge, Publizist, Journalist, Politiker</occupation>
+                  <occupation>Pädagoge, Publizist, Journalist und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117367184</idno>
                </person>
                <person xml:id="tillich_person_id__4321">
@@ -24411,7 +24388,7 @@
                         <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schriftsteller, Journalist, Theaterkritiker</occupation>
+                  <occupation>Schriftsteller, Journalist und Theaterkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11856157X</idno>
                </person>
                <person xml:id="tillich_person_id__4324">
@@ -24450,7 +24427,7 @@
                         <placeName>Lausanne</placeName>
                      </settlement>
                   </death>
-                  <occupation>Journalist, Verleger</occupation>
+                  <occupation>Journalist und Verleger</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/130214841</idno>
                </person>
                <person xml:id="tillich_person_id__4361">
@@ -24473,7 +24450,7 @@
                         <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutscher Pfarrer, Gymnasialprofessor und Schriftsteller</occupation>
+                  <occupation>Deutscher Pfarrer, Gymnasialprofessor und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118762745</idno>
                </person>
                <person xml:id="tillich_person_id__4364">
@@ -24514,7 +24491,7 @@
                         <placeName>Nova Friburgo, Brasilien</placeName>
                      </settlement>
                   </death>
-                  <occupation>Künstler, Maler, Grafiker</occupation>
+                  <occupation>Künstler, Maler und Grafiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116073411</idno>
                </person>
                <person xml:id="tillich_person_id__4368">
@@ -24565,7 +24542,7 @@
                         <placeName>Madrid</placeName>
                      </settlement>
                   </death>
-                  <occupation>Diktator in Spanien (1939-1975)</occupation>
+                  <occupation>Spanischer General und Diktator</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11853470X</idno>
                </person>
                <person xml:id="tillich_person_id__4409">
@@ -24684,7 +24661,6 @@
                   <death>
                      <date>1919</date>
                   </death>
-                  <occupation>Sohn von Hedwig und Bruder von Erich Pfeiffer.</occupation>
                </person>
                <person xml:id="tillich_person_id__4472">
                   <persName>Haeckl, Ernst</persName>
@@ -24694,7 +24670,7 @@
                   <death>
                      <date>09.08.1919</date>
                   </death>
-                  <occupation>Zoologe, Philosoph</occupation>
+                  <occupation>Zoologe und Philosoph</occupation>
                </person>
                <person xml:id="tillich_person_id__4505">
                   <persName>Dittmann, Herta</persName>
@@ -24704,12 +24680,12 @@
                </person>
                <person xml:id="tillich_person_id__4506">
                   <persName>König, Edmund</persName>
-                  <occupation>Philosoph, Gymnasiallehrer</occupation>
+                  <occupation>Philosoph und Gymnasiallehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/141940832</idno>
                </person>
                <person xml:id="tillich_person_id__4507">
                   <persName>Frenssen, Gustav</persName>
-                  <occupation>Evangelischer Theologe, Pfarrer, Schriftsteller</occupation>
+                  <occupation>Evangelischer Theologe, Pfarrer und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118535269</idno>
                </person>
                <person xml:id="tillich_person_id__4540">
@@ -24790,7 +24766,7 @@
                         <placeName key="#tillich_place_id__480">Zürich</placeName>
                      </settlement>
                   </death>
-                  <occupation>Arzt, Medizinhistoriker, Trotzkist, Hochschullehrer</occupation>
+                  <occupation>Arzt, Medizinhistoriker und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12024893X</idno>
                </person>
                <person xml:id="tillich_person_id__4588">
@@ -24801,7 +24777,7 @@
                </person>
                <person xml:id="tillich_person_id__4590">
                   <persName>Franz Joseph I., Kaiser</persName>
-                  <occupation>Kaiser von Österreich, Apostolischer König von Ungarn und König von Böhmen.</occupation>
+                  <occupation>Kaiser von Österreich und apostolischer König von Ungarn und König von Böhmen</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118535013</idno>
                </person>
                <person xml:id="tillich_person_id__4591">
@@ -24809,11 +24785,9 @@
                </person>
                <person xml:id="tillich_person_id__4592">
                   <persName>Bahr, Anna Wilhelmine Amalie</persName>
-                  <occupation>Mutter von Anna-Magarete Bahr</occupation>
                </person>
                <person xml:id="tillich_person_id__4593">
                   <persName>Bahr, ???</persName>
-                  <occupation>Schwester von Anna-Magarete Bahr</occupation>
                </person>
                <person xml:id="tillich_person_id__4594">
                   <persName>Sthamer, Eduard</persName>
@@ -24840,7 +24814,7 @@
                </person>
                <person xml:id="tillich_person_id__4597">
                   <persName>Wright, Harry</persName>
-                  <occupation>Mathematiker, President City College</occupation>
+                  <occupation>Mathematiker</occupation>
                </person>
                <person xml:id="tillich_person_id__4598">
                   <persName>Hocking, William Ernest</persName>
@@ -24912,7 +24886,7 @@
                </person>
                <person xml:id="tillich_person_id__4606">
                   <persName>Schubring, Wilhelm</persName>
-                  <occupation>Pfarrer, evangelischer Theologe</occupation>
+                  <occupation>Pfarrer und evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117117129</idno>
                </person>
                <person xml:id="tillich_person_id__4607">
@@ -24927,7 +24901,7 @@
                </person>
                <person xml:id="tillich_person_id__4609">
                   <persName>Schmidt, Raymund</persName>
-                  <occupation>Philosoph, Schriftsteller</occupation>
+                  <occupation>Philosoph und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117514322</idno>
                </person>
                <person xml:id="tillich_person_id__4642">
@@ -24956,7 +24930,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Lehrer, Anglist, Romanist</occupation>
+                  <occupation>Lehrer, Anglist und Romanist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116490764</idno>
                </person>
                <person xml:id="tillich_person_id__4677">
@@ -24987,7 +24961,7 @@
                </person>
                <person xml:id="tillich_person_id__4680">
                   <persName>Pfennigsdorf, Emil</persName>
-                  <occupation>Evangelischer Theologe, Konsistorialrat</occupation>
+                  <occupation>Evangelischer Theologe und Konsistorialrat</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116165022</idno>
                </person>
                <person xml:id="tillich_person_id__4681">
@@ -25073,7 +25047,7 @@
                </person>
                <person xml:id="tillich_person_id__4704">
                   <persName>Neugebauer, Georg</persName>
-                  <occupation>Evangelischer Theologe, Privatdozent, Pfarrer</occupation>
+                  <occupation>Evangelischer Theologe, Privatdozent und Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/132364883</idno>
                </person>
                <person xml:id="tillich_person_id__4705">
@@ -25120,17 +25094,17 @@
                         <placeName>Waschington, D.C.</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politiker, Außenminister</occupation>
+                  <occupation>Amerikanischer Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118681168</idno>
                </person>
                <person xml:id="tillich_person_id__4715">
                   <persName>Wiebel, Arnold</persName>
-                  <occupation>Theologe, Philologe</occupation>
+                  <occupation>Theologe und Philologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1115745484</idno>
                </person>
                <person xml:id="tillich_person_id__4716">
                   <persName>Ludwig, Hartmut</persName>
-                  <occupation>Evangelischer Theologe, Kirchenhistoriker</occupation>
+                  <occupation>Evangelischer Theologe und Kirchenhistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11105964X</idno>
                </person>
                <person xml:id="tillich_person_id__4717">
@@ -25146,7 +25120,7 @@
                </person>
                <person xml:id="tillich_person_id__4720">
                   <persName>Warburg, Aby</persName>
-                  <occupation>Kunsthistoriker, Kulturwissenschaftler</occupation>
+                  <occupation>Kunsthistoriker und Kulturwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11862914X</idno>
                </person>
                <person xml:id="tillich_person_id__4721">
@@ -25169,7 +25143,7 @@
                </person>
                <person xml:id="tillich_person_id__4725">
                   <persName>Jastrow, Ignaz</persName>
-                  <occupation>Historiker, Volkswirt</occupation>
+                  <occupation>Historiker und Volkswirt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11708560X</idno>
                </person>
                <person xml:id="tillich_person_id__4726">
@@ -25180,7 +25154,7 @@
                </person>
                <person xml:id="tillich_person_id__4728">
                   <persName>Treiber, Hubert</persName>
-                  <occupation>Verwaltungswissenschaftler, Sozialwissenschaftler</occupation>
+                  <occupation>Verwaltungswissenschaftler und Sozialwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/107899779</idno>
                </person>
                <person xml:id="tillich_person_id__4761">
@@ -25220,7 +25194,7 @@
                   <death>
                      <date>1974-09-12</date>
                   </death>
-                  <occupation>Neutestamentler, Gräzist</occupation>
+                  <occupation>Neutestamentler und Gräzist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/124005799</idno>
                </person>
                <person xml:id="tillich_person_id__4766">
@@ -25260,22 +25234,21 @@
                </person>
                <person xml:id="tillich_person_id__4804">
                   <persName>Hauptmann, Elisabeth</persName>
-                  <occupation>Schriftstellerin, Dramaturgin, Übersetzerin</occupation>
+                  <occupation>Schriftstellerin, Dramaturgin und Übersetzerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118546929</idno>
                </person>
                <person xml:id="tillich_person_id__4805">
                   <persName>Laughton, Charles</persName>
-                  <occupation>Schauspieler, Regisseur</occupation>
+                  <occupation>Schauspieler und Regisseur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118726684</idno>
                </person>
                <person xml:id="tillich_person_id__4806">
                   <persName>Heinrich VIII.</persName>
-                  <occupation>König von England</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118548204</idno>
                </person>
                <person xml:id="tillich_person_id__4807">
                   <persName>Korda, Alexander</persName>
-                  <occupation>Filmproduzent, Filmregisseur</occupation>
+                  <occupation>Filmproduzent und Filmregisseur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118565400</idno>
                </person>
                <person xml:id="tillich_person_id__4808">
@@ -25302,12 +25275,12 @@
                </person>
                <person xml:id="tillich_person_id__4810">
                   <persName>Rüegg, Walter</persName>
-                  <occupation>Soziologe, Hochschullehrer</occupation>
+                  <occupation>Soziologe und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118603876</idno>
                </person>
                <person xml:id="tillich_person_id__4811">
                   <persName>Pestalozzi, Johann Heinrich</persName>
-                  <occupation>Pädagoge, Sozialreformer, Jurist, Schriftsteller</occupation>
+                  <occupation>Pädagoge, Sozialreformer, Jurist und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118592912</idno>
                </person>
                <person xml:id="tillich_person_id__4812">
@@ -25341,7 +25314,7 @@
                         <placeName>Heidelberg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Philosoph, Slawist</occupation>
+                  <occupation>Philosoph und Slawist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118624334</idno>
                </person>
                <person xml:id="tillich_person_id__4814">
@@ -25364,7 +25337,7 @@
                </person>
                <person xml:id="tillich_person_id__4818">
                   <persName>Steppuhn, Oskar Avgustovič</persName>
-                  <occupation>Physiologe, Biochemiker, Hochschullehrer</occupation>
+                  <occupation>Physiologe, Biochemiker und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1082242551</idno>
                   <note type="bio">
                      <p>Bruder von Fedor Stepun</p>
@@ -25399,7 +25372,7 @@
                         <placeName>South Haven</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politologe, Publizist</occupation>
+                  <occupation>Politologe und Publizist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118699369</idno>
                </person>
                <person xml:id="tillich_person_id__4823">
@@ -25413,7 +25386,7 @@
                </person>
                <person xml:id="tillich_person_id__4826">
                   <persName>Kullmann, Eugen</persName>
-                  <occupation>Philosoph, Theologe</occupation>
+                  <occupation>Philosoph und Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__4827">
                   <persName/>
@@ -25458,7 +25431,7 @@
                </person>
                <person xml:id="tillich_person_id__4868">
                   <persName>Kaiser, Friedrich Fritz</persName>
-                  <occupation>Politiker, Minister für Volksbildung im Freistaat Sachsen</occupation>
+                  <occupation>Deutscher Jurist und Politiker (NLP, DVP)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/133513793</idno>
                </person>
                <person xml:id="tillich_person_id__4901">
@@ -25486,12 +25459,12 @@
                </person>
                <person xml:id="tillich_person_id__4905">
                   <persName>Joël, Hedwig</persName>
-                  <occupation>Musikerin, Schriftstellerin</occupation>
+                  <occupation>Musikerin und Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11714813X</idno>
                </person>
                <person xml:id="tillich_person_id__4906">
                   <persName>Philippson, Paula</persName>
-                  <occupation>Ärztin, Klassische Philologin</occupation>
+                  <occupation>Ärztin und klassische Philologin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116176318</idno>
                </person>
                <person xml:id="tillich_person_id__4907">
@@ -25502,7 +25475,7 @@
                </person>
                <person xml:id="tillich_person_id__4909">
                   <persName>Seydewitz, Max von</persName>
-                  <occupation>Ministerialrats im sächsischen Ministerium für Volksbildung</occupation>
+                  <occupation>Deutscher Politiker (SPD, SAPD, SED)</occupation>
                </person>
                <person xml:id="tillich_person_id__4910">
                   <persName>French American Banking Corporation</persName>
@@ -25530,7 +25503,7 @@
                </person>
                <person xml:id="tillich_person_id__4917">
                   <persName>Simons, Jan Hugo</persName>
-                  <occupation>Sänger, Gesangspädagoge</occupation>
+                  <occupation>Sänger und Gesangspädagoge</occupation>
                </person>
                <person xml:id="tillich_person_id__4918">
                   <persName>Maier, Josef</persName>
@@ -25555,12 +25528,12 @@
                </person>
                <person xml:id="tillich_person_id__4924">
                   <persName>Rabinowitsch-Kempner, Lydia</persName>
-                  <occupation>Ärztin, Bakteriologin</occupation>
+                  <occupation>Ärztin und Bakteriologin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11768418X</idno>
                </person>
                <person xml:id="tillich_person_id__4925">
                   <persName>Kempner, Benedicta Maria</persName>
-                  <occupation>Soziologin, Publizistin, Sozialarbeiterin</occupation>
+                  <occupation>Soziologin, Publizistin und Sozialarbeiterin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1012380904</idno>
                </person>
                <person xml:id="tillich_person_id__4926">
@@ -25579,7 +25552,6 @@
                </person>
                <person xml:id="tillich_person_id__4929">
                   <persName>Bendix, Dorothy</persName>
-                  <occupation>Tochter von Ludwig und Else Bendix</occupation>
                </person>
                <person xml:id="tillich_person_id__4930">
                   <persName>Gollub, Wilhelm</persName>
@@ -25643,7 +25615,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Naturwissenschaftler, Philosoph</occupation>
+                  <occupation>Naturwissenschaftler und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/136820948</idno>
                </person>
                <person xml:id="tillich_person_id__4941">
@@ -25691,7 +25663,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Deutscher Theologe und Politiker.</occupation>
+                  <occupation>Deutscher Theologe und Politiker</occupation>
                </person>
                <person xml:id="tillich_person_id__4950">
                   <persName>König, Eduard</persName>
@@ -25707,7 +25679,7 @@
                         <placeName key="#tillich_place_id__68">Bonn</placeName>
                      </settlement>
                   </death>
-                  <occupation>Deutscher evangelischer Theologe, Bibelwissenschafter, Sprachwissenschafter und Professor in Leipzig, Rostock und Bonn.</occupation>
+                  <occupation>Deutscher evangelischer Theologe, Bibelwissenschafter und Sprachwissenschafter</occupation>
                </person>
                <person xml:id="tillich_person_id__4951">
                   <persName>Kipuis, ???</persName>
@@ -25717,11 +25689,11 @@
                </person>
                <person xml:id="tillich_person_id__4953">
                   <persName>Coliver, Edith</persName>
-                  <occupation>Übersetzerin, Aktivistin</occupation>
+                  <occupation>Übersetzerin und Aktivistin</occupation>
                </person>
                <person xml:id="tillich_person_id__4954">
                   <persName>Barrett, John David</persName>
-                  <occupation>Psychologe, Präsident d. Bollinger Foundation</occupation>
+                  <occupation>Psychologe</occupation>
                </person>
                <person xml:id="tillich_person_id__4955">
                   <persName>Kuhn, Käthe</persName>
@@ -25736,7 +25708,7 @@
                </person>
                <person xml:id="tillich_person_id__4958">
                   <persName>Weigle, Luther Allan</persName>
-                  <occupation>Amerikanischer Theologe, Erzieher</occupation>
+                  <occupation>Amerikanischer Theologe und Erzieher</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1055257322</idno>
                </person>
                <person xml:id="tillich_person_id__4959">
@@ -25759,7 +25731,6 @@
                   <death>
                      <date>1938-08-15</date>
                   </death>
-                  <occupation>Bei Ausbruch des 1. Weltkriegs Kommandeur des Reserve-Infanterie-Regiments Nr. 13 (bis 14. Februar 1915), dann Chef des Generalstabs des IV. Reserve-Korps (bis Juli 1915); danach Chef der Ersatzwesen-Abteilung im Kriegsministerium.</occupation>
                </person>
                <person xml:id="tillich_person_id__4963">
                   <persName/>
@@ -25816,7 +25787,7 @@
                </person>
                <person xml:id="tillich_person_id__5008">
                   <persName>Clay, Lucius Dubignon</persName>
-                  <occupation>General der US Army, Militärgouverneur der amerikanischen Besatzungszone in Deutschland</occupation>
+                  <occupation>General der US Army</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118521136</idno>
                </person>
                <person xml:id="tillich_person_id__5009">
@@ -25849,7 +25820,7 @@
                </person>
                <person xml:id="tillich_person_id__5014">
                   <persName>Richter, Rudolf</persName>
-                  <occupation>Deutscher Paläontologe, Leiter des Senckenberg-Museums</occupation>
+                  <occupation>Deutscher Paläontologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118818066</idno>
                </person>
                <person xml:id="tillich_person_id__5015">
@@ -25876,7 +25847,7 @@
                </person>
                <person xml:id="tillich_person_id__5020">
                   <persName>Taubes, Susan</persName>
-                  <occupation>Religionswissenschaftlerin, Kulturwissenschaftlerin, Schriftstellerin</occupation>
+                  <occupation>Religionswissenschaftlerin, Kulturwissenschaftlerin und Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119477793</idno>
                   <note type="bio">
                      <p>Ehefrau von Jacob Taubes</p>
@@ -25897,7 +25868,7 @@
                </person>
                <person xml:id="tillich_person_id__5025">
                   <persName>Bulgakow, Sergei Nikolajewitsch</persName>
-                  <occupation>Orthodoxer Theologe, Religionsphilosoph, Wirtschaftswissenschaftler</occupation>
+                  <occupation>Orthodoxer Theologe, Religionsphilosoph und Wirtschaftswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118664867</idno>
                </person>
                <person xml:id="tillich_person_id__5026">
@@ -25931,7 +25902,7 @@
                         <placeName>New Rochelle, New York</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe,  Präsident der Vereinigten Lutherischen Kirche Amerikas</occupation>
+                  <occupation>US-amerikanischer lutherischer Theologe und eine Führungsgestalt der Ökumenischen Bewegung</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1098479521</idno>
                </person>
                <person xml:id="tillich_person_id__5028">
@@ -25953,7 +25924,7 @@
                         <placeName>Großjena</placeName>
                      </settlement>
                   </death>
-                  <occupation>deutscher Bildhauer, Maler und Grafiker</occupation>
+                  <occupation>Deutscher Bildhauer, Maler und Grafiker</occupation>
                </person>
                <person xml:id="tillich_person_id__5062">
                   <persName>Herz, Emil</persName>
@@ -25979,7 +25950,7 @@
                </person>
                <person xml:id="tillich_person_id__5066">
                   <persName>Korsch, Hedda</persName>
-                  <occupation>Pädagogin, Hochschullehrerin</occupation>
+                  <occupation>Pädagogin und Hochschullehrerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116341335</idno>
                </person>
                <person xml:id="tillich_person_id__5067">
@@ -25987,17 +25958,17 @@
                </person>
                <person xml:id="tillich_person_id__5068">
                   <persName>Weaver, Richard Malcolm</persName>
-                  <occupation>Historiker, Anglist, Hochschullehrer</occupation>
+                  <occupation>Historiker, Anglist und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119164884</idno>
                </person>
                <person xml:id="tillich_person_id__5069">
                   <persName>Burke, Edmund</persName>
-                  <occupation>Schriftsteller, Philosoph, Politiker</occupation>
+                  <occupation>Schriftsteller, Philosoph und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118517708</idno>
                </person>
                <person xml:id="tillich_person_id__5070">
                   <persName>Péguy, Charles Pierre</persName>
-                  <occupation>französischer Schriftsteller</occupation>
+                  <occupation>Französischer Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118739824</idno>
                </person>
                <person xml:id="tillich_person_id__5071">
@@ -26030,7 +26001,7 @@
                </person>
                <person xml:id="tillich_person_id__5078">
                   <persName>Lazarsfeld, Paul Felix</persName>
-                  <occupation>Soziologe, Mathematiklehrer</occupation>
+                  <occupation>Soziologe und Mathematiklehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118726862</idno>
                </person>
                <person xml:id="tillich_person_id__5079">
@@ -26078,11 +26049,10 @@
                </person>
                <person xml:id="tillich_person_id__5086">
                   <persName>Fuchs, Louise</persName>
-                  <occupation>Hauswirtin Paul Tillichs während seines Studiums in Tübingen.</occupation>
                </person>
                <person xml:id="tillich_person_id__5087">
                   <persName>Freundlich-Stern, Elisabeth</persName>
-                  <occupation>österreichische Schriftstellerin</occupation>
+                  <occupation>Österreichische Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119079518</idno>
                   <note type="bio">
                      <p>2. Ehefrau von Günther Anders (Stern) von 1945–1955</p>
@@ -26116,7 +26086,7 @@
                         <placeName>Zangberg, Bayerin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Malerin, Kunsthistoriherin, Schriftstellerin</occupation>
+                  <occupation>Malerin, Kunsthistoriherin und Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117144975</idno>
                </person>
                <person xml:id="tillich_person_id__5093">
@@ -26133,7 +26103,7 @@
                         <placeName>New York</placeName>
                      </settlement>
                   </death>
-                  <occupation>Mathematiker, Statistiker, Publizist, Pazifist</occupation>
+                  <occupation>Mathematiker, Statistiker, Publizist und Pazifist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118543563</idno>
                </person>
                <person xml:id="tillich_person_id__5094">
@@ -26172,8 +26142,26 @@
                         <placeName>New York</placeName>
                      </settlement>
                   </death>
-                  <occupation>Politiker, Publizist</occupation>
+                  <occupation>Politiker und Publizist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116422483</idno>
+               </person>
+               <person xml:id="tillich_person_id__5129">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5130">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5131">
+                  <persName>C. Cochrane</persName>
+               </person>
+               <person xml:id="tillich_person_id__5132">
+                  <persName>Brunner, Emil</persName>
+               </person>
+               <person xml:id="tillich_person_id__5133">
+                  <persName>Schleiermacher, Friechrich</persName>
+               </person>
+               <person xml:id="tillich_person_id__5134">
+                  <persName>Edman, I</persName>
                </person>
             </listPerson>
          </div>

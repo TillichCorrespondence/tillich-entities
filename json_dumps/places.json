@@ -1490,10 +1490,10 @@
     "name": "Gießen",
     "tillich_id": "tillich_place_id__175",
     "geonames_url": "https://sws.geonames.org/2920512/",
-    "Working Notes": "Working Notes",
+    "Working Notes": "",
     "latitude": "50.58727",
     "longitude": "8.67554",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3874"
   },
   "177": {
     "id": 177,
@@ -6883,17 +6883,6 @@
     "Working Notes": "",
     "latitude": null,
     "longitude": null,
-    "wikidata_url": ""
-  },
-  "762": {
-    "id": 762,
-    "order": "754.00000000000000000000",
-    "name": "Giessen",
-    "tillich_id": "tillich_place_id__762",
-    "geonames_url": "https://sws.geonames.org/2920512/",
-    "Working Notes": "Gießen",
-    "latitude": "50.58727",
-    "longitude": "8.67554",
     "wikidata_url": ""
   },
   "763": {

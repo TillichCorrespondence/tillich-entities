@@ -1056,6 +1056,7 @@
                      <geo>50.58727 8.67554</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2920512/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3874</idno>
                </place>
                <place xml:id="tillich_place_id__177">
                   <placeName>Glarnerland</placeName>
@@ -4631,13 +4632,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2882337/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1019085</idno>
-               </place>
-               <place xml:id="tillich_place_id__762">
-                  <placeName>Giessen</placeName>
-                  <location type="coords">
-                     <geo>50.58727 8.67554</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/2920512/</idno>
                </place>
                <place xml:id="tillich_place_id__763">
                   <placeName>Golf von Mexico</placeName>
