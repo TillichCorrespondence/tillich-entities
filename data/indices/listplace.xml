@@ -6861,6 +6861,22 @@
                   <idno type="geonames">https://sws.geonames.org/3657509/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q43509</idno>
                </place>
+               <place xml:id="tillich_place_id__1576">
+                  <placeName>Radensleben</placeName>
+                  <location type="coords">
+                     <geo>52.88275 12.90979</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2851027/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q94514166</idno>
+               </place>
+               <place xml:id="tillich_place_id__1577">
+                  <placeName>Sonnenburg (Słońsk)</placeName>
+                  <location type="coords">
+                     <geo>52.56470 14.80630</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7531839/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1012582</idno>
+               </place>
             </listPlace>
          </div>
       </body>

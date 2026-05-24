@@ -1454,6 +1454,10 @@
                <person xml:id="tillich_person_id__169">
                   <persName>Becker, Carl Heinrich</persName>
                   <occupation>Deutscher Orientalist und Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118654438</idno>
+                  <note type="bio">
+                     <p>Carl Heinrich Becker (12. April 1876 – 10. Februar 1933) war ein deutscher Orientalwissenschaftler und Hochschulpolitiker. Nach Forschungen zur islamischen Geschichte etablierte er ab 1908 eine moderne, gegenwartsorientierte Orientalistik. Im preußischen Kultusministerium prägte er als Kultusminister (1921, 1925–1930) die Hochschulreformen der Weimarer Republik mit dem Ziel, akademische Hierarchien abzubauen. Er wirkte auch an der Akademisierung der Lehrerausbildung und der Gründung mehrerer Bildungsinstitutionen mit.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__170">
                   <persName>Becker, Heinrich</persName>
@@ -3636,6 +3640,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/140468420</idno>
+                  <note type="bio">
+                     <p>Heinrich Goesch (2. Juli 1880 – 16. Februar 1930) war ein vielseitig begabter Gelehrter mit Schwerpunkten in Jura, Baukunst und kulturellem Denken. Nach zügiger schulischer Ausbildung erlangte er Doktorgrade in beiden Rechtswissenschaft und Geschichtsphilosophie, orientierte sich aber später dem künstlerischen Schaffen zu. Ab 1909 lehrte er Kunstgeschichte in Dresden. Zusammen mit seinem Bruder verfolgte er Forschungen zur Ästhetik und Utopien räumlicher Gestaltung. Eine psychoanalytische Behandlung verstärkte sein theoretisches Engagement mit unbewussten Prozessen. Von 1909 an besuchte er regelmäßig die Künstlersiedlung Ascona und erwarb dort Grundbesitz. Seiner anfänglichen Faszination für anthroposophische Strömungen folgte eine kritische Abkehr. In der Nachkriegszeit befasste er sich mit ökonomischen Systemen und verfasste zu diesem Zweck einen fortlaufenden fiktiven Text. Gegen Ende seines Lebens übernahm er eine Lehrposition im Baubereich und begann eine Liebesbeziehung mit Hannah Tillich, der Ehefrau des Theologen Paul Tillich. Er verstarb 1930 in einer beruflichen Tätigkeit im Filmgeschäft.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__689">
                   <persName>Goeters, Johann Friedrich Gerhard</persName>
@@ -3716,6 +3723,10 @@
                </person>
                <person xml:id="tillich_person_id__705">
                   <persName>Gottschow, Albert</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/127615938</idno>
+                  <note type="bio">
+                     <p>Albert Gottschow (1891–1977) war ein deutscher Pädagoge, Maler und Bildhauer. 1931 veröffentlichte er eine Schrift über künstlerische Unterrichtspraxis an weiblichen höheren Schulen. Er war mit Hannah Tillich, der Ehefrau des Theologen Paul Tillich, verheiratet, mit der er gemeinsam kunstpädagogische Ausbildung verfolgte.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__706">
                   <persName>Grabert, Herbert</persName>
@@ -4231,7 +4242,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                   <note type="bio">
-                     <p>Georg Wilhelm Friedrich Hegel (27. August 1770, Stuttgart – 14. November 1831, Berlin) war ein deutscher idealistischer Philosoph, der nach einem Theologie- und Philosophiestudium in Tübingen gemeinsam mit Hölderlin und Schelling zunächst als Hauslehrer in Bern und Frankfurt arbeitete. 1801 habilitierte er sich in Jena, verfasste dort die „Phänomenologie des Geistes“ (1807), leitete anschließend ein Gymnasium in Nürnberg und wurde 1816 Professor in Heidelberg sowie 1818 Nachfolger Fichtes an der Universität Berlin, wo seine Vorlesungen zu Logik, Rechts-, Geschichts- und Religionsphilosophie großen Einfluss gewannen. Als Hauptvertreter des Deutschen Idealismus prägte Hegel mit seinem dialektischen System das philosophische Denken des 19. Jahrhunderts und starb 1831 während einer Choleraepidemie in Berlin.</p>
+                     <p>Georg Wilhelm Friedrich Hegel (27. August 1770 – 14. November 1831) war ein deutscher idealistischer Philosoph. Nach Theologie- und Philosophiestudium in Tübingen, wo er mit Hölderlin und Schelling zusammentraf, arbeitete er als Privaterzieher in der Schweiz und Frankfurt. 1801 habilitierte er sich in Jena und veröffentlichte dort sein Hauptwerk zur Phänomenologie des Geistes. Danach leitete er ein Gymnasium in Nürnberg, bevor er 1816 an die Universität Heidelberg wechselte und 1818 Fichte an der Berliner Universität nachfolgte. Seine Lehrveranstaltungen zu Logik, Recht, Geschichte und Religion gewannen großen Einfluss. Als Zentfigur des deutschen Idealismus formte sein dialektisches Denksystem die Philosophie des 19. Jahrhunderts nachhaltig. Er starb 1831 während einer Cholerapandemie in Berlin.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__840">
@@ -4267,7 +4278,7 @@
                   <persName>Heimann, Eduard</persName>
                   <occupation>Deutscher Wirtschafts- und Sozialwissenschaftler</occupation>
                   <note type="bio">
-                     <p>Eduard Heimann (11. Juli 1889, Berlin – 31. Mai 1967, Hamburg) war ein deutscher Nationalökonom, der nach Studien in Berlin, Wien und Heidelberg Sekretär der Sozialisierungskommissionen von 1919 und 1921 wurde und ab 1925 in Hamburg lehrte, nach seiner Emigration 1933 jedoch bis 1963 an der New School for Social Research in New York wirkte. Mit seiner „klassischen Theorie moderner Sozialpolitik“ analysierte er, wie Arbeiterschutz, Sozialversicherung und Tarifvertragssystem Einkommen zugunsten der Arbeiter umverteilen, Innovation fördern und zugleich die kapitalistische Herrschaft begrenzt, aber stabilisiert wird. Heimann verstand Sozialpolitik nicht als Wohlfahrtspflege, sondern als „freiheitliche und würdige Gestaltung des Arbeitslebens“ mit konservativ-revolutionärer Doppelwirkung und entwickelte das Konzept einer freiheitlichen Sozialisierung als Alternative zum sowjetischen Modell. Religionssoziologisch sah er Religion als integrierende, den „Vernunftglauben“ als desintegrierende Kraft einer Gesellschaft, die noch von vormodernen religiösen Reserven lebt.</p>
+                     <p>Eduard Heimann (11. Juli 1889 – 31. Mai 1967) war ein deutscher Wirtschaftswissenschaftler und Gesellschaftstheoretiker. Nach Studien an mehreren europäischen Universitäten wurde er Anfang der 1920er Jahre in Kommissionen zu Verstaatlichungsfragen tätig. Ab 1925 lehrte er in Hamburg, verließ Deutschland jedoch 1933 und wirkte danach bis 1963 an einer New Yorker Hochschule. Sein theoretisches Werk konzentrierte sich auf die Analyse von Arbeitnehmerschutz, Versicherungssystemen und Tarifverträgen als Mechanismen zur Einkommensumverteilung und Innovation, die zugleich kapitalistische Strukturen stabilisieren, ohne sie zu zerstören. Er deutete Sozialpolitik nicht als Armenfürsorge, sondern als freiheitliche Gestaltung der Arbeitswelt mit paradoxer Doppelfunktion. Heimann entwickelte zudem ein Konzept der freiheitlichen Vergesellschaftung als Gegenmodell zu sowjetischen Systemen. Religionssoziologisch interpretierte er Glaubenssysteme als gesellschaftlich integrierende Kraft und rationalistisches Denken als desintegrierend.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__847">
@@ -4950,6 +4961,7 @@
                      </settlement>
                   </death>
                   <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118559125</idno>
                   <note type="bio">
                      <p>Karl Martin August Kähler (6. Januar 1835 – 7. September 1912) war ein deutscher protestantischer Theologe und Professor in Halle. Er gilt als einer der prägenden Vertreter einer vom Glauben durchdrungenen Theologie, die wissenschaftliche Arbeit und persönliche Frömmigkeit zu verbinden suchte. In seiner Schrift Der sogenannte historische Jesus und der geschichtliche, biblische Christus (1892) wandte er sich gegen die Leben-Jesu-Forschung und betonte den geglaubten Christus der Schrift gegenüber dem historisch rekonstruierten Jesus. Mit Werken wie Die Lehre von der Versöhnung und Die Wissenschaft der christlichen Lehre prägte er eine Generation von Theologen, die über ihn indirekt auch die Bekennende Kirche beeinflusste.</p>
                   </note>
@@ -4981,8 +4993,9 @@
                </person>
                <person xml:id="tillich_person_id__1020">
                   <persName>Kant, Immanuel</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118559796</idno>
                   <note type="bio">
-                     <p>Kant, Immanuel (22.4.1724 Königsberg – 12.2.1804 ebd.) war der bedeutendste Philosoph der Aufklärung und Begründer der kritischen Philosophie. Aus einfachen Verhältnissen stammend und pietistisch erzogen, studierte er in Königsberg und wirkte dort seit 1770 als Professor. Unter dem Eindruck von Rousseau und Hume entwickelte er seine drei »Kritiken«: die »Kritik der reinen Vernunft« (1781) als Grundlegung des transzendentalen Idealismus, die »Kritik der praktischen Vernunft« (1788) mit der Morallehre des kategorischen Imperativs und die »Kritik der Urteilskraft« (1790) mit der Theorie von Ästhetik und Teleologie. Mit diesen Werken schuf er eine Philosophie, die Erkenntnis, Moral und Naturzweckmäßigkeit in der Vernunft begründet, und prägte damit nachhaltig den Deutschen Idealismus und das moderne Denken.</p>
+                     <p>Immanuel Kant (22. April 1724 – 12. Februar 1804) war der einflussreichste Denker des Zeitalters der Aufklärung und Gründungsfigur einer kritischen Denkweise. Aus bescheidenen Familienverhältnissen kommend und in pietistischer Tradition aufgewachsen, absolvierte er sein Studium in seiner Heimatstadt und baute dort ab 1770 eine akademische Karriere auf. Die intensive Auseinandersetzung mit Rousseau und Hume führte zur Entfaltung seiner drei Hauptwerke: das erste behandelt die Grundlagen der Erkenntnis und des transzendentalen Idealismus, das zweite formuliert eine Ethik basierend auf universalen Handlungsprinzipien, das dritte untersucht ästhetische Erfahrung und natürliche Zweckmäßigkeit. Durch diese Werke etablierte er ein philosophisches System, das Wissen, ethische Verpflichtung und organische Natur alle in der menschlichen Vernunft verankert, und wirkte damit prägend auf die nachfolgende idealistische Tradition und das zeitgenössische Denken.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1021">
@@ -5111,6 +5124,9 @@
                </person>
                <person xml:id="tillich_person_id__1050">
                   <persName>Kilger, Albert</persName>
+                  <note type="bio">
+                     <p>Albert Kilger (1887–1953) war Student der evangelischen Theologie an der Universität Tübingen. Laut Studierendenakte der Universität war er im Sommersemester 1907 inskribiert. Bereits am 16. August 1907 wurde jedoch vermerkt, dass er von der Universität abgegangen sei. Mehr biographische Informationen sind derzeit nicht auffindbar.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1051">
                   <persName>Kimball, Robert</persName>
@@ -5162,6 +5178,9 @@
                </person>
                <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
+                  <note type="bio">
+                     <p>Elisabeth Klein (Lebensdaten unbekannt) war die Mutter von Maria Klein, später Maria Rhine. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1064">
                   <persName>Klein, Jakob</persName>
@@ -5752,6 +5771,10 @@
                <person xml:id="tillich_person_id__1201">
                   <persName>Loofs, Friedrich</persName>
                   <occupation>Kirchenhistoriker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117213381</idno>
+                  <note type="bio">
+                     <p>Friedrich Armin Loofs (19. Juni 1858 – 13. Januar 1928) war ein bedeutender evangelischer Gelehrter im Bereich der Kirchengeschichte. Geprägt durch seine Studienzeit bei einflussreichen protestantischen Denkern, begann er seine akademische Tätigkeit in Leipzig, wo er zunächst als Dozent tätig war, bevor er 1886 eine außerordentliche Professur erhielt. Ein Jahr später versetzte es ihn an die Universität Halle, wo er kurz darauf ordentlichen Lehrstuhlinhaber wurde und 1907/08 das Rektorat bekleidete. Sein bleibender Ruf gründet sich auf ein dogmengeschichtliches Handbuch, das ab 1889 in sieben überarbeiteten Auflagen bis 1968 Verbreitung fand und zu den maßgeblichen Werken seiner Disziplin zählt. Sein Forschungsgebiet konzentrierte sich auf die frühen Kirchenväter sowie auf Studien zur Reformationsepoche. Überdies initiierte er eine einflussreiche protestantische Zeitschrift mit und nahm in theologischen Debatten seines Zeitalters energisch Stellung.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1202">
                   <persName>Lord Lothian</persName>
@@ -5799,7 +5822,7 @@
                   <occupation>deutscher Soziologe und Nationalökonom</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119383292</idno>
                   <note type="bio">
-                     <p>Lowe, Adolph (4.3.1893 Stuttgart – 3.6.1995 Wolfenbüttel; geb. Adolf Löwe) war Nationalökonom, Soziologe und Wirtschaftsphilosoph. Nach Studien in München und Berlin bei Franz Oppenheimer trat er 1922 ins Reichswirtschaftsministerium ein und habilitierte sich 1926 mit Arbeiten zur Konjunkturtheorie, beteiligt am Aufbau des Deutschen Instituts für Wirtschaftsforschung. 1926–1931 leitete er die Konjunkturabteilung des Kieler Weltwirtschaftsinstituts und wirkte als Vertreter der „Kieler Schule“. Ab 1931 Professor in Frankfurt und Mitarbeiter des Instituts für Sozialforschung, emigrierte er 1933 nach England, lehrte in Manchester und ab 1940 in New York an der New School for Social Research, wo er bis 1963 eine verhaltenswissenschaftliche Wirtschaftstheorie entwickelte. 1983 kehrte er nach Deutschland zurück. Zu seinen Schülern zählen Marion Gräfin Dönhoff, Karl Schiller und Franco Modigliani.</p>
+                     <p>Adolph Lowe (4. März 1893 – 3. Juni 1995) war ein deutscher Wirtschaftswissenschaftler, Sozialtheoretiker und Philosophiefachmann. Nach akademischer Ausbildung unter führenden Ökonomen begann er 1922 eine Karriere in der staatlichen Wirtschaftsverwaltung. 1926 erwarb er seine Lehrbefähigung durch Forschungen zu Konjunkturbewegungen und trug zur Gründung eines bedeutenden Wirtschaftsforschungsinstituts bei. Zwischen 1926 und 1931 leitete er eine Forschungsabteilung am Kieler Institut und war Vertreter einer angesehenen ökonomischen Schule. Ab 1931 hatte er eine Professur in Frankfurt inne und arbeitete in einem Forschungsinstitut mit soziologischem Schwerpunkt. 1933 emigrierte er nach England und lehrte später ab 1940 an einer New Yorker Universität, wo er bis 1963 die Verbindung von Verhaltenswissenschaften und Wirtschaftslehre erforschte. 1983 kehrte er nach Deutschland zurück.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1210">
@@ -6184,8 +6207,9 @@
                   <death>
                      <date>1978-08-29</date>
                   </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1240166931</idno>
                   <note type="bio">
-                     <p>Heinrich Meinhof war der Leibfux von Paul Tillich und der Onkel von Ulrike Meinhof.</p>
+                     <p>Heinrich Meinhof (1888–1978) war ein deutscher Mediziner mit Wirkungsstätte in Halle. Er war der Leibfux des Theologen Paul Tillich und teilte mit ihm Erfahrungen aus studentischen Verbindungen. Als Onkel der Publizistin Ulrike Meinhof war er auch in familiäre Beziehungen zu späteren kulturellen Persönlichkeiten verwoben.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1296">
@@ -6246,7 +6270,7 @@
                   <occupation>Deutscher Sozialpädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119264250</idno>
                   <note type="bio">
-                     <p>(auch als Carolus erwähnt)Studium der Theologie in Bonn, Halle, Berlin und Utrecht. Nach dem Ersten Weltkrieg, den er teils als Soldat, teils als Hilfsprediger erlebt hatte, Nähe zum Religiösen Sozialismus, daneben Mitgliedschaft in der USPD und dann der SPD. M. gehörte zum Kern des ‚Kairos-Kreises‘ um Tillich. Seit 1923 arbeitete er an der Deutschen Hochschule für Politik, setzte sich u. a. in der von ihm gegründeten Wohlfahrtsschule für die Ausbildung junger Menschen aus sozial schwachen Familien ein und wurde zu einem wichtigen frühen Theoretiker der Sozialpädagogik. 1927 Austritt aus der evangelischen Kirche und zunehmende Distanzierung vom Religiösen Sozialismus. 1930 wurde M. Ordinarius an der Frankfurter Universität (Berufspädagogisches Institut und Pädagogisches Seminar). 1933 Emigration in die Niederlande, 1935 wurde er Leiter der ‚Internationale School voor Wijsbegeerte‘ in Amersfoort. 1941 kam M. in Haft, zeitweise im KZ Sachsenhausen. 1943 wurde er entlassen, blieb jedoch unter polizeilicher Aufsicht und musste als Metallarbeiter arbeiten. Nach Kriegsende zunächst Rückkehr nach Amersfoort, danach Honorarprofessur in Frankfurt. Er war in erster Ehe mit Trude  Mennicke verheiratet, die beiden hatten einen Sohn (Wolfgang, genannt Wölle). In zweiter Ehe war er mit Leni, geb. Helene Grassmann, verheiratet, die ebenfalls ein Kind aus erster Ehe hatte (Ruth, 1921-1999). Gemeinsam hatten sie eine Tochter (Carola bzw. Karola, 1934-2002).</p>
+                     <p>August Carl Mennicke (5. September 1887 – 15. November 1959) war ein bedeutender deutscher Sozialpädagoge und Vertreter des religiösen Sozialismus. Nach seinem theologischen Studium wirkte er ab 1917 als Geistlicher im Ruhrgebiet, wo er die Arbeiterbedingungen unmittelbar kennenlerte. Er gehörte dem Kreis um Paul Tillich an und publizierte in einschlägigen Zeitschriften. 1923 etablierte er an der Berliner Hochschule für Politik eine Ausbildungsstätte für männliche Fachkräfte in der Wohlfahrtspflege – eine Neuerung in diesem bis dahin weiblich dominierten Feld. 1930 übernahm er die Leitung des Frankfurter Instituts für Berufspädagogik und lehrte gleichzeitig an der dortigen Universität. Aufgrund seiner Nähe zum Tillich-Kreis wurde er 1933 aus dem Dienst entlassen; sein Buch wurde verbrannt. Er flüchtete 1934 in die Niederlande und dirigierte dort ein philosophisches Schulungszentrum. Nach Verhaftung und Gefängnisaufenthalt während des Krieges arbeitete er als Fabrikarbeiter. Ab 1945 kehrte er nach Frankfurt zurück und lehrte dort bis 1952. Kurz vor seinem Tod erhielt er Auszeichnungen der Bundesrepublik.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1308">
@@ -6584,7 +6608,7 @@
                   <persName>Nietzsche, Friedrich</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118587943</idno>
                   <note type="bio">
-                     <p>Nietzsche, Friedrich (15.10.1844 Röcken bei Leipzig – 25.8.1900 Weimar) war ein deutscher Philosoph und Schriftsteller. Er studierte klassische Philologie, erhielt 1869 eine Professur in Basel und veröffentlichte 1872 Die Geburt der Tragödie. Nach seinem Bruch mit Richard Wagner und dem Rückzug aus der Universität lebte er als freier Autor, geprägt von Krankheit und Vereinsamung. In Schriften wie Menschliches, Allzumenschliches, Also sprach Zarathustra, Jenseits von Gut und Böse und Zur Genealogie der Moral entfaltete er seine Kritik an Metaphysik und Christentum, entwickelte die Gedanken von Wille zur Macht, ewiger Wiederkunft und Übermensch. 1889 verfiel er in geistige Umnachtung und verbrachte die letzten Jahre bis zu seinem Tod in Weimar.</p>
+                     <p>Friedrich Nietzsche (15. Oktober 1844 – 25. August 1900) war ein deutscher Philosoph und Autor. Nach altphilologischem Studium wirkte er ab 1869 als Professor in Basel. Sein Frühwerk zur Tragödie führte zum Bruch mit dem Komponisten Wagner und zum Austritt aus dem akademischen Lehramt. Als unabhängiger Schriftsteller – geprägt von chronischen Leiden – verfasste er mehrere Hauptwerke, in denen er metaphysische und christliche Traditionen attackierte und Konzepte wie Machtwirksamkeit, zyklische Zeit und eine posthumane Existenzform entwickelte. 1889 erlitt er einen psychischen Kollaps und verbrachte seine letzten Jahre in Weimar.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1395">
@@ -7929,7 +7953,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                   <note type="bio">
-                     <p>Schelling, Friedrich Wilhelm Joseph (27.1.1775 Leonberg – 20.8.1854 Bad Ragaz) war ein deutscher Philosoph und Hauptvertreter des Deutschen Idealismus. Nach Studien in Tübingen wurde er 1798 Professor in Jena, später in Würzburg, München, Erlangen und Berlin. Er entwickelte verschiedene Systementwürfe, die von der Transzendentalphilosophie über Natur- und Identitätsphilosophie bis zur Freiheits- und Spätphilosophie reichen. In seiner „Freiheitsschrift“ von 1809 deutete er den Menschen als frei, zum Guten wie zum Bösen fähig, und verstand den Willen als Ursein. Später unterschied er eine „negative“ Philosophie der Begriffe von einer „positiven“ Philosophie der Mythologie und Offenbarung. Schellings Denken beeinflusste Schopenhauer, Kierkegaard, Jaspers, Heidegger und Tillich.</p>
+                     <p>Friedrich Wilhelm Joseph Schelling (27. Januar 1775 – 20. August 1854) war ein deutscher Denker und zentrale Figur des deutschen Idealismus. Nach seinem Studium wirkte er als Dozent an mehreren bedeutenden Universitäten – Jena, Würzburg, München, Erlangen und Berlin. Sein Werk umfasste verschiedene philosophische Entwicklungsphasen, angefangen bei transzendentalphilosophischen Überlegungen bis hin zu Naturphilosophie und später zu metaphysischen Systemen. In seiner Schrift zur Freiheit (1809) deutete er die menschliche Existenz als fähig zur moralischen Wahl und bestimmte den Willen als Grundprinzip. Seinen späteren Arbeiten unterschied er zwischen einer begrifflichen und einer offenbarungsorientierten Philosophie. Sein Denken wirkte nachhaltig auf Schopenhauer, Kierkegaard, Jaspers, Heidegger und den Theologen Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1706">
@@ -7968,6 +7992,9 @@
                   </death>
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
+                  <note type="bio">
+                     <p>Adolf Schlatter (16. August 1852 – 19. Mai 1938) war ein Theologe aus der Schweiz mit evangelischem Profil. Er hatte Lehrstühle an mehreren deutschsprachigen Universitäten inne – in Bern, Greifswald, Berlin und schließlich Tübingen – wo er sich dem Neuen Testament und systematischen Fragen widmete. Ein äußerst produktiver Denker verfasste er weit über dreihundert Schriften, die sich sowohl an akademische Kreise als auch an kirchliche Laien richteten. Seine intellektuelle Arbeit zielte darauf ab, eine auf Beobachtung gegründete Theologie zu entwickeln sowie die neutestamentlichen Texte durch ein beobachtendes Verfahren erschließbar zu machen. In der Fachlichkeit wird er als eigenwilliger Denker charakterisiert, der sich den dominanten theologischen Strömungen seiner Epoche entzog. Obwohl er keine eigene Schule stiftete, wirken seine Arbeiten bis in die Gegenwart nach.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1713">
                   <persName>Schlegel, Erich</persName>
@@ -8009,7 +8036,7 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118608851</idno>
                   <note type="bio">
-                     <p>Seit 1909 Studium zunächst der klassischen Philologie, ab 1910 der evangelischen Theologie in Marburg und Berlin, 1913 wurde er bei Adolf Deißmann promoviert (lic. theol.), dessen Assistent er im Anschluss wurde. Nach einer schweren Verwundung im Ersten Weltkrieg (1915) absolvierte er sein Stadtvikariat in Berlin (1917/18) und habilitierte sich 1918 mit einer Arbeit, in der er die formgeschichtliche Methode mitbegründete. Im selben Jahr heiratete er Ursula von Wegnern (1893-1987 oder 1892-1985), mit der er drei Söhne und zwei Töchter hatte. 1921 wurde Sch. Professor an der Universität Gießen, 1925 wechselte er nach Jena, 1929 nach Bonn. 1918-1920 war er Mitglied der DDP, 1924 trat er der SPD bei. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er 1935/36 eine Professur in Basel erhielt. 1953 wurde er krankheitsbedingt vorzeitig emeritiert. Gründer und Herausgeber sowohl der Theologischen Blätter (1922-1937) als auch der Theologischen Zeitschrift (1945-1952).</p>
+                     <p>Karl Ludwig Schmidt (5. Februar 1891 – 10. Januar 1956) war ein deutscher evangelischer Theologe und Neutestamentler. Nach Studium und Promotion lehrte er ab 1918 in Berlin, später in Gießen, Jena und Bonn. Unter Tillichs Einfluss näherte er sich dem religiösen Sozialismus an. 1933 wurde er entlassen und emigrierte in die Schweiz, wo er ab 1935 an der Universität Basel wirkte. Wissenschaftlich begründete er die formgeschichtliche Methode zur Auslegung neutestamentlicher Texte. Ein Schlaganfall führte 1953 zu seiner Emeritierung.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1724">
@@ -8189,6 +8216,10 @@
                <person xml:id="tillich_person_id__1761">
                   <persName>Seeberg, Reinhold</persName>
                   <occupation>Systematischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118760416</idno>
+                  <note type="bio">
+                     <p>Reinhold Seeberg (5. April 1859 – 23. Oktober 1935) war ein deutscher evangelischer Theologe. Nach Studien in der Baltischen Region und Deutschland lehrte er ab 1884 in Dorpat, ab 1889 in Erlangen und ab 1898 in Berlin, wo er bis 1927 wirkte und Doktorvater Dietrich Bonhoeffers war. 1918/19 war er Rektor der Berliner Universität. Er prägte die Kirchenwohlfahrt und verfasste eine einflussreiche Dogmengeschichte. In seinen späteren Jahren vertraten er antiliberale und antisemitische Positionen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1762">
                   <persName>Seeberger, Elisabeth</persName>
@@ -9736,12 +9767,15 @@
                <person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
                   <birth>
-                     <date>1828</date>
+                     <date>1828-03</date>
                   </birth>
                   <death>
                      <date>1914</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
+                  <note type="bio">
+                     <p>Oskar Tillich (1828–1914) war ein deutscher Silberfabrikant aus Berlin. Er ist vor allem als Großvater des weltberühmten deutsch-amerikanischen Religionsphilosophen und Theologen Paul Tillich (1886–1965) bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1927">
                   <persName>Tillich, René Johannes Stefan</persName>
@@ -10083,7 +10117,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118624024</idno>
                   <note type="bio">
-                     <p>Troeltsch, Ernst Peter Wilhelm (17.2.1865 Haunstetten – 1.2.1923 Berlin) war ein deutscher Theologe, Religionshistoriker und Kulturphilosoph. Nach Studien in mehreren deutschen Universitäten wurde er 1894 Professor für Systematische Theologie in Heidelberg und 1915 Professor für Philosophie in Berlin. Er verstand das Christentum als eine Religion unter anderen und forderte, es mit historischen und vergleichenden Methoden zu untersuchen. Damit verband er Theologie mit Soziologie und Philosophie und reagierte auf die Herausforderungen der Moderne. In Berlin trat er auch politisch hervor, engagierte sich für die junge Demokratie und sprach über die Neuordnung Europas nach dem Ersten Weltkrieg. Sein Werk umfasst über 20 Bände und machte ihn zu einem der bedeutendsten Religions- und Kulturtheoretiker seiner Zeit.</p>
+                     <p>Ernst Peter Wilhelm Troeltsch (17. Februar 1865 – 1. Februar 1923) war ein deutscher Gelehrter mit Schwerpunkten in Theologie, Religionsgeschichte und Kulturtheorie. Nach akademischer Ausbildung an mehreren deutschen Hochschulen erhielt er ab 1894 Lehrstühle zuerst in Heidelberg und dann in Berlin. Seine Forschungen behandelten das Christentum als historisches Phänomen unter anderen Glaubensgemeinschaften und forderten eine vergleichende wissenschaftliche Annäherung daran. Er verband religiöse Untersuchungen mit soziologischem und philosophischem Denken, um auf die Fragen der modernen Gegenwart zu antworten. In Berlin trat er auch als Redner auf zu Fragen der europäischen Neugründung nach 1918 und unterstützte das demokratische System. Sein umfangreiches Werk prägte die Religionswissenschaft und Kulturphilosophie seiner Epoche.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1955">
@@ -11111,6 +11145,9 @@
                </person>
                <person xml:id="tillich_person_id__2039">
                   <persName>Werner, Louise</persName>
+                  <note type="bio">
+                     <p>Louise Werner (Lebensdaten unbekannt) war die Mutter von Hannah Tillich. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2040">
                   <persName>Werner, Jean Otto Nikolaus</persName>
@@ -11122,7 +11159,7 @@
                   <persName>Werner, Marie Luise</persName>
                   <occupation>Psychoanalytikerin</occupation>
                   <note type="bio">
-                     <p>Sie war eine jüngere Schwester von Paul Tillichs Frau Hannah. Nach einer Lehrerinnenausbildung arbeitete sie zunächst ab 1918 an diversen Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und Seminare und begann eine Ausbildung am Berliner Psychoanalytischen Institut. Zeitweise ging sie eine Beziehung mit Tillichs engem Freund, dem Kunsthistoriker Eckart von  Sydow, ein. 1928-1931 Lehranalyse bei Karen Horney. Seit 1936 Mitglied der Deutschen Psychoanalytischen Gesellschaft, spätestens seit Anfang der 1940er gehörte sie zum Kreis um Carl Müller-Braunschweig. Nach dem Krieg legte sie ihren Arbeitsschwerpunkt auf die Kinderpsychologie und Kindertherapie.</p>
+                     <p>Marie Louise Werner (1894–1978) war eine deutsche Psychoanalytikerin und Lehrerin. Nach ihrer Ausbildung unterrichtete sie ab 1918 an Berliner Schulen. In den 1920er Jahren besuchte sie gestaltpsychologische Vorlesungen und begann eine Ausbildung am Berliner Psychoanalytischen Institut mit Lehranalysen bei Karen Horney (1928–1931) und Carl Müller-Braunschweig (1940–1942). 1936 wurde sie Mitglied der Deutschen Psychoanalytischen Gesellschaft. Nach dem Krieg arbeitete sie als Psychotherapeutin und zählte zu den ersten Lehr- und Kontrollanalytiker:innen der 1950 gegründeten Deutschen Psychoanalytischen Vereinigung. Sie war die Schwester von Paul Tillichs Ehefrau Hannah. Ihre Schwerpunkte waren Kinderpsychologie und die Beziehung zwischen Psychoanalyse und bildender Kunst.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2042">
@@ -13053,8 +13090,9 @@
                      </settlement>
                   </death>
                   <occupation>Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1213263964</idno>
                   <note type="bio">
-                     <p>Onkel Paul Tillichs mütterlicherseits.</p>
+                     <p>Paul Rudolf Dürselen (8. Dezember 1862 – 22. Dezember 1933) war ein deutscher Pfarrer und Onkel des Theologen Paul Tillich mütterlicherseits. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2225">
@@ -14255,7 +14293,7 @@
                   <persName>Herrmann, Christian</persName>
                   <occupation>Philosoph und Pädagoge</occupation>
                   <note type="bio">
-                     <p>Er war ein religiös-sozialistischer Philosoph und ein enger Freund von Paul Tillich. 1919 hat er bei Benno Erdmann und Ernst Troeltsch mit einer Hegel-Arbeit promoviert. Außerdem war er Herausgeber von Werken Schellings, schrieb für die "Sozialistischen die Monatshefte" und reiste mit Paul Tillich sowie Eckart von Sydow 1926 durch Frankreich, wo Tillich "Das Dämonische" verfasst hat.</p>
+                     <p>Christian Herrmann (1890–1953) war ein deutscher Philosoph und Pädagoge mit religiös-sozialistischer Ausrichtung. Er gehörte zum engen Bekanntenkreis des Theologen Paul Tillich. 1919 erwarb er seinen Doktortitel durch eine Abhandlung zu Hegel bei zwei namhaften Gelehrten. Herrmann wirkte als Herausgeber von Werken eines bedeutenden Idealisten und veröffentlichte in sozialistischen Periodika. 1926 unternahm er eine Reise durch Frankreich mit Tillich und einem Kunsthistoriker, während welcher Tillich eine philosophische Schrift zum Dämonischen erarbeitete.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2357">
@@ -16352,7 +16390,7 @@
                   <persName>Fricke, Uli</persName>
                   <occupation>Künstler</occupation>
                   <note type="bio">
-                     <p>Uli Fricke war seit etwa 1918 ein Freund von Hannah Tillich, der in ihrer Autobiographie "From Time to Time" mehrfach erwähnt wird und in den 1920ern auch mit Paul Tillich eng befreundet war. Er hat am 3. November 1930 in Venedig Selbstmord begangen.</p>
+                     <p>Uli Fricke (gest. 3. November 1930) war Künstler und ein enger Vertrauter von Hannah Tillich. Ab etwa 1918 pflegten die beiden eine Freundschaft. In den 1920er Jahren stand er auch dem Theologen Paul Tillich nahe. Hannah Tillich würdigte Uli Fricke später mehrfach in ihren autobiographischen Aufzeichnungen. Er starb 1930 durch Suizid in Venedig.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2561">
@@ -26162,6 +26200,25 @@
                </person>
                <person xml:id="tillich_person_id__5134">
                   <persName>Edman, I</persName>
+               </person>
+               <person xml:id="tillich_person_id__5135">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5136">
+                  <persName>Stupperich, Robert</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118757571</idno>
+               </person>
+               <person xml:id="tillich_person_id__5137">
+                  <persName>Rengtsdorf, Karl Heinrich</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118599704</idno>
+               </person>
+               <person xml:id="tillich_person_id__5138">
+                  <persName>Konrad, J.</persName>
+               </person>
+               <person xml:id="tillich_person_id__5139">
+                  <persName>Otto, "Flock"</persName>
                </person>
             </listPerson>
          </div>
