@@ -2627,6 +2627,10 @@
                </person>
                <person xml:id="tillich_person_id__445">
                   <persName>Deißmann, Adolf</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116056045</idno>
+                  <note type="bio">
+                     <p>Gustav Adolf Deißmann (7. November 1866 – 5. April 1937) war ein deutscher evangelischer Theologe und Papyrologe. Nach Studien an mehreren theologischen Institutionen wirkte er ab 1897 als Professor für Neutestamentliche Exegese in Heidelberg und ab 1908 in Berlin, wo er bis zur Emeritierung 1935 tätig war. Mit seinem Werk zu den Papyrusfunden widmete er sich der Hellenisierung des frühen Christentums. Kirchenpolitisch engagierte er sich in der entstehenden ökumenischen Bewegung und trug zur Stockholmer Weltkirchenkonferenz 1925 bei. 1930/31 amtierte er als Rektor der Berliner Universität. Er förderte die ökumenischen Bestrebungen von Bonhoeffer und organisierte deutsch-britische theologische Begegnungen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__446">
                   <persName>Delbrück, Hans</persName>
@@ -4073,6 +4077,9 @@
                      </settlement>
                   </birth>
                   <occupation>Evangelischer Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Erich Harder (1872–1962) war ein deutscher evangelischer Pfarrer, geboren in Berlin. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__801">
                   <persName>Hardt, Ludwig</persName>
@@ -4270,6 +4277,7 @@
                <person xml:id="tillich_person_id__845">
                   <persName>Heim, Karl</persName>
                   <occupation>Deutscher evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118547909</idno>
                   <note type="bio">
                      <p>Karl Heim (20. Januar 1874 – 30. August 1958) war ein deutscher evangelischer Theologe, der als Professor für Systematische Theologie in Halle, Münster und Tübingen wirkte. Aus dem schwäbischen Pietismus stammend, suchte er eine zeitgemäße Vermittlung von christlichem Glauben und modernem Weltbild. In Auseinandersetzung mit Erkenntnistheorie, Existenzphilosophie und Naturwissenschaft entwickelte Heim eine Theologie der „verschiedenen Dimensionen der Wirklichkeit“, die den Glauben intellektuell verantworten wollte. Mit Werken wie Glaubensgewißheit (1916) und Der evangelische Glaube und das Denken der Gegenwart (1931) wurde er zu einem der einflussreichsten Apologeten des Protestantismus im 20. Jahrhundert.</p>
                   </note>
@@ -5172,9 +5180,16 @@
                      </settlement>
                   </birth>
                   <occupation>Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127574506</idno>
+                  <note type="bio">
+                     <p>Ernst Ferdinand Klein (1863–1943) war ein deutscher evangelischer Pfarrer, geboren in Wohlau in Schlesien. Von 1888 bis 1893 wirkte er als Pfarrer in Reinerz, anschließend von 1893 bis zu seiner Pensionierung 1929 in der evangelischen Kirchengemeinde Berlin-Lichtenrade. Er war mit Elisabeth, geborene Kögel, verheiratet.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1062">
                   <persName>Klein, Lisa</persName>
+                  <note type="bio">
+                     <p>Elisabeth Klein (Lebensdaten unbekannt) war die Ehefrau von Ernst Ferdinand Klein, einem evangelischen Pfarrer, der von 1893 bis 1929 in Berlin-Lichtenrade wirkte. Sie war eine geborene Kögel und trug den Spitznamen Lisa.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1063">
                   <persName>Klein, Elisabeth</persName>
@@ -5329,6 +5344,7 @@
                <person xml:id="tillich_person_id__1099">
                   <persName>Kroner, Richard</persName>
                   <occupation>Deutscher Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11890003X</idno>
                   <note type="bio">
                      <p>Richard Kroner (8. März 1884 – 2. November 1974) war ein in Breslau geborener deutscher Philosoph und Theologe, der der südwestdeutschen Schule des Neukantianismus nahestand. Mit seinem zweibändigen Hauptwerk Von Kant bis Hegel leistete er einen wesentlichen Beitrag zur Wiederentdeckung und Neubewertung des Deutschen Idealismus im 20. Jahrhundert. Nach der Emigration in die Vereinigten Staaten wirkte er als Vermittler zwischen kontinentaler und angelsächsischer Philosophie und zählt zu den bedeutenden Vertretern des Neuhegelianismus.</p>
                   </note>
@@ -5807,8 +5823,9 @@
                      </settlement>
                   </death>
                   <occupation>Pädagoge und Politiker (CDU)</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1124560319</idno>
                   <note type="bio">
-                     <p>Er gehörte zu den sieben nach dem Wartburgfest 1907 Ende Mai/ Anfang Juni 1907 aus Protest gegen die Verbindung ausgetretenen Mitgliedern des Erlanger Wingolfs.</p>
+                     <p>Ernst Albert Lotz (27. Januar 1887 – 24. September 1948) war ein deutscher Pädagoge und Politiker der CDU. Nach Promotion und Staatsexamen wirkte er ab 1924 als Oberstudiendirektor in mehreren Orten, bis er 1933 aus dem Schuldienst entlassen wurde. Anschließend arbeitete er in Bingen am Rhein im Sozialamt und Luftschutz. Nach 1945 übernahm er die Leitung des Stefan-George-Gymnasiums in Bingen. Politisch engagierte er sich in der CDP, dem Vorläufer der CDU Rheinland-Pfalz, und war 1946/47 Mitglied der Beratenden Landesversammlung des Landes, deren Präsident er kurzzeitig war. Vom 2. Dezember 1946 bis 13. Juni 1947 amtierte er als Minister für Unterricht und Kultus. Er gehörte zu den sieben Mitgliedern, die 1907 nach dem Wartburgfest aus Protest aus dem Erlanger Wingolf austraten.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1206">
@@ -5834,12 +5851,15 @@
                <person xml:id="tillich_person_id__1211">
                   <persName>Löwenfeld, Claire</persName>
                   <occupation>Diätetikerin</occupation>
+                  <note type="bio">
+                     <p>Claire Loewenfeld (27. September 1899 – 20. August 1974) war eine deutsche Ernährungswissenschaftlerin und Kräuterkundige. Nach ihrer Ausbildung an einer bekannten Schweizer Klinik arbeitete sie in London als Diätologin in einem Kinderkrankenhaus, wo sie sich auf die Ernährungsbehandlung einer Verdauungserkrankung spezialisierte. Während des Zweiten Weltkriegs initiierte sie eine Kampagne zur Nutzung von Wildfrüchten als Vitaminquelle und verfasste verbreitete Informationsschriften dazu. Nach dem Krieg gründete sie mit ihrem Ehemann ein Unternehmen für hochwertige getrocknete Kräuter. Sie verfasste mehrere Bücher zu Ernährung und Kräuterkunde und gehörte zu den frühen Mitgliedern eines führenden Umweltverbandes. Sie war eng mit dem Theologen Paul Tillich befreundet, dessen Kreis sich in ihrem Haus in Potsdam traf, bevor Tillich ins Exil gehen musste. 1938 emigrierte sie mit ihrer Familie nach England.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1212">
                   <persName>Löwenfeld, Günther</persName>
                   <occupation>Jurist</occupation>
                   <note type="bio">
-                     <p>Nach ihrer Hochzeit 1921 lebte das Ehepaar zunächst in Berlin, bevor sie 1925 zusammen mit ihren Freunden Lily und Fritz  Pincus in Richtung Potsdam zogen und eine Wohngemeinschaft, das ‚Haus auf dem Küssel‘, gründeten. Günther L. arbeitete weiterhin als Rechtsanwalt in Berlin. 1939 emigrierte die Familie schrittweise, zuerst wurden die Kinder Peter und Verena nach England gebracht, ihnen Folgte Günther, und schließlich emigrierte Claire über die Schweiz nach England. In der Schweiz ließ sich Claire L. in Maximilian Bircher-Benner’s Züricher Klinik zur Diätetikerin ausbilden und arbeitete während des Zweiten Weltkriegs zunächst in einem Londoner Krankenhaus, bevor sich die Familie auf dem Land in Buckinghamshire niederließ, wo Günther in der Folge als Landschaftsarchitekt tätig war.</p>
+                     <p>Günther Löwenfeld (1895–1984) stammte aus einer jüdischen Familie, wurde aber im protestantischen Glauben aufgezogen. Nach seiner Eheschließung 1921 mit Claire residierte das Paar zunächst in Berlin. 1925 verlegten beide ihren Wohnort nach Potsdam und teilten dort mit dem befreundeten Ehepaar Pincus ein gemeinsames Anwesen namens Haus auf dem Küssel. Während dieser Zeit übte Günther seinen Beruf als Rechtsanwalt in der Hauptstadt aus. 1939 erfolgte die Emigration der Familie schrittweise: Die beiden Kinder wurden zuerst nach England geschickt, Günther folgte später, und Claire reiste über die Schweiz nach, wo sie sich in einer renommierten Schweizer Klinik in Ernährungslehre ausbilden ließ. Während des Krieges arbeitete sie in einem englischen Kinderkrankenhaus. Später ließ sich die Familie in ländlicher Umgebung in einer englischen Grafschaft nieder, wo Günther als Landschaftsgestalter beruflich tätig war.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1213">
@@ -6794,7 +6814,7 @@
                   <occupation>Evangelischer Theologe, Religionswissenschaftler und Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118590871</idno>
                   <note type="bio">
-                     <p>Otto, Rudolf (25.9.1869 Peine – 6.3.1937 Marburg) war evangelischer Theologe und Religionswissenschaftler. Nach Studien in Erlangen und Göttingen wurde er 1898 promoviert und habilitierte sich für systematische Theologie, Religionsgeschichte und Religionsphilosophie. Er lehrte in Göttingen, Breslau und ab 1917 in Marburg, bereiste Nordafrika und Asien und engagierte sich politisch im Nationalsozialen Verein sowie im preußischen Landtag. Sein Hauptwerk Das Heilige (1917) prägte den Begriff des Numinosen als Grundkategorie religiöser Erfahrung. Otto betonte Religion als eigenständige Dimension des Geistes und suchte den Dialog mit östlicher Mystik. 1929 ging er aus gesundheitlichen Gründen in den Ruhestand und starb 1937.</p>
+                     <p>Rudolf Otto (25. September 1869 – 6. März 1937) war ein evangelischer Gelehrter für Theologie und Religionswissenschaft. Nach akademischer Ausbildung und Promotion arbeitete er an mehreren Universitäten – Göttingen, Breslau und ab 1917 Marburg. Er unternahm Forschungsreisen nach Nordafrika und Asien. Sein einflussreiches Werk von 1917 führte den Begriff des Numinosen als zentrale Kategorie religiöser Erfahrung ein. Otto verstand Religion als eigenständige geistige Kraft und suchte den Austausch mit östlichen mystischen Traditionen. Zudem engagierte er sich politisch in reformerischen Bewegungen. 1929 beendete er seine Lehrtätigkeit aus gesundheitlichen Gründen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1439">
@@ -7015,12 +7035,16 @@
                <person xml:id="tillich_person_id__1498">
                   <persName>Pincus, Lily</persName>
                   <occupation>Britische Sozialarbeiterin und Autorin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118594419</idno>
                   <note type="bio">
-                     <p>Ausbildung 1914-1918 im Berliner Lettehaus, arbeitete danach als Röntgenassistentin. Gemeinsam mit ihrem 1922 geheirateten Mann Fritz (1893-1963) und dem befreundeten Ehepaar Claire und Günther  Löwenfeld lebte sie ab 1925 in einer Wohngemeinschaft in Potsdam, dem ‚Haus auf dem Küssel‘, wo in den späten 1930ern zeitweise auch Verfolgte und jüdische Kinder Versteck fanden. 1939 Emigration nach Großbritannien, wo sie u.a. in Erwachsenenbildungsanstalten und als Sozialarbeiterin arbeitete. 1948 begründete sie das Institut für Ehestudien der Londoner Travistock Klinik, das sie bis 1965 auch leitete.</p>
+                     <p>Lily Pincus (13. März 1898 – 22. Oktober 1981) war eine deutsch-britische Sozialarbeiterin und Schriftstellerin. Nach ihrer Ausbildung in Fototechnik arbeitete sie als Röntgenassistentin. 1922 heiratete sie einen Juristen, mit dem sie ab 1925 in Potsdam ein Wohngemeinschaftsprojekt mit dem befreundeten Ehepaar Löwenfeld teilte – ein intellektuelles Zirkel, das auch dem Theologen Tillich nahestand. 1939 emigrierten beide nach Großbritannien, wo sie Tätigkeiten in Sozialwesen übernahm. 1948 gründete sie ein Institut zur Ehforschung an einer Londoner Klinik und leitete dieses bis 1965.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1499">
                   <persName>Pincus, Fritz</persName>
+                  <note type="bio">
+                     <p>Fritz Pincus (1893–1963) war Mitbesitzer eines Hauses auf dem Küssel. Mehr biographische Informationen sind derzeit nicht verfügbar.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1500">
                   <persName>Pindar</persName>
@@ -7528,7 +7552,7 @@
                   <occupation>Diplomat und Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118601008</idno>
                   <note type="bio">
-                     <p>Studium der Philosophie, Alten Philologie, und Alten Geschichte in München. Promotion zur griechischen Wirtschaftsgeschichte (1905), anschließend Mitarbeiter im Auswärtigen Amt. Hier avancierte er u.a. zum engen Vertrauten des Reichskanzlers Theobald von Bethmann Hollweg und führte zahlreiche diplomatische Auslandsreisen durch. 1915 heiratete er Käthe Liebermann (1885-1952), die Tochter Max Liebermanns. 1920 Rückzug aus der Politik aus Protest gegen die Unterzeichnung des Versailler Friedensvertrags. Fortan Arbeit als Privatgelehrter. Seit 1928 Kurator und Honorarprofessor (Philosophie) an der Frankfurter Universität, wo er sich 1929 unter anderem erfolgreich für die Berufung Paul Tillichs einsetzte. 1933 Schutzhaft und erzwungener Rücktritt, 1934 Entzug der Lehrbefugnis, Rückzug nach Berlin zu den Liebermanns. 1938 emigrierte das Ehepaar Riezler in die USA, wo R. eine Lehrstelle an der New School of Social Research in New York erhielt, später in Chicago und Princeton. 1954 zog der verwitwete Kurt R. nach Rom.</p>
+                     <p>Kurt Riezler (11. Februar 1882 – 6. September 1955) war ein deutscher Diplomat und Philosoph. Nach Studium in München und Promotion zur antiken Wirtschaftsgeschichte trat er ins Auswärtige Amt ein, wo er zum engen Vertrauten des Reichskanzlers Bethmann Hollweg aufstieg. 1915 heiratete er Käthe Liebermann, die Tochter des Malers Max Liebermann. 1920 zog sich Riezler aus Protest gegen den Versailler Vertrag aus der Politik zurück. Als Privatgelehrter wurde er 1928 Kurator und Professor für Philosophie in Frankfurt, wo er sich 1929 für Tillichs Berufung einsetzte. 1933 wurde er verhaftet und seines Amtes enthoben, 1934 verlor er seine Lehrbefugnis. 1938 emigrierte das Ehepaar in die USA, wo Riezler an der New School for Social Research und später an anderen Universitäten lehrte. 1954 ließ er sich in Rom nieder.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1611">
@@ -7781,6 +7805,9 @@
                   <persName>Sachs, Emmy</persName>
                   <occupation>Mathematikerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118905430</idno>
+                  <note type="bio">
+                     <p>Emmy Sachs (1886–1989) war eine österreichisch-deutsche Mathematikerin und Übersetzerin. Sie war kurzzeitig mit dem Psychoanalytiker Hanns Sachs verheiratet, wobei die Beziehung trotz Auflösung freundschaftlich blieb. Sie war dem Dichter Rilke aus Wiener Kreisen bekannt. 1938 half ihr Hanns Sachs bei der Flucht in die USA. Sie ließ sich in Kalifornien nieder, wo sie bis zu ihrem Tod im hohen Alter lebte.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1673">
                   <persName>Sahl, Hans</persName>
@@ -7880,7 +7907,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Theologe</occupation>
+                  <occupation>Evangelischer Theologe und Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118606131</idno>
                </person>
                <person xml:id="tillich_person_id__1694">
@@ -8117,6 +8144,9 @@
                </person>
                <person xml:id="tillich_person_id__1742">
                   <persName>Schröder</persName>
+                  <note type="bio">
+                     <p>Herr Schröder (Lebensdaten unbekannt) diente im Ersten Weltkrieg als Offiziersbursche des Theologen Paul Tillich im Stab der 7. Reserve-Division. Der Vorname und weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1743">
                   <persName>Schubert, Daniel</persName>
@@ -8127,6 +8157,9 @@
                      <date>1975-05-21</date>
                   </death>
                   <occupation>Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Daniel Schubert (23. Oktober 1886 – 21. Mai 1975) war ein deutscher evangelischer Theologe. Nach philosophisch-theologischem Studium an Universitäten in Süddeutschland wirkte er schließlich als Pfarrer in Stuttgart.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1744">
                   <persName>Schultz, Wally P.</persName>
@@ -8246,8 +8279,9 @@
                      <date>1969</date>
                   </death>
                   <occupation>Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/12680446X</idno>
                   <note type="bio">
-                     <p>Ehemann von Tillichs Schwester Elisabeth.</p>
+                     <p>Georg Seeberger (1891–1969) war ein deutscher protestantischer Geistlicher, Dekan und Kirchenrat in Bamberg. Er war mit Elisabeth, der Schwester des Theologen Paul Tillich, verheiratet. Er verfasste mehrere Publikationen, darunter ein Handbuch zur Amtsführung für protestantische Geistliche im Königreich Bayern.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1764">
@@ -8559,13 +8593,13 @@
                   <occupation>Religionswissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/115751351</idno>
                   <note type="bio">
-                     <p>(Auch Frederic Spiegelberg)Nach seiner Promotion in Tübingen (1922) und dem theologischen Examen der Hamburger Landeskirche (1925) stellte S. 1927 an der TU Dresden einen Antrag auf Habilitation, der jedoch abgelehnt wurde. Mit der Unterstützung Tillichs erhielt er dennoch einen Lehrauftrag und wurde 1929, als Tillich nach Frankfurt wechselte, auch mit der Vertretung der vakant gewordenen Stelle beauftragt. Nach ihrer ordentlichen Wiederbesetzung wurde er Lektor für Sanskrit und Pali, bis er 1937 seine Anstellung verlor. Wiederum unterstützt durch Tillich emigrierte S. in die USA, wo er als Experte für asiatische Religionen nach mehreren Stationen von 1941 bis 1962 in Stanford am Department of Asiatic and Slavic Studies lehrte.</p>
+                     <p>Friedrich Spiegelberg (24. Mai 1897 – 10. November 1994) war ein deutscher Gelehrter mit Spezialisierung auf asiatische Religionssysteme. Nach akademischer Ausbildung und Promotion in Tübingen erhielt er mit Unterstützung des Theologen Paul Tillich einen Lehrauftrag an der Dresdner Technischen Hochschule, wo Tillich Professor war. Spiegelberg lehrte dort Religionsgeschichte bis zu seiner Entlassung 1937. Mit Tillichs Hilfe emigrierte er in die USA, wo er ab 1941 an der Stanford University wirkte und sich als Experte für indische und asiatische Kulturen profilierte. Er war Mitbegründer mehrerer Institute zur Förderung östlichen Denkens und vertrat eine mystisch-universalistische Sicht auf Religion als Ausdruck einer gemeinsamen spirituellen Realität jenseits einzelner Dogmen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1830">
                   <persName>Spiegelberg, Rosalie</persName>
                   <note type="bio">
-                     <p>Frau von Friedrich(Frederic) Spiegelberg</p>
+                     <p>Rosalie Spiegelberg (gest. 1968) war die erste Ehefrau des Religionswissenschaftlers Frederic Spiegelberg. Sie war eine geborene Michels. Nach dessen Entlassung 1937 aus politischen Gründen floh sie mit ihrem Mann mithilfe des bereits in die USA emigrierten Theologen Paul Tillich aus dem nationalsozialistischen Deutschland. Das Paar fand zunächst in England Zuflucht, bevor sie in die Vereinigten Staaten weiterzogen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1831">
@@ -9272,7 +9306,7 @@
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>
                   <note type="bio">
-                     <p>Eckardt von Sydow (5. September 1885 – 1. Juli 1942) war ein deutscher Kunsthistoriker und Ethnologe. Er wurde 1912 in Halle promoviert und arbeitete anschließend in Berlin im Umfeld der Staatlichen Museen sowie als Publizist zur zeitgenössischen Kunst. Nach dem Ersten Weltkrieg wandte er sich der außereuropäischen Kunst zu, leitete die Kestnergesellschaft und veröffentlichte grundlegende Studien zur afrikanischen Plastik. 1933 trat er der NSDAP bei und erhielt eine Stelle an der Universität Berlin, wo er zur Kunst sogenannter „Naturvölker“ lehrte. Forschungsreisen nach Afrika prägten seine Arbeiten, die sich mit ethnologischen und kunsthistorischen Fragestellungen verbanden.</p>
+                     <p>Eckart von Sydow (5. September 1885 – 1. Juli 1942) war ein deutscher Kunsthistoriker und Ethnologe. Er wurde 1912 in Halle promoviert und arbeitete anschließend in Berlin im Umfeld der Staatlichen Museen sowie als Publizist zur zeitgenössischen Kunst. Nach dem Ersten Weltkrieg wandte er sich der außereuropäischen Kunst zu, leitete die Kestnergesellschaft und veröffentlichte grundlegende Studien zur afrikanischen Plastik. 1933 trat er der NSDAP bei und erhielt eine Stelle an der Universität Berlin, wo er zur Kunst sogenannter „Naturvölker“ lehrte. Forschungsreisen nach Afrika prägten seine Arbeiten, die sich mit ethnologischen und kunsthistorischen Fragestellungen verbanden.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1888">
@@ -9854,6 +9888,9 @@
                   <birth>
                      <date>1920-11-25</date>
                   </birth>
+                  <note type="bio">
+                     <p>Klaus Eberhard Tillich (geb. 25. November 1920) war der Sohn des Theologen und Philosophen Paul Tillich und dessen zweiter Ehefrau Hannah. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1934">
                   <persName>Tillich, Randell Wild</persName>
@@ -9867,7 +9904,7 @@
                      <date>1919-07-28</date>
                   </death>
                   <note type="bio">
-                     <p>Sohn von Richard Wegener und Greti Tillich</p>
+                     <p>Wolf Tillich (19. Juli 1919 – 28. Juli 1919) war der Sohn von Richard Wegener und Greti Tillich. Er verstarb wenige Tage nach seiner Geburt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1936">
@@ -12571,7 +12608,7 @@
                      <date>1965</date>
                   </death>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Johannes Otto Voget (1889–1965) entstammte einer reformierten Pastorenfamilie aus Ostfriesland. Sein Vater Friedrich Ajolt Alexander Voget war Pfarrer in Ohne, Bunde und Emden sowie ab 1906 Superintendent in Lingen; seine Mutter Elise Friderike Moser stammte aus Tübingen. Er hatte sieben Brüder, von denen mehrere ebenfalls geistliche Berufe ergriffen: Carl Octavius wirkte als Pastor in Marienchor, Wymeer und Volkmarsen, Julius Gustav als Pastor in Georgsdorf, Bunde und Wuppertal-Barmen, während Friedrich Albert Eberhard Zahnarzt in Emden und Hermann Theodor Studienrat in Berlin wurde. Sein Bruder Gustav wanderte später in die USA aus. 1915 heiratete er Gesine Garbrandine Petersen, mit der er acht Kinder hatte. Johannes Otto Voget war ein Studienkollege des Theologen Paul Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2156">
@@ -13110,7 +13147,7 @@
                      </settlement>
                   </death>
                   <note type="bio">
-                     <p>Tante Paul Tillichs mütterlicherseits; Halbschwester der Mutter Paul Tillichs aus der ersten Ehe deren Vaters Gustav Dürselen mit Amalia Dürselen (geb. Lüttringhausen) (1818-1857).</p>
+                     <p>Johanna Amalia Eugenia Dürselen (14. August 1842 – 7. April 1909) war die Halbschwester von Paul Tillichs Mutter aus der ersten Ehe von deren Vater Gustav Dürselen. Sie war somit Tillichs Tante mütterlicherseits und stammte aus Odenkirchen, starb jedoch in Hanau.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2226">
@@ -14286,7 +14323,7 @@
                <person xml:id="tillich_person_id__2355">
                   <persName>Walker, Gisela</persName>
                   <note type="bio">
-                     <p>Sie war die Tochter von Alfred Fritz und Johanna Fritz. Außerdem war sie die Patentochter von Paul Tillich.</p>
+                     <p>Gisela Walker (Lebensdaten unbekannt) war die Tochter von Alfred und Johanna Fritz und Patentochter des Theologen Paul Tillich. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2356">
@@ -15189,7 +15226,7 @@
                <person xml:id="tillich_person_id__2437">
                   <persName>Jessen, Malla</persName>
                   <note type="bio">
-                     <p>Sie war Mitte der 1920er Jahre eine Freundin von Hans Hamburger. Am 15.Oktober 1925 heirateten die beiden. In dieser Zeit waren sie mit der Familie Tillich befreundet, verbrachten 1926 auch viel Zeit in Paris miteinander. Sie war die Tochter des Direktors der Bibliothek des Berliner Kunstgewerbemuseums.</p>
+                     <p>Martha Jessen (Lebensdaten unbekannt) war die Tochter eines Bibliotheksdirektors des Berliner Kunstgewerbemuseums. Mitte der 1920er Jahre freundete sie sich mit Hans Hamburger an, den sie am 15. Oktober 1925 heiratete. Das Paar stand mit der Familie Tillich in Verbindung und verbrachte 1926 längere Zeit gemeinsam in Paris. Sie war unter dem Spitznamen Malla bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2438">
@@ -16423,7 +16460,7 @@
                   <occupation>Künstlerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127697055</idno>
                   <note type="bio">
-                     <p>Tillich widmete ihr 1926 sein Buch "Die religiöse Lage der Gegenwart".</p>
+                     <p>Elisabeth Wilhelmine Emma Kallen (14. September 1897 – 25. April 1984) war eine deutsche Malerin und Illustratorin. Nach Ausbildungen an kunstgewerblichen Institutionen und der Kunstschule Der Sturm in Berlin wirkte sie in den 1920er Jahren als Künstlerin und stellte in den Großen Berliner Kunstausstellungen sowie auf Juryfreien Ausstellungen aus. Sie war Mitglied der Novembergruppe und arbeitete ab 1920 auch als Illustratorin literarischer Werke. Der Theologe Paul Tillich widmete ihr 1926 sein Werk Die religiöse Lage der Gegenwart. Ab den 1930er Jahren wandte sie sich verstärkt religiösen Sujets zu und schuf Wandbehänge für mehrere Kirchen. Nach 1945 arbeitete sie für einen religiösen Verlag. Nach ihrer Ausreise in die Bundesrepublik 1964 lebte sie in verschiedenen Orten, zuletzt in Karlsruhe.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2565">
@@ -17627,7 +17664,7 @@
                      <date>1946</date>
                   </death>
                   <note type="bio">
-                     <p>Er war der Sohn von Alfred Fritz und Johanna Fritz. Außerdem war er der Bruder von Paul Tillichs Patentochter Gisela Walker, geborene Fritz.</p>
+                     <p>Eckehardt Fritz (1914–1946) war der Sohn von Alfred und Johanna Fritz. Er war der Bruder von Gisela Walker, der Patentochter des Theologen Paul Tillich. Sein Spitzname war Ekke. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2708">
@@ -17823,6 +17860,9 @@
                <person xml:id="tillich_person_id__2735">
                   <persName>Albers, August</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116275480</idno>
+                  <note type="bio">
+                     <p>August Albers (1873–1941) war ein deutscher Verleger. 1920 veröffentlichte er eine Schrift beim Verlag C. H. Beck in München mit dem Titel Der Untergang des Abendlandes und der Christ. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2736">
                   <persName>Wiechel, ???</persName>
@@ -18162,6 +18202,10 @@
                </person>
                <person xml:id="tillich_person_id__2776">
                   <persName>Storch, Lotte</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1241706530</idno>
+                  <note type="bio">
+                     <p>Lotte Storch (geb. 1882) war eine deutsche Schriftstellerin. Sie stammte aus Reichenbach im Eulengebirge und wirkte in Breslau. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2777">
                   <persName/>
@@ -18573,7 +18617,7 @@
                <person xml:id="tillich_person_id__2850">
                   <persName>Sydow, Minchen von</persName>
                   <note type="bio">
-                     <p>Sie war die Tochter von Eckhart von Sydow.</p>
+                     <p>Sie war die Tochter von Eckart von Sydow.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2851">
@@ -18631,6 +18675,9 @@
                </person>
                <person xml:id="tillich_person_id__2861">
                   <persName>Harder, Martin</persName>
+                  <birth>
+                     <date>1906-10-25</date>
+                  </birth>
                </person>
                <person xml:id="tillich_person_id__2862">
                   <persName>Wagner, Hermann</persName>
@@ -19051,7 +19098,20 @@
                   <persName>Müller, Nicolaus</persName>
                </person>
                <person xml:id="tillich_person_id__2920">
-                  <persName>Crisolli</persName>
+                  <persName>Crisolli, Rudolf</persName>
+                  <birth>
+                     <date>1854-07-25</date>
+                     <settlement>
+                        <placeName>Bernau b. Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1922-09-26</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Jurist und Geheimer Oberkonsistorialrat</occupation>
                </person>
                <person xml:id="tillich_person_id__2921">
                   <persName>Knigge</persName>
@@ -23108,7 +23168,7 @@
                   <persName>Grünewald, Matthias</persName>
                </person>
                <person xml:id="tillich_person_id__3893">
-                  <persName>Steinhausen</persName>
+                  <persName>Steinhausen, Wilhelm</persName>
                </person>
                <person xml:id="tillich_person_id__3894">
                   <persName>Thoma, Hans</persName>
@@ -23418,7 +23478,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/11609026X</idno>
                </person>
                <person xml:id="tillich_person_id__4012">
-                  <persName>Glokke, Bertha (geb. Tillich)</persName>
+                  <persName>Glokke, Bertha</persName>
                   <birth>
                      <date>1851-06-12</date>
                      <settlement>
@@ -26219,6 +26279,37 @@
                </person>
                <person xml:id="tillich_person_id__5139">
                   <persName>Otto, "Flock"</persName>
+               </person>
+               <person xml:id="tillich_person_id__5140">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5141">
+                  <persName>Crisolli, Auguste</persName>
+               </person>
+               <person xml:id="tillich_person_id__5142">
+                  <persName>Stoevesandt, Dorothe</persName>
+                  <note type="bio">
+                     <p>Ehefrau von Karl Stoevesandt</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5144">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5145">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5146">
+                  <persName>Nigg, Walter</persName>
+                  <occupation>Evangelischer reformierter Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/127688757</idno>
+               </person>
+               <person xml:id="tillich_person_id__5147">
+                  <persName>Nikolaus von der Flüe</persName>
+                  <occupation>Heiliger</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118588087</idno>
+               </person>
+               <person xml:id="tillich_person_id__5148">
+                  <persName/>
                </person>
             </listPerson>
          </div>

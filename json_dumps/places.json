@@ -10415,5 +10415,16 @@
     "latitude": "52.56470",
     "longitude": "14.80630",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1012582"
+  },
+  "1578": {
+    "id": 1578,
+    "order": "1080.00000000000000000000",
+    "name": "Assenheim",
+    "tillich_id": "tillich_place_id__1578",
+    "geonames_url": "https://www.geonames.org/2955014/",
+    "Working Notes": "",
+    "latitude": "50.29670",
+    "longitude": "8.81568",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q740947"
   }
 }

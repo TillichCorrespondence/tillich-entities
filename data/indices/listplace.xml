@@ -6877,6 +6877,14 @@
                   <idno type="geonames">https://sws.geonames.org/7531839/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1012582</idno>
                </place>
+               <place xml:id="tillich_place_id__1578">
+                  <placeName>Assenheim</placeName>
+                  <location type="coords">
+                     <geo>50.29670 8.81568</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2955014/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q740947</idno>
+               </place>
             </listPlace>
          </div>
       </body>
