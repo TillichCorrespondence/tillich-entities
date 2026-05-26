@@ -10426,5 +10426,16 @@
     "latitude": "50.29670",
     "longitude": "8.81568",
     "wikidata_url": "https://www.wikidata.org/wiki/Q740947"
+  },
+  "1579": {
+    "id": 1579,
+    "order": "1081.00000000000000000000",
+    "name": "Liepnitzsee",
+    "tillich_id": "tillich_place_id__1579",
+    "geonames_url": "https://www.geonames.org/2877801/",
+    "Working Notes": "",
+    "latitude": "52.74571",
+    "longitude": "13.51562",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1357141"
   }
 }
