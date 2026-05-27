@@ -4078,7 +4078,7 @@
                   </birth>
                   <occupation>Evangelischer Pfarrer</occupation>
                   <note type="bio">
-                     <p>Erich Harder (1872–1962) war ein deutscher evangelischer Pfarrer, geboren in Berlin. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                     <p>Erich Harder (1872–1962) war ein deutscher evangelischer Pfarrer, geboren in Berlin. Harder war 1899 als Vikar von Johannes Tillich ins Pfarrhaus der Familie Tillich nach Schönfließ gekommen. Nach seiner Ordination am 1. Dezember 1901 wurde er zuerst als Pfarrer in Dölzig eingesetzt, ab 1907 in Radensleben und ab 1917 als Superintendent und Oberpfarrer in Sonnenburg.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__801">
@@ -4522,7 +4522,7 @@
                   <persName>Hirsch, Maria</persName>
                </person>
                <person xml:id="tillich_person_id__907">
-                  <persName>Hirsch (geb. Ecke), Rosa</persName>
+                  <persName>Hirsch, Rosa</persName>
                   <note type="bio">
                      <p>geb. Ecke</p>
                   </note>
@@ -16208,7 +16208,7 @@
                <person xml:id="tillich_person_id__2528">
                   <persName>Schmidt, Auguste</persName>
                   <note type="bio">
-                     <p>Sie stand in Kontakt mit Paul Tillichs Mutter und war die Frau von Pastor Adolf Schmidt (P02246).</p>
+                     <p>Tochter des Eisenbahnmaterialverwalters Johannes Winckler in Osnabrück.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2529">
@@ -16639,7 +16639,20 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2580">
-                  <persName>Keßler, ???</persName>
+                  <persName>Keßler, Hans</persName>
+                  <birth>
+                     <date>1856-09-03</date>
+                     <settlement>
+                        <placeName>Wartenburg (Ostpreußen)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1939-09-03</date>
+                     <settlement>
+                        <placeName>Züllchow b. Stettin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2581">
                   <persName>Steinbach, Maximilian</persName>
@@ -19634,9 +19647,6 @@
                <person xml:id="tillich_person_id__3022">
                   <persName>Flittner, Alfred</persName>
                </person>
-               <person xml:id="tillich_person_id__3023">
-                  <persName>X</persName>
-               </person>
                <person xml:id="tillich_person_id__3024">
                   <persName>Lothar das Kind</persName>
                </person>
@@ -20334,7 +20344,7 @@
                   <persName>Tante Berta</persName>
                </person>
                <person xml:id="tillich_person_id__3174">
-                  <persName>Hirsch, Mutter</persName>
+                  <persName>Hirsch, Klara</persName>
                </person>
                <person xml:id="tillich_person_id__3175">
                   <persName>???, Fritz</persName>
@@ -23417,6 +23427,9 @@
                      </settlement>
                   </death>
                   <occupation>Evangelischer Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Ordiniert am 26. Juli 1885; 1885 Pfarrer in Rädnitz, Kreis Crossen I; 1888 2. Pfarrer in Neuzelle, Kreis Guben; 1896 2. Pfarrer an Christus, Kreis Friedrichswerder I, 1924-1929 1. Pfarrer ebd. Sohn des Kaufmanns Julius Schmidt und Marie Mauernbrecher.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3997">
                   <persName>Lande, ???</persName>
@@ -25019,7 +25032,7 @@
                <person xml:id="tillich_person_id__4642">
                   <persName>Schmidt, Andreas</persName>
                   <birth>
-                     <date>11.04.1923</date>
+                     <date>1923-04-11</date>
                   </birth>
                   <note type="bio">
                      <p>Sohn von Karl Ludwig und Ursula Schmidt</p>
@@ -26270,7 +26283,7 @@
                   <persName>Brunner, Emil</persName>
                </person>
                <person xml:id="tillich_person_id__5133">
-                  <persName>Schleiermacher, Friechrich</persName>
+                  <persName>Schleiermacher, Friedrich</persName>
                </person>
                <person xml:id="tillich_person_id__5134">
                   <persName>Edman, I</persName>
@@ -26324,6 +26337,76 @@
                </person>
                <person xml:id="tillich_person_id__5148">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5149">
+                  <persName>Mallon, John B.</persName>
+                  <occupation>Major/Lieutnant Colonel der US-Army und Mitarbeiter im Büro des Adjutant General der amerikanischen Militärregierung in Deutschland</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5150">
+                  <persName>Hays, George Price</persName>
+                  <occupation>Mojor General der US-Army und 1947–1949 stellvertretender Militärgouverneur in Deutschland</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1030071217</idno>
+               </person>
+               <person xml:id="tillich_person_id__5151">
+                  <persName>Faber, Wilhelm</persName>
+                  <birth>
+                     <date>1845-12-03</date>
+                     <settlement>
+                        <placeName>Gehrenrode a. H.</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1916-12-07</date>
+                     <settlement>
+                        <placeName>Ilsenburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Generalsuperintendent von Berlin und Mitglied des Preußischen Herrenhauses. Seit 1898 Propst an der Nikolaikirche (Berlin), seit 1892 auch Propst von Heiligengrabe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5152">
+                  <persName>Friedlander, Harold</persName>
+                  <occupation>Verleger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5153">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5154">
+                  <persName>Marcks, Erich</persName>
+                  <birth>
+                     <date>1861-11-17</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__275">Magdeburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-11-22</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Historiker</occupation>
+                  <note type="bio">
+                     <p>1892 berief die Universität Freiburg Marcks zum ordentlichen Professor. Weitere Stationen seiner wissenschaftlichen Karriere waren Professuren in Leipzig 1894, Heidelberg 1901, Hamburg 1907, die USA, wo er 1912 als Gastprofessor tätig war, und seit 1913 München. 1922 wurde er nach Berlin berufen, wo er bis zu seiner Emeritierung 1928 lehrte.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5155">
+                  <persName>Seidel, Ina</persName>
+                  <birth>
+                     <date>1885-09-15</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1974-10-02</date>
+                     <settlement>
+                        <placeName>Ebenhausen (Schäftlarn)</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutsche Schriftstellerin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5188">
+                  <persName>Dürselen, Ilse</persName>
                </person>
             </listPerson>
          </div>
