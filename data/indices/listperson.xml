@@ -1297,8 +1297,11 @@
                </person>
                <person xml:id="tillich_person_id__131">
                   <persName>Banzhaf, Friedrich</persName>
+                  <birth>
+                     <date>1887-01-02</date>
+                  </birth>
                   <note type="bio">
-                     <p>1887-01-02</p>
+                     <p>Sein Spitzname war "Häfele"</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__132">
@@ -12747,9 +12750,6 @@
                </person>
                <person xml:id="tillich_person_id__2177">
                   <persName>Sessow, ???</persName>
-                  <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2178">
                   <persName>Van der Smissen, Wilm</persName>
@@ -12876,11 +12876,8 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2196">
-                  <persName>???, Käte</persName>
+                  <persName>???, Käthe</persName>
                   <idno type="gnd">Keine GND-Nummer</idno>
-                  <note type="bio">
-                     <p>Käte (Lebensdaten unbekannt) wird als eine Tante des Theologen Paul Tillich bezeichnet. Ihr voller Name und weitere biographische Informationen sind derzeit nicht bekannt.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2197">
                   <persName>Fritz, Immanuel</persName>
@@ -13402,12 +13399,6 @@
                </person>
                <person xml:id="tillich_person_id__2258">
                   <persName>Krause, Anna</persName>
-               </person>
-               <person xml:id="tillich_person_id__2259">
-                  <persName>???, Adolf</persName>
-                  <note type="bio">
-                     <p>Er wird als Onkel von Paul Tillich bezeichnet.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2260">
                   <persName>???, Conrad</persName>
@@ -17879,7 +17870,8 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2736">
-                  <persName>Wiechel, ???</persName>
+                  <persName>Wiechel, Käte</persName>
+                  <occupation>Telegr.-Sekretärin</occupation>
                </person>
                <person xml:id="tillich_person_id__2737">
                   <persName>Poelchau, Dorothee</persName>
@@ -26407,6 +26399,32 @@
                </person>
                <person xml:id="tillich_person_id__5188">
                   <persName>Dürselen, Ilse</persName>
+               </person>
+               <person xml:id="tillich_person_id__5189">
+                  <persName>?, Florian</persName>
+                  <birth>
+                     <date>1923/24</date>
+                  </birth>
+               </person>
+               <person xml:id="tillich_person_id__5190">
+                  <persName>Steyer, Eva</persName>
+               </person>
+               <person xml:id="tillich_person_id__5191">
+                  <persName>Gewiese, Lucie</persName>
+                  <occupation>Vorsteherin der Gewiese'schen Höheren Mädchenschule in Landsberg a. d. Warthe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5192">
+                  <persName>Kobin, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__5193">
+                  <persName>Kolle (Familie)</persName>
+               </person>
+               <person xml:id="tillich_person_id__5194">
+                  <persName>Wiechel, Hermann</persName>
+                  <occupation>Kanzleirat, Amtsgerichts-Sekretär</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5195">
+                  <persName>Wiechel, Bertha</persName>
                </person>
             </listPerson>
          </div>

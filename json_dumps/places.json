@@ -10437,5 +10437,27 @@
     "latitude": "52.74571",
     "longitude": "13.51562",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1357141"
+  },
+  "1612": {
+    "id": 1612,
+    "order": "1082.00000000000000000000",
+    "name": "Ecuador",
+    "tillich_id": "tillich_place_id__1612",
+    "geonames_url": "https://www.geonames.org/3658394/",
+    "Working Notes": "",
+    "latitude": "-1.25000",
+    "longitude": "-78.25000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q736"
+  },
+  "1613": {
+    "id": 1613,
+    "order": "1083.00000000000000000000",
+    "name": "Monte Cevedale",
+    "tillich_id": "tillich_place_id__1613",
+    "geonames_url": "https://www.geonames.org/3178929/monte-cevedale.html",
+    "Working Notes": "",
+    "latitude": "46.44404",
+    "longitude": "10.61678",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1287528"
   }
 }
