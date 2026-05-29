@@ -10459,5 +10459,16 @@
     "latitude": "46.44404",
     "longitude": "10.61678",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1287528"
+  },
+  "1614": {
+    "id": 1614,
+    "order": "1084.00000000000000000000",
+    "name": "Exeter, New Hampshire",
+    "tillich_id": "tillich_place_id__1614",
+    "geonames_url": "https://www.geonames.org/5085966/",
+    "Working Notes": "",
+    "latitude": "42.98148",
+    "longitude": "-70.94783",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q990504"
   }
 }

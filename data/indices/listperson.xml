@@ -5533,7 +5533,7 @@
                   <persName>Lasker-Schüler, Else</persName>
                </person>
                <person xml:id="tillich_person_id__1144">
-                  <persName>Lasker-Schüler, Elsisabeth</persName>
+                  <persName>Lasker-Schüler, Elisabeth</persName>
                   <occupation>Dichterin</occupation>
                   <note type="bio">
                      <p>Nach einer Nervenkrankheit wurde L.-S. privat unterrichtet, 1894 heiratete sie den Arzt Berthold Lasker, zog von Elberfeld nach Berlin und begann in den Folgejahren, Gedichte zu schreiben und zu veröffentlichen. 1903 ließ sich das Paar scheiden, L.-S. wandte sich fortan der Berliner Bohème zu, in deren Umfeld sie Anfang der 1920er Jahre auch auf Tillich traf. 1903-1912 war sie mit dem Schriftsteller Georg Lewin (Herwarth Walden) verheiratet. 1932 erhielt sich noch den Kleist-Preis, nachdem sie im April 1933 auf offener Straße angegriffen wurde verließ sie Berlin und Deutschland und ging nach Zürich. 1938 wurde ihre die deutsche Staatsbürgerschaft aberkannt, die Schweiz verweigerte ihr 1939 ein Rückreisevisum, als sie sich auf einer Palästinareise befand, wo sie sodann sesshaft wurde und weitgehend vereinsamt starb.</p>
@@ -12749,7 +12749,8 @@
                   <persName>Heine, ???</persName>
                </person>
                <person xml:id="tillich_person_id__2177">
-                  <persName>Sessow, ???</persName>
+                  <persName>Sessou, Henri</persName>
+                  <occupation>Dr. med., Spezialarzt für Ohren- und Nasenkrankheiten; Assistent an der Universität (Ohrenklinik)</occupation>
                </person>
                <person xml:id="tillich_person_id__2178">
                   <persName>Van der Smissen, Wilm</persName>
@@ -13375,20 +13376,20 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2255">
-                  <persName>Heine, ???</persName>
+                  <persName>Heine, Bernhard</persName>
                   <birth>
-                     <date>1864</date>
+                     <date>1864-03-15</date>
                      <settlement>
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1928</date>
+                     <date>1928-02-19</date>
                      <settlement>
                         <placeName key="#tillich_place_id__306">München</placeName>
                      </settlement>
                   </death>
-                  <occupation>Ohrenarzt</occupation>
+                  <occupation>Dr. med., Spezialarzt für Ohren- und Nasenkranke; Privatdozent an der Universität; I. Assistent der Kgl. Universität (Ohrenklinik)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117512990</idno>
                </person>
                <person xml:id="tillich_person_id__2256">
@@ -13399,6 +13400,10 @@
                </person>
                <person xml:id="tillich_person_id__2258">
                   <persName>Krause, Anna</persName>
+                  <birth>
+                     <date>???-02-18</date>
+                  </birth>
+                  <occupation>Hauswirtschafterin im Hause Johannes Tillich</occupation>
                </person>
                <person xml:id="tillich_person_id__2260">
                   <persName>???, Conrad</persName>
@@ -16202,9 +16207,6 @@
                      <p>Tochter des Eisenbahnmaterialverwalters Johannes Winckler in Osnabrück.</p>
                   </note>
                </person>
-               <person xml:id="tillich_person_id__2529">
-                  <persName>???, Anna</persName>
-               </person>
                <person xml:id="tillich_person_id__2530">
                   <persName>Kühn, Georg</persName>
                </person>
@@ -18229,7 +18231,8 @@
                   <persName>Held, Käthe</persName>
                </person>
                <person xml:id="tillich_person_id__2784">
-                  <persName>Hessling, (Frau)</persName>
+                  <persName>Hessling, Klara</persName>
+                  <occupation>Vorsteherin einer höheren Mädchenschule und eines Lehrerinnenseminars</occupation>
                </person>
                <person xml:id="tillich_person_id__2785">
                   <persName>Heimbach, (Familie)</persName>
@@ -19599,18 +19602,6 @@
                </person>
                <person xml:id="tillich_person_id__3012">
                   <persName>Lisbeth</persName>
-               </person>
-               <person xml:id="tillich_person_id__3013">
-                  <persName>???, Anna</persName>
-                  <note type="bio">
-                     <p>Hat eine Schwester namens Rike Vgl. L00059</p>
-                  </note>
-               </person>
-               <person xml:id="tillich_person_id__3014">
-                  <persName>???, Rike</persName>
-                  <note type="bio">
-                     <p>Hat eine Schwester namens Anna Vgl. L00059</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__3015">
                   <persName>Blahr, Marie</persName>
@@ -26425,6 +26416,9 @@
                </person>
                <person xml:id="tillich_person_id__5195">
                   <persName>Wiechel, Bertha</persName>
+               </person>
+               <person xml:id="tillich_person_id__5196">
+                  <persName/>
                </person>
             </listPerson>
          </div>

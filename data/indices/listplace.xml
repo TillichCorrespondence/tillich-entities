@@ -6909,6 +6909,14 @@
                   <idno type="geonames">https://sws.geonames.org/3178929/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1287528</idno>
                </place>
+               <place xml:id="tillich_place_id__1614">
+                  <placeName>Exeter, New Hampshire</placeName>
+                  <location type="coords">
+                     <geo>42.98148 -70.94783</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5085966/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q990504</idno>
+               </place>
             </listPlace>
          </div>
       </body>
