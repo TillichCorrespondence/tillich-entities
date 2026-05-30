@@ -9806,6 +9806,9 @@
                   <persName>Tillich, Oskar</persName>
                   <birth>
                      <date>1828-03</date>
+                     <settlement>
+                        <placeName>(wohl) Görlitz</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date>1914</date>
@@ -26419,6 +26422,40 @@
                </person>
                <person xml:id="tillich_person_id__5196">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5229">
+                  <persName>Tillich, Emma</persName>
+                  <note type="bio">
+                     <p>Großtante Paul Tillichs väterlicherseits; Ehefrau von Dr. phil. Ernst Tillich; wohnhaft in Stettin</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5230">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5231">
+                  <persName>Tillich, Ernst</persName>
+                  <birth>
+                     <date>1836</date>
+                     <settlement>
+                        <placeName>(wohl) Görlitz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1910-03-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Gymnasiallehrer für Mathematik und Religion (bis 1872); 1870 Diakon; 1873 Priester in Berlin; 1876 geweihter Engel; ab 1878 Engel der apostolischen Gemeinde in Stettin</occupation>
+                  <note type="bio">
+                     <p>Großonkel Paul Tillichs väterlicherseits; jüngerer Bruder von Oskar Tillich</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5232">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5233">
+                  <persName>Ilse</persName>
                </person>
             </listPerson>
          </div>

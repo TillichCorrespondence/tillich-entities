@@ -10470,5 +10470,16 @@
     "latitude": "42.98148",
     "longitude": "-70.94783",
     "wikidata_url": "https://www.wikidata.org/wiki/Q990504"
+  },
+  "1647": {
+    "id": 1647,
+    "order": "1085.00000000000000000000",
+    "name": "Lüdersdorf",
+    "tillich_id": "tillich_place_id__1647",
+    "geonames_url": "https://www.geonames.org/2875435/",
+    "Working Notes": "",
+    "latitude": "50.95902",
+    "longitude": "9.76213",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1497188"
   }
 }
