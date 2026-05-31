@@ -567,7 +567,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1221195</idno>
                </place>
                <place xml:id="tillich_place_id__80">
-                  <placeName>Butterfelde</placeName>
+                  <placeName>Butterfelde (Przyjezierze)</placeName>
                   <location type="coords">
                      <geo>52.87141 14.38608</geo>
                   </location>
@@ -852,7 +852,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q35</idno>
                </place>
                <place xml:id="tillich_place_id__129">
-                  <placeName>Dölzig</placeName>
+                  <placeName>Dölzig (Dolsko)</placeName>
                   <location type="coords">
                      <geo>52.90062 14.37630</geo>
                   </location>
@@ -1757,7 +1757,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q148615</idno>
                </place>
                <place xml:id="tillich_place_id__297">
-                  <placeName>Mohrin</placeName>
+                  <placeName>Mohrin (Moryń)</placeName>
                   <location type="coords">
                      <geo>52.85769 14.39297</geo>
                   </location>
@@ -2373,7 +2373,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q39</idno>
                </place>
                <place xml:id="tillich_place_id__398">
-                  <placeName>Schönfließ</placeName>
+                  <placeName>Bad Schönfließ (Trzcińsko-Zdrój)</placeName>
                   <location type="coords">
                      <geo>52.96487 14.60667</geo>
                   </location>

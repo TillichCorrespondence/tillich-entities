@@ -794,7 +794,7 @@
   "80": {
     "id": 80,
     "order": "80.00000000000000000000",
-    "name": "Butterfelde",
+    "name": "Butterfelde (Przyjezierze)",
     "tillich_id": "tillich_place_id__80",
     "geonames_url": "https://sws.geonames.org/3087840/",
     "Working Notes": "Working Notes",
@@ -1201,7 +1201,7 @@
   "129": {
     "id": 129,
     "order": "129.00000000000000000000",
-    "name": "Dölzig",
+    "name": "Dölzig (Dolsko)",
     "tillich_id": "tillich_place_id__129",
     "geonames_url": "https://sws.geonames.org/3100226/",
     "Working Notes": "(Bei Johannes Tillich - Erich H. Kontext ist es Dölzig/Neumark ->nun Dolsko)",
@@ -2521,7 +2521,7 @@
   "297": {
     "id": 297,
     "order": "297.00000000000000000000",
-    "name": "Mohrin",
+    "name": "Mohrin (Moryń)",
     "tillich_id": "tillich_place_id__297",
     "geonames_url": "https://sws.geonames.org/3091435/",
     "Working Notes": "",
@@ -3412,7 +3412,7 @@
   "398": {
     "id": 398,
     "order": "398.00000000000000000000",
-    "name": "Schönfließ",
+    "name": "Bad Schönfließ (Trzcińsko-Zdrój)",
     "tillich_id": "tillich_place_id__398",
     "geonames_url": "https://sws.geonames.org/3083158/",
     "Working Notes": "(L00526)(L01079)Vermutlich das Bad Schönfließ(Trzcińsko Zdrój, Polen) hier gemeint ist. Aus nähe zu Berlin im Text abgegeben; Johannes Tillich -> altes PR\"1891 wurde er Superintendent für den Kirchenkreis Schönfließ (Neumark)\"",

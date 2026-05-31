@@ -18494,7 +18494,7 @@
                   <occupation>Deutscher Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__2830">
-                  <persName>Kleedehn</persName>
+                  <persName>Kleedehn, E.</persName>
                   <occupation>Pensionshalterin in Königsberg (Neumark)</occupation>
                </person>
                <person xml:id="tillich_person_id__2831">
@@ -24313,7 +24313,7 @@
                   <birth>
                      <date>1837-04-10</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__129">Dölzig</placeName>
+                        <placeName>Dölzig</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -26456,6 +26456,9 @@
                </person>
                <person xml:id="tillich_person_id__5233">
                   <persName>Ilse</persName>
+               </person>
+               <person xml:id="tillich_person_id__5234">
+                  <persName>Schotte, ???</persName>
                </person>
             </listPerson>
          </div>
