@@ -9331,10 +9331,16 @@
                <person xml:id="tillich_person_id__1887">
                   <persName>Sydow, Eckart von</persName>
                   <birth>
-                     <date>1885</date>
+                     <date>1885-09-05</date>
+                     <settlement>
+                        <placeName>Dobberphul</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1942</date>
+                     <date>1942-07-01</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
                   </death>
                   <occupation>Kunsthistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117387010</idno>

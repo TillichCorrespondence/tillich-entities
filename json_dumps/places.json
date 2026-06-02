@@ -2510,7 +2510,7 @@
   "293": {
     "id": 293,
     "order": "293.00000000000000000000",
-    "name": "Misdroy",
+    "name": "Misdroy (Międzyzdroje)",
     "tillich_id": "tillich_place_id__293",
     "geonames_url": "https://sws.geonames.org/3091961/",
     "Working Notes": "",
@@ -10481,5 +10481,16 @@
     "latitude": "50.95902",
     "longitude": "9.76213",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1497188"
+  },
+  "1648": {
+    "id": 1648,
+    "order": "1086.00000000000000000000",
+    "name": "Dobberphul (Dobropole)",
+    "tillich_id": "tillich_place_id__1648",
+    "geonames_url": "https://www.geonames.org/3100326/",
+    "Working Notes": "",
+    "latitude": "52.94347",
+    "longitude": "14.71807",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5286814"
   }
 }
