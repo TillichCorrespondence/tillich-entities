@@ -2070,7 +2070,7 @@
   "245": {
     "id": 245,
     "order": "245.00000000000000000000",
-    "name": "Königsberg/Neumark",
+    "name": "Königsberg/Neumark (Chojna)",
     "tillich_id": "tillich_place_id__245",
     "geonames_url": "https://sws.geonames.org/3101675/",
     "Working Notes": "(geonames -> chojna, nicht identisch)Wiki: Der Kreis Königsberg Nm., bis ins 19. Jahrhundert auch Königsberger Kreis genannt, war ein preußischer Landkreis in der Neumark in der Provinz Brandenburg, der bis 1946 bestand",
@@ -3544,7 +3544,7 @@
   "413": {
     "id": 413,
     "order": "413.00000000000000000000",
-    "name": "Starzeddel",
+    "name": "Starzeddel (Starosiedle)",
     "tillich_id": "tillich_place_id__413",
     "geonames_url": "https://sws.geonames.org/3084812/",
     "Working Notes": "Heute: Starosiedle (alte PR -> \"Johannes Oskar T. war der Vater von Paul Tillich. Seine erste Pfarrstelle war die lutherische Gemeinde Starzeddel (heute Starosiedle) bei Guben\")",
@@ -10492,5 +10492,16 @@
     "latitude": "52.94347",
     "longitude": "14.71807",
     "wikidata_url": "https://www.wikidata.org/wiki/Q5286814"
+  },
+  "1681": {
+    "id": 1681,
+    "order": "1087.00000000000000000000",
+    "name": "Trafoi",
+    "tillich_id": "tillich_place_id__1681",
+    "geonames_url": "https://www.geonames.org/3165338/",
+    "Working Notes": "",
+    "latitude": "46.55170",
+    "longitude": "10.50988",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q541545"
   }
 }

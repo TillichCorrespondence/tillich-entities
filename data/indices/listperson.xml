@@ -3457,7 +3457,7 @@
                   <birth>
                      <date>1889-02-11</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__413">Starzeddel</placeName>
+                        <placeName>Starzeddel</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -14850,15 +14850,21 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2404">
-                  <persName>Sydow, Elfriede Margarete von</persName>
+                  <persName>Sydow, Elfriede von</persName>
                   <note type="bio">
                      <p>Sie war die Mutter von Eckart von Sydow und eine geborene von Wedel.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2405">
                   <persName>Sydow, Helene</persName>
+                  <birth>
+                     <date>1881-07-28</date>
+                     <settlement>
+                        <placeName>Dobberphul</placeName>
+                     </settlement>
+                  </birth>
                   <note type="bio">
-                     <p>Sie war die Schwester von Eckart von Sydow.</p>
+                     <p>Schwester von Eckart von Sydow.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2406">
@@ -20590,7 +20596,19 @@
                   <persName>Rühle, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3229">
-                  <persName>Sydow, Hans Kurt von</persName>
+                  <persName>Sydow, Hans von</persName>
+                  <birth>
+                     <date>1852-05-28</date>
+                     <settlement>
+                        <placeName>Dobberphul</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1904-03-26</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__504">Berlin-Charlottenburg</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__3230">
                   <persName>Sydow-Wedel, Margarethe von</persName>
@@ -24109,9 +24127,6 @@
                <person xml:id="tillich_person_id__4121">
                   <persName>Urban, Maria</persName>
                </person>
-               <person xml:id="tillich_person_id__4122">
-                  <persName>Sydow (Familie)</persName>
-               </person>
                <person xml:id="tillich_person_id__4123">
                   <persName>Steindel, Paul</persName>
                   <birth>
@@ -26518,6 +26533,50 @@
                </person>
                <person xml:id="tillich_person_id__5236">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5269">
+                  <persName>Sydow, Herbert von</persName>
+                  <birth>
+                     <date>1882-11-04</date>
+                     <settlement>
+                        <placeName>Dobberphul</placeName>
+                     </settlement>
+                  </birth>
+                  <note type="bio">
+                     <p>Älterer Bruder von Eckart von Sydow</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5270">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5271">
+                  <persName>Sydow, Henning von</persName>
+                  <birth>
+                     <date>1879-12-22</date>
+                     <settlement>
+                        <placeName>Dobberphul</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>Kgl. preußischer Leutnant</occupation>
+                  <note type="bio">
+                     <p>Ältester Bruder von Eckart von Sydow</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5272">
+                  <persName>May, Karl</persName>
+                  <birth>
+                     <date>1842-02-25</date>
+                     <settlement>
+                        <placeName>Ernstthal</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1912-03-30</date>
+                     <settlement>
+                        <placeName>Radebeul</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Schriftsteller</occupation>
                </person>
             </listPerson>
          </div>
