@@ -26578,6 +26578,23 @@
                   </death>
                   <occupation>Deutscher Schriftsteller</occupation>
                </person>
+               <person xml:id="tillich_person_id__5273">
+                  <persName>Redslob, Edwin</persName>
+                  <birth>
+                     <date>1884-09-22</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__543">Weimar</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1973-01-24</date>
+                     <settlement>
+                        <placeName>West-Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Kunsthistoriker, Kulturpolitiker, Publizist und Universitätsrektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118743759</idno>
+               </person>
             </listPerson>
          </div>
       </body>

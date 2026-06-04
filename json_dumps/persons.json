@@ -86198,5 +86198,25 @@
     "place_of_death": "Radebeul",
     "bio_en": "",
     "occupation_en": ""
+  },
+  "5273": {
+    "id": 5273,
+    "order": "4387.00000000000000000000",
+    "name": "Redslob, Edwin",
+    "surname": "Redslob",
+    "forename": "Edwin",
+    "from_to": "",
+    "occupation": "Kunsthistoriker, Kulturpolitiker, Publizist und Universitätsrektor",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118743759",
+    "tillich_id": "tillich_person_id__5273",
+    "date_of_birth": "1884-09-22",
+    "date_of_death": "1973-01-24",
+    "working_note": "",
+    "place_of_birth": "Weimar",
+    "place_of_death": "West-Berlin",
+    "bio_en": "",
+    "occupation_en": ""
   }
 }
