@@ -6941,6 +6941,22 @@
                   <idno type="geonames">https://sws.geonames.org/3165338/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q541545</idno>
                </place>
+               <place xml:id="tillich_place_id__1714">
+                  <placeName>Zeist</placeName>
+                  <location type="coords">
+                     <geo>52.09000 5.23333</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2743977/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q10056</idno>
+               </place>
+               <place xml:id="tillich_place_id__1715">
+                  <placeName>Hamburg-Langenhorn</placeName>
+                  <location type="coords">
+                     <geo>53.66667 10.01667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2832561/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1175</idno>
+               </place>
             </listPlace>
          </div>
       </body>

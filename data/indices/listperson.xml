@@ -12551,9 +12551,7 @@
                </person>
                <person xml:id="tillich_person_id__2145">
                   <persName>Martel, Rachel</persName>
-                  <note type="bio">
-                     <p>Er war im Kontakt mit Paul Tillich im 1. Weltkrieg und korrespondierte mit ihm auf Französisch.</p>
-                  </note>
+                  <occupation>Tänzerin und Choristin am Deutschen Theater in Lille; wohl Gelegenheitsprostituierte</occupation>
                </person>
                <person xml:id="tillich_person_id__2146">
                   <persName>Wagner, Richard</persName>
@@ -12903,6 +12901,9 @@
                </person>
                <person xml:id="tillich_person_id__2192">
                   <persName>???, Therese</persName>
+                  <birth>
+                     <date>????-12-04</date>
+                  </birth>
                   <occupation>Gemeindeschwester</occupation>
                   <note type="bio">
                      <p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p>
@@ -26594,6 +26595,36 @@
                   </death>
                   <occupation>Kunsthistoriker, Kulturpolitiker, Publizist und Universitätsrektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118743759</idno>
+               </person>
+               <person xml:id="tillich_person_id__5306">
+                  <persName>Hösch</persName>
+               </person>
+               <person xml:id="tillich_person_id__5307">
+                  <persName>Wesseldijk, Wim P. J.</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/127312951</idno>
+               </person>
+               <person xml:id="tillich_person_id__5308">
+                  <persName>Babcock, Fern</persName>
+               </person>
+               <person xml:id="tillich_person_id__5309">
+                  <persName>Bösing, Benno</persName>
+               </person>
+               <person xml:id="tillich_person_id__5310">
+                  <persName>Usbeck, Inge</persName>
+               </person>
+               <person xml:id="tillich_person_id__5311">
+                  <persName>Gelfert, Gerhard</persName>
+               </person>
+               <person xml:id="tillich_person_id__5312">
+                  <persName>Dittmann, Walter</persName>
+                  <occupation>evangelischer Theologe und Pastor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1161151966</idno>
+               </person>
+               <person xml:id="tillich_person_id__5313">
+                  <persName>Jacobsen-Wirth, Hedda</persName>
+               </person>
+               <person xml:id="tillich_person_id__5314">
+                  <persName>Quasebart, ???</persName>
                </person>
             </listPerson>
          </div>

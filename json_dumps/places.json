@@ -10503,5 +10503,27 @@
     "latitude": "46.55170",
     "longitude": "10.50988",
     "wikidata_url": "https://www.wikidata.org/wiki/Q541545"
+  },
+  "1714": {
+    "id": 1714,
+    "order": "1088.00000000000000000000",
+    "name": "Zeist",
+    "tillich_id": "tillich_place_id__1714",
+    "geonames_url": "https://www.geonames.org/2743977/",
+    "Working Notes": "",
+    "latitude": "52.09000",
+    "longitude": "5.23333",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q10056"
+  },
+  "1715": {
+    "id": 1715,
+    "order": "1089.00000000000000000000",
+    "name": "Hamburg-Langenhorn",
+    "tillich_id": "tillich_place_id__1715",
+    "geonames_url": "https://www.geonames.org/2832561/",
+    "Working Notes": "(Hamburg-Nord Stadtteil)",
+    "latitude": "53.66667",
+    "longitude": "10.01667",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1175"
   }
 }
