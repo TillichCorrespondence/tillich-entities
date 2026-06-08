@@ -26646,6 +26646,69 @@
                   <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127249613</idno>
                </person>
+               <person xml:id="tillich_person_id__5320">
+                  <persName>Tillich, Georg</persName>
+                  <note type="bio">
+                     <p>Vetter von Paul Tillich</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5321">
+                  <persName>Tillich, Margarethe</persName>
+               </person>
+               <person xml:id="tillich_person_id__5322">
+                  <persName>Tillich, Georg (Jr.)</persName>
+                  <note type="bio">
+                     <p>Sohn von Georg Tillich (5320)</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5323">
+                  <persName>Tillich, Herbert</persName>
+                  <note type="bio">
+                     <p>Sohn von Georg Tillich (5320)</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5324">
+                  <persName>Tillich, Hermann</persName>
+                  <note type="bio">
+                     <p>Sohn von Georg Tillich (5320)</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5325">
+                  <persName>Tillich, Elisabeth</persName>
+                  <note type="bio">
+                     <p>Zweite Ehefrau von Georg Tillich (5320)</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5326">
+                  <persName>Schlüter, Elisabeth</persName>
+                  <note type="bio">
+                     <p>Schwester des Schwiegervaters v. Georg Tillich, Ehefrau des Bruders des Vaters von Friedrich Spiegelberg</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5328">
+                  <persName>Dilschneider, Otto Alexander</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1033059285</idno>
+               </person>
+               <person xml:id="tillich_person_id__5330">
+                  <persName>???, Brigitte</persName>
+               </person>
+               <person xml:id="tillich_person_id__5331">
+                  <persName>Morris, Raymond Philip</persName>
+                  <occupation>Bibliothekar</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5332">
+                  <persName>Panofsky</persName>
+               </person>
+               <person xml:id="tillich_person_id__5333">
+                  <persName>Mosse, Dr.</persName>
+               </person>
+               <person xml:id="tillich_person_id__5334">
+                  <persName>Steinrath</persName>
+                  <death>
+                     <date>vor 1.11.1949</date>
+                  </death>
+               </person>
             </listPerson>
          </div>
       </body>
