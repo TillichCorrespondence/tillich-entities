@@ -4688,7 +4688,7 @@
   "548": {
     "id": 548,
     "order": "543.00000000000000000000",
-    "name": "Danzig",
+    "name": "Danzig (Gdańsk)",
     "tillich_id": "tillich_place_id__548",
     "geonames_url": "https://sws.geonames.org/3099434/",
     "Working Notes": "Working Notes",
@@ -10525,5 +10525,16 @@
     "latitude": "53.66667",
     "longitude": "10.01667",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1175"
+  },
+  "1716": {
+    "id": 1716,
+    "order": "1090.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1716",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }

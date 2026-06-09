@@ -3252,7 +3252,7 @@
                   <idno type="geonames">https://sws.geonames.org/2927896/</idno>
                </place>
                <place xml:id="tillich_place_id__548">
-                  <placeName>Danzig</placeName>
+                  <placeName>Danzig (Gdańsk)</placeName>
                   <location type="coords">
                      <geo>54.35227 18.64912</geo>
                   </location>
@@ -6957,7 +6957,7 @@
                   <idno type="geonames">https://sws.geonames.org/2832561/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1175</idno>
                </place>
-            </listPlace>
+               </listPlace>
          </div>
       </body>
    </text>

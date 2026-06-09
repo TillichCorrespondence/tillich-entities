@@ -12458,7 +12458,7 @@
                   <birth>
                      <date>1853-05-25</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__548">Danzig</placeName>
+                        <placeName>Danzig</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -12610,21 +12610,35 @@
                <person xml:id="tillich_person_id__2152">
                   <persName>Goebel, Gerhard</persName>
                   <birth>
-                     <date>1855-03-08</date>
+                     <date>1839-12-30</date>
                      <settlement>
-                        <placeName>Billigheim (Neckar-Odenwald-Kreis)</placeName>
+                        <placeName>Altwied</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1932-10-09</date>
+                     <date>1907-11-05</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__306">München</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
+                  <occupation>Deutscher evangelischer Theologe, der als Erster Domprediger und Superintendent des reformierten Kirchenkreises in Halle (Saale) tätig war</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118717863</idno>
                </person>
                <person xml:id="tillich_person_id__2153">
-                  <persName>Hancke, ???</persName>
+                  <persName>Hanke, Johannes</persName>
+                  <birth>
+                     <date>1887-06-14</date>
+                     <settlement>
+                        <placeName>Breitscheid bei Ratingen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1958-03-27</date>
+                     <settlement>
+                        <placeName>Kreuznach</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Pfarrer in Bethel (1913-1020), dann in Ruhrort (1920-1925) und Rheydt (1925-1932), ehe er 1932 zum Vorsteher der Diakonie-Anstalten Bad Kreuznach ernannt wurde. Dort amtierte er bis 1957</occupation>
                   <note type="bio">
                      <p>Er war der Leibfux von Hans Balke.</p>
                   </note>
@@ -14582,24 +14596,21 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2376">
-                  <persName>Holzapfel, ???</persName>
+                  <persName>Holzapfel, Karl</persName>
                   <birth>
-                     <date>1849-07-14</date>
+                     <date>1861</date>
                      <settlement>
-                        <placeName>Nagold</placeName>
+                        <placeName>Elgershausen</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1919-05-29</date>
+                     <date>1934</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
+                        <placeName>Brackwede</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pastor</occupation>
+                  <occupation>Evangelischer Pfarrer, Führer der von Kassel und Großalmerode ausgehenden Erweckungsbewegung</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116971886</idno>
-                  <note type="bio">
-                     <p>Er lebte und wirkte in Norddeutschland.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2377">
                   <persName>Hukmann, ???</persName>
@@ -16250,15 +16261,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/13157969X</idno>
                   <note type="bio">
                      <p>Sie war die Tochter des phaiakischen Königs Alkinoos.</p>
-                  </note>
-               </person>
-               <person xml:id="tillich_person_id__2527">
-                  <persName>Hanke, Johannes</persName>
-                  <death>
-                     <date>1958</date>
-                  </death>
-                  <note type="bio">
-                     <p>Er war vermutlich ein Studienkollege von Paul Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2528">
@@ -18558,7 +18560,7 @@
                   <occupation>Pensionshalterin in Königsberg (Neumark)</occupation>
                </person>
                <person xml:id="tillich_person_id__2831">
-                  <persName>???, Ilse</persName>
+                  <persName>Dürselen, Ilse</persName>
                </person>
                <person xml:id="tillich_person_id__2832">
                   <persName/>
@@ -20474,7 +20476,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__3196">
-                  <persName>???, Gisela</persName>
+                  <persName>Dürselen, Gisela</persName>
                </person>
                <person xml:id="tillich_person_id__3197">
                   <persName>Burkhardt, Hanna</persName>
@@ -26708,6 +26710,22 @@
                   <death>
                      <date>vor 1.11.1949</date>
                   </death>
+               </person>
+               <person xml:id="tillich_person_id__5335">
+                  <persName>Meinhof, Ulrike</persName>
+                  <birth>
+                     <date>1934-10-07</date>
+                     <settlement>
+                        <placeName>Oldenburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1976-05-09</date>
+                     <settlement>
+                        <placeName>Stuttgart-Stammheim</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutsche Journalistin und Linksterroristin</occupation>
                </person>
             </listPerson>
          </div>
