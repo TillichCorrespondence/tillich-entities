@@ -4037,10 +4037,7 @@
                </person>
                <person xml:id="tillich_person_id__788">
                   <persName>Hanffstengel, Gottfried von</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/1146794533</idno>
-                  <note type="bio">
-                     <p>Gottfried von Hanffstengel (1852 – 1939) war Superintendent in der Hannoverschen Landeskirche. Als Sohn des Pastors von St. Pauli in Bremen wirkte er in Verden, Oppeln, Worpswede, Zeven und Bremervörde. In seinen Lebenserinnerungen „Ein Pastorenleben in Norddeutschland“ schilderte er seine Jugend, die Gemeindearbeit sowie kirchliche und familiäre Zusammenhänge zwischen Weser und Elbe. Hanffstengel entstammte einem Pfarrgeschlecht, aus dem zwischen 1716 und 1977 fünfzehn Pastoren und Superintendenten hervorgingen. Während seiner Amtszeit in Bremervörde (1895–1922) wurde 1901 eine Posaunenabteilung des Evangelischen Jünglingsvereins gegründet.</p>
-                  </note>
+                  <occupation>Evangelischer Pfarrer, Superintendent</occupation>
                </person>
                <person xml:id="tillich_person_id__789">
                   <persName>Hanna, Charles B.</persName>
@@ -8013,9 +8010,19 @@
                </person>
                <person xml:id="tillich_person_id__1707">
                   <persName>Schetelig, Wilhelm</persName>
-                  <note type="bio">
-                     <p>Wilhelm Schetelig (1885–1952) war ein Geistlicher aus Deutschland, der die Ämter eines Konsistorialrats und Propstes innehatte. Er starb in Hamburg. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
-                  </note>
+                  <birth>
+                     <date>1886-05-02</date>
+                     <settlement>
+                        <placeName>Hamburg-Hamm</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1952-10-06</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Pfarrer; ordiniert am 10. Dezember 1911 in Hamburg; ab 10. April 1911 Hilfsgeistlicher in Hamburg; ab 12. Mai 1913 Pastor in Sterley; ab 2. November 1924 Pastor in Niendorf; vom 9. Oktober 1929 - 6. Oktober 1952 Propst und Pastor in Pinneberg</occupation>
                </person>
                <person xml:id="tillich_person_id__1708">
                   <persName>Schiller, Karl</persName>
@@ -12541,7 +12548,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2143">
-                  <persName>Schüssler, ???</persName>
+                  <persName>Schüssler, Willi</persName>
                   <note type="bio">
                      <p>Er war Mitglied der Wingolfsverbindung in Berlin.</p>
                   </note>
@@ -12857,15 +12864,17 @@
                   <death>
                      <date>1938</date>
                   </death>
+                  <occupation>Oberingenieur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/14373685X</idno>
                   <note type="bio">
-                     <p>Bruder von G. v. Hanffstengel.</p>
+                     <p>Älterer Bruder Gottfried von Hanffstengels</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2182">
                   <persName>Hanffstengel, Otto von</persName>
+                  <occupation>Regierungs- und Baurat</occupation>
                   <note type="bio">
-                     <p>Bruder von G. v. Hanffstengel.</p>
+                     <p>Jüngerer Bruder Gottfried von Hanffstengels</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2183">
@@ -12898,11 +12907,20 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2188">
-                  <persName>Erdmann, ???</persName>
-                  <occupation>Professor</occupation>
-                  <note type="bio">
-                     <p>Er war Professor für Chemie an einer Berliner Hochschule.</p>
-                  </note>
+                  <persName>Erdmann, Hugo</persName>
+                  <birth>
+                     <date>1862-05-08</date>
+                     <settlement>
+                        <placeName>Preußisch Holland</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1910-06-25</date>
+                     <settlement>
+                        <placeName>Müritzsee</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Chemiker und Hochschullehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2189">
                   <persName>Scheurich, Hans</persName>
@@ -13245,9 +13263,9 @@
                   <persName>Schilling, Gerda</persName>
                </person>
                <person xml:id="tillich_person_id__2232">
-                  <persName>Hanffstengel, ???</persName>
+                  <persName>Hanffstengel, Louise von</persName>
                   <note type="bio">
-                     <p>Sie war die Mutter von G. v. Hanffstengel.</p>
+                     <p>Mutter Gottfried von Hanffstengels, gebürtige Heintze</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2233">
@@ -16313,10 +16331,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/126705798</idno>
                </person>
                <person xml:id="tillich_person_id__2536">
-                  <persName>Kürschner, ???</persName>
-                  <note type="bio">
-                     <p>Er war ein Philister.</p>
-                  </note>
+                  <persName>Kürschner, Walter</persName>
+                  <occupation>Oberlehrer an der Oberrealschule</occupation>
                </person>
                <person xml:id="tillich_person_id__2538">
                   <persName>Bartels, Johann Heinrich Christian Adolf</persName>
@@ -18136,6 +18152,18 @@
                </person>
                <person xml:id="tillich_person_id__2763">
                   <persName>Balke, Siegfried August Theodor</persName>
+                  <birth>
+                     <date>1866-05-31</date>
+                     <settlement>
+                        <placeName>Rheydt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1915-12-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__74">Bremen</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Evangelischer Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116043873</idno>
                   <note type="bio">
@@ -18444,23 +18472,23 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2806">
-                  <persName>Hanffstengel, Theodor von</persName>
+                  <persName>Hanffstengel sr., Gottfried von</persName>
                   <birth>
-                     <date>1844-04-08</date>
+                     <date>1852-01-22</date>
                      <settlement>
                         <placeName key="#tillich_place_id__74">Bremen</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1922-01-05</date>
+                     <date>1939-11-12</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__1387">Braunschweig</placeName>
+                        <placeName>Hohenhorn</placeName>
                      </settlement>
                   </death>
-                  <occupation>Theologe und Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer, Superintendent</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
                   <note type="bio">
-                     <p>Es handelt sich bei ihm vermutlich um den Vater von Gottfried von Hanffstengel.</p>
+                     <p>Vater Gottfried von Hanffstengels; Gottfried von Hanffstengel (1852 – 1939) war Superintendent in der Hannoverschen Landeskirche. Als Sohn des Pastors von St. Pauli in Bremen wirkte er in Verden, Oppeln, Worpswede, Zeven und Bremervörde. In seinen Lebenserinnerungen „Ein Pastorenleben in Norddeutschland“ schilderte er seine Jugend, die Gemeindearbeit sowie kirchliche und familiäre Zusammenhänge zwischen Weser und Elbe. Hanffstengel entstammte einem Pfarrgeschlecht, aus dem zwischen 1716 und 1977 fünfzehn Pastoren und Superintendenten hervorgingen. Während seiner Amtszeit in Bremervörde (1895–1922) wurde 1901 eine Posaunenabteilung des Evangelischen Jünglingsvereins gegründet.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2807">
@@ -19805,9 +19833,6 @@
                   <persName>Bener, Gustav</persName>
                   <occupation>Bauingenieur</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1070137324</idno>
-               </person>
-               <person xml:id="tillich_person_id__3052">
-                  <persName>???, Heini(e)</persName>
                </person>
                <person xml:id="tillich_person_id__3053">
                   <persName>(Onkel) Fritz</persName>
@@ -26726,6 +26751,15 @@
                      </settlement>
                   </death>
                   <occupation>Deutsche Journalistin und Linksterroristin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5368">
+                  <persName>Merritt, Richard A.</persName>
+               </person>
+               <person xml:id="tillich_person_id__5369">
+                  <persName>Goto, David</persName>
+               </person>
+               <person xml:id="tillich_person_id__5370">
+                  <persName>Pincus, Margarethe Wally</persName>
                </person>
             </listPerson>
          </div>
