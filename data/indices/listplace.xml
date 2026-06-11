@@ -6957,7 +6957,31 @@
                   <idno type="geonames">https://sws.geonames.org/2832561/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1175</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__1749">
+                  <placeName>Hinterzarten</placeName>
+                  <location type="coords">
+                     <geo>47.90276 8.10701</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2903889/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q515356</idno>
+               </place>
+               <place xml:id="tillich_place_id__1750">
+                  <placeName>Höchenschwand</placeName>
+                  <location type="coords">
+                     <geo>47.73333 8.16667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2903256/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q515648</idno>
+               </place>
+               <place xml:id="tillich_place_id__1751">
+                  <placeName>Tierpark Hagenbeck</placeName>
+                  <location type="coords">
+                     <geo>53.59639 9.93778</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7932052/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q502326</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>

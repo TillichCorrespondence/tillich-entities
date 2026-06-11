@@ -1613,7 +1613,19 @@
                </person>
                <person xml:id="tillich_person_id__204">
                   <persName>Bertheau, Johannes</persName>
-                  <occupation>Lehrer</occupation>
+                  <birth>
+                     <date>1883-06-09</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1916-09-10</date>
+                     <settlement>
+                        <placeName>Gefallen bei Courcelette</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Lehrer an der Gelehrtenschule des Johanneums</occupation>
                </person>
                <person xml:id="tillich_person_id__205">
                   <persName>Bertheau, Lorenz</persName>
@@ -12784,7 +12796,7 @@
                <person xml:id="tillich_person_id__2171">
                   <persName>Hanffstengel, Karl von</persName>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Jüngerer Bruder Gottfried von Hanffstengels</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2172">
@@ -12857,7 +12869,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118991787</idno>
                </person>
                <person xml:id="tillich_person_id__2181">
-                  <persName>Hanffstengel , Georg von</persName>
+                  <persName>Hanffstengel, Georg von</persName>
                   <birth>
                      <date>1874</date>
                   </birth>
@@ -12879,22 +12891,33 @@
                </person>
                <person xml:id="tillich_person_id__2183">
                   <persName>Bertheau, Hans</persName>
-                  <note type="bio">
-                     <p>Er war scheinbar der kleine Bruder von einem Mann namens Lorenz.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2184">
                   <persName>Kolfhaus, Adolf</persName>
-                  <note type="bio">
-                     <p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
+                  <birth>
+                     <date>1883-08-13</date>
+                     <settlement>
+                        <placeName>Krefeld</placeName>
+                     </settlement>
+                  </birth>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2185">
                   <persName>Meyersieck, Johannes</persName>
+                  <birth>
+                     <date>1884-11-28</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__451">Ubbedissen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1971-11-25</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__60">Bielefeld</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Pfarrer in Hiddenhausen (Oetinghausen), später (1920-1955) in Ubbedissen</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
-                  <note type="bio">
-                     <p>Er war vermutlich ein Mitstudent von Paul Tillich und stand im Kontakt mit der Wingolfsverbindung.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2187">
                   <persName>Van der Smissen, Heinrich</persName>
@@ -14226,9 +14249,19 @@
                </person>
                <person xml:id="tillich_person_id__2334">
                   <persName>Mensching, Wilhelm</persName>
+                  <birth>
+                     <date>1887-10-05</date>
+                     <settlement>
+                        <placeName>Lauenhagen</placeName>
+                     </settlement>
+                  </birth>
                   <death>
-                     <date>1933</date>
+                     <date>1964-08-25</date>
+                     <settlement>
+                        <placeName>Stadthagen</placeName>
+                     </settlement>
                   </death>
+                  <occupation>Evangelisch-lutherischer Pastor, Missionar und Friedensaktivist</occupation>
                </person>
                <person xml:id="tillich_person_id__2335">
                   <persName>Felden, Emil</persName>
@@ -14886,7 +14919,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2405">
-                  <persName>Sydow, Helene</persName>
+                  <persName>Sydow, Helene von</persName>
                   <birth>
                      <date>1881-07-28</date>
                      <settlement>
@@ -16871,7 +16904,7 @@
                   <death>
                      <date>1975-06-13</date>
                      <settlement>
-                        <placeName>Höchenschwand</placeName>
+                        <placeName key="#tillich_place_id__1750">Höchenschwand</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/110485919X</idno>
@@ -18951,7 +18984,20 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2881">
-                  <persName>Schetelig, ???</persName>
+                  <persName>Schetelig, Karl</persName>
+                  <birth>
+                     <date>1849-11-27</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__777">Glückstadt</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1920-03-20</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pastor der Martinskirche in Hamburg-Horn</occupation>
                </person>
                <person xml:id="tillich_person_id__2882">
                   <persName>Schubert, Anna Theodora Kornelia</persName>
@@ -22232,9 +22278,6 @@
                      </settlement>
                   </death>
                   <occupation>Pfarrer</occupation>
-                  <note type="bio">
-                     <p>* 17.07.1849 in Eichwerder bei Stettin. † 18.03.1912 in Bredow. Gymnasium Pyritz. Universitäten Halle, Würzburg, Berlin, Greifswald und Erlangen. Ordiniert am 26.11.1876. 1876 Hilfsprediger. 1877 Pfarrer in Königswalde, Kirchenkreis Sternberg I. 1877 Oberpfarrer in Driesen, Kirchenkreis Friedeberg. Emeritiert am 01.01.1905. 1906 Hilfsprediger. 1910 Pfarrer in Bredow bis 1912. Sein Vorgänger war Adolf Julius Müller. Sein Nachfolger war Max Karl Hermann Ziegel. Am 07.05.1910 wird ihm die Aufsicht über die Schule in Bredow übertragen. Vater: Pfarrer Friedrich Ludwig Ebers, Mutter: Marie Friederike Johanna Giebe. Ehefrau: Anna Mittendorf, verh. am 21.08.1879 in Berlin. Quelle: Evangelisches Pfarrerbuch S. 173.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__3563">
                   <persName>Supiriat, ???</persName>
@@ -22754,9 +22797,6 @@
                </person>
                <person xml:id="tillich_person_id__3712">
                   <persName/>
-               </person>
-               <person xml:id="tillich_person_id__3713">
-                  <persName>Kolfhaus, Adolf</persName>
                </person>
                <person xml:id="tillich_person_id__3714">
                   <persName>Zänker, Luise (geb. Bansa)</persName>
@@ -24774,7 +24814,7 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__4416">
-                  <persName>Ebers, ???</persName>
+                  <persName>Ebers, Georg</persName>
                </person>
                <person xml:id="tillich_person_id__4417">
                   <persName/>
@@ -26760,6 +26800,86 @@
                </person>
                <person xml:id="tillich_person_id__5370">
                   <persName>Pincus, Margarethe Wally</persName>
+                  <birth>
+                     <date>1867-10-16</date>
+                  </birth>
+                  <death>
+                     <date>1937-08-08</date>
+                  </death>
+                  <note type="bio">
+                     <p>Sie war die Mutter von Fritz Pincus.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5371">
+                  <persName>Lazarus, Oskar Lionel</persName>
+                  <note type="bio">
+                     <p>Bruder von Lily Pincus.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5372">
+                  <persName>Lazarus, Max</persName>
+                  <note type="bio">
+                     <p>Bruder von Lily Pincus.</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5373">
+                  <persName>Hanffstengel, Georg von</persName>
+                  <birth>
+                     <date>1874-12-08</date>
+                     <settlement>
+                        <placeName>Burgdorf b. Goslar</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1938-07-29</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Von 1907 bis 1909 und nach erneuter Aufnahme der Lehrtätigkeit von 1914 bis 1938 Privat-Dozent (ab 26. Januar 1922 nichtbeamteter außerordentlicher Professor) für Maschinenbaukunde, insbesondere für Transportmaschinen und Förderanlagen für Massengüter im Lehrgebiet Fördertechnik in der Abteilung III für Maschinen-Ingenieurwesen (ab 1922 Fakultät III für Maschinenwirtschaft, 1928 Fakultät III für Maschinenwesen, Fachabteilung für Maschinenbau) der Königlichen Technischen Hochschule (ab 1919 Technische Hochschule) zu Berlin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5374">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5375">
+                  <persName>Meyersieck, Franz</persName>
+                  <birth>
+                     <date>1851-08-27</date>
+                     <settlement>
+                        <placeName>Preußisch Oldendorf</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1930-08-15</date>
+                     <settlement>
+                        <placeName>Bielefeld-Bethel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Pfarrer in Ubbedissen (1883-1920)</occupation>
+                  <note type="bio">
+                     <p>Vater Johannes Meyersiecks</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5376">
+                  <persName>Meyersieck, Gertrud</persName>
+                  <birth>
+                     <date>1844-08-12</date>
+                     <settlement>
+                        <placeName>Veltheim</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1914-03-02</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__451">Ubbedissen</placeName>
+                     </settlement>
+                  </death>
+                  <note type="bio">
+                     <p>Mutter Johannes Meyersiecks, gebürtige Erfling</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5377">
+                  <persName>Schetelig, Mathilde Charlotte Friederike</persName>
                </person>
             </listPerson>
          </div>

@@ -1600,7 +1600,7 @@
     "name": "Göttingen",
     "tillich_id": "tillich_place_id__186",
     "geonames_url": "https://sws.geonames.org/2918632/",
-    "Working Notes": "Working Notes",
+    "Working Notes": "",
     "latitude": "51.53443",
     "longitude": "9.93228",
     "wikidata_url": "http://www.wikidata.org/entity/Q3033"
@@ -10536,5 +10536,38 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1749": {
+    "id": 1749,
+    "order": "1091.00000000000000000000",
+    "name": "Hinterzarten",
+    "tillich_id": "tillich_place_id__1749",
+    "geonames_url": "https://www.geonames.org/2903889/",
+    "Working Notes": "",
+    "latitude": "47.90276",
+    "longitude": "8.10701",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q515356"
+  },
+  "1750": {
+    "id": 1750,
+    "order": "1092.00000000000000000000",
+    "name": "Höchenschwand",
+    "tillich_id": "tillich_place_id__1750",
+    "geonames_url": "https://www.geonames.org/2903256/",
+    "Working Notes": "",
+    "latitude": "47.73333",
+    "longitude": "8.16667",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q515648"
+  },
+  "1751": {
+    "id": 1751,
+    "order": "1093.00000000000000000000",
+    "name": "Tierpark Hagenbeck",
+    "tillich_id": "tillich_place_id__1751",
+    "geonames_url": "https://www.geonames.org/7932052/",
+    "Working Notes": "",
+    "latitude": "53.59639",
+    "longitude": "9.93778",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q502326"
   }
 }
