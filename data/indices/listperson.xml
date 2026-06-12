@@ -1605,10 +1605,22 @@
                </person>
                <person xml:id="tillich_person_id__203">
                   <persName>Bertheau, Lorenz</persName>
-                  <occupation>Pfarrer</occupation>
+                  <birth>
+                     <date>1886-01-05</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1968-01-06</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__22">Bad Kösen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Pfarrer</occupation>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Lorenz Bertheau (5. Januar 1886 – 6. Januar 1968) war ein deutscher evangelischer Pfarrer. Er studierte Theologie und Mathematik in Halle und Tübingen und war dort im Wingolf aktiv. Nach ersten Pfarrstellen im damaligen deutschen Osten wurde er 1925 nach Deutschland ausgewiesen und wirkte anschließend bis zu seiner Emeritierung in Bad Kösen. Bertheau stellte in seiner Verkündigung konsequent christologische Inhalte in den Mittelpunkt und grenzte sich von nationalprotestantischen Strömungen ab. Während der NS-Zeit gehörte er zum Pfarrernotbund und zur Bekennenden Kirche und geriet wegen seiner Haltung zeitweise in Haft.</p>
+                     <p>Nach dem Studium wurde er Vikar in Frankfurt (Oder). Seine erste Pfarrstelle hatte er seit 1911 an der St.-Pauli-Kirche in Posen inne. Weitere Stationen als Pfarrer waren Schröttersdorf, Bromberg (unter Generalsuperintendent Paul Blau) und ab 1922 Wallstein. Nachdem er 1925 wegen seines deutschen Patriotismus aus Polen ausgewiesen wurde, arbeitete er kurze Zeit für die Berliner Missionsgesellschaft, bevor er noch im gleichen Jahr Pfarrer an der Lutherkirche in Bad Kösen wurde. Zu seinen Aufgaben gehörte hier unter anderem die geistliche Aufsicht der Landesschule Pforta. Seit 1933 war er am Kirchenkampf beteiligt. Er gehörte zum Pfarrernotbund und zur Bekennenden Kirche. 1934 wurde er Vorsitzender des Bezirksbruderrats von Naumburg. Am 16. März 1935 wurde er wegen staatsfeindlicher Haltung kurzzeitig in Schutzhaft genommen. In Bad Kösen wirkte er, bis er 1962 in den Ruhestand ging und dort 1968 verstarb</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__204">
@@ -1626,9 +1638,6 @@
                      </settlement>
                   </death>
                   <occupation>Lehrer an der Gelehrtenschule des Johanneums</occupation>
-               </person>
-               <person xml:id="tillich_person_id__205">
-                  <persName>Bertheau, Lorenz</persName>
                </person>
                <person xml:id="tillich_person_id__206">
                   <persName>Bertholet, Alfred</persName>
@@ -26836,7 +26845,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Von 1907 bis 1909 und nach erneuter Aufnahme der Lehrtätigkeit von 1914 bis 1938 Privat-Dozent (ab 26. Januar 1922 nichtbeamteter außerordentlicher Professor) für Maschinenbaukunde, insbesondere für Transportmaschinen und Förderanlagen für Massengüter im Lehrgebiet Fördertechnik in der Abteilung III für Maschinen-Ingenieurwesen (ab 1922 Fakultät III für Maschinenwirtschaft, 1928 Fakultät III für Maschinenwesen, Fachabteilung für Maschinenbau) der Königlichen Technischen Hochschule (ab 1919 Technische Hochschule) zu Berlin</occupation>
+                  <occupation>Georg von Hanffstengel (nicht zu verwechseln mit dem gleichnamigen Bruder Gottfried von Hanffstengels) war von 1907 bis 1909 und nach erneuter Aufnahme der Lehrtätigkeit von 1914 bis 1938 Privat-Dozent (ab 26. Januar 1922 nichtbeamteter außerordentlicher Professor) für Maschinenbaukunde, insbesondere für Transportmaschinen und Förderanlagen für Massengüter im Lehrgebiet Fördertechnik in der Abteilung III für Maschinen-Ingenieurwesen (ab 1922 Fakultät III für Maschinenwirtschaft, 1928 Fakultät III für Maschinenwesen, Fachabteilung für Maschinenbau) der Königlichen Technischen Hochschule (ab 1919 Technische Hochschule) zu Berlin</occupation>
                </person>
                <person xml:id="tillich_person_id__5374">
                   <persName/>
@@ -26880,6 +26889,47 @@
                </person>
                <person xml:id="tillich_person_id__5377">
                   <persName>Schetelig, Mathilde Charlotte Friederike</persName>
+               </person>
+               <person xml:id="tillich_person_id__5378">
+                  <persName>Allen, Alexander Viets Griswold</persName>
+                  <occupation>Schriftsteller, Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5379">
+                  <persName>Wolff, Werner</persName>
+                  <occupation>Psychologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5380">
+                  <persName>Glueck, Nelson</persName>
+                  <birth>
+                     <date>1900-06-04</date>
+                     <settlement>
+                        <placeName>Cincinnatti, Ohio</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1971-02-12</date>
+                     <settlement>
+                        <placeName>Cincinnatti, Ohio</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Religionswissenschaftler, Rabbiner, Archäologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119111551</idno>
+               </person>
+               <person xml:id="tillich_person_id__5381">
+                  <persName>Bertheau, Carl III.</persName>
+                  <birth>
+                     <date>1878-07-04</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1944-11-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__198">Hamburg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Lehrer an der Gelehrtenschule des Johanneums, lutherischer Theologe und Mitbegründer der Bekennenden Kirche in Hamburg</occupation>
                </person>
             </listPerson>
          </div>

@@ -6981,6 +6981,22 @@
                   <idno type="geonames">https://sws.geonames.org/7932052/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q502326</idno>
                </place>
+               <place xml:id="tillich_place_id__1752">
+                  <placeName>Rhinecliff</placeName>
+                  <location type="coords">
+                     <geo>41.91954 -73.95125</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5133746/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7320562</idno>
+               </place>
+               <place xml:id="tillich_place_id__1753">
+                  <placeName>Barrytown</placeName>
+                  <location type="coords">
+                     <geo>41.99843 -73.92402</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5108018/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4864950</idno>
+               </place>
             </listPlace>
          </div>
       </body>

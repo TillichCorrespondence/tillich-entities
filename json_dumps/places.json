@@ -10569,5 +10569,27 @@
     "latitude": "53.59639",
     "longitude": "9.93778",
     "wikidata_url": "https://www.wikidata.org/wiki/Q502326"
+  },
+  "1752": {
+    "id": 1752,
+    "order": "1094.00000000000000000000",
+    "name": "Rhinecliff",
+    "tillich_id": "tillich_place_id__1752",
+    "geonames_url": "https://www.geonames.org/5133746/",
+    "Working Notes": "",
+    "latitude": "41.91954",
+    "longitude": "-73.95125",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7320562"
+  },
+  "1753": {
+    "id": 1753,
+    "order": "1095.00000000000000000000",
+    "name": "Barrytown",
+    "tillich_id": "tillich_place_id__1753",
+    "geonames_url": "https://www.geonames.org/5108018/",
+    "Working Notes": "",
+    "latitude": "41.99843",
+    "longitude": "-73.92402",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4864950"
   }
 }
