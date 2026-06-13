@@ -26931,6 +26931,33 @@
                   </death>
                   <occupation>Lehrer an der Gelehrtenschule des Johanneums, lutherischer Theologe und Mitbegründer der Bekennenden Kirche in Hamburg</occupation>
                </person>
+               <person xml:id="tillich_person_id__5382">
+                  <persName>Miller, Samuel H.</persName>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5383">
+                  <persName>Tribble, Harold Wayland</persName>
+                  <birth>
+                     <date>1899-11-18</date>
+                  </birth>
+                  <death>
+                     <date>1986-06-17</date>
+                  </death>
+                  <occupation>Theologe, Pädogoge, Schriftsteller</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5384">
+                  <persName>Calkins, Raymond</persName>
+                  <birth>
+                     <date>1869-08-10</date>
+                  </birth>
+                  <death>
+                     <date>1967-07</date>
+                  </death>
+                  <occupation>Pfarrer</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5385">
+                  <persName>Fos, ???</persName>
+               </person>
             </listPerson>
          </div>
       </body>
