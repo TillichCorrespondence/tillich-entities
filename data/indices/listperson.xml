@@ -26958,6 +26958,72 @@
                <person xml:id="tillich_person_id__5385">
                   <persName>Fos, ???</persName>
                </person>
+               <person xml:id="tillich_person_id__5386">
+                  <persName>Mohn, Heinrich</persName>
+                  <occupation>Verleger</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117091227</idno>
+               </person>
+               <person xml:id="tillich_person_id__5387">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5388">
+                  <persName>Gebhardt, Hertha von</persName>
+                  <birth>
+                     <date>1896-02-02</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1978-07-08</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schriftstellerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116474793</idno>
+               </person>
+               <person xml:id="tillich_person_id__5389">
+                  <persName>Korn, Bertram W.</persName>
+                  <birth>
+                     <date>1918-10-06</date>
+                     <settlement>
+                        <placeName>Philadelphia</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1979</date>
+                  </death>
+                  <occupation>Historiker, Rabbi</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5390">
+                  <persName>Bettan, Israel</persName>
+                  <birth>
+                     <date>1889-01-16</date>
+                  </birth>
+                  <death>
+                     <date>1957-08-05</date>
+                  </death>
+                  <occupation>Rabbi, Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5391">
+                  <persName>Goldberg, Jeannette Miriam</persName>
+                  <occupation>Pädagogin</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5392">
+                  <persName>Hirsch, Ulrike</persName>
+                  <note type="bio">
+                     <p>Tochter von Emanuel Hirsch</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5393">
+                  <persName>Hirsch, Hans</persName>
+                  <occupation>Professor für Volkswirtschaftslehre</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/137535724</idno>
+                  <note type="bio">
+                     <p>Sohn von Emanuel Hirsch</p>
+                  </note>
+               </person>
             </listPerson>
          </div>
       </body>
