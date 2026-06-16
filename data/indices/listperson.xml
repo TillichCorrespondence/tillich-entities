@@ -3448,12 +3448,15 @@
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
-                     <date>1886</date>
+                     <date>1886-09-26</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date>1963</date>
                   </death>
-                  <occupation>Pfarrer und Heimleiter</occupation>
+                  <occupation>Evangelischer Pfarrer und Heimleiter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1162904755</idno>
                   <note type="bio">
                      <p>Alfred Fritz (1886 – 1963) war ein deutscher reformierter Pfarrer und kirchlicher Funktionsträger. Von 1904 bis 1908 studierte er Theologie in Tübingen und Halle, wo er sich mit seinem Mitstudenten Paul Tillich anfreundete und wie dieser im Wingolf engagiert war. Seit 1912 wirkte er als Pfarrer in Butterfelde; im selben Jahr heiratete er Johanna Tillich, die Schwester Paul Tillichs, die jedoch 1920 bei der Geburt des dritten Kindes verstarb. Von 1916 bis 1922 war Alfred Fritz als Missionsinspektor in Bremen tätig, anschließend von 1922 bis 1927 Pfarrer der französisch-reformierten Gemeinde in Frankfurt am Main sowie Leiter des dortigen Magdalenenstifts. Ab 1927 arbeitete er im Diakonissenhaus Teltow, wo er die Leitung des Magdalenenstifts und der Fürsorgeabteilung übernahm. In zweiter Ehe war er mit der Pastorentochter Gertrud „Trude“ Fritz, geborene Horn, verheiratet.</p>
@@ -3461,7 +3464,19 @@
                </person>
                <person xml:id="tillich_person_id__642">
                   <persName>Fritz, Gottlieb</persName>
-                  <occupation>Missionsinspektor</occupation>
+                  <birth>
+                     <date>1845-03-03</date>
+                     <settlement>
+                        <placeName>Ruit</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1907-01-25</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Missionsprediger der Basler Missionsgesellschaft</occupation>
                   <note type="bio">
                      <p>Vater von Alfred Fritz</p>
                   </note>
@@ -10361,7 +10376,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118816632</idno>
                   <note type="bio">
-                     <p>Uhde, Fritz von (22.5.1848 Wolkenburg – 25.2.1911 München) war ein deutscher Maler, der Christusdarstellungen in die Lebenswelt des 19. Jahrhunderts übertrug. Unter dem Einfluss Mihaly Munkácsys und ermutigt von Max Liebermann wandte er sich der Freilichtmalerei, dem Studium holländischer Meister sowie einer neuen Licht- und Farbtechnik zu. Seine Bilder wie Lasset die Kindlein zu mir kommen (1884), Abendmahl (1886) oder Bergpredigt (1887) erregten Aufsehen, da sie Jesus als zeitgenössischen deutschen Geistlichen unter Bauernkindern zeigten. Trotz Kontroversen erhielt er kirchliche Aufträge und wurde 1892 Mitbegründer und 1899 Präsident der Münchener Sezession. 1908 verlieh ihm die Universität Leipzig die Ehrendoktorwürde der Theologie.</p>
+                     <p>Uhde, Fritz von (geb. am 22. Mai 1848 in Wolkenburg, gest. am 25. Februar 1911 München) war ein deutscher Maler, der Christusdarstellungen in die Lebenswelt des 19. Jahrhunderts übertrug. Unter dem Einfluss Mihaly Munkácsys und ermutigt von Max Liebermann wandte er sich der Freilichtmalerei, dem Studium holländischer Meister sowie einer neuen Licht- und Farbtechnik zu. Seine Bilder wie Lasset die Kindlein zu mir kommen (1884), Abendmahl (1886) oder Bergpredigt (1887) erregten Aufsehen, da sie Jesus als zeitgenössischen deutschen Geistlichen unter Bauernkindern zeigten. Trotz Kontroversen erhielt er kirchliche Aufträge und wurde 1892 Mitbegründer und 1899 Präsident der Münchener Sezession. 1908 verlieh ihm die Universität Leipzig die Ehrendoktorwürde der Theologie.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1965">
@@ -12993,9 +13008,9 @@
                   <idno type="gnd">Keine GND-Nummer</idno>
                </person>
                <person xml:id="tillich_person_id__2197">
-                  <persName>Fritz, Immanuel</persName>
+                  <persName>Fritz, Imanuel</persName>
                   <note type="bio">
-                     <p>Er war der Bruder von Alfred Fritz.</p>
+                     <p>Älterer Bruder von Alfred Fritz</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2198">
@@ -13454,7 +13469,7 @@
                   <persName>Pfisterer, Immanuel</persName>
                </person>
                <person xml:id="tillich_person_id__2250">
-                  <persName>Grundlies , Ernst</persName>
+                  <persName>Grundlies, Ernst</persName>
                </person>
                <person xml:id="tillich_person_id__2251">
                   <persName>Zimmermann, ???</persName>
@@ -13588,9 +13603,21 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2272">
-                  <persName>Fritz, ???</persName>
+                  <persName>Harpprecht, Thusnelde</persName>
+                  <birth>
+                     <date>1878-06-04</date>
+                     <settlement>
+                        <placeName>Dachtel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1925-06-17</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__215">Holzgerlingen</placeName>
+                     </settlement>
+                  </death>
                   <note type="bio">
-                     <p>Sie war die Schwester von Alfred Fritz.</p>
+                     <p>Geborene Fritz; ältere Schwester von Alfred Fritz</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2273">
@@ -18404,7 +18431,8 @@
                   <idno type="gnd">https://d-nb.info/gnd/1164503693</idno>
                </person>
                <person xml:id="tillich_person_id__2790">
-                  <persName>Schrügle, ???</persName>
+                  <persName>Schrägle, Friedrich</persName>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__2791">
                   <persName>Klein, Linda</persName>
@@ -19169,7 +19197,10 @@
                   <persName/>
                </person>
                <person xml:id="tillich_person_id__2905">
-                  <persName>Fritz, ???</persName>
+                  <persName>Fritz, Anna</persName>
+                  <note type="bio">
+                     <p>Mutter von Alfred Fritz; geb. Denner</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2906">
                   <persName>Mezger, Paul</persName>
@@ -27022,6 +27053,53 @@
                   <idno type="gnd">https://d-nb.info/gnd/137535724</idno>
                   <note type="bio">
                      <p>Sohn von Emanuel Hirsch</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5394">
+                  <persName>Bradley, Anna</persName>
+                  <note type="bio">
+                     <p>Geborene Fritz; ältere Schwester von Alfred Fritz; wohnhaft in London</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5395">
+                  <persName>Fritz, Theophil</persName>
+                  <birth>
+                     <date>1875</date>
+                  </birth>
+                  <occupation>Praktischer Arzt</occupation>
+                  <note type="bio">
+                     <p>Älterer Bruder von Alfred Fritz</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5396">
+                  <persName>Fritz, Paul</persName>
+                  <occupation>Stadtvikar</occupation>
+                  <note type="bio">
+                     <p>Älterer Bruder von Alfred Fritz</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5398">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5399">
+                  <persName>Fritz, Richard</persName>
+                  <note type="bio">
+                     <p>Jüngerer Bruder von Alfred Fritz</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5400">
+                  <persName>Fritz, Hermann</persName>
+                  <note type="bio">
+                     <p>Jüngerer Bruder von Alfred Fritz</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5401">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5402">
+                  <persName>Fritz, Mathilde</persName>
+                  <note type="bio">
+                     <p>Jüngere Schwester von Alfred Fritz</p>
                   </note>
                </person>
             </listPerson>
