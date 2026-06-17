@@ -10591,5 +10591,49 @@
     "latitude": "41.99843",
     "longitude": "-73.92402",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4864950"
+  },
+  "1786": {
+    "id": 1786,
+    "order": "1096.00000000000000000000",
+    "name": "Gettysburg",
+    "tillich_id": "tillich_place_id__1786",
+    "geonames_url": "https://www.geonames.org/12213129/",
+    "Working Notes": "",
+    "latitude": "39.87145",
+    "longitude": "-77.21788",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q694550"
+  },
+  "1787": {
+    "id": 1787,
+    "order": "1097.00000000000000000000",
+    "name": "Sahara",
+    "tillich_id": "tillich_place_id__1787",
+    "geonames_url": "https://www.geonames.org/2212709/",
+    "Working Notes": "",
+    "latitude": "26.00000",
+    "longitude": "13.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6583"
+  },
+  "1788": {
+    "id": 1788,
+    "order": "1098.00000000000000000000",
+    "name": "Grenoble",
+    "tillich_id": "tillich_place_id__1788",
+    "geonames_url": "https://www.geonames.org/3014728/",
+    "Working Notes": "",
+    "latitude": "45.17869",
+    "longitude": "5.71479",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1289"
+  },
+  "1789": {
+    "id": 1789,
+    "order": "1099.00000000000000000000",
+    "name": "Montpellier",
+    "tillich_id": "tillich_place_id__1789",
+    "geonames_url": "https://www.geonames.org/2992166/",
+    "Working Notes": "",
+    "latitude": "43.61093",
+    "longitude": "3.87635",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6441"
   }
 }

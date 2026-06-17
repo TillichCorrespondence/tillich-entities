@@ -6997,6 +6997,38 @@
                   <idno type="geonames">https://sws.geonames.org/5108018/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4864950</idno>
                </place>
+               <place xml:id="tillich_place_id__1786">
+                  <placeName>Gettysburg</placeName>
+                  <location type="coords">
+                     <geo>39.87145 -77.21788</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/12213129/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q694550</idno>
+               </place>
+               <place xml:id="tillich_place_id__1787">
+                  <placeName>Sahara</placeName>
+                  <location type="coords">
+                     <geo>26.00000 13.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2212709/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6583</idno>
+               </place>
+               <place xml:id="tillich_place_id__1788">
+                  <placeName>Grenoble</placeName>
+                  <location type="coords">
+                     <geo>45.17869 5.71479</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3014728/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1289</idno>
+               </place>
+               <place xml:id="tillich_place_id__1789">
+                  <placeName>Montpellier</placeName>
+                  <location type="coords">
+                     <geo>43.61093 3.87635</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2992166/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6441</idno>
+               </place>
             </listPlace>
          </div>
       </body>
