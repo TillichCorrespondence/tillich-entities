@@ -10608,10 +10608,16 @@
                </person>
                <person xml:id="tillich_person_id__1982">
                   <persName>Van der Smissen, Gilbert</persName>
-                  <occupation>Pfarrer</occupation>
+                  <death>
+                     <date>1915-05-16</date>
+                     <settlement>
+                        <placeName>Gefallen bei Steenstraate</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pastor und Katechet an der deutschen St. Petri-Gemeinde in Kopenhagen; Leutnant des Reserve-Infanterie Regiments Nr. 214</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1049759400</idno>
                   <note type="bio">
-                     <p>Gilbert van der Smissen (1887 – 1915) war ein Studienkollege von Paul Tillich und Pfarrer. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                     <p>Gilbert van der Smissen war ein Studienkollege von Paul Tillich</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1983">
@@ -13234,6 +13240,13 @@
                </person>
                <person xml:id="tillich_person_id__2215">
                   <persName>Ritter, Rudolf</persName>
+                  <birth>
+                     <date>1886</date>
+                  </birth>
+                  <death>
+                     <date>1922</date>
+                  </death>
+                  <occupation>Evangelischer Pfarrer zu Willershausen</occupation>
                </person>
                <person xml:id="tillich_person_id__2216">
                   <persName>Jarcke, Wilhelm</persName>
@@ -14790,6 +14803,13 @@
                </person>
                <person xml:id="tillich_person_id__2382">
                   <persName>Heldmann, Julius</persName>
+                  <birth>
+                     <date>1887</date>
+                  </birth>
+                  <death>
+                     <date>1950</date>
+                  </death>
+                  <occupation>Pastor in Hamburg-Hamm</occupation>
                </person>
                <person xml:id="tillich_person_id__2383">
                   <persName>Frey, Emmy</persName>
@@ -16899,10 +16919,10 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2586">
-                  <persName>Werner, Liesel</persName>
+                  <persName>Werner, Elisabeth</persName>
                   <occupation>Krankenschwester</occupation>
                   <note type="bio">
-                     <p>Liesel Werner (Lebensdaten unbekannt) war die jüngere Schwester von Hannah Tillich. Sie hat als Krankenschwester gearbeitet. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                     <p>Liesel Werner, später Klahre (Lebensdaten unbekannt) war die jüngere Schwester von Hannah Tillich. Sie hat als Krankenschwester gearbeitet. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2587">
@@ -16912,7 +16932,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2588">
-                  <persName>Werner, Walter</persName>
+                  <persName>Werner, Walther</persName>
                   <note type="bio">
                      <p>Er war der jüngere Bruder von Hannah Tillich.</p>
                   </note>
@@ -18405,7 +18425,19 @@
                </person>
                <person xml:id="tillich_person_id__2771">
                   <persName>Kalweit, Paul</persName>
-                  <occupation>Evangelischer Theologe</occupation>
+                  <birth>
+                     <date>1867-02-17</date>
+                     <settlement>
+                        <placeName>Domnau (Ostpreußen)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1944-04-19</date>
+                     <settlement>
+                        <placeName>Langfuhr</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe; ordiniert am 25. Februar 1894</occupation>
                </person>
                <person xml:id="tillich_person_id__2772">
                   <persName>Farke, ???</persName>
@@ -20748,7 +20780,20 @@
                   <occupation>Pressechef der NSDAP</occupation>
                </person>
                <person xml:id="tillich_person_id__3225">
-                  <persName>Teubner</persName>
+                  <persName>Teubner, Benedictus Gotthelf</persName>
+                  <birth>
+                     <date>1784-06-16</date>
+                     <settlement>
+                        <placeName>Großkrausnigk</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1856-01-21</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Buchhändler und Verlagsgründer</occupation>
                </person>
                <person xml:id="tillich_person_id__3226">
                   <persName>Wichern, Johann Hinrich</persName>
@@ -27251,6 +27296,20 @@
                      </settlement>
                   </death>
                   <occupation>Norwegischer Pianist und Komponist der Romantik</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5478">
+                  <persName>Merian, Matthäus</persName>
+                  <occupation>Schweizer Kupferstecher und Verleger</occupation>
+                  <idno type="gnd">https://www.deutsche-biographie.de/gnd119363577.html</idno>
+               </person>
+               <person xml:id="tillich_person_id__5479">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5480">
+                  <persName>Ritter, Margarete</persName>
+               </person>
+               <person xml:id="tillich_person_id__5481">
+                  <persName>Ritter, Jürgen</persName>
                </person>
             </listPerson>
          </div>

@@ -10635,5 +10635,38 @@
     "latitude": "43.61093",
     "longitude": "3.87635",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6441"
+  },
+  "1822": {
+    "id": 1822,
+    "order": "1100.00000000000000000000",
+    "name": "Burien, USA",
+    "tillich_id": "tillich_place_id__1822",
+    "geonames_url": "https://www.geonames.org/5788516/",
+    "Working Notes": "",
+    "latitude": "47.47038",
+    "longitude": "-122.34679",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q984825"
+  },
+  "1823": {
+    "id": 1823,
+    "order": "1101.00000000000000000000",
+    "name": "Kickelhahn",
+    "tillich_id": "tillich_place_id__1823",
+    "geonames_url": "https://www.geonames.org/2891238/",
+    "Working Notes": "",
+    "latitude": "50.66544",
+    "longitude": "10.88114",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1740822"
+  },
+  "1824": {
+    "id": 1824,
+    "order": "1102.00000000000000000000",
+    "name": "Luxemburg",
+    "tillich_id": "tillich_place_id__1824",
+    "geonames_url": "https://www.geonames.org/2960313/",
+    "Working Notes": "",
+    "latitude": "49.75000",
+    "longitude": "6.16667",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q32"
   }
 }

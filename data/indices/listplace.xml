@@ -7029,6 +7029,30 @@
                   <idno type="geonames">https://sws.geonames.org/2992166/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q6441</idno>
                </place>
+               <place xml:id="tillich_place_id__1822">
+                  <placeName>Burien, USA</placeName>
+                  <location type="coords">
+                     <geo>47.47038 -122.34679</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5788516/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q984825</idno>
+               </place>
+               <place xml:id="tillich_place_id__1823">
+                  <placeName>Kickelhahn</placeName>
+                  <location type="coords">
+                     <geo>50.66544 10.88114</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2891238/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1740822</idno>
+               </place>
+               <place xml:id="tillich_place_id__1824">
+                  <placeName>Luxemburg</placeName>
+                  <location type="coords">
+                     <geo>49.75000 6.16667</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2960313/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q32</idno>
+               </place>
             </listPlace>
          </div>
       </body>
