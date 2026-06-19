@@ -87638,5 +87638,25 @@
     "place_of_death": "",
     "bio_en": "",
     "occupation_en": ""
+  },
+  "5482": {
+    "id": 5482,
+    "order": "4465.00000000000000000000",
+    "name": "Engelmann sr., Friedrich",
+    "surname": "Engelmann",
+    "forename": "Friedrich",
+    "from_to": "",
+    "occupation": "Hausvater in Mamre / Bethel",
+    "bio": "Friedrich Engelmann war zunächst Landwirt. Am 31. Januar 1879 trat er der Diakonen Gemeinschaft Nazareth zur Probe bei. Aufgenommen wurde er ein paar Monate später am 14. August 1879 und eingesegnet am 26. Juni 1881. Von Juli 1898 bis zur seinem Ruhestand im Juni 1910 war Engelmann Hausvater in Mamre. Mamre war seit 1884 eine landwirtschaftliche Station in Bethel. Ab 1890 lebten dort epilepsiekranke Männer. Als Hausvater kümmerte sich Engelmann um alle Belange des Hauses, ob organisatorisch, personell und auch in Sachen Pflege. Als Hausvater lebte er mit seiner Familie auch mit im Haus Mamre",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__5482",
+    "date_of_birth": "1848-01-05",
+    "date_of_death": "1927-03-06",
+    "working_note": "",
+    "place_of_birth": "Rötingdorf bei Werther",
+    "place_of_death": "",
+    "bio_en": "",
+    "occupation_en": ""
   }
 }

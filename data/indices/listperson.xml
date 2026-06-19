@@ -27311,6 +27311,22 @@
                <person xml:id="tillich_person_id__5481">
                   <persName>Ritter, Jürgen</persName>
                </person>
+               <person xml:id="tillich_person_id__5482">
+                  <persName>Engelmann sr., Friedrich</persName>
+                  <birth>
+                     <date>1848-01-05</date>
+                     <settlement>
+                        <placeName>Rötingdorf bei Werther</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1927-03-06</date>
+                  </death>
+                  <occupation>Hausvater in Mamre / Bethel</occupation>
+                  <note type="bio">
+                     <p>Friedrich Engelmann war zunächst Landwirt. Am 31. Januar 1879 trat er der Diakonen Gemeinschaft Nazareth zur Probe bei. Aufgenommen wurde er ein paar Monate später am 14. August 1879 und eingesegnet am 26. Juni 1881. Von Juli 1898 bis zur seinem Ruhestand im Juni 1910 war Engelmann Hausvater in Mamre. Mamre war seit 1884 eine landwirtschaftliche Station in Bethel. Ab 1890 lebten dort epilepsiekranke Männer. Als Hausvater kümmerte sich Engelmann um alle Belange des Hauses, ob organisatorisch, personell und auch in Sachen Pflege. Als Hausvater lebte er mit seiner Familie auch mit im Haus Mamre</p>
+                  </note>
+               </person>
             </listPerson>
          </div>
       </body>
