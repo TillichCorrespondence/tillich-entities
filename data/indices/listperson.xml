@@ -11677,6 +11677,7 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
+                  <occupation>Deutscher Kaiser</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118632884</idno>
                </person>
                <person xml:id="tillich_person_id__2070">
@@ -16431,7 +16432,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118596047</idno>
                </person>
                <person xml:id="tillich_person_id__2523">
-                  <persName>Odysseus, ???</persName>
+                  <persName>Odysseus</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118589385</idno>
                   <note type="bio">
                      <p>Odysseus ist ein Held in der griechischen Mythologie, Sohn des Laërtes und der Antikleia, König von Ithaka, Gemahl der Penelope und Vater des Telemachos. Im Trojanischen Krieg erlangte er durch Klugheit und List, etwa beim Bau des Trojanischen Pferdes, großen Ruhm. Homers Odyssee schildert seine zehnjährige Irrfahrt voller Gefahren auf dem Heimweg. Nach seiner Rückkehr tötete er die Freier seiner Frau und übernahm wieder die Herrschaft. Nach der Telegonie starb er durch die Hand seines Sohnes Telegonos, wobei es auch andere Varianten seines Todes gibt.</p>
@@ -21283,7 +21284,7 @@
                   <persName>Rosenstock, Paula</persName>
                </person>
                <person xml:id="tillich_person_id__3330">
-                  <persName>Laertes, ???</persName>
+                  <persName>Laertes</persName>
                </person>
                <person xml:id="tillich_person_id__3331">
                   <persName>Werner, Heinz</persName>
@@ -27430,6 +27431,15 @@
                         <placeName>Zwischen Ausacker und Husby</placeName>
                      </settlement>
                   </death>
+               </person>
+               <person xml:id="tillich_person_id__5487">
+                  <persName>Erich</persName>
+               </person>
+               <person xml:id="tillich_person_id__5488">
+                  <persName>Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__5489">
+                  <persName>Eivind</persName>
                </person>
             </listPerson>
          </div>
