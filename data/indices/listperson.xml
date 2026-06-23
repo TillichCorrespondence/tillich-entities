@@ -3448,7 +3448,7 @@
                <person xml:id="tillich_person_id__641">
                   <persName>Fritz, Alfred</persName>
                   <birth>
-                     <date>1886-06-26</date>
+                     <date>1886-09-26</date>
                      <settlement>
                         <placeName key="#tillich_place_id__420">Stuttgart</placeName>
                      </settlement>
@@ -9924,13 +9924,16 @@
                <person xml:id="tillich_person_id__1926">
                   <persName>Tillich, Oskar</persName>
                   <birth>
-                     <date>1828-03</date>
+                     <date>1828-03-01</date>
                      <settlement>
-                        <placeName>(wohl) Görlitz</placeName>
+                        <placeName>Frankfurt (Oder)</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1914</date>
+                     <date>1914-01-21</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1168631645</idno>
                   <note type="bio">
@@ -10000,7 +10003,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__1931">
-                  <persName>Tillich, Margarete</persName>
+                  <persName>Tillich, Margarethe</persName>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Margarete Karla Tillich (8. April 1888 – 25. November 1968), geboren als Margarete Karla Wever und genannt Greti, war die erste Ehefrau des evangelischen Theologen und Religionsphilosophen Paul Tillich. Die Ehe wurde im November 1921 geschieden.</p>
@@ -11407,19 +11410,25 @@
                </person>
                <person xml:id="tillich_person_id__2048">
                   <persName>Wever, Wilhelm</persName>
-                  <occupation>Domänenpächter</occupation>
+                  <occupation>Königl. Domänenpächter</occupation>
                   <note type="bio">
-                     <p>Wilhelm Wever ist der Vater von Greti Wever.</p>
+                     <p>Wilhelm Wever war der Vater von Greti Wever.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2049">
                   <persName>Wever, Mathilde</persName>
                   <note type="bio">
-                     <p>Mathilde Wever (Lebensdaten unbekannt) war die Mutter von Greti Wever. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                     <p>Mathilde Wever, geb. Hausmann (Lebensdaten unbekannt), war die Mutter von Greti Wever. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2050">
                   <persName>Wever, Wolf</persName>
+                  <death>
+                     <date>1914</date>
+                  </death>
+                  <note type="bio">
+                     <p>Wolf Wever war der Bruder Greti Wevers. Er fiel im Oktober 1914</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2051">
                   <persName>Weyer, Johannes</persName>
@@ -23991,7 +24000,7 @@
                         <placeName>Ehrwald/Tirol</placeName>
                      </settlement>
                   </death>
-                  <occupation>Deutscher Jurist und nationalliberaler Politiker</occupation>
+                  <occupation>Deutscher Jurist und nationalliberaler Politiker. Von 1899 - 1912 Oberbürgermeister von Berlin</occupation>
                   <idno type="gnd">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D116189568</idno>
                </person>
                <person xml:id="tillich_person_id__4045">
