@@ -11673,7 +11673,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118771876</idno>
                </person>
                <person xml:id="tillich_person_id__2069">
-                  <persName>Wilhelm I., Kaiser</persName>
+                  <persName>Wilhelm I.</persName>
                   <birth>
                      <date>1797-03-22</date>
                      <settlement>
@@ -26769,7 +26769,7 @@
                </person>
                <person xml:id="tillich_person_id__5194">
                   <persName>Wiechel, Hermann</persName>
-                  <occupation>Kanzleirat, Amtsgerichts-Sekretär</occupation>
+                  <occupation>Kanzleirat und Amtsgerichts-Sekretär</occupation>
                </person>
                <person xml:id="tillich_person_id__5195">
                   <persName>Wiechel, Bertha</persName>
@@ -26843,7 +26843,7 @@
                         <placeName>Dobberphul</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Kgl. preußischer Leutnant</occupation>
+                  <occupation>Königlicher preußischer Leutnant</occupation>
                   <note type="bio">
                      <p>Ältester Bruder von Eckart von Sydow</p>
                   </note>
@@ -27054,7 +27054,6 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Georg von Hanffstengel (nicht zu verwechseln mit dem gleichnamigen Bruder Gottfried von Hanffstengels) war von 1907 bis 1909 und nach erneuter Aufnahme der Lehrtätigkeit von 1914 bis 1938 Privat-Dozent (ab 26. Januar 1922 nichtbeamteter außerordentlicher Professor) für Maschinenbaukunde, insbesondere für Transportmaschinen und Förderanlagen für Massengüter im Lehrgebiet Fördertechnik in der Abteilung III für Maschinen-Ingenieurwesen (ab 1922 Fakultät III für Maschinenwirtschaft, 1928 Fakultät III für Maschinenwesen, Fachabteilung für Maschinenbau) der Königlichen Technischen Hochschule (ab 1919 Technische Hochschule) zu Berlin</occupation>
                </person>
                <person xml:id="tillich_person_id__5374">
                   <persName/>
@@ -27316,7 +27315,7 @@
                   <occupation>Bischof</occupation>
                </person>
                <person xml:id="tillich_person_id__5438">
-                  <persName>Schachlehrer (von Pincus Lily)</persName>
+                  <persName>Sprachlehrer (von Pincus Lily)</persName>
                </person>
                <person xml:id="tillich_person_id__5439">
                   <persName>Meyer, Don</persName>
@@ -27449,6 +27448,45 @@
                </person>
                <person xml:id="tillich_person_id__5489">
                   <persName>Eivind</persName>
+               </person>
+               <person xml:id="tillich_person_id__5490">
+                  <persName>Amling, Ernst</persName>
+               </person>
+               <person xml:id="tillich_person_id__5491">
+                  <persName>Jacoby, Günther</persName>
+                  <birth>
+                     <date>1881-04-21</date>
+                     <settlement>
+                        <placeName>Königsberg (Preußen)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1969-01-04</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__181">Greifswald</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher evangelischer Theologe und Philosoph</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5492">
+                  <persName>Treviranus, Gottfried</persName>
+                  <birth>
+                     <date>1891-03-20</date>
+                     <settlement>
+                        <placeName>Schieder</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1971-06-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__141">Florenz</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/121419169</idno>
+               </person>
+               <person xml:id="tillich_person_id__5493">
+                  <persName>Maumere, ???</persName>
                </person>
             </listPerson>
          </div>
