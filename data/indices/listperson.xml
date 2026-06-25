@@ -3483,9 +3483,15 @@
                </person>
                <person xml:id="tillich_person_id__643">
                   <persName>Fritz, Gertrude</persName>
+                  <birth>
+                     <date>1883</date>
+                  </birth>
+                  <death>
+                     <date>1961</date>
+                  </death>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Gertrude Fritz (1883 – 1961) war eine deutsche Sozialarbeiterin. Sie wurde als Gertrude Horn geboren und absolvierte eine Ausbildung an einer Sozialen Frauenschule. Als zweite Ehefrau von Alfred Fritz wurde sie auch unter dem Namen „Trudchen“ bekannt. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                     <p>Gertrude („Trudchen“) Fritz, geb. Horn, war eine deutsche Sozialarbeiterin. Sie absolvierte eine Ausbildung an einer Sozialen Frauenschule. Sie war die zweite Ehefrau von Alfred Fritz. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__644">
@@ -4697,9 +4703,6 @@
                </person>
                <person xml:id="tillich_person_id__932">
                   <persName>Horkheimer, Rose Christine</persName>
-               </person>
-               <person xml:id="tillich_person_id__933">
-                  <persName>Horn, Friedrich Otto</persName>
                </person>
                <person xml:id="tillich_person_id__934">
                   <persName>Horn, Gertrud</persName>
@@ -18587,7 +18590,23 @@
                   <persName>Lenchen, Tante</persName>
                </person>
                <person xml:id="tillich_person_id__2795">
-                  <persName>Pastor Horn</persName>
+                  <persName>Horn, Otto</persName>
+                  <birth>
+                     <date>1853-09-16</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1931-01-01</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__42">Berlin-Lichterfelde</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Sohn des Kanzleirats August Horn und Johanna Grolock. Ordiniert am 3. Juni 1877; 1877 Hilfsprediger, ab 1878 Pfarrer in Marquardt (Potsdam), ab 1894 Pfarrer in Heckelberg (Eberswalde), ab 1908 Pfarrer in Merzwiese (Crossen); emeritiert am 1. Oktober 1914</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2796">
                   <persName>Trotzki, Leo</persName>
@@ -27487,6 +27506,25 @@
                </person>
                <person xml:id="tillich_person_id__5493">
                   <persName>Maumere, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__5494">
+                  <persName>Röhricht, Alexander</persName>
+                  <birth>
+                     <date>1855-07-08</date>
+                     <settlement>
+                        <placeName>Kay</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1927-12-03</date>
+                     <settlement>
+                        <placeName>Frankfurt (Oder)</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Pfarrer, Lehrer und Superintendent</occupation>
+                  <note type="bio">
+                     <p>Ordiniert am 29. Oktober 1882; 1882 Pfarrer in Behlow, ab 1884 Lehrer am Rauhen Haus in Hamburg, ab 1896 Leiter des theol. Studienhauses in Bonn, ab 1904 Pfarrer in Jakobsdorf (Frankfurt), ab 1905 zugl. Superintendent ebd., ab 1913 zweiter Pfarrer an der Friedenskirche und Superintendent in Frankfurt (Oder); emeritiert am 1. April 1924</p>
+                  </note>
                </person>
             </listPerson>
          </div>
