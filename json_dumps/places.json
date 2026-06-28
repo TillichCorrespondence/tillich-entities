@@ -10668,5 +10668,27 @@
     "latitude": "49.75000",
     "longitude": "6.16667",
     "wikidata_url": "https://www.wikidata.org/wiki/Q32"
+  },
+  "1825": {
+    "id": 1825,
+    "order": "1103.00000000000000000000",
+    "name": "New Hampshire, USA",
+    "tillich_id": "tillich_place_id__1825",
+    "geonames_url": "https://www.geonames.org/5090174/",
+    "Working Notes": "",
+    "latitude": "43.66702",
+    "longitude": "-71.49980",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q759"
+  },
+  "1826": {
+    "id": 1826,
+    "order": "1104.00000000000000000000",
+    "name": "Glasgow",
+    "tillich_id": "tillich_place_id__1826",
+    "geonames_url": "https://www.geonames.org/2648579/",
+    "Working Notes": "",
+    "latitude": "55.86515",
+    "longitude": "-4.25763",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4093"
   }
 }
