@@ -10690,5 +10690,16 @@
     "latitude": "55.86515",
     "longitude": "-4.25763",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4093"
+  },
+  "1827": {
+    "id": 1827,
+    "order": "1105.00000000000000000000",
+    "name": "Berlin-Tegel",
+    "tillich_id": "tillich_place_id__1827",
+    "geonames_url": "https://www.geonames.org/2823708/",
+    "Working Notes": "",
+    "latitude": "52.57601",
+    "longitude": "13.29389",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q700055"
   }
 }

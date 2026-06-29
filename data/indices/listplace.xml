@@ -7069,6 +7069,14 @@
                   <idno type="geonames">https://sws.geonames.org/2648579/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4093</idno>
                </place>
+               <place xml:id="tillich_place_id__1827">
+                  <placeName>Berlin-Tegel</placeName>
+                  <location type="coords">
+                     <geo>52.57601 13.29389</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2823708/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q700055</idno>
+               </place>
             </listPlace>
          </div>
       </body>

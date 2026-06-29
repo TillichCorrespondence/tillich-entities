@@ -2485,7 +2485,7 @@
                   <persName>Cosel, Anna Konstanze von</persName>
                </person>
                <person xml:id="tillich_person_id__404">
-                  <persName>Couch, W.T.</persName>
+                  <persName>Couch, William Terry</persName>
                   <occupation>Director of The University of Chicago Press</occupation>
                </person>
                <person xml:id="tillich_person_id__405">
@@ -19824,6 +19824,7 @@
                </person>
                <person xml:id="tillich_person_id__2991">
                   <persName>Amos N. Wilder</persName>
+                  <occupation>Theologe und Dichter</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119167689</idno>
                   <note type="bio">
                      <p>Wilder, Amos Niven (18.9.1895 Madison, Wisconsin – 1.5.1993) war ein US-amerikanischer Dichter, Theologe und Professor. Nach Studien in Oberlin, Oxford und Yale sowie Kriegseinsätzen im Ersten Weltkrieg wurde er 1926 ordiniert. Er wirkte als Gemeindepfarrer, lehrte an der Chicago Theological Seminary, am University of Chicago und ab 1954 als Hollis Professor of Divinity an der Harvard University. Neben dichterischen Arbeiten wie Battle Retrospect (1923) veröffentlichte er theologische und literaturkritische Schriften, die Religion, Kunst und Kultur verbanden. Er war der Bruder des Schriftstellers Thornton Wilder.</p>
@@ -27008,7 +27009,7 @@
                   <persName>Mosse, Dr.</persName>
                </person>
                <person xml:id="tillich_person_id__5334">
-                  <persName>Steinrath</persName>
+                  <persName>Steinrath, Franz</persName>
                   <death>
                      <date>vor 1.11.1949</date>
                   </death>
@@ -27033,7 +27034,8 @@
                   <persName>Merritt, Richard A.</persName>
                </person>
                <person xml:id="tillich_person_id__5369">
-                  <persName>Goto, David</persName>
+                  <persName>Goto, Makoto</persName>
+                  <occupation>Übersetzer</occupation>
                </person>
                <person xml:id="tillich_person_id__5370">
                   <persName>Pincus, Margarethe Wally</persName>
@@ -27525,6 +27527,45 @@
                   <note type="bio">
                      <p>Ordiniert am 29. Oktober 1882; 1882 Pfarrer in Behlow, ab 1884 Lehrer am Rauhen Haus in Hamburg, ab 1896 Leiter des theol. Studienhauses in Bonn, ab 1904 Pfarrer in Jakobsdorf (Frankfurt), ab 1905 zugl. Superintendent ebd., ab 1913 zweiter Pfarrer an der Friedenskirche und Superintendent in Frankfurt (Oder); emeritiert am 1. April 1924</p>
                   </note>
+               </person>
+               <person xml:id="tillich_person_id__5495">
+                  <persName>Lee, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__5496">
+                  <persName>Williams, Eulalia</persName>
+               </person>
+               <person xml:id="tillich_person_id__5497">
+                  <persName>Mehl, Roger Adolphe</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1078389845</idno>
+               </person>
+               <person xml:id="tillich_person_id__5498">
+                  <persName>Cullmann, Oscar</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118522949</idno>
+               </person>
+               <person xml:id="tillich_person_id__5499">
+                  <persName>Bouman, Pieter Jan</persName>
+                  <occupation>Schriftsteller und Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115751912</idno>
+               </person>
+               <person xml:id="tillich_person_id__5500">
+                  <persName>Plessner, Helmuth</persName>
+                  <occupation>Philosoph und Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118741071</idno>
+               </person>
+               <person xml:id="tillich_person_id__5501">
+                  <persName>Löchel, Gernot</persName>
+               </person>
+               <person xml:id="tillich_person_id__5502">
+                  <persName>Ward, Mr.</persName>
+               </person>
+               <person xml:id="tillich_person_id__5503">
+                  <persName>Bennett, John Coleman</persName>
+                  <occupation>Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5504">
+                  <persName>Reuter, von</persName>
                </person>
             </listPerson>
          </div>
