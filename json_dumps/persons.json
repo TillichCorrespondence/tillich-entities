@@ -88078,5 +88078,25 @@
     "place_of_death": "",
     "bio_en": "",
     "occupation_en": ""
+  },
+  "5505": {
+    "id": 5505,
+    "order": "4488.00000000000000000000",
+    "name": "Kahn, Sigmund",
+    "surname": "",
+    "forename": "",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__5505",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": "",
+    "bio_en": "",
+    "occupation_en": ""
   }
 }
