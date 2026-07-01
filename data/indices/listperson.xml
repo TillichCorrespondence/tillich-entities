@@ -498,6 +498,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118502271</idno>
+                  <note type="bio">
+                     <p>Paul Althaus (4. Februar 1888 – 18. Mai 1966) war ein evangelischer Theologe aus Deutschland, bekannt durch seine Eschatologie, Ur-Offenbarungslehre und Schöpfungsethik sowie als Lutherforscher und Prediger. Nach dem Studium in Tübingen und Göttingen, wo er promovierte und sich 1913/14 habilitierte, diente er im Ersten Weltkrieg als Militärpfarrer. Ab 1919 war er Professor für systematische Theologie in Rostock, ab 1925 in Erlangen. Von 1927 bis 1964 stand er der Luther-Gesellschaft als Präsident vor. Umstritten ist er wegen seiner zunächst positiven Haltung zum Nationalsozialismus, seiner antisemitischen Äußerungen und seines Eintretens für einen kirchlichen Arierparagraphen. 1947 wurde er von der amerikanischen Militärregierung seines Amtes enthoben, erhielt jedoch 1948 die Lehrerlaubnis zurück und wirkte bis zu seiner Emeritierung 1957.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__43">
                   <persName>Althusius, Johannes</persName>
@@ -878,7 +881,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118650130</idno>
                   <note type="bio">
-                     <p>Aristoteles (384/383 v. Chr. in Stageira - 322 v. Chr. in Chalkis) war griechischer Philosoph und Universalgelehrter: 367–348 v. Chr. studierte und lehrte er an Platons Akademie, wirkte danach am Hof des Tyrannen Hermias von Atarneus und ab 343/342 als Erzieher Alexanders des Großen. 335 v. Chr. gründete er in Athen das Lykeion, ordnete dort Logik, Metaphysik, Naturforschung, Ethik, Politik und Rhetorik zu einem systematischen Wissenskorpus und prägte so das Fundament zahlreicher Disziplinen. Nach Alexanders Tod zwang ihn eine antimakedonische Bewegung 323 zum Rückzug nach Chalkis, wo er ein Jahr später starb.</p>
+                     <p>Aristoteles (384/383 v. Chr. – 322 v. Chr.) war ein griechischer Philosoph und Universalgelehrter. Von 367 bis 348 v. Chr. studierte und lehrte er an Platons Akademie, wirkte danach am Hof des Hermias von Atarneus und ab 343/342 als Erzieher Alexanders des Großen. 335 v. Chr. gründete er in Athen das Lykeion, wo er Logik, Metaphysik, Naturforschung, Ethik, Politik und Rhetorik zu einem systematischen Wissenskorpus ordnete und so das Fundament zahlreicher Disziplinen prägte. Nach Alexanders Tod zwang ihn eine antimakedonische Bewegung 323 zum Rückzug nach Chalkis, wo er ein Jahr später starb.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__81">
@@ -1063,7 +1066,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118505114</idno>
                   <note type="bio">
-                     <p>Augustinus (13.11.354 Thagaste – 28.4.430 Hippo Regius) wuchs als Sohn des heidnischen Patricius und der christlichen Mutter Monnica in Nordafrika auf. Nach dem Studium der Rhetorik in Karthago lebte er im Konkubinat und wandte sich, von Ciceros »Hortensius« angeregt, zunächst dem Manichäismus zu. 383 ging er nach Mailand, wo ihn Ambrosius und die neuplatonische Philosophie prägten; 386 erlebte er seine Bekehrung, 387 empfing er die Taufe. Nach der Rückkehr nach Afrika wurde er 391 Priester, 395/96 Bischof von Hippo, wo er seelsorgerlich wirkte, gegen Manichäer, Donatisten und Pelagianer stritt und eine klösterliche Lebensform verwirklichte. Mit Schriften wie den »Confessiones«, »De trinitate« und »De civitate dei« prägte er die abendländische Theologie dauerhaft und gilt als bedeutendster Kirchenvater des Westens.</p>
+                     <p>Augustinus (13. November 354 – 28. April 430) wuchs als Sohn des heidnischen Patricius und der christlichen Monnica in Nordafrika auf. Nach dem Rhetorikstudium in Karthago lebte er im Konkubinat und wandte sich, durch Ciceros Hortensius angeregt, zunächst dem Manichäismus zu. 383 ging er nach Mailand, wo ihn Ambrosius und die neuplatonische Philosophie prägten. 386 erlebte er seine Bekehrung und empfing 387 die Taufe. Zurück in Afrika wurde er 391 Priester und 395/96 Bischof von Hippo, wo er seelsorgerlich wirkte, gegen Manichäer, Donatisten und Pelagianer stritt und klösterlich lebte. Mit Werken wie den Confessiones, De trinitate und De civitate dei prägte er die abendländische Theologie nachhaltig und gilt als bedeutendster Kirchenvater des Westens.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__101">
@@ -1305,7 +1308,7 @@
                      <date>1887-01-02</date>
                   </birth>
                   <note type="bio">
-                     <p>Sein Spitzname war "Häfele"</p>
+                     <p>Friedrich Banzhaf (geb. 2. Januar 1887) trug den Spitznamen Häfele. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__132">
@@ -1503,6 +1506,10 @@
                <person xml:id="tillich_person_id__178">
                   <persName>Bendix, Ludwig</persName>
                   <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118702033</idno>
+                  <note type="bio">
+                     <p>Ludwig Bendix (28. Juni 1877 – 3. Januar 1954) wirkte als Jurist, Finanzberater und Nationalökonom in Deutschland. Nach juristischem Studium war er ab 1907 als Rechtsanwalt und ab 1923 zusätzlich als Notar in Berlin tätig und gehörte zu den Mitbegründern der Zeitschrift Die Justiz. Schon 1933 wurde er als Jude von der Anwaltsliste gestrichen und verlor sein Notariat. Es folgten mehrere Phasen der sogenannten Schutzhaft, die ihn von 1935 bis 1937 über das KZ Lichtenburg ins KZ Dachau führten. Unter der Auflage, Deutschland zu verlassen, kam er 1937 frei und übersiedelte nach Palästina, wobei seine umfangreiche juristische Bibliothek verschleudert wurde. Nach zehn Jahren wanderte er 1947 in die USA aus, wo er 1954 starb. Sein Sohn Reinhard Bendix wurde dort als Soziologe bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__179">
                   <persName>Beneke, Eduard</persName>
@@ -1544,7 +1551,7 @@
                   <persName>Berdjajew, Nikolai</persName>
                   <occupation>Russischer Philosoph</occupation>
                   <note type="bio">
-                     <p>Berdjajew, Nikolai Alexandrowitsch (18.3.1874 Obuchowo, Gouvernement Kiew – 23.3.1948 Clamart bei Paris), russischer Religionsphilosoph. Aus dem Marxismus kommend, wandte er sich unter Solowjows Einfluss dem Christentum zu. 1922 aus Sowjetrussland ausgewiesen, lebte er in Berlin und Paris, wo er Akademien gründete und die Zeitschrift „Der Weg“ herausgab. Er verstand Freiheit als „ungeschaffene“ Grundlage des Seins und den Menschen als zur „Gottmenschlichkeit“ berufen. Er gilt als christlicher Existentialist, dessen Schriften geistige Erneuerung und gesellschaftliche Umgestaltung forderten.</p>
+                     <p>Nikolai Alexandrowitsch Berdjajew (18. März 1874 – 23. März 1948) war ein russischer Religionsphilosoph. Ursprünglich vom Marxismus geprägt, fand er unter dem Einfluss Solowjows zum Christentum. 1922 aus Sowjetrussland ausgewiesen, lebte er in Berlin und Paris, wo er Akademien ins Leben rief und die Zeitschrift Der Weg herausgab. Freiheit begriff er als ungeschaffenes Fundament allen Seins und den Menschen als zur Gottmenschlichkeit bestimmt. Er gilt als christlicher Existentialist, dessen Werk geistige Erneuerung und gesellschaftlichen Wandel einforderte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__189">
@@ -1709,6 +1716,9 @@
                   </death>
                   <occupation>Dresdner Kunstsammlerin und Mäzenatin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/133509060</idno>
+                  <note type="bio">
+                     <p>Ida Bienert (29. November 1870 – 18. August 1965) betätigte sich als Kunstsammlerin und Mäzenin in Dresden. Sie war eine geborene Suckert. Aus ihrer 1888 geschlossenen Ehe mit dem Fabrikantensohn Erwin Bienert gingen fünf Kinder hervor. Bemerkenswert eigenständig für ihre Zeit, ließ sie 1906 auf eigene Kosten die erste öffentlich zugängliche Bücherei im Königreich Sachsen entstehen. Ihr Anwesen in Dresden-Plauen entwickelte sich während der 1920er Jahre zum Treffpunkt der künstlerischen Moderne. Aufstrebenden Malern half sie durch den gezielten Erwerb ihrer Arbeiten und trug auf diese Weise eine ansehnliche Sammlung zusammen. Zu ihren Gästen zählten unter anderem Klee, Dix, Kokoschka und Nolde. 1926 beauftragte sie den Maler Piet Mondrian mit der Umgestaltung eines Raumes, dessen Entwurf jedoch nie verwirklicht wurde. Aus finanzieller Bedrängnis musste sie ihre Bestände nach dem Umzug nach München kurz vor Kriegsende nach und nach abgeben.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__218">
                   <persName>Bienert, Erwin</persName>
@@ -1719,6 +1729,10 @@
                      <date>1930-12-03</date>
                   </death>
                   <occupation>Großindustrieller und Fabrikbesitzer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/135547954</idno>
+                  <note type="bio">
+                     <p>Erwin Bienert (5. November 1859 – 3. Dezember 1930) war ein Großindustrieller aus Dresden, dem die Bienert- und Hafenmühle gehörte, und trug den Titel eines Königlich Sächsischen Kommerzienrats. 1888 vermählte er sich mit Ida Suckert, mit der er fünf Kinder bekam. Er engagierte sich für die Entwicklung des Dresdner Vororts Plauen, wo er unter anderem die erste Volksbibliothek Sachsens ins Leben rief.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__219">
                   <persName>Billström, Jakob</persName>
@@ -1933,8 +1947,9 @@
                </person>
                <person xml:id="tillich_person_id__261">
                   <persName>Bosch, Hieronymus</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11851380X</idno>
                   <note type="bio">
-                     <p>Bosch, Hieronymus (Jeroen Anthoniszoon van Aken; um 1450 ’s-Hertogenbosch – 9.8.1516 ebd.), niederländischer Maler, war seit den 1480er Jahren Mitglied der Bruderschaft Unserer Lieben Frau, für die er zahlreiche Werke schuf. Seine phantastischen Bildwelten mit Monstern und Chimären, etwa im Triptychon »Garten der Lüste«, gehören zu den am kontroversesten interpretierten Kunstwerken der Frühen Neuzeit. Sie wurden als Ausdruck spätmittelalterlicher Weltverneinung, niederländischer Mystik, kirchlicher Loyalität, aber auch als Zeichen häretischer Strömungen oder als sozialkritische Bildsprache gedeutet. Boschs Werk wirkt bis heute durch seine vielschichtige Symbolik und imaginative Bildsprache nach.</p>
+                     <p>Hieronymus Bosch (um 1450 – 9. August 1516), eigentlich Jeroen Anthoniszoon van Aken, war ein niederländischer Maler. Ab den 1480er Jahren gehörte er der Bruderschaft Unserer Lieben Frau an, für die er viele Arbeiten anfertigte. Seine phantastischen Bildwelten voller Monster und Mischwesen, etwa im Triptychon Garten der Lüste, zählen zu den am unterschiedlichsten gedeuteten Kunstwerken der Frühen Neuzeit. Interpretiert wurden sie als Ausdruck spätmittelalterlicher Weltverneinung, niederländischer Mystik und kirchlicher Treue, aber auch als Hinweis auf häretische Strömungen oder als sozialkritische Bildsprache. Bis heute wirkt sein Schaffen durch seine vielschichtige Symbolik und einfallsreiche Bildwelt nach.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__262">
@@ -2359,8 +2374,9 @@
                </person>
                <person xml:id="tillich_person_id__367">
                   <persName>Cézanne, Paul</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118519964</idno>
                   <note type="bio">
-                     <p>Paul Cézanne (1839 – 1906) aus Aix-en-Provence gilt als Schlüsselfigur an der Schwelle vom Impressionismus zur Moderne. Nach abgebrochenem Jurastudium zog er 1861 nach Paris, arbeitete an der Académie Suisse mit Pissarro, Monet, Renoir und anderen Impressionisten zusammen und stellte 1874–77 mit ihnen aus, fand jedoch erst 1895 durch Ambroise Vollards Pariser Einzelausstellung breitere Anerkennung. Mit seinen konstruktiv aufgebauten Landschaften, Stillleben und Figurenbildern wurde er posthum zum „Vater der Moderne“ und prägte Wegbereiter wie Picasso und Matisse.</p>
+                     <p>Paul Cézanne (19. Januar 1839 – 22. Oktober 1906) war ein französischer Maler aus Aix-en-Provence, der als Schlüsselfigur am Übergang vom Impressionismus zur Moderne gilt. Nach abgebrochenem Jurastudium zog er 1861 nach Paris, wo er an der Académie Suisse mit Pissarro, Monet, Renoir und weiteren Impressionisten zusammenarbeitete und von 1874 bis 1877 mit ihnen ausstellte. Breitere Anerkennung fand er allerdings erst 1895 durch eine Einzelausstellung bei Ambroise Vollard. Mit seinen konstruktiv aufgebauten Landschaften, Stillleben und Figurenbildern wurde er posthum zum Vater der Moderne und beeinflusste Wegbereiter wie Picasso und Matisse.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__368">
@@ -2626,7 +2642,7 @@
                   <occupation>Politiker und Publizist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118989960</idno>
                   <note type="bio">
-                     <p>Hendrik de Man (17. November 1885 – 20. Juni 1953) war ein belgischer sozialistischer Politiker und Publizist. Nach Studien in Leipzig und anderen europäischen Städten wurde er promoviert und engagierte sich früh in der internationalen Arbeiterbewegung. In den 1920er Jahren entwickelte er eine vom Marxismus abweichende, stärker psychologisch und ethisch begründete Sozialismustheorie und lehrte zeitweise in Deutschland. In Belgien wurde er führender Politiker, entwickelte den „Plan der Arbeit“ und übernahm Ministerämter. Während des Zweiten Weltkriegs geriet er durch seine Haltung zur deutschen Besatzung in Kritik und wurde nach 1945 verurteilt. Seine späteren Schriften widmeten sich vor allem kultur- und gesellschaftspolitischen Fragen.</p>
+                     <p>Hendrik de Man (17. November 1885 – 20. Juni 1953) war ein sozialistischer Politiker und Publizist aus Belgien. Nach Studien in Leipzig und weiteren europäischen Städten wurde er promoviert und engagierte sich früh in der internationalen Arbeiterbewegung. In den 1920er Jahren entwickelte er eine vom Marxismus abweichende, stärker psychologisch und ethisch begründete Theorie des Sozialismus und lehrte zeitweise in Deutschland. In Belgien stieg er zum führenden Politiker auf, entwarf den Plan der Arbeit und bekleidete Ministerämter. Wegen seiner Haltung zur deutschen Besatzung im Zweiten Weltkrieg geriet er in die Kritik und wurde nach 1945 verurteilt. Sein Spätwerk widmete sich vor allem kultur- und gesellschaftspolitischen Fragen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__439">
@@ -2701,6 +2717,9 @@
                <person xml:id="tillich_person_id__454">
                   <persName>Dessoir, Max</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118524933</idno>
+                  <note type="bio">
+                     <p>Max Dessoir (8. Februar 1867 – 19. Juli 1947) war ein Philosoph, Mediziner und Psychologe aus Deutschland. Nach frühen Arbeiten in Medizin, Psychologie und Grenzwissenschaften, in denen er die Begriffe Haptik und Parapsychologie prägte, widmete er sich vor allem der Ästhetik und Kunstwissenschaft und gilt als Wegbereiter der empirischen Ästhetik. Nach Promotionen in Philosophie und Medizin sowie der Habilitation 1892 wurde er 1897 in Berlin außerordentlicher Professor, 1920 Ordinarius. 1906 veröffentlichte er sein Hauptwerk Ästhetik und allgemeine Kunstwissenschaft und gründete eine gleichnamige Zeitschrift. 1936 entzog man ihm als getauftem Juden die Lehrbefugnis und belegte ihn mit Publikationsverbot. Nach dem Krieg hatte er den Lehrstuhl für Philosophie in Frankfurt inne.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__455">
                   <persName>Detert, Eva</persName>
@@ -2728,7 +2747,7 @@
                <person xml:id="tillich_person_id__461">
                   <persName>Diderot, Denis</persName>
                   <note type="bio">
-                     <p>Diderot, Denis (5.10.1713 Langres – 31.7.1784 Paris). Die Weitläufigkeit seiner Themen und die erhebliche Verzögerung, mit der einige seiner Hauptschriften veröffentlicht wurden, hat das Verständnis D.s und seiner philos. Leistung bis heute erschwert. Der Publizist und Übersetzer A.A.C.Shaftesburys wurde bekannt, als er 1751 die Mitherausgeberschaft der »Encyclopédie« (Enzyklopädie, Enzyklopädisten) übernahm. Trotz seines aufklärerischen Rigorismus, der atheistische Bekenntnisse (»La promenade du sceptique«, 1747; »Lettre sur les aveugles«, 1749) durchaus einschloß, lagen ihm Vulgarismen ebenso fern wie die moralische Schärfe J.-J.Rousseaus. Seine Arbeiten vervollkommnen das charakteristische Verfahren des »dialogue philosophique«, einer mehrstimmigen Rollenprosa, die schließlich die Wahrheitsfindung dem Leser allein überträgt.</p>
+                     <p>Denis Diderot (5. Oktober 1713 – 31. Juli 1784) war ein französischer Aufklärungsphilosoph, Publizist und Übersetzer. Bekanntheit erlangte er 1751 mit der Übernahme der Mitherausgeberschaft der Encyclopédie. Als Übersetzer Shaftesburys vertrat er einen rigorosen aufklärerischen Standpunkt, der auch atheistische Bekenntnisse einschloss, wie sie etwa in seinen Schriften zur Skepsis und über die Blinden zum Ausdruck kamen. Dabei lagen ihm derbe Vulgarismen ebenso fern wie die moralische Strenge Jean-Jacques Rousseaus. In seinen Werken vervollkommnete er das Verfahren des philosophischen Dialogs, einer mehrstimmigen Rollenprosa, die das Finden der Wahrheit letztlich dem Leser selbst überlässt. Die Breite seiner Themen und die verspätete Veröffentlichung mehrerer Hauptschriften erschwerten das Verständnis seiner philosophischen Leistung bis heute.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__462">
@@ -2893,6 +2912,10 @@
                </person>
                <person xml:id="tillich_person_id__507">
                   <persName>Ebermann, Arthur</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/127485031</idno>
+                  <note type="bio">
+                     <p>Arthur Erdmann Ebermann (gest. 10. Februar 1941) amtierte von 1927 bis 1939 als Bürgermeister von Bitterfeld. Zuvor war er Stadtrat und zweiter Bürgermeister in Schönebeck an der Elbe. In seine Amtszeit fielen unter anderem die Eröffnung des Bitterfelder Lutherhauses, die Einweihung der Schule in Roitzsch, die Einrichtung einer städtischen Sportanlage sowie die Eröffnung eines Arbeitslagers. Im August 1930 richtete er in Bitterfeld den Städtetag der Provinz Sachsen und des Herzogtums Anhalt aus. Nach schwerer Erkrankung trat er im Mai 1939 in den Ruhestand und starb zwei Jahre später in seiner Heimatstadt Halle. Ihm zu Ehren wurde nach seinem Tod die Bürgermeister-Ebermann-Stiftung zu Wohlfahrtszwecken ins Leben gerufen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__508">
                   <persName>Ebersole, Mark C.</persName>
@@ -3007,10 +3030,11 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__536">
-                  <persName>Desiderius da Rotterdam, Erasmus</persName>
+                  <persName>Desiderius, Erasmus</persName>
                   <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118530666</idno>
                   <note type="bio">
-                     <p>Desiderius Erasmus von Rotterdam (27./28. Oktober 1466/69 – 12. Juli 1536) war der führende europäische Humanist seiner Zeit, der mit den „Adagia“, den „Colloquia“ und einer kritischen griechisch-lateinischen Neuedition des Neuen Testaments (1516) die philologische und theologische Erneuerung vorantrieb. Seine „Philosophia Christi“ verband klassische Bildung mit dem Ideal einer innerlichen, von Bibel und Kirchenvätern genährten Frömmigkeit und richtete sich gegen Scholastik, Korruption und Gewaltseligkeit in Kirche und Politik. Obwohl er Reformanliegen unterstützte, lehnte Erasmus eine Kirchenspaltung ab, geriet wegen seiner Schrift „De libero arbitrio“ (1524) in öffentlichen Disput mit Luther und blieb zeitlebens unabhängig von Rom und Wittenberg; sein Werk prägte Humanismus, Reformation und Aufklärung gleichermaßen.</p>
+                     <p>Erasmus von Rotterdam (1466/69 – 12. Juli 1536) galt als bedeutendster europäischer Humanist seiner Epoche. Mit den Adagia, den Colloquia sowie einer kritischen griechisch-lateinischen Neuausgabe des Neuen Testaments von 1516 trieb er die philologische und theologische Erneuerung voran. Seine Philosophia Christi verknüpfte klassische Gelehrsamkeit mit dem Leitbild einer verinnerlichten, aus Bibel und Kirchenvätern gespeisten Frömmigkeit und wandte sich gegen Scholastik, Korruption und Gewaltbereitschaft in Kirche und Politik. Zwar teilte er manche Reformanliegen, lehnte jedoch eine Spaltung der Kirche ab. Wegen seiner Schrift De libero arbitrio von 1524 geriet er in eine öffentliche Auseinandersetzung mit Luther und wahrte zeitlebens seine Unabhängigkeit von Rom wie von Wittenberg. Sein Werk prägte Humanismus, Reformation und Aufklärung gleichermaßen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__537">
@@ -3124,6 +3148,10 @@
                <person xml:id="tillich_person_id__567">
                   <persName>Fabricius, Cajus</persName>
                   <occupation>Theologe und Universitätslehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117497657</idno>
+                  <note type="bio">
+                     <p>Cajus Fabricius (16. August 1884 – 5. August 1950) war ein evangelischer Theologe und Religionswissenschaftler aus Deutschland. Er wirkte in Berlin als Professor für systematische Theologie.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__568">
                   <persName>Falk, Karl</persName>
@@ -3584,6 +3612,10 @@
                </person>
                <person xml:id="tillich_person_id__664">
                   <persName>Gelb, Adhémar</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/139471618</idno>
+                  <note type="bio">
+                     <p>Adhémar Gelb (18. November 1887 – 7. August 1936) war ein Psychologe aus Deutschland. In Moskau geboren, studierte er Philosophie und promovierte 1910 bei Carl Stumpf in Berlin. Ab 1915 erforschte er gemeinsam mit Kurt Goldstein hirnverletzte Soldaten. Nach der Habilitation 1919 wurde er in Frankfurt Professor und Mitdirektor des Psychologischen Instituts, 1931 wechselte er nach Halle. Nach der Machtübernahme der Nationalsozialisten wurde er aus rassistischen Gründen entlassen und emigrierte in die Niederlande. International anerkannt ist seine experimentell fundierte Analyse von Wahrnehmungs-, Sprach- und Erkenntnisstörungen nach Hirnverletzungen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__665">
                   <persName>Gensichen, Hans Eberhard</persName>
@@ -3746,7 +3778,7 @@
                   <persName>Gogarten, Friedrich</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118540394</idno>
                   <note type="bio">
-                     <p>Systematischer Theologe</p>
+                     <p>Friedrich Gogarten (13. Januar 1887 – 16. Oktober 1967) war ein lutherischer Theologe aus Deutschland und Mitbegründer der Dialektischen Theologie. Nach dem Studium bei Adolf von Harnack und Ernst Troeltsch wirkte er ab 1914 als Geistlicher, habilitierte sich 1927 in Jena und übernahm 1931 den Lehrstuhl für Systematische Theologie in Breslau. 1935 wurde er ordentlicher Professor in Göttingen, wo er bis zu seiner Emeritierung 1955 lehrte. 1933 schloss er sich vorübergehend den Deutschen Christen an, distanzierte sich jedoch nach deren Forderung, die Judenchristen auszuschließen, von der Bewegung.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__695">
@@ -3761,8 +3793,9 @@
                <person xml:id="tillich_person_id__697">
                   <persName>Goldstein, Kurt</persName>
                   <occupation>Deutsch-amerikanischer Neurologe und Psychiater</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/122194292</idno>
                   <note type="bio">
-                     <p>Kurt Goldstein studierte bis 1903 Medizin in Breslau und Heidelberg, wo er promoviert wurde. Nach dem Studium arbeitete er zunächst als klinischer Assistent am Neurologischen Institut Frankfurt/Main sowie in der psychiatrischen Klinik der Universität Heidelberg, bevor er 1906-1914 an die psychiatrischen Klinik Königsberg wechselte, an der dortigen Universität als Privatdozent tätig war und sich schließlich auch habilitierte. Bereits 1905 hatte er Ida Zuckermann geheiratet, mit der er drei Töchter hatte. 1916-1930 arbeitete er an der Universität Frankfurt/Main und als Direktor des Neurologischen Instituts. 1930 wechselte er nach Berlin, wo er bis 1933 blieb. Nach kurzer SA-Haft konnte G. 1933 zuerst nach Amsterdam und 1934 weiter in die USA emigrieren. Im selben Jahr ließ es sich von seiner ersten Frau Ida scheiden und heiratete kurz darauf die Neuropsychiaterin Eva Rothmann. In den USA lehrte und arbeitete er bis 1940 an diversen New Yorker Hochschulen (u.a. Columbia) bzw. Kliniken und war anschließend 1940-1945 an der School of Medicine der Tufts University, Massachusetts, beschäftigt. Nach dem Krieg hatte es bis zu seinem Tod eine Privatpraxis in New York und hatte währenddessen diverse Gastprofessuren (u.a. City College, New School, Brandeis Univ.) inne.</p>
+                     <p>Kurt Goldstein (6. November 1878 – 19. September 1965) war ein Neurologe und Psychiater aus Deutschland. Nach dem Medizinstudium in Breslau und Heidelberg arbeitete er als klinischer Assistent in Frankfurt und Heidelberg, bevor er 1906 nach Königsberg wechselte, wo er als Privatdozent lehrte und sich habilitierte. Von 1916 bis 1930 wirkte er in Frankfurt als Direktor des Neurologischen Instituts, danach in Berlin. Nach kurzer SA-Haft emigrierte er 1933 über Amsterdam in die USA. Dort lehrte er an mehreren New Yorker Hochschulen sowie an der Tufts University und führte nach dem Krieg bis zu seinem Tod eine Privatpraxis in New York.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__698">
@@ -4331,6 +4364,10 @@
                </person>
                <person xml:id="tillich_person_id__844">
                   <persName>Heiler, Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118547836</idno>
+                  <note type="bio">
+                     <p>Friedrich Heiler (30. Januar 1892 – 18. April 1967) trug als Forscher aus Deutschland entscheidend dazu bei, die Religionswissenschaft als eigenständige Disziplin zu verankern. Aus römisch-katholischem Elternhaus stammend, promovierte er 1917 in München mit einer Untersuchung über Gebetsformen verschiedener Religionen und habilitierte sich ein Jahr darauf. Die Begegnung mit Nathan Söderblom 1919 lenkte ihn auf die christliche Ökumene, der er sich fortan widmete. In der NS-Zeit wurde er, da er den Arierparagraphen nicht unterzeichnen wollte, an die Universität Marburg zwangsversetzt, wo ihn sein Freund Rudolf Otto als Religionswissenschaftler einsetzte. Er gehörte zu den Anregern der Hochkirchlichen Bewegung, gründete mehrere Bruderschaften und war Mitbegründer der Una-Sancta-Bewegung. Sein Lebenswerk galt der Einheit der Kirche und der Idee einer Verständigung der Religionen. Als Hauptwerk gilt Erscheinungsformen und Wesen der Religion.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__845">
                   <persName>Heim, Karl</persName>
@@ -4368,6 +4405,10 @@
                <person xml:id="tillich_person_id__853">
                   <persName>Heinzelmann, Gerhard</persName>
                   <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/143148354</idno>
+                  <note type="bio">
+                     <p>Gerhard Otto Heinzelmann (10. Juni 1884 – 21. Dezember 1951) war ein evangelischer Theologe, Hochschullehrer und Rektor der Universität Basel. Nach Studien der Theologie in Tübingen, Halle und Berlin schloss er sich in mehreren dieser Städte den Wingolfsverbindungen an. 1910 erhielt er die theologische Lizentiatur und habilitierte sich für Neues Testament. 1914 wurde er außerordentlicher Professor in Basel, 1918 ordentlicher Professor und 1927 zum Rektor gewählt. Ab 1929 hatte er bis zu seinem Tod den Lehrstuhl für Dogmatik und Neues Testament an der Universität Halle inne. Während des Ersten Weltkriegs diente er zeitweise als Krankenpfleger und Lazarettpfarrer. In der NS-Zeit war er förderndes Mitglied der SS. Nach Kriegsende trat er 1946 der CDU bei.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__854">
                   <persName>Heisenberg, Werner</persName>
@@ -4382,6 +4423,10 @@
                <person xml:id="tillich_person_id__856">
                   <persName>Heller, Hermann</persName>
                   <occupation>Jurist und Staatsrechtslehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118548867</idno>
+                  <note type="bio">
+                     <p>Hermann Ignatz Heller (17. Juli 1891 – 5. November 1933) war ein Jurist und Staatsrechtler jüdischer Herkunft aus Deutschland. Nach Studium und Promotion 1915 in Graz habilitierte er sich 1919 in Kiel und engagierte sich in der Erwachsenenbildung. Als überzeugter Anhänger der Republik trat er 1920 in die SPD ein und lehrte in Kiel, Leipzig, Berlin und ab 1932 in Frankfurt. 1930 prägte er den Begriff des sozialen Rechtsstaats. 1933 emigrierte er nach Madrid, wo er noch im selben Jahr starb. Als sein Hauptwerk gilt die postum erschienene Staatslehre.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__857">
                   <persName>Hellstroem, Ivar</persName>
@@ -4511,6 +4556,9 @@
                   </death>
                   <occupation>Deutscher Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118549995</idno>
+                  <note type="bio">
+                     <p>Wilhelm Herrmann (6. Dezember 1846 – 2. Januar 1922) war ein evangelischer Theologe aus Deutschland. Nach dem Theologiestudium in Halle und der Habilitation 1875 lehrte er zunächst als Privatdozent, bis er 1879 als ordentlicher Professor für systematische Theologie nach Marburg berufen wurde, wo er bis zu seinem Lebensende blieb und mehrfach als Dekan und 1890 als Rektor wirkte. Als eigenständigster Schüler Albrecht Ritschls entwickelte er dessen Theologie selbstständig weiter und prägte bedeutende Theologen wie Karl Barth und Rudolf Bultmann.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__891">
                   <persName>Hertel, Karin</persName>
@@ -4668,6 +4716,9 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
+                  <note type="bio">
+                     <p>Karl Holl (15. Mai 1866 – 23. Mai 1926) war ein evangelischer Kirchenhistoriker aus Deutschland. 1900 wurde er außerordentlicher Professor für Kirchen- und Dogmengeschichte in Tübingen, bevor er ab 1906 als zweiter Ordinarius für Kirchengeschichte an der Berliner Universität lehrte. Sein bedeutendster Schüler war Emanuel Hirsch, der ihn umgekehrt als seinen wichtigsten Lehrer betrachtete.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__924">
                   <persName>Holldack, Felix</persName>
@@ -4734,7 +4785,7 @@
                <person xml:id="tillich_person_id__943">
                   <persName>Hume, David</persName>
                   <note type="bio">
-                     <p>Hume, David (26.4.1711 Edinburgh – 25.8.1776 ebd.). Jugend in Schottland. Erwarb sich im Selbststudium eigentliche lit. und philos. Bildung. Mehrjähriger Aufenthalt in Frankreich, wo er sein philos. Hauptwerk, den »Treatise of Human Nature« (1739/40) vf. Es folgten Tätigkeiten als Hauslehrer und Privatsekretär. Zugleich arbeitete H. an weiteren Werken, darunter »Philosophical Essays Concerning Human Understanding« (1748; ab 1756 unter dem Titel: »An Enquiry Concerning Human Understanding«), »An Enquiry Concerning the Principles of Morals« (1751) sowie verschiedene Sammlungen von »Essays, Moral, Political and Literary« (erschienen ab 1741). Eine Anstellung als Bibliothekar in Edinburgh erlaubte H. die Abfassung seiner »History of England« (1754–1762). Von 1763 bis 1765 war er Botschaftssekretär in Paris, von 1767 bis 1769 Unterstaatssekretär im Außenministerium. Von 1769 bis zu seinem Tode lebte H. in Edinburgh. – Folgende Texte H.s sind religionsphilos. von bes. Interesse: Of the Immateriality of the Soul (Treatise I; IV; V), Of Miracles, Of a Particular Providence and a Future State (Enquiry Concerning Human Understanding X; XI), The Natural History of Religion (1757), Of Suicide, Of the Immortality of the Soul (1777), Dialogues Concerning Natural Religion (1779).</p>
+                     <p>David Hume (26. April 1711 – 25. August 1776) war ein schottischer Philosoph. Seine Bildung erwarb er sich weitgehend im Selbststudium. Während eines Aufenthalts in Frankreich verfasste er sein Hauptwerk, den Treatise of Human Nature, dem weitere Schriften wie die Enquiry Concerning Human Understanding und die Enquiry Concerning the Principles of Morals folgten. Als Bibliothekar in Edinburgh schrieb er seine History of England, später wirkte er als Botschaftssekretär in Paris und als Unterstaatssekretär. Von besonderem religionsphilosophischem Interesse sind seine Schriften über Wunder, die Unsterblichkeit der Seele und die Dialogues Concerning Natural Religion.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__944">
@@ -4759,6 +4810,10 @@
                </person>
                <person xml:id="tillich_person_id__946">
                   <persName>Husserl, Edmund</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118555006</idno>
+                  <note type="bio">
+                     <p>Edmund Husserl (8. April 1859 – 27. April 1938) war ein österreichisch-deutscher Philosoph und Mathematiker und gilt als Begründer der Phänomenologie. Nach einem Studium mehrerer Fächer promovierte er 1883 in Mathematik und wandte sich dann unter Franz Brentano und Carl Stumpf der Philosophie zu. Ab 1887 lehrte er in Halle, später in Göttingen und schließlich als Professor in Freiburg, wo er 1928 emeritiert wurde. Mit seinen Logischen Untersuchungen kritisierte er den Psychologismus und entwickelte um 1907 die Methode der phänomenologischen Reduktion. Sein Denken prägte zahlreiche bedeutende Philosophen, darunter Heidegger, Edith Stein und Sartre.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__947">
                   <persName>Hutcheson, Francis</persName>
@@ -4890,9 +4945,10 @@
                   <persName>Jesaja</persName>
                </person>
                <person xml:id="tillich_person_id__981">
-                  <persName>Jesus</persName>
+                  <persName>Jesus von Nazaret</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118557513</idno>
                   <note type="bio">
-                     <p>Jesus von Nazaret (ca. 4 v. Chr.–30/33 n. Chr.) war ein jüdischer Wanderprediger aus Galiläa, der durch Lehren über Liebe, Umkehr, Gerechtigkeit und dem nahenden Reich Gottes rasch Anhänger gewann. Nach neutestamentlicher Überlieferung zog er mit zwölf Jüngern durch Judäa und Galiläa, wirkte Heilungen und provozierte religiöse Autoritäten mit seiner unkonventionellen Auslegung der Tora. Unter dem römischen Präfekten Pontius Pilatus wurde er in Jerusalem wegen Aufruhrverdachts gekreuzigt; seine Jünger verkündeten anschließend seine Auferstehung, woraus das frühe Christentum hervorging. Bis heute prägt seine Gestalt Theologie, Kultur und Geschichte als Messias des Christentums und bedeutender Prophet im Islam.</p>
+                     <p>Jesus von Nazaret (Anfang des 1. Jhdts.) war ein Wanderprediger und Lehrer aus Galiläa, der mit seiner Verkündigung von Liebe, Umkehr, Gerechtigkeit und dem bevorstehenden Reich Gottes schnell Anhänger fand. Den neutestamentlichen Berichten zufolge durchwanderte er mit zwölf Jüngern Judäa und Galiläa, vollbrachte Heilungen und reizte die religiösen Autoritäten durch seine unkonventionelle Deutung der Tora. Unter dem römischen Präfekten Pontius Pilatus wurde er in Jerusalem unter dem Verdacht des Aufruhrs gekreuzigt. Seine Anhänger verkündeten daraufhin seine Auferstehung, woraus das frühe Christentum entstand. Seine Gestalt prägt bis heute Theologie, Kultur und Geschichte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__982">
@@ -4981,7 +5037,7 @@
                <person xml:id="tillich_person_id__1006">
                   <persName>Jung, Carl Gustav</persName>
                   <note type="bio">
-                     <p>Jung, Carl Gustav (26.7.1875 Kesswil am Bodensee, Kanton Thurgau – 6.6.1961 Küsnacht bei Zürich) war Psychiater und Begründer der Analytischen Psychologie. Zunächst enger Mitarbeiter Freuds und 1911 Präsident der Internationalen Psychoanalytischen Vereinigung, trennte er sich 1913 von der Psychoanalyse und entwickelte in einer Phase intensiver Selbstbefragung seinen Begriff der Individuation, wonach der Mensch das Unbewusste in das Bewusstsein integrieren muß, um psychisch gesund zu bleiben. Jung begründete danach eine eigene tiefenpsychologische Lehre, in deren Zentrum die Theorie des kollektiven Unbewussten und seiner archetypischen Symbolik steht, die er in Träumen, Religionen und Mythen nachwies. Seit 1935 wirkte er als Titularprofessor in Zürich und wurde zu einem der einflußreichsten Vertreter der modernen Psychologie.</p>
+                     <p>Carl Gustav Jung (26. Juli 1875 – 6. Juni 1961) war ein Psychiater und Begründer der Analytischen Psychologie. Zunächst enger Mitarbeiter Freuds und 1911 Präsident der Internationalen Psychoanalytischen Vereinigung, löste er sich 1913 von der Psychoanalyse und entwickelte in einer Phase intensiver Selbstbefragung den Begriff der Individuation, demzufolge der Mensch das Unbewusste ins Bewusstsein integrieren muss, um seelisch gesund zu bleiben. In der Folge schuf er eine eigene tiefenpsychologische Lehre, deren Kern die Theorie des kollektiven Unbewussten und seiner archetypischen Symbolik bildet, die er in Träumen, Religionen und Mythen aufzeigte. Ab 1935 wirkte er als Titularprofessor in Zürich und wurde zu einem der einflussreichsten Vertreter der modernen Psychologie.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1007">
@@ -4990,7 +5046,7 @@
                <person xml:id="tillich_person_id__1008">
                   <persName>Kafka, Franz</persName>
                   <note type="bio">
-                     <p>Kafka, Franz (3.7.1883 Prag – 3.6.1924 Kierling bei Wien) wuchs als Sohn jüdischer Eltern in Prag auf und studierte Jura an der Karls-Universität. Neben seiner Tätigkeit in der Arbeiter-Unfall-Versicherungs-Anstalt begann er unter dem Einfluß Max Brods literarisch zu publizieren. Seit 1912 entstanden mit »Das Urteil«, »Die Verwandlung« und den Romanentwürfen »Der Verschollene«, »Der Process« und »Das Schloss« die prägenden Werke seines Schaffens, die innerfamiliäre Herrschaft und existentielle Bedrohung zum Thema machen. Kafkas Leben war von schwierigen persönlichen Beziehungen und von Krankheit überschattet; 1924 starb er an Tuberkulose. Durch die editorische Arbeit Brods wurde er postum zu einem der einflußreichsten Autoren des 20. Jahrhunderts, dessen Werk die Weltliteratur nachhaltig geprägt hat und das Adjektiv »kafkaesk« hervorgebracht hat.</p>
+                     <p>Franz Kafka (3. Juli 1883 – 3. Juni 1924) wuchs als Sohn jüdischer Eltern in Prag auf und studierte dort Jura. Neben seiner Anstellung bei einer Arbeiter-Unfall-Versicherungs-Anstalt begann er unter dem Einfluss Max Brods literarisch zu veröffentlichen. Ab 1912 entstanden mit Das Urteil, Die Verwandlung sowie den Romanentwürfen Der Verschollene, Der Process und Das Schloss seine prägenden Werke, die innerfamiliäre Herrschaft und existenzielle Bedrohung zum Thema haben. Sein Leben war von schwierigen persönlichen Beziehungen und Krankheit überschattet. 1924 starb er an Tuberkulose. Durch die editorische Arbeit Brods wurde er postum zu einem der einflussreichsten Autoren des 20. Jahrhunderts, dessen Werk das Adjektiv kafkaesk hervorbrachte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1009">
@@ -5165,8 +5221,9 @@
                </person>
                <person xml:id="tillich_person_id__1042">
                   <persName>Kepler, Johannes</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118561448</idno>
                   <note type="bio">
-                     <p>Kepler, Johannes (27.12.1571 Weil der Stadt – 15.11.1630 Regensburg) war Astronom, Philosoph und Naturtheologe sowie einer der bedeutendsten Vertreter des Kopernikanischen Systems. Nach einem Theologiestudium in Tübingen wurde er 1594 Mathematiklehrer in Graz und veröffentlichte 1596 das »Mysterium cosmographicum«, in dem er die Planetenbahnen durch platonische Körper erklärte. Ab 1600 arbeitete er in Prag bei Tycho Brahe, dessen Nachfolger er wurde, und entdeckte aus dessen Beobachtungen die ersten beiden Keplerschen Gesetze, später im »Harmonice mundi« (1619) das dritte Gesetz der Planetenbewegung. Kepler sah darin den Ausdruck göttlicher Harmonie. Religiöse Differenzen führten zu Konflikten mit allen Konfessionen und 1626 zur Ausweisung aus Österreich; seit 1628 stand er in Wallensteins Diensten. Kepler gilt als einer der Begründer der modernen Naturwissenschaft.</p>
+                     <p>Johannes Kepler (27. Dezember 1571 – 15. November 1630) war ein Astronom, Philosoph und Naturtheologe und zählt zu den bedeutendsten Verfechtern des kopernikanischen Weltbilds. Nach einem Theologiestudium in Tübingen wurde er 1594 Mathematiklehrer in Graz und legte 1596 mit dem Mysterium cosmographicum eine Deutung der Planetenbahnen durch platonische Körper vor. Ab 1600 arbeitete er in Prag bei Tycho Brahe, dessen Nachfolge er antrat, und leitete aus dessen Beobachtungen die ersten beiden nach ihm benannten Gesetze ab. Das dritte Gesetz der Planetenbewegung formulierte er später im Harmonice mundi von 1619, worin er einen Ausdruck göttlicher Harmonie erkannte. Konfessionelle Differenzen brachten ihn in Konflikt mit allen Kirchen und führten 1626 zu seiner Vertreibung aus Österreich. Ab 1628 stand er in Wallensteins Diensten. Kepler gilt als einer der Begründer der modernen Naturwissenschaft.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1043">
@@ -5194,8 +5251,9 @@
                </person>
                <person xml:id="tillich_person_id__1049">
                   <persName>Kierkegaard, Sören</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118562002</idno>
                   <note type="bio">
-                     <p>Kierkegaard, Søren Aabye (5.5.1813 Kopenhagen – 11.11.1855 ebd.) war dänischer Theologe, Philosoph und Schriftsteller. Geprägt von der strengen Religiosität seines Vaters studierte er Theologie in Kopenhagen, löste 1841 seine Verlobung mit Regine Olsen und veröffentlichte 1843 mit »Entweder – Oder« sein erstes großes Werk. Unter zahlreichen Pseudonymen verband er ästhetische, psychologische und religiöse Reflexionen, während er in Reden und Schriften unter eigenem Namen den christlichen Anspruch radikalisierte. Werke wie »Der Begriff Angst«, »Die Krankheit zum Tode« und »Einübung im Christentum« entfalteten seine Existenzphilosophie, die den Einzelnen vor Gott in den Mittelpunkt stellt. In heftiger Polemik gegen die dänische Staatskirche führte er bis zu seinem Tod einen »Angriff auf die Christenheit«. Kierkegaard wurde postum zum einflussreichen Begründer der Existenzphilosophie und -theologie.</p>
+                     <p>Søren Aabye Kierkegaard (5. Mai 1813 – 11. November 1855) war ein dänischer Theologe, Philosoph und Schriftsteller. Geprägt von der strengen Frömmigkeit seines Vaters, studierte er Theologie in Kopenhagen, löste 1841 seine Verlobung mit Regine Olsen und legte 1843 mit Entweder – Oder sein erstes großes Werk vor. Unter zahlreichen Pseudonymen verband er ästhetische, psychologische und religiöse Betrachtungen, während er unter eigenem Namen den christlichen Anspruch radikalisierte. In Werken wie Der Begriff Angst, Die Krankheit zum Tode und Einübung im Christentum entfaltete er seine Existenzphilosophie, die den einzelnen Menschen vor Gott in den Mittelpunkt stellt. Bis zu seinem Tod führte er in heftiger Polemik einen Angriff auf die dänische Staatskirche. Postum wurde er zum einflussreichen Begründer von Existenzphilosophie und -theologie.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1050">
@@ -5502,6 +5560,10 @@
                <person xml:id="tillich_person_id__1122">
                   <persName>Lahusen, Friedrich</persName>
                   <occupation>Generalsuperintendent in Bremen</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116681551</idno>
+                  <note type="bio">
+                     <p>Friedrich Lahusen (1851–1927) war ein evangelischer Theologe und Generalsuperintendent aus Deutschland, geboren in Bremen. Er wirkte unter anderem in Berlin, Rom, Mettmann und Hamm. Sein Sohn war Hermann Lahusen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1123">
                   <persName>Lambert, Johann Heinrich</persName>
@@ -5692,8 +5754,9 @@
                </person>
                <person xml:id="tillich_person_id__1167">
                   <persName>Leonardo da Vinci</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118640445</idno>
                   <note type="bio">
-                     <p>Leonardo da Vinci (15.4.1452 Vinci – 2.5.1519 Amboise) war Maler, Ingenieur und Universalgelehrter der italienischen Renaissance. Als Schüler Verrocchios in Florenz begann er mit Werken wie der unvollendeten »Anbetung der Könige«, bevor er 1482 in Mailand in den Dienst Ludovico Sforzas trat und dort u. a. die »Felsgrottenmadonna« und das »Abendmahl« schuf. Nach dem Sturz der Sforza arbeitete er in Florenz, wo die »Mona Lisa« und Entwürfe zur »Schlacht bei Anghiari« entstanden, später erneut in Mailand, in Rom und ab 1516 am Hof Franz’ I. in Frankreich. Neben seinen Gemälden hinterließ Leonardo umfangreiche theoretische, naturwissenschaftliche und technische Studien und gilt als Inbegriff des Renaissance-Genies.</p>
+                     <p>Leonardo da Vinci (15. April 1452 – 2. Mai 1519) war ein Maler, Ingenieur und Universalgelehrter der italienischen Renaissance. Seine Ausbildung erhielt er bei Verrocchio in Florenz, wo erste Arbeiten wie die unvollendete Anbetung der Könige entstanden. 1482 trat er in Mailand in die Dienste Ludovico Sforzas und schuf dort unter anderem die Felsgrottenmadonna und das Abendmahl. Nach dem Sturz der Sforza wirkte er erneut in Florenz, wo die Mona Lisa sowie Entwürfe zur Schlacht bei Anghiari hervorgingen, später abermals in Mailand, in Rom und ab 1516 am Hof Franz’ I. in Frankreich. Neben seinen Gemälden hinterließ er umfangreiche theoretische, naturwissenschaftliche und technische Studien und verkörpert bis heute das Ideal des Renaissance-Genies.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1168">
@@ -5738,6 +5801,8 @@
                </person>
                <person xml:id="tillich_person_id__1178">
                   <persName>Liebert, Arthur</persName>
+                  <occupation>Arthur Liebert (10. November 1878 – 5. November 1946), auch Arthur Levy genannt, war ein Philosoph und Kulturwissenschaftler aus Deutschland, der aus einer jüdischen Familie stammte und 1905 zum Protestantismus übertrat. Nach der Promotion 1907 über Giovanni Pico della Mirandola übernahm er 1910 die Geschäftsführung der Kant-Gesellschaft, in deren Berliner Sektion er ab 1919 wiederholt dem Theologen Paul Tillich begegnete. Von 1919 an hielt er Vorlesungen an der Berliner Handelshochschule und lehrte ab 1925 zugleich als außerordentlicher Professor an der dortigen Universität. In der NS-Zeit emigrierte er nach Jugoslawien und Großbritannien und kehrte später nach Deutschland zurück.</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116996579</idno>
                   <note type="bio">
                      <p>Der Philosoph Arthur Liebert, ursprünglich Levy (1878–1946), der aus einer jüdischen Familie stammend 1905 zum protestantischen Christentum konvertiert war, wurde 1907 bei Friedrich Paulsen und Alois Riehl mit einer Arbeit über Giovanni Pico della Mirandola promoviert. 1910 wurde er Geschäftsführer der Kant-Gesellschaft, in deren Berliner Sektion er seit 1919 immer wieder Paul Tillich begegnete. Seit 1919 hielt er philosophische Vorlesungen an der Handelshochschule Berlin und seit 1925 lehrte er zugleich als außerordentlicher Professor an der Friedrich-Wilhelms-Universität der Reichshauptstadt.</p>
                   </note>
@@ -6543,7 +6608,7 @@
                <person xml:id="tillich_person_id__1355">
                   <persName>Mozart, Wolfgang Amadeus</persName>
                   <note type="bio">
-                     <p>Mozart, Wolfgang Amadeus (27.1.1756 Salzburg – 5.12.1791 Wien) war ein österreichischer Komponist. Von seinem Vater Leopold musikalisch ausgebildet, trat er schon als Kind in Europa als Wunderkind auf. Reisen führten ihn u. a. nach Italien, wo er 1770 durch seine Niederschrift von Allegris Miserere berühmt wurde. Nach Jahren im Salzburger Hofdienst ließ er sich 1781 in Wien nieder, wo er als freier Künstler arbeitete, 1782 Constanze Weber heiratete und der Freimaurerei beitrat. Dort entstanden seine wichtigsten Opern wie Die Entführung aus dem Serail, Le nozze di Figaro, Don Giovanni, Così fan tutte und Die Zauberflöte sowie Symphonien, Konzerte und Kammermusik. Bedeutend sind auch seine Kirchenwerke, darunter die c-Moll-Messe und das unvollendete Requiem. Mozart starb 1791 im Alter von 35 Jahren in Wien.</p>
+                     <p>Wolfgang Amadeus Mozart (27. Januar 1756 – 5. Dezember 1791) war ein Komponist aus Österreich. Bereits als Kind trat er, durch seinen Vater Leopold musikalisch geschult, als Wunderkind in ganz Europa auf. Reisen brachten ihn unter anderem nach Italien, wo er 1770 durch die Niederschrift von Allegris Miserere Aufsehen erregte. Nach mehreren Jahren im Salzburger Hofdienst ließ er sich 1781 in Wien nieder, wo er als freischaffender Künstler tätig war, 1782 Constanze Weber heiratete und sich der Freimaurerei anschloss. In dieser Zeit schuf er seine bedeutendsten Opern wie Die Entführung aus dem Serail, Le nozze di Figaro, Don Giovanni, Così fan tutte und Die Zauberflöte sowie zahlreiche Symphonien, Konzerte und Kammermusik. Hohen Rang besitzen auch seine geistlichen Werke, darunter die c-Moll-Messe und das unvollendet gebliebene Requiem. Mozart verstarb 1791 mit nur 35 Jahren in Wien.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1356">
@@ -6659,8 +6724,9 @@
                </person>
                <person xml:id="tillich_person_id__1384">
                   <persName>Newton, Isaac</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118587544</idno>
                   <note type="bio">
-                     <p>Newton, Isaac (25.12.1642 Woolsthorpe, Lincolnshire – 20.3.1727 London) war ein englischer Naturphilosoph, Mathematiker und Laientheologe. Er studierte in Cambridge, entwickelte die Analysis, entdeckte die Zusammensetzung des Lichts und formulierte die Gesetze der Gravitation und Planetenbewegung, veröffentlicht in den Philosophiae naturalis principia mathematica (1687) und den Opticks (1704). 1696 wurde er Leiter der königlichen Münze, 1703 Präsident der Royal Society und 1705 zum Ritter geschlagen. Theologisch lehnte er die Trinitätslehre ab, verstand Christus als präexistenten Sohn Gottes und verband puritanische, jüdische und antitrinitarische Traditionen. Raum und Zeit deutete er als Zeichen von Gottes Allgegenwart und Ewigkeit, Naturforschung und Bibelstudium galten ihm als Wege zur Erkenntnis göttlichen Handelns.</p>
+                     <p>Isaac Newton (25. Dezember 1642 – 20. März 1727) war ein englischer Naturphilosoph, Mathematiker und Laientheologe. Nach dem Studium in Cambridge entwickelte er die Infinitesimalrechnung, erkannte die Zusammensetzung des Lichts und formulierte die Gesetze der Schwerkraft und der Planetenbewegung, die er in den Philosophiae naturalis principia mathematica von 1687 und in den Opticks von 1704 darlegte. 1696 übernahm er die Leitung der königlichen Münze, 1703 wurde er Präsident der Royal Society und 1705 in den Ritterstand erhoben. Theologisch verwarf er die Lehre von der Dreieinigkeit, deutete Christus als präexistenten Sohn Gottes und verknüpfte puritanische, jüdische und antitrinitarische Überlieferungen. Raum und Zeit verstand er als Ausdruck der Allgegenwart und Ewigkeit Gottes, während ihm Naturforschung und Bibelstudium gleichermaßen als Wege zur Erkenntnis göttlichen Wirkens galten.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1385">
@@ -6796,8 +6862,9 @@
                <person xml:id="tillich_person_id__1420">
                   <persName>Oldham, Joseph Houldsworth</persName>
                   <occupation>Schottischer Missionar und Ökumeniker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118736248</idno>
                   <note type="bio">
-                     <p>O. verbrachte die ersten Jahre seines Lebens als Kind schottischer Eltern in Indien. Nach einem Studium in Oxford ging er zunächst zurück nach Indien. Er war einer der Organisatoren der Weltmissionskonferenz 1910 und engagierte sich insbesondere im ökumenischen Dialog. Die Vorbereitungen der von ihm organisierten Oxford Konferenz ‚Church, Community and State‘ im Jahr 1937 waren maßgeblicher Grund für Tillichs Europareise. In den Folgejahren war er eine zentrale Figur im Moot-Diskussionskreis, u.a. zusammen mit William Temple, T.S. Eliot und John  Baillie. Bei der Gründung des Ökumenischen Rats der Kirchen im Jahr 1948 wurde O. zum Ehrenpräsidenten ernannt. Er war mit Mary (1875-1965), geb. Fraser verheiratet.</p>
+                     <p>Joseph Houldsworth Oldham (10. Oktober 1874 – 16. Mai 1969) war ein schottischer anglikanischer Theologe und Missionar. Als Kind schottischer Eltern verbrachte er seine ersten Jahre in Indien und kehrte nach dem Studium in Oxford zunächst dorthin zurück. Er gehörte zu den Organisatoren der Weltmissionskonferenz 1910 und engagierte sich besonders im ökumenischen Dialog. Die von ihm vorbereitete Oxforder Konferenz Church, Community and State von 1937 war ein wesentlicher Anlass für eine Europareise des Theologen Paul Tillich. Später war Oldham eine zentrale Gestalt im Moot-Diskussionskreis, dem unter anderem William Temple, T. S. Eliot und John Baillie angehörten. Bei der Gründung des Ökumenischen Rats der Kirchen 1948 ernannte man ihn zum Ehrenpräsidenten.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1421">
@@ -6821,8 +6888,9 @@
                </person>
                <person xml:id="tillich_person_id__1424">
                   <persName>Oppenheim, Gabrielle</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/13966789X</idno>
                   <note type="bio">
-                     <p>Frau von Paul Oppenheimer. Gemeinsam mit seinem Mann emigriete sie 1933 in ihre Heimatland Belgien. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941). </p>
+                     <p>Gabrielle Oppenheim (1892–1997), geborene Errera, war eine Kunstsammlerin aus Belgien, geboren in Brüssel. Als Tochter eines belgischen Juraprofessors heiratete sie 1912 den deutschen Chemiker und Philosophen Paul Oppenheim, mit dem sie zwei Söhne hatte, Félix und Stéphane. 1933 emigrierte das Ehepaar zunächst in ihr Heimatland Belgien, später in die USA.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1425">
@@ -6830,6 +6898,10 @@
                </person>
                <person xml:id="tillich_person_id__1426">
                   <persName>Oppenheimer, Franz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118641417</idno>
+                  <note type="bio">
+                     <p>Franz Oppenheimer (30. März 1864 – 30. September 1943) wirkte als Arzt, Soziologe und Nationalökonom in Deutschland und engagierte sich für den Zionismus. Er gilt als bedeutender Wegbereiter der Sozialen Marktwirtschaft. Nach einem Medizinstudium und der Promotion 1885 war er zunächst als praktischer Arzt in einem Berliner Armenviertel tätig, bevor er sich zunehmend sozialpolitischen Fragen widmete. 1909 zählte er zu den Mitbegründern der Deutschen Gesellschaft für Soziologie und promovierte ein zweites Mal. 1919 übernahm er an der Universität Frankfurt die erste Soziologie-Professur Deutschlands, die er bis 1929 innehatte und an die ihm Karl Mannheim nachfolgte. Nach 1934 lehrte er in Palästina und floh später über Japan und Shanghai in die USA, wo er sich in Los Angeles niederließ. Er starb 1943 in Los Angeles.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1427">
                   <persName>Oprecht, Emil</persName>
@@ -6874,6 +6946,10 @@
                <person xml:id="tillich_person_id__1437">
                   <persName>Otto, Walter F.</persName>
                   <occupation>Deutscher Altphilologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117189871</idno>
+                  <note type="bio">
+                     <p>Walter F. Otto (22. Juni 1874 – 23. September 1958) war ein Altphilologe aus Deutschland, der vor allem durch seine Arbeiten zur griechischen Religion und Mythologie bekannt wurde, insbesondere durch das Werk Die Götter Griechenlands. Nach dem Studium promovierte er 1897 und widmete sich zunächst der römischen Kultur. Nach Professuren in Wien und Basel wirkte er ab 1914 zwanzig Jahre in Frankfurt, bevor ihn das NS-Regime 1934 zum Wechsel nach Königsberg zwang. Nach dem Krieg lehrte er bis ins hohe Alter in Tübingen. In seinen Schriften hob er besonders die rationalen Züge der antiken Mythologie hervor und grenzte sich damit von der älteren religionswissenschaftlichen Schule ab.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1438">
                   <persName>Otto, Rudolf</persName>
@@ -6996,8 +7072,9 @@
                </person>
                <person xml:id="tillich_person_id__1468">
                   <persName>Paulus</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118641549</idno>
                   <note type="bio">
-                     <p>Paulus von Tarsus (um 10 Tarsus – nach 60 vermutlich Rom) war der bedeutendste Missionar des Urchristentums und einer der ersten christlichen Theologen. Er stammte aus einer jüdisch-pharisäischen Tradition, besaß römisches Bürgerrecht und trat nach einer Bekehrung vom Christenverfolger zum Apostel für die Heidenvölker auf. Paulus bereiste den Mittelmeerraum, gründete Gemeinden und hielt über seine Briefe Kontakt, die als älteste Schriften des Neuen Testaments überliefert sind. Seine Theologie stellte Kreuzigung und Auferstehung Jesu Christi in den Mittelpunkt und begründete darin die Rechtfertigung des Menschen aus Gnade. Seine Lehre prägte die christliche Theologie und wirkte tief in die europäische Geistesgeschichte hinein.</p>
+                     <p>Paulus von Tarsus (1. Jhdt.) gilt als wichtigster Missionar des frühen Christentums und als einer der ersten christlichen Theologen. Aus jüdisch-pharisäischer Tradition stammend und im Besitz des römischen Bürgerrechts, wandelte er sich nach einem Bekehrungserlebnis vom Verfolger der Christen zum Apostel der nichtjüdischen Völker. Er durchreiste den Mittelmeerraum, gründete Gemeinden und blieb mit diesen über Briefe in Verbindung, die als älteste Texte des Neuen Testaments gelten. Im Zentrum seiner Theologie standen Kreuzigung und Auferstehung Jesu Christi, woraus er die Rechtfertigung des Menschen allein aus Gnade ableitete. Seine Lehre prägte die christliche Theologie nachhaltig und wirkte tief in die europäische Geistesgeschichte hinein.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1469">
@@ -7160,6 +7237,7 @@
                </person>
                <person xml:id="tillich_person_id__1510">
                   <persName>Platon</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118594893</idno>
                   <note type="bio">
                      <p>Platon (ca. 427 – 347 v. Chr.) war ein aus aristokratischem Athener Geschlecht stammender Schüler des Sokrates, der nach dessen Hinrichtung um 385 v. Chr. nordwestlich von Athen die Akademie gründete – die erste dauerhafte Philosophenschule des Abendlandes. In seinen dialogisch gestalteten Werken, von der Apologie bis zur Politeia und zum späten Nomoi, verband er sokratische Ethik mit der Lehre von den Ideen, entwickelte erstmals eine systematische Erkenntnis-, Seelen- und Staatsphilosophie und prägte damit bis heute sämtliche Strömungen der abendländischen Denkgeschichte.</p>
                   </note>
@@ -7191,6 +7269,10 @@
                </person>
                <person xml:id="tillich_person_id__1516">
                   <persName>Poelchau, Harald</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118595318</idno>
+                  <note type="bio">
+                     <p>Harald Poelchau (5. Oktober 1903 – 29. April 1972) wirkte als Gefängnisseelsorger, Anhänger eines christlich geprägten Sozialismus und Gegner des NS-Regimes in Deutschland. Während seines Theologiestudiums prägte ihn der 1924 in Marburg lehrende Paul Tillich nachhaltig in Richtung des religiösen Sozialismus und wurde ein lebenslanger Freund. Bei Tillich promovierte er 1931 in Frankfurt. 1933 trat er als erster vom NS-Regime eingesetzter Geistlicher seinen Dienst als Gefängnisseelsorger an, unter anderem in Tegel und Plötzensee, und begleitete bis 1945 etwa tausend Menschen zur Hinrichtung. Heimlich schmuggelte er Nachrichten und verhalf gemeinsam mit seiner Frau zahlreichen verfolgten Juden zu Unterkünften im Untergrund. Ab 1941 gehörte er dem Kreisauer Kreis um Helmuth James Graf von Moltke an. Nach dem Krieg baute er das Hilfswerk der Evangelischen Kirchen mit auf und wurde 1951 erster Sozial- und Industriepfarrer der Evangelischen Kirche in Berlin-Brandenburg.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1517">
                   <persName>Pöggeler, Otto</persName>
@@ -7390,6 +7472,9 @@
                   </death>
                   <occupation>Sozialistischer Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118749196</idno>
+                  <note type="bio">
+                     <p>August Rathmann (3. Januar 1895 – 5. Januar 1995) war ein Jugendfunktionär, Autor und Politiker aus Deutschland. Nach einer Tischlerlehre und dem Ersten Weltkrieg engagierte er sich in der sozialdemokratischen Arbeiterjugend und im Hofgeismarer Kreis und studierte ab 1926 Rechts-, Volks- und Sozialwissenschaften. Gemeinsam mit dem Theologen Paul Tillich gab er ab 1931 die Neuen Blätter für den Sozialismus heraus und suchte die national gesinnten Sozialisten mit den religiösen Sozialisten um Tillich zu verbinden. Später edierte er auch ein Werk Tillichs. Nach 1945 war er in der Sozialarbeit von Wirtschaftsverbänden tätig und blieb der SPD verbunden.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1563">
                   <persName>Ratramnus</persName>
@@ -7456,8 +7541,9 @@
                <person xml:id="tillich_person_id__1577">
                   <persName>Reinhardt, Karl</persName>
                   <occupation>Altphilologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118744275</idno>
                   <note type="bio">
-                     <p>1905-1910 Studium der Klassischen Philologie in Bonn und Berlin, 1910 Promotion in Berlin, 1914 Habilitation in Bonn. 1916-1918 außerordentlicher Professor in Marburg, 1919-1923 ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf an die Universität Frankfurt, wo R., unterbrochen von einigen Jahren an der Universität Leipzig (1942-1946) bis zu seiner Emeritierung 1951 blieb und lehrte. Er war mit Elly Reinhardt (geb. Boessneck) verheiratet.</p>
+                     <p>Karl Reinhardt (1886–1958) war ein klassischer Philologe und Schriftsteller aus Deutschland. Nach dem Studium der Klassischen Philologie in Bonn und Berlin promovierte er 1910 und habilitierte sich 1914. Ab 1916 wirkte er als außerordentlicher Professor in Marburg, ab 1919 als ordentlicher Professor in Hamburg. 1923 folgte er einem Ruf nach Frankfurt, wo er – unterbrochen von einigen Jahren in Leipzig (1942–1946) – bis zu seiner Emeritierung 1951 lehrte. Verheiratet war er mit Elly Reinhardt, geborene Boessneck.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1578">
@@ -7652,7 +7738,7 @@
                <person xml:id="tillich_person_id__1614">
                   <persName>Ritschl, Albrecht</persName>
                   <note type="bio">
-                     <p>Ritschl, Albrecht (25.3.1822 Stettin – 20.3.1889 Göttingen) war evangelischer Theologe und Professor in Bonn und Göttingen. In seiner Christlichen Lehre von der Rechtfertigung und Versöhnung (1870–1874) deutete er Versöhnung als Versöhnung der Menschen, nicht Gottes. Er verstand Offenbarung als praktische Weltanschauung, die in der Gemeinde durch die Bibel präsent bleibt, und begründete damit eine einflussreiche, am biblischen Quellenstudium orientierte Theologie ohne metaphysische Spekulation.</p>
+                     <p>Albrecht Ritschl (25. März 1822 – 20. März 1889) war ein evangelischer Theologe und Professor in Bonn und Göttingen. In seinem Hauptwerk Die christliche Lehre von der Rechtfertigung und Versöhnung deutete er Versöhnung als die der Menschen, nicht Gottes. Offenbarung verstand er als praktische Weltanschauung, die in der Gemeinde durch die Bibel lebendig bleibt. Damit begründete er eine einflussreiche, am Studium der biblischen Quellen ausgerichtete Theologie, die auf metaphysische Spekulation verzichtete.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1615">
@@ -7663,6 +7749,10 @@
                </person>
                <person xml:id="tillich_person_id__1617">
                   <persName>Ritter, Karl Bernhard</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118745476</idno>
+                  <note type="bio">
+                     <p>Karl Bernhard Ritter (17. März 1890 – 15. August 1968) war ein evangelischer Theologe und Politiker aus Deutschland, der nacheinander der DNVP und der KVP angehörte. Nach dem Studium der Theologie und Philosophie und der Promotion 1912 nahm er als Freiwilliger am Ersten Weltkrieg teil. Ab 1919 war er Pfarrer in Berlin und saß bis 1924 als DNVP-Abgeordneter im Preußischen Landtag. Er gehörte zu den Gründern der Berneuchener Bewegung und 1931 der Michaelsbruderschaft, deren erster Leiter er wurde. Ab 1925 wirkte er an der reformierten Universitätskirche Marburg. Im Kirchenkampf engagierte er sich gegen die Deutschen Christen und schloss sich der Bekennenden Kirche an. Nach 1945 wurde er Kirchenrat und Dekan in Marburg und setzte sich für das Bischofsamt ein.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1618">
                   <persName>Rivera, Diego</persName>
@@ -7807,7 +7897,7 @@
                <person xml:id="tillich_person_id__1653">
                   <persName>Rubens, Peter Paul</persName>
                   <note type="bio">
-                     <p>Rubens, Peter Paul (28.6.1577 Siegen – 30.5.1640 Antwerpen) war ein flämischer Maler und Diplomat. Nach einer Ausbildung in Antwerpen und längeren Aufenthalten in Italien kehrte er 1608 zurück und wurde Hofmaler. Mit seiner großen Werkstatt belieferte er weltliche und kirchliche Auftraggeber, wodurch seine Malerei zum Inbegriff barocker, gegenreformatorischer Kunst wurde. Neben bedeutenden Altarbildern wie der Kreuzaufrichtung und Kreuzabnahme schuf er monumentale Zyklen, etwa für Maria de’ Medici in Paris oder das Banqueting House in London. Seine Kunst verbindet Dynamik, Sinnlichkeit und monumentale Bildsprache mit politisch-diplomatischem Engagement.</p>
+                     <p>Peter Paul Rubens (28. Juni 1577 – 30. Mai 1640) war ein flämischer Maler und Diplomat. Nach seiner Ausbildung in Antwerpen und mehrjährigen Aufenthalten in Italien kehrte er 1608 zurück und stieg zum Hofmaler auf. Mit einer großen Werkstatt bediente er weltliche wie kirchliche Auftraggeber, sodass seine Malerei zum Inbegriff barocker, gegenreformatorischer Kunst wurde. Neben bedeutenden Altarbildern wie der Kreuzaufrichtung und der Kreuzabnahme schuf er monumentale Zyklen, etwa für Maria de’ Medici in Paris oder das Banqueting House in London. Seine Kunst vereint Dynamik, Sinnlichkeit und eine monumentale Bildsprache mit politisch-diplomatischem Engagement.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1654">
@@ -7844,6 +7934,10 @@
                <person xml:id="tillich_person_id__1660">
                   <persName>Ruprecht, Günther</persName>
                   <occupation>Deutscher Verleger</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/129415391</idno>
+                  <note type="bio">
+                     <p>Günther Ruprecht (17. Februar 1898 – 17. März 2001) war ein Verleger aus Deutschland, der ab 1929 den Göttinger Verlag Vandenhoeck &amp; Ruprecht leitete. Als Sohn eines Verlegers absolvierte er nach dem Ersten Weltkrieg eine Buchhändlerausbildung und trat 1923 ins Familienunternehmen ein, das er auch während der Weltwirtschaftskrise erfolgreich weiterführte. Besonders widmete er sich theologischen Werken und begründete die erste vollständige Kommentarreihe zum Alten Testament. In der NS-Zeit unterstützte er ab 1933 die Bekennende Kirche und verlegte deren Zeitschrift Junge Kirche. Nach dem Krieg leitete er den Wiederaufbau der Vereinigung evangelischer Buchhändler und setzte sich für gemeinsame theologische Veröffentlichungen in Ost und West ein. 1960 wurde er erster Ehrenbürger der Universität Göttingen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1661">
                   <persName>Rusk, Dean</persName>
@@ -7922,6 +8016,9 @@
                <person xml:id="tillich_person_id__1679">
                   <persName>Salz, Lotte</persName>
                   <occupation>Studienassessorin</occupation>
+                  <note type="bio">
+                     <p>Lotte Salz (1895–1925) war eine Studienassessorin. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1680">
                   <persName>Samuel, Richard Herbert</persName>
@@ -8060,7 +8157,7 @@
                   <occupation>Philosoph und Soziologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118606964</idno>
                   <note type="bio">
-                     <p>Scheler, Max (22.8.1874 München – 19.5.1928 Frankfurt/M.) war ein bedeutender deutscher Philosoph, Soziologe und Mitbegründer der philosophischen Anthropologie. Er entwickelte ausgehend von Husserls Phänomenologie eine materiale Wertethik, in der er Liebe, Hass, Scham oder Reue als Quellen moralischer Erkenntnis beschrieb. Als Professor in Köln verband er Philosophie und Soziologie und suchte das Zusammenspiel von Ideen und Realfaktoren in Kultur und Gesellschaft zu erklären. In seiner Spätphilosophie deutete er den Menschen als Wesen zwischen Natur und Geist, das an der Entfaltung eines „werdenden Gottes“ mitwirkt.</p>
+                     <p>Max Scheler (22. August 1874 – 19. Mai 1928) war ein bedeutender Philosoph und Soziologe aus Deutschland und zählt zu den Begründern der philosophischen Anthropologie. Aufbauend auf Husserls Phänomenologie entwickelte er eine materiale Wertethik, in der er Gefühle wie Liebe, Scham oder Reue als Quellen sittlicher Erkenntnis verstand. Als Kölner Professor verknüpfte er Philosophie mit Soziologie und untersuchte das Wechselspiel von Ideen und realen Faktoren in Kultur und Gesellschaft. In seinem Spätwerk begriff er den Menschen als Wesen zwischen Natur und Geist, das an der Entfaltung eines werdenden Gottes teilhat.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1704">
@@ -8153,8 +8250,9 @@
                </person>
                <person xml:id="tillich_person_id__1717">
                   <persName>Schleiermacher, Friedrich Daniel Ernst</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118608045</idno>
                   <note type="bio">
-                     <p>Schleiermacher, Friedrich Daniel Ernst (21.11.1768 Breslau – 12.2.1834 Berlin) war evangelischer Theologe, Philosoph und Pädagoge. Er übersetzte Platon, begründete die moderne Hermeneutik und gilt als Kirchenvater des 19. Jahrhunderts. In »Über die Religion« (1799) definierte er Religion als »Sinn und Geschmack fürs Unendliche«, in der »Glaubenslehre« (1821/22) als »Gefühl absoluter Abhängigkeit«. Er vermittelte zwischen Rationalismus, Romantik und Erweckungsbewegung.</p>
+                     <p>Friedrich Daniel Ernst Schleiermacher (21. November 1768 – 12. Februar 1834) war ein evangelischer Theologe, Philosoph und Pädagoge. Er übertrug Platon ins Deutsche, schuf die Grundlagen der modernen Hermeneutik und gilt als Kirchenvater des 19. Jahrhunderts. In seiner Schrift Über die Religion von 1799 bestimmte er Religion als Sinn und Geschmack fürs Unendliche, in der Glaubenslehre von 1821/22 als Gefühl schlechthinniger Abhängigkeit. Sein Denken vermittelte zwischen Rationalismus, Romantik und Erweckungsbewegung.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1718">
@@ -8232,7 +8330,7 @@
                <person xml:id="tillich_person_id__1737">
                   <persName>Schopenhauer, Arthur</persName>
                   <note type="bio">
-                     <p>Schopenhauer, Arthur (22.2.1788 Danzig – 21.9.1860 Frankfurt/M.) war ein deutscher Philosoph. Er entwickelte eine pessimistische Willensmetaphysik, in der der Wille das Grundprinzip der Welt bildet, während Intellekt und Vernunft sekundär sind. In seinem Hauptwerk »Die Welt als Wille und Vorstellung« (1818) verband er Kants Erkenntnistheorie mit einer Lehre vom blinden, rastlosen Willen. Entlastung vom Willensdruck sah er in Kunst, Mitleid und Askese. Seine Ethik gründete auf dem Mitleid, nicht auf Kants Vernunftprinzip. Damit wurde er Wegbereiter von Psychoanalyse und Lebensphilosophie.</p>
+                     <p>Arthur Schopenhauer (22. Februar 1788 – 21. September 1860) war ein Philosoph aus Deutschland. Er begründete eine pessimistische Metaphysik des Willens, in der der Wille das tragende Prinzip der Welt darstellt, während Verstand und Vernunft ihm nachgeordnet sind. In seinem Hauptwerk Die Welt als Wille und Vorstellung verknüpfte er die Erkenntnislehre Kants mit der Vorstellung eines blinden, ruhelosen Willens. Befreiung vom Druck dieses Willens fand er in Kunst, Mitleid und Askese. Seine Ethik beruhte nicht auf dem kantischen Vernunftprinzip, sondern auf dem Mitgefühl. Auf diese Weise bereitete er den Boden für Psychoanalyse und Lebensphilosophie.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1738">
@@ -8328,6 +8426,9 @@
                   <persName>Schweitzer, Carl Gunther</persName>
                   <occupation>Deutscher evangelisch-lutherischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/128814985</idno>
+                  <note type="bio">
+                     <p>Carl Gunther Schweitzer (21. Dezember 1889 – 20. Juni 1965) war ein evangelisch-lutherischer Theologe aus Deutschland. Als Sohn jüdischer Kaufleute geboren und früh getauft, studierte er Theologie und gehörte dem Wingolf an, über den er mit dem Theologen Paul Tillich freundschaftlich verbunden war. Nach dem Ersten Weltkrieg wurde er Pfarrer und gründete 1921 die Apologetische Centrale für Weltanschauungsfragen. Im Kirchenkampf war er Mitbegründer des Pfarrernotbundes und engagierte sich in der Bekennenden Kirche, was zusammen mit seiner jüdischen Abkunft zu Amtsenthebung und Haft führte. 1937 zwangspensioniert, floh er 1939 nach Großbritannien. Nach seiner Rückkehr 1947 lehrte er Sozialethik in Münster und Bonn.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1757">
                   <persName>Schweitzer, Albert</persName>
@@ -8543,8 +8644,9 @@
                <person xml:id="tillich_person_id__1792">
                   <persName>Simon, Hugo</persName>
                   <occupation>Bankier und Mäzen</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/129962317</idno>
                   <note type="bio">
-                     <p>Banklehre in Marburg, 1911 Mitbegründung und Mitinhaberschaft des Berliner Bankhauses Carsch, Simon &amp; Co. SPD-Mitglied mit Nähe zu Karl Liebknecht. Nach dem Ersten Weltkrieg arbeitete er, nominiert von der USPD, zeitweise im Preußischen Finanzministerium und war Ende 1918 bis Anfang 1919 kurzzeitig Finanzminister. Danach kehrte er ins Bankgeschäft zurück, fungierte jedoch u.a. auch als Berater in Finanzfragen für die SPD. Daneben engagierte er sich als Kunstförderer und Kunstsammler. 1933 emigrierte er über die Schweiz nach Paris, wo er ein neues Bankgeschäft aufbaute und sich in der Flüchtlingshilfe engagierte. Nach der deutschen Besetzung Frankreichs konnte S. über Spanien und Portugal 1941 nach Brasilien emigrieren, wo er sich in seinen letzten Lebensjahren mit der Seidenraupenzucht beschäftigte.</p>
+                     <p>Hugo Simon (1. September 1880 – 1. Juli 1950) war ein Bankier und Politiker aus Deutschland. Nach der Novemberrevolution 1918 amtierte er als Mitglied der USPD kurzzeitig als preußischer Finanzminister. Aus jüdischer Familie stammend, gründete er 1911 eine Privatbank und betätigte sich als bekannter Kunstmäzen und Sammler, in dessen Haus zahlreiche Künstler, Schriftsteller und Politiker verkehrten. Nach der Machtergreifung floh er 1933 nach Paris und gelangte 1941 schließlich nach Brasilien, wo er 1950 starb. Seine umfangreiche Kunstsammlung wurde durch Emigration und Enteignung zerstreut.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1793">
@@ -8885,7 +8987,7 @@
                   <occupation>SPD-Politiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118616919</idno>
                   <note type="bio">
-                     <p>Studium der Nationalökonomie sowie Soziologie in Heidelberg, wo er 1913 bei Alfred Weber promoviert wurde. Bereits als Student in die SPD eingetreten, bekleidete S. nach dem Ersten Weltkrieg diverse Verwaltungsämter, unter anderem im Reichswirtschaftsministerium (1919-1927) sowie im preußischen Handelsministerium (1927-1932). Daneben mehrere Aufsichtsratposten sowie Lehrtätigkeit an der Deutschen Hochschule für Politik. Nach kurzer Inhaftierung 1933 zunächst Flucht nach Belgien, später Emigration in die USA, wo er ab dem Frühjahr 1934 an der New School for Social Research in New York lehrte. Gemeinsam mit seiner Frau Else sowie mit Paul Tillich und anderen engagierte er sich in diversen Hilfsorganisationen für Emigrierte.</p>
+                     <p>Hans Staudinger (16. August 1889 – 25. Februar 1980) war ein deutsch-amerikanischer SPD-Politiker und Wirtschaftswissenschaftler. Nach dem Studium der Nationalökonomie und Soziologie und der Promotion 1913 bei Alfred Weber bekleidete er nach dem Ersten Weltkrieg verschiedene Verwaltungsämter, unter anderem im Reichswirtschaftsministerium und ab 1929 als Staatssekretär im preußischen Handelsministerium. 1932/33 saß er für die SPD im Reichstag. Nach kurzer Haft 1933 floh er nach Belgien und emigrierte später in die USA, wo er ab 1934 an der New School for Social Research in New York lehrte. Gemeinsam mit seiner Frau Else sowie dem Theologen Paul Tillich engagierte er sich in Hilfsorganisationen für Emigranten.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1846">
@@ -8979,6 +9081,9 @@
                   </death>
                   <occupation>Wirklicher Oberkonsistorialrat; 1904–1925 Präsident des Evangelischen Konsistoriums der Provinz Brandenburg; Unterstützer der Gründung (1911) des Märkischen Diakonissenmutterhauses Luise-Henrietten-Stift in Lehnin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1111512221</idno>
+                  <note type="bio">
+                     <p>Hermann Steinhausen (7. Oktober 1854 – 8. Oktober 1928) war ein deutscher Kirchenbeamter im Rang eines Wirklichen Oberkonsistorialrats. Von 1904 bis 1925 leitete er als Präsident das Evangelische Konsistorium der Provinz Brandenburg. Zudem förderte er 1911 die Gründung des Märkischen Diakonissenmutterhauses Luise-Henrietten-Stift in Lehnin.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1853">
                   <persName>Steinweg, Gertrud</persName>
@@ -9247,6 +9352,9 @@
                   </death>
                   <occupation>Deutscher Theologe und Politiker (DNVP, CSVD, CSU)</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119239221</idno>
+                  <note type="bio">
+                     <p>Hermann Strathmann (30. August 1882 – 19. November 1966) war ein Theologe und Politiker aus Deutschland, der nacheinander der DNVP, dem CSVD und der CSU angehörte. Als Pfarrerssohn studierte er Theologie, promovierte 1908 und übernahm 1918 den Lehrstuhl für Neues Testament in Erlangen. Politisch saß er ab 1919 im Bayerischen Landtag und mit Unterbrechungen bis 1933 im Reichstag. Trotz früherer Kritik am Nationalsozialismus stand er dem Regime nach 1933 überwiegend positiv gegenüber und trat 1940 in die NSDAP ein. Nach dem Krieg engagierte er sich in der CSU und gehörte bis 1950 erneut dem Bayerischen Landtag an.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1875">
                   <persName>Straton</persName>
@@ -11391,6 +11499,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118631713</idno>
+                  <note type="bio">
+                     <p>John Wesley (28. Juni 1703 – 2. März 1791) war ein englischer Erweckungsprediger, der auch in Nordamerika wirkte. Obwohl er und sein jüngerer Bruder Charles fest in der anglikanischen Kirche verwurzelt waren, begründeten sie gemeinsam mit ihrem Freund George Whitefield die methodistische Bewegung. Nach dem Studium in Oxford wurde er 1725 zum Diakon geweiht und 1728 zum anglikanischen Priester ordiniert. In Oxford schloss er sich dem von seinem Bruder gegründeten Holy Club an, dessen Leiter er rasch wurde. Die Gruppe widmete sich intensivem Bibelstudium, regelmäßigem Fasten sowie der Betreuung von Gefangenen, Kranken und Armen und erhielt wegen ihrer methodischen Lebensführung spöttisch den Namen Methodisten.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2046">
                   <persName>Wette, Wilhelm de</persName>
@@ -11410,12 +11521,15 @@
                </person>
                <person xml:id="tillich_person_id__2047">
                   <persName>Wever, Eva</persName>
+                  <note type="bio">
+                     <p>Eva Wever (geb. 1890), später Eva Detert, war eine Schwägerin des Theologen Paul Tillich. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2048">
                   <persName>Wever, Wilhelm</persName>
                   <occupation>Königl. Domänenpächter</occupation>
                   <note type="bio">
-                     <p>Wilhelm Wever war der Vater von Greti Wever.</p>
+                     <p>Wilhelm Wever (1855–1929) war ein königlicher Domänenpächter. Er war der Vater von Greti Wever. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2049">
@@ -11994,6 +12108,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118769707</idno>
+                  <note type="bio">
+                     <p>Georg Wobbermin (27. Oktober 1869 – 15. Oktober 1943) war ein evangelischer Theologe aus Deutschland. Nach dem Studium der Evangelischen Theologie und der Promotion in systematischer Theologie hatte er ab 1922 den Lehrstuhl für Systematische Theologie in Göttingen inne. Sein theologischer Entwurf beruhte auf einer psychologisch orientierten Religionsdeutung, in der er sich als Anhänger Schleiermachers und als von William James geprägt erwies. Politisch war er ein extrem nationalistisch eingestellter Intellektueller, der die NS-Regierung unterstützte, das Bekenntnis der Professoren zu Adolf Hitler unterzeichnete und den nationalsozialistischen Antisemitismus propagierte.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2094">
                   <persName>Wolfers, Arnold</persName>
@@ -12278,6 +12395,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119296411</idno>
+                  <note type="bio">
+                     <p>Girolamo Zanchi (2. Februar 1516 – 19. November 1590) war ein italienischer Theologe, der zunächst als Augustinermönch wirkte und später zum reformierten Glauben übertrat. Unter dem Einfluss Peter Martyr Vermiglis wandte er sich in Lucca der Reformation zu, besonders der Lehre Calvins. 1551 floh er vor der Inquisition und lehrte ab 1553 als Professor für das Alte Testament in Straßburg, wo er wegen seiner calvinistischen Positionen mit dem Lutheraner Johannes Marbach in Streit geriet. Nach einer Zeit als Pfarrer in Chiavenna wurde er 1568 Dogmatikprofessor in Heidelberg und 1571 Rektor, bevor er 1578 an die reformierte Hochschule in Neustadt wechselte. Er galt als einer der gelehrtesten Theologen seiner Zeit und verfasste zahlreiche, überwiegend apologetische Schriften.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2116">
                   <persName>Zarathustra</persName>
@@ -12574,11 +12694,15 @@
                   <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118600605</idno>
                   <note type="bio">
-                     <p>Er spezialisierte sich auf den Neukantianismus.</p>
+                     <p>Heinrich John Rickert (25. Mai 1863 – 25. Juli 1936) war ein Philosoph aus Deutschland, der dem Neukantianismus und der Wertphilosophie zuzurechnen ist. Nach dem Studium der Philosophie bei Wilhelm Windelband und der Promotion 1888 habilitierte er sich 1891 in Freiburg, wo er ab 1896 als ordentlicher Professor wirkte. Bei ihm habilitierte sich 1915 Martin Heidegger. Im selben Jahr folgte Rickert einem Ruf nach Heidelberg als Nachfolger Windelbands, wobei Edmund Husserl seine Freiburger Stelle übernahm. Er gehörte zu den Gegnern der Phänomenologie, der Lebensphilosophie und der Existenzphilosophie und wirkte bis 1934. Für sein 1932 erschienenes Faust-Buch erhielt er die Goethe-Medaille.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2136">
                   <persName>Kaumann, Edwin</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1327799480</idno>
+                  <note type="bio">
+                     <p>Edwin Kaumann (geb. 1883) war ein promovierter Akademiker aus Deutschland, geboren in Berlin. Er verfasste seine Dissertation an der Philosophischen Fakultät der Universität Erlangen-Nürnberg und gehörte wie der Theologe Paul Tillich der Studentenverbindung Wingolf an, mit dem er in Tübingen studierte. Es ist allerdings nicht gesichert, ob es sich bei ihm um den 1883 geborenen Edwin Kaumann handelt. Er könnte auch später geboren worden sein. Die hier abgefassten biographischen Informationen zu Edwin Kaumann sind daher lediglich begründete Vermutungen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2137">
                   <persName>Reuter, Fritz</persName>
@@ -12760,7 +12884,7 @@
                   </death>
                   <occupation>Evangelischer Pfarrer</occupation>
                   <note type="bio">
-                     <p>Studienkollege Paul Tillichs</p>
+                     <p>Martin Stosch (20. November 1886 – 1964) war vermutlich ein Pfarrer aus Deutschland, geboren in Helmstedt, und ein Studienkollege des Theologen Paul Tillich. Zwischen 1913 und 1921 wirkte er als Geistlicher in Herzogswalde und anschließend von 1921 bis 1928 in Tempel, beide im Kreis Oststernberg.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2155">
@@ -12817,7 +12941,7 @@
                <person xml:id="tillich_person_id__2160">
                   <persName>Winkler, August</persName>
                   <note type="bio">
-                     <p>Winkler war der erste Vorsitzende des 1901 gegründeten Verbands alter Wingolfiten.</p>
+                     <p>August Winkler (Lebensdaten unbekannt) war der erste Vorsitzende des 1901 gegründeten Verbands Alter Wingolfiten. Bei einer Tagung im Juli 1919 in Berlin wurde er an die Spitze des dort eingerichteten Geschäftsführenden Ausschusses gewählt, der die Geschicke des Verbands lenken sollte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2161">
@@ -12838,6 +12962,9 @@
                      </settlement>
                   </death>
                   <occupation>Evangelischer Pastor</occupation>
+                  <note type="bio">
+                     <p>Hermann Heinrich August Jungclaussen (30. August 1887 – 27. Juli 1942) war ein evangelischer Pfarrer aus Deutschland, der den Deutschen Christen angehörte. Nach seiner Ordination 1916 in Berlin diente er zunächst als Feldgeistlicher und Kriegspfarrer, unter anderem in Ostpreußen und Litauen. Anschließend wirkte er als Pastor an verschiedenen Orten, darunter Kiel, Hamburg-Fuhlsbüttel und Münster, zuletzt von 1937 bis zu seinem Tod an der Kieler St.-Nikolai-Kirche. Er fiel 1942 in Reval.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2165">
                   <persName>Heermann, Adolf</persName>
@@ -12916,9 +13043,10 @@
                   <occupation>Dr. med., Spezialarzt für Ohren- und Nasenkrankheiten; Assistent an der Universität (Ohrenklinik)</occupation>
                </person>
                <person xml:id="tillich_person_id__2178">
-                  <persName>Van der Smissen, Wilm</persName>
+                  <persName>Van der Smissen, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1145957994</idno>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Wilhelm van der Smissen (geb. 1882) war ein Studienkollege des Theologen Paul Tillich. Er stammte aus Niepruszewo in der Provinz Posen, studierte Landwirtschaft und leitete 1924 die landwirtschaftliche Schule in Itzehoe. Es ist allerdings nicht gesichert, ob es sich bei ihm um die 1882 geborene, landwirtschaftlich spezialisierte Person handelt. Die hier abgefassten biographischen Informationen sind daher lediglich begründete Vermutungen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2179">
@@ -13003,6 +13131,9 @@
                   </death>
                   <occupation>Evangelischer Pfarrer in Hiddenhausen (Oetinghausen), später (1920-1955) in Ubbedissen</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
+                  <note type="bio">
+                     <p>Johannes Meyersieck (28. November 1884 – 25. November 1971) war ein evangelischer Pfarrer aus Deutschland. Als Sohn eines Pfarrers wirkte er ab Juni 1914 an der zweiten Pfarrstelle des Kirchspiels Hiddenhausen, wo er die Dörfer Oetinghausen und Lippinghausen betreute. Während des Ersten Weltkriegs verschickte er von 1914 bis 1918 insgesamt 48 monatliche Feldpostbriefe an bis zu 380 Adressen junger Männer seines Seelsorgebezirks, die als Soldaten im Einsatz waren. Begleitet wurde diese Korrespondenz von zahlreichen Paketsendungen und Spendenaktionen, die er organisierte. 1920 übernahm er das Pfarramt seines Vaters in Ubbedissen, das er bis 1955 innehatte.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2187">
                   <persName>Van der Smissen, Heinrich</persName>
@@ -13046,7 +13177,7 @@
                   </birth>
                   <occupation>Gemeindeschwester</occupation>
                   <note type="bio">
-                     <p>Sie war eine Gemeindeschwester in der Gemeinde von Johannes Tillich.</p>
+                     <p>Therese (Lebensdaten und Nachname unbekannt) war eine Gemeindeschwester in der Gemeinde von Johannes Tillich. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2193">
@@ -13067,6 +13198,9 @@
                <person xml:id="tillich_person_id__2196">
                   <persName>???, Käthe</persName>
                   <idno type="gnd">Keine GND-Nummer</idno>
+                  <note type="bio">
+                     <p>Käthe (Lebensdaten unbekannt) wird als Tante des Theologen Paul Tillich bezeichnet. Ihr vollständiger Name sowie weitere biographische Angaben sind nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2197">
                   <persName>Fritz, Imanuel</persName>
@@ -13083,7 +13217,7 @@
                <person xml:id="tillich_person_id__2199">
                   <persName>???, Trude</persName>
                   <note type="bio">
-                     <p>Sie wird als eine Tante von Paul Tillich bezeichnet.</p>
+                     <p>Trude (Lebensdaten und Nachname unbekannt) wird als eine Tante von Paul Tillich bezeichnet. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2200">
@@ -13234,6 +13368,10 @@
                      </settlement>
                   </death>
                   <occupation>Evangelischer Pfarrer in Bremen, Arolsen und Wupperfeld; ordiniert in Bremen am 11. Februar 1912</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/142022454</idno>
+                  <note type="bio">
+                     <p>Martin Graeber (23. November 1884 – 1. März 1959) war ein evangelischer Pfarrer aus Deutschland, geboren in Kairo. Nach seiner Ordination 1912 in Bremen wirkte er als Geistlicher in Bremen, Arolsen und Wupperfeld.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2213">
                   <persName>Titius, Arthur</persName>
@@ -13279,6 +13417,9 @@
                      <date>1922</date>
                   </death>
                   <occupation>Evangelischer Pfarrer zu Willershausen</occupation>
+                  <note type="bio">
+                     <p>Rudolf Ritter (1886–1922) war ein evangelischer Pfarrer aus Deutschland, der in Willershausen wirkte. Möglicherweise gehörte er der Studentenverbindung Wingolf an. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2216">
                   <persName>Jarcke, Wilhelm</persName>
@@ -13300,7 +13441,7 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118776495</idno>
                   <note type="bio">
-                     <p>Er hat sich auf die neutestamentliche und kirchengeschichtliche Forschung spezialisiert.</p>
+                     <p>Adolf Jülicher (26. Januar 1857 – 2. August 1938) war ein evangelischer Theologe aus Deutschland mit den Schwerpunkten Neues Testament und Kirchengeschichte. Nach Studium und Promotion 1880 habilitierte er sich 1887 und lehrte ab 1888 in Marburg, ab 1889 als Ordinarius, wo er auch als Rektor und Dekan wirkte. Als exponierter Vertreter der historisch-kritischen Methode verhalf er der Theologie zu neuer wissenschaftlicher Anerkennung. Bekannt wurden vor allem sein vielfach aufgelegtes Lehrbuch Einleitung in das Neue Testament sowie seine Darstellung der Gleichnisreden Jesu.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2218">
@@ -13390,6 +13531,9 @@
                         <placeName>Wevelinghoven</placeName>
                      </settlement>
                   </birth>
+                  <note type="bio">
+                     <p>Emma Walz (20. September 1841 – 1923), geborene Thürlings, stammte aus Wevelinghoven und war eine Großtante des Theologen Paul Tillich mütterlicherseits. Sie war die jüngere Schwester von Amalia Gertrud (Mathilde) Thürlings.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2228">
                   <persName>Solberger, Maria</persName>
@@ -13479,6 +13623,9 @@
                <person xml:id="tillich_person_id__2242">
                   <persName>Schmidt</persName>
                   <occupation>Evangelischer Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Schmidt (Lebensdaten und Vorname unbekannt) war ein evangelischer Pfarrer, der als Vetter im Umfeld der Familie Tillich erwähnt wird. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2243">
                   <persName>Hessig, Otto</persName>
@@ -13488,6 +13635,9 @@
                   <death>
                      <date>1945</date>
                   </death>
+                  <note type="bio">
+                     <p>Otto Friedrich Hessig (8. September 1883 – 12. März 1945) war ein evangelischer Pfarrer aus Deutschland, geboren in Karlsruhe. Von 1918 bis 1925 wirkte er als Geistlicher in Eschelbronn und Neidenstein. Verheiratet war er mit Susanna Maria Braun.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2244">
                   <persName>Grill, Julius</persName>
@@ -13998,6 +14148,9 @@
                <person xml:id="tillich_person_id__2296">
                   <persName>Neumeister, Eckhardt</persName>
                   <occupation>Geheimrat und Medizinalrat</occupation>
+                  <note type="bio">
+                     <p>Eckhardt Neumeister (Lebensdaten unbekannt) war ein Mediziner im Rang eines Geheimrats und Medizinalrats. Er wird im Umfeld des Theologen Paul Tillich erwähnt und war Mitglied der Gesellschaft für Pommersche Geschichte und Altertumskunde in Stettin. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2297">
                   <persName>Jaurès, Jean</persName>
@@ -14083,21 +14236,9 @@
                </person>
                <person xml:id="tillich_person_id__2304">
                   <persName>Krohn, Hildegard</persName>
-                  <birth>
-                     <date>1906-02-04</date>
-                     <settlement>
-                        <placeName>Neubrandenburg</placeName>
-                     </settlement>
-                  </birth>
-                  <death>
-                     <date>1943-02-04</date>
-                     <settlement>
-                        <placeName key="#tillich_place_id__1033">Auschwitz</placeName>
-                     </settlement>
-                  </death>
                   <idno type="gnd">https://d-nb.info/gnd/1272748154</idno>
                   <note type="bio">
-                     <p>Sie war von 1921 bis 1930 mit Gottfried Salomon-Delatour verheiratet. Davor war sie die Muse von Georg Heym. Sie wurde in einem Konzentrationslager ermordet.</p>
+                     <p>Hildegard Krohn (18. April 1892 – 4. Februar 1943), später Hildegard Salomon, war ein deutsches Opfer des Holocaust und die Freundin und Muse des Dichters Georg Heym. Als Tochter eines jüdischen Fabrikanten geboren, besuchte sie eine höhere Mädchenschule und wurde Kindergärtnerin. 1911 lernte sie Georg Heym kennen, dessen letzte und innigste Beziehung diese war und der ihr zahlreiche Gedichte widmete, darunter sein bekanntes Liebesgedicht Deine Wimpern, die langen. Nach Heyms frühem Unfalltod wirkte sie an der Veröffentlichung seines Nachlasses mit. Von 1921 bis 1930 war sie mit dem Soziologen Gottfried Salomon verheiratet. 1943 wurde sie nach Auschwitz-Birkenau deportiert und dort ermordet.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2305">
@@ -14320,6 +14461,9 @@
                   </death>
                   <occupation>Preußischer General</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/136139418</idno>
+                  <note type="bio">
+                     <p>Hans von Gronau (6. Februar 1850 – 22. Februar 1940) war ein preußischer General der Artillerie und Militärgouverneur von Thorn. Aus einer Lehrerfamilie stammend, trat er 1869 in die Preußische Armee ein und nahm 1870/71 am Krieg gegen Frankreich teil. Im Generalstab leitete er ab 1894 die für Russland zuständige Abteilung. 1907 wurde er Gouverneur von Thorn und 1908 zum General der Artillerie ernannt. 1913 erhob ihn Kaiser Wilhelm II. in den erblichen Adelsstand. Im Ersten Weltkrieg reaktiviert, befehligte er an der West- und später an der Ostfront mehrere Großverbände, bis er 1919 aus dem Dienst ausschied. Sein ältester Sohn war der Ozeanflieger Wolfgang von Gronau.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2323">
                   <persName>Kluck, Alexander von</persName>
@@ -14483,6 +14627,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/121447316</idno>
+                  <note type="bio">
+                     <p>Johann Brachmann (1571–1631) war ein lutherischer Theologe, Pädagoge und Pfarrer, der in mehreren Regionen Mitteleuropas wirkte. Nach dem Studium in Leipzig und Wittenberg gründete er eine evangelische Schule im böhmischen Krumau und war als Schulrektor in Krumau, Fraustadt und Guhrau tätig. Nach seinem Exil wirkte er als Schulinspektor in Fraustadt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2344">
                   <persName>Schornbaum, Karl</persName>
@@ -14575,11 +14722,14 @@
                </person>
                <person xml:id="tillich_person_id__2353">
                   <persName>Medicus, Clara</persName>
+                  <note type="bio">
+                     <p>Clara Medicus (Lebensdaten unbekannt) war vermutlich die Ehefrau von Fritz Medicus. Sie wird in einem Brief Paul Tillichs an Fritz Medicus vom 19. April 1928 erwähnt. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2354">
                   <persName>???, Anna</persName>
                   <note type="bio">
-                     <p>Unter Umständen handelt es sich um die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war.</p>
+                     <p>Anna (Lebensdaten und Nachname unbekannt) war unter Umständen die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2355">
@@ -14827,7 +14977,7 @@
                <person xml:id="tillich_person_id__2380">
                   <persName>Kilger, Johannes</persName>
                   <note type="bio">
-                     <p>Er war der Bruder von Albert Kilger.</p>
+                     <p>Johannes Kilger (Lebensdaten unbekannt) war der Bruder von Albert Kilger. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2381">
@@ -15015,8 +15165,9 @@
                </person>
                <person xml:id="tillich_person_id__2400">
                   <persName>Wolfers, Doris</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1311087400</idno>
                   <note type="bio">
-                     <p>Sie war die Frau von Arnold Wolfers.</p>
+                     <p>Doris Wolfers (Lebensdaten unbekannt), geborene Farrer, war die Ehefrau von Arnold Wolfers, den sie 1918 heiratete, als dieser als Anwalt in St. Gallen tätig war. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2401">
@@ -15036,7 +15187,7 @@
                   <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116744200</idno>
                   <note type="bio">
-                     <p>Er wirkte im Jahr 1915 als Professor für Kirchengeschichte in Bonn und ab 1916 in Marburg.</p>
+                     <p>Heinrich August Hermelink (30. Dezember 1877 – 11. Februar 1958) war ein evangelischer Kirchenhistoriker aus Deutschland. Als Missionarskind in Indien geboren, kam er früh zur Schule nach Württemberg und promovierte 1902 in Tübingen. Nach Promotion und Habilitation 1906 in Leipzig lehrte er dort und ab 1913 als außerordentlicher Professor in Kiel. Im Ersten Weltkrieg schwer verwundet, übernahm er ordentliche Professuren für Kirchengeschichte in Bonn und ab 1918 in Marburg. 1935 wurde er wegen seiner Gegnerschaft zum NS-Regime zwangsweise emeritiert und wirkte danach als Pfarrer, bevor er 1938 nach München übersiedelte und dort 1945 Honorarprofessor wurde.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2403">
@@ -15090,7 +15241,7 @@
                   <occupation>Architekt</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1038829402</idno>
                   <note type="bio">
-                     <p>Er war Mitbegründer des Kunst-Dienstes der evangelischen Kirche. Er baute unter anderem das "Haus auf dem Küssel".</p>
+                     <p>Stephan Hirzel (25. Mai 1899 – 18. Februar 1970) war ein Architekt, Grafiker und Kunsthistoriker aus Deutschland. Nach dem Architekturstudium in Berlin und Dresden promovierte er 1924 und arbeitete als freier Architekt, bevor er sich ab 1933 dem Kunsthandwerk und der Buchgestaltung zuwandte. Ab 1934 war er Referent in der Reichspressekammer, später im besetzten Frankreich an der deutschen Botschaft sowie im Reichsministerium für Bewaffnung und Munition tätig. Nach dem Krieg lehrte er zunächst in Dresden und leitete von 1948 bis 1965 die Werkakademie Kassel. Zudem gehörte er 1953 der Findungskommission der ersten documenta an.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2407">
@@ -15242,7 +15393,7 @@
                   <occupation>Baltist und Ministerialdirektor</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116595167</idno>
                   <note type="bio">
-                     <p>seit Ab April 1933 war er Ministerialdirektor im deutschen Wissenschafts- bzw. Kultusministerium.</p>
+                     <p>Georg Gerullis (13. August 1888 – 9. August 1945) war ein Baltist und Hochschullehrer preußisch-litauischer Abstammung aus Deutschland. Nach Promotion 1912 und Habilitation 1919 lehrte er ab 1922 als außerordentlicher Professor in Leipzig. 1931 trat er der NSDAP bei und übernahm nach 1933 leitende Funktionen in der Bildungsverwaltung. 1934 wurde er Professor in Königsberg und zeitweise Rektor, ehe er 1937 nach Berlin zurückkehrte. Im Zweiten Weltkrieg diente er als Offizier vorwiegend in der Abwehr. 1945 verurteilte ihn die sowjetische Militäradministration wegen Kriegsverbrechen zum Tode, 2002 wurde er postum rehabilitiert.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2422">
@@ -15482,7 +15633,7 @@
                   <occupation>Mathematiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116422521</idno>
                   <note type="bio">
-                     <p>Er lebte Mitte der 1920er in Köln. Zu dieser Zeit war er mit Paul Tillich bekannt. Sie trafen sich auch 1926 in Paris.</p>
+                     <p>Hans Ludwig Hamburger (5. August 1889 – 14. August 1956) war ein Mathematiker aus Deutschland. Jüdischer Herkunft, aber protestantisch getauft, promovierte er 1914 und habilitierte sich in Berlin. 1924 wurde er ordentlicher Professor in Köln, wo er Mitte der 1920er Jahre mit dem Theologen Paul Tillich bekannt war, den er 1926 auch in Paris traf. 1935 entzogen ihm die Nationalsozialisten die Lehrbefugnis, woraufhin er 1939 nach Großbritannien emigrierte. Nach dem Krieg lehrte er in Ankara, bevor er 1953 seinen Kölner Lehrstuhl zurückerhielt. Bekannt ist er vor allem durch das nach ihm benannte Momentenproblem.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2437">
@@ -15627,7 +15778,7 @@
                   <occupation>Verwaltungsjurist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/133789152</idno>
                   <note type="bio">
-                     <p>Als Verwaltungsjurist wirkte er vor allem in Berlin.</p>
+                     <p>Theodor Thurmann (14. Mai 1882 – 11. Mai 1955) war ein Verwaltungsjurist aus Deutschland. Nach dem Studium trat er in den preußischen Staatsdienst und war unter anderem Bürgermeister in Zoppot, im Ersten Weltkrieg Leiter der Reichsstelle für Schuhversorgung und später Ministerialrat im Reichswirtschaftsministerium. Nach dem Zweiten Weltkrieg arbeitete er beim Berliner Magistrat und wurde 1950 Treuhänder der Rheinmetall-Borsig AG, später deren Aufsichtsratsvorsitzender.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2448">
@@ -16338,6 +16489,9 @@
                </person>
                <person xml:id="tillich_person_id__2513">
                   <persName>???, Nora</persName>
+                  <note type="bio">
+                     <p>Nora (Lebensdaten unbekannt) ist vermutlich identisch mit Nora Mengelberg. Sie wird in einem Brief Paul Tillichs an Hannah Tillich vom September 1926 erwähnt sowie möglicherweise in einem undatierten Schreiben von 1925, das von einer lebhaften Unterhaltung mit Nora und Mimi Schönemann berichtet.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2514">
                   <persName>Kaden, Lalla</persName>
@@ -16460,7 +16614,7 @@
                <person xml:id="tillich_person_id__2528">
                   <persName>Schmidt, Auguste</persName>
                   <note type="bio">
-                     <p>Tochter des Eisenbahnmaterialverwalters Johannes Winckler in Osnabrück.</p>
+                     <p>Auguste Schmidt (Lebensdaten unbekannt), geborene Winckler, war die Tochter des Eisenbahnmaterialverwalters Johannes Winckler in Osnabrück. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2530">
@@ -16610,6 +16764,9 @@
                <person xml:id="tillich_person_id__2547">
                   <persName>Kapell, Hubert</persName>
                   <occupation>Katholischer Feldgeistlicher</occupation>
+                  <note type="bio">
+                     <p>Hubert Kapell (Lebensdaten unbekannt) war ein katholischer Feldgeistlicher während des Ersten Weltkriegs. Aus dem Jahr 1919 ist ein an den Theologen Paul Tillich gerichteter Brief von ihm überliefert. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2548">
                   <persName>Menthe, Edgar</persName>
@@ -17075,6 +17232,9 @@
                   </death>
                   <occupation>Schriftstellerin und Dichterin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116531274</idno>
+                  <note type="bio">
+                     <p>Veronika Erdmann-Czapski (1894–1984) war eine Schriftstellerin und Übersetzerin aus Deutschland, geboren in Dorpat. Sie wirkte unter anderem in München, Jena und Tegernsee und war als Lyrikerin bekannt. Sie war die Mutter der Journalistin Susanne von Paczensky.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2602">
                   <persName>Reimann, Hans</persName>
@@ -17586,6 +17746,9 @@
                </person>
                <person xml:id="tillich_person_id__2657">
                   <persName>Otto, Heiner</persName>
+                  <note type="bio">
+                     <p>Heiner Otto (Lebensdaten unbekannt), möglicherweise auch Otte, wird in einem vermutlich auf 1925 datierten Brief Paul Tillichs an Hannah Tillich mehrfach erwähnt, wobei dort von den Ottos die Rede ist. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2658">
                   <persName>Flechtheim, Alfred</persName>
@@ -18017,7 +18180,7 @@
                <person xml:id="tillich_person_id__2717">
                   <persName>Harder, Käthe</persName>
                   <note type="bio">
-                     <p>geb. Treplin</p>
+                     <p>Käthe Harder (Lebensdaten unbekannt), geborene Treplin, ist bisher nicht näher ermittelt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2718">
@@ -18269,6 +18432,10 @@
                </person>
                <person xml:id="tillich_person_id__2752">
                   <persName>Reyer, Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1025312767</idno>
+                  <note type="bio">
+                     <p>Wilhelm Reyer (gest. 1952) war ein promovierter Pädagoge aus Deutschland. Er verfasste mehrere Publikationen, darunter Werke zur allgemeinen Erziehungs- und Unterrichtslehre sowie zur Hilfsschulpädagogik. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2753">
                   <persName>Joel, ???</persName>
@@ -18704,9 +18871,8 @@
                      </settlement>
                   </death>
                   <occupation>Evangelischer Pfarrer, Superintendent</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/1233659030</idno>
                   <note type="bio">
-                     <p>Vater Gottfried von Hanffstengels; Gottfried von Hanffstengel (1852 – 1939) war Superintendent in der Hannoverschen Landeskirche. Als Sohn des Pastors von St. Pauli in Bremen wirkte er in Verden, Oppeln, Worpswede, Zeven und Bremervörde. In seinen Lebenserinnerungen „Ein Pastorenleben in Norddeutschland“ schilderte er seine Jugend, die Gemeindearbeit sowie kirchliche und familiäre Zusammenhänge zwischen Weser und Elbe. Hanffstengel entstammte einem Pfarrgeschlecht, aus dem zwischen 1716 und 1977 fünfzehn Pastoren und Superintendenten hervorgingen. Während seiner Amtszeit in Bremervörde (1895–1922) wurde 1901 eine Posaunenabteilung des Evangelischen Jünglingsvereins gegründet.</p>
+                     <p>Gottfried von Hanffstengel (22. Januar 1852 – 12. November 1939) war ein Superintendent der Hannoverschen Landeskirche, geboren in Bremen als Sohn des dortigen Pastors von St. Pauli. Er wirkte in Verden, Oppeln, Worpswede, Zeven und Bremervörde und entstammte einem Pfarrgeschlecht, aus dem zwischen 1716 und 1977 fünfzehn Pastoren und Superintendenten hervorgingen. In seinen Lebenserinnerungen Ein Pastorenleben in Norddeutschland schilderte er seine Jugend und die kirchliche Arbeit zwischen Weser und Elbe. Er war der Vater Gottfried von Hanffstengels.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2807">
@@ -18719,7 +18885,7 @@
                <person xml:id="tillich_person_id__2809">
                   <persName>Appelius, Hildegard</persName>
                   <note type="bio">
-                     <p>geb. Erbslöh und Frau von Carl Richard Wegener.</p>
+                     <p>Hildegard Appelius (Lebensdaten unbekannt), geborene Erbslöh, war die Ehefrau von Carl Richard Wegener. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2810">
@@ -18764,7 +18930,7 @@
                <person xml:id="tillich_person_id__2821">
                   <persName>Immow, Gertrud</persName>
                   <note type="bio">
-                     <p>Freundin von Alfred Fritz.</p>
+                     <p>Gertrud Immow (Lebensdaten unbekannt) war eine Freundin von Alfred Fritz. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2822">
@@ -18774,6 +18940,9 @@
                <person xml:id="tillich_person_id__2823">
                   <persName>Egli, ???</persName>
                   <occupation>Maler</occupation>
+                  <note type="bio">
+                     <p>Egli (Lebensdaten und Vorname unbekannt) war ein Maler. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2824">
                   <persName>Chopin, Frederic</persName>
@@ -18782,7 +18951,7 @@
                   <persName>Mengelberg, Nora</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116881666</idno>
                   <note type="bio">
-                     <p>Nora Mengelberg war eine Freundin von Hannah Tillich.</p>
+                     <p>Nora Mengelberg (Lebensdaten unbekannt) war eine Sprechkünstlerin aus Deutschland, die in Berlin wirkte. Sie war eine Freundin von Hannah Tillich, der Ehefrau des Theologen Paul Tillich. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2826">
@@ -18790,6 +18959,9 @@
                </person>
                <person xml:id="tillich_person_id__2827">
                   <persName>Klein, Rudi</persName>
+                  <note type="bio">
+                     <p>Rudi Klein (Lebensdaten unbekannt) ist bisher nicht näher ermittelt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2828">
                   <persName>Tillich, Karl</persName>
@@ -18800,6 +18972,10 @@
                <person xml:id="tillich_person_id__2829">
                   <persName>Mahling, Friedrich</persName>
                   <occupation>Deutscher Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117518816</idno>
+                  <note type="bio">
+                     <p>Friedrich August Mahling (14. Februar 1865 – 18. Mai 1933) war ein evangelischer Theologe aus Deutschland. Nach dem Studium und der Promotion leitete er ab 1892 die Hamburger Stadtmission und wirkte ab 1904 als Pfarrer in Frankfurt. 1909 wurde er als Ordinarius für praktische Theologie nach Berlin berufen, wo er den Lehrstuhl bis zu seiner Emeritierung 1933 innehatte. Er engagierte sich führend in der Inneren Mission, besonders in der Alkoholbekämpfung, der Straffälligenfürsorge und der Sexualethik.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2830">
                   <persName>Kleedehn, E.</persName>
@@ -19212,8 +19388,9 @@
                </person>
                <person xml:id="tillich_person_id__2885">
                   <persName>Leese, Minna Margarethe</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1380833779</idno>
                   <note type="bio">
-                     <p>Sie war die Gattin von Kurt Leese (Heirat am 5. Dezember 1912).</p>
+                     <p>Minna Margarethe Leese (1878–1968), geborene Marckmann, war die Ehefrau des Theologen Kurt Leese, den sie am 5. Dezember 1912 heiratete. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2886">
@@ -19985,7 +20162,7 @@
                   <persName>Giovanni Bellini</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118508679</idno>
                   <note type="bio">
-                     <p>Giovanni Bellini (nach 1430 – 29. November 1516) prägte als „pictor nostri Domini“ der Republik Venedig die Renaissance-Malerei, vollendete mit Altarwerken wie der San-Giobbe- und der San-Zaccaria-Pala den Typus der sacra conversazione und schuf monumentale Historien- sowie feinfarbige Porträts, etwa das des Dogen Leonardo Loredan. Seine spätmythologische Tafel Götterfest zeigt die weltliche Seite seines Œuvres; auf seinen koloristischen Grundlagen bauten Giorgione und Tizian auf.</p>
+                     <p>Giovanni Bellini (nach 1430 – 29. November 1516) prägte als offizieller Maler der Republik Venedig die Kunst der Renaissance. Mit Altarwerken wie der San-Giobbe- und der San-Zaccaria-Pala führte er den Typus der sacra conversazione zur Vollendung und schuf zudem monumentale Historienbilder sowie farblich fein abgestimmte Bildnisse, darunter das des Dogen Leonardo Loredan. Die weltliche Dimension seines Schaffens zeigt sich in der spätmythologischen Tafel Götterfest. Auf seinen koloristischen Errungenschaften bauten später Giorgione und Tizian auf.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3028">
@@ -20263,7 +20440,7 @@
                <person xml:id="tillich_person_id__3084">
                   <persName>Steen, Jan</persName>
                   <note type="bio">
-                     <p>Jan Steen (1626 – 1679) war ein niederländischer Maler des Goldenen Zeitalters, dessen humorvolle Genrebilder – von chaotischen „Jan-Steen-Haushalten“ über lärmende Gasthäuser bis zu falschen Ärzten – ihm bis heute große Popularität einbrachten. Neben diesen satirisch-moralischen Alltagsszenen schuf er auch Historiengemälde und Porträts, in denen er seine umfassende Kenntnis von Bibel, Mythologie, Literatur und Theater einfließen ließ; seine Werke hängen in den bedeutendsten Museen der Welt.</p>
+                     <p>Jan Steen (1626 – 1679) war ein niederländischer Maler des Goldenen Zeitalters, der vor allem durch seine humorvollen Genrebilder bekannt wurde – von chaotischen Jan-Steen-Haushalten über lärmende Gasthäuser bis zu falschen Ärzten. Neben diesen satirisch-moralischen Alltagsszenen schuf er auch Historiengemälde und Porträts, in die seine umfassende Kenntnis von Bibel, Mythologie, Literatur und Theater einfloss. Seine Werke hängen heute in den bedeutendsten Museen der Welt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3085">
@@ -20274,6 +20451,7 @@
                </person>
                <person xml:id="tillich_person_id__3086">
                   <persName>Watteau, Jean-Antoine</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118629492</idno>
                   <note type="bio">
                      <p>Jean-Antoine Watteau (1684 – 1721) war ein in Valenciennes geborener Maler und Zeichner des frühen Rokoko, der nach Lehrjahren bei Claude Gillot und Claude Audran in Paris die neue Bildgattung der fête galante schuf und 1717 mit dem Einschiffung nach Kythera in die Akademie aufgenommen wurde. Mit poetisch-theatralischen Szenen, von Rubens’ Farbigkeit und arabesken Ornamenten inspiriert, verband er natürliche Anmut mit stilisierter Eleganz und prägte so die französische Malerei an der Schwelle zur Régence; seine Rötel- und Drei-Kreiden-Zeichnungen gelten als Meisterwerke eigenständiger Zeichenkunst.</p>
                   </note>
@@ -20429,6 +20607,9 @@
                   <persName>Joël, Karl</persName>
                   <occupation>Philosoph</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117148199</idno>
+                  <note type="bio">
+                     <p>Karl Joël (27. März 1864 – 23. Juli 1934) war ein Philosoph aus Deutschland. Als Sohn eines Rabbiners geboren, studierte er Philosophie in Breslau und Leipzig, wo er 1886 promovierte, und habilitierte sich 1893 in Basel. Dort wurde er 1897 Professor und 1913 zum Rektor gewählt. Sein Denken zeigte eine deutliche Neigung zur Lebensphilosophie, am deutlichsten in seinem Hauptwerk Seele und Welt von 1912, in dem er die Welt als dynamischen Organismus deutete. Spätere Arbeiten wandten sich der Geschichtsphilosophie zu. Als Jude traf ihn der Aufstieg des Nationalsozialismus tief. Er starb 1934 in der Schweiz.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3121">
                   <persName>Kaufmann, Erich</persName>
@@ -20702,7 +20883,7 @@
                <person xml:id="tillich_person_id__3186">
                   <persName>Rudolf, Fräulein</persName>
                   <note type="bio">
-                     <p>Wahrscheinlich Haushälterin oder Vermieterin von Paul Tillich 1920/21</p>
+                     <p>Fräulein Rudolf (Lebensdaten und Vorname unbekannt) war wahrscheinlich die Haushälterin oder Vermieterin des Theologen Paul Tillich in den Jahren 1920/21. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3187">
@@ -22888,6 +23069,10 @@
                <person xml:id="tillich_person_id__3642">
                   <persName>Otte, Fritz</persName>
                   <occupation>Rechtsanwalt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1147249490</idno>
+                  <note type="bio">
+                     <p>Fritz Otte (geb. 1884) war ein Jurist aus Deutschland, geboren in Hannover. Er studierte in Heidelberg, wo er 1912 mit einer Dissertation promoviert wurde. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3643">
                   <persName>???, Anna</persName>
@@ -24245,7 +24430,7 @@
                <person xml:id="tillich_person_id__4087">
                   <persName>Hügel, Friedrich von</persName>
                   <note type="bio">
-                     <p>Friedrich von Hügel (eigentlich Friedrich Maria Aloys Franz Karl, Freiherr von Hügel, bekannt als Baron von Hügel, * 5. Mai 1852 in Florenz, Toskana; † 27. Januar 1925 in London) war ein österreichisch-britischer religiöser Autor, katholischer Theologe und christlicher Apologet. Er gilt als eine der Schlüsselfiguren des Modernismus.</p>
+                     <p>Friedrich von Hügel (5. Mai 1852 – 27. Januar 1925) betätigte sich als religiöser Autor, katholischer Theologe und christlicher Apologet österreichisch-britischer Herkunft. Er zählt zu den zentralen Gestalten des Modernismus.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__4088">
@@ -25195,6 +25380,9 @@
                   <persName>Graf, Friedrich Wilhelm</persName>
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/120078724</idno>
+                  <note type="bio">
+                     <p>Friedrich Wilhelm Graf (geb. 19. Dezember 1948) zählt zu den deutschen Vertretern evangelischer Theologie und Ideengeschichte und lehrte bis zu seiner Emeritierung als Professor für Systematische Theologie und Ethik an der Münchner Ludwig-Maximilians-Universität. Sein Werdegang führte ihn über ein Studium in mehreren Fächern und Städten zur Promotion 1978 und zur Lehrbefähigung 1986. Bevor er von 1999 bis 2014 einen Lehrstuhl in München übernahm, wirkte er an Hochschulen in Augsburg und Hamburg. Mit der Verleihung des Leibniz-Preises 1999 wurde ihm als erstem Theologen diese Ehrung zuteil. Die Bayerische Akademie der Wissenschaften nahm ihn 2001 in ihre Reihen auf. Über viele Jahre stand er der Ernst-Troeltsch-Gesellschaft als Präsident vor und beteiligte sich führend an der Herausgabe der gesammelten Schriften Max Webers. Zudem versieht er seelsorgerische Aufgaben als Geistlicher der bayerischen Landeskirche.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__4548">
                   <persName>Christophersen, Alf</persName>
@@ -27569,6 +27757,43 @@
                </person>
                <person xml:id="tillich_person_id__5505">
                   <persName>Kahn, Sigmund</persName>
+               </person>
+               <person xml:id="tillich_person_id__5506">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5507">
+                  <persName>Kahn, Simone</persName>
+               </person>
+               <person xml:id="tillich_person_id__5508">
+                  <persName>Pollock, Andrée</persName>
+               </person>
+               <person xml:id="tillich_person_id__5509">
+                  <persName>Weber, Alfred</persName>
+                  <occupation>Nationalökonom und Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118765787</idno>
+               </person>
+               <person xml:id="tillich_person_id__5510">
+                  <persName>Campenhausen, Hans Erich Freiherr von</persName>
+                  <occupation>evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118518682</idno>
+               </person>
+               <person xml:id="tillich_person_id__5511">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5512">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5513">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5514">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5515">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5516">
+                  <persName/>
                </person>
             </listPerson>
          </div>
