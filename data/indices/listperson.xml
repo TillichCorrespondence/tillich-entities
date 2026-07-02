@@ -1423,6 +1423,7 @@
                </person>
                <person xml:id="tillich_person_id__157">
                   <persName>Baumgartner, Matthias</persName>
+                  <occupation>Deutscher Philosoph und katholischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__158">
                   <persName>Bäumler, Alfred</persName>
@@ -27794,6 +27795,16 @@
                </person>
                <person xml:id="tillich_person_id__5516">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5517">
+                  <persName>Groß, Erwin</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116868759</idno>
+               </person>
+               <person xml:id="tillich_person_id__5518">
+                  <persName>Kütemeyer, Wilhelm</persName>
+                  <occupation>Arzt, Psychotherapeut und Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116592885</idno>
                </person>
             </listPerson>
          </div>
