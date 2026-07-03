@@ -27806,6 +27806,25 @@
                   <occupation>Arzt, Psychotherapeut und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116592885</idno>
                </person>
+               <person xml:id="tillich_person_id__5519">
+                  <persName>Shank, Donald J.</persName>
+               </person>
+               <person xml:id="tillich_person_id__5520">
+                  <persName>Neumann, Franz</persName>
+                  <occupation>Jurist und Politikwissenschaftler</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118587293</idno>
+               </person>
+               <person xml:id="tillich_person_id__5521">
+                  <persName>Root, Elihu</persName>
+                  <occupation>Jurist und Politiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119243342</idno>
+               </person>
+               <person xml:id="tillich_person_id__5522">
+                  <persName>Schulze, Claudia</persName>
+               </person>
+               <person xml:id="tillich_person_id__5523">
+                  <persName/>
+               </person>
             </listPerson>
          </div>
       </body>
