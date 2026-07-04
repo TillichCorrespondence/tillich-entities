@@ -88458,5 +88458,25 @@
     "place_of_death": "",
     "bio_en": "",
     "occupation_en": ""
+  },
+  "5524": {
+    "id": 5524,
+    "order": "4507.00000000000000000000",
+    "name": "Rheinstein, Max",
+    "surname": "Rheinstein",
+    "forename": "Max",
+    "from_to": "",
+    "occupation": "Jurist, Hochschullehrer",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "https://d-nb.info/gnd/118600125",
+    "tillich_id": "tillich_person_id__5524",
+    "date_of_birth": "1899-07-05",
+    "date_of_death": "1977-07-09",
+    "working_note": "",
+    "place_of_birth": "Bach Kreuznach",
+    "place_of_death": "Schwarzach im Pongau",
+    "bio_en": "",
+    "occupation_en": ""
   }
 }

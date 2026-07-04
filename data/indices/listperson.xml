@@ -27825,6 +27825,23 @@
                <person xml:id="tillich_person_id__5523">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__5524">
+                  <persName>Rheinstein, Max</persName>
+                  <birth>
+                     <date>1899-07-05</date>
+                     <settlement>
+                        <placeName>Bach Kreuznach</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1977-07-09</date>
+                     <settlement>
+                        <placeName>Schwarzach im Pongau</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Jurist, Hochschullehrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118600125</idno>
+               </person>
             </listPerson>
          </div>
       </body>
