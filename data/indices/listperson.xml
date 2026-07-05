@@ -27842,6 +27842,29 @@
                   <occupation>Jurist, Hochschullehrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118600125</idno>
                </person>
+               <person xml:id="tillich_person_id__5525">
+                  <persName>Rackwitz, Arthur</persName>
+                  <birth>
+                     <date>1895-08-04</date>
+                     <settlement>
+                        <placeName>Landsberg an der Warthe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1980-08-16</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer, antifaschistischer Redner und Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11859754X</idno>
+               </person>
+               <person xml:id="tillich_person_id__5526">
+                  <persName>Siemsen, Andrea</persName>
+                  <birth>
+                     <date>1945</date>
+                  </birth>
+               </person>
             </listPerson>
          </div>
       </body>

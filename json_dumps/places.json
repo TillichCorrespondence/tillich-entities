@@ -10701,5 +10701,16 @@
     "latitude": "52.57601",
     "longitude": "13.29389",
     "wikidata_url": "https://www.wikidata.org/wiki/Q700055"
+  },
+  "1828": {
+    "id": 1828,
+    "order": "1106.00000000000000000000",
+    "name": "Schlachtensee",
+    "tillich_id": "tillich_place_id__1828",
+    "geonames_url": "https://www.geonames.org/2839027/schlachtensee.html",
+    "Working Notes": "",
+    "latitude": "52.44278",
+    "longitude": "13.21667",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q101069195"
   }
 }
