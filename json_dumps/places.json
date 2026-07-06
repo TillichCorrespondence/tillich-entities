@@ -9891,7 +9891,7 @@
   "1401": {
     "id": 1401,
     "order": "1032.00000000000000000000",
-    "name": "Bossey",
+    "name": "Bogis-Bossey",
     "tillich_id": "tillich_place_id__1401",
     "geonames_url": "https://www.geonames.org/2661461/",
     "Working Notes": "",
@@ -10712,5 +10712,16 @@
     "latitude": "52.44278",
     "longitude": "13.21667",
     "wikidata_url": "https://www.wikidata.org/wiki/Q101069195"
+  },
+  "1829": {
+    "id": 1829,
+    "order": "1107.00000000000000000000",
+    "name": "Starnberg am See",
+    "tillich_id": "tillich_place_id__1829",
+    "geonames_url": "https://www.geonames.org/2829457/",
+    "Working Notes": "",
+    "latitude": "48.00193",
+    "longitude": "11.34416",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q61936"
   }
 }
