@@ -10723,5 +10723,27 @@
     "latitude": "48.00193",
     "longitude": "11.34416",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61936"
+  },
+  "1830": {
+    "id": 1830,
+    "order": "1108.00000000000000000000",
+    "name": "Rocky Mountains",
+    "tillich_id": "tillich_place_id__1830",
+    "geonames_url": "https://www.geonames.org/5836950/",
+    "Working Notes": "",
+    "latitude": "43.35826",
+    "longitude": "-110.91743",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5463"
+  },
+  "1831": {
+    "id": 1831,
+    "order": "1110.00000000000000000000",
+    "name": "Smoky Mountains",
+    "tillich_id": "tillich_place_id__1831",
+    "geonames_url": "https://www.geonames.org/5607764/",
+    "Working Notes": "",
+    "latitude": "43.66296",
+    "longitude": "-114.66451",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q7546182"
   }
 }

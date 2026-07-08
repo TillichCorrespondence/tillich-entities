@@ -7093,6 +7093,22 @@
                   <idno type="geonames">https://sws.geonames.org/2829457/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q61936</idno>
                </place>
+               <place xml:id="tillich_place_id__1830">
+                  <placeName>Rocky Mountains</placeName>
+                  <location type="coords">
+                     <geo>43.35826 -110.91743</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5836950/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q5463</idno>
+               </place>
+               <place xml:id="tillich_place_id__1831">
+                  <placeName>Smoky Mountains</placeName>
+                  <location type="coords">
+                     <geo>43.66296 -114.66451</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5607764/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q7546182</idno>
+               </place>
             </listPlace>
          </div>
       </body>
