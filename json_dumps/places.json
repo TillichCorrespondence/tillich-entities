@@ -10745,5 +10745,27 @@
     "latitude": "43.66296",
     "longitude": "-114.66451",
     "wikidata_url": "https://www.wikidata.org/wiki/Q7546182"
+  },
+  "1832": {
+    "id": 1832,
+    "order": "1111.00000000000000000000",
+    "name": "Great Plains",
+    "tillich_id": "tillich_place_id__1832",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q12707"
+  },
+  "1865": {
+    "id": 1865,
+    "order": "1112.00000000000000000000",
+    "name": "Englischer Garten",
+    "tillich_id": "tillich_place_id__1865",
+    "geonames_url": "https://www.geonames.org/2930119/",
+    "Working Notes": "",
+    "latitude": "48.15304",
+    "longitude": "11.59135",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q260223"
   }
 }
