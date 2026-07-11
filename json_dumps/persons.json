@@ -88598,5 +88598,25 @@
     "place_of_death": "",
     "bio_en": "",
     "occupation_en": ""
+  },
+  "5532": {
+    "id": 5532,
+    "order": "4514.00000000000000000000",
+    "name": "Haufe, Paul",
+    "surname": "Haufe",
+    "forename": "Paul",
+    "from_to": "",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "",
+    "tillich_id": "tillich_person_id__5532",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": "",
+    "bio_en": "",
+    "occupation_en": ""
   }
 }
