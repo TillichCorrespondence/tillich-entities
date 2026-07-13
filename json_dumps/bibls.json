@@ -3326,5 +3326,21 @@
     "working_note": "",
     "tillich_id": "tillich_work_id__780",
     "zotero": ""
+  },
+  "813": {
+    "id": 813,
+    "order": "424.00000000000000000000",
+    "name": "Malaparte, Cuzio, Kaputt, E.P. Dutton & Co., Inc., New York, 1946",
+    "working_note": "Quelle: https://search.catalog.loc.gov/instances/ab185fd9-b4c4-503a-a913-bcc239d4aa35?option=advanced&pageNumber=1&query=contributor%20containsAll%20%22Malaparte%2C%20Curzio%22%20AND%20titleAll%20containsAll%20%22Kaputt%20%2F%20by%20Curzio%20Malaparte%20%3B%20translated%20from%20the%20Italian%20by%20Cesare%20Foligno.%22&recordsPerPage=25",
+    "tillich_id": "tillich_work_id__813",
+    "zotero": ""
+  },
+  "814": {
+    "id": 814,
+    "order": "425.00000000000000000000",
+    "name": "H. P. Van Dusen (Hrsg.), The Christian Answer. New York, NY: Charles Scribner’s Sons. 1945",
+    "working_note": "",
+    "tillich_id": "tillich_work_id__814",
+    "zotero": ""
   }
 }
