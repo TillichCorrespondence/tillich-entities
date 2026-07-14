@@ -3839,6 +3839,22 @@
                </person>
                <person xml:id="tillich_person_id__709">
                   <persName>Graff, Hans</persName>
+                  <birth>
+                     <date>1889-02-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1954-05-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__587">Minden</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Jurist; Politiker; Evangelischer Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Graff wurde in Berlin am 11. Februar 1889 als Sohn eines Bankiers geboren. 1908 Reifeexamen am Berliner Wilhelm-Gymnasium, 1913 Dr. jur., 1914-1918 Kriegsfreiwilliger mit Auszeichnungen, 1923 Magistratsrat beim Bezirksamt Berlin-Schöneberg, 1927 Deutschnationaler Stadtrat, 1934 Berufsverbot, 1936-1939: Studium der Theologie, 1940-1944: Vikariat und Hilfsprediger in mehreren Gemeinden, ab 1. Februar 1944 mit der Verwaltung mehrerer Pfarrämter in der Mindener Martinigemeinde betraut.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__710">
                   <persName>Grant, Frederick C.</persName>
@@ -22697,7 +22713,7 @@
                         <placeName key="#tillich_place_id__600">Bredow</placeName>
                      </settlement>
                   </death>
-                  <occupation>Pfarrer</occupation>
+                  <occupation>Evangelischer Pfarrer</occupation>
                </person>
                <person xml:id="tillich_person_id__3563">
                   <persName>Supiriat, ???</persName>

@@ -8175,12 +8175,12 @@
   "887": {
     "id": 887,
     "order": "873.00000000000000000000",
-    "name": "Gelnhausen",
+    "name": "Fischborn",
     "tillich_id": "tillich_place_id__887",
-    "geonames_url": "https://sws.geonames.org/2921473/",
+    "geonames_url": "https://sws.geonames.org/2926571/",
     "Working Notes": "",
-    "latitude": "50.20164",
-    "longitude": "9.18742",
+    "latitude": "50.38352",
+    "longitude": "9.29872",
     "wikidata_url": ""
   },
   "888": {
@@ -10767,5 +10767,16 @@
     "latitude": "48.15304",
     "longitude": "11.59135",
     "wikidata_url": "https://www.wikidata.org/wiki/Q260223"
+  },
+  "1898": {
+    "id": 1898,
+    "order": "1113.00000000000000000000",
+    "name": "Gelnhausen",
+    "tillich_id": "tillich_place_id__1898",
+    "geonames_url": "https://sws.geonames.org/2921473/",
+    "Working Notes": "",
+    "latitude": "50.20164",
+    "longitude": "9.18742",
+    "wikidata_url": ""
   }
 }

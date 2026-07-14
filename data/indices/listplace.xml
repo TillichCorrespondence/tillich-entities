@@ -5470,11 +5470,11 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q55816264</idno>
                </place>
                <place xml:id="tillich_place_id__887">
-                  <placeName>Gelnhausen</placeName>
+                  <placeName>Fischborn</placeName>
                   <location type="coords">
-                     <geo>50.20164 9.18742</geo>
+                     <geo>50.38352 9.29872</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/2921473/</idno>
+                  <idno type="geonames">https://sws.geonames.org/2926571/</idno>
                </place>
                <place xml:id="tillich_place_id__888">
                   <placeName>Teupitz</placeName>
@@ -7120,6 +7120,13 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2930119/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q260223</idno>
+               </place>
+               <place xml:id="tillich_place_id__1898">
+                  <placeName>Gelnhausen</placeName>
+                  <location type="coords">
+                     <geo>50.20164 9.18742</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2921473/</idno>
                </place>
             </listPlace>
          </div>
