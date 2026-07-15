@@ -916,7 +916,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q612214</idno>
                </place>
                <place xml:id="tillich_place_id__138">
-                  <placeName>Farm de Mareuil</placeName>
+                  <placeName>Ferme de Mareuil</placeName>
                   <location type="coords">
                      <geo>45.45074 0.45214</geo>
                   </location>
@@ -1022,9 +1022,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2953458/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31897099</idno>
-               </place>
-               <place xml:id="tillich_place_id__171">
-                  <placeName>Ostfront</placeName>
                </place>
                <place xml:id="tillich_place_id__172">
                   <placeName>Galizien</placeName>
@@ -1787,14 +1784,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3011999/</idno>
                </place>
-               <place xml:id="tillich_place_id__302">
-                  <placeName>Moryń</placeName>
-                  <location type="coords">
-                     <geo>52.86010 14.40070</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/7533525/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q33694693</idno>
-               </place>
                <place xml:id="tillich_place_id__303">
                   <placeName>Mouron</placeName>
                   <location type="coords">
@@ -2063,7 +2052,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q21881863</idno>
                </place>
                <place xml:id="tillich_place_id__349">
-                  <placeName>Pillau</placeName>
+                  <placeName>Pillau (Baltijsk)</placeName>
                   <location type="coords">
                      <geo>54.65455 19.90929</geo>
                   </location>
@@ -2489,7 +2478,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q49278247</idno>
                </place>
                <place xml:id="tillich_place_id__416">
-                  <placeName>Stettin</placeName>
+                  <placeName>Stettin (Szczecin)</placeName>
                   <location type="coords">
                      <geo>53.42894 14.55302</geo>
                   </location>
@@ -2535,7 +2524,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q536016</idno>
                </place>
                <place xml:id="tillich_place_id__424">
-                  <placeName>Swinemünde</placeName>
+                  <placeName>Swinemünde (Świnoujście)</placeName>
                   <location type="coords">
                      <geo>53.91053 14.24712</geo>
                   </location>
@@ -2777,7 +2766,7 @@
                   <idno type="geonames">https://sws.geonames.org/2969480/</idno>
                </place>
                <place xml:id="tillich_place_id__465">
-                  <placeName>Wannsee Berlin</placeName>
+                  <placeName>Berlin-Wannsee</placeName>
                   <location type="coords">
                      <geo>52.41915 13.15531</geo>
                   </location>
@@ -2807,9 +2796,6 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/6453605/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q930958</idno>
-               </place>
-               <place xml:id="tillich_place_id__469">
-                  <placeName>Westfront</placeName>
                </place>
                <place xml:id="tillich_place_id__470">
                   <placeName>Wien</placeName>
@@ -2894,14 +2880,6 @@
                      <geo>49.46119 3.24048</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3020095/</idno>
-               </place>
-               <place xml:id="tillich_place_id__488">
-                  <placeName>Świnoujście</placeName>
-                  <location type="coords">
-                     <geo>53.91053 14.24712</geo>
-                  </location>
-                  <idno type="geonames">https://sws.geonames.org/3083955/</idno>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q41599</idno>
                </place>
                <place xml:id="tillich_place_id__490">
                   <placeName>Darmstadt-Eberstadt</placeName>
@@ -3601,6 +3579,7 @@
                      <geo>51.50910 10.65900</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2912719/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1499492</idno>
                </place>
                <place xml:id="tillich_place_id__600">
                   <placeName>Bredow</placeName>
@@ -3657,7 +3636,7 @@
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31920437</idno>
                </place>
                <place xml:id="tillich_place_id__608">
-                  <placeName>Anhalter</placeName>
+                  <placeName>Anhalter Bahnhof</placeName>
                   <location type="coords">
                      <geo>52.50341 13.38158</geo>
                   </location>
@@ -3813,7 +3792,7 @@
                   <placeName>Hirschberg in Schlesien</placeName>
                </place>
                <place xml:id="tillich_place_id__634">
-                  <placeName>Pleskau</placeName>
+                  <placeName>Pleskau (Pskov)</placeName>
                   <location type="coords">
                      <geo>57.81404 28.34493</geo>
                   </location>
@@ -6137,10 +6116,18 @@
                </place>
                <place xml:id="tillich_place_id__1120">
                   <placeName>Terijoki (Selenogorsk)</placeName>
-                  <idno type="wikidata">http://www.wikidata.org/entity/Q59704</idno>
+                  <location type="coords">
+                     <geo>60.19968 29.70183</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/463830/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q46850</idno>
                </place>
                <place xml:id="tillich_place_id__1121">
-                  <placeName>Kronstadt</placeName>
+                  <placeName>Kronstadt (Kronshtadt)</placeName>
+                  <location type="coords">
+                     <geo>60.01457 29.70267</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/11458926/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q155863</idno>
                </place>
                <place xml:id="tillich_place_id__1122">
@@ -7127,6 +7114,29 @@
                      <geo>50.20164 9.18742</geo>
                   </location>
                   <idno type="geonames">https://sws.geonames.org/2921473/</idno>
+               </place>
+               <place xml:id="tillich_place_id__1899">
+                  <placeName>Nordamerika</placeName>
+                  <location type="coords">
+                     <geo>54.77535 -105.64453</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7729890/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q49</idno>
+               </place>
+               <place xml:id="tillich_place_id__1900">
+                  <placeName>Südamerika</placeName>
+                  <location type="coords">
+                     <geo>-14.60485 -57.65625</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6255150/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q18</idno>
+               </place>
+               <place xml:id="tillich_place_id__1902">
+                  <placeName>Hela (Hel)</placeName>
+                  <location type="coords">
+                     <geo>54.63650 18.77439</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/7531384/</idno>
                </place>
             </listPlace>
          </div>

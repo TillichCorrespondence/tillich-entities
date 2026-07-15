@@ -7155,6 +7155,9 @@
                </person>
                <person xml:id="tillich_person_id__1487">
                   <persName>Pfeiffer, Erich</persName>
+                  <birth>
+                     <date>????-04-01</date>
+                  </birth>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Erich Pfeiffer (Lebensdaten unbekannt) war ein Hauptmann im Ersten Weltkrieg. Er stand im Briefkontakt mit Paul Tillich. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
@@ -12115,7 +12118,7 @@
                   <birth>
                      <date>1869-10-27</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                        <placeName>Stettin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -13933,7 +13936,7 @@
                   <death>
                      <date>1920-02-21</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                        <placeName>Stettin</placeName>
                      </settlement>
                   </death>
                   <occupation>Pfarrer und Generalsuperintendent in Stettin</occupation>
@@ -14631,22 +14634,12 @@
                </person>
                <person xml:id="tillich_person_id__2343">
                   <persName>Brachmann, Johannes</persName>
-                  <birth>
-                     <date>1571</date>
-                     <settlement>
-                        <placeName>Liegnitz</placeName>
-                     </settlement>
-                  </birth>
                   <death>
-                     <date>1631</date>
+                     <date>1885</date>
                      <settlement>
-                        <placeName>Fraustadt</placeName>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">https://d-nb.info/gnd/121447316</idno>
-                  <note type="bio">
-                     <p>Johann Brachmann (1571–1631) war ein lutherischer Theologe, Pädagoge und Pfarrer, der in mehreren Regionen Mitteleuropas wirkte. Nach dem Studium in Leipzig und Wittenberg gründete er eine evangelische Schule im böhmischen Krumau und war als Schulrektor in Krumau, Fraustadt und Guhrau tätig. Nach seinem Exil wirkte er als Schulinspektor in Fraustadt.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2344">
                   <persName>Schornbaum, Karl</persName>
@@ -22089,7 +22082,7 @@
                   <birth>
                      <date>1892-11-06</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__634">Pleskau</placeName>
+                        <placeName>Pleskau</placeName>
                      </settlement>
                   </birth>
                </person>
@@ -24617,7 +24610,7 @@
                   <birth>
                      <date>1853-03-17</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                        <placeName>Stettin</placeName>
                      </settlement>
                   </birth>
                   <occupation>Mathematiklehrer</occupation>
@@ -24755,6 +24748,9 @@
                </person>
                <person xml:id="tillich_person_id__4209">
                   <persName>Bötzelen, Edith Emilie Wilhelmine</persName>
+                  <note type="bio">
+                     <p>geborene Luig</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__4210">
                   <persName>Luig, Ida</persName>
@@ -25447,7 +25443,7 @@
                   <birth>
                      <date>1906-06-01</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                        <placeName>Stettin</placeName>
                      </settlement>
                   </birth>
                   <death>
@@ -26337,7 +26333,20 @@
                   <persName>Geiler, H. F.</persName>
                </person>
                <person xml:id="tillich_person_id__4948">
-                  <persName>Schütte, Alfred H.</persName>
+                  <persName>Schütte, Alfred Heinrich</persName>
+                  <birth>
+                     <date>1854</date>
+                     <settlement>
+                        <placeName>Wallefeld</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1936</date>
+                     <settlement>
+                        <placeName>Bad Tölz</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Werkzeugmaschinenfabrikant; Kommerzienrat; Unternehmer; Ingenieur</occupation>
                </person>
                <person xml:id="tillich_person_id__4949">
                   <persName>Dryander, Ernst</persName>
@@ -27022,7 +27031,7 @@
                   <death>
                      <date>1910-03-07</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__416">Stettin</placeName>
+                        <placeName>Stettin</placeName>
                      </settlement>
                   </death>
                   <occupation>Gymnasiallehrer für Mathematik und Religion (bis 1872); 1870 Diakon; 1873 Priester in Berlin; 1876 geweihter Engel; ab 1878 Engel der apostolischen Gemeinde in Stettin</occupation>
@@ -27909,6 +27918,10 @@
                </person>
                <person xml:id="tillich_person_id__5532">
                   <persName>Haufe, Paul</persName>
+               </person>
+               <person xml:id="tillich_person_id__5533">
+                  <persName>Dernburg, Emma</persName>
+                  <occupation>geborene  Seliger</occupation>
                </person>
             </listPerson>
          </div>

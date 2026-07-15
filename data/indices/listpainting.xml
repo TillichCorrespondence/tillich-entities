@@ -95,12 +95,14 @@
                </bibl>
                <bibl xml:id="tillich_painting_id__15">
                   <title>Roman painting, Pompeian--Paquius Proculus and his wife</title>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/1/11/Pompeii-couple.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__16">
                   <title>Roman painting, 3rd century, Portrait group on glass</title>
                </bibl>
                <bibl xml:id="tillich_painting_id__17">
                   <title>Greek painting, Hellenistic, ''Aline'' from Hawara</title>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/9/97/Portrait_fun%C3%A9raire_%28Neues_Museum%2C_Berlin%29_%2811554538765%29.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__18">
                   <title>Portrait of Eleonora (da Toledo) de Medici</title>
@@ -124,16 +126,19 @@
                   <title>La Bohémienne</title>
                   <author key="#tillich_person_id__3908">Hals, Frans</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q3206722</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/7/7f/La_Boh%C3%A9mienne_-_Frans_Hals_-_Mus%C3%A9e_du_Louvre_Peintures_MI_926.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__22">
                   <title>Portrait of Henry James</title>
                   <author key="#tillich_person_id__3909">Sargent, John Singer</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q28051144</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/e/ed/Henry_James_by_John_Singer_Sargent_cleaned.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__23">
                   <title>View of Toledo</title>
                   <author key="#tillich_person_id__3089">El Greco</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q883994</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/0/02/El_Greco_View_of_Toledo.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__24">
                   <title>City on a Rock</title>
@@ -151,20 +156,24 @@
                   <title>The Mantel-piece</title>
                   <author key="#tillich_person_id__272">Braque, Georges</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q28548269</idno>
+                  <ref type="wikidata_image">https://uploads6.wikiart.org/images/georges-braque/the-mantelpiece-1925.jpg!Large.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__27">
                   <title>Still Life</title>
                   <author key="#tillich_person_id__272">Braque, Georges</author>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/en/3/32/Georges_Braque%2C_Nature_morte_%28Verre_%C3%A0_pied_et_guitare%29%2C_1911.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__28">
                   <title>Nature-morte</title>
                   <author key="#tillich_person_id__272">Braque, Georges</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q65225468</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/en/3/32/Georges_Braque%2C_Nature_morte_%28Verre_%C3%A0_pied_et_guitare%29%2C_1911.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__29">
                   <title>Man with a Guitar</title>
                   <author key="#tillich_person_id__272">Braque, Georges</author>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q60432996</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/en/e/e0/Georges_Braque%2C_1911-12%2C_Man_with_a_Guitar_%28Figure%2C_L%E2%80%99homme_%C3%A0_la_guitare%29%2C_oil_on_canvas%2C_116.2_x_80.9_cm_%2845.75_x_31.9_in%29%2C_Museum_of_Modern_Art%2C_New_York.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__30">
                   <title>Composition No. 8</title>
@@ -269,6 +278,7 @@
                </bibl>
                <bibl xml:id="tillich_painting_id__49">
                   <title>Hera of Samos</title>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/3/36/Kore_Heraion_Samos_Louvre_Ma686.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__50">
                   <title>Mosaic, Constantinople, 10th Century</title>

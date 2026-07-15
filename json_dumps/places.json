@@ -1289,7 +1289,7 @@
   "138": {
     "id": 138,
     "order": "138.00000000000000000000",
-    "name": "Farm de Mareuil",
+    "name": "Ferme de Mareuil",
     "tillich_id": "tillich_place_id__138",
     "geonames_url": "https://sws.geonames.org/2995825/",
     "Working Notes": "(Mareuil)",
@@ -1439,17 +1439,6 @@
     "latitude": "52.78730",
     "longitude": "14.03040",
     "wikidata_url": "http://www.wikidata.org/entity/Q31897099"
-  },
-  "171": {
-    "id": 171,
-    "order": "171.00000000000000000000",
-    "name": "Ostfront",
-    "tillich_id": "tillich_place_id__171",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "172": {
     "id": 172,
@@ -2562,17 +2551,6 @@
     "longitude": "3.31821",
     "wikidata_url": ""
   },
-  "302": {
-    "id": 302,
-    "order": "302.00000000000000000000",
-    "name": "Moryń",
-    "tillich_id": "tillich_place_id__302",
-    "geonames_url": "https://sws.geonames.org/7533525/",
-    "Working Notes": "",
-    "latitude": "52.86010",
-    "longitude": "14.40070",
-    "wikidata_url": "http://www.wikidata.org/entity/Q33694693"
-  },
   "303": {
     "id": 303,
     "order": "303.00000000000000000000",
@@ -2961,7 +2939,7 @@
   "349": {
     "id": 349,
     "order": "349.00000000000000000000",
-    "name": "Pillau",
+    "name": "Pillau (Baltijsk)",
     "tillich_id": "tillich_place_id__349",
     "geonames_url": "https://sws.geonames.org/2609906/",
     "Working Notes": "(Russisch: Baltiysk)",
@@ -3577,7 +3555,7 @@
   "416": {
     "id": 416,
     "order": "416.00000000000000000000",
-    "name": "Stettin",
+    "name": "Stettin (Szczecin)",
     "tillich_id": "tillich_place_id__416",
     "geonames_url": "https://sws.geonames.org/3083829/",
     "Working Notes": "Stettin (Szczecin, Polen)",
@@ -3643,7 +3621,7 @@
   "424": {
     "id": 424,
     "order": "424.00000000000000000000",
-    "name": "Swinemünde",
+    "name": "Swinemünde (Świnoujście)",
     "tillich_id": "tillich_place_id__424",
     "geonames_url": "https://sws.geonames.org/3083955/",
     "Working Notes": "",
@@ -3984,7 +3962,7 @@
   "465": {
     "id": 465,
     "order": "465.00000000000000000000",
-    "name": "Wannsee Berlin",
+    "name": "Berlin-Wannsee",
     "tillich_id": "tillich_place_id__465",
     "geonames_url": "https://sws.geonames.org/2814196/",
     "Working Notes": "Siehe tillich_place_id__50(Es gibt eine Zugstation die heist Berlin Wannsee, aber hier ist wohl generell Wannsee in Berlin gemeint)",
@@ -4024,17 +4002,6 @@
     "latitude": "49.63278",
     "longitude": "4.35667",
     "wikidata_url": "http://www.wikidata.org/entity/Q930958"
-  },
-  "469": {
-    "id": 469,
-    "order": "469.00000000000000000000",
-    "name": "Westfront",
-    "tillich_id": "tillich_place_id__469",
-    "geonames_url": "",
-    "Working Notes": "Vermutlich Tillichs Position im Krieg an der Westfront gemeint, das wäre Umgebung Aisne, zugehörige referenzdatei nicht gefunden (siehe tillich_place_id__171 & L00492) Doppelt",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "470": {
     "id": 470,
@@ -4167,17 +4134,6 @@
     "latitude": "49.46119",
     "longitude": "3.24048",
     "wikidata_url": ""
-  },
-  "488": {
-    "id": 488,
-    "order": "488.00000000000000000000",
-    "name": "Świnoujście",
-    "tillich_id": "tillich_place_id__488",
-    "geonames_url": "https://sws.geonames.org/3083955/",
-    "Working Notes": "",
-    "latitude": "53.91053",
-    "longitude": "14.24712",
-    "wikidata_url": "http://www.wikidata.org/entity/Q41599"
   },
   "490": {
     "id": 490,
@@ -5178,7 +5134,7 @@
     "Working Notes": "",
     "latitude": "51.50910",
     "longitude": "10.65900",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1499492"
   },
   "600": {
     "id": 600,
@@ -5260,7 +5216,7 @@
   "608": {
     "id": 608,
     "order": "603.00000000000000000000",
-    "name": "Anhalter",
+    "name": "Anhalter Bahnhof",
     "tillich_id": "tillich_place_id__608",
     "geonames_url": "https://sws.geonames.org/2956054/",
     "Working Notes": "",
@@ -5488,17 +5444,6 @@
     "longitude": "-74.65905",
     "wikidata_url": "http://www.wikidata.org/entity/Q138518"
   },
-  "631": {
-    "id": 631,
-    "order": "625.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__631",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "632": {
     "id": 632,
     "order": "626.00000000000000000000",
@@ -5510,21 +5455,10 @@
     "longitude": null,
     "wikidata_url": ""
   },
-  "633": {
-    "id": 633,
-    "order": "627.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__633",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "634": {
     "id": 634,
     "order": "628.00000000000000000000",
-    "name": "Pleskau",
+    "name": "Pleskau (Pskov)",
     "tillich_id": "tillich_place_id__634",
     "geonames_url": "https://sws.geonames.org/504341/",
     "Working Notes": "",
@@ -5609,17 +5543,6 @@
     "longitude": "20.45998",
     "wikidata_url": "https://www.wikidata.org/wiki/Q403"
   },
-  "643": {
-    "id": 643,
-    "order": "636.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__643",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "644": {
     "id": 644,
     "order": "637.00000000000000000000",
@@ -5642,17 +5565,6 @@
     "longitude": "3.51631",
     "wikidata_url": "https://www.wikidata.org/wiki/Q589513"
   },
-  "646": {
-    "id": 646,
-    "order": "639.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__646",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "647": {
     "id": 647,
     "order": "640.00000000000000000000",
@@ -5663,28 +5575,6 @@
     "latitude": "49.41985",
     "longitude": "0.23294",
     "wikidata_url": "http://www.wikidata.org/entity/Q231720"
-  },
-  "649": {
-    "id": 649,
-    "order": "642.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__649",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
-  "650": {
-    "id": 650,
-    "order": "643.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__650",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": "49.17028",
-    "longitude": "4.71631",
-    "wikidata_url": ""
   },
   "651": {
     "id": 651,
@@ -5706,17 +5596,6 @@
     "Working Notes": "",
     "latitude": "49.32280",
     "longitude": "4.76712",
-    "wikidata_url": ""
-  },
-  "653": {
-    "id": 653,
-    "order": "646.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__653",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
     "wikidata_url": ""
   },
   "654": {
@@ -5845,17 +5724,6 @@
     "order": "658.00000000000000000000",
     "name": "Egypt",
     "tillich_id": "tillich_place_id__665",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
-  "666": {
-    "id": 666,
-    "order": "659.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__666",
     "geonames_url": "",
     "Working Notes": "",
     "latitude": null,
@@ -6059,17 +5927,6 @@
     "latitude": "40.00000",
     "longitude": "-4.00000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q29"
-  },
-  "686": {
-    "id": 686,
-    "order": "678.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__686",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "687": {
     "id": 687,
@@ -6302,17 +6159,6 @@
     "longitude": "6.14569",
     "wikidata_url": "http://www.wikidata.org/entity/Q30343751"
   },
-  "708": {
-    "id": 708,
-    "order": "700.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__708",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "709": {
     "id": 709,
     "order": "701.00000000000000000000",
@@ -6379,17 +6225,6 @@
     "longitude": "140.00000",
     "wikidata_url": "http://www.wikidata.org/entity/Q40285"
   },
-  "715": {
-    "id": 715,
-    "order": "707.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__715",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "716": {
     "id": 716,
     "order": "708.00000000000000000000",
@@ -6400,17 +6235,6 @@
     "latitude": "54.27319",
     "longitude": "12.37249",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1269720"
-  },
-  "717": {
-    "id": 717,
-    "order": "709.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__717",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "718": {
     "id": 718,
@@ -6786,17 +6610,6 @@
     "longitude": "-97.13415",
     "wikidata_url": "http://www.wikidata.org/entity/Q5148681"
   },
-  "753": {
-    "id": 753,
-    "order": "745.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__753",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "754": {
     "id": 754,
     "order": "746.00000000000000000000",
@@ -6862,28 +6675,6 @@
     "latitude": "50.79487",
     "longitude": "13.71240",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1019085"
-  },
-  "760": {
-    "id": 760,
-    "order": "752.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__760",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
-  "761": {
-    "id": 761,
-    "order": "753.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__761",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "763": {
     "id": 763,
@@ -7083,50 +6874,6 @@
     "longitude": "-87.65005",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1297"
   },
-  "782": {
-    "id": 782,
-    "order": "773.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__782",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
-  "783": {
-    "id": 783,
-    "order": "774.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__783",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
-  "784": {
-    "id": 784,
-    "order": "775.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__784",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
-  "787": {
-    "id": 787,
-    "order": "777.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__787",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "788": {
     "id": 788,
     "order": "778.00000000000000000000",
@@ -7138,28 +6885,6 @@
     "longitude": "-1.25596",
     "wikidata_url": "https://www.wikidata.org/wiki/Q34217"
   },
-  "789": {
-    "id": 789,
-    "order": "779.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__789",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
-  "790": {
-    "id": 790,
-    "order": "780.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__790",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "792": {
     "id": 792,
     "order": "781.00000000000000000000",
@@ -7170,17 +6895,6 @@
     "latitude": "29.89469",
     "longitude": "-81.31452",
     "wikidata_url": "https://www.wikidata.org/wiki/Q487988"
-  },
-  "793": {
-    "id": 793,
-    "order": "782.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__793",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "794": {
     "id": 794,
@@ -7423,17 +7137,6 @@
     "latitude": "37.87159",
     "longitude": "-122.27275",
     "wikidata_url": "https://www.wikidata.org/wiki/Q484678"
-  },
-  "816": {
-    "id": 816,
-    "order": "805.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__816",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "817": {
     "id": 817,
@@ -7886,17 +7589,6 @@
     "longitude": "13.57661",
     "wikidata_url": "http://www.wikidata.org/entity/Q13678"
   },
-  "859": {
-    "id": 859,
-    "order": "847.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__859",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "860": {
     "id": 860,
     "order": "848.00000000000000000000",
@@ -7907,17 +7599,6 @@
     "latitude": "37.80437",
     "longitude": "-122.27080",
     "wikidata_url": "https://www.wikidata.org/wiki/Q17042"
-  },
-  "861": {
-    "id": 861,
-    "order": "849.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__861",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "862": {
     "id": 862,
@@ -8161,17 +7842,6 @@
     "longitude": "12.95923",
     "wikidata_url": "https://www.wikidata.org/wiki/Q55816264"
   },
-  "886": {
-    "id": 886,
-    "order": "872.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__886",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "887": {
     "id": 887,
     "order": "873.00000000000000000000",
@@ -8370,17 +8040,6 @@
     "longitude": "8.25000",
     "wikidata_url": "http://www.wikidata.org/entity/Q158884"
   },
-  "905": {
-    "id": 905,
-    "order": "891.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__905",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "906": {
     "id": 906,
     "order": "892.00000000000000000000",
@@ -8546,17 +8205,6 @@
     "longitude": "1.61373",
     "wikidata_url": "https://www.wikidata.org/wiki/Q81997"
   },
-  "984": {
-    "id": 984,
-    "order": "907.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__984",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "985": {
     "id": 985,
     "order": "908.00000000000000000000",
@@ -8568,17 +8216,6 @@
     "longitude": "14.46672",
     "wikidata_url": "https://www.wikidata.org/wiki/Q33946"
   },
-  "986": {
-    "id": 986,
-    "order": "909.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__986",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "987": {
     "id": 987,
     "order": "910.00000000000000000000",
@@ -8589,17 +8226,6 @@
     "latitude": "51.43436",
     "longitude": null,
     "wikidata_url": "https://www.wikidata.org/wiki/Q445609"
-  },
-  "988": {
-    "id": 988,
-    "order": "911.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__988",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "989": {
     "id": 989,
@@ -8787,17 +8413,6 @@
     "latitude": "50.91205",
     "longitude": "9.18430",
     "wikidata_url": "https://www.wikidata.org/wiki/Q2452168"
-  },
-  "1038": {
-    "id": 1038,
-    "order": "929.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1038",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "1039": {
     "id": 1039,
@@ -9008,17 +8623,6 @@
     "longitude": "7.26667",
     "wikidata_url": "https://www.wikidata.org/wiki/Q245542"
   },
-  "1091": {
-    "id": 1091,
-    "order": "950.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1091",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "1092": {
     "id": 1092,
     "order": "951.00000000000000000000",
@@ -9029,28 +8633,6 @@
     "latitude": "51.15922",
     "longitude": "13.68021",
     "wikidata_url": "http://www.wikidata.org/entity/Q1312663"
-  },
-  "1093": {
-    "id": 1093,
-    "order": "952.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1093",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
-  "1094": {
-    "id": 1094,
-    "order": "953.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1094",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "1096": {
     "id": 1096,
@@ -9288,21 +8870,21 @@
     "order": "976.00000000000000000000",
     "name": "Terijoki (Selenogorsk)",
     "tillich_id": "tillich_place_id__1120",
-    "geonames_url": "",
+    "geonames_url": "https://sws.geonames.org/463830/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": "https://www.wikidata.org/wiki/Q59704"
+    "latitude": "60.19968",
+    "longitude": "29.70183",
+    "wikidata_url": "http://www.wikidata.org/entity/Q46850"
   },
   "1121": {
     "id": 1121,
     "order": "977.00000000000000000000",
-    "name": "Kronstadt",
+    "name": "Kronstadt (Kronshtadt)",
     "tillich_id": "tillich_place_id__1121",
-    "geonames_url": "",
+    "geonames_url": "https://sws.geonames.org/11458926/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
+    "latitude": "60.01457",
+    "longitude": "29.70267",
     "wikidata_url": "https://www.wikidata.org/wiki/Q155863"
   },
   "1122": {
@@ -9492,17 +9074,6 @@
     "longitude": "7.50778",
     "wikidata_url": "http://www.wikidata.org/entity/Q2871"
   },
-  "1235": {
-    "id": 1235,
-    "order": "996.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1235",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "1236": {
     "id": 1236,
     "order": "997.00000000000000000000",
@@ -9513,17 +9084,6 @@
     "latitude": "54.75844",
     "longitude": "-2.69531",
     "wikidata_url": "https://www.wikidata.org/wiki/Q23666"
-  },
-  "1238": {
-    "id": 1238,
-    "order": "998.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1238",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "1271": {
     "id": 1271,
@@ -9712,17 +9272,6 @@
     "longitude": "98.00000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15180"
   },
-  "1353": {
-    "id": 1353,
-    "order": "1016.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1353",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "1354": {
     "id": 1354,
     "order": "1017.00000000000000000000",
@@ -9876,17 +9425,6 @@
     "latitude": "48.15221",
     "longitude": "11.61585",
     "wikidata_url": "https://www.wikidata.org/wiki/Q329707"
-  },
-  "1400": {
-    "id": 1400,
-    "order": "1031.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1400",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "1401": {
     "id": 1401,
@@ -10119,17 +9657,6 @@
     "longitude": "-80.23203",
     "wikidata_url": "https://www.wikidata.org/wiki/Q600504"
   },
-  "1455": {
-    "id": 1455,
-    "order": "1053.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1455",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "1456": {
     "id": 1456,
     "order": "1054.00000000000000000000",
@@ -10273,17 +9800,6 @@
     "longitude": "6.49299",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1884"
   },
-  "1533": {
-    "id": 1533,
-    "order": "1067.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1533",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "1534": {
     "id": 1534,
     "order": "1068.00000000000000000000",
@@ -10305,17 +9821,6 @@
     "latitude": "51.79908",
     "longitude": "10.61565",
     "wikidata_url": "https://www.wikidata.org/wiki/Q155721"
-  },
-  "1536": {
-    "id": 1536,
-    "order": "1070.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1536",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "1537": {
     "id": 1537,
@@ -10525,17 +10030,6 @@
     "latitude": "53.66667",
     "longitude": "10.01667",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1175"
-  },
-  "1716": {
-    "id": 1716,
-    "order": "1090.00000000000000000000",
-    "name": "",
-    "tillich_id": "tillich_place_id__1716",
-    "geonames_url": "",
-    "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
   },
   "1749": {
     "id": 1749,
@@ -10777,6 +10271,50 @@
     "Working Notes": "",
     "latitude": "50.20164",
     "longitude": "9.18742",
+    "wikidata_url": ""
+  },
+  "1899": {
+    "id": 1899,
+    "order": "1114.00000000000000000000",
+    "name": "Nordamerika",
+    "tillich_id": "tillich_place_id__1899",
+    "geonames_url": "https://www.geonames.org/7729890/",
+    "Working Notes": "",
+    "latitude": "54.77535",
+    "longitude": "-105.64453",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q49"
+  },
+  "1900": {
+    "id": 1900,
+    "order": "1115.00000000000000000000",
+    "name": "Südamerika",
+    "tillich_id": "tillich_place_id__1900",
+    "geonames_url": "https://www.geonames.org/6255150/",
+    "Working Notes": "",
+    "latitude": "-14.60485",
+    "longitude": "-57.65625",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q18"
+  },
+  "1901": {
+    "id": 1901,
+    "order": "1116.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1901",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1902": {
+    "id": 1902,
+    "order": "1117.00000000000000000000",
+    "name": "Hela (Hel)",
+    "tillich_id": "tillich_place_id__1902",
+    "geonames_url": "https://www.geonames.org/7531384/",
+    "Working Notes": "",
+    "latitude": "54.63650",
+    "longitude": "18.77439",
     "wikidata_url": ""
   }
 }

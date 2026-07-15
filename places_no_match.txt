@@ -1,541 +1,544 @@
-Stove
+Gauting
 Königsberg in Pr.
-Wiederau (Rochlitz)
-Freiburg in Schlesien
-Moers
-Friedelsheim
-Ramsgate
-Elsfleth
-Duisburg
-Horn b. Hamburg
-Chicago, Illinois, USA
-Lesum
-Borgfelde (Mecklenburg)
-Reichenbach im Vogtland
-Beerfelden
-Kaufbeuren
-Zwickau
-East Hampton, NY
-Winterthur
-Oberhausen
-Kisielice (Ermland-Masuren)
-Aschbach b. Bamberg
-Brackwede
-Alexandria
-Naumburg (Saale)
-Wecklau (Ostpreußen)
-Chorasan
-Bronxville
-Wolkenburg-Kaufungen
-Norderney
-Berlin-Steglitz
-Altaussee
-Walenstadt
-Allenberg bei Wehlau
-Hausen (Waldbrunn, Westerwald)
-Stuttgart-Stammheim
-Annapolis
-Sankt Petersburg
-Zakynthos (Stadt)
-Stadthagen
-Rammenau
-Charlottenburg (Berlin)
-Zierenberg
-Wald b. Solingen
-Windischleuba
-Mailand
-Randolph, New Hampshire
-Tours
-Gmunden
-Stornoway, Schottland
-Linnich
-Königsberg
-Neuruppin
-Königsberg (Preußen)
-New Rochelle, NY
-Diez
-Tarsos
+Langenburg
+Bad Münder- Eimbeckhausen
 Pieve di Cadore
-Leuthen (Drebkau)
-Rudolfsheim
-Steinheim-Kleinbottwar
-Bad Vilbel
-Dover, Del.
-Falkenberg b. Berlin
-Ndola
-Schwarzach im Pongau
-Helmstedt
-Ruit
-Hottingen (Zürich)
-Kleve
-Maur
-Maaseik
-Freiburg im Breisgau
-Buenos Aires
-Annaberg (Erzgebirge)
-New York
-Ahrenshoop, Vorpommern
-Bad Brückenau
-Bad Berleburg- Diedenshausen
-Cammin in Pommern
-Kufa
-Hirzel
-Endenich
-Altenburg (Thüringen)
-Canterbury
-Nackenheim
-Flensburg
-Wuppertal-Barmen
-Bayreuth
-Einbeck-Greene
-Locarno
-New York, NY
+Boppard
+Madison, New Hampshire
+Wörrstadt
 Wallhalben
+Lititz, Pennsylvania
+Krefeld
+Hamburg-Hamm
+Jasnaja Poljana
+Bad Soden im Taunus
+Chicago, Illinois, USA
+Sangerhausen
+Alt-Rahlstedt
+Dorlisheim
+Holzwickede-Opherdicke
+Weinsberg
+Marienwerder
+Brackwede
+Bielefeld-Bethel
+Friedelsheim
+Palm Beach, Florida
+Bad Dürrheim
+Leichlingen (Rheinland)
+Wannefeld
+Nordstetten (Horb am Neckar)
+Argostolion
+Prien a. Chiemsee
+Tiefenort
+Dölzig
+Lengerich (Kreis Steinfurt)
+Lesum
+Endenich
+Sprockhövel-Herzkamp
+Mülhausen
+Saint Louis, Mo.
+Worms
+Łódź
+Hottingen (Zürich)
+Veltheim
+Nenagh
+Zerbst/Anhalt
+Brügge
+Sankt Petersburg
+Szamocin
+Sundhausen
+Chicago, Ill.
+Morcote
+Bad Vilbel
+Linden (Hannover)
+Kreuznach
+Waschington, D.C.
+New Rochelle, NY
+Iowa City
+Ronsdorf
+South Haven
+Tetenbüll
+Wilhelmshaven
+Gorodenka (Oblast Iwano-Frankiwsk)
+Kent
+Schmalenbeck
+Langfuhr
+Kilchberg
+Husum (Kreis Nordfriesland)
+Graben
+Kufa
+Bingen
+Exeter
+Kappel am Albis
+Wannsee (Ort)
+Lomonossow
+Waldbröl
+Port-Joinville
+Bad Honnef
+Chełmno
+Grüningen (Landkreis Gießen)
+Ferndorf
+Linz
+Castello Roccasecca
+Falkenberg b. Berlin
+Bad Berleburg- Diedenshausen
+Lichterfelde (Berlin)
+Maaseik
+Stuttgart-Stammheim
+Cammin in Pommern
+Sinsheim
+New York, NY
+Traben-Trarbach
+Buttstädt-Mannstedt
+Rochefort (Charente-Maritime)
+Froeschwiller
+Helmstedt
+Cambridge, Mass.
+Nova Friburgo, Brasilien
+Cusset
+Radebeul
+Freiburg im Breisgau
+Königstein im Taunus
+Wevelinghoven
+Idstedt
+Padua
+Mönkeberg
+Altenburg (Thüringen)
+Halle / Saale
+Gefallen bei Steenstraate
+Dachtel
+Fahrenbach
+St. Petersburg
+Schloß Doorn (Holland)
+Duisburg
+Stagira
+Bücken (Landkreis Nienburg/Weser)
+Anklam
+Pilsen
+Lauenhagen
+Wildhaus
+Markowice (Powiat Mogileński)
+Alexandria
+Friedersdorf (Spree)
+Heilsbronn
+Bad Rassau a. d. Lahn
+Elgershausen
+Wiedikon
+Finsterwalde
+Stamford, Conneticut
+Mittweida
+Gmunden
+Kirchhain
+Peine
+York
+Altdamm
+Wittnau (Breisgau-Hochschwarzwald)
+Rammenau
+Schönhausen (Elbe)
+Preußisch Holland
+Ballenstedt
+Königsberg (Preußen)
+Aarhus
+Nehren (Landkreis Tübingen)
+Waltrop
+Ockham
+Annaberg (Erzgebirge)
+Ludwigsburg
+Ansbach
+Lutterworth
+Granada
+Dover, Del.
+Annapolis
+Minden (Westf)
+Klein-Schmalkaden
+St. Joseph Township, Berrien, Michigan, United States
+Hünfeld
+Gefallen bei Courcelette
+Kiew
+Neunkirchen (Neckar-Odenwald-Kreis)
+Brasilien, São Paulo
+Wecklau (Ostpreußen)
+Quincy, Adams, Illinois, United States
+Biebrich (Wiesbaden)
+Heiligenberg (Bodenseekreis)
+Marienburg (Westpreußen, Region)
+Haarlem
+Laon
+Polen, Koźmin
+Bielawa
+Dornum
+Mailand
+Hameln
+Groß Rietz
+Krakeln
+Ferrol
+Roslyn Heights, NY
+Bethlehem (Pennsylvania)
+Karthago
+Langendiebach
+Lübbecke
+Cosenza
+Le Pallet
+Altwied
+Bad Traunstein
+Hademarschen
+Hadersdorf-Weidlingau
+Zwötzen / Reuß
+Polen, Ujście
+Princeton, NJ
+Lausanne
+(wohl) Görlitz
+Herne
+Nellingen
+Barmen
+Columbia, Ohio
+Petrópolis
+Denham
+Eningen unter Achalm
+Oberfischbach (Großerlach)
+Ottobrunn
+Oberhausen
+Löhne-Gohfeld
+Bad Muskau
+Grave
+Cauchy-à-la-Tour
+Perlin
+Freystadt (Niederschlesien)
+Teschendorf (Hinterpommern)
+Stadthagen
+Einbeck-Greene
+Schieder
+Schwerin- Neu Zippendorf
+Rudolfsheim
+Lüttich
+Zwolle
+Borby
+Deutz
+Buenos Aires
+Malmö
+Butschatsch
+Leonberg (Landkreis Böblingen)
+Windischleuba
+Herford
+Rebelow
+Tacken
+Antwerpen
+Jüterbog
+Uetze-Obershagen
+Zagreb
+Essen-Steele
+Boston, Mass.
+Preußisch Oldendorf
+Frankfurt a.M.
+Witebsk
+Starzeddel
+Ames, Iowa
+Lipnice nad Sázavou
+Marburg/Lahn
+Dieppe
+Stove
+Münster (Westf)
+Förderstedt
+Melkow
+Müllheim
+Barzwitz (Barzowice)
+Colorado Springs
+Hardegsen
+Bayreuth
+Dolzig (Niederlausitz)
+Horn (Hamburg)
+Planegg
+Priverno-Fossanova
+Charlottenburg (Berlin)
+Dobberphul
+Wohlau
+Ruit
+Finkenwerder
+Friedenau (Berlin)
+Beverungen
+Vögisheim
+Landsberg an der Warthe
+Fréjus
+Neckarau
+Kempen (Kreis Viersen)
+Mopsuestia
+Hohenstaufen
+Pieszyce
+Eschershausen
+Bad Ragaz
+Wolkenburg-Kaufungen
+Heidelberg
+Kairo
+Berlin Wilmersorf
+Bad Godesberg
+Moers
+Alt-Seidenberg
+Hinte
+Nottingham
+Valencia
+Eutin
+Drogobytsch
+Zakynthos (Stadt)
+Bad Tölz
+Ramsgate
+Reichenbach (Lautertal)
+Babylon
+Oldenburg (Oldenburg)
+Frankfurt/Oder
+Icking
+Bad Honnef- Rhöndorf (Rhein)
+Archangel'skoe (Krasnogorsk)
+Waiblingen
+Corsier-sur-Vevey
+Winterthur
+Stamford, Conn.
+Steinigtwolmsdorf
+Saalfeld/Saale
+Sankt Gallen
+Meggen (Kanton Luzern)
+Berlin (West)
+Washington, DC
+Bad Langensalza
 Bunde
+Locarno
+Treffurt
+Elten
+Dorpat
+Meran
+Troy, New York
+Oberholzheim
+Freudenstadt im Schwarzwald
+Opherdicke
+Hrušovany nad Jevišovkou
+Eisleben
+Perleberg
+Zschopau
+Signy-l'Abbaye
+Słupiec
+Boise
+Bar-le-Duc
+Belsano
+Lemberg
+Speyer
+Hendaye
+Biskupiec (Nowe Miasto Lubawskie)
+Mark (Hamm)
+Müritzsee
+Ilsenburg
+Rotenburg a. d. Fulda
+Beerfelden
+Heusden (Nordbrabant)
+West-Berlin
+Lissa
+Bardejov, Slowakei
+Málaga
+Haunstetten
+Alexandrija
+Hausen (Waldbrunn, Westerwald)
+Farnham
+Glatz
+Haiger b. Wiesbaden
+Perugia
+Bentwisch
+Edderitz
+Waschingtion, D.C.
+Moosburg a.d. Isar
+Randolph, New Hampshire
+Oldenburg
+Ludwigshafen am Rhein
+Cincinnatti, Ohio
+Aschbach b. Bamberg
+Alt Schwerin
+Tel Aviv-Jaffa
+Nackenheim
+Bach Kreuznach
+Klein Flottbek
+Liegnitz
+Dornach
+Canterbury
+Chorasan
+Harburg (Elbe)
+Brasilien, Curitiba
+Bagdad
+Tecklenburg
+Lauingen (Donau)
+Zwischen Ausacker und Husby
+Briesen (Prov. Posen)
+Cissna Park
+Stavenhagen
+Ebenhausen (Schäftlarn)
+Ramsen (Schaffhausen)
+Maur
+New York
+Herrnhut-Rennersdorf
+Döberitz
+Fürth
+Ixelles
+Mülheim an der Ruhr
+Zwickau
+Pella (Nordgriechenland)
+Burgdorf b. Goslar
+Puderbach
+Hörde
+Flensburg
+Öhringen
+Wuppertal-Barmen
+Conches-en-Ouche
+Pleskau
+Sint-Amands
+New Rochelle, New York
+Kaufbeuren
+Berlin-Steglitz
+Stücken
+Passugg-Araschgen
+Horn b. Hamburg
+East Hampton, NY
+Tarsos
+Philadelphia
+Marburg
+Auvers-sur-Oise
+Eichwerder bei Stettin
+Diez
+Bernstadt an der Weide
+Hechingen
+Antiochia (Orontes)
+Klaipėda
+Emden
+Steinheim-Kleinbottwar
+Carmel-by-the-Sea, Calif.
+Franfurt a. Main
+Alzano Lombardo
+Allenberg bei Wehlau
+Wald-Michelbach
+Selke-Aue-Wedderstedt
+Kleve
+Nakło nad Notecia̜
+Berlin, Deutschland
+Groß-Lichterfelde
+Oldenswort
+Oświęcim
+Kranz (Posen)
+Plau
+Zierenberg
+Frankfurt/Main
+Kalbe (Milde)
+Mühlheim an der Ruhr
+Stonsdorf
+Altaussee
+Glatz (Schlesien)
+Kloster Lehnin- Lehnin
+Schweriner Schloss
+Berlin-Dahlem
+Alt-Schadow
+Stettin
+Schwarzach im Pongau
+Odenkirchen
+Langeoog
+Mulki
+Pforzheim
+Bernau b. Berlin
+Zangberg, Bayerin
+Ahrenshoop, Vorpommern
+Naumburg (Saale)
+Leuthen (Drebkau)
+Rengsdorf
+Coca (Provinz Segovia)
+Danzig
+Elsfleth
+Osten (Cuxhaven)
+Wallefeld
+Gries (Bozen)
+Großkrausnigk
+Neuenstadt am Kocher
+La Crosse, Wis.
+Graz
+Reichenbach im Vogtland
+Stornoway, Schottland
+Chislehurst
+Ndola
+Rod an der Weil
+Amasya
+Hohenhorn
+Kampen (Sylt)
+Herrnhut
+Görlitz
+Küssnacht am Rigi
+Würzurg
+Langenstein b. Halberstadt
+Gunzenhausen
+Bad Brückenau
+Rötingdorf bei Werther
+Wiederau (Rochlitz)
+Ancona
+Grabs
+Kunzewo (Moskau)
+Lev Tolstoj
+Riga
+Uentrop (Kreis Unna)
+Prietzen
+Los Angeles
+Konstanz
+Kansas City, Mo.
+Linnich
+Alsfeld
+Lauterbach (Hessen)
+Brooklyn
+Neuruppin
+Norderney
+Chalkide
+Thundorf i. UFr.
+Wartenburg (Ostpreußen)
+Bahia, Brasilien
+Schwersenz
+Gori (Šida K̕art̕li)
+Coyoacán
+Großjena
+Borgfelde (Mecklenburg)
+Rheydt
+Ernstthal
+Bramsche-Engter
 Kay
 Bischofshagen
-Troy, New York
-Berlin (West)
-Kranz (Posen)
-Marienburg (Westpreußen, Region)
-Bentwisch
-Grave
-Osten (Cuxhaven)
-Ixelles
-Dornach
-Ottobrunn
-Waiblingen
-Brooklyn
-Sangerhausen
-Oświęcim
-Herne
-Breitscheid bei Ratingen
-Saalfeld/Saale
-Altdamm
-Kent
-Müritzsee
-Haunstetten
-Zagreb
-Sinsheim
-Cosenza
-Stonsdorf
-Schweriner Schloss
-Rotenburg a. d. Fulda
-Ferrol
-Bethlehem (Pennsylvania)
-Babylon
-Herford
-Planegg
-Bad Langensalza
-Horn (Hamburg)
-Bingen
-Ansbach
-Chislehurst
-Hinte
-Stagira
-Saint Louis, Mo.
-Wilmersdorf
-Rengsdorf
-Langeoog
-Holzwickede-Opherdicke
-Wörrstadt
-Kansas City, Mo.
-St. Petersburg
-Förderstedt
-Gehrenrode a. H.
-New Haven
-Wartenburg (Ostpreußen)
-Cauchy-à-la-Tour
-Ames, Iowa
-Łódź
-Rod an der Weil
-Murnau a. Staffelsee
-Mopsuestia
-Klein Flottbek
-Farnham
-Lauingen (Donau)
-Gefallen bei Courcelette
-Hechingen
-Elten
-München-Obermenzing
-Prietzen
-Hörde
-Boston, Mass.
-Graben
-Lengerich (Kreis Steinfurt)
-Heiligenberg (Bodenseekreis)
-Essen-Steele
-Lamar, Mo.
-Frankfurt (Oder)
-Preußisch Oldendorf
-Bernstadt an der Weide
-Husum (Kreis Nordfriesland)
-Rebelow
-Mönkeberg
-Stamford, Conn.
-Aarhus
-Colorado Springs
-Selke-Aue-Wedderstedt
-Bücken (Landkreis Nienburg/Weser)
-Lauterbach (Hessen)
-Marburg
-Schönhausen (Elbe)
-Rheydt
-Valencia
-Müllheim
-Wannsee (Ort)
-Burgdorf b. Goslar
-Mittweida
-Schieder
-Oberfischbach (Großerlach)
-Leonberg (Landkreis Böblingen)
-Kirchhain
-Preußisch Holland
-Chicago, Ill.
-Bergen
-Raudnitz an der Elbe
-Karthago
-Hamburg-Hamm
-Ilsenburg
-Alzano Lombardo
-Hademarschen
-Belsano
-Cusset
-Granada
-Würzurg
-Kempen (Kreis Viersen)
-Großjena
-Bad Godesberg
-Columbia, Ohio
-Oldenburg
-Nova Friburgo, Brasilien
-Odenkirchen
-Mühlheim an der Ruhr
-Briesen (Prov. Posen)
-Brasilien, Curitiba
-Oldenburg (Oldenburg)
-Marburg/Lahn
-Antwerpen
-Schwersenz
-Padua
-Perugia
-Morcote
-Málaga
-Weinsberg
-Stavenhagen
-Deutz
-Fahrenbach
-Bernau b. Berlin
-Rötingdorf bei Werther
-Dolzig (Niederlausitz)
-Hadersdorf-Weidlingau
-Barmen
-Denham
-Gunzenhausen
-Königstein im Taunus
-Graz
-Hrušovany nad Jevišovkou
-Waschingtion, D.C.
-Finkenwerder
-Carmel-by-the-Sea, Calif.
-Sankt Gallen
-Biskupiec (Nowe Miasto Lubawskie)
-Linden (Hannover)
-Tiefenort
-Palm Beach, Florida
-Oberholzheim
-Pella (Nordgriechenland)
-Petrópolis
-Ernstthal
-Bad Traunstein
-Groß-Lichterfelde
-Bielawa
-Glatz (Schlesien)
-Nellingen
-Laon
-Coca (Provinz Segovia)
-Stamford, Conneticut
-Ballenstedt
-Starzeddel
-Herrnhut-Rennersdorf
-Bardejov, Slowakei
-Washington, DC
-Bielefeld-Bethel
-Drogobytsch
-Barendorf (Lüneburg)
-Gauting
-Zwolle
-Eisleben
-Sundhausen
-Radmeritz
-Haiger b. Wiesbaden
-Stücken
-Chełmno
-Karolin (Zwoleń)
-Haarlem
-Jüterbog
-Argostolion
-Iowa City
-Dorpat
-Bad Honnef
-Ehrwald/Tirol
-Lauenhagen
-Schlatt im Breisgau
-Conches-en-Ouche
-Kloster Lehnin- Lehnin
-Wohlau
-Borby
-Linz
-Freystadt (Niederschlesien)
-Neckarau
-Schwerin- Neu Zippendorf
-Lübbecke
-Kappel am Albis
-Danzig
-Löhne-Gohfeld
-Eningen unter Achalm
-Minden (Westf)
-Tel Aviv-Jaffa
-Polen, Ujście
-Freudenstadt im Schwarzwald
-Boise
-Wald-Michelbach
-Zwischen Ausacker und Husby
-Bad Ragaz
-Sensburg
-Elgershausen
-Frankfurt/Oder
-Zwötzen / Reuß
-Butschatsch
-Froeschwiller
-Bagdad
 Fürth (Bayern)
-Gorodenka (Oblast Iwano-Frankiwsk)
-Thundorf i. UFr.
-Friedersdorf (Spree)
-Neuenstadt am Kocher
-Mülhausen
-Eichwerder bei Stettin
-Vögisheim
-Alt-Seidenberg
-Langenstein b. Halberstadt
-Krakeln
-Archangel'skoe (Krasnogorsk)
-Kalbe (Milde)
-Wilhelmshaven
-Brügge
-Görlitz
-Szamocin
-Heusden (Nordbrabant)
-Kampen (Sylt)
-Beverly Hills, Calif.
-Kiew
-Uentrop (Kreis Unna)
-South Haven
-Wannefeld
-Castello Roccasecca
-Boppard
-Langenburg
-Berlin-Dahlem
-Pilsen
-Großkrausnigk
-Melkow
-Gori (Šida K̕art̕li)
-Groß Rietz
-Friedenau (Berlin)
-Ludwigsburg
-Ferndorf
-Hünfeld
-West-Berlin
-Prien a. Chiemsee
-Bahia, Brasilien
-Klaipėda
-York
-Passugg-Araschgen
-Radebeul
-Mülheim an der Ruhr
-Tartu
-Berlin, Deutschland
-Altwied
-Klein-Schmalkaden
-Dachtel
-Le Pallet
-Dornum
-Dorlisheim
-Beverungen
-Bad Rassau a. d. Lahn
-Liegnitz
-Cincinnatti, Ohio
-Bad Soden im Taunus
-Langendiebach
-Princeton, NJ
-Düsseldorf-Oberkassel
-Hendaye
-Neunkirchen (Neckar-Odenwald-Kreis)
-Alt-Rahlstedt
-Pforzheim
-Gefallen bei Steenstraate
-Bad Dürrheim
-Chalkide
-Lititz, Pennsylvania
-Roslyn Heights, NY
-Döberitz
-Hameln
-Herrnhut
-Marienwerder
-Hohenhorn
 Posen
-Philadelphia
-Krefeld
-Bad Münder- Eimbeckhausen
-Dieppe
-Langfuhr
-Zschopau
-Plau
-Barzwitz (Barzowice)
-Fréjus
+Walenstadt
+Frankfurt (Oder)
+Raudnitz an der Elbe
 Frankfurt / Oder
-Witebsk
-Ronsdorf
-Quincy, Adams, Illinois, United States
-Wildhaus
-Puderbach
-Wittnau (Breisgau-Hochschwarzwald)
-Halle / Saale
-Franfurt a. Main
-Jasnaja Poljana
-Teschendorf (Hinterpommern)
-Würzburg
-Ludwigshafen am Rhein
-Heidelberg
-Tecklenburg
-Alsfeld
-Anklam
-Buttstädt-Mannstedt
-Riga
-Alt Schwerin
-New Rochelle, New York
-Dobberphul
-Los Angeles
-Eutin
-Biebrich (Wiesbaden)
-Küssnacht am Rigi
-Icking
-Grabs
-Worms
-Priverno-Fossanova
-Milet
-Eschershausen
-Hardegsen
-Cissna Park
-Schmalenbeck
-Tacken
-Hohenstaufen
-Signy-l'Abbaye
-Dölzig
-Großbothen
-Dublin
-Schloß Doorn (Holland)
-Markowice (Powiat Mogileński)
-Lissa
-Lemberg
-Idstedt
-Waldbröl
-Auvers-sur-Oise
-Port-Joinville
-Lutterworth
-Nehren (Landkreis Tübingen)
 Hoppegarten-Münchehofe
-Lüttich
-Malmö
-Madrid
-Wiedikon
-Govelin
-Bad Honnef- Rhöndorf (Rhein)
-Kairo
-Nordstetten (Horb am Neckar)
-Grüningen (Landkreis Gießen)
-Rochefort (Charente-Maritime)
-Perleberg
-Lausanne
-Mulki
-Kunzewo (Moskau)
-Reichenbach (Lautertal)
-Speyer
-Ancona
-Coyoacán
-Kilchberg
-Sprockhövel-Herzkamp
-Ramsen (Schaffhausen)
-Starzeddel, Niederschlesien (heute Polen)
-Berlin Wilmersorf
-Zundert
-Veltheim
-Oldenswort
-Antiochia (Orontes)
-Domnau (Ostpreußen)
-Bar-le-Duc
-Bramsche-Engter
-Nottingham
-Nakło nad Notecia̜
-Madison, New Hampshire
-Lichterfelde (Berlin)
-Corsier-sur-Vevey
-Alexandrija
-Glatz
-Nenagh
-Leichlingen (Rheinland)
-Waschington, D.C.
+Königsberg
+Bergen
 Züllchow b. Stettin
-Bad Muskau
-Ebenhausen (Schäftlarn)
-Amasya
-Tetenbüll
-Waltrop
-Harburg (Elbe)
-Brasilien, São Paulo
-Heilsbronn
-Öhringen
-Emden
-Moosburg a.d. Isar
-Sint-Amands
-Exeter
+Dublin
+Radmeritz
+Großbothen
+Barendorf (Lüneburg)
+Madrid
+Domnau (Ostpreußen)
+Bronxville
+Milet
+Karolin (Zwoleń)
+Zundert
 Reval
-Steinigtwolmsdorf
+Kisielice (Ermland-Masuren)
 Saint-Marcel (Chalon-sur-Saône)
-Traben-Trarbach
-Finsterwalde
-Bach Kreuznach
-Opherdicke
-Fürth
-Zerbst/Anhalt
-Meggen (Kanton Luzern)
-Lipnice nad Sázavou
-Edderitz
-Frankfurt/Main
-Mark (Hamm)
-Lev Tolstoj
-Fraustadt
-Peine
-Pieszyce
-Lomonossow
-Frankfurt a.M.
-Wevelinghoven
-Uetze-Obershagen
-La Crosse, Wis.
-Perlin
-Landsberg an der Warthe
-Konstanz
-Cambridge, Mass.
-Kreuznach
-Ockham
-(wohl) Görlitz
-St. Joseph Township, Berrien, Michigan, United States
-Alt-Schadow
-Meran
-Münster (Westf)
-Polen, Koźmin
-Zangberg, Bayerin
-Słupiec
-Treffurt
-Gries (Bozen)
+Govelin
+Schlatt im Breisgau
+Tartu
+New Haven
+Freiburg in Schlesien
+Wald b. Solingen
+Starzeddel, Niederschlesien (heute Polen)
+Murnau a. Staffelsee
+Breitscheid bei Ratingen
+Düsseldorf-Oberkassel
+Würzburg
+Gehrenrode a. H.
+Tours
+Beverly Hills, Calif.
+Hirzel
+Ehrwald/Tirol
+Wilmersdorf
+Lamar, Mo.
+Sensburg
+München-Obermenzing
