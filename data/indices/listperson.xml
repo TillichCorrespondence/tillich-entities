@@ -14737,9 +14737,9 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2354">
-                  <persName>???, Anna</persName>
+                  <persName>Harz, Anna</persName>
                   <note type="bio">
-                     <p>Anna (Lebensdaten und Nachname unbekannt) war unter Umständen die neue Haushaltshilfe der Tillichs, nach dem Toni Winkler ausgezogen war. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                     <p>Anna Harz (1884/85–1928/29) war ab 1904 bis zu ihrem Tod Haushaltshilfe der Tillichs. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2355">
@@ -16773,9 +16773,21 @@
                </person>
                <person xml:id="tillich_person_id__2547">
                   <persName>Kapell, Hubert</persName>
+                  <birth>
+                     <date>1888-08-24</date>
+                     <settlement>
+                        <placeName>Bocket b. Heinsberg</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1959-12-22</date>
+                     <settlement>
+                        <placeName>Hiltrup</placeName>
+                     </settlement>
+                  </death>
                   <occupation>Katholischer Feldgeistlicher</occupation>
                   <note type="bio">
-                     <p>Hubert Kapell (Lebensdaten unbekannt) war ein katholischer Feldgeistlicher während des Ersten Weltkriegs. Aus dem Jahr 1919 ist ein an den Theologen Paul Tillich gerichteter Brief von ihm überliefert. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
+                     <p>Hubert Kapell war ein katholischer Feldgeistlicher während des Ersten Weltkriegs.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2548">

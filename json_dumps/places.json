@@ -10316,5 +10316,16 @@
     "latitude": "54.63650",
     "longitude": "18.77439",
     "wikidata_url": ""
+  },
+  "1903": {
+    "id": 1903,
+    "order": "1118.00000000000000000000",
+    "name": "Altenschlirf",
+    "tillich_id": "tillich_place_id__1903",
+    "geonames_url": "https://www.geonames.org/2957486/",
+    "Working Notes": "",
+    "latitude": "50.53468",
+    "longitude": "9.38708",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q437542"
   }
 }
