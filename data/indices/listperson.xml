@@ -8125,7 +8125,10 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date>1959</date>
+                     <date>1959-06-02</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__236">Kassel</placeName>
+                     </settlement>
                   </death>
                   <occupation>Pädagoge, Direktor und Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/140540970</idno>
