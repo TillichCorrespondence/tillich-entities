@@ -11455,6 +11455,9 @@
                </person>
                <person xml:id="tillich_person_id__2039">
                   <persName>Werner, Louise</persName>
+                  <birth>
+                     <date>18??-08-21</date>
+                  </birth>
                   <note type="bio">
                      <p>Louise Werner (Lebensdaten unbekannt) war die Mutter von Hannah Tillich. Mehr biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -17141,6 +17144,9 @@
                </person>
                <person xml:id="tillich_person_id__2585">
                   <persName>Werner, Roland</persName>
+                  <birth>
+                     <date>1893-08-07</date>
+                  </birth>
                   <note type="bio">
                      <p>Er war der älteste Bruder von Hannah Tillich und diente im 2. Weltkrieg als Hauptmann bei der Luftwaffe. Er verhungerte jedoch später.</p>
                   </note>
@@ -27937,6 +27943,11 @@
                <person xml:id="tillich_person_id__5533">
                   <persName>Dernburg, Emma</persName>
                   <occupation>geborene  Seliger</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5534">
+                  <persName>Ferber, Christian</persName>
+                  <occupation>Schriftsteller und Journalist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119387905</idno>
                </person>
             </listPerson>
          </div>

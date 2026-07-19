@@ -10327,5 +10327,27 @@
     "latitude": "50.53468",
     "longitude": "9.38708",
     "wikidata_url": "https://www.wikidata.org/wiki/Q437542"
+  },
+  "1904": {
+    "id": 1904,
+    "order": "1119.00000000000000000000",
+    "name": "Gibercy",
+    "tillich_id": "tillich_place_id__1904",
+    "geonames_url": "https://www.geonames.org/3016115/",
+    "Working Notes": "",
+    "latitude": "49.32232",
+    "longitude": "5.40796",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q21502007"
+  },
+  "1905": {
+    "id": 1905,
+    "order": "1120.00000000000000000000",
+    "name": "Damvillers",
+    "tillich_id": "tillich_place_id__1905",
+    "geonames_url": "https://www.geonames.org/3021794/",
+    "Working Notes": "",
+    "latitude": "49.34366",
+    "longitude": "5.40111",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q195737"
   }
 }

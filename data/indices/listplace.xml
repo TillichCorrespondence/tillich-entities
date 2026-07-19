@@ -7146,6 +7146,22 @@
                   <idno type="geonames">https://sws.geonames.org/2957486/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q437542</idno>
                </place>
+               <place xml:id="tillich_place_id__1904">
+                  <placeName>Gibercy</placeName>
+                  <location type="coords">
+                     <geo>49.32232 5.40796</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3016115/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q21502007</idno>
+               </place>
+               <place xml:id="tillich_place_id__1905">
+                  <placeName>Damvillers</placeName>
+                  <location type="coords">
+                     <geo>49.34366 5.40111</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3021794/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q195737</idno>
+               </place>
             </listPlace>
          </div>
       </body>
