@@ -27949,6 +27949,12 @@
                   <occupation>Schriftsteller und Journalist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119387905</idno>
                </person>
+               <person xml:id="tillich_person_id__5535">
+                  <persName>?, Elfriede</persName>
+               </person>
+               <person xml:id="tillich_person_id__5536">
+                  <persName>?, Erich</persName>
+               </person>
             </listPerson>
          </div>
       </body>

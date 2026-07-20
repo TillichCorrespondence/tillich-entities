@@ -7162,6 +7162,30 @@
                   <idno type="geonames">https://sws.geonames.org/3021794/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q195737</idno>
                </place>
+               <place xml:id="tillich_place_id__1906">
+                  <placeName>Saint-Étienne-sur-Suippe</placeName>
+                  <location type="coords">
+                     <geo>49.38714 4.09581</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2980212/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q668173</idno>
+               </place>
+               <place xml:id="tillich_place_id__1907">
+                  <placeName>Bourgogne</placeName>
+                  <location type="coords">
+                     <geo>49.34962 4.07111</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3030965/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q28039982</idno>
+               </place>
+               <place xml:id="tillich_place_id__1908">
+                  <placeName>Isles-sur-Suippe</placeName>
+                  <location type="coords">
+                     <geo>49.35558 4.20093</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3012700/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1222206</idno>
+               </place>
             </listPlace>
          </div>
       </body>

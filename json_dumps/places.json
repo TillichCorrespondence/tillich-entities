@@ -10349,5 +10349,38 @@
     "latitude": "49.34366",
     "longitude": "5.40111",
     "wikidata_url": "https://www.wikidata.org/wiki/Q195737"
+  },
+  "1906": {
+    "id": 1906,
+    "order": "1121.00000000000000000000",
+    "name": "Saint-Étienne-sur-Suippe",
+    "tillich_id": "tillich_place_id__1906",
+    "geonames_url": "https://www.geonames.org/2980212/",
+    "Working Notes": "",
+    "latitude": "49.38714",
+    "longitude": "4.09581",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q668173"
+  },
+  "1907": {
+    "id": 1907,
+    "order": "1122.00000000000000000000",
+    "name": "Bourgogne",
+    "tillich_id": "tillich_place_id__1907",
+    "geonames_url": "https://www.geonames.org/3030965/",
+    "Working Notes": "",
+    "latitude": "49.34962",
+    "longitude": "4.07111",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28039982"
+  },
+  "1908": {
+    "id": 1908,
+    "order": "1123.00000000000000000000",
+    "name": "Isles-sur-Suippe",
+    "tillich_id": "tillich_place_id__1908",
+    "geonames_url": "https://www.geonames.org/3012700/",
+    "Working Notes": "",
+    "latitude": "49.35558",
+    "longitude": "4.20093",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1222206"
   }
 }
