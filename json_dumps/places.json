@@ -10382,5 +10382,16 @@
     "latitude": "49.35558",
     "longitude": "4.20093",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1222206"
+  },
+  "1909": {
+    "id": 1909,
+    "order": "1124.00000000000000000000",
+    "name": "Liebenwerda",
+    "tillich_id": "tillich_place_id__1909",
+    "geonames_url": "https://sws.geonames.org/2953408/",
+    "Working Notes": "",
+    "latitude": "51.51826",
+    "longitude": "13.39459",
+    "wikidata_url": "http://www.wikidata.org/entity/Q31897509"
   }
 }

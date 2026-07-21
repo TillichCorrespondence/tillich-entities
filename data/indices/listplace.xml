@@ -7186,6 +7186,14 @@
                   <idno type="geonames">https://sws.geonames.org/3012700/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1222206</idno>
                </place>
+               <place xml:id="tillich_place_id__1909">
+                  <placeName>Liebenwerda</placeName>
+                  <location type="coords">
+                     <geo>51.51826 13.39459</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2953408/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q31897509</idno>
+               </place>
             </listPlace>
          </div>
       </body>
