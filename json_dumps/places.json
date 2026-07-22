@@ -10393,5 +10393,16 @@
     "latitude": "51.51826",
     "longitude": "13.39459",
     "wikidata_url": "http://www.wikidata.org/entity/Q31897509"
+  },
+  "1910": {
+    "id": 1910,
+    "order": "1125.00000000000000000000",
+    "name": "Doumely",
+    "tillich_id": "tillich_place_id__1910",
+    "geonames_url": "https://sws.geonames.org/3020940/",
+    "Working Notes": "",
+    "latitude": "49.62940",
+    "longitude": "4.30110",
+    "wikidata_url": ""
   }
 }

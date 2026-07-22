@@ -7194,6 +7194,13 @@
                   <idno type="geonames">https://sws.geonames.org/2953408/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q31897509</idno>
                </place>
+               <place xml:id="tillich_place_id__1910">
+                  <placeName>Doumely</placeName>
+                  <location type="coords">
+                     <geo>49.62940 4.30110</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3020940/</idno>
+               </place>
             </listPlace>
          </div>
       </body>
