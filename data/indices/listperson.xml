@@ -8651,9 +8651,6 @@
                <person xml:id="tillich_person_id__1787">
                   <persName>Sigerist, Henry E.</persName>
                </person>
-               <person xml:id="tillich_person_id__1788">
-                  <persName>Sigwart, Christoph</persName>
-               </person>
                <person xml:id="tillich_person_id__1789">
                   <persName>Siirala, Aarne</persName>
                   <occupation>Theologe</occupation>
@@ -18558,7 +18555,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2764">
-                  <persName>Siegward, Christioph von</persName>
+                  <persName>Sigwart, Christioph von</persName>
                   <birth>
                      <date>1830-03-28</date>
                      <settlement>

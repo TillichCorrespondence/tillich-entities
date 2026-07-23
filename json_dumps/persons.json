@@ -35579,26 +35579,6 @@
     "bio_en": null,
     "occupation_en": null
   },
-  "1788": {
-    "id": 1788,
-    "order": "1788.00000000000000000000",
-    "name": "Sigwart, Christoph",
-    "surname": "Sigwart",
-    "forename": "Christoph",
-    "from_to": "",
-    "occupation": "",
-    "bio": "",
-    "legacy_id": "P01790",
-    "gnd_url": "",
-    "tillich_id": "tillich_person_id__1788",
-    "date_of_birth": null,
-    "date_of_death": null,
-    "working_note": null,
-    "place_of_birth": null,
-    "place_of_death": null,
-    "bio_en": null,
-    "occupation_en": null
-  },
   "1789": {
     "id": 1789,
     "order": "1789.00000000000000000000",
@@ -54382,8 +54362,8 @@
   "2764": {
     "id": 2764,
     "order": "2759.00000000000000000000",
-    "name": "Siegward, Christioph von",
-    "surname": "Siegwart",
+    "name": "Sigwart, Christioph von",
+    "surname": "Sigwart",
     "forename": "Christoph von",
     "from_to": "1830-1905",
     "occupation": "Philosoph",
