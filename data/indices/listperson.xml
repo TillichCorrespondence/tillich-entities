@@ -16621,7 +16621,7 @@
                   <persName>Nausikaa</persName>
                   <idno type="gnd">https://d-nb.info/gnd/13157969X</idno>
                   <note type="bio">
-                     <p>Sie war die Tochter des phaiakischen Königs Alkinoos.</p>
+                     <p>Nausikaa ist eine Figur der griechischen Mythologie und die Tochter des phaiakischen Königs Alkinoos.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2528">
@@ -27951,6 +27951,12 @@
                </person>
                <person xml:id="tillich_person_id__5536">
                   <persName>?, Erich</persName>
+               </person>
+               <person xml:id="tillich_person_id__5537">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5538">
+                  <persName/>
                </person>
             </listPerson>
          </div>
