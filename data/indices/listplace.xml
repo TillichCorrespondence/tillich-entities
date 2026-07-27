@@ -7201,6 +7201,30 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/3020940/</idno>
                </place>
+               <place xml:id="tillich_place_id__1911">
+                  <placeName>Avançon</placeName>
+                  <location type="coords">
+                     <geo>49.47531 4.24533</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3035763/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1020431</idno>
+               </place>
+               <place xml:id="tillich_place_id__1912">
+                  <placeName>Tagnon</placeName>
+                  <location type="coords">
+                     <geo>49.43974 4.28923</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2973572/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q612252</idno>
+               </place>
+               <place xml:id="tillich_place_id__1913">
+                  <placeName>Acy-Romance</placeName>
+                  <location type="coords">
+                     <geo>49.50112 4.34203</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3038673/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q735958</idno>
+               </place>
             </listPlace>
          </div>
       </body>

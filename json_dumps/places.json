@@ -10404,5 +10404,38 @@
     "latitude": "49.62940",
     "longitude": "4.30110",
     "wikidata_url": ""
+  },
+  "1911": {
+    "id": 1911,
+    "order": "1126.00000000000000000000",
+    "name": "Avançon",
+    "tillich_id": "tillich_place_id__1911",
+    "geonames_url": "https://www.geonames.org/3035763/",
+    "Working Notes": "",
+    "latitude": "49.47531",
+    "longitude": "4.24533",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1020431"
+  },
+  "1912": {
+    "id": 1912,
+    "order": "1127.00000000000000000000",
+    "name": "Tagnon",
+    "tillich_id": "tillich_place_id__1912",
+    "geonames_url": "https://www.geonames.org/2973572/",
+    "Working Notes": "",
+    "latitude": "49.43974",
+    "longitude": "4.28923",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q612252"
+  },
+  "1913": {
+    "id": 1913,
+    "order": "1128.00000000000000000000",
+    "name": "Acy-Romance",
+    "tillich_id": "tillich_place_id__1913",
+    "geonames_url": "https://www.geonames.org/3038673/",
+    "Working Notes": "",
+    "latitude": "49.50112",
+    "longitude": "4.34203",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q735958"
   }
 }
