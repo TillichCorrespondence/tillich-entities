@@ -10437,5 +10437,27 @@
     "latitude": "49.50112",
     "longitude": "4.34203",
     "wikidata_url": "https://www.wikidata.org/wiki/Q735958"
+  },
+  "1914": {
+    "id": 1914,
+    "order": "1129.00000000000000000000",
+    "name": "Son",
+    "tillich_id": "tillich_place_id__1914",
+    "geonames_url": "https://www.geonames.org/2974266/",
+    "Working Notes": "",
+    "latitude": "49.58225",
+    "longitude": "4.27694",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1147218"
+  },
+  "1915": {
+    "id": 1915,
+    "order": "1130.00000000000000000000",
+    "name": "Perthes",
+    "tillich_id": "tillich_place_id__1915",
+    "geonames_url": "https://www.geonames.org/2987836/",
+    "Working Notes": "",
+    "latitude": "49.44947",
+    "longitude": "4.35057",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q376574"
   }
 }

@@ -7225,6 +7225,22 @@
                   <idno type="geonames">https://sws.geonames.org/3038673/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q735958</idno>
                </place>
+               <place xml:id="tillich_place_id__1914">
+                  <placeName>Son</placeName>
+                  <location type="coords">
+                     <geo>49.58225 4.27694</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2974266/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1147218</idno>
+               </place>
+               <place xml:id="tillich_place_id__1915">
+                  <placeName>Perthes</placeName>
+                  <location type="coords">
+                     <geo>49.44947 4.35057</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2987836/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q376574</idno>
+               </place>
             </listPlace>
          </div>
       </body>
