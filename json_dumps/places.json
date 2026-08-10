@@ -10459,5 +10459,27 @@
     "latitude": "49.44947",
     "longitude": "4.35057",
     "wikidata_url": "https://www.wikidata.org/wiki/Q376574"
+  },
+  "1916": {
+    "id": 1916,
+    "order": "1131.00000000000000000000",
+    "name": "Montmirail",
+    "tillich_id": "tillich_place_id__1916",
+    "geonames_url": "https://www.geonames.org/11547656/",
+    "Working Notes": "",
+    "latitude": "47.01654",
+    "longitude": "7.02622",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q70262"
+  },
+  "1917": {
+    "id": 1917,
+    "order": "1132.00000000000000000000",
+    "name": "Prignitz",
+    "tillich_id": "tillich_place_id__1917",
+    "geonames_url": "https://www.geonames.org/2852047",
+    "Working Notes": "",
+    "latitude": "53.00000",
+    "longitude": "12.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6132"
   }
 }

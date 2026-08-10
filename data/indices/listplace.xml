@@ -7241,6 +7241,22 @@
                   <idno type="geonames">https://sws.geonames.org/2987836/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q376574</idno>
                </place>
+               <place xml:id="tillich_place_id__1916">
+                  <placeName>Montmirail</placeName>
+                  <location type="coords">
+                     <geo>47.01654 7.02622</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/11547656/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q70262</idno>
+               </place>
+               <place xml:id="tillich_place_id__1917">
+                  <placeName>Prignitz</placeName>
+                  <location type="coords">
+                     <geo>53.00000 12.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2852047/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q6132</idno>
+               </place>
             </listPlace>
          </div>
       </body>
