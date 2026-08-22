@@ -2210,17 +2210,6 @@
     "longitude": "0.95268",
     "wikidata_url": "http://www.wikidata.org/entity/Q1170614"
   },
-  "259": {
-    "id": 259,
-    "order": "259.00000000000000000000",
-    "name": "Leimtopf",
-    "tillich_id": "tillich_place_id__259",
-    "geonames_url": "",
-    "Working Notes": "\"<!--Quartier o. ä. in Chemnitz?-->\" Kommentar von AB in tillich__1907-tillich-p-an-fritz-a-hatte-ich_81",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
-  },
   "260": {
     "id": 260,
     "order": "260.00000000000000000000",
@@ -5788,7 +5777,7 @@
   "672": {
     "id": 672,
     "order": "665.00000000000000000000",
-    "name": "Athens",
+    "name": "Athen",
     "tillich_id": "tillich_place_id__672",
     "geonames_url": "",
     "Working Notes": "",
@@ -10481,5 +10470,16 @@
     "latitude": "53.00000",
     "longitude": "12.00000",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6132"
+  },
+  "1918": {
+    "id": 1918,
+    "order": "1133.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1918",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
