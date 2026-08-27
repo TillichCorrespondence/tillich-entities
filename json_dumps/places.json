@@ -10474,8 +10474,52 @@
   "1918": {
     "id": 1918,
     "order": "1133.00000000000000000000",
-    "name": "",
+    "name": "American Museum of Natural History",
     "tillich_id": "tillich_place_id__1918",
+    "geonames_url": "https://www.geonames.org/5107123/",
+    "Working Notes": "",
+    "latitude": "40.78340",
+    "longitude": "-73.97893",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q217717"
+  },
+  "1919": {
+    "id": 1919,
+    "order": "1134.00000000000000000000",
+    "name": "Metropolitan Opera Company",
+    "tillich_id": "tillich_place_id__1919",
+    "geonames_url": "https://www.geonames.org/5126699/",
+    "Working Notes": "Listed as Metropolitan Opera House on Geonames",
+    "latitude": "40.77288",
+    "longitude": "-73.98458",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q10583424"
+  },
+  "1920": {
+    "id": 1920,
+    "order": "1135.00000000000000000000",
+    "name": "New School for Social Research",
+    "tillich_id": "tillich_place_id__1920",
+    "geonames_url": "https://www.geonames.org/6329893/",
+    "Working Notes": "No Wikidata page available. Wikipedia page for the Historical New School: https://en.wikipedia.org/wiki/The_New_School",
+    "latitude": "40.73528",
+    "longitude": "-73.99750",
+    "wikidata_url": ""
+  },
+  "1921": {
+    "id": 1921,
+    "order": "1136.00000000000000000000",
+    "name": "Alexandria (Ägypten)",
+    "tillich_id": "tillich_place_id__1921",
+    "geonames_url": "https://sws.geonames.org/361058/",
+    "Working Notes": "",
+    "latitude": "31.20176",
+    "longitude": "29.91582",
+    "wikidata_url": "http://www.wikidata.org/entity/Q87"
+  },
+  "1923": {
+    "id": 1923,
+    "order": "1137.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1923",
     "geonames_url": "",
     "Working Notes": "",
     "latitude": null,

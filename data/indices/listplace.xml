@@ -7254,6 +7254,37 @@
                   <idno type="geonames">https://sws.geonames.org/2852047/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q6132</idno>
                </place>
+               <place xml:id="tillich_place_id__1918">
+                  <placeName>American Museum of Natural History</placeName>
+                  <location type="coords">
+                     <geo>40.78340 -73.97893</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5107123/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q217717</idno>
+               </place>
+               <place xml:id="tillich_place_id__1919">
+                  <placeName>Metropolitan Opera Company</placeName>
+                  <location type="coords">
+                     <geo>40.77288 -73.98458</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/5126699/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q10583424</idno>
+               </place>
+               <place xml:id="tillich_place_id__1920">
+                  <placeName>New School for Social Research</placeName>
+                  <location type="coords">
+                     <geo>40.73528 -73.99750</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6329893/</idno>
+               </place>
+               <place xml:id="tillich_place_id__1921">
+                  <placeName>Alexandria (Ägypten)</placeName>
+                  <location type="coords">
+                     <geo>31.20176 29.91582</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/361058/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q87</idno>
+               </place>
                </listPlace>
          </div>
       </body>
