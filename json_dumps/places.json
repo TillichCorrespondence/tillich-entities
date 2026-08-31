@@ -5735,11 +5735,11 @@
     "order": "661.00000000000000000000",
     "name": "Union Theological Seminary",
     "tillich_id": "tillich_place_id__668",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/6329838/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
+    "latitude": "40.81139",
+    "longitude": "-73.96250",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1196251"
   },
   "669": {
     "id": 669,
@@ -10465,7 +10465,7 @@
     "order": "1132.00000000000000000000",
     "name": "Prignitz",
     "tillich_id": "tillich_place_id__1917",
-    "geonames_url": "https://www.geonames.org/2852047",
+    "geonames_url": "https://www.geonames.org/2852047/",
     "Working Notes": "",
     "latitude": "53.00000",
     "longitude": "12.00000",
@@ -10520,6 +10520,17 @@
     "order": "1137.00000000000000000000",
     "name": "",
     "tillich_id": "tillich_place_id__1923",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1924": {
+    "id": 1924,
+    "order": "1138.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1924",
     "geonames_url": "",
     "Working Notes": "",
     "latitude": null,

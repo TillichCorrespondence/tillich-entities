@@ -3973,6 +3973,11 @@
                </place>
                <place xml:id="tillich_place_id__668">
                   <placeName>Union Theological Seminary</placeName>
+                  <location type="coords">
+                     <geo>40.81139 -73.96250</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6329838/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1196251</idno>
                </place>
                <place xml:id="tillich_place_id__669">
                   <placeName>Weil</placeName>
