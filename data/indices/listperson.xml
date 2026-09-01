@@ -1317,8 +1317,9 @@
                <person xml:id="tillich_person_id__133">
                   <persName>Baring, Nina</persName>
                   <occupation>Dozentin, Lehrerin, Fürsorgerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116057122</idno>
                   <note type="bio">
-                     <p>Studium der Philosophie, u.a. bei Heidegger, aber auch z.B. in Dresden bei Paul Tillich. Arbeitete als Fürsorgerin und als Dozentin an diversen Volkshochschulen. Sie konvertierte in den 1930er Jahren zum Katholizismus und stand u.a. in Kontakt mit Edith Stein. Nach dem Krieg zeitweise Mitwirkung als Übersetzerin Tillichs englischer Arbeiten ins Deutsche.</p>
+                     <p>Nina Baring (1899–1972) war eine deutsche Übersetzerin, Dozentin und Fürsorgerin. Sie studierte Philosophie und hörte dabei unter anderem Heidegger sowie, in Dresden, Paul Tillich. Beruflich war sie in der Fürsorge tätig und unterrichtete an mehreren Volkshochschulen. 1936 erschien ihre Arbeit über Wilhelm Diltheys Geschichtsphilosophie. In den 1930er Jahren trat sie zum Katholizismus über; zu ihren Kontakten zählte Edith Stein. Nach dem Zweiten Weltkrieg übertrug sie zeitweilig englischsprachige Schriften Tillichs ins Deutsche.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__134">
@@ -1339,7 +1340,7 @@
                   <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118506803</idno>
                   <note type="bio">
-                     <p>Karl Barth (10. Mai 1886 – 10. Dezember 1968) war ein reformierter Theologe und einer der bedeutendsten evangelischen Dogmatiker des 20. Jahrhunderts. Nach seinem Studium wirkte er zunächst als Pfarrer, bevor er Professuren in Deutschland und später in Basel übernahm. 1935 wurde er wegen seiner Haltung gegenüber dem NS-Regime aus Deutschland ausgewiesen. Mit seiner Auslegung des „Römerbriefs“ begründete er die Dialektische Theologie und wandte sich gegen den liberalen Protestantismus. Sein Hauptwerk ist die „Kirchliche Dogmatik“, zudem war er maßgeblich an der Bekennenden Kirche beteiligt.</p>
+                     <p>Karl Barth (10. Mai 1886 – 10. Dezember 1968) war ein Schweizer reformierter Theologe und einer der bedeutendsten evangelischen Dogmatiker des 20. Jahrhunderts. Nach dem Studium arbeitete er als Pfarrer, später lehrte er als Professor in Deutschland und Basel. 1935 wies ihn das NS-Regime wegen seiner Gegnerschaft aus. Mit der Auslegung des Römerbriefs begründete er die Dialektische Theologie und wandte sich gegen den liberalen Protestantismus. Hauptwerk blieb die Kirchliche Dogmatik. Mit Paul Tillich verband ihn ein anhaltender theologischer Austausch, in dem beide gegensätzliche Positionen vertraten, etwa zur analogia entis.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__138">
@@ -1939,6 +1940,10 @@
                </person>
                <person xml:id="tillich_person_id__258">
                   <persName>Bornhäuser, Karl</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116255552</idno>
+                  <note type="bio">
+                     <p>Karl Bornhäuser (19. Mai 1868 – 27. März 1947) war ein deutscher evangelischer Theologe. Er stammte aus Mannheim, besuchte das Bruchsaler Gymnasium und studierte anschließend in Greifswald und Halle, wo ihn vor allem Hermann Cremer, Adolf Schlatter und Martin Kähler prägten. Nach der Ordination 1890 wirkte er als Pfarrer in Sinsheim und Karlsruhe, später als Divisionspfarrer in Rastatt. 1899 promovierte er in Greifswald; es folgten Professuren dort sowie in Halle und Marburg, wo er 1924 das Rektorat übernahm. 1933 wurde er als Universitätsprediger emeritiert. Theologisch zählte er zum biblizistischen Kreis um Kähler und starb in Marburg.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__259">
                   <persName>Bornkamm, Heinrich</persName>
@@ -2000,7 +2005,7 @@
                   <occupation>Philanthropin, Lehrerin und Krankenschwester</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118514407</idno>
                   <note type="bio">
-                     <p>(hat Ulich Robert als Ehemann)</p>
+                     <p>Elsa Brändström (26. März 1888 – 4. März 1948) war eine schwedische Philanthropin, geboren in Sankt Petersburg. Im Ersten Weltkrieg betreute sie als Krankenschwester deutsche und österreichische Kriegsgefangene in sibirischen Lagern und erhielt dafür den Beinamen „Engel von Sibirien". Später gründete sie Heime für Kinder von Kriegsgefangenen, veröffentlichte 1922 einen Erlebnisbericht und gehörte zu den Mitbegründern der Studienstiftung des deutschen Volkes. 1929 heiratete sie Robert Ulich; 1933 emigrierte die Familie in die USA, wo sie Flüchtlingshilfe organisierte. Sie starb in Cambridge. Paul Tillich würdigte sie nach ihrem Tod als Verkörperung tätiger Liebe.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__272">
@@ -2497,6 +2502,10 @@
                <person xml:id="tillich_person_id__402">
                   <persName>Cornill, Carl Heinrich</persName>
                   <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/115576991</idno>
+                  <note type="bio">
+                     <p>Carl Heinrich Cornill (26. April 1854 – 10. Juni 1920) war ein deutscher reformierter Theologe, geboren in Heidelberg und entstammend einer hugenottischen Familie. Nach dem Frankfurter Gymnasium studierte er ab 1872 Orientalistik sowie Theologie in Leipzig, Bonn und Marburg. Auf Promotion und Lizentiat folgten Stationen als Privatdozent und Extraordinarius in Marburg und Königsberg; Ordinariate hatte er in Königsberg, Breslau und Halle inne, wo er auch starb. Sein Verdienst lag darin, die literarkritischen Erkenntnisse der Wellhausen-Ära allgemeinverständlich aufbereitet zu haben. Sein Buch über den Prophetismus bereitete der religionsgeschichtlichen Schule den Weg; daneben arbeitete er textkritisch zu Ezechiel und Jeremia.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__403">
                   <persName>Cosel, Anna Konstanze von</persName>
@@ -2829,6 +2838,10 @@
                </person>
                <person xml:id="tillich_person_id__484">
                   <persName>Dorner, Isaak August</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118680455</idno>
+                  <note type="bio">
+                     <p>Isaak August Dorner (20. Juni 1809 – 8. Juli 1884) war ein deutscher evangelischer Theologe, geboren in Neuhausen ob Eck. Nach dem Seminar Maulbronn studierte er in Tübingen Theologie und Philosophie, wobei ihn Kant und Hegel dauerhaft prägten. Ab 1838 lehrte er als Professor in Tübingen, danach in Kiel, Königsberg, Bonn, Göttingen und ab 1862 in Berlin, wo er dem Oberkirchenrat angehörte. Er verband gläubige Frömmigkeit mit dem Anspruch wissenschaftlicher Begründung und trat für eine deutsche evangelische Nationalkirche auf unierter Grundlage ein. Daneben bemühte er sich um eine Revision der Lutherbibel. Sein Hauptwerk war das zweibändige System der christlichen Glaubenslehre. Er starb in Wiesbaden.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__485">
                   <persName>Dostojewski, Fjodor Michailowitsch</persName>
@@ -3177,7 +3190,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1168750431</idno>
                   <note type="bio">
-                     <p>Erdmuthe Farris (17. Februar 1926 – 26. März 2016) war die Tochter des evangelischen Theologen und Religionsphilosophen Paul Tillich. Sie wurde in Dresden geboren und trug zunächst den Namen Erdmuthe Tillich; ihr familiärer Rufname lautete „Mutie“. Später führte sie den Ehenamen Farris.</p>
+                     <p>Erdmuthe Farris (17. Februar 1926 – 26. März 2016), geborene Tillich, war die Tochter des evangelischen Theologen und Religionsphilosophen Paul Tillich. Ihr familiärer Rufname lautete Mutie.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__571">
@@ -4029,7 +4042,7 @@
                   <persName>Hahl, Margot</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1160519838</idno>
                   <note type="bio">
-                     <p>Margot Hahl (geb. 1900) war eine deutsche Theologin, deren Nachname zeitweise auch Müller lautete. Seit 1917 studierte sie in Berlin Evangelische Theologie, Ägyptologie und Philosophie und legte 1922 ihr Examen ab. Sie besuchte Vorlesungen von Paul Tillich und Ernst Troeltsch und stand seit ihrer Berliner Studienzeit in engem Kontakt zu Paul und Hannah Tillich; mit Paul Tillich verband sie zeitweise eine persönliche Beziehung. 1922 heiratete sie Erich Faust, von dem sie sich 1937 scheiden ließ. 1938 ging sie die Ehe mit Hans Hahl ein. Die freundschaftliche Verbindung zu den Tillichs bestand bis zu deren Tod fort.</p>
+                     <p>Margot Hahl (geb. 1900), geborene Müller, war eine deutsche Theologin. Seit 1917 studierte sie in Berlin Evangelische Theologie, Ägyptologie und Philosophie und legte 1922 ihr Examen ab. Sie besuchte Vorlesungen von Paul Tillich und Ernst Troeltsch und stand seit ihrer Berliner Studienzeit in engem Kontakt zu Paul und Hannah Tillich; mit Paul Tillich verband sie zeitweise eine persönliche Beziehung. 1922 heiratete sie Erich Faust, von dem sie sich 1937 scheiden ließ. 1938 ging sie die Ehe mit Hans Hahl ein. Die freundschaftliche Verbindung zu den Tillichs bestand bis zu deren Tod fort.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__758">
@@ -4215,6 +4228,10 @@
                </person>
                <person xml:id="tillich_person_id__806">
                   <persName>Häring, Johann Theodor von</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/11870026X</idno>
+                  <note type="bio">
+                     <p>Theodor Lorenz Haering (22. April 1884 – 15. Juni 1964) war ein deutscher Philosoph und Schriftsteller. Der in Stuttgart geborene Sohn des Theologen Theodor von Haering studierte zunächst evangelische Theologie in Tübingen, wandte sich dann aber der Philosophie zu, in der er 1910 promovierte und 1912 habilitierte. Ab 1919 lehrte er in Tübingen und übernahm 1928 den Lehrstuhl seines Lehrers Adickes. Im Nationalsozialismus gehörte er zur Führung des NS-Dozentenbundes und trat 1937 der NSDAP bei. 1948 als Mitläufer eingestuft, verlor er die Professur, wurde jedoch 1951 rehabilitiert und emeritiert. Später saß er im Tübinger Gemeinderat. Er starb in Tübingen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__807">
                   <persName>Harn, Schubert von</persName>
@@ -4765,8 +4782,9 @@
                <person xml:id="tillich_person_id__931">
                   <persName>Horkheimer, Max</persName>
                   <occupation>Sozialphilosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118553615</idno>
                   <note type="bio">
-                     <p>1911 zunächst Beginn einer Handelslehre, um die Fabrik seines Vaters übernehmen zu können, wo er ab 1916 auch arbeitet. 1917/1918 Kriegsteilnahme, 1919 holt er das Abitur nach und studiert bis 1922 Philosophie, Psychologie und Nationalökonomie in München, Freiburg/Breisgau und Frankfurt/Main. 1922 wird er in Frankfurt bei Hans Cornelius promoviert, 1925 habilitiert er sich, 1926 wird er Privatdozent in Frankfurt. 1930 wird er mit Unterstützung Tillichs ordentlicher Professor für Sozialphilosophie und kann dadurch die Leitung des Frankfurter Instituts für Sozialforschung übernehmen. 1933 Emigration nach Genf, 1934 weiter in die USA, wo er die Institutsarbeit in den Räumen der Columbia University fortsetzen kann. 1940 wird er US-Staatsbürger, 1941 Umzug von New York nach Kalifornien, wo er in den Folgejahren zusammen mit Theodor W.  Adorno die Dialektik der Aufklärung verfasst. 1949 Rückkehr nach Frankfurt/Main, wo er wieder als Ordinarius für Sozialphilosophie lehren kann und mit der Wiedereröffnung des IfS in Frankfurt im Folgejahr neben Adorno die prägende Gestalt der ‚Frankfurter Schule‘ wird. 1951-1953 ist er zudem Direktor der Frankfurter Universität, hält in den kommenden Jahren (1954-1959) aber auch Vorlesungen in Chicago. 1959 zieht er gemeinsam mit seinem Freund Friedrich  Pollock nach Montagnola in der Schweiz. </p>
+                     <p>Max Horkheimer (14. Februar 1895 – 7. Juli 1973) war ein deutscher Sozialphilosoph und zentrale Figur der Frankfurter Schule. Nach kaufmännischer Lehre und Kriegsdienst studierte er Philosophie, Psychologie und Nationalökonomie, promovierte 1922 in Frankfurt und habilitierte sich dort 1925. Auf Betreiben Paul Tillichs erhielt er 1930 das Ordinariat für Sozialphilosophie und damit die Leitung des Instituts für Sozialforschung. 1933 emigrierte er über Genf in die USA, wo mit Adorno die Dialektik der Aufklärung entstand. Sein Programm einer interdisziplinären Gesellschaftsforschung nannte er ab 1937 Kritische Theorie. 1949 kehrte er nach Frankfurt zurück und leitete 1951 bis 1953 die Universität.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__932">
@@ -5068,6 +5086,10 @@
                </person>
                <person xml:id="tillich_person_id__1009">
                   <persName>Kaftan, Julius</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118714597</idno>
+                  <note type="bio">
+                     <p>Julius Kaftan (30. September 1848 – 27. August 1926) war ein deutscher lutherischer Theologe, geboren im nordschleswigschen Loit. Nach dem Studium in Erlangen habilitierte er sich 1873 und wechselte noch im selben Jahr nach Basel, wo er 1881 ein Ordinariat für Dogmatik und Ethik erhielt. 1883 folgte er auf Schleiermachers Berliner Lehrstuhl. Von 1904 bis 1925 gehörte er dem Evangelischen Oberkirchenrat an, dessen geistlicher Vizepräsident er 1921 wurde. Er wirkte an der altpreußischen Kirchenverfassung mit und zählte zu den Begründern des Evangelisch-sozialen Kongresses. Als Ritschl-Schüler mit eigenständigem Profil verfasste er unter anderem eine vielgenutzte Dogmatik. Er starb in Berlin.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1010">
                   <persName>Kagawa, Toyohiko</persName>
@@ -5310,6 +5332,10 @@
                </person>
                <person xml:id="tillich_person_id__1059">
                   <persName>Klatt, Fritz</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/116205938</idno>
+                  <note type="bio">
+                     <p>Fritz Klatt (22. Mai 1888 – 28. Juli 1945) war ein deutscher Pädagoge, geboren in Berlin. Dort studierte er Geschichte, Pädagogik und Philosophie, wobei ihn besonders Kurt Breysig prägte. In den zwanziger Jahren zählte er zu den führenden Köpfen der Jugendbewegung und wirkte vor allem in der Erwachsenenbildung. 1921 gründete er in Prerow auf dem Darß ein Volksschulheim, das er bis zur Schließung durch die NSDAP 1933 leitete. Ab 1931 lehrte er als Professor an der Pädagogischen Akademie Hamburg-Altona. Sein Konzept der schöpferischen Erziehung verstand Freizeit als Zeit der Selbstbildung. Er starb in Wien.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1060">
                   <persName>Kleanthes</persName>
@@ -5636,6 +5662,9 @@
                      </settlement>
                   </birth>
                   <occupation>Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Martin Lang (1858–1934) war Pfarrer und wurde in Stonsdorf geboren. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1134">
                   <persName>Lang, Andrew</persName>
@@ -5996,7 +6025,7 @@
                <person xml:id="tillich_person_id__1210">
                   <persName>Löwe, Beatrice</persName>
                   <note type="bio">
-                     <p>Frau von Adolf Löwe</p>
+                     <p>Beatrice Löwe (geb. 1893) war die Frau von Adolf Löwe. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1211">
@@ -6380,7 +6409,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1240166931</idno>
                   <note type="bio">
-                     <p>Heinrich Meinhof (1888–1978) war ein deutscher Mediziner mit Wirkungsstätte in Halle. Er war der Leibfux des Theologen Paul Tillich und teilte mit ihm Erfahrungen aus studentischen Verbindungen. Als Onkel der Publizistin Ulrike Meinhof war er auch in familiäre Beziehungen zu späteren kulturellen Persönlichkeiten verwoben.</p>
+                     <p>Heinrich Meinhof (1888–1978) war ein deutscher Mediziner mit Wirkungsstätte in Halle. Er war der Leibfux des Theologen Paul Tillich und teilte mit ihm Erfahrungen aus der Wingolf-Verbindung. Meinhof war Onkel der Publizistin und Linksterroristin Ulrike Meinhof.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1296">
@@ -6464,6 +6493,9 @@
                </person>
                <person xml:id="tillich_person_id__1311">
                   <persName>Merrem, Paul</persName>
+                  <note type="bio">
+                     <p>Paul Merrem (Lebensdaten unbekannt) war ein Freund von Paul Tillich und wird in Postkarten aus der Zeit des Ersten Weltkriegs erwähnt. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1312">
                   <persName>Mertens, Anna</persName>
@@ -6544,15 +6576,17 @@
                </person>
                <person xml:id="tillich_person_id__1333">
                   <persName>Moberly, Walter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1055381007</idno>
                   <note type="bio">
-                     <p>Moberly, Walter Hamilton (20.10.1881 Budworth, Cheshire – 31.1.1974) war ein britischer Philosoph und Universitätsorganisator. Nach Studien in Oxford lehrte er zunächst in Aberdeen und Birmingham, bevor er 1926–1934 als Vizekanzler die Universität Manchester leitete. Von 1935 bis 1949 stand er dem University Grants Committee vor und prägte maßgeblich die Hochschulpolitik Großbritanniens. Später war er Gründungsdirektor von St Catherine’s Foundation. Neben universitätspolitischen Schriften veröffentlichte er Werke wie The Crisis in the University und The Ethics of Punishment.</p>
+                     <p>Walter Hamilton Moberly (20. Oktober 1881 – 31. Januar 1974) war ein britischer Philosoph und Hochschulorganisator, geboren im cheshirischen Budworth. Seine Ausbildung erhielt er in Oxford, anschließend lehrte er in Aberdeen und Birmingham. Zwischen 1926 und 1934 amtierte er als Vizekanzler der Universität Manchester. Von 1935 bis 1949 leitete er das University Grants Committee und nahm dadurch erheblichen Einfluss auf die britische Hochschulpolitik. Danach gründete und leitete er die St Catherine's Foundation. Zu seinen Veröffentlichungen gehören neben hochschulpolitischen Texten die Bücher The Crisis in the University und The Ethics of Punishment.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1334">
                   <persName>Moberly, Walter</persName>
                   <occupation>Britischer Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1055381007</idno>
                   <note type="bio">
-                     <p>Moberly, Walter Hamilton (20.10.1881 Budworth, Cheshire – 31.1.1974) war ein britischer Philosoph und Universitätsorganisator. Nach Studien in Oxford lehrte er zunächst in Aberdeen und Birmingham, bevor er 1926–1934 als Vizekanzler die Universität Manchester leitete. Von 1935 bis 1949 stand er dem University Grants Committee vor und prägte maßgeblich die Hochschulpolitik Großbritanniens. Später war er Gründungsdirektor von St Catherine’s Foundation. Neben universitätspolitischen Schriften veröffentlichte er Werke wie The Crisis in the University und The Ethics of Punishment.</p>
+                     <p>Walter Hamilton Moberly (20. Oktober 1881 – 31. Januar 1974) war ein britischer Philosoph und Hochschulorganisator, geboren im cheshirischen Budworth. Seine Ausbildung erhielt er in Oxford, anschließend lehrte er in Aberdeen und Birmingham. Zwischen 1926 und 1934 amtierte er als Vizekanzler der Universität Manchester. Von 1935 bis 1949 leitete er das University Grants Committee und nahm dadurch erheblichen Einfluss auf die britische Hochschulpolitik. Danach gründete und leitete er die St Catherine's Foundation. Zu seinen Veröffentlichungen gehören neben hochschulpolitischen Texten die Bücher The Crisis in the University und The Ethics of Punishment.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1335">
@@ -6899,8 +6933,9 @@
                <person xml:id="tillich_person_id__1423">
                   <persName>Oppenheim, Paul</persName>
                   <occupation>Chemiker und Philosoph</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1013629523</idno>
                   <note type="bio">
-                     <p>Nach dem Studium der Chemie in Freiburg/Breisgau und Gießen wurde Paul O. 1908 promoviert und übernahm im Anschluss daran die Leitung des familiengeführten Juwelen-Großhandelsgeschäfts ‚N. M. Oppenheim‘. 1926-1933 arbeitete er bei der I. G. Farben. Gemeinsam mit seiner Frau emigrierte er 1933 in ihre Heimatland Belgien. Nach einer Lectorship an der Universität Cambridge (1938) folgte 1939 die Emigration in die USA, wo O. als Privatgelehrter und Spezialist für Wissenschaftstheorie Vortragstätigkeit entfaltete. Das Ehepaar O. hatte zwei Söhne, Félix (1913-2011) und Stéphane (1916-1941).</p>
+                     <p>Paul Oppenheim (17. Juni 1885 – 22. Juni 1977) war ein deutsch-amerikanischer Chemiker, Philosoph und Industrieller, geboren in Frankfurt am Main. Nach dem Studium in Freiburg und Gießen wurde er 1908 promoviert und übernahm den familieneigenen Juwelengroßhandel, ab 1926 arbeitete er bei der I. G. Farben. Mehreren verfolgten Wissenschaftlern, darunter Carl Gustav Hempel und Kurt Grelling, ermöglichte er die Flucht aus Deutschland. 1933 emigrierte er nach Belgien, 1939 in die USA, wo er als Privatgelehrter in Princeton lebte. Er publizierte zur Wissenschaftstheorie und Gestaltpsychologie und begründete mit Hempel das Hempel-Oppenheim-Schema. Er starb in Princeton.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1424">
@@ -7366,6 +7401,10 @@
                </person>
                <person xml:id="tillich_person_id__1537">
                   <persName>Przywara, Erich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118742116</idno>
+                  <note type="bio">
+                     <p>Erich Przywara (12. Oktober 1889 – 28. September 1972) war ein deutscher Jesuit, Philosoph und Theologe, geboren in Kattowitz. 1908 trat er dem Orden bei, studierte Philosophie und Theologie in den Niederlanden, empfing 1920 die Priesterweihe und promovierte 1921. Als Redakteur der Stimmen der Zeit prägte er von 1922 bis zum Verbot der Zeitschrift 1941 die geistigen Debatten seiner Zeit. Bei den Davoser Hochschulwochen 1928 und 1929 traf er unter anderem Paul Tillich und Martin Heidegger. Sein Denken entstand im Austausch mit Scheler, Husserl, Edith Stein, Buber und Barth. Hauptwerk blieb die 1932 erschienene Analogia entis.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1538">
                   <persName>Pseudo-Apuleius</persName>
@@ -7610,6 +7649,9 @@
                <person xml:id="tillich_person_id__1588">
                   <persName>Reutern, Ilsemargot von</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1139790323</idno>
+                  <note type="bio">
+                     <p>Ilsemargot von Reutern (1896–1977), geborene Beneke, stammte aus Hamburg. Sie war mit Gerhard von Reutern verheiratet und starb in Berlin. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1589">
                   <persName>Révész, Géza</persName>
@@ -7742,8 +7784,9 @@
                </person>
                <person xml:id="tillich_person_id__1611">
                   <persName>Rilke, Rainer Maria</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118601024</idno>
                   <note type="bio">
-                     <p>Rilke, Rainer (René) Maria (4.12.1875 Prag – 29.12.1926 Val-Mont bei Montreux) war ein österreichischer Dichter. Er wuchs in Prag auf, studierte in Prag und München und pflegte seit 1897 eine lebenslange Freundschaft mit Lou Andreas-Salomé. Reisen nach Russland, Italien, Frankreich und Nordafrika prägten sein Werk. 1901 heiratete er Clara Westhoff, mit der er eine Tochter hatte. Ab 1902 lebte er überwiegend in Paris, wo er sich mit der Kunst von Rodin und Cézanne auseinandersetzte. Ab 1921 fand er in Muzot im Wallis einen festen Wohnsitz. Er starb 1926 an Leukämie. Zu seinen bekanntesten Werken gehören Das Stunden-Buch (1905), Die Aufzeichnungen des Malte Laurids Brigge (1910), die Duineser Elegien (1923) und die Sonette an Orpheus (1923). Seine Lyrik kreist um Religion, Tod, Kunst und die Deutung menschlicher Existenz.</p>
+                     <p>Rainer Maria Rilke (4. Dezember 1875 – 29. Dezember 1926) war ein österreichischer Dichter, aufgewachsen in Prag. Dort und in München studierte er, ab 1897 verband ihn eine dauerhafte Freundschaft mit Lou Andreas-Salomé. Zahlreiche Reisen nach Russland, Italien, Frankreich und Nordafrika hinterließen Spuren in seinem Werk. 1901 heiratete er Clara Westhoff, das Paar hatte eine Tochter. Von 1902 an lebte er vor allem in Paris und setzte sich dort mit Rodin und Cézanne auseinander, ab 1921 dann im Walliser Muzot. Seine Dichtung umkreist Religion, Tod, Kunst und menschliche Existenz. Er starb an Leukämie.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1612">
@@ -7766,6 +7809,10 @@
                </person>
                <person xml:id="tillich_person_id__1616">
                   <persName>Rittelmeyer, Friedrich</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118601288</idno>
+                  <note type="bio">
+                     <p>Friedrich Rittelmeyer (5. Oktober 1872 – 23. März 1938) war ein deutscher evangelischer Theologe und Anthroposoph, geboren in Dillingen an der Donau. Paul Tillich besuchte mehrmals seine Vorträge. Rittelmeyer studierte ab 1890 Theologie und Philosophie in Erlangen und Berlin und wurde 1903 in Würzburg promoviert. Als Pfarrer wirkte er in Nürnberg und ab 1916 in Berlin, geprägt von Harnack und der liberalen Theologie. Seit etwa 1911 näherte er sich Rudolf Steiners Anthroposophie an. 1922 gab er sein Pfarramt auf und gehörte zu den Gründern der Christengemeinschaft, die er als Erzoberlenker leitete. Bekannt wurde er durch seine religiöse Publizistik und Meditationsanleitungen. Er starb in Hamburg.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1617">
                   <persName>Ritter, Karl Bernhard</persName>
@@ -8161,8 +8208,9 @@
                <person xml:id="tillich_person_id__1699">
                   <persName>Schairer, Reinhold</persName>
                   <occupation>Bildungsexperte und Verbandsfunktionär</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117101265</idno>
                   <note type="bio">
-                     <p>Studium der Rechtswissenschaften, Pädagogik und Philosophie in Tübingen, Berlin und Genf, 1914 Promotion. 1920 heiratete er Gerda von Mendelssohn (1888-1971), geb. Schack-Schou, die Witwe des Schriftstellers Erich von Mendelssohn. 1921 war er ein Mitbegründer des Deutschen Studentenwerks sowie der Studienstiftung des Deutschen Volkes, seit 1928 gemeinsam mit Hans  Simons Geschäftsführer der Abraham-Lincoln-Stiftung, zudem Förderer des Kreises um die von Tillich herausgegebenen Neuen Blätter für den Sozialismus. 1934 Emigration via Kopenhagen nach London, ab 1940 in den USA. 1943-1947 Gastprofessor an der New York University. Mitte der 1950er Jahre kehrte er nach Deutschland zurück, nachdem er zuvor unter anderem als Mitarbeiter der Marshallplan-Verwaltung beschäftigt gewesen war (1950-1954). Zuletzt lebte er in Dänemark.</p>
+                     <p>Reinhold Schairer (26. Oktober 1887 – 10. Mai 1971) war ein deutscher Bildungsexperte und Verbandsfunktionär, geboren in Pfeffingen. Nach dem Studium der Rechte, Philosophie und Pädagogik promovierte er 1914. Von 1915 bis 1920 leitete er in Kopenhagen die deutsche Kriegsgefangenenhilfe. 1921 gehörte er zu den Gründern des Deutschen Studentenwerks, dessen Geschäftsführung er bis 1933 innehatte, ebenso der Studienstiftung des deutschen Volkes. Zugleich förderte er den Kreis um die von Paul Tillich herausgegebenen Neuen Blätter für den Sozialismus. 1934 emigrierte er nach London, 1940 in die USA. Später war er an der Gründung der Stiftung Volkswagenwerk beteiligt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1700">
@@ -8660,6 +8708,10 @@
                </person>
                <person xml:id="tillich_person_id__1791">
                   <persName>Simmel, Georg</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118614436</idno>
+                  <note type="bio">
+                     <p>Georg Simmel (1. März 1858 – 26. September 1918) war ein deutscher Philosoph und Soziologe, geboren in Berlin. Dort studierte er Geschichte, Philosophie und Kunstgeschichte, promovierte 1881 über Kant und habilitierte sich 1885. Anschließend lehrte er als Privatdozent, später als unbezahlter Extraordinarius, wobei ihm eine reguläre Professur lange verwehrt blieb, auch aus antisemitischen Gründen. Erst 1914 erhielt er einen Lehrstuhl in Straßburg. Sein Charlottenburger Haus wurde zu einem Treffpunkt für Rilke, Husserl und Max Weber. Er begründete die formale Soziologie und wirkte weit über sein Fach hinaus. Er starb in Straßburg an Leberkrebs.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1792">
                   <persName>Simon, Hugo</persName>
@@ -8675,8 +8727,9 @@
                <person xml:id="tillich_person_id__1794">
                   <persName>Simons, Hans</persName>
                   <occupation>Jurist, Politikwissenschaftler und Ministerialbeamter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117397911</idno>
                   <note type="bio">
-                     <p>Studium der Rechts- und Staatswissenschaften in Berlin, München, Tübingen und Bonn. Im Krieg wurde er als Soldat 1917 schwer verwundet und arbeitete im Anschluss als Verwaltungsbeamter. Nach Kriegsende Mitbegründung der Deutschen Liga für Völkerbund. 1920 nahm er sein Studium in Königsberg wieder auf und wurde im Folgejahr promoviert. Er arbeitete zunächst als Geschäftsführer der Deutschen Hochschule für Politik, bevor er 1922 ins Reichsministerium des Inneren und 1923 ins preußische Innenministerium wechselte. 1925-1929 war er als Professor und Direktor wieder an der Deutschen Hochschule für Politik beschäftigt, ab 1927 zudem als Ministerialbeamter wieder im preußischen Innenministerium. Mitglied der SPD und Mitarbeiter der von Tillich herausgegebenen Neuen Blätter für den Sozialismus. Nach dem Preußenschlag 1932 wurde er zunächst suspendiert, 1933 endgültig entlassen. Er ging zunächst in die Schweiz und nahm 1934 einen Ruf der New School for Social Research in New York an, als deren Dekan (Politik- und Sozialwissenschaftliche Fakultät) er 1943-1950 und als deren Präsident er 1950-1960 fungierte.</p>
+                     <p>Hans Simons (1. Juli 1893 – 28. März 1972) war ein deutsch-amerikanischer Jurist und Politikwissenschaftler, geboren in Velbert. Nach dem Studium der Rechts- und Staatswissenschaften und der Promotion 1921 arbeitete er im Reichsinnenministerium, leitete ab 1925 die Deutsche Hochschule für Politik und war zuletzt Regierungspräsident in Liegnitz. Als Sozialdemokrat und religiöser Sozialist gehörte er zum Herausgeberkreis der von Paul Tillich edierten Neuen Blätter für den Sozialismus. 1933 entlassen, emigrierte er 1935 in die USA und lehrte an der New School for Social Research, deren Präsident er 1950 wurde. Er starb in Yonkers.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1795">
@@ -8911,7 +8964,7 @@
                   <occupation>Deutscher lutherischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118752510</idno>
                   <note type="bio">
-                     <p>Studium der evangelischen Theologie in Erlangen, Rostock und Berlin, sowie im Anschluss Psychologie in Würzburg. Seit 1910 Pfarrtätigkeit, 1913 Promotion im Fach Psychologie. 1914 gründete S. die Gesellschaft für Religionspsychologie, 1914-1916 wirkte er als Feldgeistlicher in Frankreich und dem Baltikum. 1923 gehörte er zu den Begründern des Berneuchener Kreises sowie der Michaelsbruderschaft 1931. Seit 1926 hatte er eine Professur für Praktische Theologie an der Westfälischen Wilhelms-Universität Münster inne. Die Zeit des Nationalsozialismus erlebte S. in Deutschland. Er schloss sich zeitweise dem Pfarrernotbund an, verließ ihn jedoch wieder und stand sowohl den Deutschen Christen als auch der Bekennenden Kirche kritisch gegenüber. 1945 wurde er zum Bischof der Evangelisch-Lutherischen Kirche in Oldenburg gewählt. Sein kirchenpolitisches Engagement galt insbesondere der Liturgischen Erneuerung sowie dem ökumenischen Dialog.</p>
+                     <p>Wilhelm Stählin (24. September 1883 – 16. Dezember 1975) war ein deutscher lutherischer Theologe und Bischof, geboren in Gunzenhausen. Er studierte in Erlangen, Rostock und Berlin, wurde 1906 ordiniert und 1913 in Würzburg promoviert. Nach Pfarrstellen in Franken war er in der Jugend- und bündischen Bewegung aktiv und leitete von 1922 bis 1932 den Bund Deutscher Jugendvereine. 1923 gehörte er zu den Gründern des Berneuchener Kreises, 1931 der Michaelsbruderschaft. Paul Tillich und Wilhelm Stählin arbeiteten im Rahmen der Berneuchener Konferenzen zusammen. Ab 1926 lehrte Stählin Praktische Theologie in Münster, ab 1945 amtierte er als Landesbischof in Oldenburg. Als Vertreter der Liturgischen Bewegung engagierte er sich stark ökumenisch.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1838">
@@ -9134,6 +9187,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117272736</idno>
+                  <note type="bio">
+                     <p>Horst Stephan (29. August 1873 – 9. Januar 1954) war ein deutscher protestantischer Theologe und Publizist, geboren in Sayda. Von 1894 bis 1898 studierte er in Leipzig Theologie und Philosophie, arbeitete zeitweise für die Christliche Welt und unterrichtete anschließend an Gymnasien. 1906 habilitierte er sich in Leipzig, ein Jahr später wechselte er nach Marburg, wo er 1919 ein Ordinariat für Systematische Theologie erhielt. Weitere Lehrstühle folgten 1922 in Halle und 1926 in Leipzig, wo er 1931 das Dekanat übernahm. Ab 1920 gab er die Zeitschrift für Theologie und Kirche heraus. Seine Lehrbücher fanden weite Verbreitung. Er starb in Leipzig.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__1855">
                   <persName>Stephanus</persName>
@@ -12156,7 +12212,7 @@
                   <occupation>Politikwissenschaftler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119262819</idno>
                   <note type="bio">
-                     <p>Arnold Oscar Wolfers (14. Juni 1892 – 16. Juli 1968) war ein schweizerisch-amerikanischer Politikwissenschaftler. Er studierte Rechts-, Wirtschafts- und Politikwissenschaft, wurde 1917 und 1924 promoviert und habilitierte sich 1929 in Berlin. Nach Tätigkeiten an der Deutschen Hochschule für Politik emigrierte er 1933 in die USA, wo er ab 1935 als Professor in Yale lehrte. Wolfers gilt als wichtiger Vertreter des politischen Realismus und beschäftigte sich mit internationalen Beziehungen und Außenpolitik. Seine Arbeiten zur Theorie der internationalen Politik, insbesondere das sogenannte „Billardkugelmodell“, fanden große Beachtung.</p>
+                     <p>Arnold Wolfers (14. Juni 1892 – 16. Juli 1968) war ein schweizerisch-amerikanischer Politikwissenschaftler, geboren in St. Gallen. Nach juristischer Promotion 1917 wandte er sich Volkswirtschaft und Politikwissenschaft zu und habilitierte sich 1929 in Berlin. Ab 1922 arbeitete er an der Deutschen Hochschule für Politik, zunächst als Mitarbeiter Paul Tillichs in einer Arbeitsgemeinschaft zum religiösen Sozialismus, ab 1930 als Direktor. 1933 emigrierte er in die USA und lehrte von 1935 bis 1957 in Yale. Als Realist prägte er das Billardkugelmodell der Internationalen Beziehungen. Später beriet er das amerikanische Außenministerium.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2095">
@@ -12214,6 +12270,9 @@
                      <date>1847</date>
                   </birth>
                   <idno type="gnd">https://d-nb.info/gnd/117614017</idno>
+                  <note type="bio">
+                     <p>Max Wölfing (8. September 1847 – 1. Dezember 1928) war ein deutscher evangelischer Feldpropst, geboren in Hildburghausen als Sohn eines Superintendenten. Theologie studierte er in Göttingen, Berlin und Jena. Nach ersten Stellen als Hilfsprediger in Meiningen und Vikar am Bremer Dom wandte er sich der Militärseelsorge zu, zunächst in Frankfurt am Main, ab 1876 in Berlin, später in Metz und Posen. 1896 kehrte er als Oberpfarrer beim Gardekorps nach Berlin zurück, 1898 wurde er Konsistorialrat. Von 1905 bis zu seinem Ausscheiden 1918 amtierte er als Feldpropst der preußischen Armee. Er starb in Berlin.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2099">
                   <persName>Wöllner, Johann Christoph</persName>
@@ -12620,6 +12679,9 @@
                <person xml:id="tillich_person_id__2128">
                   <persName>Zschorsch, Gertrud</persName>
                   <idno type="gnd">https://d-nb.info/gnd/128013141</idno>
+                  <note type="bio">
+                     <p>Gertrud Zschorsch (Lebensdaten unbekannt) war eine Autorin, die 1923 in Berlin bei Ullstein eine Anleitung zum Klöppeln veröffentlichte. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2129">
                   <persName>Zuckmayer, Carl</persName>
@@ -12775,6 +12837,9 @@
                   </birth>
                   <occupation>Divisionsadjudant</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1070597449</idno>
+                  <note type="bio">
+                     <p>Erich Pulkowski (1878–1963) war ein deutscher Offizier im Rang eines Majors. Beigesetzt wurde er auf dem Kirchfriedhof St. Sixtus in Schliersee. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2141">
                   <persName>Münchhausen, Börries Albrecht Conon August Heinrich Freiherr von</persName>
@@ -12809,7 +12874,7 @@
                </person>
                <person xml:id="tillich_person_id__2145">
                   <persName>Martel, Rachel</persName>
-                  <occupation>Tänzerin und Choristin am Deutschen Theater in Lille; wohl Gelegenheitsprostituierte</occupation>
+                  <occupation>Rachel Martel (Lebensdaten unbekannt) arbeitete als Tänzerin und Choristin am Deutschen Theater in Lille. Vermutlich ging sie daneben gelegentlich der Prostitution nach. Weitere biographische Informationen sind derzeit nicht bekannt.</occupation>
                </person>
                <person xml:id="tillich_person_id__2146">
                   <persName>Wagner, Richard</persName>
@@ -12964,8 +13029,9 @@
                </person>
                <person xml:id="tillich_person_id__2159">
                   <persName>Nell, Ferdinand Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1141194570</idno>
                   <note type="bio">
-                     <p>Zeitgleich mit Paul Tillich wechselte er zum Sommersemester 1905 als Aktiver an den Tübinger Wingolf.</p>
+                     <p>Wilhelm Nell (1883–1976) war ein deutscher evangelischer Theologe und Pfarrer in Westfalen. Zum Sommersemester 1905 trat er gemeinsam mit Paul Tillich in den Tübinger Wingolf ein. Zu seinen akademischen Lehrern zählte Martin Kähler. Ab Oktober 1907 wirkte er als Prinzenerzieher in Kassel, 1910 wurde er Domkandidat am Berliner Domkandidatenstift. Er starb in Bonn.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2160">
@@ -12976,6 +13042,10 @@
                </person>
                <person xml:id="tillich_person_id__2161">
                   <persName>Gaul, Adolf</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/127406530</idno>
+                  <note type="bio">
+                     <p>Adolf Gaul (1886–1943) war ein deutscher Pfarrer. Geboren wurde er im hessischen Naunheim bei Wetzlar, sein Wirkungsort war Spandau. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2164">
                   <persName>Jungclaussen, Herman</persName>
@@ -13031,14 +13101,15 @@
                   <death>
                      <date>1974</date>
                   </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1124797890</idno>
                   <note type="bio">
-                     <p>Er stand im Kontakt mit der Wingolfsverbindung.</p>
+                     <p>Georg Struckmeier (30. Oktober 1885 – 31. August 1974) war ein deutscher Pfarrer, geboren in Hamburg-Moorburg und aufgewachsen in Frankfurt am Main. Theologie studierte er in Bonn, Halle, Berlin und Marburg. Von 1913 bis 1915 betreute er die deutsche evangelische Gemeinde im englischen Hull, im Ersten Weltkrieg diente er als Divisionspfarrer. Nach Jahren an der Berliner Ostergemeinde übernahm er 1925 die Frankfurter Paulsgemeinde, wo er bis 1947 blieb. Ab 1948 baute er die Theologische Zentralbibliothek samt kirchengeschichtlichem Archiv auf und leitete sie bis 1965. Verbindungen unterhielt er zum Wingolf. Er starb in Frankfurt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2171">
                   <persName>Hanffstengel, Karl von</persName>
                   <note type="bio">
-                     <p>Jüngerer Bruder Gottfried von Hanffstengels</p>
+                     <p>Karl von Hanffstengel (Lebensdaten unbekannt) war der jüngere Bruder Gottfried von Hanffstengels. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2172">
@@ -13110,6 +13181,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118991787</idno>
+                  <note type="bio">
+                     <p>Theodor Zahn (10. Oktober 1838 – 5. März 1933) war ein deutscher evangelischer Theologe, geboren in Moers als Sohn eines Pädagogen. Er studierte in Basel, Erlangen und Berlin, unterrichtete zunächst an Schulen und habilitierte sich 1868 in Göttingen für Neues Testament. Nach Stationen in Kiel, Erlangen und Leipzig übernahm er 1892 in Erlangen den Lehrstuhl für Einleitung und Exegese des Neuen Testaments. Neben der Exegese widmete er sich der Patristik, vor allem der Entstehung des neutestamentlichen Kanons. Theologisch konservativ, blieb er der historisch-kritischen Forschung gegenüber kritisch. 1907 wurde er nobilitiert. Er starb in Erlangen.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2181">
                   <persName>Hanffstengel, Georg von</persName>
@@ -13197,7 +13271,7 @@
                <person xml:id="tillich_person_id__2191">
                   <persName>???, Jonas</persName>
                   <note type="bio">
-                     <p>Er scheint ein Studienkollege von Paul Tillich gewesen zu sein.</p>
+                     <p>Jonas (Lebensdaten und Nachname unbekannt) scheint ein Studienkollege von Paul Tillich gewesen zu sein.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2192">
@@ -13841,6 +13915,9 @@
                      <date>1965</date>
                   </death>
                   <occupation>Evangelischer Pfarrer</occupation>
+                  <note type="bio">
+                     <p>Theodor Jäger (1885–1965) war evangelischer Pfarrer. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2264">
                   <persName>Starke, ???</persName>
@@ -13952,7 +14029,7 @@
                   <occupation>Pfarrer und Generalsuperintendent in Stettin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117718580</idno>
                   <note type="bio">
-                     <p>Er war der Vater von Hermann Martin Friedrich Büchsel.</p>
+                     <p>Johannes Friedrich Wilhelm Büchsel (1849–1920) war ein deutscher Pfarrer, der als Generalsuperintendent in Stettin amtierte. Sein Sohn war Hermann Martin Friedrich Büchsel. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2276">
@@ -14403,7 +14480,11 @@
                   <idno type="gnd">https://d-nb.info/gnd/118719475</idno>
                </person>
                <person xml:id="tillich_person_id__2315">
-                  <persName>Mehlis, Georg (Prof.)</persName>
+                  <persName>Mehlis, Georg</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/117002747</idno>
+                  <note type="bio">
+                     <p>Georg Mehlis (8. März 1878 – 13. November 1942) war ein deutscher Philosoph des Neukantianismus und Hochschullehrer, geboren in Hannover. Zunächst schlug er eine Offizierslaufbahn ein, die er 1902 aufgab, um in Marburg und Heidelberg zu studieren. 1906 promovierte er bei Windelband, 1909 habilitierte er sich in Freiburg, wo er ab 1915 als außerplanmäßiger Professor lehrte. Als Schüler Heinrich Rickerts gründete er 1910 die kulturphilosophische Zeitschrift Logos, die er anfangs allein herausgab. 1924 verließ er Deutschland wegen strafrechtlicher Ermittlungen und ließ sich in Italien nieder. Dort schrieb er mehrfach über den Faschismus. Er starb in Freiburg.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2316">
                   <persName>Lederer, Emil</persName>
@@ -14693,7 +14774,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/117163228</idno>
                   <note type="bio">
-                     <p>Er war ein Erlanger Wingolfit.</p>
+                     <p>Hans Emil Weber (8. März 1882 – 13. Juni 1950) war ein deutscher evangelischer Theologe, geboren in Mönchengladbach als Sohn des Sozialreformers Ludwig Weber. Sein Theologiestudium führte ihn nach Neuchâtel, Bonn, Erlangen und Greifswald, wo er 1905 das Lizentiat erwarb. Nach Promotion und Habilitation 1907 lehrte er in Halle, ab 1913 als Ordinarius in Bonn. Im Ersten Weltkrieg war er Militär- und Lazarettpfarrer. Im Kirchenkampf stellte er sich an die Seite Karl Barths und wurde deshalb nach Münster zwangsversetzt. 1937 ließ er sich vorzeitig emeritieren, kehrte nach Kriegsende aber nach Bonn zurück. Er gehörte dem Wingolf an.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2348">
@@ -14729,6 +14810,9 @@
                   </birth>
                   <occupation>Dramaturg, Regisseur und Kunstkritiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/116240253</idno>
+                  <note type="bio">
+                     <p>Erich Dürr (geb. 1889) war ein deutscher Dramaturg, Regisseur und Kunstkritiker. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2351">
                   <persName/>
@@ -15002,6 +15086,9 @@
                </person>
                <person xml:id="tillich_person_id__2381">
                   <persName>Neumeister, Käthe</persName>
+                  <note type="bio">
+                     <p>Käthe Neumeister (Lebensdaten unbekannt) war zur Zeit des Ersten Weltkriegs im Briefkontakt mit Paul Tillich. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2382">
                   <persName>Heldmann, Julius</persName>
@@ -15125,6 +15212,9 @@
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118795570</idno>
+                  <note type="bio">
+                     <p>Franz Schultz (4. Dezember 1877 – 6. Oktober 1950) war ein deutscher Germanist. Geboren in Culm, promovierte er 1900 in Berlin bei Erich Schmidt und habilitierte sich 1903 in Bonn. 1910 erhielt er eine Professur in Straßburg, nach dem Ersten Weltkrieg lehrte er in Freiburg und ab 1920 in Köln. 1921 übernahm er in Frankfurt den Lehrstuhl für Neuere deutsche Literaturgeschichte samt Leitung des Germanischen Seminars. Seine Schwerpunkte lagen bei Kleist, der Klassik und der Romantik. Im Nationalsozialismus gehörte er dem NS-Dozentenbund an und förderte die SS. Bis zu seinem Tod lehrte er weiter in Frankfurt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2394">
                   <persName>Schultz, Hildegard</persName>
@@ -15142,7 +15232,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/116996242</idno>
                   <note type="bio">
-                     <p>Sie war die Tochter von Max Liebermann und die Ehefrau von Kurt Riezler.</p>
+                     <p>Käthe Riezler (1885–1955), geborene Liebermann, war die einzige Tochter des Malers Max Liebermann und seiner Frau Martha. Geboren in Berlin, wuchs sie in enger Bindung an ihre Eltern auf, eng verbunden war sie auch mit ihrer Cousine Grete Ring. Sie heiratete Kurt Riezler. Später lebte und wirkte sie in New York.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2396">
@@ -15223,7 +15313,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/1044769491</idno>
                   <note type="bio">
-                     <p>Sie war die Frau von Reinhold Schairer und in erster Ehe mit Erich von Mendelssohn verheiratet.</p>
+                     <p>Gerda Schairer (1888–1971), geborene Schack-Schou, war eine Autorin aus dem dänischen Aarhus. In erster Ehe war sie mit dem Schriftsteller Erich von Mendelssohn verheiratet, nach dessen Tod heiratete sie Reinhold Schairer. Von ihr stammt das Werk Der Engel von Sibirien.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2404">
@@ -16052,7 +16142,7 @@
                   <occupation>Buchhändler</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117488356</idno>
                   <note type="bio">
-                     <p>Theodor Volckmar-Frentzel (ehemals Theodor Frentzel) war ab 1930 Konzernchef des renommierten Zwischenbuchhändlers F. Volckmar. Am 20. Dezember 1932 ließ er sich gemäß Adoptionsvertrag von Hans Volckmar adoptieren und führte seither den Doppelnamen Volckmar-Frentzel.</p>
+                     <p>Theodor Volckmar-Frentzel (23. Februar 1892 – 26. Februar 1973) war ein deutscher Buchhändler, geboren als Theodor Frentzel in Döbeln. Ab 1921 war er Teilhaber mehrerer Leipziger Buchhandelsfirmen, darunter F. Volckmar, L. Staackmann, Albert Koch und Co. sowie Carl Cnobloch. Die Leitung des Zwischenbuchhandelskonzerns F. Volckmar übernahm er 1930. Ende 1932 wurde er von Hans Volckmar adoptiert und trug seither den Doppelnamen. Er starb in Rimsting.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2473">
@@ -16279,6 +16369,9 @@
                </person>
                <person xml:id="tillich_person_id__2490">
                   <persName>Sulzbach, Maria</persName>
+                  <note type="bio">
+                     <p>Maria Sulzbach (Lebensdaten unbekannt) war die Ehefrau von Walter Sulzbach. Paul Tillich hatte mit Maria Sulzbach im Zusammenhang mit Publikationen bei Oskar Siebeck zu tun. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2491">
                   <persName>Häberle, Luise</persName>
@@ -16457,6 +16550,9 @@
                   </death>
                   <occupation>Deutscher Lehrer und Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118566806</idno>
+                  <note type="bio">
+                     <p>Ernst Krieck (6. Juli 1882 – 19. März 1947) war ein deutscher Erziehungswissenschaftler und Kulturpolitiker, geboren in Vögisheim. Bis 1924 arbeitete er im badischen Volksschuldienst und eignete sich als Autodidakt sein philosophisches Wissen an. 1928 erhielt er eine Professur an der Pädagogischen Akademie Frankfurt. Nach der Abwendung von der Republik trat er 1932 dem NS-Lehrerbund bei und wurde 1933 als erster Nationalsozialist Rektor einer deutschen Universität, ebenfalls in Frankfurt. Ab 1934 lehrte er in Heidelberg. Streit mit den Rassetheoretikern des Regimes führte zum Rückzug aus seinen Ämtern. Er starb im Internierungslager Moosburg.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2506">
                   <persName>Siemsen, Gertrud</persName>
@@ -17754,6 +17850,9 @@
                      <date>1942-08-22</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/119124947</idno>
+                  <note type="bio">
+                     <p>Hans von Wedemeyer (31. Juli 1888 – 22. August 1942) war ein deutscher Gutsbesitzer, Reserveoffizier und Staatsbeamter, geboren in Schönrade. Von 1928 bis 1930 richtete er auf seinem Rittergut Pätzig die Berneuchener Konferenzen aus, an denen auch Paul Tillich teilnahm und mitwirkte. Später gehörte Wedemeyer der Michaelsbruderschaft an. Im Stahlhelm-Kampfbund nahm er eine führende Stellung ein. Ab 1932 beriet er Franz von Papen und leitete dessen Büro, bis Mai 1933 als Chef der Reichsvizekanzlei. Dem Nationalsozialismus stand er als überzeugter Christ ablehnend gegenüber. Er fiel bei Stalingrad.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2653">
                   <persName>Lütgert, Martha</persName>
@@ -18308,6 +18407,9 @@
                </person>
                <person xml:id="tillich_person_id__2729">
                   <persName>Kandeler, Martha</persName>
+                  <note type="bio">
+                     <p>Martha Kandeler (Lebensdaten unbekannt) gratulierte Paul Tillich am 22. März 1902 mit einer Karte zu dessen Konfirmation und wünschte ihm Gottes Segen. Sie ist mit Friedrich Kandeler und Marlen Kandeler verwandt. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2730">
                   <persName>Böttger, Sophie</persName>
@@ -18440,7 +18542,7 @@
                   <persName>Steinmann, Theophil</persName>
                   <idno type="gnd">https://d-nb.info/gnd/117259373</idno>
                   <note type="bio">
-                     <p>Theophil Steinmann (8. Juni 1869 – 23. August 1950) war ein Theologe und Prediger der Herrnhuter Brüdergemeine. Nach seiner Ausbildung und ersten Lehrtätigkeiten wirkte er als Dozent für Theologie und wurde 1904 promoviert. Er lehrte vor allem am Seminar der Brüderunität, geriet jedoch wegen liberaler theologischer Positionen in Konflikte mit kirchlichen Kreisen. Nach seiner Emeritierung blieb er weiterhin als Lehrer und Prediger tätig und übersiedelte später in die Schweiz. Zu seinen wichtigsten Schriften zählt „Der religiöse Unsterblichkeitsglaube“.</p>
+                     <p>Theophil Steinmann (8. Juni 1869 – 23. August 1950) war ein Theologe und Prediger der Herrnhuter Brüdergemeine. Auf Ausbildung und erste Lehrtätigkeiten folgte die Promotion im Jahr 1904. Er unterrichtete vor allem am Seminar der Brüderunität, wo ihm seine liberale theologische Ausrichtung Auseinandersetzungen mit kirchlichen Kreisen eintrug. Auch nach der Emeritierung wirkte er weiter als Lehrer und Prediger, ehe er in die Schweiz übersiedelte. Bekannt wurde er vor allem durch die Schrift Der religiöse Unsterblichkeitsglaube.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2748">
@@ -18515,8 +18617,9 @@
                </person>
                <person xml:id="tillich_person_id__2760">
                   <persName>Klein, Peter Wolfgang</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/1220318388</idno>
                   <note type="bio">
-                     <p>Er war der jüngere Bruder von Maria Klein bzw. Maria Rhine.</p>
+                     <p>Peter Wolfgang Klein (1899–1976) hat promoviert und in Berlin-Staaken gewirkt. Er war der jüngere Bruder von Maria Klein, verheiratete Rhine. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2761">
@@ -18889,6 +18992,9 @@
                </person>
                <person xml:id="tillich_person_id__2804">
                   <persName>Ilse-Margot</persName>
+                  <note type="bio">
+                     <p>Ilse-Margot (Lebensdaten und Nachname unbekannt) wird im Briefverkehr von Paul Tillich mit Hannah Gottschow erwähnt. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2805">
                   <persName/>
@@ -19017,6 +19123,9 @@
                <person xml:id="tillich_person_id__2830">
                   <persName>Kleedehn, E.</persName>
                   <occupation>Pensionshalterin in Königsberg (Neumark)</occupation>
+                  <note type="bio">
+                     <p>E. Kleedehn (Lebensdaten und Vorname unbekannt) führte eine Pension im neumärkischen Königsberg. Als Fräulein Kleedehe fand sie 1899 Erwähnung in einem Brief Paul Tillichs an Mathilde Tillich. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2831">
                   <persName>Dürselen, Ilse Marie</persName>
@@ -19435,6 +19544,9 @@
                </person>
                <person xml:id="tillich_person_id__2887">
                   <persName>Behrens, (Frau)</persName>
+                  <note type="bio">
+                     <p>Frau Behrens (Lebensdaten und Vorname unbekannt) wurde unter anderem in einem Brief erwähnt, den Paul Tillich am 2. Januar 1929 an Hannah Tillich richtete. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2888">
                   <persName>Behrens(?), Dieter</persName>
@@ -19814,6 +19926,9 @@
                   <persName>Lommatzsch, Erhard</persName>
                   <occupation>Romanist und Mediävist</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118574167</idno>
+                  <note type="bio">
+                     <p>Erhard Lommatzsch (2. Februar 1886 – 20. Januar 1975) war ein deutscher Romanist, Mediävist und Lexikograf, geboren in Dresden. Ab 1905 studierte er in Berlin, promovierte dort 1910 und habilitierte sich 1913. Nach der Ernennung zum Professor 1917 wurde er 1921 nach Greifswald berufen, ab 1928 lehrte er bis 1956 in Frankfurt am Main. Zu seinen Schülern zählte Erich Auerbach. Sein Hauptwerk ist das Altfranzösische Wörterbuch, das er aus dem Nachlass Adolf Toblers erarbeitete und in Faszikeln herausgab. Von 1934 bis 1939 gehörte er der SS als förderndes Mitglied an. Mehrere Akademien nahmen ihn auf.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2950">
                   <persName>Jantzen, Hans</persName>
@@ -20242,6 +20357,9 @@
                   <birth>
                      <date>1892</date>
                   </birth>
+                  <note type="bio">
+                     <p>Anna Siegfried (geb. 1892) war die Ehefrau des Theologen Theodor Siegfried, mit dem Paul Tillich im Briefkontakt stand. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__3036">
                   <persName>Wilson, Woodrow</persName>
@@ -25428,6 +25546,9 @@
                   <persName>Christophersen, Alf</persName>
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/120766728</idno>
+                  <note type="bio">
+                     <p>Alf Christophersen (geb. am 25. April 1968) ist ein deutscher evangelischer Theologe aus Flensburg. Theologie und Philosophie studierte er in Tübingen und München, wo er 1997 promoviert wurde und sich 2002 für Systematische Theologie habilitierte. Anschließend wurde er ordiniert. Nach Jahren als Oberassistent an der Münchner Universität leitete er bis 2018 in Wittenberg den Bereich Theologie, Politik und Kultur an der Evangelischen Akademie Sachsen-Anhalt. Seither hat er eine Professur für Systematische Theologie in Wuppertal inne.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__4549">
                   <persName>Rapp, Adolf</persName>
@@ -27980,6 +28101,12 @@
                   <persName>Fritz, G.</persName>
                </person>
                <person xml:id="tillich_person_id__5544">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5545">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5546">
                   <persName/>
                </person>
             </listPerson>
