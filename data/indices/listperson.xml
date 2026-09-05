@@ -28116,6 +28116,44 @@
                   <persName>Ötli, ?</persName>
                   <occupation>Pfarrer in Bern</occupation>
                </person>
+               <person xml:id="tillich_person_id__5549">
+                  <persName>Müller, Hans Michael</persName>
+                  <occupation>evangelischer Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5550">
+                  <persName>Iwand, Hans-Joachim</persName>
+                  <birth>
+                     <date>1899-07-11</date>
+                     <settlement>
+                        <placeName>Schreibendorf, Schlesien</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1960-05-02</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__68">Bonn</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118556185</idno>
+               </person>
+               <person xml:id="tillich_person_id__5551">
+                  <persName>Wurm, Theophil</persName>
+                  <birth>
+                     <date>1868-12-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1953-01-28</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118635646</idno>
+               </person>
             </listPerson>
          </div>
       </body>

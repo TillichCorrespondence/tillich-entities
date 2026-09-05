@@ -10536,5 +10536,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1925": {
+    "id": 1925,
+    "order": "1139.00000000000000000000",
+    "name": "Lichtensteig",
+    "tillich_id": "tillich_place_id__1925",
+    "geonames_url": "https://www.geonames.org/2659898",
+    "Working Notes": "",
+    "latitude": "47.32381",
+    "longitude": "9.08758",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q69274"
   }
 }
