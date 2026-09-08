@@ -7290,6 +7290,14 @@
                   <idno type="geonames">https://sws.geonames.org/361058/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q87</idno>
                </place>
+               <place xml:id="tillich_place_id__1923">
+                  <placeName>Harvard University</placeName>
+                  <location type="coords">
+                     <geo>42.37700 -71.11666</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/4938981/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q13371</idno>
+               </place>
                <place xml:id="tillich_place_id__1925">
                   <placeName>Lichtensteig</placeName>
                   <location type="coords">

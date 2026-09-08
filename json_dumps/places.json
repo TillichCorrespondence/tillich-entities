@@ -10518,13 +10518,13 @@
   "1923": {
     "id": 1923,
     "order": "1137.00000000000000000000",
-    "name": "",
+    "name": "Harvard University",
     "tillich_id": "tillich_place_id__1923",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/4938981/",
     "Working Notes": "",
-    "latitude": null,
-    "longitude": null,
-    "wikidata_url": ""
+    "latitude": "42.37700",
+    "longitude": "-71.11666",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q13371"
   },
   "1924": {
     "id": 1924,
