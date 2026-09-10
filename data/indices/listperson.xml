@@ -1629,7 +1629,7 @@
                   <occupation>Evangelischer Pfarrer</occupation>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Nach dem Studium wurde er Vikar in Frankfurt (Oder). Seine erste Pfarrstelle hatte er seit 1911 an der St.-Pauli-Kirche in Posen inne. Weitere Stationen als Pfarrer waren Schröttersdorf, Bromberg (unter Generalsuperintendent Paul Blau) und ab 1922 Wallstein. Nachdem er 1925 wegen seines deutschen Patriotismus aus Polen ausgewiesen wurde, arbeitete er kurze Zeit für die Berliner Missionsgesellschaft, bevor er noch im gleichen Jahr Pfarrer an der Lutherkirche in Bad Kösen wurde. Zu seinen Aufgaben gehörte hier unter anderem die geistliche Aufsicht der Landesschule Pforta. Seit 1933 war er am Kirchenkampf beteiligt. Er gehörte zum Pfarrernotbund und zur Bekennenden Kirche. 1934 wurde er Vorsitzender des Bezirksbruderrats von Naumburg. Am 16. März 1935 wurde er wegen staatsfeindlicher Haltung kurzzeitig in Schutzhaft genommen. In Bad Kösen wirkte er, bis er 1962 in den Ruhestand ging und dort 1968 verstarb</p>
+                     <p>Nach dem Studium wurde er Vikar in Frankfurt (Oder). Seine erste Pfarrstelle hatte er seit 1911 an der St.-Pauli-Kirche in Posen inne. Weitere Stationen als Pfarrer waren Schröttersdorf, Bromberg (unter Generalsuperintendent Paul Blau) und ab 1922 Wallstein. Nachdem er 1925 wegen seines deutschen Patriotismus aus Polen ausgewiesen wurde, arbeitete er kurze Zeit für die Berliner Missionsgesellschaft, bevor er noch im gleichen Jahr Pfarrer an der Lutherkirche in Bad Kösen wurde. Zu seinen Aufgaben gehörte hier unter anderem die geistliche Aufsicht der Landesschule Pforta. Seit 1933 war er am Kirchenkampf beteiligt. Er gehörte zum Pfarrernotbund und zur Bekennenden Kirche. 1934 wurde er Vorsitzender des Bezirksbruderrats von Naumburg. Am 16. März 1935 wurde er wegen staatsfeindlicher Haltung kurzzeitig in Schutzhaft genommen. In Bad Kösen wirkte er, bis er 1962 in den Ruhestand ging und dort 1968 verstarb.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__204">
@@ -5405,7 +5405,7 @@
                   <death>
                      <date>1968-04-21</date>
                   </death>
-                  <occupation>Deutscher Schrifsteller</occupation>
+                  <occupation>Deutscher Schriftsteller</occupation>
                </person>
                <person xml:id="tillich_person_id__1071">
                   <persName>Knittermeyer, Heinrich</persName>
@@ -10826,7 +10826,7 @@
                   <occupation>Pastor und Katechet an der deutschen St. Petri-Gemeinde in Kopenhagen; Leutnant des Reserve-Infanterie Regiments Nr. 214</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1049759400</idno>
                   <note type="bio">
-                     <p>Gilbert van der Smissen war ein Studienkollege von Paul Tillich</p>
+                     <p>Gilbert van der Smissen war ein Studienkollege von Paul Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1983">
@@ -12961,7 +12961,7 @@
                         <placeName>Kreuznach</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Pfarrer in Bethel (1913-1020), dann in Ruhrort (1920-1925) und Rheydt (1925-1932), ehe er 1932 zum Vorsteher der Diakonie-Anstalten Bad Kreuznach ernannt wurde. Dort amtierte er bis 1957</occupation>
+                  <occupation>Evangelischer Pfarrer in Bethel (1913-1920), dann in Ruhrort (1920-1925) und Rheydt (1925-1932), ehe er 1932 zum Vorsteher der Diakonie-Anstalten Bad Kreuznach ernannt wurde. Dort amtierte er bis 1957.</occupation>
                   <note type="bio">
                      <p>Er war der Leibfux von Hans Balke.</p>
                   </note>
@@ -18742,7 +18742,7 @@
                         <placeName key="#tillich_place_id__850">Cannes</placeName>
                      </settlement>
                   </death>
-                  <occupation>Schrifsteller</occupation>
+                  <occupation>Schriftsteller</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11865103X</idno>
                </person>
                <person xml:id="tillich_person_id__2769">
