@@ -6092,10 +6092,16 @@
                <person xml:id="tillich_person_id__1227">
                   <persName>Lütgert, Wilhelm</persName>
                   <birth>
-                     <date>1867</date>
+                     <date>1867-04-09</date>
+                     <settlement>
+                        <placeName>Heiligengrabe</placeName>
+                     </settlement>
                   </birth>
                   <death>
-                     <date>1938</date>
+                     <date>1938-02-21</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
                   </death>
                   <occupation>Systematischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117299065</idno>
@@ -12089,7 +12095,7 @@
                   <occupation>Johanniterschwester</occupation>
                   <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
-                     <p>Toni Winkler (Lebensdaten unbekannt) war die Pflegemutter der Tillich-Kinder. Der Name „Toni“ ist eine Kurzform; der ausgeschriebene Vorname ist nicht bekannt. Mit Paul Tillich führte sie einen häufigen Briefwechsel und wird in dessen Korrespondenz mit anderen Personen wiederholt erwähnt, was auf ihre enge persönliche Verbundenheit mit der Familie hinweist.</p>
+                     <p>Toni Winkler war die Pflegemutter von Paul Tillich und seinen Schwestern. Mit Paul Tillich führte sie einen häufigen Briefwechsel, und sie wird in dessen Korrespondenz mit anderen Personen wiederholt erwähnt, was auf ihre enge persönliche Verbundenheit mit der Familie hinweist.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2086">
@@ -17858,9 +17864,15 @@
                   <persName>Lütgert, Martha</persName>
                   <birth>
                      <date>1878-04-07</date>
+                     <settlement>
+                        <placeName>Schwiggerow</placeName>
+                     </settlement>
                   </birth>
                   <death>
                      <date>1946-02-12</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
                   </death>
                   <note type="bio">
                      <p>Sie war die Frau von Wilhelm Lütgert und eine geborene Sellschopp.</p>
@@ -19983,9 +19995,6 @@
                </person>
                <person xml:id="tillich_person_id__2961">
                   <persName>Kriebitz</persName>
-                  <note type="bio">
-                     <p>erwähnt in Herrmann Schafft 05. Oktober 1914.</p>
-                  </note>
                </person>
                <person xml:id="tillich_person_id__2962">
                   <persName>Wolff</persName>
@@ -20797,8 +20806,17 @@
                <person xml:id="tillich_person_id__3129">
                   <persName>Lütgert, Ruth</persName>
                   <birth>
-                     <date>1906-15-12</date>
+                     <date>1906-12-15</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__189">Halle (Saale)</placeName>
+                     </settlement>
                   </birth>
+                  <death>
+                     <date>1977-10-06</date>
+                     <settlement>
+                        <placeName>Marburg</placeName>
+                     </settlement>
+                  </death>
                </person>
                <person xml:id="tillich_person_id__3130">
                   <persName>Zellfelder, August</persName>
@@ -27772,7 +27790,7 @@
                   </death>
                   <occupation>Hausvater in Mamre / Bethel</occupation>
                   <note type="bio">
-                     <p>Friedrich Engelmann war zunächst Landwirt. Am 31. Januar 1879 trat er der Diakonen Gemeinschaft Nazareth zur Probe bei. Aufgenommen wurde er ein paar Monate später am 14. August 1879 und eingesegnet am 26. Juni 1881. Von Juli 1898 bis zur seinem Ruhestand im Juni 1910 war Engelmann Hausvater in Mamre. Mamre war seit 1884 eine landwirtschaftliche Station in Bethel. Ab 1890 lebten dort epilepsiekranke Männer. Als Hausvater kümmerte sich Engelmann um alle Belange des Hauses, ob organisatorisch, personell und auch in Sachen Pflege. Als Hausvater lebte er mit seiner Familie auch mit im Haus Mamre</p>
+                     <p>Friedrich Engelmann war zunächst Landwirt. Am 31. Januar 1879 trat er der Diakonischen Gemeinschaft Nazareth zur Probe bei. Aufgenommen wurde er am 14. August 1879, eingesegnet am 26. Juni 1881. Von Juli 1898 bis zu seinem Ruhestand im Juni 1910 war Engelmann Hausvater in Mamre, der seit 1884 landwirtschaftlichen Station in Bethel. Ab 1890 lebten dort epilepsiekranke Männer. Als Hausvater kümmerte sich Engelmann um alle organisatorischen und personellen Belange des Hauses und lebte mit seiner Familie mit im Haus Mamre.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__5483">
@@ -28153,6 +28171,15 @@
                   </death>
                   <occupation>evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118635646</idno>
+               </person>
+               <person xml:id="tillich_person_id__5584">
+                  <persName>Kindt, Werner</persName>
+                  <occupation>Journalist und Publizist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1047575264</idno>
+               </person>
+               <person xml:id="tillich_person_id__5617">
+                  <persName>Kriebitz, Friedrich Christoph</persName>
+                  <occupation>Pfarrer und Konsistorialrat</occupation>
                </person>
             </listPerson>
          </div>
