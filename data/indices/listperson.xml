@@ -1627,7 +1627,6 @@
                      </settlement>
                   </death>
                   <occupation>Evangelischer Pfarrer</occupation>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Nach dem Studium wurde er Vikar in Frankfurt (Oder). Seine erste Pfarrstelle hatte er seit 1911 an der St.-Pauli-Kirche in Posen inne. Weitere Stationen als Pfarrer waren Schröttersdorf, Bromberg (unter Generalsuperintendent Paul Blau) und ab 1922 Wallstein. Nachdem er 1925 wegen seines deutschen Patriotismus aus Polen ausgewiesen wurde, arbeitete er kurze Zeit für die Berliner Missionsgesellschaft, bevor er noch im gleichen Jahr Pfarrer an der Lutherkirche in Bad Kösen wurde. Zu seinen Aufgaben gehörte hier unter anderem die geistliche Aufsicht der Landesschule Pforta. Seit 1933 war er am Kirchenkampf beteiligt. Er gehörte zum Pfarrernotbund und zur Bekennenden Kirche. 1934 wurde er Vorsitzender des Bezirksbruderrats von Naumburg. Am 16. März 1935 wurde er wegen staatsfeindlicher Haltung kurzzeitig in Schutzhaft genommen. In Bad Kösen wirkte er, bis er 1962 in den Ruhestand ging und dort 1968 verstarb.</p>
                   </note>
@@ -1782,7 +1781,6 @@
                      </settlement>
                   </death>
                   <occupation>Pfarrer</occupation>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Georg Blech (20. August 1885 – 9. Dezember 1926) war ein deutscher evangelischer Pfarrer. Er wirkte zuletzt als zweiter Pfarrer in Berlin-Schmargendorf.</p>
                   </note>
@@ -3531,7 +3529,6 @@
                   <death>
                      <date>1961</date>
                   </death>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Gertrude („Trudchen“) Fritz, geb. Horn, war eine deutsche Sozialarbeiterin. Sie absolvierte eine Ausbildung an einer Sozialen Frauenschule. Sie war die zweite Ehefrau von Alfred Fritz. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -3547,7 +3544,6 @@
                   <death>
                      <date>1920-01-05</date>
                   </death>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Johanna Fritz (11. Februar 1889 – 5. Januar 1920) war die Schwester des evangelischen Theologen und Religionsphilosophen Paul Tillich. Sie wurde in Starzeddel geboren und war mit dem reformierten Pfarrer Alfred Fritz verheiratet. Ihr Spitzname lautete „Wumming“.</p>
                   </note>
@@ -3678,7 +3674,6 @@
                </person>
                <person xml:id="tillich_person_id__673">
                   <persName>Gerich, August</persName>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>August Gerich (Lebensdaten unbekannt) war ein Studienfreund des Theologen Paul Tillich und fungierte als dessen Leibbursch. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -4374,7 +4369,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118547739</idno>
                   <note type="bio">
-                     <p>Georg Wilhelm Friedrich Hegel (27. August 1770 – 14. November 1831) war ein deutscher idealistischer Philosoph. Nach Theologie- und Philosophiestudium in Tübingen, wo er mit Hölderlin und Schelling zusammentraf, arbeitete er als Privaterzieher in der Schweiz und Frankfurt. 1801 habilitierte er sich in Jena und veröffentlichte dort sein Hauptwerk zur Phänomenologie des Geistes. Danach leitete er ein Gymnasium in Nürnberg, bevor er 1816 an die Universität Heidelberg wechselte und 1818 Fichte an der Berliner Universität nachfolgte. Seine Lehrveranstaltungen zu Logik, Recht, Geschichte und Religion gewannen großen Einfluss. Als Zentfigur des deutschen Idealismus formte sein dialektisches Denksystem die Philosophie des 19. Jahrhunderts nachhaltig. Er starb 1831 während einer Cholerapandemie in Berlin.</p>
+                     <p>Georg Wilhelm Friedrich Hegel (27. August 1770 – 14. November 1831) war ein deutscher idealistischer Philosoph. Nach Theologie- und Philosophiestudium in Tübingen, wo er mit Hölderlin und Schelling zusammentraf, arbeitete er als Privaterzieher in der Schweiz und Frankfurt. 1801 habilitierte er sich in Jena und veröffentlichte dort sein Hauptwerk zur Phänomenologie des Geistes. Danach leitete er ein Gymnasium in Nürnberg, bevor er 1816 an die Universität Heidelberg wechselte und 1818 Fichte an der Berliner Universität nachfolgte. Seine Lehrveranstaltungen zu Logik, Recht, Geschichte und Religion gewannen großen Einfluss. Als Zentralfigur des deutschen Idealismus formte sein dialektisches Denksystem die Philosophie des 19. Jahrhunderts nachhaltig. Er starb 1831 während einer Cholerapandemie in Berlin.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__840">
@@ -4533,7 +4528,6 @@
                <person xml:id="tillich_person_id__877">
                   <persName>Hensmann, Amos</persName>
                   <occupation>Pfarrer</occupation>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Amos Hensmann (geb. 1884) war ein deutscher Pfarrer. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -7199,7 +7193,6 @@
                   <birth>
                      <date>????-04-01</date>
                   </birth>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Erich Pfeiffer (Lebensdaten unbekannt) war ein Hauptmann im Ersten Weltkrieg. Er stand im Briefkontakt mit Paul Tillich. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -8412,7 +8405,6 @@
                </person>
                <person xml:id="tillich_person_id__1738">
                   <persName>Schreiber, Hans</persName>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Hans Schreiber (Lebensdaten unbekannt) war eine Person aus dem Umfeld der studentischen Verbindung Wingolf. Er stand in den Jahren 1907 und 1908 in brieflichem Kontakt mit dem Theologen Paul Tillich. Weitere biografische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -8544,7 +8536,7 @@
                   <occupation>Systematischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118760416</idno>
                   <note type="bio">
-                     <p>Reinhold Seeberg (5. April 1859 – 23. Oktober 1935) war ein deutscher evangelischer Theologe. Nach Studien in der Baltischen Region und Deutschland lehrte er ab 1884 in Dorpat, ab 1889 in Erlangen und ab 1898 in Berlin, wo er bis 1927 wirkte und Doktorvater Dietrich Bonhoeffers war. 1918/19 war er Rektor der Berliner Universität. Er prägte die Kirchenwohlfahrt und verfasste eine einflussreiche Dogmengeschichte. In seinen späteren Jahren vertraten er antiliberale und antisemitische Positionen.</p>
+                     <p>Reinhold Seeberg (5. April 1859 – 23. Oktober 1935) war ein deutscher evangelischer Theologe. Nach Studien in der Baltischen Region und Deutschland lehrte er ab 1884 in Dorpat, ab 1889 in Erlangen und ab 1898 in Berlin, wo er bis 1927 wirkte und Doktorvater Dietrich Bonhoeffers war. 1918/19 war er Rektor der Berliner Universität. Er prägte die Kirchenwohlfahrt und verfasste eine einflussreiche Dogmengeschichte. In seinen späteren Jahren vertrat er antiliberale und antisemitische Positionen.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1762">
@@ -8555,7 +8547,6 @@
                   <death>
                      <date>1986</date>
                   </death>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Elisabeth Seeberger (17. Juni 1893 – 1986) war die Schwester des evangelischen Theologen und Religionsphilosophen Paul Tillich. Im Jahr 1917 heiratete sie Erhard Seeberger, der über viele Jahre als Pfarrer in Berlin-Tempelhof tätig war.</p>
                   </note>
@@ -10109,7 +10100,6 @@
                   <birth>
                      <date>1867-05-25</date>
                   </birth>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Margarete Tillich (geb. 25. Mai 1867) war eine Tante Paul Tillichs und wurde von ihm Grete genannt.</p>
                   </note>
@@ -10161,7 +10151,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__1929">
-                  <persName>Tillich, Wilhelmina Mathilde</persName>
+                  <persName>Tillich, Wilhelmine Mathilde</persName>
                   <birth>
                      <date>1860-04-05</date>
                      <settlement>
@@ -10174,7 +10164,6 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Wilhelmine Mathilde Tillich (5. April 1860 – 24. September 1903) war die Mutter des Theologen Paul Tillich. Sie wurde in Odenkirchen als Wilhelmine Mathilde Dürselen geboren und entstammte einer evangelisch-reformierten Familie. Sie starb 1903 an einem Augenkarzinom.</p>
                   </note>
@@ -10190,14 +10179,12 @@
                   <death>
                      <date>1916-11-20</date>
                   </death>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Marie Tillich (6. März 1827 – 20. November 1916) war eine Angehörige der Familie Tillich und die Großmutter des Theologen Paul Tillich. Sie wurde in Berlin als Marie Scheidemantel geboren und führte später den Familiennamen Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1931">
                   <persName>Tillich, Margarethe</persName>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Margarete Karla Tillich (8. April 1888 – 25. November 1968), geboren als Margarete Karla Wever und genannt Greti, war die erste Ehefrau des evangelischen Theologen und Religionsphilosophen Paul Tillich. Die Ehe wurde am 28. September 1914 geschlossen und im November 1921 geschieden.</p>
                   </note>
@@ -11160,7 +11147,6 @@
                </person>
                <person xml:id="tillich_person_id__2012">
                   <persName>W., Elisabeth</persName>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Elisabeth W. (Lebensdaten unbekannt) war eine Korrespondenzpartnerin von Paul Tillich. Der Briefwechsel fand meist in englischer Sprache statt. Der Nachname der Person und weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -11629,7 +11615,7 @@
                      <date>1914</date>
                   </death>
                   <note type="bio">
-                     <p>Wolf Wever war der Bruder Greti Wevers. Er fiel im Oktober 1914</p>
+                     <p>Wolf Wever war der Bruder Greti Wevers. Er fiel im Oktober 1914.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2051">
@@ -12093,7 +12079,6 @@
                      </settlement>
                   </death>
                   <occupation>Johanniterschwester</occupation>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Toni Winkler war die Pflegemutter von Paul Tillich und seinen Schwestern. Mit Paul Tillich führte sie einen häufigen Briefwechsel, und sie wird in dessen Korrespondenz mit anderen Personen wiederholt erwähnt, was auf ihre enge persönliche Verbundenheit mit der Familie hinweist.</p>
                   </note>
@@ -12344,15 +12329,15 @@
                <person xml:id="tillich_person_id__2105">
                   <persName>Wundt, Max</persName>
                   <birth>
-                     <date>1832-08-16</date>
+                     <date>1879-01-29</date>
                      <settlement>
-                        <placeName>Neckarau</placeName>
+                        <placeName key="#tillich_place_id__260">Leipzig</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1920-08-31</date>
+                     <date>1963-10-31</date>
                      <settlement>
-                        <placeName>Großbothen</placeName>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
                      </settlement>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/11863562X</idno>
@@ -12821,7 +12806,6 @@
                </person>
                <person xml:id="tillich_person_id__2138">
                   <persName>Heller, Otto</persName>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Otto Heller (Lebensdaten unbekannt) war ein Studienkollege von Paul Tillich. Weitere biographische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -13025,7 +13009,6 @@
                         <placeName key="#tillich_place_id__111">Collinghorst</placeName>
                      </settlement>
                   </birth>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Nikolaus Schuster (geb. 18. Mai 1885) war ein Studienkollege des Theologen Paul Tillich. Er wurde in Collinghorst geboren und war unter dem Spitznamen „Nickelby“ bekannt, angelehnt an eine literarische Figur von Charles Dickens. Weitere biografische Informationen sind derzeit nicht bekannt.</p>
                   </note>
@@ -13193,14 +13176,7 @@
                </person>
                <person xml:id="tillich_person_id__2181">
                   <persName>Hanffstengel, Georg von</persName>
-                  <birth>
-                     <date>1874</date>
-                  </birth>
-                  <death>
-                     <date>1938</date>
-                  </death>
                   <occupation>Oberingenieur</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/14373685X</idno>
                   <note type="bio">
                      <p>Älterer Bruder Gottfried von Hanffstengels</p>
                   </note>
@@ -13307,7 +13283,6 @@
                </person>
                <person xml:id="tillich_person_id__2196">
                   <persName>???, Käthe</persName>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Käthe (Lebensdaten unbekannt) wird als Tante des Theologen Paul Tillich bezeichnet. Ihr vollständiger Name sowie weitere biographische Angaben sind nicht bekannt.</p>
                   </note>
@@ -13687,7 +13662,6 @@
                </person>
                <person xml:id="tillich_person_id__2237">
                   <persName>Dürselen, Gustav</persName>
-                  <idno type="gnd">Keine GND-Nummer</idno>
                   <note type="bio">
                      <p>Gustav Dürselen (2. Juli 1816 – 27. Februar 1909) war ein deutscher Kaufmann evangelisch-reformierten Bekenntnisses. Er wurde in Odenkirchen geboren und war im Handelswesen tätig. Er war ein Großvater des Theologen Paul Tillich und starb in Berlin.</p>
                   </note>
@@ -19161,17 +19135,6 @@
                   </death>
                   <occupation>Evangelischer Theologe und Hochschullehrer</occupation>
                </person>
-               <person xml:id="tillich_person_id__2834">
-                  <persName>Weiß, Bernhard</persName>
-                  <birth>
-                     <date>1827-06-20</date>
-                  </birth>
-                  <death>
-                     <date>1918-01-14</date>
-                  </death>
-                  <occupation>Theologe</occupation>
-                  <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
-               </person>
                <person xml:id="tillich_person_id__2835">
                   <persName>Gressmann, Hugo</persName>
                   <idno type="gnd">https://d-nb.info/gnd/116832541</idno>
@@ -23609,6 +23572,18 @@
                </person>
                <person xml:id="tillich_person_id__3775">
                   <persName>Carl Heinrich Anton</persName>
+                  <birth>
+                     <date>1851-12-04</date>
+                     <settlement>
+                        <placeName>Friedrichstadt (Schleswig Holstein)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-06-30</date>
+                     <settlement>
+                        <placeName>Newton (Kansas)</placeName>
+                     </settlement>
+                  </death>
                   <idno type="gnd">https://d-nb.info/gnd/1073668657</idno>
                </person>
                <person xml:id="tillich_person_id__3776">
@@ -24766,7 +24741,7 @@
                         <placeName>Rebelow</placeName>
                      </settlement>
                   </birth>
-                  <occupation>Lateinlehrerin</occupation>
+                  <occupation>Lateinlehrer</occupation>
                </person>
                <person xml:id="tillich_person_id__4118">
                   <persName>Graßmann, Karl</persName>
@@ -27455,6 +27430,8 @@
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
                   </death>
+                  <occupation>Professor für Maschinenbaukunde, insbesondere für Transportmaschinen und Förderanlagen für Massengüter</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/14373685X</idno>
                </person>
                <person xml:id="tillich_person_id__5374">
                   <persName/>

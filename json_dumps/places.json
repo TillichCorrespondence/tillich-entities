@@ -10547,5 +10547,27 @@
     "latitude": "47.32381",
     "longitude": "9.08758",
     "wikidata_url": "https://www.wikidata.org/wiki/Q69274"
+  },
+  "1958": {
+    "id": 1958,
+    "order": "1140.00000000000000000000",
+    "name": "La Bassée",
+    "tillich_id": "tillich_place_id__1958",
+    "geonames_url": "https://www.geonames.org/3011307/",
+    "Working Notes": "",
+    "latitude": "50.53424",
+    "longitude": "2.80620",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q375776"
+  },
+  "1959": {
+    "id": 1959,
+    "order": "1141.00000000000000000000",
+    "name": "Festubert",
+    "tillich_id": "tillich_place_id__1959",
+    "geonames_url": "https://www.geonames.org/3018591/",
+    "Working Notes": "",
+    "latitude": "50.54250",
+    "longitude": "2.73593",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1030579"
   }
 }
