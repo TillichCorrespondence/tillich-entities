@@ -11612,7 +11612,7 @@
                <person xml:id="tillich_person_id__2050">
                   <persName>Wever, Wolf</persName>
                   <death>
-                     <date>1914</date>
+                     <date>1914-10-20</date>
                   </death>
                   <note type="bio">
                      <p>Wolf Wever war der Bruder Greti Wevers. Er fiel im Oktober 1914.</p>
@@ -28157,6 +28157,15 @@
                <person xml:id="tillich_person_id__5617">
                   <persName>Kriebitz, Friedrich Christoph</persName>
                   <occupation>Pfarrer und Konsistorialrat</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5618">
+                  <persName>Cron, Hermann</persName>
+                  <occupation>Archivar</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118074601</idno>
+               </person>
+               <person xml:id="tillich_person_id__5619">
+                  <persName>James, E. A.</persName>
+                  <occupation>britischer Offizier und Historiker</occupation>
                </person>
             </listPerson>
          </div>
