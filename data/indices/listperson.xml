@@ -12782,9 +12782,15 @@
                </person>
                <person xml:id="tillich_person_id__2136">
                   <persName>Kaumann, Edwin</persName>
+                  <birth>
+                     <date>9.7.1883</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
                   <idno type="gnd">https://d-nb.info/gnd/1327799480</idno>
                   <note type="bio">
-                     <p>Edwin Kaumann (geb. 1883) war ein promovierter Akademiker aus Deutschland, geboren in Berlin. Er verfasste seine Dissertation an der Philosophischen Fakultät der Universität Erlangen-Nürnberg und gehörte wie der Theologe Paul Tillich der Studentenverbindung Wingolf an, mit dem er in Tübingen studierte. Es ist allerdings nicht gesichert, ob es sich bei ihm um den 1883 geborenen Edwin Kaumann handelt. Er könnte auch später geboren worden sein. Die hier abgefassten biographischen Informationen zu Edwin Kaumann sind daher lediglich begründete Vermutungen.</p>
+                     <p>Mitglied des Berliner und Tübinger Wingolfs. Er war zusammen mit Paul Tillich im Sommersemester 1905 Mitglied des Tübinger Wingolfs.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2137">
@@ -28166,6 +28172,27 @@
                <person xml:id="tillich_person_id__5619">
                   <persName>James, E. A.</persName>
                   <occupation>britischer Offizier und Historiker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5652">
+                  <persName>Weiss, Bernhard</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
+               </person>
+               <person xml:id="tillich_person_id__5653">
+                  <persName>Pohle, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__5654">
+                  <persName>Schrader, Karl Wilhelm Franz Gabriel</persName>
+                  <occupation>Politiker, Jurist und Eisenbahndirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117646121</idno>
+               </person>
+               <person xml:id="tillich_person_id__5655">
+                  <persName>Kind, August</persName>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116171979</idno>
+               </person>
+               <person xml:id="tillich_person_id__5656">
+                  <persName>Fischer, ???</persName>
                </person>
             </listPerson>
          </div>
