@@ -4146,6 +4146,15 @@
                </person>
                <person xml:id="tillich_person_id__788">
                   <persName>Hanffstengel, Gottfried von</persName>
+                  <birth>
+                     <date>1885-10-01</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__474">Worpswede</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1977</date>
+                  </death>
                   <occupation>Evangelischer Pfarrer, Superintendent</occupation>
                </person>
                <person xml:id="tillich_person_id__789">
@@ -20806,7 +20815,7 @@
                <person xml:id="tillich_person_id__3135">
                   <persName>Saathoff, Albrecht</persName>
                   <note type="bio">
-                     <p>Philister des Göttinger WIngolfs.</p>
+                     <p>Philister des Göttinger Wingolfs.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3136">
