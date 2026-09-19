@@ -10569,5 +10569,49 @@
     "latitude": "50.54250",
     "longitude": "2.73593",
     "wikidata_url": "https://www.wikidata.org/wiki/Q1030579"
+  },
+  "1961": {
+    "id": 1961,
+    "order": "1143.00000000000000000000",
+    "name": "Böningen",
+    "tillich_id": "tillich_place_id__1961",
+    "geonames_url": "https://sws.geonames.org/2661450/",
+    "Working Notes": "",
+    "latitude": "46.68736",
+    "longitude": "7.89350",
+    "wikidata_url": "http://www.wikidata.org/entity/Q56488214"
+  },
+  "1962": {
+    "id": 1962,
+    "order": "1147.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1962",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1963": {
+    "id": 1963,
+    "order": "1148.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1963",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
+  },
+  "1964": {
+    "id": 1964,
+    "order": "1149.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__1964",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
