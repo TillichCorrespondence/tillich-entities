@@ -28206,6 +28206,26 @@
                <person xml:id="tillich_person_id__5689">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__5690">
+                  <persName>Müller, ?</persName>
+               </person>
+               <person xml:id="tillich_person_id__5691">
+                  <persName>Wolf, Ernst</persName>
+                  <birth>
+                     <date>1902-08-02</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__1393">Prag</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1971-09-11</date>
+                     <settlement>
+                        <placeName>Garmisch-Patenkirchen</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11880698X</idno>
+               </person>
             </listPerson>
          </div>
       </body>
