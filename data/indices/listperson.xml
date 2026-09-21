@@ -6479,7 +6479,7 @@
                   <occupation>Deutscher Sozialpädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119264250</idno>
                   <note type="bio">
-                     <p>August Carl Mennicke (5. September 1887 – 15. November 1959) war ein bedeutender deutscher Sozialpädagoge und Vertreter des religiösen Sozialismus. Nach seinem theologischen Studium wirkte er ab 1917 als Geistlicher im Ruhrgebiet, wo er die Arbeiterbedingungen unmittelbar kennenlerte. Er gehörte dem Kreis um Paul Tillich an und publizierte in einschlägigen Zeitschriften. 1923 etablierte er an der Berliner Hochschule für Politik eine Ausbildungsstätte für männliche Fachkräfte in der Wohlfahrtspflege – eine Neuerung in diesem bis dahin weiblich dominierten Feld. 1930 übernahm er die Leitung des Frankfurter Instituts für Berufspädagogik und lehrte gleichzeitig an der dortigen Universität. Aufgrund seiner Nähe zum Tillich-Kreis wurde er 1933 aus dem Dienst entlassen; sein Buch wurde verbrannt. Er flüchtete 1934 in die Niederlande und dirigierte dort ein philosophisches Schulungszentrum. Nach Verhaftung und Gefängnisaufenthalt während des Krieges arbeitete er als Fabrikarbeiter. Ab 1945 kehrte er nach Frankfurt zurück und lehrte dort bis 1952. Kurz vor seinem Tod erhielt er Auszeichnungen der Bundesrepublik.</p>
+                     <p>August Carl Mennicke (5. September 1887 – 15. November 1959) war ein bedeutender deutscher Sozialpädagoge und Vertreter des religiösen Sozialismus. Nach seinem theologischen Studium wirkte er ab 1917 als Geistlicher im Ruhrgebiet, wo er die Arbeiterbedingungen unmittelbar kennenlernte. Er gehörte dem Kreis um Paul Tillich an und publizierte in einschlägigen Zeitschriften. 1923 etablierte er an der Berliner Hochschule für Politik eine Ausbildungsstätte für männliche Fachkräfte in der Wohlfahrtspflege – eine Neuerung in diesem bis dahin weiblich dominierten Feld. 1930 übernahm er die Leitung des Frankfurter Instituts für Berufspädagogik und lehrte gleichzeitig an der dortigen Universität. Aufgrund seiner Nähe zum Tillich-Kreis wurde er 1933 aus dem Dienst entlassen; sein Buch wurde verbrannt. Er flüchtete 1934 in die Niederlande und dirigierte dort ein philosophisches Schulungszentrum. Nach Verhaftung und Gefängnisaufenthalt während des Krieges arbeitete er als Fabrikarbeiter. Ab 1945 kehrte er nach Frankfurt zurück und lehrte dort bis 1952. Kurz vor seinem Tod erhielt er Auszeichnungen der Bundesrepublik.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1308">
@@ -10156,7 +10156,7 @@
                   <occupation>Theologe, Religionsphilosoph und Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118622692</idno>
                   <note type="bio">
-                     <p>Paul Tillich (20. August 1886 – 22. Oktober 1965) war ein deutscher evangelischer Theologe und Religionsphilosoph. Nach seiner Tätigkeit als Feldprediger im Ersten Weltkrieg lehrte er an verschiedenen Universitäten in Deutschland, bis er 1933 emigrieren musste und in den USA wirkte, unter anderem in New York, Harvard und Chicago. Tillich entwickelte eine Theologie der Kultur und verstand Religion als das „was uns unbedingt angeht“. In seiner „Systematic Theology“ formulierte er die Methode der Korrelation und deutete Gott als „Macht des Seins“. Seine Arbeiten verbinden Theologie, Philosophie und Existenzdenken und hatten großen Einfluss auf das religiöse Denken der Moderne.</p>
+                     <p>Paul Tillich (20. August 1886 – 22. Oktober 1965) war ein deutscher evangelischer Theologe und Religionsphilosoph. Nach seiner Tätigkeit als Feldprediger im Ersten Weltkrieg lehrte er an verschiedenen Universitäten in Deutschland, bis er 1933 emigrieren musste und in den USA wirkte, unter anderem in New York, Harvard und Chicago. Tillich entwickelte eine Theologie der Kultur und verstand Religion als das, „was uns unbedingt angeht“. In seiner „Systematic Theology“ formulierte er die Methode der Korrelation und deutete Gott als „Macht des Seins“. Seine Arbeiten verbinden Theologie, Philosophie und Existenzdenken und hatten großen Einfluss auf das religiöse Denken der Moderne.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1929">
@@ -26941,7 +26941,7 @@
                         <placeName>Zangberg, Bayerin</placeName>
                      </settlement>
                   </death>
-                  <occupation>Malerin, Kunsthistoriherin und Schriftstellerin</occupation>
+                  <occupation>Malerin, Kunsthistorikerin und Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117144975</idno>
                </person>
                <person xml:id="tillich_person_id__5093">
@@ -28225,6 +28225,112 @@
                   </death>
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11880698X</idno>
+               </person>
+               <person xml:id="tillich_person_id__5692">
+                  <persName>Feislein, Marie</persName>
+               </person>
+               <person xml:id="tillich_person_id__5693">
+                  <persName>Feislein, ?</persName>
+               </person>
+               <person xml:id="tillich_person_id__5694">
+                  <persName>Briand, Aristide</persName>
+                  <birth>
+                     <date>1862-03-28</date>
+                     <settlement>
+                        <placeName>Nantes</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1932-03-07</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__343">Paris</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Politiker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5695">
+                  <persName>Hahn, Hugo</persName>
+                  <birth>
+                     <date>1886-10-04</date>
+                     <settlement>
+                        <placeName>Reval, Estland</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1957-11-05</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/123563526</idno>
+               </person>
+               <person xml:id="tillich_person_id__5696">
+                  <persName>Kirchbach, Arndt von</persName>
+                  <birth>
+                     <date>1885-01-30</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1963-02-28</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__180">Goslar</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/119347628</idno>
+               </person>
+               <person xml:id="tillich_person_id__5697">
+                  <persName>Kowalewski, Gerhard</persName>
+                  <birth>
+                     <date>1876-03.27</date>
+                     <settlement>
+                        <placeName>Alt-Järshagen</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1950-02-21</date>
+                     <settlement>
+                        <placeName>Gräfelfing</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Mathematiker</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116345799</idno>
+               </person>
+               <person xml:id="tillich_person_id__5698">
+                  <persName>Salzburg, Friedrich</persName>
+                  <birth>
+                     <date>1874-06-04</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1953-08-22</date>
+                     <settlement>
+                        <placeName>Berkely, USA</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Jurist</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5699">
+                  <persName>Wolff, Karl</persName>
+                  <birth>
+                     <date>1876-06-27</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__239">Koblenz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1952-06-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__271">London</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Dramaturg, Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117441376</idno>
                </person>
             </listPerson>
          </div>

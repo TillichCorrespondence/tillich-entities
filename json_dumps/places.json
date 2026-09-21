@@ -10613,5 +10613,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "1965": {
+    "id": 1965,
+    "order": "1150.00000000000000000000",
+    "name": "Fribourg",
+    "tillich_id": "tillich_place_id__1965",
+    "geonames_url": "https://www.geonames.org/2660718/",
+    "Working Notes": "",
+    "latitude": "46.80237",
+    "longitude": "7.15128",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q36378"
   }
 }

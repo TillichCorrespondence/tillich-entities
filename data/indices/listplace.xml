@@ -7330,7 +7330,15 @@
                   <idno type="geonames">https://sws.geonames.org/2661450/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q56488214</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__1965">
+                  <placeName>Fribourg</placeName>
+                  <location type="coords">
+                     <geo>46.80237 7.15128</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2660718/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q36378</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>
