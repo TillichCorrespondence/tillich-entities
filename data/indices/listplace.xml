@@ -7338,6 +7338,14 @@
                   <idno type="geonames">https://sws.geonames.org/2660718/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q36378</idno>
                </place>
+               <place xml:id="tillich_place_id__1966">
+                  <placeName>Zaandvoort</placeName>
+                  <location type="coords">
+                     <geo>52.37125 4.53306</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2744042/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q33525262</idno>
+               </place>
             </listPlace>
          </div>
       </body>

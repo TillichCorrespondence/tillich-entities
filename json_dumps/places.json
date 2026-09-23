@@ -10624,5 +10624,16 @@
     "latitude": "46.80237",
     "longitude": "7.15128",
     "wikidata_url": "https://www.wikidata.org/wiki/Q36378"
+  },
+  "1966": {
+    "id": 1966,
+    "order": "1151.00000000000000000000",
+    "name": "Zaandvoort",
+    "tillich_id": "tillich_place_id__1966",
+    "geonames_url": "https://sws.geonames.org/2744042/",
+    "Working Notes": "",
+    "latitude": "52.37125",
+    "longitude": "4.53306",
+    "wikidata_url": "http://www.wikidata.org/entity/Q33525262"
   }
 }
