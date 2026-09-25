@@ -10613,7 +10613,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__1965">
-                  <persName>Ulrich, Robert</persName>
+                  <persName>Ulich, Robert</persName>
                   <birth>
                      <date>1890-04-21</date>
                   </birth>
@@ -16303,7 +16303,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118551264</idno>
                   <note type="bio">
-                     <p>Paul von Hindenburg (7. Juli 1847 – 2. August 1934) war im Ersten Weltkrieg gemeinsam mit Erich Ludendorff de facto der militärische Führer der deutschen Kriegsführung. Später gewann er 1932 unter anderem gegen Adolf Hitler die Reichspräsidentschaftswahl in Deutschland und wurde erneut Reichspräsident. Er war, bis zu seinem Tod, der letzte Präsident der Weimarer Republik.</p>
+                     <p>Paul von Hindenburg (2. Oktober 1847 – 2. August 1934) war im Ersten Weltkrieg gemeinsam mit Erich Ludendorff de facto der militärische Führer der deutschen Kriegsführung. Später gewann er 1932 unter anderem gegen Adolf Hitler die Reichspräsidentschaftswahl in Deutschland und wurde erneut Reichspräsident. Er war, bis zu seinem Tod, der letzte Präsident der Weimarer Republik.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2486">
@@ -17701,7 +17701,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/118738410</idno>
                </person>
                <person xml:id="tillich_person_id__2639">
-                  <persName>Ulrich, Robert</persName>
+                  <persName>Ulich, Robert</persName>
                   <birth>
                      <date>1890-04-21</date>
                   </birth>
@@ -18593,7 +18593,7 @@
                   <occupation>Psychologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118798758</idno>
                   <note type="bio">
-                     <p>(Geb: Louise William Stern) Er war der Begründer der differentiellen Psychologie und Entwickler des ersten Intelligenzquotienten, hatte 1900 über Psychologie und individuelle Differenzen publizierte beim Verlag von Johann Ambrosius Barth. (aus Graf Edition)</p>
+                     <p>(Geb: Louise William Stern) Er war der Begründer der differentiellen Psychologie und Entwickler des ersten Intelligenzquotienten. Im Jahr 1900 hatte er über Psychologie und individuelle Differenzen beim Verlag von Johann Ambrosius Barth publiziert.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2756">
@@ -28364,6 +28364,9 @@
                </person>
                <person xml:id="tillich_person_id__5710">
                   <persName>Tiger, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__5711">
+                  <persName>Dienstag, ???</persName>
                </person>
             </listPerson>
          </div>
