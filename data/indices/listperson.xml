@@ -7252,7 +7252,7 @@
                   <occupation>Britische Sozialarbeiterin und Autorin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118594419</idno>
                   <note type="bio">
-                     <p>Lily Pincus (13. März 1898 – 22. Oktober 1981) war eine deutsch-britische Sozialarbeiterin und Schriftstellerin. Nach ihrer Ausbildung in Fototechnik arbeitete sie als Röntgenassistentin. 1922 heiratete sie einen Juristen, mit dem sie ab 1925 in Potsdam ein Wohngemeinschaftsprojekt mit dem befreundeten Ehepaar Löwenfeld teilte – ein intellektueller Zirkel, das auch dem Theologen Tillich nahestand. 1939 emigrierten beide nach Großbritannien, wo sie Tätigkeiten im Sozialwesen übernahm. 1948 gründete sie ein Institut zur Eheforschung an einer Londoner Klinik und leitete dieses bis 1965.</p>
+                     <p>Lily Pincus (13. März 1898 – 22. Oktober 1981) war eine deutsch-britische Sozialarbeiterin und Schriftstellerin. Nach ihrer Ausbildung in Fototechnik arbeitete sie als Röntgenassistentin. 1922 heiratete sie einen Juristen, mit dem sie ab 1925 in Potsdam ein Wohngemeinschaftsprojekt mit dem befreundeten Ehepaar Löwenfeld teilte – einen intellektuellen Zirkel, das auch dem Theologen Tillich nahestand. 1939 emigrierten beide nach Großbritannien, wo sie Tätigkeiten im Sozialwesen übernahm. 1948 gründete sie ein Institut zur Eheforschung an einer Londoner Klinik und leitete dieses bis 1965.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1499">
@@ -12772,7 +12772,7 @@
                <person xml:id="tillich_person_id__2135">
                   <persName>Rickert, Heinrich</persName>
                   <birth>
-                     <date>1853-05-25</date>
+                     <date>1863-05-25</date>
                      <settlement>
                         <placeName>Danzig</placeName>
                      </settlement>
@@ -28367,6 +28367,17 @@
                </person>
                <person xml:id="tillich_person_id__5711">
                   <persName>Dienstag, ???</persName>
+               </person>
+               <person xml:id="tillich_person_id__5712">
+                  <persName>Münzenberg, Willy</persName>
+                  <idno type="gnd">https://www.deutsche-biographie.de/gnd118585541</idno>
+               </person>
+               <person xml:id="tillich_person_id__5713">
+                  <persName>Siemens, Hans</persName>
+               </person>
+               <person xml:id="tillich_person_id__5714">
+                  <persName/>
+                  <occupation>Journalist und Schrifsteller</occupation>
                </person>
             </listPerson>
          </div>
