@@ -21151,7 +21151,7 @@
                   <occupation>Deutscher Musikschriftsteller, Rundfunkpionier, Komponist und Übersetzer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12229386X</idno>
                   <note type="bio">
-                     <p>Wurde Freund von Walter Benjamin studierte in Bern und heiratete 1926 seine Frau Johanna geb. Liman.</p>
+                     <p>Schoen war Freund von Walter Benjamin, studierte in Bern und heiratete 1926 seine Frau Johanna (geb. Liman).</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3217">
@@ -21174,7 +21174,7 @@
                <person xml:id="tillich_person_id__3222">
                   <persName>Schoen, Johanna</persName>
                   <note type="bio">
-                     <p>Die Geb. Liman nahm nach dem Tod von ihrem Ehemann Ernst Schoen wieder ihren Muttername Gräfin Rogendorf von Mollenburg auf.</p>
+                     <p>Nach dem Tod ihres Ehemanns, Ernst Schoen, nahm Frau Liman wieder ihren Mädchennamen an: Gräfin Rogendorf von Mollenburg.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3223">
@@ -28378,6 +28378,28 @@
                <person xml:id="tillich_person_id__5714">
                   <persName/>
                   <occupation>Journalist und Schrifsteller</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5715">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5716">
+                  <persName>Metzger, Max Josef</persName>
+                  <birth>
+                     <date>1887-02-03</date>
+                     <settlement>
+                        <placeName>Schopfheim</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1944-04-17</date>
+                     <settlement>
+                        <placeName>Brandenburg an der Havel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Deutscher Priester</occupation>
+                  <note type="bio">
+                     <p>Max Josef Metzger (1887–1944) war ein deutscher katholischer Priester, der aufgrund seiner pazifistischen Überzeugungen am 14. Oktober 1943 vom „Volksgericht“ unter Vorsitz von Roland Freisler zum Tode verurteilt und sechs Monate später hingerichtet wurde. In der katholischen Kirche wird er als Seliger verehrt.</p>
+                  </note>
                </person>
             </listPerson>
          </div>
