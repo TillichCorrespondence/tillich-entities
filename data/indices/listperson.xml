@@ -8574,7 +8574,7 @@
                   <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/12680446X</idno>
                   <note type="bio">
-                     <p>Georg Seeberger (1891–1969) war ein deutscher protestantischer Geistlicher, Dekan und Kirchenrat in Bamberg. Er war mit Elisabeth, der Schwester des Theologen Paul Tillich, verheiratet. Er verfasste mehrere Publikationen, darunter ein Handbuch zur Amtsführung für protestantische Geistliche im Königreich Bayern.</p>
+                     <p>Erhard Seeberger (1891 – 1969) war ein evangelisch-lutherischer Pfarrer und Schwager des Theologen und Religionsphilosophen Paul Tillich. Im Jahr 1917 heiratete er dessen Schwester Elisabeth Tillich. Über viele Jahre war er als Pfarrer in Berlin-Tempelhof tätig. 1969 gab er gemeinsam mit Gotthold Lasson das Tillich-Brevier "Der Mensch zwischen Bedrohung und Geborgenheit" heraus.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1764">
@@ -9758,17 +9758,17 @@
                <person xml:id="tillich_person_id__1898">
                   <persName>Tertullian</persName>
                   <birth>
-                     <date>0150</date>
+                     <date>0160</date>
                      <settlement>
                         <placeName>Karthago</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>0230</date>
+                     <date>0220</date>
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118621386</idno>
                   <note type="bio">
-                     <p>Tertullian, Quintus Septimius Florens (ca. 160/170 Karthago – nach 220 ebd.) war ein christlicher Schriftsteller und Theologe. Er entstammte dem römischen Milieu Karthagos, konvertierte um 195 zum Christentum und wandte sich später dem Montanismus zu. Seine zahlreichen Schriften umfassen Apologien, katechetische Traktate und dogmatische Abhandlungen. Er verteidigte das Christentum gegen Heiden, Juden und Häretiker, betonte die körperliche Realität Christi, die Auferstehung des Fleisches und prägte mit Formeln wie „una substantia – tres personae“ die lateinische Trinitätstheologie. Seine strenge Ethik verbot zweite Ehen, jede Form von Götzendienst und das Entziehen vor Verfolgung. Mit scharfem Stil und neuer Terminologie prägte er nachhaltig die westliche Theologie, auch wenn er sich von der Großkirche entfernte.</p>
+                     <p>Tertullian, Quintus Septimius Florens (um 160 in Karthago – nach 220 ebd.) war ein christlicher Schriftsteller und Theologe. Er entstammte dem römischen Milieu Karthagos, konvertierte um 195 zum Christentum und wandte sich später dem Montanismus zu. Seine zahlreichen Schriften umfassen Apologien, katechetische Traktate und dogmatische Abhandlungen. Er verteidigte das Christentum gegen Heiden, Juden und Häretiker, betonte die körperliche Realität Christi, die Auferstehung des Fleisches und prägte mit Formeln wie „una substantia – tres personae“ die lateinische Trinitätstheologie. Seine strenge Ethik verbot zweite Ehen, jede Form von Götzendienst und das Entziehen vor Verfolgung. Mit scharfem Stil und neuer Terminologie prägte er nachhaltig die westliche Theologie, auch wenn er sich von der Großkirche entfernte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1899">
@@ -13303,7 +13303,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2197">
-                  <persName>Fritz, Imanuel</persName>
+                  <persName>Fritz, Immanuel</persName>
                   <note type="bio">
                      <p>Älterer Bruder von Alfred Fritz</p>
                   </note>
@@ -13353,7 +13353,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/117630373</idno>
                </person>
                <person xml:id="tillich_person_id__2202">
-                  <persName>Vanderwelde, Émile</persName>
+                  <persName>Vandervelde, Émile</persName>
                   <birth>
                      <date>1866-01-25</date>
                      <settlement>
@@ -22868,7 +22868,7 @@
                   <persName>Stradtmann, ???</persName>
                </person>
                <person xml:id="tillich_person_id__3569">
-                  <persName>Ernst Friedrich Christian, Müsebeck</persName>
+                  <persName>Müsebeck, Ernst Friedrich Christian</persName>
                </person>
                <person xml:id="tillich_person_id__3570">
                   <persName>Lienau, Robert</persName>
