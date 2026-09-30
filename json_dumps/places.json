@@ -10635,5 +10635,16 @@
     "latitude": "52.37125",
     "longitude": "4.53306",
     "wikidata_url": "http://www.wikidata.org/entity/Q33525262"
+  },
+  "1967": {
+    "id": 1967,
+    "order": "1152.00000000000000000000",
+    "name": "Meadville, Pennsylvania",
+    "tillich_id": "tillich_place_id__1967",
+    "geonames_url": "https://sws.geonames.org/5200644/",
+    "Working Notes": "",
+    "latitude": "41.64144",
+    "longitude": "-80.15145",
+    "wikidata_url": "http://www.wikidata.org/entity/Q1010225"
   }
 }
