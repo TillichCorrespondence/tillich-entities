@@ -5351,6 +5351,9 @@
                         <placeName>Wohlau</placeName>
                      </settlement>
                   </birth>
+                  <death>
+                     <date>1943</date>
+                  </death>
                   <occupation>Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/127574506</idno>
                   <note type="bio">
@@ -5972,7 +5975,7 @@
                   <occupation>Kirchenhistoriker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117213381</idno>
                   <note type="bio">
-                     <p>Friedrich Armin Loofs (19. Juni 1858 – 13. Januar 1928) war ein bedeutender evangelischer Gelehrter im Bereich der Kirchengeschichte. Geprägt durch seine Studienzeit bei einflussreichen protestantischen Denkern, begann er seine akademische Tätigkeit in Leipzig, wo er zunächst als Dozent tätig war, bevor er 1886 eine außerordentliche Professur erhielt. Ein Jahr später versetzte es ihn an die Universität Halle, wo er kurz darauf ordentlichen Lehrstuhlinhaber wurde und 1907/08 das Rektorat bekleidete. Sein bleibender Ruf gründet sich auf ein dogmengeschichtliches Handbuch, das ab 1889 in sieben überarbeiteten Auflagen bis 1968 Verbreitung fand und zu den maßgeblichen Werken seiner Disziplin zählt. Sein Forschungsgebiet konzentrierte sich auf die frühen Kirchenväter sowie auf Studien zur Reformationsepoche. Überdies initiierte er eine einflussreiche protestantische Zeitschrift mit und nahm in theologischen Debatten seines Zeitalters energisch Stellung.</p>
+                     <p>Friedrich Armin Loofs (19. Juni 1858 – 13. Januar 1928) war ein bedeutender evangelischer Gelehrter im Bereich der Kirchengeschichte. Geprägt durch seine Studienzeit bei einflussreichen protestantischen Denkern, begann er seine akademische Tätigkeit in Leipzig, wo er zunächst als Dozent tätig war, bevor er 1886 eine außerordentliche Professur erhielt. Ein Jahr später versetzte es ihn an die Universität Halle, wo er kurz darauf ordentlichen Lehrstuhlinhaber wurde und 1907/08 das Rektorat bekleidete. Sein bleibender Ruf gründet sich auf ein dogmengeschichtliches Handbuch, das ab 1889 in sieben überarbeiteten Auflagen bis 1968 Verbreitung fand und zu den maßgeblichen Werken seiner Disziplin zählt. Sein Forschungsgebiet konzentrierte sich auf die frühen Kirchenväter sowie auf Studien zur Reformationsepoche. Überdies initiierte er eine einflussreiche protestantische Zeitschrift und nahm in theologischen Debatten seines Zeitalters energisch Stellung.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1202">
@@ -8311,7 +8314,7 @@
                   <occupation>Evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118607928</idno>
                   <note type="bio">
-                     <p>Adolf Schlatter (16. August 1852 – 19. Mai 1938) war ein Theologe aus der Schweiz mit evangelischem Profil. Er hatte Lehrstühle an mehreren deutschsprachigen Universitäten inne – in Bern, Greifswald, Berlin und schließlich Tübingen – wo er sich dem Neuen Testament und systematischen Fragen widmete. Ein äußerst produktiver Denker verfasste er weit über dreihundert Schriften, die sich sowohl an akademische Kreise als auch an kirchliche Laien richteten. Seine intellektuelle Arbeit zielte darauf ab, eine auf Beobachtung gegründete Theologie zu entwickeln sowie die neutestamentlichen Texte durch ein beobachtendes Verfahren erschließbar zu machen. In der Fachlichkeit wird er als eigenwilliger Denker charakterisiert, der sich den dominanten theologischen Strömungen seiner Epoche entzog. Obwohl er keine eigene Schule stiftete, wirken seine Arbeiten bis in die Gegenwart nach.</p>
+                     <p>Adolf Schlatter (16. August 1852 – 19. Mai 1938) war ein evangelischer Theologe aus der Schweiz. Er hatte Lehrstühle an mehreren deutschsprachigen Universitäten inne, in Bern, Greifswald, Berlin und schließlich Tübingen, wo er sich dem Neuen Testament und systematischen Fragen widmete. Als äußerst produktiver Denker verfasste er weit über dreihundert Schriften, die sich sowohl an akademische Kreise als auch an kirchliche Laien richteten. Seine intellektuelle Arbeit zielte darauf ab, eine auf Beobachtung gegründete Theologie zu entwickeln und die neutestamentlichen Texte durch ein beobachtendes Verfahren zu erschließen. In der Forschung wird er als eigenwilliger Denker charakterisiert, der sich den dominanten theologischen Strömungen seiner Epoche entzog. Obwohl er keine eigene Schule begründete, wirken seine Arbeiten bis in die Gegenwart nach.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1713">
@@ -12060,7 +12063,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date>1915-10-24</date>
+                     <date>1915-10-22</date>
                      <settlement>
                         <placeName>Heidelberg</placeName>
                      </settlement>
@@ -28426,6 +28429,14 @@
                <person xml:id="tillich_person_id__5722">
                   <persName>Borgese, Giuseppe Antonio</persName>
                   <idno type="gnd">https://d-nb.info/gnd/118659367</idno>
+               </person>
+               <person xml:id="tillich_person_id__5723">
+                  <persName>Kirmß, Paul</persName>
+                  <occupation>Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117520306</idno>
+               </person>
+               <person xml:id="tillich_person_id__5724">
+                  <persName>Schmidt, Hanna</persName>
                </person>
             </listPerson>
          </div>

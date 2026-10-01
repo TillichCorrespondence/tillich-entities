@@ -6740,7 +6740,7 @@
                   <location type="coords">
                      <geo>52.67318 14.89765</geo>
                   </location>
-                  <idno type="geonames">https://sws.geonames.org/3087840/</idno>
+                  <idno type="geonames">https://sws.geonames.org/3081818/</idno>
                </place>
                <place xml:id="tillich_place_id__1496">
                   <placeName>Rochester (NY)</placeName>
@@ -7353,6 +7353,14 @@
                   </location>
                   <idno type="geonames">https://sws.geonames.org/5200644/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q1010225</idno>
+               </place>
+               <place xml:id="tillich_place_id__1968">
+                  <placeName>Bormio</placeName>
+                  <location type="coords">
+                     <geo>46.46717 10.37008</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3181730/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q40516</idno>
                </place>
             </listPlace>
          </div>

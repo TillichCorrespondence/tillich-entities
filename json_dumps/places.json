@@ -9728,7 +9728,7 @@
     "order": "1061.00000000000000000000",
     "name": "Vietz (Witnica)",
     "tillich_id": "tillich_place_id__1495",
-    "geonames_url": "https://sws.geonames.org/3087840/",
+    "geonames_url": "https://sws.geonames.org/3081818/",
     "Working Notes": "",
     "latitude": "52.67318",
     "longitude": "14.89765",
@@ -10646,5 +10646,16 @@
     "latitude": "41.64144",
     "longitude": "-80.15145",
     "wikidata_url": "http://www.wikidata.org/entity/Q1010225"
+  },
+  "1968": {
+    "id": 1968,
+    "order": "1153.00000000000000000000",
+    "name": "Bormio",
+    "tillich_id": "tillich_place_id__1968",
+    "geonames_url": "https://www.geonames.org/3181730/",
+    "Working Notes": "",
+    "latitude": "46.46717",
+    "longitude": "10.37008",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q40516"
   }
 }
