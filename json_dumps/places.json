@@ -10657,5 +10657,16 @@
     "latitude": "46.46717",
     "longitude": "10.37008",
     "wikidata_url": "https://www.wikidata.org/wiki/Q40516"
+  },
+  "1969": {
+    "id": 1969,
+    "order": "1154.00000000000000000000",
+    "name": "Großbottwar",
+    "tillich_id": "tillich_place_id__1969",
+    "geonames_url": "https://www.geonames.org/2916936/",
+    "Working Notes": "",
+    "latitude": "49.00147",
+    "longitude": "9.29348",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q61830"
   }
 }

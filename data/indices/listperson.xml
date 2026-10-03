@@ -28438,6 +28438,16 @@
                <person xml:id="tillich_person_id__5724">
                   <persName>Schmidt, Hanna</persName>
                </person>
+               <person xml:id="tillich_person_id__5725">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5726">
+                  <persName>Dieterich, Eberhard</persName>
+                  <birth>
+                     <date>1900</date>
+                  </birth>
+                  <occupation>Theologe</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
