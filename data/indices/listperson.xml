@@ -11958,7 +11958,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118633015</idno>
                   <note type="bio">
-                     <p>Ockham, Wilhelm von (ca. 1288 Ockham, Surrey – 9.4.1347 München) war franziskanischer Philosoph, Theologe und politischer Theoretiker der Spätscholastik. Er gilt als Hauptvertreter des Nominalismus und wurde durch das nach ihm benannte „Rasiermesser“ bekannt, das die Bevorzugung einfacher Hypothesen fordert. Seine Schriften behandeln Logik, Erkenntnistheorie, Naturphilosophie, Ethik und Politik. Wegen seiner Parteinahme im Armutsstreit der Franziskaner geriet er in Konflikt mit Papst Johannes XXII., wurde exkommuniziert und fand Zuflucht in München, wo er bis zu seinem Tod wirkte.</p>
+                     <p>Ockham, Wilhelm von (ca. 1285 Ockham, Surrey – 9.4.1347 München) war franziskanischer Philosoph, Theologe und politischer Theoretiker der Spätscholastik. Er gilt als Hauptvertreter des Nominalismus und wurde durch das nach ihm benannte „Rasiermesser“ bekannt, das die Bevorzugung einfacher Hypothesen fordert. Seine Schriften behandeln Logik, Erkenntnistheorie, Naturphilosophie, Ethik und Politik. Wegen seiner Parteinahme im Armutsstreit der Franziskaner geriet er in Konflikt mit Papst Johannes XXII., wurde exkommuniziert und fand Zuflucht in München, wo er bis zu seinem Tod wirkte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2075">
@@ -15256,7 +15256,7 @@
                   <occupation>Institutsgründer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/117251062</idno>
                   <note type="bio">
-                     <p>Er war der Gründer/Finazier des Instituts für Sozialforschung.</p>
+                     <p>Er war der Gründer/Finanzier des Instituts für Sozialforschung.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2398">
@@ -22406,7 +22406,7 @@
                      </settlement>
                   </birth>
                   <death>
-                     <date>1934-15-10</date>
+                     <date>1934-10-15</date>
                      <settlement>
                         <placeName key="#tillich_place_id__343">Paris</placeName>
                      </settlement>
@@ -25370,7 +25370,7 @@
                <person xml:id="tillich_person_id__4408">
                   <persName>Franco, Francisco</persName>
                   <birth>
-                     <date>1992-12-04</date>
+                     <date>1892-12-04</date>
                      <settlement>
                         <placeName>Ferrol</placeName>
                      </settlement>
