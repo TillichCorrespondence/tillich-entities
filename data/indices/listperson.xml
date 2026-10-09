@@ -1280,9 +1280,9 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__129">
-                  <persName>Balla, E.</persName>
+                  <persName>Balla, Emil</persName>
                   <birth>
-                     <date>1885-05-ß6</date>
+                     <date>1885-02-06</date>
                      <settlement>
                         <placeName key="#tillich_place_id__356">Potsdam</placeName>
                      </settlement>
@@ -1293,6 +1293,7 @@
                         <placeName>Marburg</placeName>
                      </settlement>
                   </death>
+                  <occupation>Deutscher Theologie</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/11604411X</idno>
                </person>
                <person xml:id="tillich_person_id__130">
@@ -1440,7 +1441,7 @@
                   <persName>Bayle, Pierre</persName>
                </person>
                <person xml:id="tillich_person_id__162">
-                  <persName>Bayne, Jr. , Stephen F.</persName>
+                  <persName>Bayne, Jr., Stephen F.</persName>
                   <occupation>Anglikanischer Priester und Bischof</occupation>
                </person>
                <person xml:id="tillich_person_id__163">
@@ -6971,7 +6972,7 @@
                   <persName>Oprecht, Emil</persName>
                   <occupation>Schweizer Verleger und Theaterleiter</occupation>
                   <note type="bio">
-                     <p>Seit 1917 Studium der Volkswirtschaftslehrte an der Universität Zürich, 1921 wurde er bei Heinrich Sieveking promoviert. Bereits während des Studium soziales Engagement, u.a. 1919 in Form der ‚Hilfsaktion für ausländische Proletarierkinder‘. 1921-1925 Mitarbeit und zuletzt Leitung der Unionsbuchhandlung. 1921-1924 Mitglied der KPS, seit 1926 SP. 1925 gründete O. den Verlag inklusive Buchhandlung ‚Dr. Oprecht &amp; Helbling‘. 1933 gründete er gemeinsam mit der nach Zürich übersiedelten Frankfurter ‚Büchergilde Gutenberg‘ den ‚Europa Verlag‘, in dem fortan emigrierte und vertriebene Schriftsteller verlegt wurden. Gemeinsam mit Kurt  Hirschfeld gründete er 1938 die ‚Neue Schauspiel AG‘, mit der er den Theaterbetrieb des Zürcher Schauspielhauses übernahm.</p>
+                     <p>Seit 1917 Studium der Volkswirtschaftslehre an der Universität Zürich, 1921 wurde er bei Heinrich Sieveking promoviert. Bereits während des Studiums engagierte er sich sozial, u.a. 1919 in Form der ‚Hilfsaktion für ausländische Proletarierkinder‘. 1921-1925 Mitarbeit und zuletzt Leitung der Unionsbuchhandlung. 1921-1924 Mitglied der KPS, seit 1926 SP. 1925 gründete O. den Verlag inklusive Buchhandlung ‚Dr. Oprecht &amp; Helbling‘. 1933 gründete er gemeinsam mit der nach Zürich übersiedelten Frankfurter ‚Büchergilde Gutenberg‘ den ‚Europa Verlag‘, in dem fortan emigrierte und vertriebene Schriftsteller verlegt wurden. Gemeinsam mit Kurt  Hirschfeld gründete er 1938 die ‚Neue Schauspiel AG‘, mit der er den Theaterbetrieb des Zürcher Schauspielhauses übernahm.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1428">
@@ -7159,9 +7160,9 @@
                </person>
                <person xml:id="tillich_person_id__1474">
                   <persName>Pestalozzi, Rudolf</persName>
-                  <occupation>Eisenwahrenhändler</occupation>
+                  <occupation>Eisenwarenhändler</occupation>
                   <note type="bio">
-                     <p>1905 war P. in das bekannte Familienunternehmen ‚Pestalozzi + Co.‘ eingetreten, seine Leidenschaft galt der Fotographie, daneben war er im CVJM ausgesprochen aktiv, wodurch er unter anderem den Dialektischen Theologen Eduard Thurneysen und über diesen Karl  Barth kennenlernte. P.s Landhaus ‚Bergli‘ wurde zu einem vielbenutzen Aufenthaltsort Barths und anderer Theologen. 1914 heiratete er Gerty (1893-1978), geb. Eidenbenz.</p>
+                     <p>1905 war P. in das bekannte Familienunternehmen ‚Pestalozzi + Co.‘ eingetreten, seine Leidenschaft galt der Fotografie, daneben war er im CVJM ausgesprochen aktiv, wodurch er unter anderem den Dialektischen Theologen Eduard Thurneysen und über diesen Karl  Barth kennenlernte. P.s Landhaus ‚Bergli‘ wurde zu einem vielbenutzten Aufenthaltsort Barths und anderer Theologen. 1914 heiratete er Gerty (1893-1978), geb. Eidenbenz.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1475">
@@ -7855,7 +7856,7 @@
                   <persName>Roberts, David</persName>
                   <occupation>Amerikanischer Theologe</occupation>
                   <note type="bio">
-                     <p>David Everett Roberts (1911–1955) war ein amerikanischer Philosoph, der sich mit Ethik und Religionsphilosophie befasste. Er lehrte in den Vereinigten Staaten und suchte in seinen Arbeiten nach einer Vermittlung zwischen christlicher Theologie und moderner Existenzphilosophie. Roberts gilt als Vertreter einer generationellen Übergangsfigur zwischen klassischem Idealismus und personalistischem Denken der Nachkriegszeit.</p>
+                     <p>David Everett Roberts (1911–1955) war ein amerikanischer Theologe, der sich mit Ethik und Religionsphilosophie befasste. Er lehrte in den Vereinigten Staaten und suchte in seinen Arbeiten nach einer Vermittlung zwischen christlicher Theologie und moderner Existenzphilosophie. Roberts gilt als Vertreter einer generationellen Übergangsfigur zwischen klassischem Idealismus und personalistischem Denken der Nachkriegszeit.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1625">
@@ -10391,7 +10392,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118623532</idno>
                   <note type="bio">
-                     <p>Toynbee, Arnold Joseph (14.4.1889 London – 22.10.1975 York) war ein britischer Historiker. Er studierte in Heidelberg und Oxford, arbeitete im Foreign Office während beider Weltkriege und nahm 1919 an der Pariser Friedenskonferenz teil. Als Professor in London und Direktor des Royal Institute of International Affairs verfasste er zahlreiche Analysen internationaler Politik. Sein Hauptwerk „A Study of History“ (1934–1959) untersuchte Entstehung, Aufstieg und Verfall von Kulturen im Modell von „challenge and response“. Damit trat er in Konkurrenz zu Oswald Spengler und prägte die universalhistorische Diskussion des 20. Jahrhunderts. Kritisiert wurde seine selektive Darstellung, zugleich gilt er als einer der bedeutendsten Universalhistoriker seiner Zeit.</p>
+                     <p>Toynbee, Arnold Joseph (14.4.1889 London – 22.10.1975 York) war ein britischer Historiker. Er studierte in Heidelberg und Oxford, arbeitete im Foreign Office während beider Weltkriege und nahm 1919 an der Pariser Friedenskonferenz teil. Als Professor in London und Direktor des Royal Institute of International Affairs verfasste er zahlreiche Analysen internationaler Politik. Sein Hauptwerk „A Study of History“ (1934–1961) untersuchte Entstehung, Aufstieg und Verfall von Kulturen im Modell von „challenge and response“. Damit trat er in Konkurrenz zu Oswald Spengler und prägte die universalhistorische Diskussion des 20. Jahrhunderts. Kritisiert wurde seine selektive Darstellung, zugleich gilt er als einer der bedeutendsten Universalhistoriker seiner Zeit.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1949">
@@ -11291,18 +11292,18 @@
                <person xml:id="tillich_person_id__2023">
                   <persName>Weil, Hans</persName>
                   <birth>
-                     <date>1902-06-11</date>
+                     <date>1898-09-08</date>
                      <settlement>
-                        <placeName key="#tillich_place_id__143">Frankfurt am Main</placeName>
+                        <placeName>St. Johann,Saarbrücken</placeName>
                      </settlement>
                   </birth>
                   <death>
-                     <date>1998-11-13</date>
+                     <date>1972-06-05</date>
                      <settlement>
-                        <placeName>Malmö</placeName>
+                        <placeName key="#tillich_place_id__319">New York City</placeName>
                      </settlement>
                   </death>
-                  <occupation>Künstler, Sammler und Erfinder</occupation>
+                  <occupation>Deutscher Pädagoge</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/129036005</idno>
                </person>
                <person xml:id="tillich_person_id__2024">
@@ -15335,7 +15336,7 @@
                <person xml:id="tillich_person_id__2406">
                   <persName>Hirzel, Stephan</persName>
                   <birth>
-                     <date>1899-07-25</date>
+                     <date>1899-05-25</date>
                      <settlement>
                         <placeName key="#tillich_place_id__37">Berlin</placeName>
                      </settlement>
@@ -21467,7 +21468,7 @@
                </person>
                <person xml:id="tillich_person_id__3287">
                   <persName>Radó, Sándor</persName>
-                  <occupation>Psychoanalytiker und Psychater</occupation>
+                  <occupation>Psychoanalytiker und Psychiater</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/119352311</idno>
                </person>
                <person xml:id="tillich_person_id__3288">
@@ -21885,7 +21886,7 @@
                </person>
                <person xml:id="tillich_person_id__3386">
                   <persName>Bouwman</persName>
-                  <occupation>Reverent</occupation>
+                  <occupation>Referent</occupation>
                </person>
                <person xml:id="tillich_person_id__3388">
                   <persName>Wendriner</persName>
@@ -26272,7 +26273,7 @@
                   <persName>Kaiser, ???</persName>
                </person>
                <person xml:id="tillich_person_id__4835">
-                  <persName>Seidel, Marie Loiuse</persName>
+                  <persName>Seidel, Marie Louise</persName>
                </person>
                <person xml:id="tillich_person_id__4868">
                   <persName>Kaiser, Friedrich Fritz</persName>
@@ -27547,7 +27548,7 @@
                   <death>
                      <date>1986-06-17</date>
                   </death>
-                  <occupation>Theologe, Pädogoge, Schriftsteller</occupation>
+                  <occupation>Theologe, Pädagoge, Schriftsteller</occupation>
                </person>
                <person xml:id="tillich_person_id__5384">
                   <persName>Calkins, Raymond</persName>
