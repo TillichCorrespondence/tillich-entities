@@ -28192,7 +28192,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/119018195</idno>
                </person>
                <person xml:id="tillich_person_id__5653">
-                  <persName>Pohle, ???</persName>
+                  <persName>Pohle, Robert</persName>
+                  <occupation>Realschuldirektor</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/101393637X</idno>
                </person>
                <person xml:id="tillich_person_id__5654">
                   <persName>Schrader, Karl Wilhelm Franz Gabriel</persName>
@@ -28205,7 +28207,9 @@
                   <idno type="gnd">https://d-nb.info/gnd/116171979</idno>
                </person>
                <person xml:id="tillich_person_id__5656">
-                  <persName>Fischer, ???</persName>
+                  <persName>Fischer, Max</persName>
+                  <occupation>Evangelischer Theologe und Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/130858552</idno>
                </person>
                <person xml:id="tillich_person_id__5689">
                   <persName/>
@@ -28448,6 +28452,9 @@
                      <date>1900</date>
                   </birth>
                   <occupation>Theologe</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5727">
+                  <persName>Rabinowitsch, Fritz M.</persName>
                </person>
             </listPerson>
          </div>
