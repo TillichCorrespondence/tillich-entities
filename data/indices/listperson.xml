@@ -28442,6 +28442,9 @@
                </person>
                <person xml:id="tillich_person_id__5724">
                   <persName>Schmidt, Hanna</persName>
+                  <note type="bio">
+                     <p>1. Tochter von Adolf und Auguste Schmidt</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__5725">
                   <persName/>
@@ -28455,6 +28458,48 @@
                </person>
                <person xml:id="tillich_person_id__5727">
                   <persName>Rabinowitsch, Fritz M.</persName>
+               </person>
+               <person xml:id="tillich_person_id__5729">
+                  <persName>Trotha, Adolf von</persName>
+                  <birth>
+                     <date>1868-03-01</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__239">Koblenz</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1940-10-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Militärangehöriger</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/11880278X</idno>
+               </person>
+               <person xml:id="tillich_person_id__5730">
+                  <persName>Schmidt, Elisabeth</persName>
+                  <occupation>Lehrerin</occupation>
+                  <note type="bio">
+                     <p>3. Tochter von Adolf und Auguste Schmidt</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5731">
+                  <persName>Schmidt, Lydia</persName>
+                  <note type="bio">
+                     <p>4. Tochter von Adolf und Auguste Schmidt</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5732">
+                  <persName>Schmidt, Ruth</persName>
+                  <note type="bio">
+                     <p>2. Tochter von Adolf und Auguste Schmidt</p>
+                  </note>
+               </person>
+               <person xml:id="tillich_person_id__5733">
+                  <persName>Schmidt, Marie</persName>
+                  <note type="bio">
+                     <p>Mutter von Wilhelm Adolf Schmidt</p>
+                  </note>
                </person>
             </listPerson>
          </div>
