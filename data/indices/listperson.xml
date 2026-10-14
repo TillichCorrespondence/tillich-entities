@@ -3001,7 +3001,7 @@
                   <persName>Emmerich, Kurt</persName>
                   <occupation>Jurist und Theologe</occupation>
                   <note type="bio">
-                     <p>Kurt E. arbeitete nach dem Jura-Studium in Heidelberg als Rechtsanwalt in Karlsruhe. 1933 verlor er als Jude seine Konzession und emigrierte 1935 in die Schweiz, wo er 1936 die ebenfalls aus Karlsruhe stammende Gertrud heiratete, die er bereits seit längerem kannte. Er konvertierte zum Protestantismus und studierte 1936-1939 in Basel Theologie. 1939 emigrierte das Ehepaar nach England, wo Kurt E. eine Dozentur an einem englischen Seminar erhielt. 1047 kehrten sie nach Deutschland zurück, wo Kurt nun wieder als Jurist in den Staatsdient eintrat, während Trude an der Odenwaldschule Oberhambach Englisch und Religion lehrte.</p>
+                     <p>Kurt E. arbeitete nach dem Jura-Studium in Heidelberg als Rechtsanwalt in Karlsruhe. 1933 verlor er als Jude seine Konzession und emigrierte 1935 in die Schweiz, wo er 1936 die ebenfalls aus Karlsruhe stammende Gertrud heiratete, die er bereits seit längerem kannte. Er konvertierte zum Protestantismus und studierte 1936–1939 in Basel Theologie. 1939 emigrierte das Ehepaar nach England, wo Kurt E. eine Dozentur an einem englischen Seminar erhielt. 1047 kehrten sie nach Deutschland zurück, wo Kurt nun wieder als Jurist in den Staatsdient eintrat, während Trude an der Odenwaldschule Oberhambach Englisch und Religion lehrte.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__527">
@@ -3862,7 +3862,7 @@
                   </death>
                   <occupation>Jurist; Politiker; Evangelischer Pfarrer</occupation>
                   <note type="bio">
-                     <p>Graff wurde in Berlin am 11. Februar 1889 als Sohn eines Bankiers geboren. 1908 Reifeexamen am Berliner Wilhelm-Gymnasium, 1913 Dr. jur., 1914-1918 Kriegsfreiwilliger mit Auszeichnungen, 1923 Magistratsrat beim Bezirksamt Berlin-Schöneberg, 1927 Deutschnationaler Stadtrat, 1934 Berufsverbot, 1936-1939: Studium der Theologie, 1940-1944: Vikariat und Hilfsprediger in mehreren Gemeinden, ab 1. Februar 1944 mit der Verwaltung mehrerer Pfarrämter in der Mindener Martinigemeinde betraut.</p>
+                     <p>Graff wurde in Berlin am 11. Februar 1889 als Sohn eines Bankiers geboren. 1908 Reifeexamen am Berliner Wilhelm-Gymnasium, 1913 Dr. jur., 1914–1918 Kriegsfreiwilliger mit Auszeichnungen, 1923 Magistratsrat beim Bezirksamt Berlin-Schöneberg, 1927 Deutschnationaler Stadtrat, 1934 Berufsverbot, 1936-1939: Studium der Theologie, 1940–1944: Vikariat und Hilfsprediger in mehreren Gemeinden, ab 1. Februar 1944 mit der Verwaltung mehrerer Pfarrämter in der Mindener Martinigemeinde betraut.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__710">
@@ -4320,6 +4320,7 @@
                </person>
                <person xml:id="tillich_person_id__825">
                   <persName>Hauer, Jakob Wilhelm</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/118773429</idno>
                </person>
                <person xml:id="tillich_person_id__826">
                   <persName>Haupt, Erich</persName>
@@ -8262,7 +8263,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118607057</idno>
                   <note type="bio">
-                     <p>Friedrich Wilhelm Joseph Schelling (27. Januar 1775 – 20. August 1854) war ein deutscher Denker und zentrale Figur des deutschen Idealismus. Nach seinem Studium wirkte er als Dozent an mehreren bedeutenden Universitäten – Jena, Würzburg, München, Erlangen und Berlin. Sein Werk umfasste verschiedene philosophische Entwicklungsphasen, angefangen bei transzendentalphilosophischen Überlegungen bis hin zu Naturphilosophie und später zu metaphysischen Systemen. In seiner Schrift zur Freiheit (1809) deutete er die menschliche Existenz als fähig zur moralischen Wahl und bestimmte den Willen als Grundprinzip. In seinen späteren Arbeiten unterschied er zwischen einer begrifflichen und einer offenbarungsorientierten Philosophie. Sein Denken wirkte nachhaltig auf Schopenhauer, Kierkegaard, Jaspers, Heidegger und den Theologen Tillich.</p>
+                     <p>Friedrich Wilhelm Joseph Schelling (27. Januar 1775 bis 20. August 1854) war ein deutscher Philosoph und eine zentrale Figur des Deutschen Idealismus. Er lehrte in Jena, Würzburg, Erlangen, München und Berlin. Sein Denken durchlief mehrere Phasen: von der Naturphilosophie und der Transzendentalphilosophie über die Identitätsphilosophie bis zur Spätphilosophie. In den Philosophischen Untersuchungen über das Wesen der menschlichen Freiheit (1809) bestimmte er die menschliche Freiheit als Vermögen zum Guten und zum Bösen und das Wollen als Ursein. In seiner Spätphilosophie unterschied er eine negative, rein begriffliche von einer positiven Philosophie, die sich der Mythologie und der Offenbarung zuwendet. Sein Denken wirkte nachhaltig auf Schopenhauer, Kierkegaard, Jaspers, Heidegger und Paul Tillich.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1706">
@@ -8282,7 +8283,7 @@
                         <placeName key="#tillich_place_id__198">Hamburg</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Pfarrer; ordiniert am 10. Dezember 1911 in Hamburg; ab 10. April 1911 Hilfsgeistlicher in Hamburg; ab 12. Mai 1913 Pastor in Sterley; ab 2. November 1924 Pastor in Niendorf; vom 9. Oktober 1929 - 6. Oktober 1952 Propst und Pastor in Pinneberg</occupation>
+                  <occupation>Evangelischer Pfarrer; ordiniert am 10. Dezember 1911 in Hamburg; ab 10. April 1911 Hilfsgeistlicher in Hamburg; ab 12. Mai 1913 Pastor in Sterley; ab 2. November 1924 Pastor in Niendorf; vom 9. Oktober 1929 – 6. Oktober 1952 Propst und Pastor in Pinneberg</occupation>
                </person>
                <person xml:id="tillich_person_id__1708">
                   <persName>Schiller, Karl</persName>
@@ -12970,7 +12971,7 @@
                         <placeName>Kreuznach</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Pfarrer in Bethel (1913-1920), dann in Ruhrort (1920-1925) und Rheydt (1925-1932), ehe er 1932 zum Vorsteher der Diakonie-Anstalten Bad Kreuznach ernannt wurde. Dort amtierte er bis 1957.</occupation>
+                  <occupation>Evangelischer Pfarrer in Bethel (1913–1920), dann in Ruhrort (1920–1925) und Rheydt (1925–1932), ehe er 1932 zum Vorsteher der Diakonie-Anstalten Bad Kreuznach ernannt wurde. Dort amtierte er bis 1957.</occupation>
                   <note type="bio">
                      <p>Er war der Leibfux von Hans Balke.</p>
                   </note>
@@ -13171,7 +13172,7 @@
                   </death>
                   <idno type="gnd">https://d-nb.info/gnd/118824821</idno>
                   <note type="bio">
-                     <p>Er war ein Studienkollege von Paul Tillich.</p>
+                     <p>Eberhard Dennert (31. Juli 1861 – 8. Juni 1942) war ein deutscher Naturforscher und Gymnasiallehrer in Godesberg. 1907 gründete er den Keplerbund, der aus evangelischer Sicht gegen Darwinismus und Haeckels Monismus auftrat.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2180">
@@ -13234,7 +13235,7 @@
                         <placeName key="#tillich_place_id__60">Bielefeld</placeName>
                      </settlement>
                   </death>
-                  <occupation>Evangelischer Pfarrer in Hiddenhausen (Oetinghausen), später (1920–1955) in Ubbedissen</occupation>
+                  <occupation>Evangelischer Pfarrer in Hiddenhausen (Oetinghausen), später (1920 – 1955) in Ubbedissen</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1015874843</idno>
                   <note type="bio">
                      <p>Johannes Meyersieck (28. November 1884 – 25. November 1971) war ein evangelischer Pfarrer aus Deutschland. Als Sohn eines Pfarrers wirkte er ab Juni 1914 an der zweiten Pfarrstelle des Kirchspiels Hiddenhausen, wo er die Dörfer Oetinghausen und Lippinghausen betreute. Während des Ersten Weltkriegs verschickte er von 1914 bis 1918 insgesamt 48 monatliche Feldpostbriefe an bis zu 380 Adressen junger Männer seines Seelsorgebezirks, die als Soldaten im Einsatz waren. Begleitet wurde diese Korrespondenz von zahlreichen Paketsendungen und Spendenaktionen, die er organisierte. 1920 übernahm er das Pfarramt seines Vaters in Ubbedissen, das er bis 1955 innehatte.</p>
@@ -18597,7 +18598,7 @@
                   <occupation>Psychologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118798758</idno>
                   <note type="bio">
-                     <p>(Geb: Louise William Stern) Er war der Begründer der differentiellen Psychologie und Entwickler des ersten Intelligenzquotienten. Im Jahr 1900 hatte er über Psychologie und individuelle Differenzen beim Verlag von Johann Ambrosius Barth publiziert.</p>
+                     <p>(Geb.: Ludwig William Stern) Er war der Begründer der differentiellen Psychologie und Entwickler des ersten Intelligenzquotienten. Im Jahr 1900 hatte er über Psychologie und individuelle Differenzen beim Verlag von Johann Ambrosius Barth publiziert.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2756">
@@ -24372,7 +24373,7 @@
                         <placeName>Ehrwald/Tirol</placeName>
                      </settlement>
                   </death>
-                  <occupation>Deutscher Jurist und nationalliberaler Politiker. Von 1899 - 1912 Oberbürgermeister von Berlin</occupation>
+                  <occupation>Deutscher Jurist und nationalliberaler Politiker. Von 1899–1912 Oberbürgermeister von Berlin</occupation>
                   <idno type="gnd">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D116189568</idno>
                </person>
                <person xml:id="tillich_person_id__4045">
@@ -28500,6 +28501,26 @@
                   <note type="bio">
                      <p>Mutter von Wilhelm Adolf Schmidt</p>
                   </note>
+               </person>
+               <person xml:id="tillich_person_id__5734">
+                  <persName>Leers, Johann von</persName>
+                  <birth>
+                     <date>1902-01-25</date>
+                     <settlement>
+                        <placeName>Vietlübbe</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-03-05</date>
+                     <settlement>
+                        <placeName>Kairo</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>NS-Publizist und Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/116854804</idno>
+               </person>
+               <person xml:id="tillich_person_id__5735">
+                  <persName/>
                </person>
             </listPerson>
          </div>
