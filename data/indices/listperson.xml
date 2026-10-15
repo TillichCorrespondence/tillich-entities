@@ -5561,10 +5561,10 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__1108">
-                  <persName>Kullmann , Gustave</persName>
+                  <persName>Kullmann, Gustave</persName>
                   <occupation>Schweizer Jurist</occupation>
                   <note type="bio">
-                     <p>Gustave K. stammte aus den Niederlanden, wurde jedoch 1905 in Zürich eingebürgert. Nach dem Ende des Ersten Weltkrieges arbeitete er beim Völkerbund im Büro von Fridtjof Nansen und beschäftigte sich dort mit Flüchtlingshilfe, schwerpunktmäßig zunächst hinsichtlich russischer Geflüchteter. In den 1930ern arbeitete er in der Sektion für Internationale Zusammenarbeit des Völkerbundes und wurde um 1936 stellvertretender Generalsekretär. Durch den Nationalsozialismus setzte er sich nun insbesondere für Geflüchtete aus Deutschland ein. </p>
+                     <p>Gustave Kullmann stammte aus den Niederlanden, wurde jedoch 1905 in Zürich eingebürgert. Nach dem Ende des Ersten Weltkrieges arbeitete er beim Völkerbund im Büro von Fridtjof Nansen und beschäftigte sich dort mit Flüchtlingshilfe, schwerpunktmäßig zunächst hinsichtlich russischer Geflüchteter. In den 1930ern arbeitete er in der Sektion für Internationale Zusammenarbeit des Völkerbundes und wurde um 1936 stellvertretender Generalsekretär. Durch den Nationalsozialismus setzte er sich nun insbesondere für Geflüchtete aus Deutschland ein.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__1109">
@@ -20910,7 +20910,7 @@
                   <occupation>Journalistin und Schriftstellerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1049748891</idno>
                   <note type="bio">
-                     <p>geborene Rothschild</p>
+                     <p>Geb.: Ilse Rothschild</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__3154">
@@ -28521,6 +28521,9 @@
                </person>
                <person xml:id="tillich_person_id__5735">
                   <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5736">
+                  <persName>Wienerich, ???</persName>
                </person>
             </listPerson>
          </div>
