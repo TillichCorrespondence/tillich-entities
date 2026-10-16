@@ -331,7 +331,8 @@
                <bibl xml:id="tillich_painting_id__60">
                   <title>The Last Supper</title>
                   <author key="#tillich_person_id__1404">Nolde, Emil</author>
-                  <ref type="wikidata_image">https://uploads2.wikiart.org/images/emil-nolde/the-last-supper-1909.jpg</ref>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q20268352</idno>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/2/29/Nolde_-_The_Last_Supper_(1909).jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__61">
                   <title>Isenheim Altarpiece</title>
@@ -359,6 +360,7 @@
                <bibl xml:id="tillich_painting_id__65">
                   <title>Crucifixion</title>
                   <author key="#tillich_person_id__1495">Picasso, Pablo</author>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q3698201</idno>
                   <ref type="wikidata_image">https://uploads1.wikiart.org/images/pablo-picasso/crucifixion-1930.jpg</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__66">
@@ -369,7 +371,7 @@
                <bibl xml:id="tillich_painting_id__101">
                   <title>Rockefeller Center</title>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q104236967</idno>
-                  <ref type="wikidata_image">https://commons.wikimedia.org/wiki/Category:Views_from_Rockefeller_Center#/media/File:GE_Building_by_David_Shankbone.JPG</ref>
+                  <ref type="wikidata_image">https://upload.wikimedia.org/wikipedia/commons/d/db/GE_Building_by_David_Shankbone.JPG</ref>
                </bibl>
                <bibl xml:id="tillich_painting_id__102">
                   <title/>

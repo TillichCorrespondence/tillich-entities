@@ -822,7 +822,7 @@
     "id": 60,
     "order": "60.00000000000000000000",
     "title": "The Last Supper",
-    "wikidata": "",
+    "wikidata": "Q20268352",
     "tillich_id": "tillich_painting_id__60",
     "painter": [
       {
@@ -831,7 +831,7 @@
         "order": "1404.00000000000000000000"
       }
     ],
-    "wikidata_image": "https://uploads2.wikiart.org/images/emil-nolde/the-last-supper-1909.jpg"
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Nolde_-_The_Last_Supper_(1909).jpg"
   },
   "61": {
     "id": 61,
@@ -897,7 +897,7 @@
     "id": 65,
     "order": "65.00000000000000000000",
     "title": "Crucifixion",
-    "wikidata": "",
+    "wikidata": "Q3698201",
     "tillich_id": "tillich_painting_id__65",
     "painter": [
       {
@@ -930,7 +930,7 @@
     "wikidata": "Q104236967",
     "tillich_id": "tillich_painting_id__101",
     "painter": [],
-    "wikidata_image": "https://commons.wikimedia.org/wiki/Category:Views_from_Rockefeller_Center#/media/File:GE_Building_by_David_Shankbone.JPG"
+    "wikidata_image": "https://upload.wikimedia.org/wikipedia/commons/d/db/GE_Building_by_David_Shankbone.JPG"
   },
   "102": {
     "id": 102,
