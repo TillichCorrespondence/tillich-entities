@@ -4015,9 +4015,6 @@
                <person xml:id="tillich_person_id__750">
                   <persName>Haenisch, Konrad</persName>
                </person>
-               <person xml:id="tillich_person_id__751">
-                  <persName>Haering, Theodor L.</persName>
-               </person>
                <person xml:id="tillich_person_id__752">
                   <persName>Hafkesbrink, Hanna</persName>
                </person>
@@ -4232,7 +4229,19 @@
                   <occupation>Katholischer Theologe</occupation>
                </person>
                <person xml:id="tillich_person_id__806">
-                  <persName>Häring, Johann Theodor von</persName>
+                  <persName>Haering, Johann Theodor von</persName>
+                  <birth>
+                     <date>1848-04-22</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__420">Stuttgart</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1928-03-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__448">Tübingen</placeName>
+                     </settlement>
+                  </death>
                   <idno type="gnd">https://d-nb.info/gnd/11870026X</idno>
                   <note type="bio">
                      <p>Theodor Lorenz Haering (22. April 1884 – 15. Juni 1964) war ein deutscher Philosoph und Schriftsteller. Der in Stuttgart geborene Sohn des Theologen Theodor von Haering studierte zunächst evangelische Theologie in Tübingen, wandte sich dann aber der Philosophie zu, in der er 1910 promovierte und 1912 habilitierte. Ab 1919 lehrte er in Tübingen und übernahm 1928 den Lehrstuhl seines Lehrers Adickes. Im Nationalsozialismus gehörte er zur Führung des NS-Dozentenbundes und trat 1937 der NSDAP bei. 1948 als Mitläufer eingestuft, verlor er die Professur, wurde jedoch 1951 rehabilitiert und emeritiert. Später saß er im Tübinger Gemeinderat. Er starb in Tübingen.</p>
@@ -23591,7 +23600,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/116031948</idno>
                </person>
                <person xml:id="tillich_person_id__3775">
-                  <persName>Carl Heinrich Anton</persName>
+                  <persName>Van Der Smissen, Carl Heinrich Anton</persName>
                   <birth>
                      <date>1851-12-04</date>
                      <settlement>
