@@ -10668,5 +10668,16 @@
     "latitude": "49.00147",
     "longitude": "9.29348",
     "wikidata_url": "https://www.wikidata.org/wiki/Q61830"
+  },
+  "2002": {
+    "id": 2002,
+    "order": "1155.00000000000000000000",
+    "name": "",
+    "tillich_id": "tillich_place_id__2002",
+    "geonames_url": "",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": ""
   }
 }
