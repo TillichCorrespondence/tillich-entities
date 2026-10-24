@@ -28534,6 +28534,38 @@
                <person xml:id="tillich_person_id__5769">
                   <persName>Miller, Francis P.</persName>
                </person>
+               <person xml:id="tillich_person_id__5802">
+                  <persName>Optiz, Hans-Georg</persName>
+                  <birth>
+                     <date>1905-06-01</date>
+                     <settlement>
+                        <placeName>Berlin-Johannisthal</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1941-07-09</date>
+                     <settlement>
+                        <placeName>Lemberg</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelischer Kirchenhistoriker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5803">
+                  <persName>Oman, John Wood</persName>
+                  <birth>
+                     <date>1860-06-28</date>
+                     <settlement>
+                        <placeName>Stenness (Orkney)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1939-05-17</date>
+                     <settlement>
+                        <placeName>Cambridge</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer und Religionsphilosoph</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
