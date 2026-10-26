@@ -28566,6 +28566,22 @@
                   </death>
                   <occupation>Pfarrer und Religionsphilosoph</occupation>
                </person>
+               <person xml:id="tillich_person_id__5804">
+                  <persName>Hesse, Hermann Albert</persName>
+                  <birth>
+                     <date>1877-04-22</date>
+                     <settlement>
+                        <placeName>Weener</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1957-07-26</date>
+                     <settlement>
+                        <placeName>Velbert</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Pfarrer</occupation>
+               </person>
             </listPerson>
          </div>
       </body>
