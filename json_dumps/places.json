@@ -10679,5 +10679,27 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "2003": {
+    "id": 2003,
+    "order": "1156.00000000000000000000",
+    "name": "Griechenland",
+    "tillich_id": "tillich_place_id__2003",
+    "geonames_url": "https://www.geonames.org/390903",
+    "Working Notes": "",
+    "latitude": "39.00000",
+    "longitude": "22.00000",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q41"
+  },
+  "2004": {
+    "id": 2004,
+    "order": "1157.00000000000000000000",
+    "name": "Afrika",
+    "tillich_id": "tillich_place_id__2004",
+    "geonames_url": "https://www.geonames.org/6255146/",
+    "Working Notes": "",
+    "latitude": "7.18810",
+    "longitude": "21.09375",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q15"
   }
 }

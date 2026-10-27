@@ -7370,7 +7370,23 @@
                   <idno type="geonames">https://sws.geonames.org/2916936/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q61830</idno>
                </place>
-               </listPlace>
+               <place xml:id="tillich_place_id__2003">
+                  <placeName>Griechenland</placeName>
+                  <location type="coords">
+                     <geo>39.00000 22.00000</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/390903/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q41</idno>
+               </place>
+               <place xml:id="tillich_place_id__2004">
+                  <placeName>Afrika</placeName>
+                  <location type="coords">
+                     <geo>7.18810 21.09375</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/6255146/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q15</idno>
+               </place>
+            </listPlace>
          </div>
       </body>
    </text>
