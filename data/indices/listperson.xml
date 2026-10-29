@@ -28588,6 +28588,27 @@
                <person xml:id="tillich_person_id__5870">
                   <persName>Gillet, Dada</persName>
                </person>
+               <person xml:id="tillich_person_id__5871">
+                  <persName>Kollo, Walter</persName>
+                  <idno type="gnd">https://d-nb.info/gnd/123942837</idno>
+               </person>
+               <person xml:id="tillich_person_id__5904">
+                  <persName>Paxmann, Lisel</persName>
+                  <birth>
+                     <date>1907-10-12</date>
+                     <settlement>
+                        <placeName>Halle(Saale)</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1935-09-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__126">Dresden</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Philosophin, Journalistin, Widerstandskämpferin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1336991070</idno>
+               </person>
             </listPerson>
          </div>
       </body>
