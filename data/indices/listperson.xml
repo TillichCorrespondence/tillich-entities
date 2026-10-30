@@ -1835,6 +1835,7 @@
                </person>
                <person xml:id="tillich_person_id__235">
                   <persName>Boas, Franz</persName>
+                  <occupation>Ethnologe und Anthropologe</occupation>
                </person>
                <person xml:id="tillich_person_id__236">
                   <persName>Bock, Frau v.</persName>
@@ -28608,6 +28609,9 @@
                   </death>
                   <occupation>Philosophin, Journalistin, Widerstandskämpferin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1336991070</idno>
+               </person>
+               <person xml:id="tillich_person_id__5905">
+                  <persName/>
                </person>
             </listPerson>
          </div>
