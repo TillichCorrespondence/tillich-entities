@@ -28613,6 +28613,23 @@
                <person xml:id="tillich_person_id__5905">
                   <persName/>
                </person>
+               <person xml:id="tillich_person_id__5906">
+                  <persName>Schöttler, Hans</persName>
+                  <birth>
+                     <date>1861-02-22</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__187">Gütersloh</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1945-12-06</date>
+                     <settlement>
+                        <placeName>Buschlag</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelischer Theologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/1022088998</idno>
+               </person>
             </listPerson>
          </div>
       </body>
