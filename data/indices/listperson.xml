@@ -17579,7 +17579,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2624">
-                  <persName>Bartenstein, ???</persName>
+                  <persName>Bartenstein, Kurt</persName>
                   <note type="bio">
                      <p>Es handelt sich um einen gefallenen Soldaten an der Westfront im Ersten Weltkrieg. Er wurde von Paul Tillich beerdigt.</p>
                   </note>
@@ -28629,6 +28629,26 @@
                   </death>
                   <occupation>evangelischer Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1022088998</idno>
+               </person>
+               <person xml:id="tillich_person_id__5907">
+                  <persName>Baumann, Reinhold</persName>
+               </person>
+               <person xml:id="tillich_person_id__5908">
+                  <persName>Braune, Paul</persName>
+                  <birth>
+                     <date>1887-12-18</date>
+                     <settlement>
+                        <placeName>Tornow</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1954-09-19</date>
+                     <settlement>
+                        <placeName>Gadderbaum</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelischer Pfarrer</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118514679</idno>
                </person>
             </listPerson>
          </div>

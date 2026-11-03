@@ -10701,5 +10701,16 @@
     "latitude": "7.18810",
     "longitude": "21.09375",
     "wikidata_url": "https://www.wikidata.org/wiki/Q15"
+  },
+  "2037": {
+    "id": 2037,
+    "order": "1158.00000000000000000000",
+    "name": "Oderbruch",
+    "tillich_id": "tillich_place_id__2037",
+    "geonames_url": "https://www.geonames.org/2858087/",
+    "Working Notes": "",
+    "latitude": "52.65318",
+    "longitude": "14.29605",
+    "wikidata_url": ""
   }
 }
