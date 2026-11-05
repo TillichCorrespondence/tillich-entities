@@ -10712,5 +10712,16 @@
     "latitude": "52.65318",
     "longitude": "14.29605",
     "wikidata_url": ""
+  },
+  "2070": {
+    "id": 2070,
+    "order": "1159.00000000000000000000",
+    "name": "Bad Schandau",
+    "tillich_id": "tillich_place_id__2070",
+    "geonames_url": "https://www.geonames.org/2953352/",
+    "Working Notes": "",
+    "latitude": "50.91743",
+    "longitude": "14.15494",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q6406"
   }
 }

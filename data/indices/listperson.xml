@@ -362,7 +362,7 @@
                </person>
                <person xml:id="tillich_person_id__29">
                   <persName>Albrecht, Renate</persName>
-                  <idno type="gnd">https://d-nb.info/gnd/116284161</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/1053063962</idno>
                </person>
                <person xml:id="tillich_person_id__30">
                   <persName>Alcuin</persName>
@@ -28649,6 +28649,49 @@
                   </death>
                   <occupation>evangelischer Pfarrer</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118514679</idno>
+               </person>
+               <person xml:id="tillich_person_id__5941">
+                  <persName>Léon, Corina</persName>
+                  <birth>
+                     <date>1892-09-09</date>
+                  </birth>
+                  <death>
+                     <date>1970-02-19</date>
+                  </death>
+               </person>
+               <person xml:id="tillich_person_id__5942">
+                  <persName>Sombart, Nicolaus</persName>
+                  <birth>
+                     <date>1923-05-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__37">Berlin</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>2008-07-04</date>
+                     <settlement>
+                        <placeName>Schiltigheim</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Schriftsteller, Soziologe</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118751425</idno>
+               </person>
+               <person xml:id="tillich_person_id__5943">
+                  <persName>Sombart, Ninetta</persName>
+                  <birth>
+                     <date>1925-05-02</date>
+                     <settlement>
+                        <placeName>Berlin-Grunewald</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>2019-01-24</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__1403">Arlesheim</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Malerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/120100762</idno>
                </person>
             </listPerson>
          </div>
