@@ -90318,5 +90318,25 @@
     "place_of_death": "Arlesheim",
     "bio_en": "",
     "occupation_en": ""
+  },
+  "5944": {
+    "id": 5944,
+    "order": "4604.00000000000000000000",
+    "name": "Meland, Bernard Eugene",
+    "surname": "Meland",
+    "forename": "Bernard Eugene",
+    "from_to": "1899-1993",
+    "occupation": "Prozesstheologe",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/118924915",
+    "tillich_id": "tillich_person_id__5944",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "\"https://de.wikipedia.org/wiki/Prozesstheologie\"(Eintrag mit Tillich; Bezugsbrief:L10324)  in \"Life and Thought of Bernard Eugene Meland\"(Creighton Peden 2010) nimmt dieser Bezug auf Tillichs Ideen",
+    "place_of_birth": "",
+    "place_of_death": "",
+    "bio_en": "",
+    "occupation_en": ""
   }
 }
