@@ -10723,5 +10723,38 @@
     "latitude": "50.91743",
     "longitude": "14.15494",
     "wikidata_url": "https://www.wikidata.org/wiki/Q6406"
+  },
+  "2071": {
+    "id": 2071,
+    "order": "1160.00000000000000000000",
+    "name": "Flims",
+    "tillich_id": "tillich_place_id__2071",
+    "geonames_url": "https://www.geonames.org/2660757/",
+    "Working Notes": "",
+    "latitude": "46.83705",
+    "longitude": "9.28458",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q65049"
+  },
+  "2072": {
+    "id": 2072,
+    "order": "1161.00000000000000000000",
+    "name": "Celerina",
+    "tillich_id": "tillich_place_id__2072",
+    "geonames_url": "https://www.geonames.org/2661241/",
+    "Working Notes": "",
+    "latitude": "46.51217",
+    "longitude": "9.85794",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q64964"
+  },
+  "2073": {
+    "id": 2073,
+    "order": "1162.00000000000000000000",
+    "name": "Kaunas",
+    "tillich_id": "tillich_place_id__2073",
+    "geonames_url": "https://www.geonames.org/598316/",
+    "Working Notes": "auch Kowno",
+    "latitude": "54.90156",
+    "longitude": "23.90909",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4115712"
   }
 }

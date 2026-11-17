@@ -1612,6 +1612,20 @@
                </person>
                <person xml:id="tillich_person_id__202">
                   <persName>Bernoulli, Carl Albrecht</persName>
+                  <birth>
+                     <date>1868-01-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1937-02-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__1403">Arlesheim</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>evangelische Theologe, Schriftsteller</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118828649</idno>
                </person>
                <person xml:id="tillich_person_id__203">
                   <persName>Bertheau, Lorenz</persName>
@@ -28694,6 +28708,57 @@
                   <persName>Meland, Bernard Eugene</persName>
                   <occupation>Prozesstheologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118924915</idno>
+               </person>
+               <person xml:id="tillich_person_id__5945">
+                  <persName>Vischer, Adolf Lukas</persName>
+                  <birth>
+                     <date>1884-12-31</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__1403">Arlesheim</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1974-07-13</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Arzt</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/117753831</idno>
+               </person>
+               <person xml:id="tillich_person_id__5946">
+                  <persName>Gerwig, Max</persName>
+                  <birth>
+                     <date>1889-12-30</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1965-05-10</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Jurist</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/118691023</idno>
+               </person>
+               <person xml:id="tillich_person_id__5947">
+                  <persName>Bass, Maria</persName>
+                  <birth>
+                     <date>1897-09-09</date>
+                     <settlement>
+                        <placeName>Perosa Argentina</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date>1948-09-11</date>
+                     <settlement>
+                        <placeName key="#tillich_place_id__31">Basel</placeName>
+                     </settlement>
+                  </death>
+                  <occupation>Malerin, Zeichnerin</occupation>
+                  <idno type="gnd">https://d-nb.info/gnd/120905469</idno>
                </person>
             </listPerson>
          </div>

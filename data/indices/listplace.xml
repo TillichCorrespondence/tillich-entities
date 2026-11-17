@@ -7401,6 +7401,30 @@
                   <idno type="geonames">https://sws.geonames.org/2953352/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q6406</idno>
                </place>
+               <place xml:id="tillich_place_id__2071">
+                  <placeName>Flims</placeName>
+                  <location type="coords">
+                     <geo>46.83705 9.28458</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2660757/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q65049</idno>
+               </place>
+               <place xml:id="tillich_place_id__2072">
+                  <placeName>Celerina</placeName>
+                  <location type="coords">
+                     <geo>46.51217 9.85794</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/2661241/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q64964</idno>
+               </place>
+               <place xml:id="tillich_place_id__2073">
+                  <placeName>Kaunas</placeName>
+                  <location type="coords">
+                     <geo>54.90156 23.90909</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/598316/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q4115712</idno>
+               </place>
             </listPlace>
          </div>
       </body>
