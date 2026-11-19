@@ -10756,5 +10756,27 @@
     "latitude": "54.90156",
     "longitude": "23.90909",
     "wikidata_url": "https://www.wikidata.org/wiki/Q4115712"
+  },
+  "2074": {
+    "id": 2074,
+    "order": "1163.00000000000000000000",
+    "name": "Litauen",
+    "tillich_id": "tillich_place_id__2074",
+    "geonames_url": "https://www.geonames.org/countries/LT/lithuania.html",
+    "Working Notes": "",
+    "latitude": null,
+    "longitude": null,
+    "wikidata_url": "https://www.wikidata.org/wiki/Q37"
+  },
+  "2075": {
+    "id": 2075,
+    "order": "1164.00000000000000000000",
+    "name": "Barcelona",
+    "tillich_id": "tillich_place_id__2075",
+    "geonames_url": "https://sws.geonames.org/3128760/",
+    "Working Notes": "",
+    "latitude": "41.38879",
+    "longitude": "2.15899",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1492"
   }
 }

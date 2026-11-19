@@ -10783,6 +10783,7 @@
                         <placeName>Washington, DC</placeName>
                      </settlement>
                   </death>
+                  <occupation>Historiker</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/118803735</idno>
                </person>
                <person xml:id="tillich_person_id__1977">
@@ -28759,6 +28760,23 @@
                   </death>
                   <occupation>Malerin, Zeichnerin</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/120905469</idno>
+               </person>
+               <person xml:id="tillich_person_id__5949">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5950">
+                  <persName>Born, Max</persName>
+               </person>
+               <person xml:id="tillich_person_id__5951">
+                  <persName/>
+               </person>
+               <person xml:id="tillich_person_id__5952">
+                  <persName>Born, Max</persName>
+                  <occupation>Mathematiker und Physiker</occupation>
+               </person>
+               <person xml:id="tillich_person_id__5953">
+                  <persName>Latourette, Kenneth Scott</persName>
+                  <occupation>Sinologe, Historiker und Missionswissenschaftler</occupation>
                </person>
             </listPerson>
          </div>

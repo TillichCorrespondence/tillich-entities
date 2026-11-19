@@ -7425,6 +7425,19 @@
                   <idno type="geonames">https://sws.geonames.org/598316/</idno>
                   <idno type="wikidata">http://www.wikidata.org/entity/Q4115712</idno>
                </place>
+               <place xml:id="tillich_place_id__2074">
+                  <placeName>Litauen</placeName>
+                  <idno type="geonames">https://www.geonames.org/countries/LT/lithuania.html</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q37</idno>
+               </place>
+               <place xml:id="tillich_place_id__2075">
+                  <placeName>Barcelona</placeName>
+                  <location type="coords">
+                     <geo>41.38879 2.15899</geo>
+                  </location>
+                  <idno type="geonames">https://sws.geonames.org/3128760/</idno>
+                  <idno type="wikidata">http://www.wikidata.org/entity/Q1492</idno>
+               </place>
             </listPlace>
          </div>
       </body>
