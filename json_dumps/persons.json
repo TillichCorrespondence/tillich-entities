@@ -21107,7 +21107,7 @@
     "forename": "Lisa",
     "from_to": "",
     "occupation": "",
-    "bio": "Elisabeth Klein (Lebensdaten unbekannt) war die Ehefrau von Ernst Ferdinand Klein, einem evangelischen Pfarrer, der von 1893 bis 1929 in Berlin-Lichtenrade wirkte. Sie war eine geborene Kögel und trug den Spitznamen Lisa.",
+    "bio": "",
     "legacy_id": "P01062",
     "gnd_url": "",
     "tillich_id": "tillich_person_id__1062",
@@ -21116,7 +21116,7 @@
     "working_note": "❌ aus occupation: Schwester von Maria Klein (Rhine)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": "Elisabeth Klein (dates of birth and death unknown) was the wife of Ernst Ferdinand Klein, a Protestant pastor who served in Berlin-Lichtenrade from 1893 to 1929. She was born a Kögel and went by the nickname Lisa.",
+    "bio_en": null,
     "occupation_en": null
   },
   "1063": {
@@ -58162,7 +58162,7 @@
   "2964": {
     "id": 2964,
     "order": "2958.00000000000000000000",
-    "name": "Kinzl Oberstleutnant",
+    "name": "Oberstleutnant Kinzel",
     "surname": "",
     "forename": "",
     "from_to": "",
