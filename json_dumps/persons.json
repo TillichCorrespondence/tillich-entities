@@ -37185,7 +37185,7 @@
     "name": "Storr, Gottlob Christian",
     "surname": "Storr",
     "forename": "Gottlob Christian",
-    "from_to": "",
+    "from_to": "1746–1805",
     "occupation": "",
     "bio": "",
     "legacy_id": "P01873",
@@ -42156,7 +42156,7 @@
     "working_note": null,
     "place_of_birth": "Argostolion",
     "place_of_death": "Paris",
-    "bio_en": null,
+    "bio_en": "Born in Greece, Z. studied philosophy at the Sorbonne in Paris, where he received his doctorate in 1919. In 1926, he founded the art journal \"Cahiers d’Art\", serving as its editor until 1960.",
     "occupation_en": null
   },
   "2122": {
@@ -42216,7 +42216,7 @@
     "working_note": null,
     "place_of_birth": "Dresden",
     "place_of_death": "Herrnhut",
-    "bio_en": null,
+    "bio_en": "Nikolaus Ludwig Count von Zinzendorf und Pottendorf (May 26, 1700 – May 9, 1760) was a German Lutheran theologian, Pietist, and social reformer. As the founder and a bishop of the Moravian Church (Herrnhuter Brüdergemeine), he established an international faith community that exerted a global influence through its missionary work. Zinzendorf combined personal piety with practical charity and contributed numerous spiritual hymns to the Protestant musical tradition.",
     "occupation_en": null
   },
   "2125": {
@@ -42236,7 +42236,7 @@
     "working_note": null,
     "place_of_birth": "Paris",
     "place_of_death": "Paris",
-    "bio_en": null,
+    "bio_en": "Émile Zola (April 2, 1840, Marseille – September 29, 1902, Paris) was the leading figure of French naturalism. His major work is the twenty-volume novel cycle *Les Rougon-Macquart* (1871–1893), in which he depicted French society during the Second Empire through the lens of a single family’s history, emphasizing the roles of heredity and environment. Later works, such as \"Les Trois Villes\" and \"Les Quatre Évangiles\", show a decline in his creative power. Zola was also a significant art critic and, through his open letter \"J’accuse\" (1898), became a central figure in the Dreyfus Affair, which deeply divided France.",
     "occupation_en": null
   },
   "2126": {
@@ -42276,7 +42276,7 @@
     "working_note": null,
     "place_of_birth": "Berlin",
     "place_of_death": "Kassel",
-    "bio_en": null,
+    "bio_en": "From 1922, he served as a professor of church history in Breslau. From 1925, he lived and worked in Königsberg.",
     "occupation_en": null
   },
   "2128": {
@@ -42296,7 +42296,7 @@
     "working_note": "Hamburger Kunstgewerbeschule?",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Gertrud Zschorsch (dates of birth and death unknown) was an author who, in 1923, published a guide to bobbin lace-making through the publisher Ullstein in Berlin. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2129": {
@@ -42416,7 +42416,7 @@
     "working_note": "Dass es sich um die Studentin \"Charlotte Schmitt\" handeln könnte, die in Tillichs Studierendenlisten von der Technischen Hochschule Dresden auftaucht, muss reine Vermutung bleiben.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "An unknown mistress of Paul Tillich, who hailed from Dresden.",
     "occupation_en": null
   },
   "2135": {
@@ -42436,7 +42436,7 @@
     "working_note": null,
     "place_of_birth": "Danzig",
     "place_of_death": "Heidelberg",
-    "bio_en": null,
+    "bio_en": "Heinrich John Rickert (May 25, 1863 – July 25, 1936) was a German philosopher associated with Neo-Kantianism and the philosophy of values. After studying philosophy under Wilhelm Windelband and completing his doctorate in 1888, he earned his habilitation in Freiburg in 1891, where he served as a full professor starting in 1896. Martin Heidegger completed his own habilitation under Rickert in 1915. That same year, Rickert accepted an appointment in Heidelberg as the successor to Windelband, while Edmund Husserl took over his position in Freiburg. Rickert was a critic of phenomenology, the philosophy of life (Lebensphilosophie), and existential philosophy; he remained active until 1934. He was awarded the Goethe Medal for his book on \"Faust\", published in 1932.",
     "occupation_en": null
   },
   "2136": {
@@ -42456,7 +42456,7 @@
     "working_note": "Er war ein Studienkollege von Paul Tillich in Tübingen. // Zu finden ein \"Kaumann, Edwin, c.th., 59, Gräfestr. 71 (Be.04, T.05, Be.05). im \"Vademecum Wingolfiticum 1908\", hier im \"Geographisch geordneten Verzeichnis der Mitglieder des Wingolfs. A. Europa. a. Deutsches Reich. I. Königreich Preussen. 1. Provinz Brandenburg. a. Stadtkreis Berlin. Nr. 59\". Tillich ist hier Nr. 54. Unter selber Adresse im Adressbuch Berlin von 1905: \"Kaumann, Feodor, Fabrikbes. S 59, Graefestr. 71 II. Siehe \"Dampfwäscherei Gudrun\" Teodor Kaumann.\"",
     "place_of_birth": "Berlin",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Member of the Berlin and Tübingen Wingolf. Together with Paul Tillich, he was a member of the Tübingen Wingolf during the summer semester of 1905.",
     "occupation_en": "Evangelischer Pfarrer"
   },
   "2137": {
@@ -42496,7 +42496,7 @@
     "working_note": "H06,S09",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Otto Heller (dates of birth and death unknown) was a fellow student of Paul Tillich. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2139": {
@@ -42531,12 +42531,12 @@
     "legacy_id": "P02144",
     "gnd_url": "https://d-nb.info/gnd/1070597449",
     "tillich_id": "tillich_person_id__2140",
-    "date_of_birth": "1877",
+    "date_of_birth": "",
     "date_of_death": "",
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Erich Pulkowski (1878–1963) was a German officer with the rank of major. He was laid to rest in the St. Sixtus church cemetery in Schliersee. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2141": {
@@ -42576,7 +42576,7 @@
     "working_note": "Vademecum Wingolfiticum 1908 S. 134: Tielking, Ludw., th. (E.05, H.06); Altenhagen b. Hagenburg",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a member of the Wingolf fraternity in Göttingen.",
     "occupation_en": null
   },
   "2143": {
@@ -42596,7 +42596,7 @@
     "working_note": "Vademecum Wingolfiticum 1908, S.16: Schüssler, Willi, c. th., Neustädterstr. 4 (E.04, H.05, Be.06)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a member of the Wingolf fraternity in Berlin.",
     "occupation_en": null
   },
   "2144": {
@@ -42676,7 +42676,7 @@
     "working_note": "R06, H07",
     "place_of_birth": "Waltrop",
     "place_of_death": "Ferndorf",
-    "bio_en": null,
+    "bio_en": "Hans Vethake (December 13, 1885 – July 19, 1968) was a German pastor. He was born in Waltrop and died in Ferndorf. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2148": {
@@ -42696,7 +42696,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a fellow student of Paul Tillich—or a fellow member of the Wingolf fraternity—with whom there must have been some \"highly awkward,\" or rather unpleasant, incident.",
     "occupation_en": null
   },
   "2149": {
@@ -42716,7 +42716,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a \"Philister\" in the Bonn Wingolf.",
     "occupation_en": null
   },
   "2150": {
@@ -42736,7 +42736,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was one of the seven members of the Erlangen Wingolf who resigned from the fraternity in protest following the Wartburg Festival in late May/early June 1907.",
     "occupation_en": null
   },
   "2152": {
@@ -42796,7 +42796,7 @@
     "working_note": "T05,Be06,H07",
     "place_of_birth": "Helmstedt",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Martin Stosch (November 20, 1886 – 1964) was presumably a German pastor, born in Helmstedt, and a fellow student of the theologian Paul Tillich. Between 1913 and 1921, he served as a clergyman in Herzogswalde, and subsequently from 1921 to 1928 in Tempel—both located in the district of Oststernberg.",
     "occupation_en": null
   },
   "2155": {
@@ -42816,7 +42816,7 @@
     "working_note": "H07, Br08; https://laar.reformiert.de/files/laar/pdf/pastoren-ringena.pdf",
     "place_of_birth": "Bunde",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Johannes Otto Voget (1889–1965) came from a Reformed pastoral family from East Frisia. His father, Friedrich Ajolt Alexander Voget, served as a pastor in Ohne, Bunde, and Emden, and from 1906 as a superintendent in Lingen; his mother, Elise Friderike Moser, was from Tübingen. He had seven brothers, several of whom also entered the clergy: Carl Octavius ​​served as a pastor in Marienchor, Wymeer, and Volkmarsen, and Julius Gustav as a pastor in Georgsdorf, Bunde, and Wuppertal-Barmen, while Friedrich Albert Eberhard became a dentist in Emden and Hermann Theodor a secondary school teacher in Berlin. His brother Gustav later emigrated to the United States. In 1915, he married Gesine Garbrandine Petersen, with whom he had eight children. Johannes Otto Voget was a fellow student of the theologian Paul Tillich.",
     "occupation_en": null
   },
   "2156": {
@@ -42836,7 +42836,7 @@
     "working_note": "Niedererlenbach; Oberschmidt, Herm., th. (H.07.), siehe: Vademecum Wingolfiticum 1908, S.108 u.: https://www-p1.archivportal-d.de/item/TH2HAHEKBY3IUIQRR5BAGE25JJLRIQJN?query=Tiefenort&sort=&lang=en&hitNumber=99",
     "place_of_birth": "Tiefenort",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was the personal chestnut horse of Nikolaus Schuster, known as \"Nickelby.\"",
     "occupation_en": null
   },
   "2157": {
@@ -42856,7 +42856,7 @@
     "working_note": "T05, H06",
     "place_of_birth": "Collinghorst",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Nikolaus Schuster (born May 18, 1885) was a fellow student of the theologian Paul Tillich. He was born in Collinghorst and was known by the nickname \"Nickelby,\" a reference to a literary character created by Charles Dickens. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2158": {
@@ -42896,7 +42896,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Wilhelm Nell (1883–1976) was a German Protestant theologian and pastor in Westphalia. In the summer semester of 1905, he joined the Tübingen Wingolf student fraternity, as did Paul Tillich. Martin Kähler was among his academic teachers. Beginning in October 1907, he served as a tutor to princes in Kassel, and in 1910, he became a candidate for the ministry at the Berlin Cathedral seminary (Domkandidatenstift). He died in Bonn.",
     "occupation_en": null
   },
   "2160": {
@@ -42916,7 +42916,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "August Winkler (dates of birth and death unknown) was the first chairman of the Association of Old Wingolfites (Verband Alter Wingolfiten), which was founded in 1901. At a meeting held in Berlin in July 1919, he was elected to head the newly established Executive Committee, which was tasked with steering the affairs of the association.",
     "occupation_en": null
   },
   "2161": {
@@ -42936,7 +42936,7 @@
     "working_note": "Vademecum Wingolfiticum 1908: Gd.05, H.06; Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Adolf Gaul (1886–1943) was a German pastor. He was born in Naunheim (near Wetzlar) in Hesse, and he served in Spandau. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2164": {
@@ -42956,7 +42956,7 @@
     "working_note": "Studentenverbindung, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)",
     "place_of_birth": "Frankfurt/Oder",
     "place_of_death": "Reval",
-    "bio_en": null,
+    "bio_en": "Hermann Heinrich August Jungclaussen (August 30, 1887 – July 27, 1942) was a German Protestant pastor and a member of the \"German Christians\" (Deutsche Christen) movement. Following his ordination in Berlin in 1916, he initially served as a military chaplain, including assignments in East Prussia and Lithuania. Subsequently, he held pastoral positions in various locations—such as Kiel, Hamburg-Fuhlsbüttel, and Münster—most recently serving at St. Nicholas Church (St.-Nikolai-Kirche) in Kiel from 1937 until his death. He died in 1942 in Reval (Tallinn).",
     "occupation_en": null
   },
   "2165": {
@@ -43036,7 +43036,7 @@
     "working_note": "Bo06,H07,Be08,M08",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Georg Struckmeier (October 30, 1885 – August 31, 1974) was a German pastor, born in Hamburg-Moorburg and raised in Frankfurt am Main. He studied theology in Bonn, Halle, Berlin, and Marburg. From 1913 to 1915, he served the German Protestant congregation in Hull, England, and during the First World War, he served as a divisional chaplain. Following years with the Ostergemeinde (Easter Congregation) in Berlin, he took charge of the Paulsgemeinde (St. Paul’s Congregation) in Frankfurt in 1925, remaining there until 1947. Beginning in 1948, he developed the Central Theological Library—which included an archive for church history—and directed it until 1965. He maintained ties to the *Wingolf* (a German student fraternity). He died in Frankfurt.",
     "occupation_en": null
   },
   "2171": {
@@ -43056,7 +43056,7 @@
     "working_note": "Spitzname \"Salem\"",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Karl von Hanffstengel (dates of birth and death unknown) was the younger brother of Gottfried von Hanffstengel. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2172": {
@@ -43076,7 +43076,7 @@
     "working_note": "Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a fellow student of Paul Tillich.",
     "occupation_en": null
   },
   "2173": {
@@ -43096,7 +43096,7 @@
     "working_note": "Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a fellow student of Paul Tillich.",
     "occupation_en": null
   },
   "2174": {
@@ -43116,7 +43116,7 @@
     "working_note": "Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a fellow student of Paul Tillich.",
     "occupation_en": null
   },
   "2175": {
@@ -43136,7 +43136,7 @@
     "working_note": "",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was the personal \"Fux\" (protégé/mentee) of the Halle Wingolf member Amos Hensmann.",
     "occupation_en": null
   },
   "2176": {
@@ -43196,7 +43196,7 @@
     "working_note": "Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Wilhelm van der Smissen (born 1882) was a fellow student of the theologian Paul Tillich. He hailed from Niepruszewo in the Province of Posen, studied agriculture, and in 1924 served as the director of the agricultural school in Itzehoe. It is not certain, however, whether he is indeed the same individual—born in 1882—who specialized in agriculture. The biographical information provided here should therefore be considered only as a well-founded conjecture.",
     "occupation_en": null
   },
   "2179": {
@@ -43216,7 +43216,7 @@
     "working_note": "Studienkollege Tillichs, vgl. 1907. Tillich, P. an Fritz, A (Hätte ich...)",
     "place_of_birth": "",
     "place_of_death": "Bad Godesberg",
-    "bio_en": null,
+    "bio_en": "Eberhard Dennert (July 31, 1861 – June 18, 1942) was a German naturalist and secondary school teacher in Godesberg. In 1907, he founded the Keplerbund, an organization that, from an evangelical perspective, opposed Darwinism and Haeckel’s monism.",
     "occupation_en": null
   },
   "2180": {
@@ -43236,7 +43236,7 @@
     "working_note": null,
     "place_of_birth": "Moers",
     "place_of_death": "Erlangen",
-    "bio_en": null,
+    "bio_en": "Theodor Zahn (October 10, 1838 – March 5, 1933) was a German Protestant theologian, born in Moers to a father who was an educator. He studied in Basel, Erlangen, and Berlin; after initially teaching in schools, he completed his habilitation in New Testament studies at Göttingen in 1868. Following academic positions in Kiel, Erlangen, and Leipzig, he assumed the chair for New Testament Introduction and Exegesis at the University of Erlangen in 1892. In addition to exegesis, he focused on patristics—specifically the formation of the New Testament canon. Theologically conservative, he remained critical of historical-critical research. He was ennobled in 1907 and died in Erlangen.",
     "occupation_en": null
   },
   "2181": {
@@ -43256,7 +43256,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Gottfried von Hanffstengel’s older brother",
     "occupation_en": null
   },
   "2182": {
@@ -43276,7 +43276,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Gottfried von Hanffstengel’s younger brother",
     "occupation_en": null
   },
   "2183": {
@@ -43336,7 +43336,7 @@
     "working_note": "T04, H05; https://www.heidermanns.net/gen-pers.php?ID=108612",
     "place_of_birth": "Ubbedissen",
     "place_of_death": "Bielefeld",
-    "bio_en": null,
+    "bio_en": "Johannes Meyersieck (November 28, 1884 – November 25, 1971) was a German Protestant pastor. The son of a pastor himself, he began serving in June 1914 as the second pastor for the parish of Hiddenhausen, where he was responsible for the villages of Oetinghausen and Lippinghausen. During the First World War, between 1914 and 1918, he sent out a total of 48 monthly field-post letters to as many as 380 young men from his parish who were serving as soldiers. This correspondence was accompanied by numerous parcels and fundraising campaigns that he organized. In 1920, he took over his father’s pastorate in Ubbedissen, a position he held until 1955.",
     "occupation_en": null
   },
   "2187": {
@@ -43356,7 +43356,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was presumably the eldest of the Smissen siblings and studied chemistry.",
     "occupation_en": null
   },
   "2188": {
@@ -43416,7 +43416,7 @@
     "working_note": "Wird erwähnt im Brief: 1907.10.02. Balke, H. an Tillich, P.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Jonas (dates of birth and death and surname unknown) appears to have been a fellow student of Paul Tillich.",
     "occupation_en": null
   },
   "2192": {
@@ -43436,7 +43436,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Therese (Lebensdaten und Nachname unbekannt) war eine Gemeindeschwester in der Gemeinde von Johannes Tillich. Mehr biographische Informationen sind derzeit nicht bekannt.",
     "occupation_en": null
   },
   "2193": {
@@ -43456,7 +43456,7 @@
     "working_note": "Conchargierter von Fr. Banzhaf und ich nehme einmal an drum auch ein Fuxmajor im Tübinger Wingolf. Siehe: 1907.08.18. Banzhaf, F. an Tillich, P.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "During the 1907/08 winter semester, Gaiser served as the Erstchargierter (head student officer) of the Tübingen Wingolf fraternity.",
     "occupation_en": null
   },
   "2194": {
@@ -43496,7 +43496,7 @@
     "working_note": "Alle durch tillich_person_id__131 ersetzt. Vgl. 1907.04.21. Schubert, D. an Tillich, P.; 1907. Tillich, P. an Fritz, A. (Fast wage); 1908.08. Tillich, P. an Büchsel, F.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a fellow student of Paul Tillich in Halle.",
     "occupation_en": null
   },
   "2196": {
@@ -43516,7 +43516,7 @@
     "working_note": "",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Käthe (dates of birth and death unknown) is identified as an aunt of the theologian Paul Tillich. Her full name and further biographical details are not known.",
     "occupation_en": null
   },
   "2197": {
@@ -43536,7 +43536,7 @@
     "working_note": "Erwähnt in: 1907.07.27. Fritz, A. an Tillich, P. Den Vornamen gilt es noch herauszufinden. (Gottlieb Fritz ist der Vater);  ebenso erwähnt in 1907. Tillich, P. an Fritz, A. (Fast wage); vgl. zur Hypothese, ob Immanuel: 17.11.1914 Tillich, Paul an Tillich, Elisabeth.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Older brother of Alfred Fritz",
     "occupation_en": null
   },
   "2198": {
@@ -43556,7 +43556,7 @@
     "working_note": "Erwähnt in: 1907.07.27. Fritz, A. an Tillich, P. Ebenso fehlt der Vorname",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was the brother of Friedrich Banzhaf.",
     "occupation_en": null
   },
   "2199": {
@@ -43576,7 +43576,7 @@
     "working_note": "Unterschreibt in: 1907.08.16. Tillich, J. an Tillich, P",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Trude (dates of birth and death and surname unknown) is identified as an aunt of Paul Tillich. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2200": {
@@ -43756,7 +43756,7 @@
     "working_note": "Vademicum Wingolfitum 1908: Bo. 05, H. 06; erwähnt in: 1907.10.23. Balke, H. an Tillich, P.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "A member of the Wingolf fraternity in Halle; arrives in Halle from Bonn in the summer of 1906.",
     "occupation_en": null
   },
   "2209": {
@@ -43836,7 +43836,7 @@
     "working_note": "Vademecum Wingolfiticum 1908, S.135: Bremen; Graeber, Martin, th. Celler Str. 49 (H.04, T.05, H.06, Be.07)",
     "place_of_birth": "Kairo",
     "place_of_death": "Barmen",
-    "bio_en": null,
+    "bio_en": "Martin Graeber (November 23, 1884 – March 1, 1959) was a German Protestant pastor who was born in Cairo. Following his ordination in Bremen in 1912, he served as a clergyman in Bremen, Arolsen, and Wupperfeld.",
     "occupation_en": null
   },
   "2213": {
@@ -43856,7 +43856,7 @@
     "working_note": null,
     "place_of_birth": "Sensburg",
     "place_of_death": "Berlin",
-    "bio_en": null,
+    "bio_en": "Arthur Titius (July 28, 1864 – September 7, 1936) was a German Protestant theologian. Following his university studies, doctorate, and habilitation, he held teaching positions in Kiel (from 1895), Göttingen (from 1906), and Berlin (from 1921) until his retirement from office in 1934. Early in his career, he became involved in social policy through the Evangelical Social Congress (Evangelisch-sozialer Kongress) and, alongside Friedrich Naumann, was a co-founder of the National Social Association (Nationalsozialer Verein). During the First World War, he adopted a critical and conciliatory tone, and in the postwar period, he advocated for the democratic renewal of the church. He was among the early and resolute pioneers of the ecumenical movement, and at the 1925 Stockholm Conference, he proposed the establishment of an international institute for social research. Although he was initially a sharp critic of National Socialism, he moved toward racist views toward the end of his life. Overall, he is regarded as a significant representative of liberal Protestant theology in the early 20th century.",
     "occupation_en": null
   },
   "2214": {
@@ -43896,7 +43896,7 @@
     "working_note": "Vademecum WIngolfiticum 1908, S.51: Niederzwehren; Ritter, Rud., c. th. (T.04, H.05, L.06)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Rudolf Ritter (1886–1922) was a Protestant pastor from Germany who served in Willershausen. He may have been a member of the student fraternity Wingolf. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2216": {
@@ -43936,7 +43936,7 @@
     "working_note": "Erwähnt in 1907. Tillich, P. an Fritz, A. (Fast wage)",
     "place_of_birth": "Falkenberg b. Berlin",
     "place_of_death": "Marburg",
-    "bio_en": null,
+    "bio_en": "Adolf Jülicher (January 26, 1857 – August 2, 1938) was a German Protestant theologian who specialized in the New Testament and church history. Following his studies and the completion of his doctorate in 1880, he earned his habilitation in 1887. Beginning in 1888, he taught in Marburg—from 1889 as a full professor—where he also served as rector and dean. As a prominent proponent of the historical-critical method, he helped gain new academic recognition for the field of theology. He became best known for his widely published textbook, \"Introduction to the New Testament\" (Einleitung in das Neue Testament), as well as his analysis of the parables of Jesus.",
     "occupation_en": null
   },
   "2218": {
@@ -44036,7 +44036,7 @@
     "working_note": "Erwähnt in: 1905.05.04. Gerich an Tillich, P.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a student in Marburg.",
     "occupation_en": null
   },
   "2223": {
@@ -44076,7 +44076,7 @@
     "working_note": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1763994443000~860&pid=14842213&locale=de&usePid1=true&usePid2=true",
     "place_of_birth": "Odenkirchen",
     "place_of_death": "Berlin",
-    "bio_en": null,
+    "bio_en": "Paul Rudolf Dürselen (October 8, 1862 – December 22, 1933) was a German pastor and the maternal uncle of the theologian Paul Tillich. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2225": {
@@ -44096,7 +44096,7 @@
     "working_note": "https://www.heidermanns.net/gen-pers.php?ID=128018",
     "place_of_birth": "Odenkirchen",
     "place_of_death": "Hanau",
-    "bio_en": null,
+    "bio_en": "Johanna Amalia Eugenia Dürselen (August 14, 1842 – April 7, 1909) was the half-sister of Paul Tillich’s mother, born from the first marriage of her father, Gustav Dürselen. She was, therefore, Tillich’s maternal aunt; she hailed from Odenkirchen but died in Hanau.",
     "occupation_en": null
   },
   "2226": {
@@ -44116,7 +44116,7 @@
     "working_note": "H03, T05",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was in contact with the Wingolf fraternity.",
     "occupation_en": null
   },
   "2227": {
@@ -44136,7 +44136,7 @@
     "working_note": "(geborene Thürlings; Großtante Paul Tillichs mütterlicherseits. jüngere Schwester von Amalia Gertrud (Mathilde) Thürlings)in: 1905.10.20. Winkler, T. an Tillich, P; auch 1914.11.17 Tillich P, an Tillich, E (Umschlagadresse Alfred Fritz)",
     "place_of_birth": "Wevelinghoven",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Emma Walz (September 20, 1841 – 1923), née Thürlings, was from Wevelinghoven and was a great-aunt of the theologian Paul Tillich on his mother’s side. She was the younger sister of Amalia Gertrud (Mathilde) Thürlings.",
     "occupation_en": null
   },
   "2228": {
@@ -44236,7 +44236,7 @@
     "working_note": "Erwähnt z. B. in: 1907.03.22. Hanffstengel, G. an Tillich, P. (S.5)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Gottfried von Hanffstengel’s mother, née Heintze",
     "occupation_en": null
   },
   "2233": {
@@ -44276,7 +44276,7 @@
     "working_note": "Erwähnt in: 1907.03.22. Hanffstengel, G. an Tillich, P",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Gottfried von Hanfstengel's mother, born Heintze",
     "occupation_en": null
   },
   "2236": {
@@ -44296,7 +44296,7 @@
     "working_note": "aus occupation: genannt Else https://www.ancestry.com.au/genealogy/records/wilhelmine-emilie-elisabeth-geborene-ramelow-24-mptbb9?srsltid=AfmBOoqLsaamMCrVc8cE_Dm7s8AMt1wQPC8iVuuLXo1wKEPPf93QVEig",
     "place_of_birth": "Berlin",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Wilhelmine Emilie Elisabeth Dürselen (born June 29, 1871) was a née Ramelow. She hailed from Berlin and was the wife of Paul Rudolf Dürselen. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2237": {
@@ -44316,7 +44316,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Gustav Dürselen (July 2, 1816 – February 27, 1909) was a German merchant of the Evangelical Reformed faith. Born in Odenkirchen, he was active in the field of commerce. He was a grandfather of the theologian Paul Tillich and died in Berlin.",
     "occupation_en": null
   },
   "2238": {
@@ -44336,7 +44336,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Paul Tillich’s maternal grandmother.",
     "occupation_en": null
   },
   "2239": {
@@ -44376,7 +44376,7 @@
     "working_note": "Großonkel Paul Tillichs mütterlicherseits. https://de.wikisource.org/wiki/BLK%C3%96:Walz,_Michael        https://www.wikidata.org/wiki/Q94830643",
     "place_of_birth": "Schlatt im Breisgau",
     "place_of_death": "Freiburg im Breisgau",
-    "bio_en": null,
+    "bio_en": "Paul Tillich’s great-uncle on his mother’s side",
     "occupation_en": null
   },
   "2241": {
@@ -44416,7 +44416,7 @@
     "working_note": "Erwähnt in: 1906.11.17. Tillich, J. an Tillich, P und als Vetter in L00091 bezeichnet",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Schmidt (first name and dates of birth/death unknown) was a Protestant pastor mentioned as a cousin within the circle of the Tillich family. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2243": {
@@ -44436,7 +44436,7 @@
     "working_note": "H.03,T.05, H.06, 07",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Otto Friedrich Hessig (September 8, 1883 – March 12, 1945) was a German Protestant pastor, born in Karlsruhe. From 1918 to 1925, he served as a clergyman in Eschelbronn and Neidenstein. He was married to Susanna Maria Braun.",
     "occupation_en": null
   },
   "2244": {
@@ -44456,7 +44456,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was active primarily in Tübingen.",
     "occupation_en": null
   },
   "2245": {
@@ -44476,7 +44476,7 @@
     "working_note": null,
     "place_of_birth": "Hohenstaufen",
     "place_of_death": "Tübingen",
-    "bio_en": null,
+    "bio_en": "He was active primarily in Tübingen.",
     "occupation_en": null
   },
   "2246": {
@@ -44656,7 +44656,7 @@
     "working_note": "siehe Evangeliches Pfarrerbuch",
     "place_of_birth": "Finsterwalde",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Protestant pastor (ordained on May 7, 1905); in 1905, he served as an assistant pastor under Johannes Tillich.",
     "occupation_en": null
   },
   "2255": {
@@ -44816,7 +44816,7 @@
     "working_note": "Vademecum Wingolfiticum 1908, S. 95: Karlsruhe (Baden); Jäger, Theodor, Vik., ebd. [08, 19 Welschneureuth] (H.03, T.05)]1907. Tillich, P. an Fritz, A._Verzicht auf Recht; 1907.10. Tillich, P. an Fritz, A.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Theodor Jäger (1885–1965) was a Protestant pastor. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2264": {
@@ -44916,7 +44916,7 @@
     "working_note": null,
     "place_of_birth": "Hardegsen",
     "place_of_death": "Greifswald",
-    "bio_en": null,
+    "bio_en": "He has specialized in Old Testament research.",
     "occupation_en": null
   },
   "2270": {
@@ -44936,7 +44936,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He has specialized in Old Testament research.",
     "occupation_en": null
   },
   "2271": {
@@ -44956,7 +44956,7 @@
     "working_note": "1907.10. Tillich, P. an Fritz, A.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was in contact with the Wingolf fraternity.",
     "occupation_en": null
   },
   "2272": {
@@ -44976,7 +44976,7 @@
     "working_note": "Erwähnt in: 1906.03.29. Fritz, A. an Tillich, P.",
     "place_of_birth": "Dachtel",
     "place_of_death": "Holzgerlingen",
-    "bio_en": null,
+    "bio_en": "Born Fritz; older sister of Alfred Fritz",
     "occupation_en": null
   },
   "2273": {
@@ -45016,7 +45016,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the mother of Hermann Martin Friedrich Büchsel.",
     "occupation_en": null
   },
   "2275": {
@@ -45036,7 +45036,7 @@
     "working_note": null,
     "place_of_birth": "Berlin",
     "place_of_death": "Stettin",
-    "bio_en": null,
+    "bio_en": "Johannes Friedrich Wilhelm Büchsel (1849–1920) was a German pastor who served as General Superintendent in Stettin. His son was Hermann Martin Friedrich Büchsel. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2276": {
@@ -45056,7 +45056,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was a sister of Hermann Martin Friedrich Büchsel and married Hans Gustav Friedrich Bachmann on June 7, 1900.",
     "occupation_en": null
   },
   "2277": {
@@ -45076,7 +45076,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a brother of Hermann Martin Friedrich Büchsel.",
     "occupation_en": null
   },
   "2278": {
@@ -45096,7 +45096,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a brother of Hermann Martin Friedrich Büchsel.",
     "occupation_en": null
   },
   "2279": {
@@ -45116,7 +45116,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a brother of Hermann Martin Friedrich Büchsel.",
     "occupation_en": null
   },
   "2280": {
@@ -45136,7 +45136,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was a sister of Hermann Martin Friedrich Büchsel and married Gerhard Ernst Johannes Bindemann on July 29, 1909.",
     "occupation_en": null
   },
   "2281": {
@@ -45156,7 +45156,7 @@
     "working_note": null,
     "place_of_birth": "Öhringen",
     "place_of_death": "Tübingen",
-    "bio_en": null,
+    "bio_en": "He has specialized in New Testament research and is considered a proponent of liberal theology.",
     "occupation_en": null
   },
   "2282": {
@@ -45176,7 +45176,7 @@
     "working_note": "Vgl. 1908.08. Tillich, P an Büchsel, F.;",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was presumably a fellow student of Paul Tillich.",
     "occupation_en": null
   },
   "2283": {
@@ -45196,7 +45196,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was Rector Magnificus of the University of Amsterdam.",
     "occupation_en": null
   },
   "2284": {
@@ -45216,7 +45216,7 @@
     "working_note": "Ist Menzel -> Gerhard Heinzelmann. Wurde ersetzt. Name schwer leserlich. Er könnte auch \"Menzel\" lauten. Vgl. 1908.08. Tillich, P an Büchsel, F.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was presumably a fellow student of Paul Tillich.",
     "occupation_en": null
   },
   "2285": {
@@ -45236,7 +45236,7 @@
     "working_note": "Erwähnt in: 1918.09.14 Koch, K an Tillich, P",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a military chaplain during the First World War.",
     "occupation_en": null
   },
   "2286": {
@@ -45256,7 +45256,7 @@
     "working_note": "Erwähnt in: 1918.09.08 Meinhof an Tillich, P",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was a student of Professor Loofs and the son of General Superintendent Friedrich Winfried Schubart.",
     "occupation_en": null
   },
   "2287": {
@@ -45276,7 +45276,7 @@
     "working_note": "Erwähnt in: 1918.09.08 Meinhof an Tillich, P",
     "place_of_birth": "",
     "place_of_death": "Zerbst/Anhalt",
-    "bio_en": null,
+    "bio_en": "He was General Superintendent of Anhalt.",
     "occupation_en": null
   },
   "2288": {
@@ -45336,7 +45336,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "She was a consecrated virgin and the older sister of Basil the Great, Gregory of Nyssa, and Peter of Sebaste. She was a spiritual figure of distinction, much like her brothers, and she exerted a strong influence on the paths their lives took.",
     "occupation_en": null
   },
   "2291": {
@@ -45456,7 +45456,7 @@
     "working_note": "Erwähnt in: 1924.11.21 Tillich, P an Verlag Vandenhoeck und Ruprecht / Medizinalrat, Erwähnt in: Mitgliederverzeichnis=Verzeichnis der Gesellschaft fur Pommersche Geschichte und Altertumskunde Stettin: Fischer und Schmidt, Seite 8(https://fbc.pionier.net.pl/details/nnhsRhs); vgl. auch 1914.11.17. Tillich, P an Tillich, E (Umschlagsadresse Alfred Fritz)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Eckhardt Neumeister (dates of birth and death unknown) was a physician who held the ranks of Geheimrat (privy councillor) and Medizinalrat (medical councillor). He is mentioned in connection with the theologian Paul Tillich and was a member of the Society for Pomeranian History and Antiquities in Stettin. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2297": {
@@ -45616,7 +45616,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Hildegard Krohn (April 18, 1892 – February 4, 1943), later Hildegard Salomon, was a German victim of the Holocaust and the companion and muse of the poet Georg Heym. Born the daughter of a Jewish manufacturer, she attended a secondary school for girls and became a kindergarten teacher. In 1911, she met Georg Heym; theirs was his final and most intimate relationship, and he dedicated numerous poems to her, including his well-known love poem \"Deine Wimpern, die langen\" (\"Your Eyelashes, the Long Ones\"). Following Heym’s premature death in an accident, she assisted in the publication of his literary estate. From 1921 to 1930, she was married to the sociologist Gottfried Salomon. In 1943, she was deported to Auschwitz-Birkenau, where she was murdered.",
     "occupation_en": null
   },
   "2305": {
@@ -45656,7 +45656,7 @@
     "working_note": "vgl. das Biogramm bei Graf, Ein unbekannter Systementwurf, 39 (Anm. 36)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "The educator Else Hildebrandt, born on July 17, 1894, was taken from her place of residence at the time—Ramsau near Berchtesgaden—to the Ravensbrück concentration camp in December 1943, following a denunciation by the local NSDAP branch leader. It is highly likely that Else Hildebrandt was murdered there in 1944. Her husband, Paul Hildebrandt (1870–1948)—also an educator—was imprisoned in the Buchenwald concentration camp. Else Hildebrandt published the following works: rbeiterbildungsfragen im zukünftigen Deutschland [Issues of Workers' Education in a Future Germany] (Jena: Eugen Diederichs Verlag, 1916) and Die schwedische Volkshochschule. Ihre politischen und sozialen Grundlagen [The Swedish Folk High School: Its Political and Social Foundations] (Berlin: Heymann, 1916).",
     "occupation_en": null
   },
   "2307": {
@@ -45716,7 +45716,7 @@
     "working_note": "Erwähnt in: 1930.05.19 Kappes, H an Tillich, P.",
     "place_of_birth": "Fahrenbach",
     "place_of_death": "Stuttgart",
-    "bio_en": null,
+    "bio_en": "He was a Protestant pastor, a Quaker, and a translator. He was considered a religious socialist.",
     "occupation_en": null
   },
   "2310": {
@@ -45756,7 +45756,7 @@
     "working_note": null,
     "place_of_birth": "Berlin",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was a student of Franz Oppenheimer.",
     "occupation_en": null
   },
   "2312": {
@@ -45836,7 +45836,7 @@
     "working_note": "Erwähnt im Brief Gottfried Salomons an Tillich vom 16.11.1925 - evtl. Georg Mehlis gemeint, aber unsicher",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Georg Mehlis (March 8, 1878 – November 13, 1942) was a German philosopher associated with Neo-Kantianism and a university professor, born in Hanover. He initially pursued a career as an officer, which he abandoned in 1902 to undertake studies in Marburg and Heidelberg. He earned his doctorate under Windelband in 1906 and completed his habilitation in Freiburg in 1909, where he began teaching as an außerplanmäßiger (extraordinary/adjunct) professor in 1915. A student of Heinrich Rickert, he founded the journal Logos—dedicated to the philosophy of culture—in 1910, serving as its sole editor during the initial period. In 1924, he left Germany following the initiation of criminal investigations against him and settled in Italy. While there, he wrote on the subject of fascism on several occasions. He died in Freiburg.",
     "occupation_en": null
   },
   "2316": {
@@ -45856,7 +45856,7 @@
     "working_note": null,
     "place_of_birth": "Pilsen",
     "place_of_death": "New York, NY",
-    "bio_en": null,
+    "bio_en": "Emil Lederer (July 22, 1882 – May 29, 1939) was a Bohemian-Austrian economist and sociologist. Following his studies in law and economics in Vienna, he earned his doctorate and completed his habilitation with a groundbreaking study on white-collar employees. Beginning in 1918, he taught in Heidelberg—from 1920 as a full professor of social policy—where he also co-directed a social science institute alongside Alfred Weber. In 1931, he was appointed to a prestigious chair in Berlin. In 1933, he was dismissed from his position due to his membership in the SPD (Social Democratic Party) and for racial reasons. He emigrated to the United States via Japan, where he became one of the founders of the \"University in Exile\" at the New School for Social Research in New York, serving as its first dean. In his scholarly work, he integrated economics and sociology into an interdisciplinary approach, analyzing contemporary phenomena such as interest groups, the evolution of labor, and the emergence of totalitarianism.",
     "occupation_en": null
   },
   "2317": {
@@ -45956,7 +45956,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was involved in the First World War.",
     "occupation_en": null
   },
   "2322": {
@@ -45976,7 +45976,7 @@
     "working_note": "vgl. Alfons Paquet, Wilhelm Groener, Albert Hopman (Hg.), Von Brest-Litovsk zur Deutschen Novemberrevolution. Aus den Tagebüchern, Briefen und Aufzeichnungen, Göttingen 1971, 281.",
     "place_of_birth": "Alt-Schadow",
     "place_of_death": "Potsdam",
-    "bio_en": null,
+    "bio_en": "Hans von Gronau (February 6, 1850 – February 22, 1940) was a Prussian General of the Artillery and military governor of Thorn. Hailing from a family of teachers, he joined the Prussian Army in 1869 and took part in the war against France in 1870–71. Beginning in 1894, he headed the section of the General Staff responsible for Russia. In 1907, he became governor of Thorn, and in 1908, he was promoted to the rank of General of the Artillery. In 1913, Kaiser Wilhelm II elevated him to the hereditary nobility. Reactivated during the First World War, he commanded several large military formations on both the Western and, later, the Eastern Front, before retiring from service in 1919. His eldest son was the transatlantic aviator Wolfgang von Gronau.",
     "occupation_en": null
   },
   "2323": {
@@ -46016,7 +46016,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was involved in the First World War.",
     "occupation_en": null
   },
   "2325": {
@@ -46036,7 +46036,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was involved in the First World War and owned an allodial estate in Schwenzin near Waren, Mecklenburg.",
     "occupation_en": null
   },
   "2326": {
@@ -46056,7 +46056,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was involved in the First World War.",
     "occupation_en": null
   },
   "2327": {
@@ -46076,7 +46076,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a Catholic priest and had contact with Paul Tillich during the First World War.",
     "occupation_en": null
   },
   "2328": {
@@ -46096,7 +46096,7 @@
     "working_note": "Davor \"Hereike, ???\"; vielleicht Walter Wernicke (1913 cand. jur. in Greifswald)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was in contact with Paul Tillich during the First World War.",
     "occupation_en": null
   },
   "2329": {
@@ -46116,7 +46116,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was involved in the First World War.",
     "occupation_en": null
   },
   "2330": {
@@ -46136,7 +46136,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was involved in the First World War.",
     "occupation_en": null
   },
   "2331": {
@@ -46236,7 +46236,7 @@
     "working_note": "Siehe: 1907.10.13. Schreiber, H. an Tillich, P.",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He lived and worked in Bremen.",
     "occupation_en": null
   },
   "2336": {
@@ -46336,7 +46336,7 @@
     "working_note": "Erwähnt in 1907.10.27. Vethake, H. an Tillich, P.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a member of the Halle chapter of Wingolf and was known as Heydemeyer.",
     "occupation_en": null
   },
   "2342": {
@@ -46436,7 +46436,7 @@
     "working_note": "Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a member of the Erlangen Wingolf.",
     "occupation_en": null
   },
   "2347": {
@@ -46456,7 +46456,7 @@
     "working_note": "Vorname schwer leserlich. Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P.",
     "place_of_birth": "Mönchengladbach",
     "place_of_death": "Bonn",
-    "bio_en": null,
+    "bio_en": "Hans Emil Weber (March 8, 1882 – June 13, 1950) was a German Protestant theologian, born in Mönchengladbach as the son of the social reformer Ludwig Weber. His theological studies took him to Neuchâtel, Bonn, Erlangen, and Greifswald, where he earned his licentiate in 1905. Following his doctorate and habilitation in 1907, he taught in Halle, and from 1913, he served as a full professor in Bonn. During the First World War, he worked as a military and hospital chaplain. During the Kirchenkampf (the church struggle under the Nazi regime), he aligned himself with Karl Barth and was, as a result, forcibly transferred to Münster. In 1937, he took early retirement, but he returned to Bonn after the war ended. He was a member of the Wingolf student fraternity.",
     "occupation_en": null
   },
   "2348": {
@@ -46476,7 +46476,7 @@
     "working_note": "Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P.",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was a member of the Erlangen Wingolf.",
     "occupation_en": null
   },
   "2349": {
@@ -46496,7 +46496,7 @@
     "working_note": "Erwähnt in: 1907.11.06. Lotz, E. an Tillich, P:",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was a member of the Erlangen Wingolf.",
     "occupation_en": null
   },
   "2350": {
@@ -46516,7 +46516,7 @@
     "working_note": "(um 1931 am Landestheater Mannheim beschäftigt.)Evtl. erwähnt im Brief PTs an Hannah Tillich vom 4.2.31. Vgl. https://kalliope-verbund.info/ead?ead.id=DE-611-HS-3079428",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Erich Dürr (born 1889) was a German dramaturg, director, and art critic. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2351": {
@@ -46556,7 +46556,7 @@
     "working_note": "nicht ermittelt; Erwähnt in PT an Hannah Tillich vom 5.3.1931",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was presumably a relative of the metallurgist Wilhelm Borchers.",
     "occupation_en": null
   },
   "2353": {
@@ -46576,7 +46576,7 @@
     "working_note": "Vermutlich Frau Fritz Medicus Erwähnt in: 1928.04.19. Tillich, P an Fritz Medicus Medicus",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Clara Medicus (dates of birth and death unknown) was presumably the wife of Fritz Medicus. She is mentioned in a letter from Paul Tillich to Fritz Medicus dated April 19, 1928. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2354": {
@@ -46596,7 +46596,7 @@
     "working_note": "bisher nicht ermittelt, erwähnt in PT an Hannah Tillich, 22.09.1932; Informationen aus Johannes Tillichs autobiografischen Aufzeichnungen. = Anna Krause?; Todesjahr kann nicht stimmen, siehe Brief v. 1932 – in J. Tillichs Autobiografie steht aber, sie ist 1904 zu ihnen und nach 25 Jahren gestorben.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Anna Harz (1884/85–1928/29) served as a domestic helper for the Tillich family from 1904 until her death. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2355": {
@@ -46616,7 +46616,7 @@
     "working_note": "Es ist unklar, ob es sich beim Nachnamen womöglich um den Mädchennamen handelt.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Gisela Walker (dates of birth and death unknown) was the daughter of Alfred and Johanna Fritz and the goddaughter of the theologian Paul Tillich. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2356": {
@@ -46636,7 +46636,7 @@
     "working_note": "Könnte das eine gnd sein für Christian (Geburtsdatum stimmt nicht, hier:1865) -> http://d-nb.info/gnd/133705250",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Christian Herrmann (1890–1953) was a German philosopher and educator with a religious-socialist orientation. He belonged to the inner circle of the theologian Paul Tillich. In 1919, he earned his doctorate with a dissertation on Hegel, supervised by two prominent scholars. Herrmann served as an editor of works by a significant idealist philosopher and contributed to socialist periodicals. In 1926, he traveled through France with Tillich and an art historian—a journey during which Tillich developed a philosophical treatise on the demonic.",
     "occupation_en": null
   },
   "2357": {
@@ -46656,7 +46656,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the wife of Ilya Isidorovich Fondaminsky.",
     "occupation_en": null
   },
   "2358": {
@@ -46676,7 +46676,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "She was the wife of Fedor Stepun and was known as Natascha.",
     "occupation_en": null
   },
   "2359": {
@@ -46756,7 +46756,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a first lieutenant in the Jäger (light infantry) troops during the First World War and a legal trainee (Assessor) in Kiel.",
     "occupation_en": null
   },
   "2364": {
@@ -46776,7 +46776,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a first lieutenant in the field telephone unit during the First World War and worked as an engineer at Krupp. He knew Immanuel Fritz very well.",
     "occupation_en": null
   },
   "2365": {
@@ -46787,7 +46787,7 @@
     "forename": "Karl",
     "from_to": "1852-1940",
     "occupation": "Theologe",
-    "bio": "Er hat sich auf die kirchengeschichtliche Forschung spezialisiert.",
+    "bio": "He was a first lieutenant in the field telephone unit during the First World War and worked as an engineer at Krupp. He knew Immanuel Fritz very well.",
     "legacy_id": "P02370",
     "gnd_url": "https://d-nb.info/gnd/138219885",
     "tillich_id": "tillich_person_id__2365",
@@ -46796,7 +46796,7 @@
     "working_note": null,
     "place_of_birth": "Langenburg",
     "place_of_death": "Tübingen",
-    "bio_en": null,
+    "bio_en": "He was a first lieutenant in the field telephone unit during the First World War and worked as an engineer at Krupp. He knew Immanuel Fritz very well.",
     "occupation_en": null
   },
   "2366": {
@@ -46856,7 +46856,7 @@
     "working_note": null,
     "place_of_birth": "Essen-Steele",
     "place_of_death": "Minden (Westf)",
-    "bio_en": null,
+    "bio_en": "He was friends with Hermann Schafft.",
     "occupation_en": null
   },
   "2369": {
@@ -46876,7 +46876,7 @@
     "working_note": "T06,R06,H07,Mst21",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a member of the Halle chapter of Wingolf.",
     "occupation_en": null
   },
   "2370": {
@@ -46896,7 +46896,7 @@
     "working_note": "Erwähnt in: 1907.11.23. Smissen, G. an Tillich, P.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a member of the Halle chapter of Wingolf.",
     "occupation_en": null
   },
   "2371": {
@@ -46916,7 +46916,7 @@
     "working_note": "Erwähnt in: \"1931.11.07. Keyserling-Bismarck, Gräfin G. an Tillich, P.\"",
     "place_of_birth": "Schönhausen (Elbe)",
     "place_of_death": "Darmstadt",
-    "bio_en": null,
+    "bio_en": "She was the wife of the philosopher Hermann Graf Keyserling.",
     "occupation_en": null
   },
   "2372": {
@@ -46976,7 +46976,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was a classmate of Paul Tillich in the Tertia (third-year class) at the Friedrich-Wilhelms-Gymnasium in Königsberg in der Neumark, and resided in Schönfließ. Later, he became a friend of Senior Physician Theel.",
     "occupation_en": null
   },
   "2375": {
@@ -46996,7 +46996,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a captain and adjutant during the First World War.",
     "occupation_en": null
   },
   "2376": {
@@ -47056,7 +47056,7 @@
     "working_note": "Als Kneipgast erwähnt in: 1907.12.31. Schreiber, H. an Tillich, P.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a member of the Göttingen Wingolf.",
     "occupation_en": null
   },
   "2379": {
@@ -47096,7 +47096,7 @@
     "working_note": "Ch05,H06,Br08, 1937 ausgetreten",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Johannes Kilger (dates of birth and death unknown) was the brother of Albert Kilger. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2381": {
@@ -47116,7 +47116,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Käthe Neumeister (dates of birth and death unknown) was in correspondence with Paul Tillich during the First World War. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2382": {
@@ -47176,7 +47176,7 @@
     "working_note": "Vgl. PT an Hannah Tillich vom 6.12.1932 aus Basel; M. studierte zu jener Zeit Zoologie in Basel, ; https://www.gutenberg-biographics.ub.uni-mainz.de/personen/register/eintrag/hans-mislin.html",
     "place_of_birth": "Basel",
     "place_of_death": "Morcote",
-    "bio_en": null,
+    "bio_en": "In 1935, he took a stand against fascism, and later he became a professor of zoology.",
     "occupation_en": null
   },
   "2385": {
@@ -47276,7 +47276,7 @@
     "working_note": null,
     "place_of_birth": "Antwerpen",
     "place_of_death": "Brüssel",
-    "bio_en": null,
+    "bio_en": "He came from Flanders in the Netherlands.",
     "occupation_en": null
   },
   "2390": {
@@ -47356,7 +47356,7 @@
     "working_note": "https://www.deutsche-biographie.de/pnd118795570.html bzw. https://de.wikipedia.org/wiki/Franz_Schultz_(Philologe)",
     "place_of_birth": "Chełmno",
     "place_of_death": "Frankfurt am Main",
-    "bio_en": null,
+    "bio_en": "Franz Schultz (December 4, 1877 – October 6, 1950) was a German scholar of German language and literature (Germanist). Born in Culm, he earned his doctorate in Berlin in 1900 under the supervision of Erich Schmidt and completed his habilitation in Bonn in 1903. In 1910, he received a professorship in Strasbourg; following the First World War, he taught in Freiburg, and from 1920 onward, in Cologne. In 1921, he assumed the chair of Modern German Literary History in Frankfurt, while also directing the university’s Germanic Seminar. His primary areas of focus were the works of Kleist, the Classical period, and Romanticism. During the National Socialist era, he was a member of the National Socialist Lecturers' League (NS-Dozentenbund) and provided support to the SS. He continued to teach in Frankfurt until his death.",
     "occupation_en": null
   },
   "2394": {
@@ -47376,7 +47376,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the second wife of Franz Schultz.",
     "occupation_en": null
   },
   "2395": {
@@ -47396,7 +47396,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Käthe Riezler (1885–1955), Born Liebermann, was the only daughter of the painter Max Liebermann and his wife, Martha. Born in Berlin, she grew up with a close bond to her parents and was also very close to her cousin, Grete Ring. She married Kurt Riezler. Later in life, she lived and worked in New York.",
     "occupation_en": null
   },
   "2396": {
@@ -47416,7 +47416,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the wife of Adhémar Gelb and the daughter of Max Alvary.",
     "occupation_en": null
   },
   "2397": {
@@ -47436,7 +47436,7 @@
     "working_note": null,
     "place_of_birth": "Buenos Aires",
     "place_of_death": "Dover, Del.",
-    "bio_en": null,
+    "bio_en": "He was the founder/financier of the Institute for Social Research.",
     "occupation_en": null
   },
   "2398": {
@@ -47456,7 +47456,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the sister of Felix Weil.",
     "occupation_en": null
   },
   "2399": {
@@ -47476,7 +47476,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the wife of Felix Weil from 1921 to 1929.",
     "occupation_en": null
   },
   "2400": {
@@ -47496,7 +47496,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Doris Wolfers (dates of birth and death unknown), née Farrer, was the wife of Arnold Wolfers, whom she married in 1918 while he was working as a lawyer in St. Gallen. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2401": {
@@ -47516,7 +47516,7 @@
     "working_note": null,
     "place_of_birth": "Mulki",
     "place_of_death": "München-Obermenzing",
-    "bio_en": null,
+    "bio_en": "Heinrich August Hermelink (December 30, 1877 – February 11, 1958) was a German Protestant church historian. Born in India to missionary parents, he was sent to school in Württemberg at an early age and earned his doctorate in Tübingen in 1902. Following his doctorate and his habilitation in Leipzig in 1906, he taught there, and from 1913, served as an associate professor in Kiel. Severely wounded during the First World War, he later held full professorships in church history—first in Bonn, and from 1918, in Marburg. In 1935, he was forcibly retired due to his opposition to the Nazi regime; he subsequently served as a pastor before moving to Munich in 1938, where he became an honorary professor in 1945.",
     "occupation_en": null
   },
   "2403": {
@@ -47536,7 +47536,7 @@
     "working_note": null,
     "place_of_birth": "Aarhus",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Gerda Schairer (1888–1971), born Schack-Schou, was an author from Aarhus, Denmark. She was first married to the writer Erich von Mendelssohn; following his death, she married Reinhold Schairer. She is the author of the work Der Engel von Sibirien (The Angel of Siberia).",
     "occupation_en": null
   },
   "2404": {
@@ -47556,7 +47556,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the mother of Eckart von Sydow and was born a von Wedel.",
     "occupation_en": null
   },
   "2405": {
@@ -47576,7 +47576,7 @@
     "working_note": null,
     "place_of_birth": "Dobberphul",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Sister of Eckart von Sydow.",
     "occupation_en": null
   },
   "2406": {
@@ -47596,7 +47596,7 @@
     "working_note": null,
     "place_of_birth": "Berlin",
     "place_of_death": "Berlin",
-    "bio_en": null,
+    "bio_en": "Stephan Hirzel (May 25, 1899 – February 18, 1970) was a German architect, graphic artist, and art historian. After studying architecture in Berlin and Dresden, he earned his doctorate in 1924 and worked as an independent architect before turning his focus to arts and crafts and book design in 1933. From 1934, he served as an official in the Reich Press Chamber; later, he worked at the German embassy in occupied France and at the Reich Ministry for Armaments and Munitions. Following the war, he taught in Dresden and, from 1948 to 1965, served as the director of the Werkakademie Kassel. In 1953, he was also a member of the selection committee for the first documenta exhibition.",
     "occupation_en": null
   },
   "2407": {
@@ -47636,7 +47636,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the wife of Adolf Grimme.",
     "occupation_en": null
   },
   "2409": {
@@ -47656,7 +47656,7 @@
     "working_note": "Siehe Vademecum Wingolfiticum 1908 S.153 und https://www.heidermanns.net/gen-pers.php?ID=1864",
     "place_of_birth": "Oberhausen",
     "place_of_death": "Rengsdorf",
-    "bio_en": null,
+    "bio_en": "1900–1905 pastor in Lobberich, 1905–1918 in Brussels, 1920–1930 in Werlau",
     "occupation_en": null
   },
   "2410": {
@@ -47696,7 +47696,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was the son of Ida and Erwin Bienert.",
     "occupation_en": null
   },
   "2412": {
@@ -47796,7 +47796,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was a friend of Paul Tillich and the wife of Jacob Billström.",
     "occupation_en": null
   },
   "2417": {
@@ -47836,7 +47836,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "She was the wife of Ernst von Aster.",
     "occupation_en": null
   },
   "2419": {
@@ -47896,7 +47896,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "Klaipėda",
-    "bio_en": null,
+    "bio_en": "Georg Gerullis (August 13, 1888 – August 9, 1945) was a German scholar of Baltic studies and university professor of Prussian-Lithuanian descent. Following his doctorate in 1912 and his habilitation in 1919, he began teaching as an associate professor in Leipzig in 1922. He joined the NSDAP in 1931 and, after 1933, assumed senior positions within the educational administration. In 1934, he became a professor in Königsberg—serving for a time as rector—before returning to Berlin in 1937. During the Second World War, he served as an officer, primarily within the Abwehr (military intelligence). In 1945, he was sentenced to death for war crimes by the Soviet Military Administration; he was posthumously rehabilitated in 2002.",
     "occupation_en": null
   },
   "2422": {
@@ -47936,7 +47936,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "New York, NY",
-    "bio_en": null,
+    "bio_en": "He was the initiator of the University of Exile at the New School for Social Research.",
     "occupation_en": null
   },
   "2424": {
@@ -47956,7 +47956,7 @@
     "working_note": "Frau von Emil Blum, https://hls-dhs-dss.ch/de/articles/010547/2002-11-05/",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "born Kullmann. Wife of Emil Blum.",
     "occupation_en": null
   },
   "2425": {
@@ -47996,7 +47996,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "Wien",
     "place_of_death": "Stuttgart",
-    "bio_en": null,
+    "bio_en": "He made a significant contribution to the volumes of the Österreichische Kunsttopographie (Austrian Art Topography). For Dagobert Frey, art was primarily a means of creating meaning.",
     "occupation_en": null
   },
   "2427": {
@@ -48016,7 +48016,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "Aachen",
     "place_of_death": "München",
-    "bio_en": null,
+    "bio_en": "He was married to the artist Marta Worringer. The term \"abstraction\"—used to describe the formal language of modern art—can be traced back to him.",
     "occupation_en": null
   },
   "2428": {
@@ -48036,7 +48036,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "Linz",
     "place_of_death": "Wien",
-    "bio_en": null,
+    "bio_en": "He was originally from Linz and worked as a professor in Vienna. He served as General Conservator.",
     "occupation_en": null
   },
   "2429": {
@@ -48056,7 +48056,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "Prag",
     "place_of_death": "Princeton, NJ",
-    "bio_en": null,
+    "bio_en": "He was originally from Prague. In 1907, he studied art history in Munich. In 1938, he emigrated to the USA.",
     "occupation_en": null
   },
   "2430": {
@@ -48076,7 +48076,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "Raudnitz an der Elbe",
     "place_of_death": "Hrušovany nad Jevišovkou",
-    "bio_en": null,
+    "bio_en": "He was originally from Radnitz and studied at the universities of Prague and Vienna. He was the successor to Alois Riegl.",
     "occupation_en": null
   },
   "2431": {
@@ -48096,7 +48096,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "Winterthur",
     "place_of_death": "Zürich",
-    "bio_en": null,
+    "bio_en": "He originally comes from Winterthur and studied philosophy at the University of Basel and the Friedrich-Wilhelms-Universität Berlin, and later also art history in Munich.",
     "occupation_en": null
   },
   "2432": {
@@ -48116,7 +48116,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was active primarily in Frankfurt am Main.",
     "occupation_en": null
   },
   "2433": {
@@ -48136,7 +48136,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "Norderney",
     "place_of_death": "Köln",
-    "bio_en": null,
+    "bio_en": "He was originally from Norderney and studied art history in Berlin, Munich, and at the Technical University of Charlottenburg. He earned his doctorate in 1905 and subsequently taught in Rostock, Berlin, and Frankfurt am Main.",
     "occupation_en": null
   },
   "2434": {
@@ -48156,7 +48156,7 @@
     "working_note": "Erwähnt in: \"1929.09.30. Passarge, W. an Tillich, P\", Recherchiert aus: \"Walter Passarge Die Philosophie der Kunstgeschichte in der Gegenwart(Heft 1)\"",
     "place_of_birth": "Kassel",
     "place_of_death": "Berlin",
-    "bio_en": null,
+    "bio_en": "He was originally from Kassel and studied archaeology and art history at the universities of Göttingen, Berlin, Munich, and Leipzig. He was a member of the Burschenschaft (student fraternity) Alemannia Göttingen 1896. He was an avowed antisemite and nationalist.",
     "occupation_en": null
   },
   "2435": {
@@ -48196,7 +48196,7 @@
     "working_note": null,
     "place_of_birth": "Berlin",
     "place_of_death": "Köln",
-    "bio_en": null,
+    "bio_en": "Hans Ludwig Hamburger (August 5, 1889 – August 14, 1956) was a German mathematician. Of Jewish origin but baptized as a Protestant, he earned his doctorate and completed his habilitation in Berlin in 1914. In 1924, he became a full professor in Cologne, where, in the mid-1920s, he became acquainted with the theologian Paul Tillich—whom he also met in Paris in 1926. In 1935, the National Socialists revoked his teaching license, prompting him to emigrate to Great Britain in 1939. After the war, he taught in Ankara before regaining his chair in Cologne in 1953. He is best known for the \"moment problem\" that bears his name.",
     "occupation_en": null
   },
   "2437": {
@@ -48216,7 +48216,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Martha Jessen (dates of birth and death unknown) was the daughter of a library director at the Berlin Museum of Decorative Arts (Kunstgewerbemuseum). In the mid-1920s, she became friends with Hans Hamburger, whom she married on October 15, 1925. The couple was acquainted with the Tillich family and spent an extended period of time together in Paris in 1926. She was known by the nickname \"Malla.\"",
     "occupation_en": null
   },
   "2438": {
@@ -48236,7 +48236,7 @@
     "working_note": null,
     "place_of_birth": "Anklam",
     "place_of_death": "Potsdam",
-    "bio_en": null,
+    "bio_en": "At the outbreak of the war in 1914, he became commander of the 7th Reserve Division.",
     "occupation_en": null
   },
   "2439": {
@@ -48256,7 +48256,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was a friend of Adorno and an acquaintance of Tillich from the Frankfurt circle. He was associated with the Institute for Social Research. Later, he worked as a filmmaker.",
     "occupation_en": null
   },
   "2440": {
@@ -48296,7 +48296,7 @@
     "working_note": "Erwähnt in:\"1932.10.07. SPD Groß-Frankfurt an Tillich, P\"",
     "place_of_birth": "Königsberg",
     "place_of_death": "Locarno",
-    "bio_en": null,
+    "bio_en": "He was born in Königsberg. He completed an apprenticeship as a printer. From 1920 to 1932, he served as an SPD Minister-President. In 1933, he fled to Switzerland. He passed away in Locarno in 1955.",
     "occupation_en": null
   },
   "2442": {
@@ -48316,7 +48316,7 @@
     "working_note": "Erwähnt (nur Nachname) in: \"1926.11.16. Tillich, P an Verlag Mohr Siebeck\"",
     "place_of_birth": "Wilhelmshaven",
     "place_of_death": "Bremen",
-    "bio_en": null,
+    "bio_en": "She was a German educator and school founder in Bremen.",
     "occupation_en": null
   },
   "2443": {
@@ -48336,7 +48336,7 @@
     "working_note": "Erwähnt in:\"1926.11.16. Tillich, P an Verlag Mohr Siebeck\"; auch in: L10019, Fedor Stepun an P. Tillich von August 1934",
     "place_of_birth": "Rostock",
     "place_of_death": "Dresden",
-    "bio_en": null,
+    "bio_en": "He served as director of the library at the Technical University of Dresden.",
     "occupation_en": null
   },
   "2444": {
@@ -48356,7 +48356,7 @@
     "working_note": "(Unklar)Erwähnt in: \"1926.11.16. Tillich, P an Verlag Mohr Siebeck\"",
     "place_of_birth": "Düsseldorf",
     "place_of_death": "Elberfeld",
-    "bio_en": null,
+    "bio_en": "He was a German Protestant pastor and an opponent of Hitler. As a prisoner, he was interned in the Dachau concentration camp. He also served as a \"Bible teacher.\"",
     "occupation_en": null
   },
   "2445": {
@@ -48416,7 +48416,7 @@
     "working_note": "Erwähnt in: \"1926.11.16. Tillich, P an Verlag Mohr Siebeck\"",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Theodor Thurmann (May 14, 1882 – May 11, 1955) was a German administrative lawyer. Following his studies, he entered the Prussian civil service; his roles included serving as mayor of Zoppot, heading the Reich Office for Footwear Supply during the First World War, and later working as a ministerial counselor (Ministerialrat) in the Reich Ministry of Economics. After the Second World War, he worked for the Berlin municipal administration (Magistrat), and in 1950, he became the trustee of Rheinmetall-Borsig AG, later serving as chairman of its supervisory board.",
     "occupation_en": null
   },
   "2448": {
@@ -48436,7 +48436,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He lived and worked in the USA.",
     "occupation_en": null
   },
   "2449": {
@@ -48496,7 +48496,7 @@
     "working_note": "Vorher als Pange, Johann \"verlesen\"",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "The economist and sociologist Johannes Plenge (1874–1963)—a student of Karl Bücher and a social-democratic antisemite—served as a professor of political science and economics at the University of Münster (Westfälische Wilhelms-Universität). He became known, among other things, as a propagandist for the \"Ideas of 1914.\"",
     "occupation_en": null
   },
   "2452": {
@@ -48556,7 +48556,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He served as a pastor in Bern.",
     "occupation_en": null
   },
   "2455": {
@@ -48636,7 +48636,7 @@
     "working_note": null,
     "place_of_birth": "Biskupiec (Nowe Miasto Lubawskie)",
     "place_of_death": "Marburg",
-    "bio_en": null,
+    "bio_en": "He served as university curator at the University of Marburg from 1920 to 1932 and again from 1933 to 1945.",
     "occupation_en": null
   },
   "2459": {
@@ -48656,7 +48656,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He served as a pastor in Rathenow and Berlin.",
     "occupation_en": null
   },
   "2460": {
@@ -48676,7 +48676,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Was active in Saarbrücken around 1933 and up to 1938, and served from 1938 to 1954 as provost of the German-speaking Evangelical congregation in Jerusalem.",
     "occupation_en": null
   },
   "2461": {
@@ -48776,7 +48776,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "Dresden",
-    "bio_en": null,
+    "bio_en": "He served as rector of the Technical University of Dresden from 1923 to 1925 and again from 1928 to 1929.",
     "occupation_en": null
   },
   "2466": {
@@ -48796,7 +48796,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "She was the wife of Erich Seeberg.",
     "occupation_en": null
   },
   "2467": {
@@ -48836,7 +48836,7 @@
     "working_note": null,
     "place_of_birth": "Greifswald",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He was the son of Erich Seeberg.",
     "occupation_en": null
   },
   "2469": {
@@ -48856,7 +48856,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "From 1926 to 1939, he served as a professor of practical theology in Giessen. He was closely associated with the Berneuchen Movement.",
     "occupation_en": null
   },
   "2470": {
@@ -48896,7 +48896,7 @@
     "working_note": null,
     "place_of_birth": "Straßburg",
     "place_of_death": "Berlin",
-    "bio_en": null,
+    "bio_en": "Wolfgang Windelband (August 31, 1886 – February 3, 1945) was a German historian and university professor. He studied history and philology, earned his doctorate in 1908, and completed his habilitation in Heidelberg in 1914. Following teaching positions in Heidelberg and Darmstadt, he became a professor in Königsberg in 1925; however, he soon moved to the Prussian Ministry of Education while simultaneously teaching in Berlin. In 1935, he was transferred to Halle and, shortly thereafter, dismissed from service. His research focused primarily on modern history, with a particular emphasis on foreign policy and Otto von Bismarck.",
     "occupation_en": null
   },
   "2472": {
@@ -48916,7 +48916,7 @@
     "working_note": "Erwähnt in: \"1932.05.22. Tillich, P an Verlag Mohr Siebeck (2)\"",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Theodor Volckmar-Frentzel (February 23, 1892 – February 26, 1973) was a German bookseller, born Theodor Frentzel in Döbeln. From 1921, he was a partner in several Leipzig-based book trade firms, including F. Volckmar, L. Staackmann, Albert Koch & Co., and Carl Cnobloch. In 1930, he assumed management of the wholesale book distribution company F. Volckmar. At the end of 1932, he was adopted by Hans Volckmar and subsequently used the hyphenated surname. He died in Rimsting.",
     "occupation_en": null
   },
   "2473": {
@@ -49076,7 +49076,7 @@
     "working_note": "Erwähnt in: \"1932.05.13. Volckmar, F an Tillich, P\"",
     "place_of_birth": "Leipzig",
     "place_of_death": "Bonn",
-    "bio_en": null,
+    "bio_en": "The publishing company \"Koehler & Volckmar AG\" has adopted its name.",
     "occupation_en": null
   },
   "2481": {
@@ -49216,7 +49216,7 @@
     "working_note": null,
     "place_of_birth": "Alt Schwerin",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "He served as a professor in Berlin from 1921 to 1935.",
     "occupation_en": null
   },
   "2488": {
@@ -49256,7 +49256,7 @@
     "working_note": "Erwähnt in: \"1932.08.15. Tillich, P an Siebeck, O\"",
     "place_of_birth": "Frankfurt am Main",
     "place_of_death": "Küssnacht am Rigi",
-    "bio_en": null,
+    "bio_en": "In his research, he focused in particular on political sociology.",
     "occupation_en": null
   },
   "2490": {
@@ -49276,7 +49276,7 @@
     "working_note": "Erwähnt in: \"1932.08.15. Tillich, P an Siebeck, O\"",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Maria Sulzbach (dates of birth and death unknown) was the wife of Walter Sulzbach. Paul Tillich had dealings with Maria Sulzbach in connection with publications issued by Oskar Siebeck. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2491": {
@@ -49296,7 +49296,7 @@
     "working_note": "Erwähnt in: \"1924.11.17. Verlag Mohr Siebeck (L. Häberle) an Tillich, P\"; Prokuristin im Verlag J. C. B. Mohr (Paul Siebeck)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Luise Häberle (dates of birth and death unknown) was a German authorized signatory (Prokuristin). From 1924 onwards, she was active in Tübingen, where she was associated with the publishing houses J. C. B. Mohr (Paul Siebeck) and H. Laupp’sche Buchhandlung. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2492": {
@@ -49336,7 +49336,7 @@
     "working_note": "Erwähnt in: 1933.06.20. Rosenbusch, A. an Tillich, P (erster Satz)",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "A student of Tillich in Frankfurt.",
     "occupation_en": null
   },
   "2494": {
@@ -49396,7 +49396,7 @@
     "working_note": null,
     "place_of_birth": "Elten",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "For a time, he served as director of studies at the University of Frankfurt am Main.",
     "occupation_en": null
   },
   "2497": {
@@ -49416,7 +49416,7 @@
     "working_note": null,
     "place_of_birth": "Herford",
     "place_of_death": "Bielefeld",
-    "bio_en": null,
+    "bio_en": "He served as Reich Minister of the Interior from 1928 to 1930 and as Prussian Minister of the Interior from 1930 to 1932, and was a supporter of the Neue Blätter für den Sozialismus.",
     "occupation_en": null
   },
   "2498": {
@@ -49436,7 +49436,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "The Alfred-Protte-Verlag traces its origins back to him.",
     "occupation_en": null
   },
   "2499": {
@@ -49496,7 +49496,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the daughter of Erich Seeberg.",
     "occupation_en": null
   },
   "2502": {
@@ -49516,7 +49516,7 @@
     "working_note": "Spitzname: \"Alla\"",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the mother of Erich Seeberg and the wife of Reinhold Seeberg.",
     "occupation_en": null
   },
   "2503": {
@@ -49556,7 +49556,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "Oxford",
-    "bio_en": null,
+    "bio_en": "She was the wife of Friedrich Gundolf.",
     "occupation_en": null
   },
   "2505": {
@@ -49576,7 +49576,7 @@
     "working_note": null,
     "place_of_birth": "Vögisheim",
     "place_of_death": "Moosburg a.d. Isar",
-    "bio_en": null,
+    "bio_en": "Ernst Krieck (July 6, 1882 – March 19, 1947) was a German educational theorist and cultural policymaker, born in Vögisheim. Until 1924, he worked in the public school system in Baden, acquiring his philosophical knowledge as an autodidact. In 1928, he was appointed to a professorship at the Pedagogical Academy in Frankfurt. Having turned against the Republic, he joined the National Socialist Teachers League in 1932, and in 1933—also in Frankfurt—he became the first National Socialist to serve as rector of a German university. From 1934, he taught in Heidelberg. Conflicts with the regime’s racial theorists led to his withdrawal from his official positions. He died in the Moosburg internment camp.",
     "occupation_en": null
   },
   "2506": {
@@ -49736,7 +49736,7 @@
     "working_note": "Vermutlich Mengelberg, Nora: Erwähnt in: 1926.09 (verm. zw. 10. u. 13.) Tillich, P an Tillich, H // Auch eine Nora Erwähnt in Paul T. and Hannah T. in undatiert 1925 \"[...]lebhaften Unterhaltung mit Nora und Mimi Schü/önemann[...]\" -> Unter Umständen die?",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Nora (dates of birth and death unknown) is presumably the same person as Nora Mengelberg. She is mentioned in a letter from Paul Tillich to Hannah Tillich dated September 1926, and possibly also in an undated letter from 1925, which recounts a lively conversation with Nora and Mimi Schönemann.",
     "occupation_en": null
   },
   "2514": {
@@ -49756,7 +49756,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the daughter of the art collector Felix Bondi and the wife of the painter and communist agent Felix Caden.",
     "occupation_en": null
   },
   "2515": {
@@ -49836,7 +49836,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Gustav Ruprecht (June 19, 1860 – February 13, 1950) was a German publisher. Following training in the book trade in Rostock and Leipzig, he joined his father’s publishing house and became a co-owner in 1887. Later, the management of the company fell primarily to him, as his brother was occupied with duties for various professional associations.",
     "occupation_en": null
   },
   "2519": {
@@ -49856,7 +49856,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was the wife of Albert Erich Brinkmann.",
     "occupation_en": null
   },
   "2520": {
@@ -49936,7 +49936,7 @@
     "working_note": "Sohn des Laertes",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Odysseus is a hero in Greek mythology, the son of Laertes and Anticlea, King of Ithaca, husband of Penelope, and father of Telemachus. During the Trojan War, he gained great renown for his intelligence and cunning—most notably in the construction of the Trojan Horse. Homer’s Odyssey recounts his ten-year, peril-filled journey home. Upon his return, he killed his wife’s suitors and reclaimed his throne. According to the Telegony, he met his end at the hands of his son Telegonus, though other accounts of his death also exist.",
     "occupation_en": null
   },
   "2524": {
@@ -49956,7 +49956,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Nausicaa is a figure from Greek mythology and the daughter of the Phaeacian king Alcinous.",
     "occupation_en": null
   },
   "2528": {
@@ -49976,7 +49976,7 @@
     "working_note": "Erwähnt in: 1905. Tillich, M. an Tillich, P.",
     "place_of_birth": "Geestemünde",
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Auguste Schmidt (dates of birth and death unknown), née Winckler, was the daughter of Johannes Winckler, a railway supplies administrator in Osnabrück. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2530": {
@@ -50036,7 +50036,7 @@
     "working_note": null,
     "place_of_birth": "Holzwickede-Opherdicke",
     "place_of_death": "Heilsbronn",
-    "bio_en": null,
+    "bio_en": "He was chairman of the Christian Social Party from 1912 to 1916.",
     "occupation_en": null
   },
   "2533": {
@@ -50296,7 +50296,7 @@
     "working_note": "Brief am 23.07.1919 von Kapell, Hubert an Tillich, Paul. Katholischer Feldgeistlicher während des 1. Weltkriegs.",
     "place_of_birth": "Bocket b. Heinsberg",
     "place_of_death": "Hiltrup",
-    "bio_en": null,
+    "bio_en": "Hubert Kapell was a Catholic military chaplain during the First World War.",
     "occupation_en": null
   },
   "2548": {
@@ -50556,7 +50556,7 @@
     "working_note": "(Alternativ: Ulli), (vgl. Hannah Tillich, Ich allein bin, 64)",
     "place_of_birth": "",
     "place_of_death": "1930-11-03",
-    "bio_en": null,
+    "bio_en": "Uli Fricke (died November 3, 1930) was an artist and a close confidant of Hannah Tillich. The two maintained a friendship beginning around 1918. During the 1920s, he was also close to the theologian Paul Tillich. Hannah Tillich later paid tribute to Uli Fricke on several occasions in her autobiographical writings. He died by suicide in Venice in 1930.",
     "occupation_en": null
   },
   "2561": {
@@ -50636,7 +50636,7 @@
     "working_note": "Spitzname Elis; Dürfte weiblich sein, vgl. PT an Hannah Tillich vom 7. Januar 1933 (2); vgl. auch PT an HT 8.1.27.; vgl.auch: tillich__1933-01-05-tillich-p-und-elis-an-tillich-h_",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Elisabeth Wilhelmine Emma Kallen (September 14, 1897 – April 25, 1984) was a German painter and illustrator. Following training at institutions for applied arts and the \"Der Sturm\" art school in Berlin, she was active as an artist during the 1920s, exhibiting her work at the Great Berlin Art Exhibitions (Große Berliner Kunstausstellungen) as well as at \"jury-free\" (*juryfrei*) exhibitions. She was a member of the *Novembergruppe* (November Group) and, beginning in 1920, also worked as an illustrator of literary texts. In 1926, the theologian Paul Tillich dedicated his work Die religiöse Lage der Gegenwart (The Religious Situation of the Present) to her. From the 1930s onward, she increasingly focused on religious themes, creating wall hangings for several churches. After 1945, she worked for a religious publishing house. Following her move to the Federal Republic of Germany in 1964, she lived in various locations, most recently in Karlsruhe.",
     "occupation_en": null
   },
   "2565": {
@@ -50736,7 +50736,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Wilhelm Ruprecht (June 6, 1858 – August 7, 1943) was a German publisher based in Göttingen. The son of publisher Carl Johann Friedrich Wilhelm Ruprecht, he joined his father’s publishing house in 1883 and became a partner in 1887, alongside his brother Gustav Ruprecht. Prior to this, following his military service, he had studied national economy in Leipzig and Tübingen and worked at the Max Niemeyer publishing house in Halle. From 1899, he served on the board of the Börsenverein der Deutschen Buchhändler (German Publishers and Booksellers Association), where he held various additional roles; in 1932, he was awarded the association’s Gold Badge of Honor. In 1914, at the age of 56, he served as a soldier in the First World War.",
     "occupation_en": null
   },
   "2570": {
@@ -50756,7 +50756,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "In 1914, he received the degree of Lic. theol. in Gießen and subsequently earned the venia legendi (authorization to teach) in the field of Systematic Theology. From 1922 to 1945, he held a teaching position in Gießen, covering the \"History of Protestant Theology.\" Concurrently, from 1925 to 1953, he taught at the Evangelical Theological Seminary in Herborn, where he also served as a pastor. In 1932, he was appointed as a non-tenured extraordinary professor in Gießen. From 1940 onward, he served as an außerplanmäßiger (supernumerary/extraordinary) professor.",
     "occupation_en": null
   },
   "2571": {
@@ -50856,7 +50856,7 @@
     "working_note": null,
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Paul Cézanne (1839–1906), from Aix-en-Provence, is considered a key figure at the threshold between Impressionism and modern art. After abandoning his law studies, he moved to Paris in 1861, where he worked alongside Pissarro, Monet, Renoir, and other Impressionists at the Académie Suisse and exhibited with them between 1874 and 1877. However, he did not gain wider recognition until 1895, following a solo exhibition in Paris organized by Ambroise Vollard. Through his structurally composed landscapes, still lifes, and figure paintings, he posthumously became known as the \"father of modern art,\" exerting a profound influence on pioneers such as Picasso and Matisse.",
     "occupation_en": null
   },
   "2576": {
@@ -50916,7 +50916,7 @@
     "working_note": null,
     "place_of_birth": "Wecklau (Ostpreußen)",
     "place_of_death": "Berlin",
-    "bio_en": null,
+    "bio_en": "Ordained on February 16, 1896; in 1896, pastor in Wehlau (East Prussia); in 1904, second pastor at the Church of the Savior (Heilandsgemeinde) in the Berlin-Stadt II district; in 1906, chaplain for a religious association in Barmen; in 1912, held the same position in Godesberg.",
     "occupation_en": null
   },
   "2579": {
@@ -50936,7 +50936,7 @@
     "working_note": "",
     "place_of_birth": "Haiger b. Wiesbaden",
     "place_of_death": "Bad Rassau a. d. Lahn",
-    "bio_en": null,
+    "bio_en": "Ordained on July 22, 1883; assistant pastor in Niederhöchst in 1883; pastor in Höchst am Rhein in 1884; pastor in Elberfeld in 1886; court and cathedral preacher in Berlin in 1899; General Superintendent in Wiesbaden from 1914 to 1919.",
     "occupation_en": null
   },
   "2580": {
@@ -50976,7 +50976,7 @@
     "working_note": null,
     "place_of_birth": "Berlin",
     "place_of_death": "Berlin",
-    "bio_en": null,
+    "bio_en": "Ordained on October 16, 1870; 1870 assistant pastor at Luisenstadt in Berlin; 1873 deacon at St. Thomas, Kölln-Stadt district; 1873 senior pastor at St. Stephani in Aschersleben; 1887 pastor at Friedrichswerder in Berlin; 1889 also superintendent in the same location; retired on October 1, 1916.",
     "occupation_en": null
   },
   "2582": {
@@ -51056,7 +51056,7 @@
     "working_note": null,
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was the eldest brother of Hannah Tillich and served as a captain in the Luftwaffe during World War II. Later, however, he died of starvation.",
     "occupation_en": null
   },
   "2586": {
@@ -51076,7 +51076,7 @@
     "working_note": "später Liesel Klahre und in Augsburg ansässig. Schreibweise bei Paul Tillich: Lisel, bei Hannah: Liesel. Vgl. Hannah Tillich, Ich allein bin, 87 bzw. 118f.).",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Liesel Werner, later Klahre (dates of birth and death unknown), was the younger sister of Hannah Tillich. She worked as a nurse. No further biographical information is currently known.",
     "occupation_en": null
   },
   "2587": {
@@ -51096,7 +51096,7 @@
     "working_note": "Alternative Schreibweise (in Briefen PTs): Helmut. Erwähnt wird der Bruder z.B. in Hannah Tillich, Ich allein bin, 53.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was the younger brother of Hannah Tillich.",
     "occupation_en": null
   },
   "2588": {
@@ -51116,7 +51116,7 @@
     "working_note": "Erwähnt z.B. in Hannah Tillich, Ich allein bin, 63.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was the younger brother of Hannah Tillich.",
     "occupation_en": null
   },
   "2589": {
@@ -51176,7 +51176,7 @@
     "working_note": "",
     "place_of_birth": "Herrnhut-Rennersdorf",
     "place_of_death": "Frankfurt am Main",
-    "bio_en": null,
+    "bio_en": "Paul Martin Rade (April 4, 1857 – April 9, 1940) was a Protestant theologian and a left-liberal politician. Following his theological studies and service as a pastor, he worked as a clergyman at St. Paul’s Church (Paulskirche) in Frankfurt from 1892 to 1899, before receiving a professorship in Marburg in 1899. As an academic and publicist, he is considered one of the primary representatives of \"cultural Protestantism\" (Kulturprotestantismus). He founded a theological journal, which began publication in 1888/89 under the title Die Christliche Welt and continued until 1941. Politically, he was active in several left-liberal parties and, from 1919 to 1921, served as a representative for the German Democratic Party (Deutsche Demokratische Partei) in the Prussian Constituent Assembly. He was married to Dora Naumann, the sister of the party leader Friedrich Naumann.",
     "occupation_en": null
   },
   "2594": {
@@ -51196,7 +51196,7 @@
     "working_note": "",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He served as a co-reviewer for the assessment of Paul Tillich’s habilitation thesis.",
     "occupation_en": null
   },
   "2595": {
@@ -51216,7 +51216,7 @@
     "working_note": "",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was the brother of Natalya Nikolayevna Stepun.",
     "occupation_en": null
   },
   "2596": {
@@ -51276,7 +51276,7 @@
     "working_note": "Bei Tillich: Weißenberg",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "In 1933, he fled to Paris with his wife, Charlotte (née Rychwalski), where he adopted the name Alfred Jan Weissenbergh. Following a period of internment in southern France, they managed to escape to Portugal and from there continued on to New York.",
     "occupation_en": null
   },
   "2599": {
@@ -51336,7 +51336,7 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "Veronika Erdmann-Czapski (1894–1984) was a German writer and translator, born in Dorpat. She lived and worked in places including Munich, Jena, and Tegernsee, and was known as a poet. She was the mother of the journalist Susanne von Paczensky.",
     "occupation_en": null
   },
   "2602": {
@@ -51436,7 +51436,7 @@
     "working_note": "Vgl. https://de.wikipedia.org/wiki/Lotte_Hattemer / Vorlage für die gleichnamige Figur in Bruno Goetz' Roman \"Das Göttliche Gesicht\"",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "She was a co-founder of Monte Verità in Ascona.",
     "occupation_en": null
   },
   "2607": {
@@ -51496,7 +51496,7 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": "Zürich",
-    "bio_en": null,
+    "bio_en": "She was the wife of Bruno Goetz.",
     "occupation_en": null
   },
   "2611": {
@@ -51596,7 +51596,7 @@
     "working_note": "",
     "place_of_birth": "Düsseldorf",
     "place_of_death": "Bonn",
-    "bio_en": null,
+    "bio_en": "He studied philosophy at the University of Bonn. From 1920 to 1937, he worked at the University of Leipzig, serving, among other roles, as rector from 1931 to 1932.",
     "occupation_en": null
   },
   "2618": {
@@ -51716,7 +51716,7 @@
     "working_note": "Evtl. Reinhold – vgl. https://des.genealogy.net/search/show/3419068 (obwohl nur \"schwer verwundet\")",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "This concerns a soldier who fell on the Western Front during the First World War. He was buried by Paul Tillich.",
     "occupation_en": null
   },
   "2624": {
@@ -51736,7 +51736,7 @@
     "working_note": "Evtl. Kurt Bartenstein (Reserve-Jäger-Bataillon 4) – vgl. https://des.genealogy.net/search/show/2830045",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "This concerns a soldier who fell on the Western Front during the First World War. He was buried by Paul Tillich.",
     "occupation_en": null
   },
   "2625": {
@@ -51776,7 +51776,7 @@
     "working_note": "Er war dreimal Rektor der Universität Halle: 12. Juli 1922 bis 1923, 28. April bis 12. Juli 1924, 1. April 1925 bis 12. Juli 1925",
     "place_of_birth": "Halle (Saale)",
     "place_of_death": "Halle (Saale)",
-    "bio_en": null,
+    "bio_en": "Ernst von Dobschütz (October 9, 1870 – May 20, 1934) was a German Protestant theologian. He studied in Leipzig, Halle, and Berlin, receiving his doctorate in 1892 and completing his habilitation in 1893. Following professorships in Jena, Strasbourg, and Breslau, he began his tenure in Halle in 1913, where he also served for a time as rector. His primary research interests lay in the theology of early Christianity, patristics, and New Testament textual criticism. Dobschütz published influential scholarly works and was regarded as a significant representative of the historical theology of his era.",
     "occupation_en": null
   },
   "2627": {
@@ -51956,7 +51956,7 @@
     "working_note": "Erwähnt in: Tillich zu Hannah 1929.10.26",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "He was a friend of Paul Tillich.",
     "occupation_en": null
   },
   "2638": {
@@ -52016,7 +52016,7 @@
     "working_note": "",
     "place_of_birth": "",
     "place_of_death": "",
-    "bio_en": null,
+    "bio_en": "From 1928, he served as a professor of church history in Leipzig, and from 1931, in Tübingen.",
     "occupation_en": null
   },
   "2641": {
@@ -52036,7 +52036,7 @@
     "working_note": "\"Seine Dissertation: Die Anfänge von Luthers Christologie nach der ersten Psalmenvorlesung insbesondere in ihren exegetischen und systematischen Zusammenhängen mit Augustin und der Scholastik dargestellt.\"(Erdmann Sturm, Vielleicht kommen wir nun doch zu einer gemeinsamen Arbeit, Berlin 2012 ); GND verweis in Geoname ist Kaliningrad)",
     "place_of_birth": "Beverungen",
     "place_of_death": "Witebsk",
-    "bio_en": null,
+    "bio_en": "He lived and worked in Königsberg.",
     "occupation_en": null
   },
   "2642": {
@@ -54342,7 +54342,7 @@
   "2764": {
     "id": 2764,
     "order": "2759.00000000000000000000",
-    "name": "Sigwart, Christioph von",
+    "name": "Sigwart, Christoph von",
     "surname": "Sigwart",
     "forename": "Christoph von",
     "from_to": "1830-1905",

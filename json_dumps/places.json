@@ -10789,5 +10789,16 @@
     "latitude": null,
     "longitude": null,
     "wikidata_url": ""
+  },
+  "2078": {
+    "id": 2078,
+    "order": "1167.00000000000000000000",
+    "name": "Benin City",
+    "tillich_id": "tillich_place_id__2078",
+    "geonames_url": "https://www.geonames.org/2347283/",
+    "Working Notes": "",
+    "latitude": "6.33815",
+    "longitude": "5.62575",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q320704"
   }
 }

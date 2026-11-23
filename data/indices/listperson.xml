@@ -12864,9 +12864,6 @@
                </person>
                <person xml:id="tillich_person_id__2140">
                   <persName>Pulkowski, Erich</persName>
-                  <birth>
-                     <date>1877</date>
-                  </birth>
                   <occupation>Divisionsadjutant</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/1070597449</idno>
                   <note type="bio">
@@ -14937,7 +14934,7 @@
                   <occupation>Theologe</occupation>
                   <idno type="gnd">https://d-nb.info/gnd/138219885</idno>
                   <note type="bio">
-                     <p>Er hat sich auf die kirchengeschichtliche Forschung spezialisiert.</p>
+                     <p>He was a first lieutenant in the field telephone unit during the First World War and worked as an engineer at Krupp. He knew Immanuel Fritz very well.</p>
                   </note>
                </person>
                <person xml:id="tillich_person_id__2366">
@@ -18692,7 +18689,7 @@
                   </note>
                </person>
                <person xml:id="tillich_person_id__2764">
-                  <persName>Sigwart, Christioph von</persName>
+                  <persName>Sigwart, Christoph von</persName>
                   <birth>
                      <date>1830-03-28</date>
                      <settlement>
