@@ -52356,7 +52356,7 @@
     "working_note": "Oder Otte? Nicht ermittelt bisher. // in: Brief von Paul Tillich an Hannah Tillich vom evtl. 1925 wird Heiner mehrfach erwähnt und von den \"Ottos\" gesprochen",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "Heiner Otto (dates of birth and death unknown)—possibly also spelled \"Otte\"—is mentioned several times in a letter from Paul Tillich to Hannah Tillich, which is presumably dated 1925; the letter refers to \"the Ottos.\" No further biographical information is currently known.",
     "occupation_en": null
   },
   "2658": {
@@ -52476,7 +52476,7 @@
     "working_note": "Wenn Geza Berger diese Person ist https://wageningen1940-1945.nl/namen/burgerslachtoffers/geza-berger/ ist seine Frau Annette Vos, eine Lehrerin aus Groningen.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "It is Geza Berger’s wife.",
     "occupation_en": null
   },
   "2664": {
@@ -52556,7 +52556,7 @@
     "working_note": "bisher nicht ermittelt.",
     "place_of_birth": null,
     "place_of_death": null,
-    "bio_en": null,
+    "bio_en": "It concerns the wife of a certain Mr. Berger.",
     "occupation_en": null
   },
   "2669": {
@@ -90494,6 +90494,26 @@
     "date_of_birth": "",
     "date_of_death": "",
     "working_note": "",
+    "place_of_birth": "",
+    "place_of_death": "",
+    "bio_en": "",
+    "occupation_en": ""
+  },
+  "5986": {
+    "id": 5986,
+    "order": "4614.00000000000000000000",
+    "name": "Hoffer, Margarete",
+    "surname": "Hoffer",
+    "forename": "Margarete",
+    "from_to": "1906-1991",
+    "occupation": "",
+    "bio": "",
+    "legacy_id": "",
+    "gnd_url": "http://d-nb.info/gnd/1012566544",
+    "tillich_id": "tillich_person_id__5986",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "working_note": "Spitzname: Grete (https://www.erinnern.at/bundeslaender/steiermark/artikel/psothume-ehrung-fuer-margarete-hoffer-als-gerechte-unter-den-voelkern)",
     "place_of_birth": "",
     "place_of_death": "",
     "bio_en": "",
