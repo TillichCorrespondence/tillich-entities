@@ -18529,6 +18529,9 @@
                </person>
                <person xml:id="tillich_person_id__2742">
                   <persName>Zitzke, Johannes</persName>
+                  <note type="bio">
+                     <p>Johannes Zitzke war ein Mitschüler Paul Tillichs in der Tertia und Unter-Sekunda am Friedrich-Wilhelms-Gymnasium zu Königsberg in der Neumark. Er war wohnhaft in Wildenbruch.</p>
+                  </note>
                </person>
                <person xml:id="tillich_person_id__2743">
                   <persName>Ecke, Gustav</persName>
@@ -28775,6 +28778,10 @@
                <person xml:id="tillich_person_id__5986">
                   <persName>Hoffer, Margarete</persName>
                   <idno type="gnd">https://d-nb.info/gnd/1012566544</idno>
+               </person>
+               <person xml:id="tillich_person_id__6019">
+                  <persName>Sauer, Hermann</persName>
+                  <occupation>Schriftsteller</occupation>
                </person>
             </listPerson>
          </div>
